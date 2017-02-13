@@ -3,6 +3,7 @@
     package="com.bulbulproject.bulbul">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
@@ -23,7 +24,7 @@
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
         <activity
             android:name=".SpotifyConnectionActivity"
-            android:label="@string/title_activity_spotify_connection"
+            android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

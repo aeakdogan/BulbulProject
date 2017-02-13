@@ -37,6 +37,9 @@ public class MainActivity extends AppCompatActivity {
      * The {@link ViewPager} that will host the section contents.
      */
     private ViewPager mViewPager;
+    private String mOAuthToken;
+    private static final String TEST_SONG_URI = "spotify:user:spotify:playlist:2yLXxKhhziG2xzy7eyD4TD";
+    private StreamFragment mStreamFragment;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,9 +59,11 @@ public class MainActivity extends AppCompatActivity {
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
 
+        //TODO: Put token in persistent storage for later use.
         Intent intent = getIntent();
-        String token = intent.getStringExtra("SPOTIFY_TOKEN");
-        Log.d("token",token);
+        mOAuthToken = intent.getStringExtra("SPOTIFY_TOKEN");
+        mStreamFragment = StreamFragment.newInstance(mOAuthToken, TEST_SONG_URI);
+
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -142,13 +147,16 @@ public class MainActivity extends AppCompatActivity {
         public Fragment getItem(int position) {
             // getItem is called to instantiate the fragment for the given page.
             // Return a PlaceholderFragment (defined as a static inner class below).
+            if(position == 3){
+                return mStreamFragment;
+            }
             return PlaceholderFragment.newInstance(position + 1);
         }
 
         @Override
         public int getCount() {
             // Show 3 total pages.
-            return 3;
+            return 4;
         }
 
         @Override
@@ -160,6 +168,8 @@ public class MainActivity extends AppCompatActivity {
                     return "SECTION 2";
                 case 2:
                     return "SECTION 3";
+                case 3:
+                    return "Stream";
             }
             return null;
         }
