@@ -27,7 +27,9 @@
         <activity
             android:name=".MyProfile"
             android:label="@string/title_activity_my_profile"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Followers" />
+        <activity android:name=".Followings"></activity>
     </application>
 
 </manifest>
