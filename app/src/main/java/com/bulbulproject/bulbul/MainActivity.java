@@ -37,6 +37,9 @@ public class MainActivity extends AppCompatActivity {
     private ViewPager mViewPager;
     private Toolbar toolbar;
     private TabLayout tabLayout;
+    private String mOAuthToken;
+    private static final String TEST_SONG_URI = "spotify:user:spotify:playlist:2yLXxKhhziG2xzy7eyD4TD";
+    private StreamFragment mStreamFragment;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -60,6 +63,11 @@ public class MainActivity extends AppCompatActivity {
         tabLayout.setupWithViewPager(mViewPager);
 
         //Set up floating action button
+        //TODO: Put token in persistent storage for later use.
+        Intent intent = getIntent();
+        mOAuthToken = intent.getStringExtra("SPOTIFY_TOKEN");
+        mStreamFragment = StreamFragment.newInstance(mOAuthToken, TEST_SONG_URI);
+
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
