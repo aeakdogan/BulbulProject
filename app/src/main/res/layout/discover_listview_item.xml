@@ -7,8 +7,8 @@
 
     <ImageView
         android:id="@+id/listview_image"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:contentDescription="@string/app_name"
         android:padding="10dp" />
 
