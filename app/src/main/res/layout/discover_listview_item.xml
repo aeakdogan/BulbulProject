@@ -34,15 +34,14 @@
 
         <RatingBar
             android:id="@+id/simpleRatingBar"
-            style="@style/customRatingBar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="1dp"
             android:background="#FFFAFA"
             android:stepSize="0.1"
             android:numStars="5"
-            android:scaleX=".7"
-            android:scaleY=".7"/>
+            android:scaleX="0.7"
+            android:scaleY="0.7"/>
     </LinearLayout>
 
 </LinearLayout>
