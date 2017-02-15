@@ -1,4 +1,4 @@
-package com.bulbulproject.bulbul;
+package com.bulbulproject.bulbul.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,6 +7,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.bulbulproject.bulbul.R;
 
 /**
  * Created by mesutgurlek on 2/14/17.

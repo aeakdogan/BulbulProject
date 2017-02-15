@@ -1,4 +1,4 @@
-package com.bulbulproject.bulbul;
+package com.bulbulproject.bulbul.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -10,6 +10,7 @@ import android.widget.Button;
 import android.util.Log;
 
 
+import com.bulbulproject.bulbul.R;
 import com.spotify.sdk.android.authentication.AuthenticationClient;
 import com.spotify.sdk.android.authentication.AuthenticationRequest;
 import com.spotify.sdk.android.authentication.AuthenticationResponse;

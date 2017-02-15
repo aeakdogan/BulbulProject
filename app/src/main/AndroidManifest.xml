@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
         <activity
-            android:name=".LoginActivity"
+            android:name=".activity.LoginActivity"
             android:label="@string/title_activity_login">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,22 +23,25 @@
             android:name="com.spotify.sdk.android.authentication.LoginActivity"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
         <activity
-            android:name=".SpotifyConnectionActivity"
+            android:name=".activity.SpotifyConnectionActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".activity.MainActivity"
             android:label="@string/app_name" />
         <activity
-            android:name=".RegisterActivity"
+            android:name=".activity.RegisterActivity"
             android:label="@string/action_register" />
         <activity
-            android:name=".MyProfile"
+            android:name=".activity.MyProfile"
             android:label="@string/title_activity_my_profile"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".Followers" />
-        <activity android:name=".Followings"></activity>
+        <activity android:name=".activity.Followers" />
+        <activity android:name=".activity.Followings"></activity>
+        <activity android:name=".activity.MyAlbumArtistPlaylistActivity"
+            android:label="@string/title_activity_my_profile"
+            android:theme="@style/AppTheme.NoActionBar" ></activity>
     </application>
 
 </manifest>

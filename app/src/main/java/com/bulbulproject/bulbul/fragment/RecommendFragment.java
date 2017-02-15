@@ -1,4 +1,4 @@
-package com.bulbulproject.bulbul;
+package com.bulbulproject.bulbul.fragment;
 
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
@@ -8,7 +8,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.GridView;
-import android.widget.Toast;
+
+import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.adapter.CustomGrid;
 
 /**
  * Created by mesutgurlek on 2/12/17.

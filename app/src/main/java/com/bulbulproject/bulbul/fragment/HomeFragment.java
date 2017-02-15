@@ -1,4 +1,4 @@
-package com.bulbulproject.bulbul;
+package com.bulbulproject.bulbul.fragment;
 
 import android.graphics.Color;
 import android.os.Bundle;
@@ -7,6 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RatingBar;
+
+import com.bulbulproject.bulbul.R;
 
 /**
  * Created by mesutgurlek on 2/12/17.
