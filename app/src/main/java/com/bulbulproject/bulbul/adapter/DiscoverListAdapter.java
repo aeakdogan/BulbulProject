@@ -1,18 +1,17 @@
-package com.bulbulproject.bulbul;
+package com.bulbulproject.bulbul.adapter;
 
 import android.content.Context;
-import android.support.design.widget.Snackbar;
 import android.view.LayoutInflater;
-import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import java.util.ArrayList;
+import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.model.Song;
+
 import java.util.List;
 
 /**
@@ -67,8 +66,8 @@ public class DiscoverListAdapter extends ArrayAdapter<Song> {
         lastPosition = position;
 
         viewHolder.songName.setText(song.getName());
-        viewHolder.songArtist.setText(song.getArtist());
-        viewHolder.albumImage.setImageResource(song.getImageId());
+        viewHolder.songArtist.setText(song.getArtistsString());
+        viewHolder.albumImage.setImageResource(song.getPhotoId());
         viewHolder.ratingBar.setRating(song.getRating());
 
         viewHolder.ratingBar.setOnRatingBarChangeListener(new RatingBar.OnRatingBarChangeListener() {

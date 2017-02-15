@@ -1,4 +1,4 @@
-package com.bulbulproject.bulbul;
+package com.bulbulproject.bulbul.activity;
 
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import com.bulbulproject.bulbul.R;
 
 public class Followings extends AppCompatActivity {
 

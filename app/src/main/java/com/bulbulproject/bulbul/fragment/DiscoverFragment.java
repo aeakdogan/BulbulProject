@@ -1,4 +1,4 @@
-package com.bulbulproject.bulbul;
+package com.bulbulproject.bulbul.fragment;
 
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
@@ -8,7 +8,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
-import android.widget.RatingBar;
+
+import com.bulbulproject.bulbul.adapter.DiscoverListAdapter;
+import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.model.Song;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -25,12 +29,12 @@ public class DiscoverFragment extends Fragment {
     public DiscoverFragment(){
         songList = new ArrayList<Song>();
 
-        songList.add(new Song(1, "Song 1", "Artist 1", R.drawable.cover_picture, 0));
-        songList.add(new Song(2, "Song 2", "Artist 2", R.drawable.cover_picture, 2));
-        songList.add(new Song(3, "Song 3", "Artist 3", R.drawable.cover_picture, 1));
-        songList.add(new Song(4, "Song 4", "Artist 4", R.drawable.cover_picture, 3.4f));
-        songList.add(new Song(5, "Song 5", "Artist 5", R.drawable.cover_picture, 4.6f));
-        songList.add(new Song(6, "Song 6", "Artist 6", R.drawable.cover_picture, 2.7f));
+        songList.add(new Song(1, "Song 1", R.drawable.cover_picture, 0));
+        songList.add(new Song(2, "Song 2", R.drawable.cover_picture, 2));
+        songList.add(new Song(3, "Song 3", R.drawable.cover_picture, 1));
+        songList.add(new Song(4, "Song 4", R.drawable.cover_picture, 3.4f));
+        songList.add(new Song(5, "Song 5", R.drawable.cover_picture, 4.6f));
+        songList.add(new Song(6, "Song 6", R.drawable.cover_picture, 2.7f));
     }
 
     @Override

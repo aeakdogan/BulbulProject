@@ -1,4 +1,4 @@
-package com.bulbulproject.bulbul;
+package com.bulbulproject.bulbul.task;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -7,7 +7,7 @@ import android.util.Log;
 import android.widget.ImageView;
 import java.io.InputStream;
 
-class FetchImageTask extends AsyncTask<String, Void, Bitmap> {
+public class FetchImageTask extends AsyncTask<String, Void, Bitmap> {
 
     private ImageView mImage;
 

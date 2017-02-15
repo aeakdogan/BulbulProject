@@ -11,7 +11,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.bulbulproject.bulbul.MyProfile"
+    tools:context="com.bulbulproject.bulbul.activity.MyProfile"
     tools:showIn="@layout/activity_my_profile">
     <LinearLayout
         android:layout_width="match_parent"
