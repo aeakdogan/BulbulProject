@@ -1,4 +1,4 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,105 +8,128 @@
     tools:context="com.bulbulproject.bulbul.fragment.StreamFragment">
 
 
-    <TextView
-        android:id="@+id/player_list_name"
-        android:text="Test"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="@dimen/player_text_margin"
-        android:gravity="center_horizontal"
-        android:textColor="@android:color/black"
-        android:textSize="16sp" />
-
-    <ImageView
-        android:id="@+id/player_image"
-        android:layout_width="300dp"
-        android:layout_height="300dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_margin="@dimen/player_image_margin"
-        android:gravity="center_horizontal" />
-
-
-    <TextView
-        android:id="@+id/player_artist_name"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/player_text_margin"
-        android:gravity="center_horizontal"
-        android:textColor="@android:color/black" />
-
-
-    <TextView
-        android:id="@+id/player_song_title"
-        android:text="Test"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/player_text_margin"
-        android:gravity="center_horizontal"
-        android:textColor="@android:color/black" />
-
-    <SeekBar
-        android:id="@+id/seekBar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:clickable="false"
-        android:max="1"
-        android:gravity="center_horizontal" />
-
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center_horizontal">
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="9">
 
         <TextView
-            android:id="@+id/player_seekbar_currentPos"
+            android:id="@+id/player_list_name"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="left"
-            android:text=""
-            android:textColor="@color/colorPrimary" />
+            android:layout_height="0dp"
+            android:layout_marginBottom="@dimen/player_text_margin"
+            android:gravity="center_horizontal"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:layout_weight="1"
+            />
 
-        <TextView
-            android:id="@+id/player_seekbar_duration"
+        <ImageView
+            android:id="@+id/player_image"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="right"
-            android:text=""
-            android:textColor="@color/colorPrimary" />
+            android:layout_height="0dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="@dimen/player_image_margin"
+            android:gravity="center_horizontal"
+            android:layout_weight="4"/>
 
-    </RelativeLayout>
-
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
-        android:layout_marginBottom="@dimen/player_action_button_margin">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="vertical"
+            android:layout_weight="4">
 
 
-        <ImageButton
-            android:id="@+id/button_previous"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:adjustViewBounds="false"
-            android:backgroundTint="@color/colorPrimary"
-            android:elevation="0dp"
-            android:src="@android:drawable/ic_media_previous" />
+            <TextView
+                android:id="@+id/player_artist_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/player_text_margin"
+                android:gravity="center_horizontal"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
 
-        <ImageButton
-            android:id="@+id/button_action"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_toRightOf="@id/button_previous"
-            android:backgroundTint="@color/colorPrimary"
-            android:src="@android:drawable/ic_media_play" />
+            <TextView
+                android:id="@+id/player_song_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/player_text_margin"
+                android:gravity="center_horizontal"
+                android:textColor="@android:color/black"
+                android:textSize="18sp" />
 
-        <ImageButton
-            android:id="@+id/button_next"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_toRightOf="@id/button_action"
-            android:backgroundTint="@color/colorPrimary"
-            android:src="@android:drawable/ic_media_next" />
+            <SeekBar
+                android:id="@+id/seekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="false"
+                android:gravity="center_horizontal"
+                android:max="1"
+                android:paddingBottom="16dip"
+                android:paddingTop="16dip" />
 
-    </RelativeLayout>
-</LinearLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal">
+
+                <TextView
+                    android:id="@+id/player_seekbar_currentPos"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text=""
+                    android:textColor="@color/colorPrimary" />
+
+                <TextView
+                    android:id="@+id/player_seekbar_duration"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginEnd="27dp"
+                    android:gravity="right"
+                    android:text=""
+                    android:textColor="@color/colorPrimary" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="bottom|center_horizontal">
+
+
+                <ImageButton
+                    android:id="@+id/button_previous"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="false"
+                    android:backgroundTint="@color/colorPrimary"
+                    android:elevation="0dp"
+                    android:src="@android:drawable/ic_media_previous" />
+
+                <ImageButton
+                    android:id="@+id/button_action"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/button_previous"
+                    android:backgroundTint="@color/colorPrimary"
+                    android:src="@android:drawable/ic_media_play" />
+
+                <ImageButton
+                    android:id="@+id/button_next"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@color/colorPrimary"
+                    android:src="@android:drawable/ic_media_next"
+                    android:layout_toEndOf="@+id/button_action" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>
