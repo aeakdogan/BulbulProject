@@ -1,9 +1,13 @@
 package com.bulbulproject.bulbul.fragment;
 
+import android.content.ComponentName;
 import android.content.Context;
+import android.content.Intent;
+import android.content.ServiceConnection;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
+import android.os.IBinder;
 import android.support.v4.app.Fragment;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -14,6 +18,7 @@ import android.widget.ImageView;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
+import com.bulbulproject.bulbul.service.PlayerService;
 import com.bulbulproject.bulbul.task.FetchImageTask;
 import com.bulbulproject.bulbul.R;
 import com.spotify.sdk.android.player.Config;
@@ -34,19 +39,14 @@ import java.util.TimerTask;
  * A simple {@link Fragment} subclass.
  * Activities that contain this fragment must implement the
  * to handle interaction events.
- * Use the {@link StreamFragment#newInstance} factory method to
- * create an instance of this fragment.
  */
-public class StreamFragment extends Fragment implements ConnectionStateCallback,  Player.NotificationCallback {
+public class StreamFragment extends Fragment {
 
-    private static final String CLIENT_ID = "4e262c64ec3a472e935cb6506dd661bf";
-
-    private static final String ARG_TOKEN = "token";
-    private static final String ARG_URI = "uri";
-
-    private String mToken;
+    private static final String TEST_SONG_URI = "spotify:user:spotify:playlist:2yLXxKhhziG2xzy7eyD4TD";
+    private PlayerService mPlayerService;
+    private Intent mPlayerIntent;
+    private boolean mBound;
     private String mUri;
-
     private SpotifyPlayer mPlayer;
     private ImageButton mActionButton, mPreviousButton, mNextButton;
     private TextView mListName, mSongTitle, mArtistName, mSeekbarCurrentPos, mSeekbarDuration;
@@ -73,57 +73,18 @@ public class StreamFragment extends Fragment implements ConnectionStateCallback,
         // Required empty public constructor
     }
 
-    /**
-     * Use this factory method to create a new instance of
-     * this fragment using the provided parameters.
-     *
-     * @param token OAuth token.
-     * @param uri   Spotify uri.
-     * @return A new instance of fragment StreamFragment.
-     */
-    public static StreamFragment newInstance(String token, String uri) {
-        StreamFragment fragment = new StreamFragment();
-        Bundle args = new Bundle();
-        args.putString(ARG_TOKEN, token);
-        args.putString(ARG_URI, uri);
-        fragment.setArguments(args);
-        return fragment;
-    }
-
-    public static StreamFragment newInstance(String token) {
-        StreamFragment fragment = new StreamFragment();
-        Bundle args = new Bundle();
-        args.putString(ARG_TOKEN, token);
-        args.putString(ARG_URI, "");
-        fragment.setArguments(args);
-        return fragment;
-    }
-
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
-
         super.onCreate(savedInstanceState);
-        if (getArguments() != null) {
-            mToken = getArguments().getString(ARG_TOKEN);
-            mUri = getArguments().getString(ARG_URI);
+        if(mPlayerIntent==null) {
+            mPlayerIntent = new Intent(getActivity().getApplicationContext(), PlayerService.class);
+            mBound = getActivity().getApplicationContext().bindService(mPlayerIntent, mConnection, Context.BIND_AUTO_CREATE);
+            getActivity().getApplicationContext().startService(mPlayerIntent);
+            if(!mBound){
+                Log.d("EROOR","AAAAAAAAAA");
+            }
         }
-
-        Config playerConfig = new Config(getActivity().getApplicationContext(), mToken, CLIENT_ID);
-        mPlayer = Spotify.getPlayer(playerConfig, this, new SpotifyPlayer.InitializationObserver() {
-            @Override
-            public void onInitialized(SpotifyPlayer player) {
-                mPlayer.setConnectivityStatus(null, getNetworkConnectivity(getActivity().getApplicationContext()));
-                mPlayer.addConnectionStateCallback(StreamFragment.this);
-                mPlayer.addNotificationCallback(StreamFragment.this);
-            }
-
-            @Override
-            public void onError(Throwable error) {
-                Log.d("Spotify Player Error", error.getMessage());
-            }
-        });
-
     }
 
     @Override
@@ -143,14 +104,18 @@ public class StreamFragment extends Fragment implements ConnectionStateCallback,
         mSeekBar = (SeekBar) view.findViewById(R.id.seekBar);
 
         mActionButton.setOnClickListener(new View.OnClickListener() {
-
-
             @Override
             public void onClick(View v) {
-                if (mPlayer.getPlaybackState().isPlaying) {
-                    mPlayer.pause(oc);
-                } else {
-                    mPlayer.resume(oc);
+                if(mUri!=null) {
+                    if (mPlayer.getPlaybackState().isPlaying) {
+                        mPlayer.pause(oc);
+                    } else {
+                        mPlayer.resume(oc);
+                    }
+                }
+                else{
+                    mUri = TEST_SONG_URI;
+                    mPlayer.playUri(oc, mUri,0,0);
                 }
             }
         });
@@ -172,8 +137,8 @@ public class StreamFragment extends Fragment implements ConnectionStateCallback,
         mSeekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
             @Override
             public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
-                if(fromUser) {
-                    mPlayer.seekToPosition(null, progress*1000);
+                if (fromUser) {
+                    mPlayer.seekToPosition(null, progress * 1000);
                 }
             }
 
@@ -190,7 +155,7 @@ public class StreamFragment extends Fragment implements ConnectionStateCallback,
         return view;
     }
 
-    private void updateUI() {
+    public void updateUI() {
         Metadata.Track track = null;
         if (mPlayer.getMetadata() != null) {
             track = mPlayer.getMetadata().currentTrack;
@@ -224,19 +189,10 @@ public class StreamFragment extends Fragment implements ConnectionStateCallback,
 
     @Override
     public void onDestroy() {
-        Spotify.destroyPlayer(this);
-        super.onDestroy();
-    }
-
-    private Connectivity getNetworkConnectivity(Context context) {
-        ConnectivityManager connectivityManager;
-        connectivityManager = (ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE);
-        NetworkInfo activeNetwork = connectivityManager.getActiveNetworkInfo();
-        if (activeNetwork != null && activeNetwork.isConnected()) {
-            return Connectivity.fromNetworkType(activeNetwork.getType());
-        } else {
-            return Connectivity.OFFLINE;
+        if(mBound) {
+            getActivity().getApplicationContext().unbindService(mConnection);
         }
+        super.onDestroy();
     }
 
     public static String getDateTime(long milliseconds) {
@@ -245,14 +201,14 @@ public class StreamFragment extends Fragment implements ConnectionStateCallback,
         int remainder = seconds % 3600;
         int mins = remainder / 60;
         int secs = remainder % 60;
-        return (hours >0 ? hours + " : ":"") + mins + " : " + secs;
+        return (hours > 0 ? hours + " : " : "") + mins + " : " + secs;
     }
 
     private void updateSeekbarCurrentPos() {
         long position = mPlayer.getPlaybackState().positionMs;
         long duration = mPlayer.getMetadata().currentTrack.durationMs;
-        mSeekBar.setMax((int)duration/1000);
-        mSeekBar.setProgress((int) position/1000);
+        mSeekBar.setMax((int) duration / 1000);
+        mSeekBar.setProgress((int) position / 1000);
         mSeekbarCurrentPos.setText(getDateTime(position));
     }
 
@@ -261,70 +217,28 @@ public class StreamFragment extends Fragment implements ConnectionStateCallback,
         mSeekbarDuration.setText(getDateTime(duration));
     }
 
-    public void setUri(String uri){
+    public void setUri(String uri) {
         mUri = uri;
-        mPlayer.playUri(oc,mUri,0,0);
+        mPlayer.playUri(oc, mUri, 0, 0);
     }
 
-    @Override
-    public void onLoggedIn() {
-        Log.d("Login","Success");
-        if(!mUri.equals("")) {
-            mPlayer.playUri(oc, mUri, 0, 0);
+    private ServiceConnection mConnection = new ServiceConnection() {
+
+        @Override
+        public void onServiceConnected(ComponentName className,
+                                       IBinder service) {
+            PlayerService.PlayerBinder binder = (PlayerService.PlayerBinder) service;
+            mPlayerService = binder.getService();
+            mPlayer = mPlayerService.getSpotifyPlayer();
+            mBound = true;
+
         }
-    }
 
-    @Override
-    public void onLoggedOut() {
-
-    }
-
-    @Override
-    public void onLoginFailed(Error error) {
-        Log.d("LOGIN",error.toString());
-    }
-
-    @Override
-    public void onTemporaryError() {
-
-    }
-
-    @Override
-    public void onConnectionMessage(String s) {
-
-    }
-
-    @Override
-    public void onPlaybackEvent(PlayerEvent playerEvent) {
-
-        if(playerEvent.ordinal() == PlayerEvent.kSpPlaybackNotifyPlay.ordinal()){
-            mScheduled = true;
-            mTimer = new Timer();
-            mTimer.schedule(new TimerTask() {
-
-                @Override
-                public void run() {
-                    getActivity().runOnUiThread(new Runnable() {
-                        @Override
-                        public void run() {
-                            updateSeekbarCurrentPos();
-                        }
-                    });
-                }
-            },0,1000);
+        @Override
+        public void onServiceDisconnected(ComponentName arg0) {
+            mBound = false;
+            mPlayer = null;
         }
-        else if(playerEvent.ordinal() == PlayerEvent.kSpPlaybackNotifyPause.ordinal()){
-            if(mScheduled) {
-                mTimer.cancel();
-                mTimer.purge();
-                mScheduled = false;
-            }
-        }
-            updateUI();
-    }
+    };
 
-    @Override
-    public void onPlaybackError(Error error) {
-
-    }
 }
