@@ -71,8 +71,7 @@ public class SpotifyConnectionActivity extends AppCompatActivity {
 
                 SharedPreferences.Editor editor = sharedPref.edit();
                 editor.putString("SPOTIFY_TOKEN", response.getAccessToken());
-                editor.apply();
-                Log.d("STOken",response.getAccessToken());
+                editor.commit();
 
                 Intent in = new Intent(this, MainActivity.class);
                 startActivity(in);

@@ -16,7 +16,6 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Menu;
 import android.view.View;
 
@@ -26,7 +25,6 @@ import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.fragment.RecommendFragment;
 import com.bulbulproject.bulbul.fragment.StreamFragment;
 import com.bulbulproject.bulbul.service.PlayerService;
-import com.spotify.sdk.android.player.SpotifyPlayer;
 
 import java.util.ArrayList;
 import java.util.List;

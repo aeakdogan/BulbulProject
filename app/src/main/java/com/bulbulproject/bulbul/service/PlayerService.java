@@ -11,10 +11,6 @@ import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
 
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.fragment.StreamFragment;
-import com.spotify.sdk.android.authentication.AuthenticationClient;
-import com.spotify.sdk.android.authentication.AuthenticationRequest;
-import com.spotify.sdk.android.authentication.AuthenticationResponse;
 import com.spotify.sdk.android.player.Config;
 import com.spotify.sdk.android.player.ConnectionStateCallback;
 import com.spotify.sdk.android.player.Connectivity;
@@ -60,6 +56,7 @@ public class PlayerService extends Service implements ConnectionStateCallback,  
     @Override
     public void onCreate() {
         super.onCreate();
+
         sharedPref = getApplicationContext().getSharedPreferences(getString(R.string.shared_preferences),Context.MODE_PRIVATE);
         mBroadcastManager = LocalBroadcastManager.getInstance(this);
         mToken = sharedPref.getString("SPOTIFY_TOKEN","");
@@ -120,18 +117,30 @@ public class PlayerService extends Service implements ConnectionStateCallback,  
 
     @Override
     public void onPlaybackEvent(PlayerEvent playerEvent) {
-        if(PlayerEvent.kSpPlaybackNotifyPause.compareTo(playerEvent)==0){
+        Log.d("Event",playerEvent.name());
+        if(PlayerEvent.kSpPlaybackNotifyPause.equals(playerEvent)){
             Intent intent = new Intent();
+            intent.setAction("bulbul.player");
+            intent.putExtra("type","pause");
             mBroadcastManager.sendBroadcast(intent);
         }
-        else if(PlayerEvent.kSpPlaybackNotifyPlay.compareTo(playerEvent)==0){
-
+        else if(PlayerEvent.kSpPlaybackNotifyPlay.equals(playerEvent)){
+            Intent intent = new Intent();
+            intent.setAction("bulbul.player");
+            intent.putExtra("type","play");
+            mBroadcastManager.sendBroadcast(intent);
         }
-        else if(PlayerEvent.kSpPlaybackNotifyTrackChanged.compareTo(playerEvent)==0){
-
+        else if(PlayerEvent.kSpPlaybackNotifyTrackChanged.equals(playerEvent)){
+            Intent intent = new Intent();
+            intent.setAction("bulbul.player");
+            intent.putExtra("type","track_changed");
+            mBroadcastManager.sendBroadcast(intent);
         }
-        else if(PlayerEvent.kSpPlaybackNotifyTrackDelivered.compareTo(playerEvent)==0){
-
+        else if(PlayerEvent.kSpPlaybackNotifyTrackDelivered.equals(playerEvent)){
+            Intent intent = new Intent();
+            intent.setAction("bulbul.player");
+            intent.putExtra("type","track_delivered");
+            mBroadcastManager.sendBroadcast(intent);
         }
 
     }

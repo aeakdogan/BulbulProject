@@ -1,14 +1,16 @@
 package com.bulbulproject.bulbul.fragment;
 
+import android.content.BroadcastReceiver;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.content.ServiceConnection;
-import android.net.ConnectivityManager;
-import android.net.NetworkInfo;
 import android.os.Bundle;
+import android.os.Handler;
 import android.os.IBinder;
 import android.support.v4.app.Fragment;
+import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -21,18 +23,11 @@ import android.widget.TextView;
 import com.bulbulproject.bulbul.service.PlayerService;
 import com.bulbulproject.bulbul.task.FetchImageTask;
 import com.bulbulproject.bulbul.R;
-import com.spotify.sdk.android.player.Config;
-import com.spotify.sdk.android.player.ConnectionStateCallback;
-import com.spotify.sdk.android.player.Connectivity;
 import com.spotify.sdk.android.player.Error;
 import com.spotify.sdk.android.player.Metadata;
 import com.spotify.sdk.android.player.Player;
-import com.spotify.sdk.android.player.PlayerEvent;
-import com.spotify.sdk.android.player.Spotify;
 import com.spotify.sdk.android.player.SpotifyPlayer;
 
-import java.util.Timer;
-import java.util.TimerTask;
 
 
 /**
@@ -53,14 +48,29 @@ public class StreamFragment extends Fragment {
     private SeekBar mSeekBar;
     private ImageView mImage;
 
-    private Timer mTimer;
-    private boolean mScheduled = false;
+    private Handler mHandler = new Handler();
 
+
+    private final BroadcastReceiver receiver = new BroadcastReceiver() {
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            String type = intent.getStringExtra("type");
+            if (type.equals("pause")) {
+                updateUI();
+            } else if (type.equals("play")) {
+                updateUI();
+            } else if (type.equals("track_changed")) {
+                updateUI();
+            } else if (type.equals("track_delivered")) {
+                updateUI();
+            }
+        }
+    };
 
     final Player.OperationCallback oc = new Player.OperationCallback() {
         @Override
         public void onSuccess() {
-            updateUI();
+
         }
 
         @Override
@@ -77,13 +87,15 @@ public class StreamFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        if(mPlayerIntent==null) {
+        initPlayer();
+    }
+
+    private void initPlayer(){
+        if (mPlayerIntent == null) {
             mPlayerIntent = new Intent(getActivity().getApplicationContext(), PlayerService.class);
             mBound = getActivity().getApplicationContext().bindService(mPlayerIntent, mConnection, Context.BIND_AUTO_CREATE);
             getActivity().getApplicationContext().startService(mPlayerIntent);
-            if(!mBound){
-                Log.d("EROOR","AAAAAAAAAA");
-            }
+            LocalBroadcastManager.getInstance(getActivity().getApplicationContext()).registerReceiver(receiver, new IntentFilter("bulbul.player"));
         }
     }
 
@@ -106,16 +118,15 @@ public class StreamFragment extends Fragment {
         mActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if(mUri!=null) {
+                if (mUri != null) {
                     if (mPlayer.getPlaybackState().isPlaying) {
-                        mPlayer.pause(oc);
+                        mPlayer.pause(null);
                     } else {
                         mPlayer.resume(oc);
                     }
-                }
-                else{
+                } else {
                     mUri = TEST_SONG_URI;
-                    mPlayer.playUri(oc, mUri,0,0);
+                    mPlayer.playUri(oc, mUri, 0, 0);
                 }
             }
         });
@@ -167,6 +178,7 @@ public class StreamFragment extends Fragment {
             updateSeekbarDuration();
             mListName.setText(track.albumName);
             mSongTitle.setText(track.name);
+            mArtistName.setText(track.artistName);
             if (mPlayer.getPlaybackState().isPlaying) {
                 mActionButton.setImageResource(android.R.drawable.ic_media_pause);
             } else {
@@ -174,6 +186,21 @@ public class StreamFragment extends Fragment {
             }
         }
 
+    }
+
+    /**
+     * Called when the fragment is visible to the user and actively running.
+     * This is generally
+     * tied to {@link Activity#onResume() Activity.onResume} of the containing
+     * Activity's lifecycle.
+     */
+    @Override
+    public void onResume() {
+        super.onResume();
+        if(mPlayer != null) {
+            mPlayer = mPlayerService.getSpotifyPlayer();
+            updateUI();
+        }
     }
 
     @Override
@@ -189,7 +216,7 @@ public class StreamFragment extends Fragment {
 
     @Override
     public void onDestroy() {
-        if(mBound) {
+        if (mBound) {
             getActivity().getApplicationContext().unbindService(mConnection);
         }
         super.onDestroy();
@@ -201,15 +228,14 @@ public class StreamFragment extends Fragment {
         int remainder = seconds % 3600;
         int mins = remainder / 60;
         int secs = remainder % 60;
-        return (hours > 0 ? hours + " : " : "") + mins + " : " + secs;
+        String hoursString = hours <=9 ? "0" + hours : ""+hours;
+        String minsString = mins <=9 ? "0" + mins : ""+mins;
+        String secsString = secs <=9 ? "0" + secs : ""+secs;
+        return (hours > 0 ? hoursString + " : " : "") + minsString + " : " + secsString;
     }
 
     private void updateSeekbarCurrentPos() {
-        long position = mPlayer.getPlaybackState().positionMs;
-        long duration = mPlayer.getMetadata().currentTrack.durationMs;
-        mSeekBar.setMax((int) duration / 1000);
-        mSeekBar.setProgress((int) position / 1000);
-        mSeekbarCurrentPos.setText(getDateTime(position));
+        mHandler.postDelayed(mUpdateTimeTask,200);
     }
 
     private void updateSeekbarDuration() {
@@ -222,6 +248,18 @@ public class StreamFragment extends Fragment {
         mPlayer.playUri(oc, mUri, 0, 0);
     }
 
+    private Runnable mUpdateTimeTask = new Runnable() {
+        @Override
+        public void run() {
+            long position = mPlayer.getPlaybackState().positionMs;
+            long duration = mPlayer.getMetadata().currentTrack.durationMs;
+            mSeekBar.setMax((int) duration / 1000);
+            mSeekBar.setProgress((int) position / 1000);
+            mSeekbarCurrentPos.setText(getDateTime(position));
+            mHandler.postDelayed(this,200);
+        }
+    };
+
     private ServiceConnection mConnection = new ServiceConnection() {
 
         @Override
@@ -231,6 +269,7 @@ public class StreamFragment extends Fragment {
             mPlayerService = binder.getService();
             mPlayer = mPlayerService.getSpotifyPlayer();
             mBound = true;
+
 
         }
 
