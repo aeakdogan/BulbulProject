@@ -1,8 +1,10 @@
 package com.bulbulproject.bulbul.service;
 
 import android.app.Service;
+import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.content.SharedPreferences;
 import android.net.ConnectivityManager;
 import android.os.Binder;
@@ -11,6 +13,7 @@ import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
 
 import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.model.Song;
 import com.spotify.sdk.android.player.Config;
 import com.spotify.sdk.android.player.ConnectionStateCallback;
 import com.spotify.sdk.android.player.Connectivity;
@@ -21,6 +24,8 @@ import com.spotify.sdk.android.player.PlayerEvent;
 import com.spotify.sdk.android.player.Spotify;
 import com.spotify.sdk.android.player.SpotifyPlayer;
 
+import java.util.List;
+
 public class PlayerService extends Service implements ConnectionStateCallback,  Player.NotificationCallback{
 
 
@@ -28,8 +33,8 @@ public class PlayerService extends Service implements ConnectionStateCallback,  
     private static final String REDIRECT_URI = "bulbul-app://callback";
     private static final int REQUEST_CODE = 4567;
 
+    private List<Song> songs;
     private String mToken;
-    private String mUri;
     private LocalBroadcastManager mBroadcastManager;
     private SpotifyPlayer mPlayer;
     private final Binder mBinder = new PlayerBinder();
@@ -37,17 +42,24 @@ public class PlayerService extends Service implements ConnectionStateCallback,  
 
 
 
-    private final Player.OperationCallback oc = new Player.OperationCallback() {
+    private final BroadcastReceiver receiver = new BroadcastReceiver() {
         @Override
-        public void onSuccess() {
-//            updateUI();
-        }
-
-        @Override
-        public void onError(Error error) {
-            Log.d("Error", error.toString());
+        public void onReceive(Context context, Intent intent) {
+            String type = intent.getStringExtra("type");
+            if (type.equals("pause")) {
+                mPlayer.pause(null);
+            } else if (type.equals("resume")) {
+                mPlayer.resume(null);
+            } else if (type.equals("next_song")) {
+                mPlayer.skipToNext(null);
+            } else if (type.equals("prev_song")) {
+                mPlayer.skipToPrevious(null);
+            }else if (type.equals("play_songs")) {
+                mPlayer.playUri(null,"spotify:user:spotify:playlist:2yLXxKhhziG2xzy7eyD4TD",0,0);
+            }
         }
     };
+
 
     public PlayerService(){
         super();
@@ -59,6 +71,7 @@ public class PlayerService extends Service implements ConnectionStateCallback,  
 
         sharedPref = getApplicationContext().getSharedPreferences(getString(R.string.shared_preferences),Context.MODE_PRIVATE);
         mBroadcastManager = LocalBroadcastManager.getInstance(this);
+        mBroadcastManager.registerReceiver(receiver, new IntentFilter("bulbul.player_service"));
         mToken = sharedPref.getString("SPOTIFY_TOKEN","");
         Config playerConfig = new Config(getApplicationContext(), mToken, CLIENT_ID);
 

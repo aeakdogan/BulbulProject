@@ -4,6 +4,7 @@ import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.content.ServiceConnection;
+import android.os.Handler;
 import android.os.IBinder;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
@@ -18,12 +19,12 @@ import android.support.v4.view.ViewPager;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.View;
+import android.widget.Toast;
 
 import com.bulbulproject.bulbul.fragment.DiscoverFragment;
 import com.bulbulproject.bulbul.fragment.HomeFragment;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.fragment.RecommendFragment;
-import com.bulbulproject.bulbul.fragment.StreamFragment;
 import com.bulbulproject.bulbul.service.PlayerService;
 
 import java.util.ArrayList;
@@ -51,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
     private Intent mPlayerIntent;
     private PlayerService mPlayerService;
     private boolean mBound;
+    private boolean doubleBackToExitPressedOnce = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -73,7 +75,8 @@ public class MainActivity extends AppCompatActivity {
         tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
 
-
+        Intent intent = new Intent(getApplicationContext(), PlayerService.class);
+        startService(intent);
         //Set up floating action buttons
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -94,7 +97,6 @@ public class MainActivity extends AppCompatActivity {
         adapter.addFragment(new DiscoverFragment(), "Discover");
         adapter.addFragment(new HomeFragment(), "Home");
         adapter.addFragment(new RecommendFragment(), "Recommend");
-        adapter.addFragment(new StreamFragment(), "StreamFragment");
         viewPager.setAdapter(adapter);
     }
 
@@ -139,6 +141,30 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    @Override
+    public void onBackPressed() {
+        if (doubleBackToExitPressedOnce) {
+            Intent intent = new Intent(Intent.ACTION_MAIN);
+            intent.addCategory(Intent.CATEGORY_HOME);
+            intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+            startActivity(intent);
+            finish();
+            System.exit(0);
+            return;
+        }
+
+        doubleBackToExitPressedOnce = true;
+
+        Toast.makeText(this, "Please click BACK again to exit", Toast.LENGTH_SHORT).show();
+
+        new Handler().postDelayed(new Runnable() {
+
+            @Override
+            public void run() {
+                doubleBackToExitPressedOnce=false;
+            }
+        }, 2000);
+    }
 
 
 }

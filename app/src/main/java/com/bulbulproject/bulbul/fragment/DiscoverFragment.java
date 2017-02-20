@@ -1,14 +1,17 @@
 package com.bulbulproject.bulbul.fragment;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
+import android.support.v4.content.LocalBroadcastManager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
+import com.bulbulproject.bulbul.activity.StreamActivity;
 import com.bulbulproject.bulbul.adapter.DiscoverListAdapter;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.model.Song;
@@ -25,8 +28,9 @@ public class DiscoverFragment extends Fragment {
 
     // Array of strings for ListView Title
     List<Song> songList;
+    private LocalBroadcastManager mBroadcastManager;
 
-    public DiscoverFragment(){
+    public DiscoverFragment() {
         songList = new ArrayList<Song>();
 
         songList.add(new Song(1, "Song 1", R.drawable.cover_picture, 0));
@@ -40,6 +44,7 @@ public class DiscoverFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        mBroadcastManager = LocalBroadcastManager.getInstance(getActivity().getApplicationContext());
     }
 
     @Override
@@ -55,7 +60,10 @@ public class DiscoverFragment extends Fragment {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
                 Song song = songList.get(position);
-
+                Intent intent = new Intent(getActivity().getApplicationContext(), StreamActivity.class);
+                //TODO: Pass song data instead of just spotify uri
+                intent.putExtra("song_uri", "spotify:user:spotify:playlist:2yLXxKhhziG2xzy7eyD4TD");
+                startActivity(intent);
                 Snackbar.make(view, "Song is " + song.getName() + " and " + song.getRating() + " stars ", Snackbar.LENGTH_LONG)
                         .setAction("No action", null).show();
             }

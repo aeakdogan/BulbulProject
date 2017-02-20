@@ -27,7 +27,7 @@ public class SpotifyConnectionActivity extends AppCompatActivity {
     // Request code that will be used to verify if the result comes from correct activity
     private static final int REQUEST_CODE = 4567;
     private SharedPreferences sharedPref;
-
+    private Button spotifyConnectButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,7 +38,7 @@ public class SpotifyConnectionActivity extends AppCompatActivity {
 
         sharedPref = getApplicationContext().getSharedPreferences(getString(R.string.shared_preferences),Context.MODE_PRIVATE);
 
-        Button spotifyConnectButton = (Button) findViewById(R.id.buttonSpotifyConnect);
+        spotifyConnectButton = (Button) findViewById(R.id.buttonSpotifyConnect);
         spotifyConnectButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -48,6 +48,7 @@ public class SpotifyConnectionActivity extends AppCompatActivity {
 
         String spotifyToken = sharedPref.getString("SPOTIFY_TOKEN", "");
         if(spotifyToken.compareTo("") != 0){
+            spotifyConnectButton.setVisibility(View.INVISIBLE);
             authenticate();
         }
     }
@@ -77,7 +78,7 @@ public class SpotifyConnectionActivity extends AppCompatActivity {
                 startActivity(in);
             }
             else {
-                Log.d("Error", "Login error");
+                spotifyConnectButton.setVisibility(View.INVISIBLE);
             }
         }
     }
