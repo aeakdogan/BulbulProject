@@ -52,7 +52,7 @@ public class AlbumsRVAdapter extends RecyclerView.Adapter<AlbumsRVAdapter.MyCard
     @Override
     public AlbumsRVAdapter.MyCardViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         context = parent.getContext();
-        CardView cv = (CardView) LayoutInflater.from(context)
+        CardView cv = (CardView) LayoutInflater.from(parent.getContext())
                                     .inflate(R.layout.cv_album, parent, false);
         MyCardViewHolder cvh = new MyCardViewHolder(cv);
         return cvh;
@@ -71,7 +71,8 @@ public class AlbumsRVAdapter extends RecyclerView.Adapter<AlbumsRVAdapter.MyCard
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(context.getApplicationContext(), AlbumActivity.class);
-                //TODO: Pass album datafoo@e
+                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                //TODO: Pass album data
                 context.getApplicationContext().startActivity(intent);
             }
         });
