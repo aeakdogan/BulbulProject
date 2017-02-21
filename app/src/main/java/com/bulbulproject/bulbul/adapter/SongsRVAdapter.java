@@ -9,38 +9,36 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.activity.AlbumActivity;
+import com.bulbulproject.bulbul.activity.StreamActivity;
 import com.bulbulproject.bulbul.model.Album;
+import com.bulbulproject.bulbul.model.Song;
 
 import java.util.List;
 
-/**
- * Created by burak on 10.02.2017.
- */
-public class AlbumsRVAdapter extends RecyclerView.Adapter<AlbumsRVAdapter.MyCardViewHolder>{
-    private List<Album> albums;
+public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardViewHolder>{
+    private List<Song> songs;
     private Context context;
 
-    public AlbumsRVAdapter(List<Album> albums, Context context){
-        this.albums = albums;
+    public SongsRVAdapter(List<Song> songs, Context context){
+        this.songs = songs;
         this.context = context;
     }
 
     public static class MyCardViewHolder extends RecyclerView.ViewHolder {
         public CardView mCardView;
-        public TextView albumName;
-        public TextView albumMeta;
-        public ImageView albumPhoto;
+        public TextView songTitle;
+        public TextView songArtists;
+        public ImageView songPhoto;
 
         public MyCardViewHolder(View itemView) {
             super(itemView);
             mCardView = (CardView) itemView.findViewById(R.id.cv);
-            albumName = (TextView) mCardView.findViewById(R.id.album_name);
-            albumMeta = (TextView) mCardView.findViewById(R.id.album_meta);
-            albumPhoto = (ImageView) mCardView.findViewById(R.id.album_photo);
+            songTitle = (TextView) mCardView.findViewById(R.id.song_title);
+            songArtists = (TextView) mCardView.findViewById(R.id.song_artists);
+            songPhoto = (ImageView) mCardView.findViewById(R.id.song_photo);
         }
     }
 
@@ -50,28 +48,25 @@ public class AlbumsRVAdapter extends RecyclerView.Adapter<AlbumsRVAdapter.MyCard
     }
 
     @Override
-    public AlbumsRVAdapter.MyCardViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+    public SongsRVAdapter.MyCardViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         context = parent.getContext();
         CardView cv = (CardView) LayoutInflater.from(context)
-                                    .inflate(R.layout.cv_album, parent, false);
+                                    .inflate(R.layout.cv_song, parent, false);
         MyCardViewHolder cvh = new MyCardViewHolder(cv);
         return cvh;
     }
 
     @Override
-    public void onBindViewHolder(AlbumsRVAdapter.MyCardViewHolder holder, final int position) {
-        final Album tmpAlbum = albums.get(position);
-        holder.albumName.setText(tmpAlbum.getName());
-        String albumMeta = tmpAlbum.getArtistsString() + "\n"
-                            + tmpAlbum.getYear() + ", " +
-                            tmpAlbum.getSongs().size() + " songs" ;
-        holder.albumMeta.setText(albumMeta);
-        holder.albumPhoto.setImageResource(tmpAlbum.getPhotoId());;
+    public void onBindViewHolder(SongsRVAdapter.MyCardViewHolder holder, final int position) {
+        final Song tmpSong = songs.get(position);
+        holder.songTitle.setText(tmpSong.getName());
+        holder.songArtists.setText(tmpSong.getArtistsString());
+        holder.songPhoto.setImageResource(tmpSong.getPhotoId());
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(context.getApplicationContext(), AlbumActivity.class);
-                //TODO: Pass album datafoo@e
+                Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
+                //TODO: Pass song data
                 context.getApplicationContext().startActivity(intent);
             }
         });
@@ -80,6 +75,6 @@ public class AlbumsRVAdapter extends RecyclerView.Adapter<AlbumsRVAdapter.MyCard
 
     @Override
     public int getItemCount() {
-        return albums.size();
+        return songs.size();
     }
 }
