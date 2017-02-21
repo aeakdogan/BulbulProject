@@ -1,6 +1,7 @@
 package com.bulbulproject.bulbul.adapter;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -11,6 +12,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.activity.ArtistActivity;
 import com.bulbulproject.bulbul.model.Artist;
 
 import java.util.List;
@@ -49,6 +51,7 @@ public class ArtistsRVAdapter extends RecyclerView.Adapter<ArtistsRVAdapter.MyCa
 
     @Override
     public ArtistsRVAdapter.MyCardViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+        context = parent.getContext();
         CardView cv = (CardView) LayoutInflater.from(parent.getContext())
                                     .inflate(R.layout.cv_artist, parent, false);
 
@@ -64,9 +67,10 @@ public class ArtistsRVAdapter extends RecyclerView.Adapter<ArtistsRVAdapter.MyCa
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(context, "You clicked on " +
-                                artists.get(position).getName(),
-                                    Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(context.getApplicationContext(), ArtistActivity.class);
+                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                //TODO: Pass artist data
+                context.getApplicationContext().startActivity(intent);
             }
         });
     }

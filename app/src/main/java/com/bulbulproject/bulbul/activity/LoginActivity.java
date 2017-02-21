@@ -223,7 +223,7 @@ public class LoginActivity extends AppCompatActivity {
 
             if (result == 1) {
                 //finish();
-                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                Intent intent = new Intent(getApplicationContext(), SpotifyConnectionActivity.class);
                 startActivity(intent);
             } else if (result == 0){
                 mPasswordView.setError(getString(R.string.error_incorrect_password));

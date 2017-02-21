@@ -1,6 +1,11 @@
 package com.bulbulproject.bulbul.activity;
 
+import android.content.ComponentName;
+import android.content.Context;
 import android.content.Intent;
+import android.content.ServiceConnection;
+import android.os.Handler;
+import android.os.IBinder;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.ActionBar;
@@ -14,12 +19,13 @@ import android.support.v4.view.ViewPager;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.View;
+import android.widget.Toast;
 
 import com.bulbulproject.bulbul.fragment.DiscoverFragment;
 import com.bulbulproject.bulbul.fragment.HomeFragment;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.fragment.RecommendFragment;
-import com.bulbulproject.bulbul.fragment.StreamFragment;
+import com.bulbulproject.bulbul.service.PlayerService;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -42,9 +48,11 @@ public class MainActivity extends AppCompatActivity {
     private ViewPager mViewPager;
     private Toolbar toolbar;
     private TabLayout tabLayout;
-    private String mOAuthToken;
-    private static final String TEST_SONG_URI = "spotify:user:spotify:playlist:2yLXxKhhziG2xzy7eyD4TD";
-    private StreamFragment mStreamFragment;
+
+    private Intent mPlayerIntent;
+    private PlayerService mPlayerService;
+    private boolean mBound;
+    private boolean doubleBackToExitPressedOnce = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -67,12 +75,9 @@ public class MainActivity extends AppCompatActivity {
         tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
 
-        //Set up floating action button
-        //TODO: Put token in persistent storage for later use.
-        Intent intent = getIntent();
-        mOAuthToken = intent.getStringExtra("SPOTIFY_TOKEN");
-        mStreamFragment = StreamFragment.newInstance(mOAuthToken, TEST_SONG_URI);
-
+        Intent intent = new Intent(getApplicationContext(), PlayerService.class);
+        startService(intent);
+        //Set up floating action buttons
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -85,12 +90,13 @@ public class MainActivity extends AppCompatActivity {
         setupViewPager(mViewPager);
     }
 
+
+
     private void setupViewPager(ViewPager viewPager) {
         SectionsPagerAdapter adapter = new SectionsPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new DiscoverFragment(), "Discover");
         adapter.addFragment(new HomeFragment(), "Home");
         adapter.addFragment(new RecommendFragment(), "Recommend");
-        adapter.addFragment(mStreamFragment, "StreamFragment");
         viewPager.setAdapter(adapter);
     }
 
@@ -134,4 +140,31 @@ public class MainActivity extends AppCompatActivity {
             return mFragmentTitleList.get(position);
         }
     }
+
+    @Override
+    public void onBackPressed() {
+        if (doubleBackToExitPressedOnce) {
+            Intent intent = new Intent(Intent.ACTION_MAIN);
+            intent.addCategory(Intent.CATEGORY_HOME);
+            intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+            startActivity(intent);
+            finish();
+            System.exit(0);
+            return;
+        }
+
+        doubleBackToExitPressedOnce = true;
+
+        Toast.makeText(this, "Please click BACK again to exit", Toast.LENGTH_SHORT).show();
+
+        new Handler().postDelayed(new Runnable() {
+
+            @Override
+            public void run() {
+                doubleBackToExitPressedOnce=false;
+            }
+        }, 2000);
+    }
+
+
 }

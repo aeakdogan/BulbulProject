@@ -1,7 +1,9 @@
 package com.bulbulproject.bulbul.activity;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -11,6 +13,7 @@ import android.util.Log;
 
 
 import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.service.PlayerService;
 import com.spotify.sdk.android.authentication.AuthenticationClient;
 import com.spotify.sdk.android.authentication.AuthenticationRequest;
 import com.spotify.sdk.android.authentication.AuthenticationResponse;
@@ -23,6 +26,8 @@ public class SpotifyConnectionActivity extends AppCompatActivity {
 
     // Request code that will be used to verify if the result comes from correct activity
     private static final int REQUEST_CODE = 4567;
+    private SharedPreferences sharedPref;
+    private Button spotifyConnectButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,20 +36,29 @@ public class SpotifyConnectionActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        Button spotifyConnectButton = (Button) findViewById(R.id.buttonSpotifyConnect);
-        final Activity _this = this;
+        sharedPref = getApplicationContext().getSharedPreferences(getString(R.string.shared_preferences),Context.MODE_PRIVATE);
 
+        spotifyConnectButton = (Button) findViewById(R.id.buttonSpotifyConnect);
         spotifyConnectButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                AuthenticationRequest.Builder builder = new AuthenticationRequest.Builder(CLIENT_ID,
-                        AuthenticationResponse.Type.TOKEN,
-                        REDIRECT_URI);
-                builder.setScopes(new String[]{"user-read-private", "streaming"});
-                AuthenticationRequest request = builder.build();
-                AuthenticationClient.openLoginActivity(_this, REQUEST_CODE, request);
+                authenticate();
             }
         });
+
+        String spotifyToken = sharedPref.getString("SPOTIFY_TOKEN", "");
+        if(spotifyToken.compareTo("") != 0){
+            spotifyConnectButton.setVisibility(View.INVISIBLE);
+            authenticate();
+        }
+    }
+    private void authenticate(){
+        AuthenticationRequest.Builder builder = new AuthenticationRequest.Builder(CLIENT_ID,
+                AuthenticationResponse.Type.TOKEN,
+                REDIRECT_URI);
+        builder.setScopes(new String[]{"user-read-private", "streaming"});
+        AuthenticationRequest request = builder.build();
+        AuthenticationClient.openLoginActivity(this, REQUEST_CODE, request);
     }
 
     @Override
@@ -55,12 +69,16 @@ public class SpotifyConnectionActivity extends AppCompatActivity {
         if (requestCode == REQUEST_CODE) {
             AuthenticationResponse response = AuthenticationClient.getResponse(resultCode, intent);
             if (response.getType() == AuthenticationResponse.Type.TOKEN) {
+
+                SharedPreferences.Editor editor = sharedPref.edit();
+                editor.putString("SPOTIFY_TOKEN", response.getAccessToken());
+                editor.commit();
+
                 Intent in = new Intent(this, MainActivity.class);
-                in.putExtra("SPOTIFY_TOKEN", response.getAccessToken());
                 startActivity(in);
             }
             else {
-                Log.d("Error", "Login error");
+                spotifyConnectButton.setVisibility(View.INVISIBLE);
             }
         }
     }

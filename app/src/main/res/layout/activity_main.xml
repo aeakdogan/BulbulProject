@@ -29,7 +29,7 @@
             android:id="@+id/tabs"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:tabGravity="fill"/>
+            app:tabGravity="fill" />
 
     </android.support.design.widget.AppBarLayout>
 
@@ -37,9 +37,18 @@
         android:id="@+id/container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:paddingBottom="50dp"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
-        app:layout_scrollFlags="scroll|enterAlways|enterAlwaysCollapsed"/>
+        app:layout_scrollFlags="scroll|enterAlways|enterAlwaysCollapsed" />
 
+    <fragment
+        android:id="@+id/fragment"
+        android:name="com.bulbulproject.bulbul.fragment.StreamFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        tools:layout="@layout/fragment_stream" />
+s
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
         android:layout_width="wrap_content"
@@ -47,5 +56,6 @@
         android:layout_gravity="end|bottom"
         android:layout_margin="@dimen/fab_margin"
         app:srcCompat="@drawable/icon_profile" />
+
 
 </android.support.design.widget.CoordinatorLayout>

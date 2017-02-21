@@ -1,6 +1,7 @@
 package com.bulbulproject.bulbul.adapter;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -11,6 +12,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.activity.AlbumActivity;
 import com.bulbulproject.bulbul.model.Album;
 
 import java.util.List;
@@ -49,9 +51,9 @@ public class AlbumsRVAdapter extends RecyclerView.Adapter<AlbumsRVAdapter.MyCard
 
     @Override
     public AlbumsRVAdapter.MyCardViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+        context = parent.getContext();
         CardView cv = (CardView) LayoutInflater.from(parent.getContext())
                                     .inflate(R.layout.cv_album, parent, false);
-
         MyCardViewHolder cvh = new MyCardViewHolder(cv);
         return cvh;
     }
@@ -68,9 +70,10 @@ public class AlbumsRVAdapter extends RecyclerView.Adapter<AlbumsRVAdapter.MyCard
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(context, "You clicked on " +
-                                tmpAlbum.getName(),
-                                    Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(context.getApplicationContext(), AlbumActivity.class);
+                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                //TODO: Pass album data
+                context.getApplicationContext().startActivity(intent);
             }
         });
     }

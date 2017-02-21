@@ -1,6 +1,7 @@
 package com.bulbulproject.bulbul.adapter;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -11,6 +12,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.activity.PlaylistActivity;
 import com.bulbulproject.bulbul.model.Playlist;
 
 import java.util.List;
@@ -64,9 +66,10 @@ public class PlaylistsRVAdapter extends RecyclerView.Adapter<PlaylistsRVAdapter.
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(context, "You clicked on " +
-                                playlists.get(position).getName(),
-                                    Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(context.getApplicationContext(), PlaylistActivity.class);
+                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                //TODO: Pass playlist data
+                context.getApplicationContext().startActivity(intent);
             }
         });
     }
