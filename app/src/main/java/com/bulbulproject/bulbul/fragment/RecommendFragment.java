@@ -1,5 +1,6 @@
 package com.bulbulproject.bulbul.fragment;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
@@ -82,6 +83,9 @@ public class RecommendFragment extends Fragment{
                                     int position, long id) {
                 Snackbar.make(view, "You Clicked at " + elements[+ position], Snackbar.LENGTH_LONG)
                         .setAction("No action", null).show();
+                Intent intent = new Intent(getContext(), com.bulbulproject.bulbul.activity.MoodsGenresActivity.class);
+                intent.addFlags( Intent.FLAG_ACTIVITY_NEW_TASK);
+                getContext().getApplicationContext().startActivity(intent);
             }
         });
 
