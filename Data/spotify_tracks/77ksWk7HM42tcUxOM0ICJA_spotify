@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0aeLcja6hKzb7Uz2ou7ulP",
+      "id" : "0aeLcja6hKzb7Uz2ou7ulP",
+      "name" : "Noah And The Whale",
+      "type" : "artist",
+      "uri" : "spotify:artist:0aeLcja6hKzb7Uz2ou7ulP"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2BAYuyT9kP620VgwpowIQK",
+    "id" : "2BAYuyT9kP620VgwpowIQK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/59734e0ab219c8b6f8c2b071a9ac4272d72fac4c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1be2f11fcf6f65a9491fd1deb1bfa36e0f349a49",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f2dc0c478a946e42fe7095001d27629af537af49",
+      "width" : 64
+    } ],
+    "name" : "Last Night On Earth",
+    "type" : "album",
+    "uri" : "spotify:album:2BAYuyT9kP620VgwpowIQK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0aeLcja6hKzb7Uz2ou7ulP",
+    "id" : "0aeLcja6hKzb7Uz2ou7ulP",
+    "name" : "Noah And The Whale",
+    "type" : "artist",
+    "uri" : "spotify:artist:0aeLcja6hKzb7Uz2ou7ulP"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 216520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71029566"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/77ksWk7HM42tcUxOM0ICJA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/77ksWk7HM42tcUxOM0ICJA",
+  "id" : "77ksWk7HM42tcUxOM0ICJA",
+  "name" : "Life Is Life",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9fa7a4f7f9eb6ce2ac396425ceeb5aa81f9a1da9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:77ksWk7HM42tcUxOM0ICJA"
+}

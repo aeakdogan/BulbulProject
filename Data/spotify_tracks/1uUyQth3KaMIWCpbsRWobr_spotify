@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/226LHFsSMjsZ49NGNQPuWw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/226LHFsSMjsZ49NGNQPuWw",
+    "id" : "226LHFsSMjsZ49NGNQPuWw",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/ad635f3adb3bc4b0670ab82cd807d36adb6e18d3",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/89b9fb6d90314cfc8c6d8c04df07eb2e6e3a5232",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6df8fa2f094e157f7bf9bc1144e1479ec5e00cc5",
+      "width" : 64
+    } ],
+    "name" : "Ibiza Lounge",
+    "type" : "album",
+    "uri" : "spotify:album:226LHFsSMjsZ49NGNQPuWw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0fvpn2k7FymYHxEx5U5FpP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0fvpn2k7FymYHxEx5U5FpP",
+    "id" : "0fvpn2k7FymYHxEx5U5FpP",
+    "name" : "Gare Du Nord",
+    "type" : "artist",
+    "uri" : "spotify:artist:0fvpn2k7FymYHxEx5U5FpP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 230176,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLS241102866"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1uUyQth3KaMIWCpbsRWobr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1uUyQth3KaMIWCpbsRWobr",
+  "id" : "1uUyQth3KaMIWCpbsRWobr",
+  "name" : "Pablo's Blues",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/757a6548bcf05bc96694b76f5126797c10f06efa?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1uUyQth3KaMIWCpbsRWobr"
+}

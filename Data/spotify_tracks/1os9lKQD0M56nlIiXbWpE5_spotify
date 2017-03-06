@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5gznATMVO85ZcLTkE9ULU7",
+      "id" : "5gznATMVO85ZcLTkE9ULU7",
+      "name" : "Lenny Kravitz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5gznATMVO85ZcLTkE9ULU7"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0WGH7xwdRoCCNLJEyQQ4Z0",
+    "id" : "0WGH7xwdRoCCNLJEyQQ4Z0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3cd876b02618bd6e903a47f210f88f5ae2ca2219",
+      "width" : 638
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ce51497bf69538f16b876e0d3251cc9b4c6570a8",
+      "width" : 299
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/55da545e4a0611fce8507e60fc064b7ff7b2148a",
+      "width" : 64
+    } ],
+    "name" : "Circus",
+    "type" : "album",
+    "uri" : "spotify:album:0WGH7xwdRoCCNLJEyQQ4Z0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5gznATMVO85ZcLTkE9ULU7",
+    "id" : "5gznATMVO85ZcLTkE9ULU7",
+    "name" : "Lenny Kravitz",
+    "type" : "artist",
+    "uri" : "spotify:artist:5gznATMVO85ZcLTkE9ULU7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 203933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI29500061"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1os9lKQD0M56nlIiXbWpE5",
+  "id" : "1os9lKQD0M56nlIiXbWpE5",
+  "name" : "Rock And Roll Is Dead",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/db52bfed85c4407b146d9ff44d9a6c36099c3a22?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1os9lKQD0M56nlIiXbWpE5"
+}

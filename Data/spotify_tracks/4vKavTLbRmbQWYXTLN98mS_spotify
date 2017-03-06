@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22ojy4H4ZVpowC4lRRC8In",
+      "id" : "22ojy4H4ZVpowC4lRRC8In",
+      "name" : "Destroyer",
+      "type" : "artist",
+      "uri" : "spotify:artist:22ojy4H4ZVpowC4lRRC8In"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4WtvNVR7QeHUZGtHth9zND",
+    "id" : "4WtvNVR7QeHUZGtHth9zND",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6ff6d36b26e27c4e6058e916ca24b2b4d814dc54",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/683f553973eef4406cd657a955b20c6e5a1ae704",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2bdc1bd167c0be1099d71ca488157b5bbff1e588",
+      "width" : 64
+    } ],
+    "name" : "Kaputt",
+    "type" : "album",
+    "uri" : "spotify:album:4WtvNVR7QeHUZGtHth9zND"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+    },
+    "href" : "https://api.spotify.com/v1/artists/22ojy4H4ZVpowC4lRRC8In",
+    "id" : "22ojy4H4ZVpowC4lRRC8In",
+    "name" : "Destroyer",
+    "type" : "artist",
+    "uri" : "spotify:artist:22ojy4H4ZVpowC4lRRC8In"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 677760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG1136909"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4vKavTLbRmbQWYXTLN98mS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4vKavTLbRmbQWYXTLN98mS",
+  "id" : "4vKavTLbRmbQWYXTLN98mS",
+  "name" : "Bay of Pigs (Detail)",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a24802b02f8273551923ca6bbb91ef3afc9e679a?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:4vKavTLbRmbQWYXTLN98mS"
+}

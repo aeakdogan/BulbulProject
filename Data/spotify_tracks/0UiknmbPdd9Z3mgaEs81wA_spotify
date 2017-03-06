@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7AC976RDJzL2asmZuz7qil",
+      "id" : "7AC976RDJzL2asmZuz7qil",
+      "name" : "Yes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7AC976RDJzL2asmZuz7qil"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/41xZQlrRWuG3SVLas1PaEr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/41xZQlrRWuG3SVLas1PaEr",
+    "id" : "41xZQlrRWuG3SVLas1PaEr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c859bbe3556eb0e17086ebb76d6e9b4a10b9e8cd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a97df5963c86517a1ec2feba380d682c1fa631db",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/95adeabd6555b73302c6d09b1dce6df7e887ba2b",
+      "width" : 64
+    } ],
+    "name" : "Magnification",
+    "type" : "album",
+    "uri" : "spotify:album:41xZQlrRWuG3SVLas1PaEr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7AC976RDJzL2asmZuz7qil",
+    "id" : "7AC976RDJzL2asmZuz7qil",
+    "name" : "Yes",
+    "type" : "artist",
+    "uri" : "spotify:artist:7AC976RDJzL2asmZuz7qil"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 645506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBY20100123"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0UiknmbPdd9Z3mgaEs81wA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0UiknmbPdd9Z3mgaEs81wA",
+  "id" : "0UiknmbPdd9Z3mgaEs81wA",
+  "name" : "Dreamtime",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ef8ae2446cba855b544e159c0a1380a341bd6dbe?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0UiknmbPdd9Z3mgaEs81wA"
+}

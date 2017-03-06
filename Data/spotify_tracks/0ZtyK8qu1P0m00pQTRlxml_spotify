@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3DL71JYSG6VREkmLSzfWhU",
+      "id" : "3DL71JYSG6VREkmLSzfWhU",
+      "name" : "Efterklang",
+      "type" : "artist",
+      "uri" : "spotify:artist:3DL71JYSG6VREkmLSzfWhU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4JfghfAbZZ5zyORFpuRCQS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4JfghfAbZZ5zyORFpuRCQS",
+    "id" : "4JfghfAbZZ5zyORFpuRCQS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e9bc2cb00d1a645e64d3a53b3f2687c51ed51416",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/13e6aef3172a5d95ed56a03b0fe18559b0d82d8f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ecb1f3028b0bcfda4812ef1477a19532591200f8",
+      "width" : 64
+    } ],
+    "name" : "Tripper + Springer (Special Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:4JfghfAbZZ5zyORFpuRCQS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3DL71JYSG6VREkmLSzfWhU",
+    "id" : "3DL71JYSG6VREkmLSzfWhU",
+    "name" : "Efterklang",
+    "type" : "artist",
+    "uri" : "spotify:artist:3DL71JYSG6VREkmLSzfWhU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 190880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCKB0400701"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ZtyK8qu1P0m00pQTRlxml"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ZtyK8qu1P0m00pQTRlxml",
+  "id" : "0ZtyK8qu1P0m00pQTRlxml",
+  "name" : "Foetus",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/063e3ca08517aea7dfc9d709ace620ce26f9f6cd?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0ZtyK8qu1P0m00pQTRlxml"
+}

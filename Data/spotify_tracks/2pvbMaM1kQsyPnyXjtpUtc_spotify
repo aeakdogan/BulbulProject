@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6sKLLGj7SqbP2qDBdEOoZ6",
+      "id" : "6sKLLGj7SqbP2qDBdEOoZ6",
+      "name" : "Martina Topley-Bird",
+      "type" : "artist",
+      "uri" : "spotify:artist:6sKLLGj7SqbP2qDBdEOoZ6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6MMTlKS9nxh16hVydeYiid"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6MMTlKS9nxh16hVydeYiid",
+    "id" : "6MMTlKS9nxh16hVydeYiid",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e485b80c4f9e67075a42855833fb32ab97bb85ce",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/844a7a1262cf47ff4f899f458755f99a6c4e5d31",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c551055d02edb5278e78192e8e31dde0047e8f81",
+      "width" : 64
+    } ],
+    "name" : "The Blue God",
+    "type" : "album",
+    "uri" : "spotify:album:6MMTlKS9nxh16hVydeYiid"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6sKLLGj7SqbP2qDBdEOoZ6",
+    "id" : "6sKLLGj7SqbP2qDBdEOoZ6",
+    "name" : "Martina Topley-Bird",
+    "type" : "artist",
+    "uri" : "spotify:artist:6sKLLGj7SqbP2qDBdEOoZ6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 233880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPF0701670"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2pvbMaM1kQsyPnyXjtpUtc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2pvbMaM1kQsyPnyXjtpUtc",
+  "id" : "2pvbMaM1kQsyPnyXjtpUtc",
+  "name" : "Razor Tongue",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bf389dd581033cef6513e6a256c83407879d1448?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2pvbMaM1kQsyPnyXjtpUtc"
+}

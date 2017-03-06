@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+      "id" : "5fsDcuclIe8ZiBD5P787K1",
+      "name" : "Stevie Ray Vaughan",
+      "type" : "artist",
+      "uri" : "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4dShhtGUjPunYS95jHOm3r",
+    "id" : "4dShhtGUjPunYS95jHOm3r",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/37def7f49d2489fafc51aec666722ee76ed9fb20",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4c4c15fbd4045db4f2c40aa10b054c4c83d774bf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0f5c8ab43baae0d3bb0fb1159369272a29a158a5",
+      "width" : 64
+    } ],
+    "name" : "The Essential Stevie Ray Vaughan And Double Trouble",
+    "type" : "album",
+    "uri" : "spotify:album:4dShhtGUjPunYS95jHOm3r"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+    "id" : "5fsDcuclIe8ZiBD5P787K1",
+    "name" : "Stevie Ray Vaughan",
+    "type" : "artist",
+    "uri" : "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 336360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM18900393"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4hnLubxViF8ScCBBWHUGGP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4hnLubxViF8ScCBBWHUGGP",
+  "id" : "4hnLubxViF8ScCBBWHUGGP",
+  "name" : "Wall of Denial",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f070b8696786f76f158c1c607bd9e7bb845c200d?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:4hnLubxViF8ScCBBWHUGGP"
+}

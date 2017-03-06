@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4DWX7u8BV0vZIQSpJQQDWU",
+      "id" : "4DWX7u8BV0vZIQSpJQQDWU",
+      "name" : "Alter Bridge",
+      "type" : "artist",
+      "uri" : "spotify:artist:4DWX7u8BV0vZIQSpJQQDWU"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/21lOBQT94kjWSiYQbpm3RG",
+    "id" : "21lOBQT94kjWSiYQbpm3RG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0d7e1d7b5e1cc70c6cd234add6f586f70bbc3d03",
+      "width" : 631
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/543bede45e84841f77ff49c914344991d116a72e",
+      "width" : 296
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a50a55edcb7b6547b862a435a53db83a1663f638",
+      "width" : 63
+    } ],
+    "name" : "Blackbird",
+    "type" : "album",
+    "uri" : "spotify:album:21lOBQT94kjWSiYQbpm3RG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4DWX7u8BV0vZIQSpJQQDWU",
+    "id" : "4DWX7u8BV0vZIQSpJQQDWU",
+    "name" : "Alter Bridge",
+    "type" : "artist",
+    "uri" : "spotify:artist:4DWX7u8BV0vZIQSpJQQDWU"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 199480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70749608"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7JZ1zMaeb0U2uGM9PI7Ez8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7JZ1zMaeb0U2uGM9PI7Ez8",
+  "id" : "7JZ1zMaeb0U2uGM9PI7Ez8",
+  "name" : "Ties That Bind",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c25c375e47194d2afc283a15530131ebaba8a6b4?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7JZ1zMaeb0U2uGM9PI7Ez8"
+}

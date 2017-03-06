@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1MbqzxZvHtdClX1cBKU2OG",
+      "id" : "1MbqzxZvHtdClX1cBKU2OG",
+      "name" : "Fuel Fandango",
+      "type" : "artist",
+      "uri" : "spotify:artist:1MbqzxZvHtdClX1cBKU2OG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "SE", "SK", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3qxQaxt7sLjn5XnVsEQ4uR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3qxQaxt7sLjn5XnVsEQ4uR",
+    "id" : "3qxQaxt7sLjn5XnVsEQ4uR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3d2e0e9663c3ec9aacffb5067124f6fa9400e1fc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e0d9beb4f34abcc3f917291b817c41d9c9248a2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cfcda6bbcec36973f760bf08ca7e04cb298ad324",
+      "width" : 64
+    } ],
+    "name" : "Fuel Fandango",
+    "type" : "album",
+    "uri" : "spotify:album:3qxQaxt7sLjn5XnVsEQ4uR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1MbqzxZvHtdClX1cBKU2OG",
+    "id" : "1MbqzxZvHtdClX1cBKU2OG",
+    "name" : "Fuel Fandango",
+    "type" : "artist",
+    "uri" : "spotify:artist:1MbqzxZvHtdClX1cBKU2OG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "SE", "SK", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES5151100960"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0E92nX6gCDZjh7o8kOmKxt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0E92nX6gCDZjh7o8kOmKxt",
+  "id" : "0E92nX6gCDZjh7o8kOmKxt",
+  "name" : "Talking",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/32a5e23bfef7e8fdca1644d8d92830d8e84c3c88?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0E92nX6gCDZjh7o8kOmKxt"
+}

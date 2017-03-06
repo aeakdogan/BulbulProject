@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0G8zjE6SsFTlbglCkU8pm3",
+      "id" : "0G8zjE6SsFTlbglCkU8pm3",
+      "name" : "Starsailor",
+      "type" : "artist",
+      "uri" : "spotify:artist:0G8zjE6SsFTlbglCkU8pm3"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/19s4hooevbT0dnKfU5omuI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/19s4hooevbT0dnKfU5omuI",
+    "id" : "19s4hooevbT0dnKfU5omuI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5e80b4a8d9fddda21b4daa3397dcc2216de34427",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/68b33160c697c7f70791131f6d9da752446223e8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/94bdeab9bcf98cae411cddecb39ca06de43acc5c",
+      "width" : 64
+    } ],
+    "name" : "On The Outside",
+    "type" : "album",
+    "uri" : "spotify:album:19s4hooevbT0dnKfU5omuI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0G8zjE6SsFTlbglCkU8pm3",
+    "id" : "0G8zjE6SsFTlbglCkU8pm3",
+    "name" : "Starsailor",
+    "type" : "artist",
+    "uri" : "spotify:artist:0G8zjE6SsFTlbglCkU8pm3"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 220386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE0501356"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3o7jMVkBGyTrm438FheEQ5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3o7jMVkBGyTrm438FheEQ5",
+  "id" : "3o7jMVkBGyTrm438FheEQ5",
+  "name" : "Jeremiah",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/74e606cc2a5bbfd0ff89a16de6854e29aa650df9?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:3o7jMVkBGyTrm438FheEQ5"
+}

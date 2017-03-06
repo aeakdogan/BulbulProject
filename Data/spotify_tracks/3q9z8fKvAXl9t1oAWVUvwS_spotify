@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Amq9Iu3n8FEwaDq0sV5BL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Amq9Iu3n8FEwaDq0sV5BL",
+      "id" : "3Amq9Iu3n8FEwaDq0sV5BL",
+      "name" : "Teho Teardo",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Amq9Iu3n8FEwaDq0sV5BL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ecGioDyIR2QiyujHeiwHw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ecGioDyIR2QiyujHeiwHw",
+      "id" : "0ecGioDyIR2QiyujHeiwHw",
+      "name" : "Blixa Bargeld",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ecGioDyIR2QiyujHeiwHw"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7k0WGXPrNROKbejJ2Zhq90"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7k0WGXPrNROKbejJ2Zhq90",
+    "id" : "7k0WGXPrNROKbejJ2Zhq90",
+    "images" : [ {
+      "height" : 562,
+      "url" : "https://i.scdn.co/image/6ce7c442e948064c9828748c165f852e1a393ded",
+      "width" : 640
+    }, {
+      "height" : 264,
+      "url" : "https://i.scdn.co/image/eb8dca3a36948bd191c7970f2feb35db0de4676c",
+      "width" : 300
+    }, {
+      "height" : 56,
+      "url" : "https://i.scdn.co/image/53190b569d1b6a124092efe3a7ba012ad25d463d",
+      "width" : 64
+    } ],
+    "name" : "Still Smiling",
+    "type" : "album",
+    "uri" : "spotify:album:7k0WGXPrNROKbejJ2Zhq90"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Amq9Iu3n8FEwaDq0sV5BL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Amq9Iu3n8FEwaDq0sV5BL",
+    "id" : "3Amq9Iu3n8FEwaDq0sV5BL",
+    "name" : "Teho Teardo",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Amq9Iu3n8FEwaDq0sV5BL"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ecGioDyIR2QiyujHeiwHw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ecGioDyIR2QiyujHeiwHw",
+    "id" : "0ecGioDyIR2QiyujHeiwHw",
+    "name" : "Blixa Bargeld",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ecGioDyIR2QiyujHeiwHw"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 261079,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "IT0501330404"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3q9z8fKvAXl9t1oAWVUvwS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3q9z8fKvAXl9t1oAWVUvwS",
+  "id" : "3q9z8fKvAXl9t1oAWVUvwS",
+  "name" : "Buntmetalldiebe",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2b0873c81c320350e38e28a8644044f269478354?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3q9z8fKvAXl9t1oAWVUvwS"
+}

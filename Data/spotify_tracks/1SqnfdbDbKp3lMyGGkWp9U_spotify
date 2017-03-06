@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hOyXm00iqGbv7BvoPyGbn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3hOyXm00iqGbv7BvoPyGbn",
+      "id" : "3hOyXm00iqGbv7BvoPyGbn",
+      "name" : "Pete Astor",
+      "type" : "artist",
+      "uri" : "spotify:artist:3hOyXm00iqGbv7BvoPyGbn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/30E9GctmT7WqdcvpB4aENq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/30E9GctmT7WqdcvpB4aENq",
+    "id" : "30E9GctmT7WqdcvpB4aENq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/833253266c2f0c4c6b9a1d91cb4cd004d907f581",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/631350b400484e636e9b5f1960bf91fcfc5d1607",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4d0f07249029cfa71ac126a07e2b27e71e9e8e35",
+      "width" : 64
+    } ],
+    "name" : "Songbox",
+    "type" : "album",
+    "uri" : "spotify:album:30E9GctmT7WqdcvpB4aENq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3hOyXm00iqGbv7BvoPyGbn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3hOyXm00iqGbv7BvoPyGbn",
+    "id" : "3hOyXm00iqGbv7BvoPyGbn",
+    "name" : "Pete Astor",
+    "type" : "artist",
+    "uri" : "spotify:artist:3hOyXm00iqGbv7BvoPyGbn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 247222,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V81796015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1SqnfdbDbKp3lMyGGkWp9U"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1SqnfdbDbKp3lMyGGkWp9U",
+  "id" : "1SqnfdbDbKp3lMyGGkWp9U",
+  "name" : "Tree of Birds",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a7fc1f9dce73e8c549af70b2425032af7f83102f?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1SqnfdbDbKp3lMyGGkWp9U"
+}

@@ -1,0 +1,92 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqv9LW7ZXlYWXVFjHS4Mr",
+      "id" : "3eqv9LW7ZXlYWXVFjHS4Mr",
+      "name" : "Joaquín Rodrigo",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqv9LW7ZXlYWXVFjHS4Mr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vjF8XdNoqVRj5G021FBM6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vjF8XdNoqVRj5G021FBM6",
+      "id" : "6vjF8XdNoqVRj5G021FBM6",
+      "name" : "Julian Bream",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vjF8XdNoqVRj5G021FBM6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4hZnHEWVi8FCRLNkhLJCJb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4hZnHEWVi8FCRLNkhLJCJb",
+    "id" : "4hZnHEWVi8FCRLNkhLJCJb",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/c6dac71e8eb664c438c93cbecc84295dd6072bbf",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/301d01d6f9082cae7691b3448786447f1a6bf35e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4e107809f547460f5c9969bffc065df6a094b0c6",
+      "width" : 64
+    } ],
+    "name" : "Rodrigo: Concierto de Aranjuez: Classic Library Series",
+    "type" : "album",
+    "uri" : "spotify:album:4hZnHEWVi8FCRLNkhLJCJb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3eqv9LW7ZXlYWXVFjHS4Mr",
+    "id" : "3eqv9LW7ZXlYWXVFjHS4Mr",
+    "name" : "Joaquín Rodrigo",
+    "type" : "artist",
+    "uri" : "spotify:artist:3eqv9LW7ZXlYWXVFjHS4Mr"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6vjF8XdNoqVRj5G021FBM6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6vjF8XdNoqVRj5G021FBM6",
+    "id" : "6vjF8XdNoqVRj5G021FBM6",
+    "name" : "Julian Bream",
+    "type" : "artist",
+    "uri" : "spotify:artist:6vjF8XdNoqVRj5G021FBM6"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1qIRoGEKXINqrCx5N1engi",
+    "id" : "1qIRoGEKXINqrCx5N1engi",
+    "name" : "John Eliot Gardiner",
+    "type" : "artist",
+    "uri" : "spotify:artist:1qIRoGEKXINqrCx5N1engi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 349560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBC10400677"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1jxy6r6hZODCQuq6QBEw7R"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1jxy6r6hZODCQuq6QBEw7R",
+  "id" : "1jxy6r6hZODCQuq6QBEw7R",
+  "name" : "Concierto de Aranjuez: I. Allegro con spirito",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/40bbcee793aefe774453641fcd871bd8c0394991?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1jxy6r6hZODCQuq6QBEw7R"
+}

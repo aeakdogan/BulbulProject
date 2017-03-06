@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/223iUzG0kb5V166FJP9ovD",
+      "id" : "223iUzG0kb5V166FJP9ovD",
+      "name" : "IAMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:223iUzG0kb5V166FJP9ovD"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1GMaBgY63J8dyD1i7dOrLb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1GMaBgY63J8dyD1i7dOrLb",
+    "id" : "1GMaBgY63J8dyD1i7dOrLb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/35fdccb27bf03011fc006937e5ff879e1de3f690",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4afa41a1c363fe5c9e6b233a741104e8d0c425de",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9b2d4ccd721e2ecd614c7a1e5c5e64472cec1edd",
+      "width" : 64
+    } ],
+    "name" : "The Alternative",
+    "type" : "album",
+    "uri" : "spotify:album:1GMaBgY63J8dyD1i7dOrLb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/223iUzG0kb5V166FJP9ovD",
+    "id" : "223iUzG0kb5V166FJP9ovD",
+    "name" : "IAMX",
+    "type" : "artist",
+    "uri" : "spotify:artist:223iUzG0kb5V166FJP9ovD"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 253933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBHAQ0700002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6RooEUpy4m1WLxEzPqdqlA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6RooEUpy4m1WLxEzPqdqlA",
+  "id" : "6RooEUpy4m1WLxEzPqdqlA",
+  "name" : "The Alternative",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/343c91102c0269b46a4b0716eb521e9857e4438d?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6RooEUpy4m1WLxEzPqdqlA"
+}

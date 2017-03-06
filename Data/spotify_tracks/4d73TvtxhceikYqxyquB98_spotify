@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xLSa7l4IV1gsQfhAMvl0U",
+      "id" : "5xLSa7l4IV1gsQfhAMvl0U",
+      "name" : "B.B. King",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xLSa7l4IV1gsQfhAMvl0U"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1KRVyXUsVSW24KI2klVDQM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1KRVyXUsVSW24KI2klVDQM",
+    "id" : "1KRVyXUsVSW24KI2klVDQM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7b9a78ae75f87cf4c62793a95053ea3d24f15d3f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e01f6c94322af7b47da51a02dd20cbf7acce56c0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d833d846e619159fd3cf8f8f6f27c73afb3caf91",
+      "width" : 64
+    } ],
+    "name" : "Complete Collection",
+    "type" : "album",
+    "uri" : "spotify:album:1KRVyXUsVSW24KI2klVDQM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5xLSa7l4IV1gsQfhAMvl0U",
+    "id" : "5xLSa7l4IV1gsQfhAMvl0U",
+    "name" : "B.B. King",
+    "type" : "artist",
+    "uri" : "spotify:artist:5xLSa7l4IV1gsQfhAMvl0U"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 3,
+  "duration_ms" : 168080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC16853778"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4d73TvtxhceikYqxyquB98"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4d73TvtxhceikYqxyquB98",
+  "id" : "4d73TvtxhceikYqxyquB98",
+  "name" : "You Put It On Me",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8d233cb52a7e59f3f4ebc4f028de5c3952ba6e19?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4d73TvtxhceikYqxyquB98"
+}

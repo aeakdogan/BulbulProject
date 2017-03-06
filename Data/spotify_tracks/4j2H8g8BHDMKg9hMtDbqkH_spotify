@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QldGXwclr0chJkP91RRWX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0QldGXwclr0chJkP91RRWX",
+      "id" : "0QldGXwclr0chJkP91RRWX",
+      "name" : "A.C. Newman",
+      "type" : "artist",
+      "uri" : "spotify:artist:0QldGXwclr0chJkP91RRWX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0UwrBpDR4Yk6yDCE1Gf4nd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0UwrBpDR4Yk6yDCE1Gf4nd",
+    "id" : "0UwrBpDR4Yk6yDCE1Gf4nd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b23bdab2262dd7199d4c239a9a80c455a4ef782c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/93e77f1649d8839e6c77479519768f4c9009a716",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4b16f8cde9c38a0cfaeb9a4fdb72dd270de1c694",
+      "width" : 64
+    } ],
+    "name" : "The Slow Wonder",
+    "type" : "album",
+    "uri" : "spotify:album:0UwrBpDR4Yk6yDCE1Gf4nd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0QldGXwclr0chJkP91RRWX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0QldGXwclr0chJkP91RRWX",
+    "id" : "0QldGXwclr0chJkP91RRWX",
+    "name" : "A.C. Newman",
+    "type" : "artist",
+    "uri" : "spotify:artist:0QldGXwclr0chJkP91RRWX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 139000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD0461501"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4j2H8g8BHDMKg9hMtDbqkH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4j2H8g8BHDMKg9hMtDbqkH",
+  "id" : "4j2H8g8BHDMKg9hMtDbqkH",
+  "name" : "Miracle Drug",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f7113bbc2f459a700c3858c8218d647ef9e12f25?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4j2H8g8BHDMKg9hMtDbqkH"
+}

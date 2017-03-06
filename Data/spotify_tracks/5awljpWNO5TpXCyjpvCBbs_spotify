@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28hJdGN1Awf7u3ifk2lVkg",
+      "id" : "28hJdGN1Awf7u3ifk2lVkg",
+      "name" : "Testament",
+      "type" : "artist",
+      "uri" : "spotify:artist:28hJdGN1Awf7u3ifk2lVkg"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6YXf0vbjFhURCPUewYhVWE",
+    "id" : "6YXf0vbjFhURCPUewYhVWE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e6e38735a387ff7dc11af5e33723c9dad9fa5502",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/091bb84753224f779306ad596e1f61731227895a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/24532370b57bbfa45008329651c64cb56dd1e91a",
+      "width" : 64
+    } ],
+    "name" : "The Ritual",
+    "type" : "album",
+    "uri" : "spotify:album:6YXf0vbjFhURCPUewYhVWE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/28hJdGN1Awf7u3ifk2lVkg",
+    "id" : "28hJdGN1Awf7u3ifk2lVkg",
+    "name" : "Testament",
+    "type" : "artist",
+    "uri" : "spotify:artist:28hJdGN1Awf7u3ifk2lVkg"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 390800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20003038"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5awljpWNO5TpXCyjpvCBbs",
+  "id" : "5awljpWNO5TpXCyjpvCBbs",
+  "name" : "Return To Serenity",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/281c626d443a575bbb70bd9c386848c4899933ae?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:5awljpWNO5TpXCyjpvCBbs"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+      "id" : "5VF0YkVLeVD4ytyiyVSIiF",
+      "name" : "Dirty Projectors",
+      "type" : "artist",
+      "uri" : "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7wAVY3C4YLszpb62Cnl4dc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7wAVY3C4YLszpb62Cnl4dc",
+    "id" : "7wAVY3C4YLszpb62Cnl4dc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/804aa21f22b2646da4f4889697f8cd35cbbba5f4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/adaa152039744fdbbb5b6421af04be7750ac2c21",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3730316e0f826ef397af0b3459d6380ab3331753",
+      "width" : 64
+    } ],
+    "name" : "Bitte Orca",
+    "type" : "album",
+    "uri" : "spotify:album:7wAVY3C4YLszpb62Cnl4dc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+    "id" : "5VF0YkVLeVD4ytyiyVSIiF",
+    "name" : "Dirty Projectors",
+    "type" : "artist",
+    "uri" : "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 314320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0900173"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/08LAyogtI90hvNsyr1Hsdm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/08LAyogtI90hvNsyr1Hsdm",
+  "id" : "08LAyogtI90hvNsyr1Hsdm",
+  "name" : "Stillness Is The Move",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/207907be712c2725a6c24b4d984883be8c8835af?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:08LAyogtI90hvNsyr1Hsdm"
+}

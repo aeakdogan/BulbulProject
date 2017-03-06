@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+      "id" : "7lOJ7WXyopaxri0dbOiZkd",
+      "name" : "Broken Social Scene",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4IfWq2Fk0bvhrozqAMReI4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4IfWq2Fk0bvhrozqAMReI4",
+    "id" : "4IfWq2Fk0bvhrozqAMReI4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8d508d69fcb48b88766e86f339676389e7f1f1a5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/faebddd975c1d4f66a58058f3680d43a6b7ec73c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c69ef7093e542aac1e43f5aa9f4bed02c50352a3",
+      "width" : 64
+    } ],
+    "name" : "Forgiveness Rock Record",
+    "type" : "album",
+    "uri" : "spotify:album:4IfWq2Fk0bvhrozqAMReI4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+    "id" : "7lOJ7WXyopaxri0dbOiZkd",
+    "name" : "Broken Social Scene",
+    "type" : "artist",
+    "uri" : "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 211146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAAA11005403"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5QknDHGtmGiHvOdiGD1oHS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5QknDHGtmGiHvOdiGD1oHS",
+  "id" : "5QknDHGtmGiHvOdiGD1oHS",
+  "name" : "Chase Scene",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cd371678c19218f06bef1f22caf6457c9675f264?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5QknDHGtmGiHvOdiGD1oHS"
+}

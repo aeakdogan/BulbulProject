@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Y4JE6x9f4vZopMCpSdTwY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Y4JE6x9f4vZopMCpSdTwY",
+    "id" : "4Y4JE6x9f4vZopMCpSdTwY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/46410f016ba0bf5fe638390b751f03768fa20bbd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b61f6c6721cf6211165ffebf9953604a0e8b7e4f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0c9fa06cdbe9746033dd14481f72420b73544a9f",
+      "width" : 64
+    } ],
+    "name" : "The Most Relaxing Classical Music In The Universe",
+    "type" : "album",
+    "uri" : "spotify:album:4Y4JE6x9f4vZopMCpSdTwY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6lfTbrxWC0MeTta5SyGoLb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6lfTbrxWC0MeTta5SyGoLb",
+    "id" : "6lfTbrxWC0MeTta5SyGoLb",
+    "name" : "Charles Gounod; Johann Sebastian Bach",
+    "type" : "artist",
+    "uri" : "spotify:artist:6lfTbrxWC0MeTta5SyGoLb"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1bBUDZ3UwXHQtwW5c0LCW8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1bBUDZ3UwXHQtwW5c0LCW8",
+    "id" : "1bBUDZ3UwXHQtwW5c0LCW8",
+    "name" : "Maxence Larrieu & Susanna Mildonian",
+    "type" : "artist",
+    "uri" : "spotify:artist:1bBUDZ3UwXHQtwW5c0LCW8"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 270666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSJ10301405"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7FDVWLQP4kTBMF5URvND2n"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7FDVWLQP4kTBMF5URvND2n",
+  "id" : "7FDVWLQP4kTBMF5URvND2n",
+  "name" : "Ave Maria",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/81c4bbf0eb4f3fcff91184af12af415974a590c8?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:7FDVWLQP4kTBMF5URvND2n"
+}

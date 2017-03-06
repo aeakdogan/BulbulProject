@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0I8nAaq5bLnTm3aEvr8rIB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0I8nAaq5bLnTm3aEvr8rIB",
+      "id" : "0I8nAaq5bLnTm3aEvr8rIB",
+      "name" : "Kevin Kern",
+      "type" : "artist",
+      "uri" : "spotify:artist:0I8nAaq5bLnTm3aEvr8rIB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/29StQENj3UU9RsBtsv6BEg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/29StQENj3UU9RsBtsv6BEg",
+    "id" : "29StQENj3UU9RsBtsv6BEg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9b0f9d612602e1de3cf63668ee6e984324103722",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/491e8e294361586388279502d773e7f66f717ef5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d62ec254b22896def4262bc7a7401ed895442d2e",
+      "width" : 64
+    } ],
+    "name" : "In the Enchanted Garden",
+    "type" : "album",
+    "uri" : "spotify:album:29StQENj3UU9RsBtsv6BEg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0I8nAaq5bLnTm3aEvr8rIB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0I8nAaq5bLnTm3aEvr8rIB",
+    "id" : "0I8nAaq5bLnTm3aEvr8rIB",
+    "name" : "Kevin Kern",
+    "type" : "artist",
+    "uri" : "spotify:artist:0I8nAaq5bLnTm3aEvr8rIB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 414106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USR2M9600014"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5wBjM3mgpjfWfLi1wgk1rA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5wBjM3mgpjfWfLi1wgk1rA",
+  "id" : "5wBjM3mgpjfWfLi1wgk1rA",
+  "name" : "The Enchanted Garden",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9057d5df5b8a001e33ff34177e9d90bbb91ed5d4?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5wBjM3mgpjfWfLi1wgk1rA"
+}

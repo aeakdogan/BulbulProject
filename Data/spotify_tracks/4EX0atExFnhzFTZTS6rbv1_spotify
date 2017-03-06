@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/75OpU10VolujEA1pl0h1dX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/75OpU10VolujEA1pl0h1dX",
+      "id" : "75OpU10VolujEA1pl0h1dX",
+      "name" : "Nadine Shah",
+      "type" : "artist",
+      "uri" : "spotify:artist:75OpU10VolujEA1pl0h1dX"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1IuKvBZT45KzTUii1yQMhT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1IuKvBZT45KzTUii1yQMhT",
+    "id" : "1IuKvBZT45KzTUii1yQMhT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/924f264718e11fd3d5f76d25fb0d03f904f4719d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3eb4a8a713fa68b73cc7bc63a54bf16105878d64",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/73a48c52f8cda6d3d460e17437c81e2767fcf518",
+      "width" : 64
+    } ],
+    "name" : "Love Your Dum And Mad",
+    "type" : "album",
+    "uri" : "spotify:album:1IuKvBZT45KzTUii1yQMhT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/75OpU10VolujEA1pl0h1dX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/75OpU10VolujEA1pl0h1dX",
+    "id" : "75OpU10VolujEA1pl0h1dX",
+    "name" : "Nadine Shah",
+    "type" : "artist",
+    "uri" : "spotify:artist:75OpU10VolujEA1pl0h1dX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEZ351300102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4EX0atExFnhzFTZTS6rbv1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4EX0atExFnhzFTZTS6rbv1",
+  "id" : "4EX0atExFnhzFTZTS6rbv1",
+  "name" : "Aching Bones",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8761a863073cef897f3d20dd65d516fd46430322?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4EX0atExFnhzFTZTS6rbv1"
+}

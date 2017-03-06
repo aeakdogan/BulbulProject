@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+      "id" : "1w5Kfo2jwwIPruYS2UWh56",
+      "name" : "Pearl Jam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3BSOiAas8BpJOii3kCPyjV",
+    "id" : "3BSOiAas8BpJOii3kCPyjV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/36218136f9e645d979ee3a1a5b3abb6c386571b6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/983ebbbf28b9831836d2faf25f1315557d46bcb0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2cef41cb3ee4c49718f51d49bc7bc4aca28a0727",
+      "width" : 64
+    } ],
+    "name" : "Vs.",
+    "type" : "album",
+    "uri" : "spotify:album:3BSOiAas8BpJOii3kCPyjV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+    "id" : "1w5Kfo2jwwIPruYS2UWh56",
+    "name" : "Pearl Jam",
+    "type" : "artist",
+    "uri" : "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 188586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11100222"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/52FlqmFHKaTV0dDMEe0F4F",
+  "id" : "52FlqmFHKaTV0dDMEe0F4F",
+  "name" : "Leash (Remastered)",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a603985f7c41aa092a87eb5ff8525734ee55211a?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:52FlqmFHKaTV0dDMEe0F4F"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+      "id" : "2ycnb8Er79LoH2AsR5ldjh",
+      "name" : "Pet Shop Boys",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1wslA7DOjWeOESLdauDMZk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1wslA7DOjWeOESLdauDMZk",
+    "id" : "1wslA7DOjWeOESLdauDMZk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/de4b70a8357f2da3571acb77bdacae483bda5349",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f1aa9a4cd98da5a26f4e4066e06e9f185c751355",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a921eb3d7ae57d572f2acf6e0f6b8f2bdc86fd67",
+      "width" : 64
+    } ],
+    "name" : "Yes",
+    "type" : "album",
+    "uri" : "spotify:album:1wslA7DOjWeOESLdauDMZk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+    "id" : "2ycnb8Er79LoH2AsR5ldjh",
+    "name" : "Pet Shop Boys",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 230922,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEW0800002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2eX8jIjcZclxBIuXqUv32w"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2eX8jIjcZclxBIuXqUv32w",
+  "id" : "2eX8jIjcZclxBIuXqUv32w",
+  "name" : "All over the world",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2f14f3834c87c88c83e15a5e03e5584f3a3bb74d?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2eX8jIjcZclxBIuXqUv32w"
+}

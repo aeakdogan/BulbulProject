@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/03XnX4XEVVtZNUBSdUlzsB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/03XnX4XEVVtZNUBSdUlzsB",
+      "id" : "03XnX4XEVVtZNUBSdUlzsB",
+      "name" : "James Murphy",
+      "type" : "artist",
+      "uri" : "spotify:artist:03XnX4XEVVtZNUBSdUlzsB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/758kPhxsLsIqboZtTTdfli"
+    },
+    "href" : "https://api.spotify.com/v1/albums/758kPhxsLsIqboZtTTdfli",
+    "id" : "758kPhxsLsIqboZtTTdfli",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e7f2e6f801e605cbc1f15788afd01e4d607b0fd6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/58a3cf2939a29efbd7ebb07063069233845c7b68",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1e0cbf9c8c1f0ffcbea84daa24a27fd312c40d4f",
+      "width" : 64
+    } ],
+    "name" : "Convergence",
+    "type" : "album",
+    "uri" : "spotify:album:758kPhxsLsIqboZtTTdfli"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/03XnX4XEVVtZNUBSdUlzsB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/03XnX4XEVVtZNUBSdUlzsB",
+    "id" : "03XnX4XEVVtZNUBSdUlzsB",
+    "name" : "James Murphy",
+    "type" : "artist",
+    "uri" : "spotify:artist:03XnX4XEVVtZNUBSdUlzsB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 414440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QM7281523335"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1rxyt8Uc5U6k9Nkp1fH0dz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1rxyt8Uc5U6k9Nkp1fH0dz",
+  "id" : "1rxyt8Uc5U6k9Nkp1fH0dz",
+  "name" : "Vision",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9f1fc072736e5ec0c168796aac67d08aef88a997?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1rxyt8Uc5U6k9Nkp1fH0dz"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bhMBjjQhgPX0q9S4Ajncn",
+      "id" : "7bhMBjjQhgPX0q9S4Ajncn",
+      "name" : "Ben Kweller",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bhMBjjQhgPX0q9S4Ajncn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7L7TLSFHUUNpnuLzBJRjCE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7L7TLSFHUUNpnuLzBJRjCE",
+    "id" : "7L7TLSFHUUNpnuLzBJRjCE",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/da49624544ce8530a48bdbc761999b69e97161e3",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/dcb806c4da7da075087b8eb5cb03f15571a923fd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/02189cc736c2920fcea172cd76092a6b262b6d33",
+      "width" : 64
+    } ],
+    "name" : "Sha Sha",
+    "type" : "album",
+    "uri" : "spotify:album:7L7TLSFHUUNpnuLzBJRjCE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bhMBjjQhgPX0q9S4Ajncn",
+    "id" : "7bhMBjjQhgPX0q9S4Ajncn",
+    "name" : "Ben Kweller",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bhMBjjQhgPX0q9S4Ajncn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 242906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USATO0100055"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3H3cDfxXnZIK8lcUx7Wl0x"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3H3cDfxXnZIK8lcUx7Wl0x",
+  "id" : "3H3cDfxXnZIK8lcUx7Wl0x",
+  "name" : "Falling",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9f0e8ca38ac6f2d08cf2ed150c7fcdb7c399c5d3?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:3H3cDfxXnZIK8lcUx7Wl0x"
+}

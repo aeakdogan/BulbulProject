@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB",
+      "id" : "4tpUmLEVLCGFr93o8hFFIB",
+      "name" : "Blondie",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tpUmLEVLCGFr93o8hFFIB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Au1NRTNzdr2GUEUCNctii"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Au1NRTNzdr2GUEUCNctii",
+    "id" : "4Au1NRTNzdr2GUEUCNctii",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c7efd4146bb5876bedfb054a579c787cf1ddd51d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/86f2ef5c1374b0ac293a5cf9062b21e19cdd9c54",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1c69b9209e41ebb374d20809e9b23a972c9ba79a",
+      "width" : 64
+    } ],
+    "name" : "One Way Or Another",
+    "type" : "album",
+    "uri" : "spotify:album:4Au1NRTNzdr2GUEUCNctii"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB",
+    "id" : "4tpUmLEVLCGFr93o8hFFIB",
+    "name" : "Blondie",
+    "type" : "artist",
+    "uri" : "spotify:artist:4tpUmLEVLCGFr93o8hFFIB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 212706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCH30100029"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Th6EdNVhxp0TPX41ZLZk6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Th6EdNVhxp0TPX41ZLZk6",
+  "id" : "5Th6EdNVhxp0TPX41ZLZk6",
+  "name" : "One Way Or Another - 2001 - Remaster",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9ab77d79ecba50f4b60eebe2998bbb22363d816a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5Th6EdNVhxp0TPX41ZLZk6"
+}

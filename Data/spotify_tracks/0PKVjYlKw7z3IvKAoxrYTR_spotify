@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id" : "7bu3H8JO7d0UbMoVzbo70s",
+      "name" : "The Cure",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0gd0t1iQ3WReB8TNQvALTV",
+    "id" : "0gd0t1iQ3WReB8TNQvALTV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6653c09a46f24a93a421ff945e473da8c4001a37",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a21589ef9b66825c220eb0a1f17559ce9e8fbd0a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2796b121b9ef708ac83edb6a5d5dbdbb59b88d89",
+      "width" : 64
+    } ],
+    "name" : "4:13 Dream",
+    "type" : "album",
+    "uri" : "spotify:album:0gd0t1iQ3WReB8TNQvALTV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+    "id" : "7bu3H8JO7d0UbMoVzbo70s",
+    "name" : "The Cure",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 376586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70839873"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0PKVjYlKw7z3IvKAoxrYTR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0PKVjYlKw7z3IvKAoxrYTR",
+  "id" : "0PKVjYlKw7z3IvKAoxrYTR",
+  "name" : "Underneath The Stars",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1e5ae21227c3e1537bdc75c8e328129e06aaf00e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0PKVjYlKw7z3IvKAoxrYTR"
+}

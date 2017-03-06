@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN",
+      "id" : "4PDpGtF16XpqvXxsrFwQnN",
+      "name" : "Thelonious Monk",
+      "type" : "artist",
+      "uri" : "spotify:artist:4PDpGtF16XpqvXxsrFwQnN"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5WqkiRiXHyiML0QkLjqooy",
+    "id" : "5WqkiRiXHyiML0QkLjqooy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/021679d2f11bdf7c5a11bea9bad846e21e918f06",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c4ec82e045ee6b1e15515159c00d92cfbd605232",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e62905cd0d1ae411d6c53ce43d4e773f479d4c8f",
+      "width" : 64
+    } ],
+    "name" : "Thelonious Monk with John Coltrane (OJC Remaster)",
+    "type" : "album",
+    "uri" : "spotify:album:5WqkiRiXHyiML0QkLjqooy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN",
+    "id" : "4PDpGtF16XpqvXxsrFwQnN",
+    "name" : "Thelonious Monk",
+    "type" : "artist",
+    "uri" : "spotify:artist:4PDpGtF16XpqvXxsrFwQnN"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2hGh5VOeeqimQFxqXvfCUf",
+    "id" : "2hGh5VOeeqimQFxqXvfCUf",
+    "name" : "John Coltrane",
+    "type" : "artist",
+    "uri" : "spotify:artist:2hGh5VOeeqimQFxqXvfCUf"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 381520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI86100163"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1BMirA3vwj2NLamWkJsVYq",
+  "id" : "1BMirA3vwj2NLamWkJsVYq",
+  "name" : "Ruby, My Dear",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ad290fd1a580207c48cc0cc5f8ed3044b70ca119?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1BMirA3vwj2NLamWkJsVYq"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+      "id" : "57ylwQTnFnIhJh4nu4rxCs",
+      "name" : "In Flames",
+      "type" : "artist",
+      "uri" : "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0mRXnequSfldJ0BE28Sn4m"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0mRXnequSfldJ0BE28Sn4m",
+    "id" : "0mRXnequSfldJ0BE28Sn4m",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b383921f06c27760af34341f587cd67610469c61",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4a7725991c8b85b5dfcfe7895fc0d5045e89c5f6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7fdeebd55de04f396ca665aa4bc56aa15a6e2a17",
+      "width" : 64
+    } ],
+    "name" : "A Sense Of Purpose",
+    "type" : "album",
+    "uri" : "spotify:album:0mRXnequSfldJ0BE28Sn4m"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+    "id" : "57ylwQTnFnIhJh4nu4rxCs",
+    "name" : "In Flames",
+    "type" : "artist",
+    "uri" : "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 216933,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USKO10800068"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/289M0AVeWlSDTUObg34StH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/289M0AVeWlSDTUObg34StH",
+  "id" : "289M0AVeWlSDTUObg34StH",
+  "name" : "Disconnected",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/48220954d9195a8c0d718f6d43a15b36339d4cfc?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:289M0AVeWlSDTUObg34StH"
+}

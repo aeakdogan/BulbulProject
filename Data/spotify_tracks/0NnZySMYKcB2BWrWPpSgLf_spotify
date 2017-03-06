@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0UF7XLthtbSF2Eur7559oV",
+      "id" : "0UF7XLthtbSF2Eur7559oV",
+      "name" : "Kavinsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:0UF7XLthtbSF2Eur7559oV"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3euRfc09m6LRXwplFPYtqh",
+    "id" : "3euRfc09m6LRXwplFPYtqh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/51dd79ca3af71f27c0439cc6b4b07e66fb481beb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8eebbaa7a487e88fd281d75330d7a40a6bf3eead",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/719dccf49d2864e199b5eff2abeab61cac77a203",
+      "width" : 64
+    } ],
+    "name" : "OutRun",
+    "type" : "album",
+    "uri" : "spotify:album:3euRfc09m6LRXwplFPYtqh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0UF7XLthtbSF2Eur7559oV",
+    "id" : "0UF7XLthtbSF2Eur7559oV",
+    "name" : "Kavinsky",
+    "type" : "artist",
+    "uri" : "spotify:artist:0UF7XLthtbSF2Eur7559oV"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRS711100690"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0NnZySMYKcB2BWrWPpSgLf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0NnZySMYKcB2BWrWPpSgLf",
+  "id" : "0NnZySMYKcB2BWrWPpSgLf",
+  "name" : "Roadgame",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/817053935c4ccd74573290b3b7871323fbc981e9?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:0NnZySMYKcB2BWrWPpSgLf"
+}

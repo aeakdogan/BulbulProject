@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5zfF4ZY5QA60ht5cjDrv2b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5zfF4ZY5QA60ht5cjDrv2b",
+      "id" : "5zfF4ZY5QA60ht5cjDrv2b",
+      "name" : "Fatih Erkoç",
+      "type" : "artist",
+      "uri" : "spotify:artist:5zfF4ZY5QA60ht5cjDrv2b"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5QpO9YaSNV78PoPchPZHwA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5QpO9YaSNV78PoPchPZHwA",
+    "id" : "5QpO9YaSNV78PoPchPZHwA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/49882eae462568dadbdd86b809b593a8ff99f8d6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1c9c8476dea25555c32d94573a4f53c1e02ce77a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/171ed59667760cc2ad4f096599a77a413b6b2df8",
+      "width" : 64
+    } ],
+    "name" : "Eskilerden",
+    "type" : "album",
+    "uri" : "spotify:album:5QpO9YaSNV78PoPchPZHwA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5zfF4ZY5QA60ht5cjDrv2b"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5zfF4ZY5QA60ht5cjDrv2b",
+    "id" : "5zfF4ZY5QA60ht5cjDrv2b",
+    "name" : "Fatih Erkoç",
+    "type" : "artist",
+    "uri" : "spotify:artist:5zfF4ZY5QA60ht5cjDrv2b"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 244430,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR8321400144"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0talUpJjvRyZsEBHw9VtTZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0talUpJjvRyZsEBHw9VtTZ",
+  "id" : "0talUpJjvRyZsEBHw9VtTZ",
+  "name" : "Elveda Tatlım",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b738be0992860dd5ab2d395c1065b9e2172581cb?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0talUpJjvRyZsEBHw9VtTZ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5KGqHVetCqZiKRRgjrUBdq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5KGqHVetCqZiKRRgjrUBdq",
+      "id" : "5KGqHVetCqZiKRRgjrUBdq",
+      "name" : "Ian McCulloch",
+      "type" : "artist",
+      "uri" : "spotify:artist:5KGqHVetCqZiKRRgjrUBdq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4XoBKD3R2EkOavS4Uh7XZ9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4XoBKD3R2EkOavS4Uh7XZ9",
+    "id" : "4XoBKD3R2EkOavS4Uh7XZ9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e9f01e3682bfae0f9f7313ee10a644ec40c32960",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5c99da536146e1b6c66c62575a2ec71a95310371",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8462f498d11aba2243ef56c46001687ef49b2c39",
+      "width" : 64
+    } ],
+    "name" : "Slideling",
+    "type" : "album",
+    "uri" : "spotify:album:4XoBKD3R2EkOavS4Uh7XZ9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5KGqHVetCqZiKRRgjrUBdq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5KGqHVetCqZiKRRgjrUBdq",
+    "id" : "5KGqHVetCqZiKRRgjrUBdq",
+    "name" : "Ian McCulloch",
+    "type" : "artist",
+    "uri" : "spotify:artist:5KGqHVetCqZiKRRgjrUBdq"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 232733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEJ0200220"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4NOuehT7IpO7cAj83fClMW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4NOuehT7IpO7cAj83fClMW",
+  "id" : "4NOuehT7IpO7cAj83fClMW",
+  "name" : "Baby Hold On",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9b8dcc26f96ff132b5fb930f126373f1006bb32f?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4NOuehT7IpO7cAj83fClMW"
+}

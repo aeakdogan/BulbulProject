@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GhPHrq36VKCY3ucVaZCfo",
+      "id" : "1GhPHrq36VKCY3ucVaZCfo",
+      "name" : "The Chemical Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GhPHrq36VKCY3ucVaZCfo"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5EOAvD6xmE1g9XV49wFzNG",
+    "id" : "5EOAvD6xmE1g9XV49wFzNG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a1b8fdbca36f2cb490c8385d3f98efc71b30592d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/91e67cd0f8b6a32635c2a0b3edecdb52e67619b3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/645df6a508338e93a1d034637059381796600a6a",
+      "width" : 64
+    } ],
+    "name" : "Further",
+    "type" : "album",
+    "uri" : "spotify:album:5EOAvD6xmE1g9XV49wFzNG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1GhPHrq36VKCY3ucVaZCfo",
+    "id" : "1GhPHrq36VKCY3ucVaZCfo",
+    "name" : "The Chemical Brothers",
+    "type" : "artist",
+    "uri" : "spotify:artist:1GhPHrq36VKCY3ucVaZCfo"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 365080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA1000092"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1xrr9bAS0zfjCXdLKpLJnA",
+  "id" : "1xrr9bAS0zfjCXdLKpLJnA",
+  "name" : "Swoon",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/87ecdcfbfa190f8d7534e55c4a1748e832ee0a91?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1xrr9bAS0zfjCXdLKpLJnA"
+}

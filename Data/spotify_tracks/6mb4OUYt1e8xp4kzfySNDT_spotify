@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4vqWLYaTepbIjfKZOq8Ys1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4vqWLYaTepbIjfKZOq8Ys1",
+      "id" : "4vqWLYaTepbIjfKZOq8Ys1",
+      "name" : "Hacride",
+      "type" : "artist",
+      "uri" : "spotify:artist:4vqWLYaTepbIjfKZOq8Ys1"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4mhsnevGNu80VEvSKqNMQe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4mhsnevGNu80VEvSKqNMQe",
+    "id" : "4mhsnevGNu80VEvSKqNMQe",
+    "images" : [ {
+      "height" : 587,
+      "url" : "https://i.scdn.co/image/a9db929f5567557a248d0483e50fd392a238612b",
+      "width" : 640
+    }, {
+      "height" : 275,
+      "url" : "https://i.scdn.co/image/2a868aff6402a19d4b19f23a82bb7796e8a7f30b",
+      "width" : 300
+    }, {
+      "height" : 59,
+      "url" : "https://i.scdn.co/image/d2ab967a5f73db47024fb01165f44dc527fff27b",
+      "width" : 64
+    } ],
+    "name" : "Lazarus",
+    "type" : "album",
+    "uri" : "spotify:album:4mhsnevGNu80VEvSKqNMQe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4vqWLYaTepbIjfKZOq8Ys1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4vqWLYaTepbIjfKZOq8Ys1",
+    "id" : "4vqWLYaTepbIjfKZOq8Ys1",
+    "name" : "Hacride",
+    "type" : "artist",
+    "uri" : "spotify:artist:4vqWLYaTepbIjfKZOq8Ys1"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2X8pffrgTzUTBVqHfqfo3N"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2X8pffrgTzUTBVqHfqfo3N",
+    "id" : "2X8pffrgTzUTBVqHfqfo3N",
+    "name" : "N.O",
+    "type" : "artist",
+    "uri" : "spotify:artist:2X8pffrgTzUTBVqHfqfo3N"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 431280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR1PP0900140"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6mb4OUYt1e8xp4kzfySNDT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6mb4OUYt1e8xp4kzfySNDT",
+  "id" : "6mb4OUYt1e8xp4kzfySNDT",
+  "name" : "A World Of Lies (feat. NO)",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4783ca2827efbd38ee51d4e1a567ad190a6065f5?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6mb4OUYt1e8xp4kzfySNDT"
+}

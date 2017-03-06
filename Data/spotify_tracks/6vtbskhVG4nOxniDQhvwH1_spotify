@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ET1wIkDmuCBC80XcTr3Sg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ET1wIkDmuCBC80XcTr3Sg",
+      "id" : "1ET1wIkDmuCBC80XcTr3Sg",
+      "name" : "The Pierces",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ET1wIkDmuCBC80XcTr3Sg"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2eEZXxNzSIskDR14gTRJ4j"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2eEZXxNzSIskDR14gTRJ4j",
+    "id" : "2eEZXxNzSIskDR14gTRJ4j",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e8a15e21c1cae94dbe7a5e91dce03d11fd390eda",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bcec86ec3e29e76620e41bdc42e01b7056dd3163",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bccd49b9fe5df6a7db775c1210aa9da63a0a7816",
+      "width" : 64
+    } ],
+    "name" : "You & I",
+    "type" : "album",
+    "uri" : "spotify:album:2eEZXxNzSIskDR14gTRJ4j"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ET1wIkDmuCBC80XcTr3Sg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ET1wIkDmuCBC80XcTr3Sg",
+    "id" : "1ET1wIkDmuCBC80XcTr3Sg",
+    "name" : "The Pierces",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ET1wIkDmuCBC80XcTr3Sg"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 218720,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71102367"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6vtbskhVG4nOxniDQhvwH1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6vtbskhVG4nOxniDQhvwH1",
+  "id" : "6vtbskhVG4nOxniDQhvwH1",
+  "name" : "Glorious",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/efee456daed1d769f37bddfd4f3e43752b58156a?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6vtbskhVG4nOxniDQhvwH1"
+}

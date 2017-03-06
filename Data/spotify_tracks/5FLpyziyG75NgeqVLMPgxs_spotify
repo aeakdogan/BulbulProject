@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hKQ0ei5p0h3z6yicNvbna"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3hKQ0ei5p0h3z6yicNvbna",
+      "id" : "3hKQ0ei5p0h3z6yicNvbna",
+      "name" : "Vapors of Morphine",
+      "type" : "artist",
+      "uri" : "spotify:artist:3hKQ0ei5p0h3z6yicNvbna"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2aYSlkVKSgkB8opIwu4lDS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2aYSlkVKSgkB8opIwu4lDS",
+    "id" : "2aYSlkVKSgkB8opIwu4lDS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/27c921bc5877bcff188b16c95ba39fa1f4df471f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9e64df4a4b64fca990573f9ac25b86426e164a3d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e376b6b5e68aa839bd55be2f9613d23afceaae3b",
+      "width" : 64
+    } ],
+    "name" : "A New Low",
+    "type" : "album",
+    "uri" : "spotify:album:2aYSlkVKSgkB8opIwu4lDS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3hKQ0ei5p0h3z6yicNvbna"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3hKQ0ei5p0h3z6yicNvbna",
+    "id" : "3hKQ0ei5p0h3z6yicNvbna",
+    "name" : "Vapors of Morphine",
+    "type" : "artist",
+    "uri" : "spotify:artist:3hKQ0ei5p0h3z6yicNvbna"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 381293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMAAK1677084"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5FLpyziyG75NgeqVLMPgxs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5FLpyziyG75NgeqVLMPgxs",
+  "id" : "5FLpyziyG75NgeqVLMPgxs",
+  "name" : "Souvenir",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f563c04ef20ef6b93769c5797218418238f6f7f0?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:5FLpyziyG75NgeqVLMPgxs"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2rmMyZC0sUD1a3jkDxp7iY",
+      "id" : "2rmMyZC0sUD1a3jkDxp7iY",
+      "name" : "Balkan Beat Box",
+      "type" : "artist",
+      "uri" : "spotify:artist:2rmMyZC0sUD1a3jkDxp7iY"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6wVphzgVth9jx8GOq2o2nI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6wVphzgVth9jx8GOq2o2nI",
+    "id" : "6wVphzgVth9jx8GOq2o2nI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/21e28eba81cc8dadaf60e9c81e39e7fa99c27b1b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c751a472838e9b591641b9cf53b852c55b7c4e2f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7496157187fb2bab22f2a1290f0966c5a40d60e4",
+      "width" : 64
+    } ],
+    "name" : "Nu Med",
+    "type" : "album",
+    "uri" : "spotify:album:6wVphzgVth9jx8GOq2o2nI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2rmMyZC0sUD1a3jkDxp7iY",
+    "id" : "2rmMyZC0sUD1a3jkDxp7iY",
+    "name" : "Balkan Beat Box",
+    "type" : "artist",
+    "uri" : "spotify:artist:2rmMyZC0sUD1a3jkDxp7iY"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 225413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BE6F50070090"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3x7GH6zCH4qpELTNhMz33S"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3x7GH6zCH4qpELTNhMz33S",
+  "id" : "3x7GH6zCH4qpELTNhMz33S",
+  "name" : "Mexico City",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d25ac9af985121d76caf0f110070d8fa747dc6cd?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3x7GH6zCH4qpELTNhMz33S"
+}

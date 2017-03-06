@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+      "id" : "0YC192cP3KPCRWx8zr8MfZ",
+      "name" : "Hans Zimmer",
+      "type" : "artist",
+      "uri" : "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1wJZSN3VrWTR8OcFJ4lp9I",
+    "id" : "1wJZSN3VrWTR8OcFJ4lp9I",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5176714581920b047af87d18c4f30007f0ecf0c7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/968b9ed14513fff965aa287dc36347a173a8bb7d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d6bdb6bcd81ef579da41842c27ba10e4e507e382",
+      "width" : 64
+    } ],
+    "name" : "The Holiday (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:1wJZSN3VrWTR8OcFJ4lp9I"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+    "id" : "0YC192cP3KPCRWx8zr8MfZ",
+    "name" : "Hans Zimmer",
+    "type" : "artist",
+    "uri" : "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 233706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US3M50678401"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4SimUIFxXh5N6VsF33oMo7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4SimUIFxXh5N6VsF33oMo7",
+  "id" : "4SimUIFxXh5N6VsF33oMo7",
+  "name" : "Maestro",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/148a2123ef35488c0825bf46c2cb6c7057bd041a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4SimUIFxXh5N6VsF33oMo7"
+}

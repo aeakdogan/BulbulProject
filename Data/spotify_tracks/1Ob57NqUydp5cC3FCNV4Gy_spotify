@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX",
+      "id" : "762310PdDnwsDxAQxzQkfX",
+      "name" : "Depeche Mode",
+      "type" : "artist",
+      "uri" : "spotify:artist:762310PdDnwsDxAQxzQkfX"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1nHX4rMCk0NIBSplCjioCb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1nHX4rMCk0NIBSplCjioCb",
+    "id" : "1nHX4rMCk0NIBSplCjioCb",
+    "images" : [ {
+      "height" : 575,
+      "url" : "https://i.scdn.co/image/eb65b10f4085d435851eb5451c690f6b8ee0f969",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/d7d6b4f4ec8f23ab9c2b942fb18baba7a0b7e207",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/076ead6c831befbe16fd6648104dcd55b794f75a",
+      "width" : 64
+    } ],
+    "name" : "Songs Of Faith And Devotion (2006 Remastered Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:1nHX4rMCk0NIBSplCjioCb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX",
+    "id" : "762310PdDnwsDxAQxzQkfX",
+    "name" : "Depeche Mode",
+    "type" : "artist",
+    "uri" : "spotify:artist:762310PdDnwsDxAQxzQkfX"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 276080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0601241"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Ob57NqUydp5cC3FCNV4Gy",
+  "id" : "1Ob57NqUydp5cC3FCNV4Gy",
+  "name" : "I Feel You - 2006 Remastered Version",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bcc651c6a35e9227acca9c6048e36fa179edb2ea?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1Ob57NqUydp5cC3FCNV4Gy"
+}

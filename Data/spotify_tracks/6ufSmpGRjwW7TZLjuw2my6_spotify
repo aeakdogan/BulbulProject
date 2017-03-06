@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4hzC9WUUy3cFituT71tzB4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4hzC9WUUy3cFituT71tzB4",
+      "id" : "4hzC9WUUy3cFituT71tzB4",
+      "name" : "Jay-Jay Johanson",
+      "type" : "artist",
+      "uri" : "spotify:artist:4hzC9WUUy3cFituT71tzB4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3KA0sx27y8ufRPSBGWOFtu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3KA0sx27y8ufRPSBGWOFtu",
+    "id" : "3KA0sx27y8ufRPSBGWOFtu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/79837b7fffadab63e413ddc07f2e2f9ef8207164",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5db08bcbe97e0b83d74d23675b940e20c02d8e63",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/672d8b1baa43d6b41b6a95b75b749ce14cbd4df0",
+      "width" : 64
+    } ],
+    "name" : "Rush",
+    "type" : "album",
+    "uri" : "spotify:album:3KA0sx27y8ufRPSBGWOFtu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4hzC9WUUy3cFituT71tzB4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4hzC9WUUy3cFituT71tzB4",
+    "id" : "4hzC9WUUy3cFituT71tzB4",
+    "name" : "Jay-Jay Johanson",
+    "type" : "artist",
+    "uri" : "spotify:artist:4hzC9WUUy3cFituT71tzB4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 259831,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEBIA0500093"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ufSmpGRjwW7TZLjuw2my6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ufSmpGRjwW7TZLjuw2my6",
+  "id" : "6ufSmpGRjwW7TZLjuw2my6",
+  "name" : "Another Nite Another Love",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2ef1be3c89a1a1ae884525a8f5317d84d6f0db8f?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6ufSmpGRjwW7TZLjuw2my6"
+}

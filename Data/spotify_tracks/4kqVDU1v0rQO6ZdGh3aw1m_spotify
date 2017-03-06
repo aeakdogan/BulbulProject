@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EVoGEgnCy8JuEGUXEPAgr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EVoGEgnCy8JuEGUXEPAgr",
+      "id" : "4EVoGEgnCy8JuEGUXEPAgr",
+      "name" : "All Angels Gone",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EVoGEgnCy8JuEGUXEPAgr"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1DvHF9Jn1q7Rmwguc3UZOr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1DvHF9Jn1q7Rmwguc3UZOr",
+    "id" : "1DvHF9Jn1q7Rmwguc3UZOr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f05fd86fd4bc7de5aa7247c01417e7758d92ecfa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/750ab400cc050ff75a92027deba8d8dfe9466561",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/97c07ced26babb8674aa091bf85a68c03e4e2a99",
+      "width" : 64
+    } ],
+    "name" : "Quietly",
+    "type" : "album",
+    "uri" : "spotify:album:1DvHF9Jn1q7Rmwguc3UZOr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4EVoGEgnCy8JuEGUXEPAgr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4EVoGEgnCy8JuEGUXEPAgr",
+    "id" : "4EVoGEgnCy8JuEGUXEPAgr",
+    "name" : "All Angels Gone",
+    "type" : "artist",
+    "uri" : "spotify:artist:4EVoGEgnCy8JuEGUXEPAgr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 417828,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V80161091"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4kqVDU1v0rQO6ZdGh3aw1m"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4kqVDU1v0rQO6ZdGh3aw1m",
+  "id" : "4kqVDU1v0rQO6ZdGh3aw1m",
+  "name" : "Unrelated",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ce2f9d3a64425717f1f0f5875e58361b9b5277b8?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4kqVDU1v0rQO6ZdGh3aw1m"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Dpx7VuxspFzVENl6bN0KI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Dpx7VuxspFzVENl6bN0KI",
+    "id" : "3Dpx7VuxspFzVENl6bN0KI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/25746b039d68fd31eec24208e844e242200e63a3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2760ef711a6f25a975400d05a3f5e06f06581daa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/72247a3baedbcf575a0dd30d8239ac23e0bd78ab",
+      "width" : 64
+    } ],
+    "name" : "Rough Guide To Latin Psychedelia",
+    "type" : "album",
+    "uri" : "spotify:album:3Dpx7VuxspFzVENl6bN0KI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4qpeWv44abPJ4Dapuv0LEM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4qpeWv44abPJ4Dapuv0LEM",
+    "id" : "4qpeWv44abPJ4Dapuv0LEM",
+    "name" : "Los Nombres",
+    "type" : "artist",
+    "uri" : "spotify:artist:4qpeWv44abPJ4Dapuv0LEM"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCW61190904"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/79jTi5uuP9lu3KSEVRAZvo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/79jTi5uuP9lu3KSEVRAZvo",
+  "id" : "79jTi5uuP9lu3KSEVRAZvo",
+  "name" : "Todos",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/84fbaaffc659153d647a7f4ed1e2dafa4e70dec6?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:79jTi5uuP9lu3KSEVRAZvo"
+}

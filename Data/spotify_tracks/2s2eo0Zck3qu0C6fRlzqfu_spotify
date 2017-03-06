@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0kbYTNQb4Pb1rPbbaF0pT4",
+      "id" : "0kbYTNQb4Pb1rPbbaF0pT4",
+      "name" : "Miles Davis",
+      "type" : "artist",
+      "uri" : "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1lTY8MqxId57NQtblgRV4Y"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1lTY8MqxId57NQtblgRV4Y",
+    "id" : "1lTY8MqxId57NQtblgRV4Y",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9a327489c70ae859f72561e005cce2742822c52a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/56ebb582e9ff60db689433e704bcb83034d7f58d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b50f1159a4c16db74b7ed385c531927c3d1c02ba",
+      "width" : 64
+    } ],
+    "name" : "Miles at The Fillmore: Miles Davis 1970: The Bootleg Series, Vol. 3",
+    "type" : "album",
+    "uri" : "spotify:album:1lTY8MqxId57NQtblgRV4Y"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0kbYTNQb4Pb1rPbbaF0pT4",
+    "id" : "0kbYTNQb4Pb1rPbbaF0pT4",
+    "name" : "Miles Davis",
+    "type" : "artist",
+    "uri" : "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 664386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11400146"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2s2eo0Zck3qu0C6fRlzqfu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2s2eo0Zck3qu0C6fRlzqfu",
+  "id" : "2s2eo0Zck3qu0C6fRlzqfu",
+  "name" : "The Mask - Live at Fillmore East June 17, 1970",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bb1990a54364412f2ede1670847423f6344b9459?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2s2eo0Zck3qu0C6fRlzqfu"
+}

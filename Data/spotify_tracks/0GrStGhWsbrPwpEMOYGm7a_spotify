@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54DFUGeCCsyly8pYcXnodK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54DFUGeCCsyly8pYcXnodK",
+      "id" : "54DFUGeCCsyly8pYcXnodK",
+      "name" : "Geoff White",
+      "type" : "artist",
+      "uri" : "spotify:artist:54DFUGeCCsyly8pYcXnodK"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0DcHsq2R6JHVB8KvZ2SgVT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0DcHsq2R6JHVB8KvZ2SgVT",
+    "id" : "0DcHsq2R6JHVB8KvZ2SgVT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/07f5344ad7edbf9373016698dd096e11ec047a60",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e92585e6c7aee6f0ef9a97d455ac3fb813b119ea",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c59ae019669d7054c3e9d017c05e6aadaf0734b0",
+      "width" : 64
+    } ],
+    "name" : "Ince",
+    "type" : "album",
+    "uri" : "spotify:album:0DcHsq2R6JHVB8KvZ2SgVT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/54DFUGeCCsyly8pYcXnodK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/54DFUGeCCsyly8pYcXnodK",
+    "id" : "54DFUGeCCsyly8pYcXnodK",
+    "name" : "Geoff White",
+    "type" : "artist",
+    "uri" : "spotify:artist:54DFUGeCCsyly8pYcXnodK"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 273080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2J70411903"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0GrStGhWsbrPwpEMOYGm7a"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0GrStGhWsbrPwpEMOYGm7a",
+  "id" : "0GrStGhWsbrPwpEMOYGm7a",
+  "name" : "Nintendisco",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b9dc1aa7752ceab8d3367c01c45099ec68e4fc2c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0GrStGhWsbrPwpEMOYGm7a"
+}

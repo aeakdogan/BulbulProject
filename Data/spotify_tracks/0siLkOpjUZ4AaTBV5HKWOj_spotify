@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+      "id" : "7G1GBhoKtEPnP86X2PvEYO",
+      "name" : "Nina Simone",
+      "type" : "artist",
+      "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5gHvTZO4alH9wVcWgTjJat"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5gHvTZO4alH9wVcWgTjJat",
+    "id" : "5gHvTZO4alH9wVcWgTjJat",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/c0637c48efc0ee95fd898d605e74dc0282984a5c",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/3f16a081663919db10884f08589dd8dc93b0e5eb",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/3b4c93c8505e49cd217183a7c2a3983d062ed785",
+      "width" : 64
+    } ],
+    "name" : "Wild Is The Wind",
+    "type" : "album",
+    "uri" : "spotify:album:5gHvTZO4alH9wVcWgTjJat"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+    "id" : "7G1GBhoKtEPnP86X2PvEYO",
+    "name" : "Nina Simone",
+    "type" : "artist",
+    "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 253800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR36500103"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0siLkOpjUZ4AaTBV5HKWOj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0siLkOpjUZ4AaTBV5HKWOj",
+  "id" : "0siLkOpjUZ4AaTBV5HKWOj",
+  "name" : "Lilac Wine",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/26e2a3ea5eee99a31f87fb6058f8d12eea790546?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0siLkOpjUZ4AaTBV5HKWOj"
+}

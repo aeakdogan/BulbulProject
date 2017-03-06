@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CwfuxIqcltXDGjfZsMd9A",
+      "id" : "6CwfuxIqcltXDGjfZsMd9A",
+      "name" : "Marina and the Diamonds",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CwfuxIqcltXDGjfZsMd9A"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3dWObfa3vKyudzgmh53Xzg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3dWObfa3vKyudzgmh53Xzg",
+    "id" : "3dWObfa3vKyudzgmh53Xzg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bf7aba7a453f75a2bef7084502c059d768ccdbd1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/40c2cdf8b26f6ff0dffdd76a310bea1fc5a88578",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a1bfdec175ea0328c846c508c71f59d5e1119347",
+      "width" : 64
+    } ],
+    "name" : "The Family Jewels",
+    "type" : "album",
+    "uri" : "spotify:album:3dWObfa3vKyudzgmh53Xzg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6CwfuxIqcltXDGjfZsMd9A",
+    "id" : "6CwfuxIqcltXDGjfZsMd9A",
+    "name" : "Marina and the Diamonds",
+    "type" : "artist",
+    "uri" : "spotify:artist:6CwfuxIqcltXDGjfZsMd9A"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 208133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBFFS0800161"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0X3VdkebZGTuL9sMOMoyHy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0X3VdkebZGTuL9sMOMoyHy",
+  "id" : "0X3VdkebZGTuL9sMOMoyHy",
+  "name" : "Obsessions",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e3c070cb42e1413b146cbe3253a1bb2a05218c24?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0X3VdkebZGTuL9sMOMoyHy"
+}

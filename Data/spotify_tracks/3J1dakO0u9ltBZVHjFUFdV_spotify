@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+    },
+    "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+    "id" : "48rauXjHSxEebiGmpYkl85",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2e38e93899c9feafe19bd8b21b667bb979daf86d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/17386404c7379f57403c88396ec9798636f17cac",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5a9584fd06d30440502bffc1f1152e098f955836",
+      "width" : 64
+    } ],
+    "name" : "LAX",
+    "type" : "album",
+    "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+    "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+    "name" : "The Game",
+    "type" : "artist",
+    "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 239240,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM70829281"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3J1dakO0u9ltBZVHjFUFdV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3J1dakO0u9ltBZVHjFUFdV",
+  "id" : "3J1dakO0u9ltBZVHjFUFdV",
+  "name" : "LAX Files",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ae3bebda653a9f0f5bc9df89c6523ea96512a0c2?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3J1dakO0u9ltBZVHjFUFdV"
+}

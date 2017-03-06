@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SZba7Vsxe3joBtvWihfS6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SZba7Vsxe3joBtvWihfS6",
+      "id" : "1SZba7Vsxe3joBtvWihfS6",
+      "name" : "Bogus Blimp",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SZba7Vsxe3joBtvWihfS6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2UiWVOHuZCNsdGGMGQ9v2T"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2UiWVOHuZCNsdGGMGQ9v2T",
+    "id" : "2UiWVOHuZCNsdGGMGQ9v2T",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/000f4a701eac6b6f86cadb8641e7a496b776e5f4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0a6e8aa79a2a622fb72f88fa6fb0c67d1d545f30",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3fafa0438f624df3e5b4c8255c31281a59c44d85",
+      "width" : 64
+    } ],
+    "name" : "Rdtr",
+    "type" : "album",
+    "uri" : "spotify:album:2UiWVOHuZCNsdGGMGQ9v2T"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1SZba7Vsxe3joBtvWihfS6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1SZba7Vsxe3joBtvWihfS6",
+    "id" : "1SZba7Vsxe3joBtvWihfS6",
+    "name" : "Bogus Blimp",
+    "type" : "artist",
+    "uri" : "spotify:artist:1SZba7Vsxe3joBtvWihfS6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 248386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOFVJ0435050"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5mgvov4igaHb7YSoSw7S2p"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5mgvov4igaHb7YSoSw7S2p",
+  "id" : "5mgvov4igaHb7YSoSw7S2p",
+  "name" : "Leisure A Go-Go",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b02c0b875fdfe916b71f251e3ad973c199ee6f09?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5mgvov4igaHb7YSoSw7S2p"
+}

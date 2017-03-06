@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3DmG65yHQsMms7WAvrZOdt",
+      "id" : "3DmG65yHQsMms7WAvrZOdt",
+      "name" : "Enigma",
+      "type" : "artist",
+      "uri" : "spotify:artist:3DmG65yHQsMms7WAvrZOdt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7DYEllaK5Cxa2cbcCF1QDV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7DYEllaK5Cxa2cbcCF1QDV",
+    "id" : "7DYEllaK5Cxa2cbcCF1QDV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bf11367fc2bf0c5efaad2bb50e838f9bcad1d63c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/18df9777909a8f476e798f579a929a502cf20ece",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a3a36cac05c3d636b2529c51dda2d761e02e0712",
+      "width" : 64
+    } ],
+    "name" : "The Screen Behind The Mirror",
+    "type" : "album",
+    "uri" : "spotify:album:7DYEllaK5Cxa2cbcCF1QDV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3DmG65yHQsMms7WAvrZOdt",
+    "id" : "3DmG65yHQsMms7WAvrZOdt",
+    "name" : "Enigma",
+    "type" : "artist",
+    "uri" : "spotify:artist:3DmG65yHQsMms7WAvrZOdt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 87866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEG129904408"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2jSXhbckU3vv7tnSvECsk1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2jSXhbckU3vv7tnSvECsk1",
+  "id" : "2jSXhbckU3vv7tnSvECsk1",
+  "name" : "Camera Obscura",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8c81c29c31c069e39035846f359dfea105920d31?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2jSXhbckU3vv7tnSvECsk1"
+}

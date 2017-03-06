@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3h0MN1neFknEvlYKxFmSQW",
+      "id" : "3h0MN1neFknEvlYKxFmSQW",
+      "name" : "Tacocat",
+      "type" : "artist",
+      "uri" : "spotify:artist:3h0MN1neFknEvlYKxFmSQW"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0KzEAXBJH3QYmzqy6mw94d"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0KzEAXBJH3QYmzqy6mw94d",
+    "id" : "0KzEAXBJH3QYmzqy6mw94d",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c089a39268c8e92a496ded1932264a47b27dbcf7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d85a4db7e0cb16ccad04bea428fdea09defc7705",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f29304fa06968f7cdadfeeeb35e4d488256afb58",
+      "width" : 64
+    } ],
+    "name" : "NVM",
+    "type" : "album",
+    "uri" : "spotify:album:0KzEAXBJH3QYmzqy6mw94d"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3h0MN1neFknEvlYKxFmSQW",
+    "id" : "3h0MN1neFknEvlYKxFmSQW",
+    "name" : "Tacocat",
+    "type" : "artist",
+    "uri" : "spotify:artist:3h0MN1neFknEvlYKxFmSQW"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 123328,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USHF31407903"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3P3o65buErc8oWAtebeElv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3P3o65buErc8oWAtebeElv",
+  "id" : "3P3o65buErc8oWAtebeElv",
+  "name" : "Crimson Wave",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9242ab3c12c9aa680da1d38d3ae33deac78b800f?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3P3o65buErc8oWAtebeElv"
+}

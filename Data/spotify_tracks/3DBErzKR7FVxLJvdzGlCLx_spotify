@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4RVnAU35WRWra6OZ3CbbMA",
+      "id" : "4RVnAU35WRWra6OZ3CbbMA",
+      "name" : "Kylie Minogue",
+      "type" : "artist",
+      "uri" : "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4WzTXHp8bVKkKNu3UQ2Fqu",
+    "id" : "4WzTXHp8bVKkKNu3UQ2Fqu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/248887af1ff643db5d16e63f890b30f6c1b92886",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ae2e576aca9264608f2882e6a93ee1e6e277873d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5c4c89535ab00ce83d76a426666123bfbab7a5df",
+      "width" : 64
+    } ],
+    "name" : "Fever",
+    "type" : "album",
+    "uri" : "spotify:album:4WzTXHp8bVKkKNu3UQ2Fqu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4RVnAU35WRWra6OZ3CbbMA",
+    "id" : "4RVnAU35WRWra6OZ3CbbMA",
+    "name" : "Kylie Minogue",
+    "type" : "artist",
+    "uri" : "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 241466,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE0200530"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3DBErzKR7FVxLJvdzGlCLx",
+  "id" : "3DBErzKR7FVxLJvdzGlCLx",
+  "name" : "Can't Get Blue Monday Out Of My Head",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/78710df9032b387359269cc20bdfe330a5cd9f1d?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3DBErzKR7FVxLJvdzGlCLx"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64mJPfKjDJqEcrc1fRJH9j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/64mJPfKjDJqEcrc1fRJH9j",
+      "id" : "64mJPfKjDJqEcrc1fRJH9j",
+      "name" : "Mark Preston",
+      "type" : "artist",
+      "uri" : "spotify:artist:64mJPfKjDJqEcrc1fRJH9j"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6D6xz53TceI61ZebcMtmSo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6D6xz53TceI61ZebcMtmSo",
+    "id" : "6D6xz53TceI61ZebcMtmSo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f151935980689e8111ad77f65ad83f30cac6f574",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f54443bd141b186eb8817774d15ce04ced2d50f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cc5890efd7113b08e7cbd6f57e284559472a8263",
+      "width" : 64
+    } ],
+    "name" : "Nature & Design",
+    "type" : "album",
+    "uri" : "spotify:album:6D6xz53TceI61ZebcMtmSo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/64mJPfKjDJqEcrc1fRJH9j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/64mJPfKjDJqEcrc1fRJH9j",
+    "id" : "64mJPfKjDJqEcrc1fRJH9j",
+    "name" : "Mark Preston",
+    "type" : "artist",
+    "uri" : "spotify:artist:64mJPfKjDJqEcrc1fRJH9j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 303026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USLUQ1000002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/13tyYFcvvwpvd3FtCNZfKh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/13tyYFcvvwpvd3FtCNZfKh",
+  "id" : "13tyYFcvvwpvd3FtCNZfKh",
+  "name" : "Changing Colors",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/44243af34c9292f328c1aff1752477951a1015e5?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:13tyYFcvvwpvd3FtCNZfKh"
+}

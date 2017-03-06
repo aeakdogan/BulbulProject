@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/48hZklIMPklae2Mssfp8Cx",
+      "id" : "48hZklIMPklae2Mssfp8Cx",
+      "name" : "Scuba",
+      "type" : "artist",
+      "uri" : "spotify:artist:48hZklIMPklae2Mssfp8Cx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/33nehTWqjJCYPCBHdzir83"
+    },
+    "href" : "https://api.spotify.com/v1/albums/33nehTWqjJCYPCBHdzir83",
+    "id" : "33nehTWqjJCYPCBHdzir83",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c41c586ef0911baafdd9aae109644aca449ccc87",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/47ad03cd89e0ea201515f8221b0d2d020ef53433",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ccbc9bf865a62127f70fda2b4b37f2d03deed982",
+      "width" : 64
+    } ],
+    "name" : "Triangulation",
+    "type" : "album",
+    "uri" : "spotify:album:33nehTWqjJCYPCBHdzir83"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/48hZklIMPklae2Mssfp8Cx",
+    "id" : "48hZklIMPklae2Mssfp8Cx",
+    "name" : "Scuba",
+    "type" : "artist",
+    "uri" : "spotify:artist:48hZklIMPklae2Mssfp8Cx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 321752,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBHQT1000011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ZTIjx5JjVkWpw5TKTWoVr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ZTIjx5JjVkWpw5TKTWoVr",
+  "id" : "6ZTIjx5JjVkWpw5TKTWoVr",
+  "name" : "Three Sided Shape",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fbcb53d225332b3ca595e830744a84e3732d6aa6?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6ZTIjx5JjVkWpw5TKTWoVr"
+}

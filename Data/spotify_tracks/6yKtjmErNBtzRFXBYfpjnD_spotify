@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5BX7GuCrrMwjbaaKDdniR4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5BX7GuCrrMwjbaaKDdniR4",
+    "id" : "5BX7GuCrrMwjbaaKDdniR4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8ba40413fa178cdd024c6a32b0d0d288141429e1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7cc1c9aa6c816589a86571fe946d4a0fe8ce2939",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7a63489c9d016f086a3a517b255dfad2b4a3fb9d",
+      "width" : 64
+    } ],
+    "name" : "Electro Funky, Vol. 1",
+    "type" : "album",
+    "uri" : "spotify:album:5BX7GuCrrMwjbaaKDdniR4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6C5gMdsVmZHJG6yJuC68sp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6C5gMdsVmZHJG6yJuC68sp",
+    "id" : "6C5gMdsVmZHJG6yJuC68sp",
+    "name" : "Beats International",
+    "type" : "artist",
+    "uri" : "spotify:artist:6C5gMdsVmZHJG6yJuC68sp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 316093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITD541201829"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6yKtjmErNBtzRFXBYfpjnD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6yKtjmErNBtzRFXBYfpjnD",
+  "id" : "6yKtjmErNBtzRFXBYfpjnD",
+  "name" : "Dub Be Good to Me",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d648433de51f25bf0336f91ab52423e1aa3d5a5e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6yKtjmErNBtzRFXBYfpjnD"
+}

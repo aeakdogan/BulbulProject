@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4rs1K6gDzLY5VnCMSC80o7",
+      "id" : "4rs1K6gDzLY5VnCMSC80o7",
+      "name" : "Vacationer",
+      "type" : "artist",
+      "uri" : "spotify:artist:4rs1K6gDzLY5VnCMSC80o7"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5t3e9uaEd5WRqgFZSjwmUH",
+    "id" : "5t3e9uaEd5WRqgFZSjwmUH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/313f449be29972a4930dc89c664da8184f405b6c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/36a7637b9e309a62baf7e7a195d49d3cfc298631",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fe69e51b48b7595bed56255f54b2ef3c0405bb10",
+      "width" : 64
+    } ],
+    "name" : "Gone",
+    "type" : "album",
+    "uri" : "spotify:album:5t3e9uaEd5WRqgFZSjwmUH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4rs1K6gDzLY5VnCMSC80o7",
+    "id" : "4rs1K6gDzLY5VnCMSC80o7",
+    "name" : "Vacationer",
+    "type" : "artist",
+    "uri" : "spotify:artist:4rs1K6gDzLY5VnCMSC80o7"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 204031,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCJ81100803"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4IiLUcJ9MOMXMGNv9zXxY1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4IiLUcJ9MOMXMGNv9zXxY1",
+  "id" : "4IiLUcJ9MOMXMGNv9zXxY1",
+  "name" : "Good As New",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/783e55a80308a7d0f5fa917b2afbc615c03c0b15?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4IiLUcJ9MOMXMGNv9zXxY1"
+}

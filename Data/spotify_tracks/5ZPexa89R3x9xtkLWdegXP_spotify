@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zn0m3hBUQVl6Nf36Sb0A6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zn0m3hBUQVl6Nf36Sb0A6",
+      "id" : "4zn0m3hBUQVl6Nf36Sb0A6",
+      "name" : "Tuxedomoon",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zn0m3hBUQVl6Nf36Sb0A6"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0PV2nBUIBrNCASbp66YkLT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0PV2nBUIBrNCASbp66YkLT",
+    "id" : "0PV2nBUIBrNCASbp66YkLT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b205877c2d82a83e54987c0fae7be2aa5527fd33",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/999b1fb564d4ac9e1510c1452566df345e368c19",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1a2e866bf255f002f6f0d38074c614da00851fee",
+      "width" : 64
+    } ],
+    "name" : "Solve Et Coagula",
+    "type" : "album",
+    "uri" : "spotify:album:0PV2nBUIBrNCASbp66YkLT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4zn0m3hBUQVl6Nf36Sb0A6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4zn0m3hBUQVl6Nf36Sb0A6",
+    "id" : "4zn0m3hBUQVl6Nf36Sb0A6",
+    "name" : "Tuxedomoon",
+    "type" : "artist",
+    "uri" : "spotify:artist:4zn0m3hBUQVl6Nf36Sb0A6"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 208333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BE6F58500530"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5ZPexa89R3x9xtkLWdegXP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5ZPexa89R3x9xtkLWdegXP",
+  "id" : "5ZPexa89R3x9xtkLWdegXP",
+  "name" : "In A Manner Of Speaking",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/82c801623b9e5d77fc743cf7572d8e861f3a4f32?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5ZPexa89R3x9xtkLWdegXP"
+}

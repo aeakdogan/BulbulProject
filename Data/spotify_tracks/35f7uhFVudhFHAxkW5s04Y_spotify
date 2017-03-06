@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+      "id" : "3iOvXCl6edW5Um0fXEBRXy",
+      "name" : "The xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/33UOrxCqUHQDH3XvNEYWoP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/33UOrxCqUHQDH3XvNEYWoP",
+    "id" : "33UOrxCqUHQDH3XvNEYWoP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3e2d14b9bd2dd8a05ff92472556260908f1e3fdd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/274c7e154b40f31be0be1293c541c959dd203dac",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/16408dc4ba4ec576f3ef13e05e3ab131b69e80f9",
+      "width" : 64
+    } ],
+    "name" : "Jamie xx Edits",
+    "type" : "album",
+    "uri" : "spotify:album:33UOrxCqUHQDH3XvNEYWoP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+    "id" : "3iOvXCl6edW5Um0fXEBRXy",
+    "name" : "The xx",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 377623,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS1200209"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/35f7uhFVudhFHAxkW5s04Y"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/35f7uhFVudhFHAxkW5s04Y",
+  "id" : "35f7uhFVudhFHAxkW5s04Y",
+  "name" : "Sunset (Jamie xx Edit)",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/743ddad2f654fde6fee5a749cd7d95fc04bb3da2?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:35f7uhFVudhFHAxkW5s04Y"
+}

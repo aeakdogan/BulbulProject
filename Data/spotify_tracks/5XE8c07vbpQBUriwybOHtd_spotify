@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+      "id" : "3IYUhFvPQItj6xySrBmZkd",
+      "name" : "Creedence Clearwater Revival",
+      "type" : "artist",
+      "uri" : "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/03GKkfyog7hnllilFS3jIV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/03GKkfyog7hnllilFS3jIV",
+    "id" : "03GKkfyog7hnllilFS3jIV",
+    "images" : [ {
+      "height" : 623,
+      "url" : "https://i.scdn.co/image/8c31a46a6f1a2a252876fa890e3341f06398b62b",
+      "width" : 640
+    }, {
+      "height" : 292,
+      "url" : "https://i.scdn.co/image/0729099ad088b012c3f5bf9efe0791ab41feef0b",
+      "width" : 300
+    }, {
+      "height" : 62,
+      "url" : "https://i.scdn.co/image/f96efe73d0a461afcb49e8a60bfbc1102658d59f",
+      "width" : 64
+    } ],
+    "name" : "Chronicle: 20 Greatest Hits",
+    "type" : "album",
+    "uri" : "spotify:album:03GKkfyog7hnllilFS3jIV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+    "id" : "3IYUhFvPQItj6xySrBmZkd",
+    "name" : "Creedence Clearwater Revival",
+    "type" : "artist",
+    "uri" : "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 160000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI87000066"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5XE8c07vbpQBUriwybOHtd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5XE8c07vbpQBUriwybOHtd",
+  "id" : "5XE8c07vbpQBUriwybOHtd",
+  "name" : "Have You Ever Seen The Rain?",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1105f02041b9568367b9fa0a782de97ccf7ac85c?cid=null",
+  "track_number" : 17,
+  "type" : "track",
+  "uri" : "spotify:track:5XE8c07vbpQBUriwybOHtd"
+}

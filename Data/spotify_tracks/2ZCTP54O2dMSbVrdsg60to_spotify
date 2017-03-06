@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kBjAFKyd0he7LiA5GQ3Gz",
+      "id" : "6kBjAFKyd0he7LiA5GQ3Gz",
+      "name" : "Aqua",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kBjAFKyd0he7LiA5GQ3Gz"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2vb252Haz9iX4iOd7vP8kX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2vb252Haz9iX4iOd7vP8kX",
+    "id" : "2vb252Haz9iX4iOd7vP8kX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4f08680e7f893432b7df84b121b750701226b74e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ceb97030d516e5d0d37dd729d8d532e42563eba5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9cfa17c804e434314d53e575c6c60d99a5d98142",
+      "width" : 64
+    } ],
+    "name" : "Greatest Hits",
+    "type" : "album",
+    "uri" : "spotify:album:2vb252Haz9iX4iOd7vP8kX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kBjAFKyd0he7LiA5GQ3Gz",
+    "id" : "6kBjAFKyd0he7LiA5GQ3Gz",
+    "name" : "Aqua",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kBjAFKyd0he7LiA5GQ3Gz"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 195040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DKBKA9700403"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ZCTP54O2dMSbVrdsg60to"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ZCTP54O2dMSbVrdsg60to",
+  "id" : "2ZCTP54O2dMSbVrdsg60to",
+  "name" : "Barbie Girl",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/289fc7594bc6d07e15f920d0fc35653e4a2d1fce?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2ZCTP54O2dMSbVrdsg60to"
+}

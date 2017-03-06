@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj",
+      "id" : "4kwxTgCKMipBKhSnEstNKj",
+      "name" : "Animal Collective",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kwxTgCKMipBKhSnEstNKj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2uhpYe8rxIMQSOJzPu5cx9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2uhpYe8rxIMQSOJzPu5cx9",
+    "id" : "2uhpYe8rxIMQSOJzPu5cx9",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/0bc93bbb58b8bee17101114c7d9e159fe12f7d61",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/e5f3759cc3345600f7a14486a0ad04c23d577456",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/90f0a5acbb879c2990efa43ebf5ae93ed9ff33dc",
+      "width" : 64
+    } ],
+    "name" : "Strawberry Jam",
+    "type" : "album",
+    "uri" : "spotify:album:2uhpYe8rxIMQSOJzPu5cx9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj",
+    "id" : "4kwxTgCKMipBKhSnEstNKj",
+    "name" : "Animal Collective",
+    "type" : "artist",
+    "uri" : "spotify:artist:4kwxTgCKMipBKhSnEstNKj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 315173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0700347"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7KUBlz0peq7a2RBDjhl0Fd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7KUBlz0peq7a2RBDjhl0Fd",
+  "id" : "7KUBlz0peq7a2RBDjhl0Fd",
+  "name" : "Peacebone",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a98cac7818f4a76e40c576c3ab9718ce7a308a98?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7KUBlz0peq7a2RBDjhl0Fd"
+}

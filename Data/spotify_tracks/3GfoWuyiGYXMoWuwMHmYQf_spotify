@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L",
+      "id" : "2TI7qyDE0QfyOlnbtfDo7L",
+      "name" : "Dave Matthews Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:2TI7qyDE0QfyOlnbtfDo7L"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2BxI2w5PnmoX6M81LfPbU9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2BxI2w5PnmoX6M81LfPbU9",
+    "id" : "2BxI2w5PnmoX6M81LfPbU9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ae02c40f704f2f9c5625e7f158042ca1bbe69cf4",
+      "width" : 629
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d261678b047044466f495a00e662f469c21a2441",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d87a71e1a0b280e9fc4dc84384f729bb6d992e11",
+      "width" : 63
+    } ],
+    "name" : "Dave Matthews Band - The Best Of What's Around - Vol.1",
+    "type" : "album",
+    "uri" : "spotify:album:2BxI2w5PnmoX6M81LfPbU9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L",
+    "id" : "2TI7qyDE0QfyOlnbtfDo7L",
+    "name" : "Dave Matthews Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:2TI7qyDE0QfyOlnbtfDo7L"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 306933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC10200362"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3GfoWuyiGYXMoWuwMHmYQf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3GfoWuyiGYXMoWuwMHmYQf",
+  "id" : "3GfoWuyiGYXMoWuwMHmYQf",
+  "name" : "Grey Street",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7aaac4b34dd3ad6df7b96b8bfce1b5ed99ebabcd?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3GfoWuyiGYXMoWuwMHmYQf"
+}

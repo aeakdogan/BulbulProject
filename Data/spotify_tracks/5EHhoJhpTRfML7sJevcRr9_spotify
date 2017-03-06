@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jQPKWBobu6cJwGSbbqgCk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jQPKWBobu6cJwGSbbqgCk",
+      "id" : "5jQPKWBobu6cJwGSbbqgCk",
+      "name" : "Sentenced",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jQPKWBobu6cJwGSbbqgCk"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6zzWN4rMkz4BdK8uLJIfc9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6zzWN4rMkz4BdK8uLJIfc9",
+    "id" : "6zzWN4rMkz4BdK8uLJIfc9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/99fb7cd32fa23533302a8dba8f5faeb649dcdbe0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8fad63d36565ecc421ef4bb8dcf96dec27bb2926",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b7fdd160f832696e323869889b7a1b04b25b6e3d",
+      "width" : 64
+    } ],
+    "name" : "Crimson",
+    "type" : "album",
+    "uri" : "spotify:album:6zzWN4rMkz4BdK8uLJIfc9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5jQPKWBobu6cJwGSbbqgCk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5jQPKWBobu6cJwGSbbqgCk",
+    "id" : "5jQPKWBobu6cJwGSbbqgCk",
+    "name" : "Sentenced",
+    "type" : "artist",
+    "uri" : "spotify:artist:5jQPKWBobu6cJwGSbbqgCk"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 293906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4E40404607"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5EHhoJhpTRfML7sJevcRr9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5EHhoJhpTRfML7sJevcRr9",
+  "id" : "5EHhoJhpTRfML7sJevcRr9",
+  "name" : "Dead Moon Rising",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3be8bc99816709b1ba4960cc5318dcfe742f36d0?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5EHhoJhpTRfML7sJevcRr9"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jkK3K1ATFFHofEWjd2i00",
+      "id" : "0jkK3K1ATFFHofEWjd2i00",
+      "name" : "Laura Veirs",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jkK3K1ATFFHofEWjd2i00"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "JP", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2vtvLFvSihkiqCnKlGIhcm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2vtvLFvSihkiqCnKlGIhcm",
+    "id" : "2vtvLFvSihkiqCnKlGIhcm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d3a24b0899e6d495144f942fc507cae626900e5f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/de566a8515781fb376fd83dd11b0d7b1f2cb7983",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/685295af72b692da709ad3d998fd2f48919d3bd4",
+      "width" : 64
+    } ],
+    "name" : "Warp and Weft",
+    "type" : "album",
+    "uri" : "spotify:album:2vtvLFvSihkiqCnKlGIhcm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0jkK3K1ATFFHofEWjd2i00",
+    "id" : "0jkK3K1ATFFHofEWjd2i00",
+    "name" : "Laura Veirs",
+    "type" : "artist",
+    "uri" : "spotify:artist:0jkK3K1ATFFHofEWjd2i00"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "JP", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2B1302486"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/02EFgz8xvhmPtTIfFp74bf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/02EFgz8xvhmPtTIfFp74bf",
+  "id" : "02EFgz8xvhmPtTIfFp74bf",
+  "name" : "Sadako Folding Cranes",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3784c5a77f58e3573b122bb73c209efc1b41f337?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:02EFgz8xvhmPtTIfFp74bf"
+}

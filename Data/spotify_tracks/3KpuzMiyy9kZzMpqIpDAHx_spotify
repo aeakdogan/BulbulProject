@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54QMjE4toDfiCryzYWCpXX",
+      "id" : "54QMjE4toDfiCryzYWCpXX",
+      "name" : "Metronomy",
+      "type" : "artist",
+      "uri" : "spotify:artist:54QMjE4toDfiCryzYWCpXX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0KhwLl8JKnXaf6KQKBtMZL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0KhwLl8JKnXaf6KQKBtMZL",
+    "id" : "0KhwLl8JKnXaf6KQKBtMZL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/04af8a8c03eb7ac8c0c9fdf8054cce07ce3bfc98",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7a6bf53d4ed59ee6f528533ce505ea9a4ba20e8c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e87b39ad7f677aae1d38d8d3d8d75beac91fef18",
+      "width" : 64
+    } ],
+    "name" : "The English Riviera",
+    "type" : "album",
+    "uri" : "spotify:album:0KhwLl8JKnXaf6KQKBtMZL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/54QMjE4toDfiCryzYWCpXX",
+    "id" : "54QMjE4toDfiCryzYWCpXX",
+    "name" : "Metronomy",
+    "type" : "artist",
+    "uri" : "spotify:artist:54QMjE4toDfiCryzYWCpXX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 196040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBMVH1100080"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3KpuzMiyy9kZzMpqIpDAHx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3KpuzMiyy9kZzMpqIpDAHx",
+  "id" : "3KpuzMiyy9kZzMpqIpDAHx",
+  "name" : "Corinne",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1adb6a59b5c209baa640abbe96f6b13cba875735?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3KpuzMiyy9kZzMpqIpDAHx"
+}

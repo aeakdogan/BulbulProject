@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+      "id" : "7G1GBhoKtEPnP86X2PvEYO",
+      "name" : "Nina Simone",
+      "type" : "artist",
+      "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4UjcMSiyv8QCiZ4O8gpzXS",
+    "id" : "4UjcMSiyv8QCiZ4O8gpzXS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ba3ebe9cb8a785e75fe4a62f85892e25ea47ab2d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3284a21fbf98fce84ba89bd01e89832f5fad0bfd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/72673a23ef5ac3f150f258a57f8fa4ed752a8bae",
+      "width" : 64
+    } ],
+    "name" : "Baltimore",
+    "type" : "album",
+    "uri" : "spotify:album:4UjcMSiyv8QCiZ4O8gpzXS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+    "id" : "7G1GBhoKtEPnP86X2PvEYO",
+    "name" : "Nina Simone",
+    "type" : "artist",
+    "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 278866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10024517"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/39CyGKIFqMzSuynOR8uilD",
+  "id" : "39CyGKIFqMzSuynOR8uilD",
+  "name" : "Baltimore",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/262ef8702160f34a8c74bc832bd8b78e34a3e5ff?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:39CyGKIFqMzSuynOR8uilD"
+}

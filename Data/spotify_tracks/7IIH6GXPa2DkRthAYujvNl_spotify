@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+      "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+      "name" : "Feist",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6nz3TXqtrEU07J4bB4pRFc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6nz3TXqtrEU07J4bB4pRFc",
+    "id" : "6nz3TXqtrEU07J4bB4pRFc",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/c796b7005df9ca43ddc99af45f78ba1beebcda26",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/a9c9feab585e786a1ea432d84339e50abf9db712",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/13087e738fbc1273afec122bfab9f802147ace3a",
+      "width" : 64
+    } ],
+    "name" : "Sealion (Chromeo)",
+    "type" : "album",
+    "uri" : "spotify:album:6nz3TXqtrEU07J4bB4pRFc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+    "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+    "name" : "Feist",
+    "type" : "artist",
+    "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRUM70700044"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7IIH6GXPa2DkRthAYujvNl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7IIH6GXPa2DkRthAYujvNl",
+  "id" : "7IIH6GXPa2DkRthAYujvNl",
+  "name" : "Sealion - Chromeo Remix",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ee8c30ae95611312f14e2164b37d3041042f05c7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7IIH6GXPa2DkRthAYujvNl"
+}

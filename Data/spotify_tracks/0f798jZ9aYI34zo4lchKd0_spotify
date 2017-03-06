@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
+      "id" : "4bthk9UfsYUYdcFyqxmSUU",
+      "name" : "Tears For Fears",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7AMbSdSmAjefZV5m4eNe1C"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7AMbSdSmAjefZV5m4eNe1C",
+    "id" : "7AMbSdSmAjefZV5m4eNe1C",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5c6f3ddf693cb774e9b6434e82728899b88ed59b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/05d030ea79705bf0121780dd540fc9a4cd20fed0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4552421bdcdcfe42db070bb5fbcdea3b8b65e270",
+      "width" : 64
+    } ],
+    "name" : "Songs From The Big Chair (Super Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:7AMbSdSmAjefZV5m4eNe1C"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
+    "id" : "4bthk9UfsYUYdcFyqxmSUU",
+    "name" : "Tears For Fears",
+    "type" : "artist",
+    "uri" : "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 392675,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF088490125"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0f798jZ9aYI34zo4lchKd0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0f798jZ9aYI34zo4lchKd0",
+  "id" : "0f798jZ9aYI34zo4lchKd0",
+  "name" : "Shout",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a1c7160689729ceae86387b2ec07cffb3a40f1d6?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0f798jZ9aYI34zo4lchKd0"
+}

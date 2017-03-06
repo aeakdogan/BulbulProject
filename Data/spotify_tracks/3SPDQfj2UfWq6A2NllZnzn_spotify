@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4AK6F7OLvEQ5QYCBNiQWHq",
+      "id" : "4AK6F7OLvEQ5QYCBNiQWHq",
+      "name" : "One Direction",
+      "type" : "artist",
+      "uri" : "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/53DrBEDi1AvhWOtCdljUiu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/53DrBEDi1AvhWOtCdljUiu",
+    "id" : "53DrBEDi1AvhWOtCdljUiu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5f903ee184c3198bcbe4ef1b52915d93d7e87206",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f9052823b81c42d2b121f3a26cca28639a7c67c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9920ed2ef9aa38347363a92cff8d9bd125a80451",
+      "width" : 64
+    } ],
+    "name" : "Up All Night",
+    "type" : "album",
+    "uri" : "spotify:album:53DrBEDi1AvhWOtCdljUiu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4AK6F7OLvEQ5QYCBNiQWHq",
+    "id" : "4AK6F7OLvEQ5QYCBNiQWHq",
+    "name" : "One Direction",
+    "type" : "artist",
+    "uri" : "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 198053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBHMU1100018"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3SPDQfj2UfWq6A2NllZnzn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3SPDQfj2UfWq6A2NllZnzn",
+  "id" : "3SPDQfj2UfWq6A2NllZnzn",
+  "name" : "What Makes You Beautiful",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/842a51a2c6c77d326c08634d17cfed77d2219889?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3SPDQfj2UfWq6A2NllZnzn"
+}

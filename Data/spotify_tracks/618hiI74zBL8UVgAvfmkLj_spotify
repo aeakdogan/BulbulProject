@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+      "id" : "6PAt558ZEZl0DmdXlnjMgD",
+      "name" : "Eric Clapton",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xLSa7l4IV1gsQfhAMvl0U",
+      "id" : "5xLSa7l4IV1gsQfhAMvl0U",
+      "name" : "B.B. King",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xLSa7l4IV1gsQfhAMvl0U"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7b0Ysbudh2BH9A853EfxEu",
+    "id" : "7b0Ysbudh2BH9A853EfxEu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2333d9635085aa004bd28e231b2c320c57f52b72",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/453e3c86fa3e050d501a9528f05fa0ed9ba102fd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/892959ff479b129ee66081e509d99deee7f7cca9",
+      "width" : 64
+    } ],
+    "name" : "Riding With The King",
+    "type" : "album",
+    "uri" : "spotify:album:7b0Ysbudh2BH9A853EfxEu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+    "id" : "6PAt558ZEZl0DmdXlnjMgD",
+    "name" : "Eric Clapton",
+    "type" : "artist",
+    "uri" : "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5xLSa7l4IV1gsQfhAMvl0U",
+    "id" : "5xLSa7l4IV1gsQfhAMvl0U",
+    "name" : "B.B. King",
+    "type" : "artist",
+    "uri" : "spotify:artist:5xLSa7l4IV1gsQfhAMvl0U"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 264240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE10000576"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/618hiI74zBL8UVgAvfmkLj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/618hiI74zBL8UVgAvfmkLj",
+  "id" : "618hiI74zBL8UVgAvfmkLj",
+  "name" : "Riding With The King",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ba8e03f3cfc7e4f835e0f762dd5fd9d757afcf95?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:618hiI74zBL8UVgAvfmkLj"
+}

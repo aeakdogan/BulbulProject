@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DsdDxHs1zAwOgWDPgNS7l",
+      "id" : "1DsdDxHs1zAwOgWDPgNS7l",
+      "name" : "Dredg",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DsdDxHs1zAwOgWDPgNS7l"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Z9svmadCxrcGfgLaYKMij"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Z9svmadCxrcGfgLaYKMij",
+    "id" : "1Z9svmadCxrcGfgLaYKMij",
+    "images" : [ {
+      "height" : 572,
+      "url" : "https://i.scdn.co/image/3eaf0b13cb832aad46c595a3a95acb6614b38484",
+      "width" : 640
+    }, {
+      "height" : 268,
+      "url" : "https://i.scdn.co/image/6384045858468400eb8c6e5b1b95d788114b50d4",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/ef70e25f6e7de078a960f9b5e963a17604a98f33",
+      "width" : 64
+    } ],
+    "name" : "The Pariah, The Parrot, The Delusion",
+    "type" : "album",
+    "uri" : "spotify:album:1Z9svmadCxrcGfgLaYKMij"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DsdDxHs1zAwOgWDPgNS7l",
+    "id" : "1DsdDxHs1zAwOgWDPgNS7l",
+    "name" : "Dredg",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DsdDxHs1zAwOgWDPgNS7l"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 112546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRFY0900027"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/242r0tBhNAb2GGLaTqnIC9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/242r0tBhNAb2GGLaTqnIC9",
+  "id" : "242r0tBhNAb2GGLaTqnIC9",
+  "name" : "Long Days And Vague Clues",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dadc93885ca9f652310ace2ff54e77d7be505b6e?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:242r0tBhNAb2GGLaTqnIC9"
+}

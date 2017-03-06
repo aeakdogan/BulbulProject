@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1q24xIsAD7JZuVkTLR9TJy",
+      "id" : "1q24xIsAD7JZuVkTLR9TJy",
+      "name" : "Brigitte Bardot",
+      "type" : "artist",
+      "uri" : "spotify:artist:1q24xIsAD7JZuVkTLR9TJy"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ZS2PROQSiGW7c5Uq78oHj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ZS2PROQSiGW7c5Uq78oHj",
+    "id" : "4ZS2PROQSiGW7c5Uq78oHj",
+    "images" : [ {
+      "height" : 577,
+      "url" : "https://i.scdn.co/image/11bbbd8413dadd029a195fceb1457e026b37919a",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/6be869d7a4503db74bfb9dd9ae3daac868b8a573",
+      "width" : 299
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/84ff3ef00a1403698fc59a9272843a8cf9641790",
+      "width" : 64
+    } ],
+    "name" : "BB 64",
+    "type" : "album",
+    "uri" : "spotify:album:4ZS2PROQSiGW7c5Uq78oHj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1q24xIsAD7JZuVkTLR9TJy",
+    "id" : "1q24xIsAD7JZuVkTLR9TJy",
+    "name" : "Brigitte Bardot",
+    "type" : "artist",
+    "uri" : "spotify:artist:1q24xIsAD7JZuVkTLR9TJy"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 140133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ036401900"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1tENRWEzBKKTsY7dxyVZZZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1tENRWEzBKKTsY7dxyVZZZ",
+  "id" : "1tENRWEzBKKTsY7dxyVZZZ",
+  "name" : "Un jour comme un autre",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4aad9e4b23f1d6f083e2d6b1b0701e29fc6a2155?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1tENRWEzBKKTsY7dxyVZZZ"
+}

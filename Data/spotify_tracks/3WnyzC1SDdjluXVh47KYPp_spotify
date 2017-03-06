@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5EHvXKnNz78jkAVgTQLQ5O",
+      "id" : "5EHvXKnNz78jkAVgTQLQ5O",
+      "name" : "Dark Tranquillity",
+      "type" : "artist",
+      "uri" : "spotify:artist:5EHvXKnNz78jkAVgTQLQ5O"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0FNknBhcruZDBOfmm05jMq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0FNknBhcruZDBOfmm05jMq",
+    "id" : "0FNknBhcruZDBOfmm05jMq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6d10faf73f730482aeb2866ea86e17097af084ba",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6ae3537694d854d8d6de53d1ea8386b3dfd856c0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4b1fc318f1c1c97e561690fb9a23572c13d77e53",
+      "width" : 64
+    } ],
+    "name" : "The Gallery",
+    "type" : "album",
+    "uri" : "spotify:album:0FNknBhcruZDBOfmm05jMq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5EHvXKnNz78jkAVgTQLQ5O",
+    "id" : "5EHvXKnNz78jkAVgTQLQ5O",
+    "name" : "Dark Tranquillity",
+    "type" : "artist",
+    "uri" : "spotify:artist:5EHvXKnNz78jkAVgTQLQ5O"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 282906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4E40626008"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3WnyzC1SDdjluXVh47KYPp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3WnyzC1SDdjluXVh47KYPp",
+  "id" : "3WnyzC1SDdjluXVh47KYPp",
+  "name" : "Lethe",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8afcfe14a07c249e2ed78839497e797efcaebe42?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:3WnyzC1SDdjluXVh47KYPp"
+}

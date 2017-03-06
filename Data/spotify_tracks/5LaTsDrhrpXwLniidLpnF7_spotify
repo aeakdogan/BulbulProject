@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/38C3okxv3fyyOIQUVPCdGX",
+      "id" : "38C3okxv3fyyOIQUVPCdGX",
+      "name" : "Lee Morgan",
+      "type" : "artist",
+      "uri" : "spotify:artist:38C3okxv3fyyOIQUVPCdGX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ckt1jRTh6Q08fUvEePI7B",
+    "id" : "3ckt1jRTh6Q08fUvEePI7B",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/18fea574bb4bdbfd55d89629608b7ab0e09dde13",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c57936250b6d0963294aad891f15dad80eec3290",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c20ee7ee417e567b427245384e1af907346fdc65",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Lee Morgan",
+    "type" : "album",
+    "uri" : "spotify:album:3ckt1jRTh6Q08fUvEePI7B"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/38C3okxv3fyyOIQUVPCdGX",
+    "id" : "38C3okxv3fyyOIQUVPCdGX",
+    "name" : "Lee Morgan",
+    "type" : "artist",
+    "uri" : "spotify:artist:38C3okxv3fyyOIQUVPCdGX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 428973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN28700087"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5LaTsDrhrpXwLniidLpnF7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5LaTsDrhrpXwLniidLpnF7",
+  "id" : "5LaTsDrhrpXwLniidLpnF7",
+  "name" : "I Remember Clifford",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/145518b9e54b23dcc76672b9b3104f0a095dc1a2?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5LaTsDrhrpXwLniidLpnF7"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OYDcH3MLWeNjj7gQVUbEF",
+      "id" : "2OYDcH3MLWeNjj7gQVUbEF",
+      "name" : "chris cohen",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OYDcH3MLWeNjj7gQVUbEF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0XfCwycK29k55kb952bXSh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0XfCwycK29k55kb952bXSh",
+    "id" : "0XfCwycK29k55kb952bXSh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/67725e4569831e32f55c25f2238778a2f06e61bf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/551ece796a8911b3e9c65e33840c4e8341d52671",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7f1d1100dbdf598cf3e8f5bbf5f9e6e07e174f78",
+      "width" : 64
+    } ],
+    "name" : "Overgrown Path",
+    "type" : "album",
+    "uri" : "spotify:album:0XfCwycK29k55kb952bXSh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2OYDcH3MLWeNjj7gQVUbEF",
+    "id" : "2OYDcH3MLWeNjj7gQVUbEF",
+    "name" : "chris cohen",
+    "type" : "artist",
+    "uri" : "spotify:artist:2OYDcH3MLWeNjj7gQVUbEF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 249973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMMZN1200030"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/788QEw2xzWfmknNRc06TH8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/788QEw2xzWfmknNRc06TH8",
+  "id" : "788QEw2xzWfmknNRc06TH8",
+  "name" : "Heart Beat",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6128d08ae6d655b16c12315cb89b6320470a4b59?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:788QEw2xzWfmknNRc06TH8"
+}

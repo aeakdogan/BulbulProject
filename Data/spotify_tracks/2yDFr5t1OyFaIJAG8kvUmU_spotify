@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4",
+      "id" : "2Jv5eshHtLycR6R8KQCdc4",
+      "name" : "Grizzly Bear",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Jv5eshHtLycR6R8KQCdc4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0nlBZxaJ8RI2LDPfJQ2nyJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0nlBZxaJ8RI2LDPfJQ2nyJ",
+    "id" : "0nlBZxaJ8RI2LDPfJQ2nyJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a397a7f28c912d71db55dd491a77ea901faab050",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c20183e6340d758f4722743ee98f5103df17a149",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a3a479b769923d9c5de02826045bac93ce2a035c",
+      "width" : 64
+    } ],
+    "name" : "Friend",
+    "type" : "album",
+    "uri" : "spotify:album:0nlBZxaJ8RI2LDPfJQ2nyJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4",
+    "id" : "2Jv5eshHtLycR6R8KQCdc4",
+    "name" : "Grizzly Bear",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Jv5eshHtLycR6R8KQCdc4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 351506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPW0700170"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2yDFr5t1OyFaIJAG8kvUmU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2yDFr5t1OyFaIJAG8kvUmU",
+  "id" : "2yDFr5t1OyFaIJAG8kvUmU",
+  "name" : "Deep Blue Sea - Daniel Rossen Home Recording",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/91e5c508f77dd96c3a403dfbd32056c4b78408f9?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2yDFr5t1OyFaIJAG8kvUmU"
+}

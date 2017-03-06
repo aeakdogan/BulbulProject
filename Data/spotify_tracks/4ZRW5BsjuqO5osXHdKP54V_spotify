@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sD1ZLf2dGQ9gQ3YJl1eAd",
+      "id" : "5sD1ZLf2dGQ9gQ3YJl1eAd",
+      "name" : "Blind Melon",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+    },
+    "href" : "https://api.spotify.com/v1/albums/55jET4vDioHHd7ztX7OX3h",
+    "id" : "55jET4vDioHHd7ztX7OX3h",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8e3333ea5745fa1bf8a005d07dccc63454a42782",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0752dd7efff8a74bb0ddcb29e66cf8674e2f09fb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/35a73c4b7944bb35332807d21a46cf99ea3ca9f5",
+      "width" : 64
+    } ],
+    "name" : "Blind Melon",
+    "type" : "album",
+    "uri" : "spotify:album:55jET4vDioHHd7ztX7OX3h"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5sD1ZLf2dGQ9gQ3YJl1eAd",
+    "id" : "5sD1ZLf2dGQ9gQ3YJl1eAd",
+    "name" : "Blind Melon",
+    "type" : "artist",
+    "uri" : "spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 332666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA29200462"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4ZRW5BsjuqO5osXHdKP54V"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4ZRW5BsjuqO5osXHdKP54V",
+  "id" : "4ZRW5BsjuqO5osXHdKP54V",
+  "name" : "I Wonder",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cec2e04eff0b7162f879861e2871bbd530a531af?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4ZRW5BsjuqO5osXHdKP54V"
+}

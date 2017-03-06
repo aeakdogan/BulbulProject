@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1AeC9AuzqGc3IXMC2T5xny",
+      "id" : "1AeC9AuzqGc3IXMC2T5xny",
+      "name" : "Zakk Wylde",
+      "type" : "artist",
+      "uri" : "spotify:artist:1AeC9AuzqGc3IXMC2T5xny"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0zfT626RwO6zN3RDYeRit5",
+      "id" : "0zfT626RwO6zN3RDYeRit5",
+      "name" : "Black Label Society",
+      "type" : "artist",
+      "uri" : "spotify:artist:0zfT626RwO6zN3RDYeRit5"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Kol9DrkcJAfn9KnmkRGvA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Kol9DrkcJAfn9KnmkRGvA",
+    "id" : "1Kol9DrkcJAfn9KnmkRGvA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/66abaea611a41118f64305d306904ecf53110f37",
+      "width" : 609
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a72b135b3ba7db5280272d3ad4698913504def1b",
+      "width" : 286
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e7b4e1efb82ddbe664438741457d603e8b8208ad",
+      "width" : 61
+    } ],
+    "name" : "Sonic Brew",
+    "type" : "album",
+    "uri" : "spotify:album:1Kol9DrkcJAfn9KnmkRGvA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1AeC9AuzqGc3IXMC2T5xny",
+    "id" : "1AeC9AuzqGc3IXMC2T5xny",
+    "name" : "Zakk Wylde",
+    "type" : "artist",
+    "uri" : "spotify:artist:1AeC9AuzqGc3IXMC2T5xny"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0zfT626RwO6zN3RDYeRit5",
+    "id" : "0zfT626RwO6zN3RDYeRit5",
+    "name" : "Black Label Society",
+    "type" : "artist",
+    "uri" : "spotify:artist:0zfT626RwO6zN3RDYeRit5"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 273533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCBR9900095"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/08Iwdcsq7ggXY0tHRGPW9C"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/08Iwdcsq7ggXY0tHRGPW9C",
+  "id" : "08Iwdcsq7ggXY0tHRGPW9C",
+  "name" : "Peddlers Of Death",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d6f228e139d1daf5cb3a0f5119458e0dcdd6045a?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:08Iwdcsq7ggXY0tHRGPW9C"
+}

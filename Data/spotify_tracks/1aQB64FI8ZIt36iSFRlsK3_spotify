@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+      },
+      "href" : "https://api.spotify.com/v1/artists/00sazWvoTLOqg5MFwC68Um",
+      "id" : "00sazWvoTLOqg5MFwC68Um",
+      "name" : "Yann Tiersen",
+      "type" : "artist",
+      "uri" : "spotify:artist:00sazWvoTLOqg5MFwC68Um"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1wJ0B0p7rZPjsDSH8giQBC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1wJ0B0p7rZPjsDSH8giQBC",
+    "id" : "1wJ0B0p7rZPjsDSH8giQBC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aa13473450d64723156125b02ac2c7cd2f5e161c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/33f36efce656b70e069cfb90a11c63c2c4aa8a62",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/395394ed04b64d366f69e01b467e4ec2fb91885d",
+      "width" : 64
+    } ],
+    "name" : "C'était ici",
+    "type" : "album",
+    "uri" : "spotify:album:1wJ0B0p7rZPjsDSH8giQBC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+    },
+    "href" : "https://api.spotify.com/v1/artists/00sazWvoTLOqg5MFwC68Um",
+    "id" : "00sazWvoTLOqg5MFwC68Um",
+    "name" : "Yann Tiersen",
+    "type" : "artist",
+    "uri" : "spotify:artist:00sazWvoTLOqg5MFwC68Um"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 182200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRS940200020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1aQB64FI8ZIt36iSFRlsK3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1aQB64FI8ZIt36iSFRlsK3",
+  "id" : "1aQB64FI8ZIt36iSFRlsK3",
+  "name" : "Déjà loin - Live",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e636b9b02d0dc3cd670f281d44cf5d38ff8d4dbc?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:1aQB64FI8ZIt36iSFRlsK3"
+}

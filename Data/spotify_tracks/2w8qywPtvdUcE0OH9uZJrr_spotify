@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1FvQZpPhaVvSoQnpslxnvb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1FvQZpPhaVvSoQnpslxnvb",
+      "id" : "1FvQZpPhaVvSoQnpslxnvb",
+      "name" : "Distance",
+      "type" : "artist",
+      "uri" : "spotify:artist:1FvQZpPhaVvSoQnpslxnvb"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "JP", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3fnoiqkTd1S6J6iO4CJn2O"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3fnoiqkTd1S6J6iO4CJn2O",
+    "id" : "3fnoiqkTd1S6J6iO4CJn2O",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/df9f935d3e441a0138c3ccdfd4feecf8ad409464",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e892c12bcdea76bb5093934693eed6811a3fbd0f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/095b16907d0da28d10eb54e0029f73ebe7906e3b",
+      "width" : 64
+    } ],
+    "name" : "My Demons",
+    "type" : "album",
+    "uri" : "spotify:album:3fnoiqkTd1S6J6iO4CJn2O"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1FvQZpPhaVvSoQnpslxnvb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1FvQZpPhaVvSoQnpslxnvb",
+    "id" : "1FvQZpPhaVvSoQnpslxnvb",
+    "name" : "Distance",
+    "type" : "artist",
+    "uri" : "spotify:artist:1FvQZpPhaVvSoQnpslxnvb"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "JP", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 300880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US78Q0700008"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2w8qywPtvdUcE0OH9uZJrr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2w8qywPtvdUcE0OH9uZJrr",
+  "id" : "2w8qywPtvdUcE0OH9uZJrr",
+  "name" : "Ska",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d615003b0ce5c6e4ed5925cccdeeda62450c4947?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2w8qywPtvdUcE0OH9uZJrr"
+}

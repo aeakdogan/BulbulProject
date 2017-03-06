@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2dUiFnJOuYzjPISRq5UwLi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2dUiFnJOuYzjPISRq5UwLi",
+      "id" : "2dUiFnJOuYzjPISRq5UwLi",
+      "name" : "Blumfeld",
+      "type" : "artist",
+      "uri" : "spotify:artist:2dUiFnJOuYzjPISRq5UwLi"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6tWsOeIlo26QpbBljAZg6R"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6tWsOeIlo26QpbBljAZg6R",
+    "id" : "6tWsOeIlo26QpbBljAZg6R",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/4936d3cfdc466afdd7f55eb52ae8a3dc8c294f24",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/849cf7bc07bc997d016cce08b197917c23800f3e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/65c7a85cdd01310c9e565b48b38003d90f04c429",
+      "width" : 64
+    } ],
+    "name" : "Old Nobody",
+    "type" : "album",
+    "uri" : "spotify:album:6tWsOeIlo26QpbBljAZg6R"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2dUiFnJOuYzjPISRq5UwLi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2dUiFnJOuYzjPISRq5UwLi",
+    "id" : "2dUiFnJOuYzjPISRq5UwLi",
+    "name" : "Blumfeld",
+    "type" : "artist",
+    "uri" : "spotify:artist:2dUiFnJOuYzjPISRq5UwLi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 240840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEDR50600038"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3eHH7y4qeR0nHKachmfAeH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3eHH7y4qeR0nHKachmfAeH",
+  "id" : "3eHH7y4qeR0nHKachmfAeH",
+  "name" : "Ein Lied Von Zwei Menschen",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f220e805f01ce1dfe2d7bd99010f91ee7f9930ac?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:3eHH7y4qeR0nHKachmfAeH"
+}

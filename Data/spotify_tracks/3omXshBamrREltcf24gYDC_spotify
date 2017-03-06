@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6VDdCwrBM4qQaGxoAyxyJC",
+      "id" : "6VDdCwrBM4qQaGxoAyxyJC",
+      "name" : "Cold War Kids",
+      "type" : "artist",
+      "uri" : "spotify:artist:6VDdCwrBM4qQaGxoAyxyJC"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2H09itV5a5yUcGyk9u9HwY",
+    "id" : "2H09itV5a5yUcGyk9u9HwY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3b6f2a9b052404308ca1c56576a7340601ba7540",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9a6fd9d16b3e24925ce59a4222a2b79455a440bd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/90332da2c651fe851c5b2159e33bcf36b0668199",
+      "width" : 64
+    } ],
+    "name" : "Hold My Home",
+    "type" : "album",
+    "uri" : "spotify:album:2H09itV5a5yUcGyk9u9HwY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6VDdCwrBM4qQaGxoAyxyJC",
+    "id" : "6VDdCwrBM4qQaGxoAyxyJC",
+    "name" : "Cold War Kids",
+    "type" : "artist",
+    "uri" : "spotify:artist:6VDdCwrBM4qQaGxoAyxyJC"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCJ81401258"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3omXshBamrREltcf24gYDC",
+  "id" : "3omXshBamrREltcf24gYDC",
+  "name" : "First",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ee25473cc7d176aa27654960edebe9cae1ddac04?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3omXshBamrREltcf24gYDC"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aK2PiGHyEgc4wAIKQzMj2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1aK2PiGHyEgc4wAIKQzMj2",
+      "id" : "1aK2PiGHyEgc4wAIKQzMj2",
+      "name" : "I The Mighty",
+      "type" : "artist",
+      "uri" : "spotify:artist:1aK2PiGHyEgc4wAIKQzMj2"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3UPuXTNK3XMgrlI5532LnD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3UPuXTNK3XMgrlI5532LnD",
+    "id" : "3UPuXTNK3XMgrlI5532LnD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/51393a19b36a2ec86db6c64e9cf6f08d3847de40",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/de22e280121c8382ec215096da7fde407c7c5288",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/417fc08b6a22356f2771015652f180de7bc22a2d",
+      "width" : 64
+    } ],
+    "name" : "Karma Never Sleeps",
+    "type" : "album",
+    "uri" : "spotify:album:3UPuXTNK3XMgrlI5532LnD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1aK2PiGHyEgc4wAIKQzMj2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1aK2PiGHyEgc4wAIKQzMj2",
+    "id" : "1aK2PiGHyEgc4wAIKQzMj2",
+    "name" : "I The Mighty",
+    "type" : "artist",
+    "uri" : "spotify:artist:1aK2PiGHyEgc4wAIKQzMj2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 224266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US3X51121003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Z4ge1d7N6IC1SpvmwwFlq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Z4ge1d7N6IC1SpvmwwFlq",
+  "id" : "4Z4ge1d7N6IC1SpvmwwFlq",
+  "name" : "Cutting Room Floor",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4f2ea7cfd74d109f1a7e62434acff9c91bb37947?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4Z4ge1d7N6IC1SpvmwwFlq"
+}

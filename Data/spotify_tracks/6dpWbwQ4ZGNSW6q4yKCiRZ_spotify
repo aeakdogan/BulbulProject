@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj",
+      "id" : "2VYQTNDsvvKN9wmU5W7xpj",
+      "name" : "Marilyn Manson",
+      "type" : "artist",
+      "uri" : "spotify:artist:2VYQTNDsvvKN9wmU5W7xpj"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7fmOTYDQn9DIXCy1YDrl4S",
+    "id" : "7fmOTYDQn9DIXCy1YDrl4S",
+    "images" : [ {
+      "height" : 633,
+      "url" : "https://i.scdn.co/image/4ffc5369709a46e5997d1c44047db44d045d4efa",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/6d6f9602cadac249d9c4565b4b16d7186cc2e254",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/7f91a9895f0bc9ea4c1bab7f5d0ffce7aea72de1",
+      "width" : 64
+    } ],
+    "name" : "Lest We Forget - The Best Of",
+    "type" : "album",
+    "uri" : "spotify:album:7fmOTYDQn9DIXCy1YDrl4S"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj",
+    "id" : "2VYQTNDsvvKN9wmU5W7xpj",
+    "name" : "Marilyn Manson",
+    "type" : "artist",
+    "uri" : "spotify:artist:2VYQTNDsvvKN9wmU5W7xpj"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 220933,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USIR19801982"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6dpWbwQ4ZGNSW6q4yKCiRZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6dpWbwQ4ZGNSW6q4yKCiRZ",
+  "id" : "6dpWbwQ4ZGNSW6q4yKCiRZ",
+  "name" : "The Dope Show",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5cb3b6ac9947dc7b45fb2e696a6aa74c4c384ab3?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6dpWbwQ4ZGNSW6q4yKCiRZ"
+}

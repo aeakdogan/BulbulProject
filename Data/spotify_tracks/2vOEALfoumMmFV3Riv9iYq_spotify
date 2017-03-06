@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fpXM23IoNckJ7NDAm8YJQ",
+      "id" : "1fpXM23IoNckJ7NDAm8YJQ",
+      "name" : "Mark Lanegan",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fpXM23IoNckJ7NDAm8YJQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3VBmyOQghXw8akRgkiH3Qx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3VBmyOQghXw8akRgkiH3Qx",
+    "id" : "3VBmyOQghXw8akRgkiH3Qx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/481c7983e101e9bc8b32719b748a79f938f1d050",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/74ba89f1926e6828e928a5511b8f9b146da0279c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ca768837f53c73e461b489d1d830acb6eddc04ad",
+      "width" : 64
+    } ],
+    "name" : "Bubblegum",
+    "type" : "album",
+    "uri" : "spotify:album:3VBmyOQghXw8akRgkiH3Qx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1fpXM23IoNckJ7NDAm8YJQ",
+    "id" : "1fpXM23IoNckJ7NDAm8YJQ",
+    "name" : "Mark Lanegan",
+    "type" : "artist",
+    "uri" : "spotify:artist:1fpXM23IoNckJ7NDAm8YJQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 166666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAZP0400007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2vOEALfoumMmFV3Riv9iYq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2vOEALfoumMmFV3Riv9iYq",
+  "id" : "2vOEALfoumMmFV3Riv9iYq",
+  "name" : "Sideways In Reverse",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/11f860070241d7aaba5d6a37c56f6de367f032a1?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2vOEALfoumMmFV3Riv9iYq"
+}

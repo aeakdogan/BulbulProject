@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34jw2BbxjoYalTp8cJFCPv",
+      "id" : "34jw2BbxjoYalTp8cJFCPv",
+      "name" : "Heart",
+      "type" : "artist",
+      "uri" : "spotify:artist:34jw2BbxjoYalTp8cJFCPv"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4T7X4vpQD7FCAaYg7sx2iR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4T7X4vpQD7FCAaYg7sx2iR",
+    "id" : "4T7X4vpQD7FCAaYg7sx2iR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eed348866e1df3d872d0b8659eaff81168ab2166",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/546ec42786b93cab2c5546c502825b193e841a8f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7a5cfd6e7089d30db264c0fe04bb624dbcbfc142",
+      "width" : 64
+    } ],
+    "name" : "Dog & Butterfly",
+    "type" : "album",
+    "uri" : "spotify:album:4T7X4vpQD7FCAaYg7sx2iR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/34jw2BbxjoYalTp8cJFCPv",
+    "id" : "34jw2BbxjoYalTp8cJFCPv",
+    "name" : "Heart",
+    "type" : "artist",
+    "uri" : "spotify:artist:34jw2BbxjoYalTp8cJFCPv"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 402933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19916400"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1L0440LHYLdi9Yf18Gjy76"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1L0440LHYLdi9Yf18Gjy76",
+  "id" : "1L0440LHYLdi9Yf18Gjy76",
+  "name" : "Mistral Wind",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/52c150eba26daa7341d2642728a82728089ae951?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1L0440LHYLdi9Yf18Gjy76"
+}

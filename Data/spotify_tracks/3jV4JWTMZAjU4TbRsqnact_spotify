@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09mvgMBvJkxarNIDGdwPWg",
+      "id" : "09mvgMBvJkxarNIDGdwPWg",
+      "name" : "Love and Rockets",
+      "type" : "artist",
+      "uri" : "spotify:artist:09mvgMBvJkxarNIDGdwPWg"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0lZKfL6I9mT0WLGnGfLuN8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0lZKfL6I9mT0WLGnGfLuN8",
+    "id" : "0lZKfL6I9mT0WLGnGfLuN8",
+    "images" : [ {
+      "height" : 580,
+      "url" : "https://i.scdn.co/image/487e405138ec2693ec02c66f41c84fa372e4adf3",
+      "width" : 600
+    }, {
+      "height" : 290,
+      "url" : "https://i.scdn.co/image/365166395b03de558c39634a934102f727d4345d",
+      "width" : 300
+    }, {
+      "height" : 62,
+      "url" : "https://i.scdn.co/image/13f921e17d0c3cbd8ad0b1abe782853ee9bd60f0",
+      "width" : 64
+    } ],
+    "name" : "Sweet F.A.",
+    "type" : "album",
+    "uri" : "spotify:album:0lZKfL6I9mT0WLGnGfLuN8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/09mvgMBvJkxarNIDGdwPWg",
+    "id" : "09mvgMBvJkxarNIDGdwPWg",
+    "name" : "Love and Rockets",
+    "type" : "artist",
+    "uri" : "spotify:artist:09mvgMBvJkxarNIDGdwPWg"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 250666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAZP9600041"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3jV4JWTMZAjU4TbRsqnact"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3jV4JWTMZAjU4TbRsqnact",
+  "id" : "3jV4JWTMZAjU4TbRsqnact",
+  "name" : "Use Me",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/928953ebabc8b49f482a78fd42dd66e9849a0849?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3jV4JWTMZAjU4TbRsqnact"
+}

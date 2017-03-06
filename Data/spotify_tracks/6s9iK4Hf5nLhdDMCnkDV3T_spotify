@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xNadaO5ZZLVJdqDIVVIua"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4xNadaO5ZZLVJdqDIVVIua",
+      "id" : "4xNadaO5ZZLVJdqDIVVIua",
+      "name" : "Electric Six",
+      "type" : "artist",
+      "uri" : "spotify:artist:4xNadaO5ZZLVJdqDIVVIua"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3SHETp4kEDcejJ7yRJzjKS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3SHETp4kEDcejJ7yRJzjKS",
+    "id" : "3SHETp4kEDcejJ7yRJzjKS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9983ccd992fb6c7edc950889f4358df6d85b765e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d0d7c5bcaf90790e9e5526fca91b934566458b0b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/894845eeab9ab934b3625b384841d3989b4a5436",
+      "width" : 64
+    } ],
+    "name" : "Fire",
+    "type" : "album",
+    "uri" : "spotify:album:3SHETp4kEDcejJ7yRJzjKS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4xNadaO5ZZLVJdqDIVVIua"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4xNadaO5ZZLVJdqDIVVIua",
+    "id" : "4xNadaO5ZZLVJdqDIVVIua",
+    "name" : "Electric Six",
+    "type" : "artist",
+    "uri" : "spotify:artist:4xNadaO5ZZLVJdqDIVVIua"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 140906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0200646"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6s9iK4Hf5nLhdDMCnkDV3T"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6s9iK4Hf5nLhdDMCnkDV3T",
+  "id" : "6s9iK4Hf5nLhdDMCnkDV3T",
+  "name" : "Gay Bar",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3804c171e8c3f9efb179168150d4321e407382de?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6s9iK4Hf5nLhdDMCnkDV3T"
+}

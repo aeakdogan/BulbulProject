@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+      "id" : "0k17h0D3J5VfsdmQ1iZtE9",
+      "name" : "Pink Floyd",
+      "type" : "artist",
+      "uri" : "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2vnJKtGjZXRUg0mYPZ3HGH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2vnJKtGjZXRUg0mYPZ3HGH",
+    "id" : "2vnJKtGjZXRUg0mYPZ3HGH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d9f20a8787e841ea8843d93b75e4cf6664587cad",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8f44f0ff82c58fbfc79742d708fe9abed3f7df4a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dd6d235cdeab5863b3130deed3446edada3789ed",
+      "width" : 64
+    } ],
+    "name" : "A Saucerful of Secrets",
+    "type" : "album",
+    "uri" : "spotify:album:2vnJKtGjZXRUg0mYPZ3HGH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+    "id" : "0k17h0D3J5VfsdmQ1iZtE9",
+    "name" : "Pink Floyd",
+    "type" : "artist",
+    "uri" : "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 327986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBN9Y1100014"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6p9UFDNfGrzS5Byd2r9KPk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6p9UFDNfGrzS5Byd2r9KPk",
+  "id" : "6p9UFDNfGrzS5Byd2r9KPk",
+  "name" : "Set the Controls for the Heart of the Sun",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/17ec5e555acf180e7f66fce228cf43be85c8ea93?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6p9UFDNfGrzS5Byd2r9KPk"
+}

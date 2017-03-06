@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id" : "20qISvAhX20dpIbOOzGK3q",
+      "name" : "Nas",
+      "type" : "artist",
+      "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6oSHgr3TZJPCFshYUfBDqE",
+    "id" : "6oSHgr3TZJPCFshYUfBDqE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0e1dd10af8d8ce24a4309d1132491286a9bd685d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/32c803851993ca6b921612246cce2454f8d9eb78",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6c6a8a8ab3b8f3df91f2b967f45ccb1486950b13",
+      "width" : 64
+    } ],
+    "name" : "Illmatic XX",
+    "type" : "album",
+    "uri" : "spotify:album:6oSHgr3TZJPCFshYUfBDqE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+    },
+    "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+    "id" : "20qISvAhX20dpIbOOzGK3q",
+    "name" : "Nas",
+    "type" : "artist",
+    "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 293973,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USSM10017351"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5zwz05jkQVT68CjUpPwFZe",
+  "id" : "5zwz05jkQVT68CjUpPwFZe",
+  "name" : "N.Y. State of Mind",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1a15b1a2287238a4b124d712af2eeac1d6e5b3a2?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5zwz05jkQVT68CjUpPwFZe"
+}

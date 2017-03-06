@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0utS63XytOEVN1EtzWhJpG",
+      "id" : "0utS63XytOEVN1EtzWhJpG",
+      "name" : "The Radio Dept.",
+      "type" : "artist",
+      "uri" : "spotify:artist:0utS63XytOEVN1EtzWhJpG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3o7fnT2YatimRPvfwIbzGx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3o7fnT2YatimRPvfwIbzGx",
+    "id" : "3o7fnT2YatimRPvfwIbzGx",
+    "images" : [ {
+      "height" : 575,
+      "url" : "https://i.scdn.co/image/00480e16681fdc25d6a70e9579414c52430334bf",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/1135c6de63d9f69cdf3d7836839fe19c99290412",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/0b311fa317835dddfc4073daa0a52257c83a49a3",
+      "width" : 64
+    } ],
+    "name" : "Pet Grief",
+    "type" : "album",
+    "uri" : "spotify:album:3o7fnT2YatimRPvfwIbzGx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0utS63XytOEVN1EtzWhJpG",
+    "id" : "0utS63XytOEVN1EtzWhJpG",
+    "name" : "The Radio Dept.",
+    "type" : "artist",
+    "uri" : "spotify:artist:0utS63XytOEVN1EtzWhJpG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 201386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEVMM0603006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6XkrqjRRcKOvUoErRslJvu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6XkrqjRRcKOvUoErRslJvu",
+  "id" : "6XkrqjRRcKOvUoErRslJvu",
+  "name" : "The worst taste in music",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/261f556d4456ae1356ac512e230277cd3c74ff30?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6XkrqjRRcKOvUoErRslJvu"
+}

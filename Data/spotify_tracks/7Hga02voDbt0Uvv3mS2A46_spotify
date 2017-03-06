@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3VNITwohbvU5Wuy5PC6dsI",
+      "id" : "3VNITwohbvU5Wuy5PC6dsI",
+      "name" : "Kool & The Gang",
+      "type" : "artist",
+      "uri" : "spotify:artist:3VNITwohbvU5Wuy5PC6dsI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4atv89tPnov4hlL7WCfqdL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4atv89tPnov4hlL7WCfqdL",
+    "id" : "4atv89tPnov4hlL7WCfqdL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cb3c79f9a395fbea412e5c6fd82a0833d50ee7f5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4bba64d8840187e48a103d812041fe244732315e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d16798aaf65d6079fee585c02487c87a2cb54fc",
+      "width" : 64
+    } ],
+    "name" : "Ladies' Night",
+    "type" : "album",
+    "uri" : "spotify:album:4atv89tPnov4hlL7WCfqdL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3VNITwohbvU5Wuy5PC6dsI",
+    "id" : "3VNITwohbvU5Wuy5PC6dsI",
+    "name" : "Kool & The Gang",
+    "type" : "artist",
+    "uri" : "spotify:artist:3VNITwohbvU5Wuy5PC6dsI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 326960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR20080208"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7Hga02voDbt0Uvv3mS2A46"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7Hga02voDbt0Uvv3mS2A46",
+  "id" : "7Hga02voDbt0Uvv3mS2A46",
+  "name" : "Hangin' Out",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3e16dffe394c15a882debb4ca8925a2855c76b79?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7Hga02voDbt0Uvv3mS2A46"
+}

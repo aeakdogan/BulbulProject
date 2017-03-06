@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1aEYCT7t18aM3VvM6y8oVR",
+      "id" : "1aEYCT7t18aM3VvM6y8oVR",
+      "name" : "Alkaline Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:1aEYCT7t18aM3VvM6y8oVR"
+    } ],
+    "available_markets" : [ "AU", "CA", "CR", "DO", "GT", "HN", "MX", "NI", "NZ", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0iMfoTPQIWL2wtnFcaj6W4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0iMfoTPQIWL2wtnFcaj6W4",
+    "id" : "0iMfoTPQIWL2wtnFcaj6W4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7d7b6ad0d1ff91355c23c45ef39f6bbc1b9c2e42",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d169442adf7d14f6d518ed89f67de10e4c3cd32a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/39e83dfccf6563c2753489f90e060c744d05f1ae",
+      "width" : 64
+    } ],
+    "name" : "Damnesia",
+    "type" : "album",
+    "uri" : "spotify:album:0iMfoTPQIWL2wtnFcaj6W4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1aEYCT7t18aM3VvM6y8oVR",
+    "id" : "1aEYCT7t18aM3VvM6y8oVR",
+    "name" : "Alkaline Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:1aEYCT7t18aM3VvM6y8oVR"
+  } ],
+  "available_markets" : [ "AU", "CA", "CR", "DO", "GT", "HN", "MX", "NI", "NZ", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 220560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP41116011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0bfk9483ykobasS246BIjR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0bfk9483ykobasS246BIjR",
+  "id" : "0bfk9483ykobasS246BIjR",
+  "name" : "Blue In The Face",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f8294b98ff3cb6bfe1971768116b4a918ff9b54c?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0bfk9483ykobasS246BIjR"
+}

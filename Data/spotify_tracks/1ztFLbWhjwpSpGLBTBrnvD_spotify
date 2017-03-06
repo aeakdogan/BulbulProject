@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5EHvXKnNz78jkAVgTQLQ5O",
+      "id" : "5EHvXKnNz78jkAVgTQLQ5O",
+      "name" : "Dark Tranquillity",
+      "type" : "artist",
+      "uri" : "spotify:artist:5EHvXKnNz78jkAVgTQLQ5O"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/52LrH6PLvqqR2Pl34QfX7v"
+    },
+    "href" : "https://api.spotify.com/v1/albums/52LrH6PLvqqR2Pl34QfX7v",
+    "id" : "52LrH6PLvqqR2Pl34QfX7v",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/82d1b9c85a0dca0097f8c15ae2985513e6a23e88",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f434a90559716b0fabd9165b638df878ffc55ddd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/24c63b60bcf35cfefeb953af8a5cfe7ec57f0e5b",
+      "width" : 64
+    } ],
+    "name" : "Haven",
+    "type" : "album",
+    "uri" : "spotify:album:52LrH6PLvqqR2Pl34QfX7v"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5EHvXKnNz78jkAVgTQLQ5O",
+    "id" : "5EHvXKnNz78jkAVgTQLQ5O",
+    "name" : "Dark Tranquillity",
+    "type" : "artist",
+    "uri" : "spotify:artist:5EHvXKnNz78jkAVgTQLQ5O"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 215333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4E40961903"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1ztFLbWhjwpSpGLBTBrnvD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1ztFLbWhjwpSpGLBTBrnvD",
+  "id" : "1ztFLbWhjwpSpGLBTBrnvD",
+  "name" : "Indifferent Suns",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/39464c1d72b89f69a6916d4248a509925a1713e5?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1ztFLbWhjwpSpGLBTBrnvD"
+}

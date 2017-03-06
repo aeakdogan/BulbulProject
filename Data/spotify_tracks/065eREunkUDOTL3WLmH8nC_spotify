@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1FWybrAwiSa0zKibdLfZZr",
+      "id" : "1FWybrAwiSa0zKibdLfZZr",
+      "name" : "Blue Foundation",
+      "type" : "artist",
+      "uri" : "spotify:artist:1FWybrAwiSa0zKibdLfZZr"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Chvs2hsJcGowLm4PgigEl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Chvs2hsJcGowLm4PgigEl",
+    "id" : "5Chvs2hsJcGowLm4PgigEl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/20339d9629357a35543714ecf17eaefe59a86a49",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5b8d90946c37384c762b1f2e14cd71a856564c9f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/71cdd101c138e3f75fb49d5055f7acda2314cdb2",
+      "width" : 64
+    } ],
+    "name" : "Life Of A Ghost",
+    "type" : "album",
+    "uri" : "spotify:album:5Chvs2hsJcGowLm4PgigEl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1FWybrAwiSa0zKibdLfZZr",
+    "id" : "1FWybrAwiSa0zKibdLfZZr",
+    "name" : "Blue Foundation",
+    "type" : "artist",
+    "uri" : "spotify:artist:1FWybrAwiSa0zKibdLfZZr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 218826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DKABA0700902"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/065eREunkUDOTL3WLmH8nC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/065eREunkUDOTL3WLmH8nC",
+  "id" : "065eREunkUDOTL3WLmH8nC",
+  "name" : "Little By Little",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4f787a12573fdf71a33869c814fc3db45ed6ccdc?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:065eREunkUDOTL3WLmH8nC"
+}

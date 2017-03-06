@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
+      "id" : "6J7biCazzYhU3gM9j1wfid",
+      "name" : "Jamiroquai",
+      "type" : "artist",
+      "uri" : "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2M50cB74zAc1lQNlrlYHxY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2M50cB74zAc1lQNlrlYHxY",
+    "id" : "2M50cB74zAc1lQNlrlYHxY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a795bcaffb81317880729d8701a7f11b6514c51f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0670d68622f88d00c98c119f0bcd3ebe03b5ecf7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/76410cea659126da6d9be39b9ba2a016dddff20b",
+      "width" : 64
+    } ],
+    "name" : "A Funk Odyssey",
+    "type" : "album",
+    "uri" : "spotify:album:2M50cB74zAc1lQNlrlYHxY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
+    "id" : "6J7biCazzYhU3gM9j1wfid",
+    "name" : "Jamiroquai",
+    "type" : "artist",
+    "uri" : "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 321426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBN0102307"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4fdFD4s1wn2QnSEKrNAixv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4fdFD4s1wn2QnSEKrNAixv",
+  "id" : "4fdFD4s1wn2QnSEKrNAixv",
+  "name" : "Feel So Good",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7b9d69cdbf2016f222b0dd0142df628a3e2a67bd?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4fdFD4s1wn2QnSEKrNAixv"
+}

@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Y4JE6x9f4vZopMCpSdTwY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Y4JE6x9f4vZopMCpSdTwY",
+    "id" : "4Y4JE6x9f4vZopMCpSdTwY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/46410f016ba0bf5fe638390b751f03768fa20bbd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b61f6c6721cf6211165ffebf9953604a0e8b7e4f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0c9fa06cdbe9746033dd14481f72420b73544a9f",
+      "width" : 64
+    } ],
+    "name" : "The Most Relaxing Classical Music In The Universe",
+    "type" : "album",
+    "uri" : "spotify:album:4Y4JE6x9f4vZopMCpSdTwY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+    "id" : "5aIqB5nVVvmFsvSdExz408",
+    "name" : "Johann Sebastian Bach",
+    "type" : "artist",
+    "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6P15GvGmCRlnftxb0v1SlO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6P15GvGmCRlnftxb0v1SlO",
+    "id" : "6P15GvGmCRlnftxb0v1SlO",
+    "name" : "Frank Shipway & Royal Philharmonic Orchestra London",
+    "type" : "artist",
+    "uri" : "spotify:artist:6P15GvGmCRlnftxb0v1SlO"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 205120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSJ10301392"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2L5WJA8XcCnczIVhujMNcZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2L5WJA8XcCnczIVhujMNcZ",
+  "id" : "2L5WJA8XcCnczIVhujMNcZ",
+  "name" : "Air on a G String",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d9d162bf9d0afd1c658329096460e500564cdb3b?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2L5WJA8XcCnczIVhujMNcZ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1REIcVUKiv1NcVivFm1ufJ",
+      "id" : "1REIcVUKiv1NcVivFm1ufJ",
+      "name" : "Stee Downes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1REIcVUKiv1NcVivFm1ufJ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5GXIP1Khsdqoo3023SC0co"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5GXIP1Khsdqoo3023SC0co",
+    "id" : "5GXIP1Khsdqoo3023SC0co",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/91f63ad98df629d888be5d019e9a09e8b7ffde40",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0fe8176d39c301e41236361d159d8e66285a4174",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/731c8dbd138e5f91d67c68c189fb0b799233b6d6",
+      "width" : 64
+    } ],
+    "name" : "All In A Day",
+    "type" : "album",
+    "uri" : "spotify:album:5GXIP1Khsdqoo3023SC0co"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1REIcVUKiv1NcVivFm1ufJ",
+    "id" : "1REIcVUKiv1NcVivFm1ufJ",
+    "name" : "Stee Downes",
+    "type" : "artist",
+    "uri" : "spotify:artist:1REIcVUKiv1NcVivFm1ufJ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 349026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEP960800130"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0AT5tolKxuVl6tnsQatG5C"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0AT5tolKxuVl6tnsQatG5C",
+  "id" : "0AT5tolKxuVl6tnsQatG5C",
+  "name" : "Asunder",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2950c4588f82b9c023bc126a4e9e061f253d6a1c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0AT5tolKxuVl6tnsQatG5C"
+}

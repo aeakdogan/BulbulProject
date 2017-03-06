@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02uPe16VFxPaiueQsPEDkE",
+      "id" : "02uPe16VFxPaiueQsPEDkE",
+      "name" : "The Album Leaf",
+      "type" : "artist",
+      "uri" : "spotify:artist:02uPe16VFxPaiueQsPEDkE"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6WmTiX3fSgwC6QO1QScVD4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6WmTiX3fSgwC6QO1QScVD4",
+    "id" : "6WmTiX3fSgwC6QO1QScVD4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/da0b85051196364aaaf57c9e8b5c0f4ca5477f33",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b0cef0c938a6691545f843480eb3f8e943bcd76c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/152170118da65bd0b13de8832c7936a52327afa1",
+      "width" : 64
+    } ],
+    "name" : "A Chorus of Storytellers",
+    "type" : "album",
+    "uri" : "spotify:album:6WmTiX3fSgwC6QO1QScVD4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/02uPe16VFxPaiueQsPEDkE",
+    "id" : "02uPe16VFxPaiueQsPEDkE",
+    "name" : "The Album Leaf",
+    "type" : "artist",
+    "uri" : "spotify:artist:02uPe16VFxPaiueQsPEDkE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 244533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB0980509"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0JG7pIMqZqBBIQj3aNugkq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0JG7pIMqZqBBIQj3aNugkq",
+  "id" : "0JG7pIMqZqBBIQj3aNugkq",
+  "name" : "We Are",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/65e98befc69d9c2703e7d722a0710493a77059d7?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:0JG7pIMqZqBBIQj3aNugkq"
+}

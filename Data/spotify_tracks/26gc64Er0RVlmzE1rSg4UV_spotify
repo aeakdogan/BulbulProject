@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6is2U7I1jlI8PjxNZOHIMV",
+      "id" : "6is2U7I1jlI8PjxNZOHIMV",
+      "name" : "DeBarge",
+      "type" : "artist",
+      "uri" : "spotify:artist:6is2U7I1jlI8PjxNZOHIMV"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/57IZZcctUSQGDl9cazWLvQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/57IZZcctUSQGDl9cazWLvQ",
+    "id" : "57IZZcctUSQGDl9cazWLvQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3f941699863a924e4ed9ad2fa5c0ad8a9f2a5a6b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a99e45754c67eca270bdab7b787310d5a9bc1496",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c244a211012baa30747c4e00a7d0e52092dac8f",
+      "width" : 64
+    } ],
+    "name" : "The DeBarges",
+    "type" : "album",
+    "uri" : "spotify:album:57IZZcctUSQGDl9cazWLvQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6is2U7I1jlI8PjxNZOHIMV",
+    "id" : "6is2U7I1jlI8PjxNZOHIMV",
+    "name" : "DeBarge",
+    "type" : "artist",
+    "uri" : "spotify:artist:6is2U7I1jlI8PjxNZOHIMV"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224972,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71111234"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/26gc64Er0RVlmzE1rSg4UV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/26gc64Er0RVlmzE1rSg4UV",
+  "id" : "26gc64Er0RVlmzE1rSg4UV",
+  "name" : "Hesitated",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6506b80c978e833ce137d4a5a8ddec72a2ead53b?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:26gc64Er0RVlmzE1rSg4UV"
+}

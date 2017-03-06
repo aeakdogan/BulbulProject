@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xUZ4069zcyBM4Bn10NQ1c",
+      "id" : "7xUZ4069zcyBM4Bn10NQ1c",
+      "name" : "Ásgeir",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xUZ4069zcyBM4Bn10NQ1c"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/69ca0kNrnT5F8jvzNpEjD8",
+    "id" : "69ca0kNrnT5F8jvzNpEjD8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cd27ebc6b4377e52d7fe5d41d1432c50cb274ebd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/af5c95f4021c93c529bbb96562e2177caab279b4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/21d10f247b32ceda74c2444e1b239e79f5bbe243",
+      "width" : 64
+    } ],
+    "name" : "In the Silence",
+    "type" : "album",
+    "uri" : "spotify:album:69ca0kNrnT5F8jvzNpEjD8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7xUZ4069zcyBM4Bn10NQ1c",
+    "id" : "7xUZ4069zcyBM4Bn10NQ1c",
+    "name" : "Ásgeir",
+    "type" : "artist",
+    "uri" : "spotify:artist:7xUZ4069zcyBM4Bn10NQ1c"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 212679,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBTF1300144"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ebPr3K76DCY8ge2uWZP8G"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ebPr3K76DCY8ge2uWZP8G",
+  "id" : "6ebPr3K76DCY8ge2uWZP8G",
+  "name" : "King and Cross",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fb57677dda8a9421f59bbf490bea8abc52976e44?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6ebPr3K76DCY8ge2uWZP8G"
+}

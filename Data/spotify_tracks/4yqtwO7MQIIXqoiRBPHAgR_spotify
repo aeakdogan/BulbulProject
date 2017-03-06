@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+      "id" : "0WwSkZ7LtFUFjGjMZBMt6T",
+      "name" : "Dire Straits",
+      "type" : "artist",
+      "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7jvcSnCnugLcisBCNBm60s",
+    "id" : "7jvcSnCnugLcisBCNBm60s",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d24a735d8ff6ef1b39abc09a3129260a21b2e55b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7d35113059d01049aabafe431d4f2e7e64e4592f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/144e8b4157a0562c19d15d2cc2b7112b617e4285",
+      "width" : 64
+    } ],
+    "name" : "Brothers In Arms",
+    "type" : "album",
+    "uri" : "spotify:album:7jvcSnCnugLcisBCNBm60s"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+    "id" : "0WwSkZ7LtFUFjGjMZBMt6T",
+    "name" : "Dire Straits",
+    "type" : "artist",
+    "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+    "id" : "0Ty63ceoRnnJKVEYP0VQpk",
+    "name" : "Sting",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 506400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF088500674"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4yqtwO7MQIIXqoiRBPHAgR",
+  "id" : "4yqtwO7MQIIXqoiRBPHAgR",
+  "name" : "Money For Nothing",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/de29252ad3422a46bf0b4f2ee128ef09ec543c5e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4yqtwO7MQIIXqoiRBPHAgR"
+}

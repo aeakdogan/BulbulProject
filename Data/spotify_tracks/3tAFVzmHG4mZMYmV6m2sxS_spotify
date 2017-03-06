@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fTuDQJqqMDrrEXSFmgyJt",
+      "id" : "6fTuDQJqqMDrrEXSFmgyJt",
+      "name" : "Hauschka",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fTuDQJqqMDrrEXSFmgyJt"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3AVS4yRuuVbRB8u19HNmpD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3AVS4yRuuVbRB8u19HNmpD",
+    "id" : "3AVS4yRuuVbRB8u19HNmpD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/27373ac8e14b6c34fb049f2703d4a50d03d9b5ab",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c365b6ee2148528f8387a58db2635a98b5aca5d7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/df1105c9626308b852f650e23ec6120296f01cd5",
+      "width" : 64
+    } ],
+    "name" : "Room to Expand",
+    "type" : "album",
+    "uri" : "spotify:album:3AVS4yRuuVbRB8u19HNmpD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6fTuDQJqqMDrrEXSFmgyJt",
+    "id" : "6fTuDQJqqMDrrEXSFmgyJt",
+    "name" : "Hauschka",
+    "type" : "artist",
+    "uri" : "spotify:artist:6fTuDQJqqMDrrEXSFmgyJt"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 295986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDCA0600802"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3tAFVzmHG4mZMYmV6m2sxS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3tAFVzmHG4mZMYmV6m2sxS",
+  "id" : "3tAFVzmHG4mZMYmV6m2sxS",
+  "name" : "Chicago Morning",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f520bddf4dbd4bcbe106c3d452d16ec622e30849?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3tAFVzmHG4mZMYmV6m2sxS"
+}

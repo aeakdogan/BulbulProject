@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1geEJC0mAf9bjfmYCffS9F",
+      "id" : "1geEJC0mAf9bjfmYCffS9F",
+      "name" : "The Daysleepers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1geEJC0mAf9bjfmYCffS9F"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5S0BOStxAckOPBqo8UXqRw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5S0BOStxAckOPBqo8UXqRw",
+    "id" : "5S0BOStxAckOPBqo8UXqRw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a8adcbc88bcc5d125cb2b461c1007fe747e2490a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7610409b2128188737087fe04a9d6403f41271c1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/639643da5b59dbcabc48386ab8d4972f5bdf195e",
+      "width" : 64
+    } ],
+    "name" : "Drowned In a Sea of Sound",
+    "type" : "album",
+    "uri" : "spotify:album:5S0BOStxAckOPBqo8UXqRw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1geEJC0mAf9bjfmYCffS9F",
+    "id" : "1geEJC0mAf9bjfmYCffS9F",
+    "name" : "The Daysleepers",
+    "type" : "artist",
+    "uri" : "spotify:artist:1geEJC0mAf9bjfmYCffS9F"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 233706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBHM0810052"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0BRdYww51xEscHfdBONMWw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0BRdYww51xEscHfdBONMWw",
+  "id" : "0BRdYww51xEscHfdBONMWw",
+  "name" : "Release the Kraken",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/69306ac7c0f258b46595f2b2adccd95a25401956?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0BRdYww51xEscHfdBONMWw"
+}

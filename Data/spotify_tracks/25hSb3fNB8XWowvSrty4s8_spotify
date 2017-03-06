@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67tgMwUfnmqzYsNAtnP6YJ",
+      "id" : "67tgMwUfnmqzYsNAtnP6YJ",
+      "name" : "Groove Armada",
+      "type" : "artist",
+      "uri" : "spotify:artist:67tgMwUfnmqzYsNAtnP6YJ"
+    } ],
+    "available_markets" : [ "AR", "BO", "CL", "JP", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3q9DUenNiNGjs9VHZi3zOB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3q9DUenNiNGjs9VHZi3zOB",
+    "id" : "3q9DUenNiNGjs9VHZi3zOB",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/840fd2de9016773e7ca6d4ed69e4a3ffdca2c4c3",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/671c5876ef49fc54d42439cd0d596452e14fe624",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/af85f54f0750def6e0cba46c6316ef8d946454f5",
+      "width" : 64
+    } ],
+    "name" : "Lovebox",
+    "type" : "album",
+    "uri" : "spotify:album:3q9DUenNiNGjs9VHZi3zOB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/67tgMwUfnmqzYsNAtnP6YJ",
+    "id" : "67tgMwUfnmqzYsNAtnP6YJ",
+    "name" : "Groove Armada",
+    "type" : "artist",
+    "uri" : "spotify:artist:67tgMwUfnmqzYsNAtnP6YJ"
+  } ],
+  "available_markets" : [ "AR", "BO", "CL", "JP", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 359266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHK0200151"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/25hSb3fNB8XWowvSrty4s8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/25hSb3fNB8XWowvSrty4s8",
+  "id" : "25hSb3fNB8XWowvSrty4s8",
+  "name" : "Think Twice",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5f3976387c0cb9c2da87ad9b48f5327e0a4900c8?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:25hSb3fNB8XWowvSrty4s8"
+}

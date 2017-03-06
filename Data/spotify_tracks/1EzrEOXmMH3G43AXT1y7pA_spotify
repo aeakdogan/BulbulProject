@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id" : "4phGZZrJZRo4ElhRtViYdl",
+      "name" : "Jason Mraz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/04G0YylSjvDQZrjOfE5jA5",
+    "id" : "04G0YylSjvDQZrjOfE5jA5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/678a0b275dc2a108cf88ad43897ab9e0a2875931",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/56b294a083b243e6a2ba3f9dd04588242fc8164a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/013e793b16ec7244e5909ee67201ad945cf86974",
+      "width" : 64
+    } ],
+    "name" : "We Sing. We Dance. We Steal Things.",
+    "type" : "album",
+    "uri" : "spotify:album:04G0YylSjvDQZrjOfE5jA5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+    "id" : "4phGZZrJZRo4ElhRtViYdl",
+    "name" : "Jason Mraz",
+    "type" : "artist",
+    "uri" : "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 242186,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10800667"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1EzrEOXmMH3G43AXT1y7pA",
+  "id" : "1EzrEOXmMH3G43AXT1y7pA",
+  "name" : "I'm Yours",
+  "popularity" : 77,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c58f1bc9160754337b858a4eb824a6ac2321041d?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1EzrEOXmMH3G43AXT1y7pA"
+}

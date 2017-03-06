@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ScuQ8TIlsmpeThaI18gYC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ScuQ8TIlsmpeThaI18gYC",
+      "id" : "1ScuQ8TIlsmpeThaI18gYC",
+      "name" : "Rowland S. Howard",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ScuQ8TIlsmpeThaI18gYC"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7KP0IKZZSk6lgefqby4Lr6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7KP0IKZZSk6lgefqby4Lr6",
+    "id" : "7KP0IKZZSk6lgefqby4Lr6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/793d37a58fc872981127d5d79eaaf6f2cedca21e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5db7b4f80fc315deaec9f72b9f328d68eae8e046",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0fd785c098dc4a26ab95246b5a5822e941c80a78",
+      "width" : 64
+    } ],
+    "name" : "Pop Crimes",
+    "type" : "album",
+    "uri" : "spotify:album:7KP0IKZZSk6lgefqby4Lr6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ScuQ8TIlsmpeThaI18gYC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ScuQ8TIlsmpeThaI18gYC",
+    "id" : "1ScuQ8TIlsmpeThaI18gYC",
+    "name" : "Rowland S. Howard",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ScuQ8TIlsmpeThaI18gYC"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 260986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFP71446502"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1fndyRLnEGZll9RQCRoH04"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1fndyRLnEGZll9RQCRoH04",
+  "id" : "1fndyRLnEGZll9RQCRoH04",
+  "name" : "Shut Me Down",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/44da3bd367c79bce4d32f7cf9ab041636d058de5?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1fndyRLnEGZll9RQCRoH04"
+}

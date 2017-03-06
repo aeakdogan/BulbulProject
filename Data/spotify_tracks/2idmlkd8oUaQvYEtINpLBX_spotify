@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TNt4aUIxgfy9aoaft5Jj2",
+      "id" : "3TNt4aUIxgfy9aoaft5Jj2",
+      "name" : "Yeah Yeah Yeahs",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TNt4aUIxgfy9aoaft5Jj2"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4HYlbaWDkCNXXNWQEYl9sV",
+    "id" : "4HYlbaWDkCNXXNWQEYl9sV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5286bbe687264a26570f0961e5ddddff7de0a0d1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/79f523f2481c7377592f8fd5c364478a363e6d03",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fc73e4fb644052fec5b023b3d78841d6f2110f47",
+      "width" : 64
+    } ],
+    "name" : "Heads Will Roll",
+    "type" : "album",
+    "uri" : "spotify:album:4HYlbaWDkCNXXNWQEYl9sV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3TNt4aUIxgfy9aoaft5Jj2",
+    "id" : "3TNt4aUIxgfy9aoaft5Jj2",
+    "name" : "Yeah Yeah Yeahs",
+    "type" : "artist",
+    "uri" : "spotify:artist:3TNt4aUIxgfy9aoaft5Jj2"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 383546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70906794"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2idmlkd8oUaQvYEtINpLBX",
+  "id" : "2idmlkd8oUaQvYEtINpLBX",
+  "name" : "Heads Will Roll - A-Trak Remix",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0f26d1cc083dc651945664a1bada35db34cf6d85?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2idmlkd8oUaQvYEtINpLBX"
+}

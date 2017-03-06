@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+      "id" : "0ZXKT0FCsLWkSLCjoBJgBX",
+      "name" : "Anathema",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/48vd8hPgdxQO3kbkmudaja"
+    },
+    "href" : "https://api.spotify.com/v1/albums/48vd8hPgdxQO3kbkmudaja",
+    "id" : "48vd8hPgdxQO3kbkmudaja",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ffb379dea630b0fecdb175b61a82d1b6f056c047",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7fa17ec7687b61499ac0e5d5abe73e33b44b5544",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8f0a19f24d665f2cc32e9abd2ac05660d4f8b09d",
+      "width" : 64
+    } ],
+    "name" : "Alternative 4",
+    "type" : "album",
+    "uri" : "spotify:album:48vd8hPgdxQO3kbkmudaja"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+    "id" : "0ZXKT0FCsLWkSLCjoBJgBX",
+    "name" : "Anathema",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 232333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCQV9800024"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1XQFO9LfBZfsLvoxmWVAYe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1XQFO9LfBZfsLvoxmWVAYe",
+  "id" : "1XQFO9LfBZfsLvoxmWVAYe",
+  "name" : "Re-Connect",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8e6796a7d01ec3440e074ce053c6e7624dce5c8a?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1XQFO9LfBZfsLvoxmWVAYe"
+}

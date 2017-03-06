@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yMqxge3rOuzpKVIoSQToG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yMqxge3rOuzpKVIoSQToG",
+      "id" : "7yMqxge3rOuzpKVIoSQToG",
+      "name" : "Ritchie Blackmore's Rainbow",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yMqxge3rOuzpKVIoSQToG"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4AMw3BAI332H4EVqVGi9aV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4AMw3BAI332H4EVqVGi9aV",
+    "id" : "4AMw3BAI332H4EVqVGi9aV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/331432aa3a8fe2cbd2d1b907fd72a5b93d171423",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3c20aa5e1dad102421b49a0a6cf08eb484a45dc4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2b9b84e3e027454ac54b5798bb005fb2e4e83a6c",
+      "width" : 64
+    } ],
+    "name" : "Memories In Rock: Live In Germany",
+    "type" : "album",
+    "uri" : "spotify:album:4AMw3BAI332H4EVqVGi9aV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7yMqxge3rOuzpKVIoSQToG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7yMqxge3rOuzpKVIoSQToG",
+    "id" : "7yMqxge3rOuzpKVIoSQToG",
+    "name" : "Ritchie Blackmore's Rainbow",
+    "type" : "artist",
+    "uri" : "spotify:artist:7yMqxge3rOuzpKVIoSQToG"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3ynciOYDCJvUR7IGN7iczi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3ynciOYDCJvUR7IGN7iczi",
+    "id" : "3ynciOYDCJvUR7IGN7iczi",
+    "name" : "Martin Pullan",
+    "type" : "artist",
+    "uri" : "spotify:artist:3ynciOYDCJvUR7IGN7iczi"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 171120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCBR1600296"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2s8s2pgX8i7s7rrdgQtaxo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2s8s2pgX8i7s7rrdgQtaxo",
+  "id" : "2s8s2pgX8i7s7rrdgQtaxo",
+  "name" : "Since You’ve Been Gone - Live At Stuttgart",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b0401bebc0ac44d3983cf209ac04834cab9dd60c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2s8s2pgX8i7s7rrdgQtaxo"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0JslP1INFAjllKPtU9qknU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0JslP1INFAjllKPtU9qknU",
+    "id" : "0JslP1INFAjllKPtU9qknU",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/9f0094478f61edf1d39c0071c89b609a2ae3dee6",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4ee8b32d95813afbf3c316b01afc3ee1341c8ccc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/87b4f44bac759e2dd1a55fe9fd46f30bc87e4b39",
+      "width" : 64
+    } ],
+    "name" : "Best Of Narada New Age",
+    "type" : "album",
+    "uri" : "spotify:album:0JslP1INFAjllKPtU9qknU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3PJf9tyCBdYvchFXkl8YLF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3PJf9tyCBdYvchFXkl8YLF",
+    "id" : "3PJf9tyCBdYvchFXkl8YLF",
+    "name" : "Michael Gettel",
+    "type" : "artist",
+    "uri" : "spotify:artist:3PJf9tyCBdYvchFXkl8YLF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 171400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNA10218724"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7Dy190FwZJAD1JPc3C4UGI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7Dy190FwZJAD1JPc3C4UGI",
+  "id" : "7Dy190FwZJAD1JPc3C4UGI",
+  "name" : "Prelude: First Snow",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9a6052d0b587372f9f512a0ce0b3975b26fe4e99?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7Dy190FwZJAD1JPc3C4UGI"
+}

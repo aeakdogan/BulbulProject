@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+      "id" : "3fMbdgg4jU18AjLCKBhRSm",
+      "name" : "Michael Jackson",
+      "type" : "artist",
+      "uri" : "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0F4XW0iBOhNFkbn1BuQ8cu",
+    "id" : "0F4XW0iBOhNFkbn1BuQ8cu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cc948389002c2c62b5172a9c154036db43df8e44",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f9ab81fa8f95e6487982fed25225f1786c63e029",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b7412da665663922b38f7a499cdef6a754db6fd6",
+      "width" : 64
+    } ],
+    "name" : "Got To Be There",
+    "type" : "album",
+    "uri" : "spotify:album:0F4XW0iBOhNFkbn1BuQ8cu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+    "id" : "3fMbdgg4jU18AjLCKBhRSm",
+    "name" : "Michael Jackson",
+    "type" : "artist",
+    "uri" : "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 154840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO17282629"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/63gcHyuhAC8G2C0bVQUOJI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/63gcHyuhAC8G2C0bVQUOJI",
+  "id" : "63gcHyuhAC8G2C0bVQUOJI",
+  "name" : "Rockin' Robin",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/995ed517102f4cd37970846f5ac0f47e6b8323f0?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:63gcHyuhAC8G2C0bVQUOJI"
+}

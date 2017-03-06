@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1kNQXvepPjaPgUfeDAF2h6",
+      "id" : "1kNQXvepPjaPgUfeDAF2h6",
+      "name" : "You Me At Six",
+      "type" : "artist",
+      "uri" : "spotify:artist:1kNQXvepPjaPgUfeDAF2h6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5FakgYrhpMRNbQ9OaAP9YU",
+    "id" : "5FakgYrhpMRNbQ9OaAP9YU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/247c8fa29117d44b76a6e5f594cd577c4b803451",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5ee83284a98de6e09ca2b4aa846ebe09fe940c6e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4a6eef210cfb86469b8948b93bf5172c4eb853a5",
+      "width" : 64
+    } ],
+    "name" : "Hold Me Down",
+    "type" : "album",
+    "uri" : "spotify:album:5FakgYrhpMRNbQ9OaAP9YU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1kNQXvepPjaPgUfeDAF2h6",
+    "id" : "1kNQXvepPjaPgUfeDAF2h6",
+    "name" : "You Me At Six",
+    "type" : "artist",
+    "uri" : "spotify:artist:1kNQXvepPjaPgUfeDAF2h6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 183026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0900860"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5dzwRhzL3aBEqZeMANasr1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5dzwRhzL3aBEqZeMANasr1",
+  "id" : "5dzwRhzL3aBEqZeMANasr1",
+  "name" : "Take Your Breath Away",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1bb9158c26acb85e785c61981b0a767c81b2edca?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5dzwRhzL3aBEqZeMANasr1"
+}

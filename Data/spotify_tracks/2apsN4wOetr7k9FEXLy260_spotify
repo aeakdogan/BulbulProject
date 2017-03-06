@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0WXIcpBjcHha2Pz7xGIMQ5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0WXIcpBjcHha2Pz7xGIMQ5",
+      "id" : "0WXIcpBjcHha2Pz7xGIMQ5",
+      "name" : "Elitist",
+      "type" : "artist",
+      "uri" : "spotify:artist:0WXIcpBjcHha2Pz7xGIMQ5"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7hQfY7LzrAqol02zisR7iY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7hQfY7LzrAqol02zisR7iY",
+    "id" : "7hQfY7LzrAqol02zisR7iY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f70b267efad89f7014defa0d52016c02dc5fb1b4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/49e0c5be93a5b6744977a34d836867d01e5380db",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ac82406f684e64c61c65e38200ae5c32404eddfa",
+      "width" : 64
+    } ],
+    "name" : "Fear In a Handful of Dust",
+    "type" : "album",
+    "uri" : "spotify:album:7hQfY7LzrAqol02zisR7iY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0WXIcpBjcHha2Pz7xGIMQ5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0WXIcpBjcHha2Pz7xGIMQ5",
+    "id" : "0WXIcpBjcHha2Pz7xGIMQ5",
+    "name" : "Elitist",
+    "type" : "artist",
+    "uri" : "spotify:artist:0WXIcpBjcHha2Pz7xGIMQ5"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 324106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR33T1182001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2apsN4wOetr7k9FEXLy260"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2apsN4wOetr7k9FEXLy260",
+  "id" : "2apsN4wOetr7k9FEXLy260",
+  "name" : "Burning the Unspoken Gospel",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bff6ba837ee2894f064a684c9d45ac6ba4ab845a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2apsN4wOetr7k9FEXLy260"
+}

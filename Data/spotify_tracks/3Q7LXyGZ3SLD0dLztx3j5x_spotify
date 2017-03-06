@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4kkVGdtNzEetpy6i2G5tGN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4kkVGdtNzEetpy6i2G5tGN",
+    "id" : "4kkVGdtNzEetpy6i2G5tGN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2a3957b55ff42835e78e4d5ce8606a6e3645c7c6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/98c9bf33087b715cd15a7340368a0d5a4fe06d0d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/71ba2f5ac2bd0c44a63c5c97ed2bad3202dd7445",
+      "width" : 64
+    } ],
+    "name" : "Rock & Roll 50s Mix",
+    "type" : "album",
+    "uri" : "spotify:album:4kkVGdtNzEetpy6i2G5tGN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1eYhYunlNJlDoQhtYBvPsi",
+    "id" : "1eYhYunlNJlDoQhtYBvPsi",
+    "name" : "Ray Charles",
+    "type" : "artist",
+    "uri" : "spotify:artist:1eYhYunlNJlDoQhtYBvPsi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 120173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEAR41442772"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Q7LXyGZ3SLD0dLztx3j5x"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Q7LXyGZ3SLD0dLztx3j5x",
+  "id" : "3Q7LXyGZ3SLD0dLztx3j5x",
+  "name" : "Hit the Road Jack",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a82465cf67352a5925b5d6688560c921a931f25d?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3Q7LXyGZ3SLD0dLztx3j5x"
+}

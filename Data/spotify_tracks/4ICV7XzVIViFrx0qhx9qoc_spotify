@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+      "id" : "7G1GBhoKtEPnP86X2PvEYO",
+      "name" : "Nina Simone",
+      "type" : "artist",
+      "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4gnJnz7EanH1PwjOiMThPf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4gnJnz7EanH1PwjOiMThPf",
+    "id" : "4gnJnz7EanH1PwjOiMThPf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f4bce13aa34c63d61b105a3289ba8e7f77b69666",
+      "width" : 633
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c20d2944b49722d8efb26d3b9164c3df0f25cf7f",
+      "width" : 297
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4e7dcdefb9bc89a6c2ea9ed3c88962e51faa3258",
+      "width" : 63
+    } ],
+    "name" : "Broadway, Blues, Ballads",
+    "type" : "album",
+    "uri" : "spotify:album:4gnJnz7EanH1PwjOiMThPf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+    "id" : "7G1GBhoKtEPnP86X2PvEYO",
+    "name" : "Nina Simone",
+    "type" : "artist",
+    "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 164440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0126632"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4ICV7XzVIViFrx0qhx9qoc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4ICV7XzVIViFrx0qhx9qoc",
+  "id" : "4ICV7XzVIViFrx0qhx9qoc",
+  "name" : "Don't Let Me Be Misunderstood",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f69f9340c694e48914130d702da6818f44dbdf5e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4ICV7XzVIViFrx0qhx9qoc"
+}

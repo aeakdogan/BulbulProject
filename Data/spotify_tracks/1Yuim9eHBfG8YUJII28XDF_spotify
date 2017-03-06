@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6deZN1bslXzeGvOLaLMOIF",
+      "id" : "6deZN1bslXzeGvOLaLMOIF",
+      "name" : "Nickelback",
+      "type" : "artist",
+      "uri" : "spotify:artist:6deZN1bslXzeGvOLaLMOIF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4fygErqiNgFUic5hU42Z3E",
+    "id" : "4fygErqiNgFUic5hU42Z3E",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/733a6d2fbda5875ccd68ebba406de666134579d9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0aa1a04202e648972de6edf23f36cbf62dfc88d5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/00d47f71eb3d8f6f70bacb541b61ab9d1009ff01",
+      "width" : 64
+    } ],
+    "name" : "The Long Road",
+    "type" : "album",
+    "uri" : "spotify:album:4fygErqiNgFUic5hU42Z3E"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6deZN1bslXzeGvOLaLMOIF",
+    "id" : "6deZN1bslXzeGvOLaLMOIF",
+    "name" : "Nickelback",
+    "type" : "artist",
+    "uri" : "spotify:artist:6deZN1bslXzeGvOLaLMOIF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 228480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLA320320332"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Yuim9eHBfG8YUJII28XDF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Yuim9eHBfG8YUJII28XDF",
+  "id" : "1Yuim9eHBfG8YUJII28XDF",
+  "name" : "Figured You Out",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3bb0ce34b04628d45fa7ef19be09c098d09699f3?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:1Yuim9eHBfG8YUJII28XDF"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45lorWzrKLxfKlWpV7r9CN",
+      "id" : "45lorWzrKLxfKlWpV7r9CN",
+      "name" : "Ben Harper",
+      "type" : "artist",
+      "uri" : "spotify:artist:45lorWzrKLxfKlWpV7r9CN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/51B1RzotO05EShjth3xkOZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/51B1RzotO05EShjth3xkOZ",
+    "id" : "51B1RzotO05EShjth3xkOZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/77fc6d38256751f155e7ecdabc9a3b0373c5fa6b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/eaa8baa3b13eb8bc3ca97ae5646297ab40f773fa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/03534884173544b49ae30dd81b1ef0eb45b184dd",
+      "width" : 64
+    } ],
+    "name" : "Burn To Shine",
+    "type" : "album",
+    "uri" : "spotify:album:51B1RzotO05EShjth3xkOZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7sJ9LR0mCMgFlzJ6Y9xP64"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7sJ9LR0mCMgFlzJ6Y9xP64",
+    "id" : "7sJ9LR0mCMgFlzJ6Y9xP64",
+    "name" : "Ben Harper And The Innocent Criminals",
+    "type" : "artist",
+    "uri" : "spotify:artist:7sJ9LR0mCMgFlzJ6Y9xP64"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 238893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI29900125"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2DgAcT0ypMpNOzFu0CTqtE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2DgAcT0ypMpNOzFu0CTqtE",
+  "id" : "2DgAcT0ypMpNOzFu0CTqtE",
+  "name" : "Alone",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c287260771eaccf88bc4286dbb944443704410bb?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2DgAcT0ypMpNOzFu0CTqtE"
+}

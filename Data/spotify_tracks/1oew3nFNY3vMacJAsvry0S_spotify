@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0kkxsdcaWmWU2yWAqclDh4",
+      "id" : "0kkxsdcaWmWU2yWAqclDh4",
+      "name" : "Rixton",
+      "type" : "artist",
+      "uri" : "spotify:artist:0kkxsdcaWmWU2yWAqclDh4"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/02ae5i5UAoFrt2peVox9Xd",
+    "id" : "02ae5i5UAoFrt2peVox9Xd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b6cdf7bf5d5e20e4189bf57cbd72adf2de5a89f2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/275933c224c67f29d482b6657821d30f350293e0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/07480ebe61c181787ab3638aa9fa050ab7da1a36",
+      "width" : 64
+    } ],
+    "name" : "Let The Road",
+    "type" : "album",
+    "uri" : "spotify:album:02ae5i5UAoFrt2peVox9Xd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0kkxsdcaWmWU2yWAqclDh4",
+    "id" : "0kkxsdcaWmWU2yWAqclDh4",
+    "name" : "Rixton",
+    "type" : "artist",
+    "uri" : "spotify:artist:0kkxsdcaWmWU2yWAqclDh4"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 193733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71401800"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1oew3nFNY3vMacJAsvry0S",
+  "id" : "1oew3nFNY3vMacJAsvry0S",
+  "name" : "Me And My Broken Heart",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9ac2b0515553cfa395d2301b825a3fe3b068ed9d?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1oew3nFNY3vMacJAsvry0S"
+}

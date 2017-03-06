@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk",
+      "id" : "1IQ2e1buppatiN1bxUVkrk",
+      "name" : "Slayer",
+      "type" : "artist",
+      "uri" : "spotify:artist:1IQ2e1buppatiN1bxUVkrk"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/416nVgqae48Dw0EjD6N4EU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/416nVgqae48Dw0EjD6N4EU",
+    "id" : "416nVgqae48Dw0EjD6N4EU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7fdb431c149f2feecc14c21b8f1254bf7cc57922",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a43c1cef31ce242f36ea555a2bce2bf325ca331a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c81748f302dec513c11626b6e8b67ce7d98fff68",
+      "width" : 64
+    } ],
+    "name" : "Seasons In The Abyss",
+    "type" : "album",
+    "uri" : "spotify:album:416nVgqae48Dw0EjD6N4EU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk",
+    "id" : "1IQ2e1buppatiN1bxUVkrk",
+    "name" : "Slayer",
+    "type" : "artist",
+    "uri" : "spotify:artist:1IQ2e1buppatiN1bxUVkrk"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 205775,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19000328"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6YgNMZjzPaC2kS1jeeCDAz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6YgNMZjzPaC2kS1jeeCDAz",
+  "id" : "6YgNMZjzPaC2kS1jeeCDAz",
+  "name" : "Temptation",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d04e6ee3b708efff992f32556e78c51178eb2482?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6YgNMZjzPaC2kS1jeeCDAz"
+}

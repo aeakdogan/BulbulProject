@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/568ZhdwyaiCyOGJRtNYhWf",
+      "id" : "568ZhdwyaiCyOGJRtNYhWf",
+      "name" : "Deep Purple",
+      "type" : "artist",
+      "uri" : "spotify:artist:568ZhdwyaiCyOGJRtNYhWf"
+    } ],
+    "available_markets" : [ "CA", "JP", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0I84E9cRfRO8rrT1mTtufq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0I84E9cRfRO8rrT1mTtufq",
+    "id" : "0I84E9cRfRO8rrT1mTtufq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d01f768f0fa6f839aa354ee88b3b6c557950b9a0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/19dcee60298623767ed968d9a27ccb0cc3497b22",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8daa71a00abbc0e6e3e37fae140f968db53f7fcf",
+      "width" : 64
+    } ],
+    "name" : "The Very Best Of Deep Purple",
+    "type" : "album",
+    "uri" : "spotify:album:0I84E9cRfRO8rrT1mTtufq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/568ZhdwyaiCyOGJRtNYhWf",
+    "id" : "568ZhdwyaiCyOGJRtNYhWf",
+    "name" : "Deep Purple",
+    "type" : "artist",
+    "uri" : "spotify:artist:568ZhdwyaiCyOGJRtNYhWf"
+  } ],
+  "available_markets" : [ "CA", "JP", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 232400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19903562"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/307Hn5WmRqrXVu5hlDngSw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/307Hn5WmRqrXVu5hlDngSw",
+  "id" : "307Hn5WmRqrXVu5hlDngSw",
+  "name" : "Strange Kind Of Woman",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/abff566055eebe2f8174fbda8104106a839ddf32?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:307Hn5WmRqrXVu5hlDngSw"
+}

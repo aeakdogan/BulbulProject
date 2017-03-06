@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5zjaF8JUdylMWrA7AVo3hJ",
+      "id" : "5zjaF8JUdylMWrA7AVo3hJ",
+      "name" : "Marissa Nadler",
+      "type" : "artist",
+      "uri" : "spotify:artist:5zjaF8JUdylMWrA7AVo3hJ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4lVsS1Du5hxIAp3DTVHniy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4lVsS1Du5hxIAp3DTVHniy",
+    "id" : "4lVsS1Du5hxIAp3DTVHniy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c1153975e67d468f82d5e82c1b965d86c3e1b0e7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ba905c76760e9c95aa708289f58ac681fa50e216",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/46ee5498974f2a0e9230bfb3de7c62528d9c48f0",
+      "width" : 64
+    } ],
+    "name" : "Little Hells",
+    "type" : "album",
+    "uri" : "spotify:album:4lVsS1Du5hxIAp3DTVHniy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5zjaF8JUdylMWrA7AVo3hJ",
+    "id" : "5zjaF8JUdylMWrA7AVo3hJ",
+    "name" : "Marissa Nadler",
+    "type" : "artist",
+    "uri" : "spotify:artist:5zjaF8JUdylMWrA7AVo3hJ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 287160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USKDO0900009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/376LxgkLMq3q9z6fvumckT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/376LxgkLMq3q9z6fvumckT",
+  "id" : "376LxgkLMq3q9z6fvumckT",
+  "name" : "Loner",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d7d57b9471d34816c86d0abf1647bdf70c681622?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:376LxgkLMq3q9z6fvumckT"
+}

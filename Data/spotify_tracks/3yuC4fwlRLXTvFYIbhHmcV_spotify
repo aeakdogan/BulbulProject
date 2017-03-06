@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6",
+      "id" : "319yZVtYM9MBGqmSQnMyY6",
+      "name" : "Carole King",
+      "type" : "artist",
+      "uri" : "spotify:artist:319yZVtYM9MBGqmSQnMyY6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/04C5gSGZHzAlVsngSkqFtZ",
+    "id" : "04C5gSGZHzAlVsngSkqFtZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1517b6858b34e2ecd40f93057deea77f659d48f9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/623e2ff14d1fcbaa0760c15053253c5ed117bf02",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8360eee0082d206b711479a89d53e49e8b5caf94",
+      "width" : 64
+    } ],
+    "name" : "Fantasy",
+    "type" : "album",
+    "uri" : "spotify:album:04C5gSGZHzAlVsngSkqFtZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/319yZVtYM9MBGqmSQnMyY6",
+    "id" : "319yZVtYM9MBGqmSQnMyY6",
+    "name" : "Carole King",
+    "type" : "artist",
+    "uri" : "spotify:artist:319yZVtYM9MBGqmSQnMyY6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 62866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10022587"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3yuC4fwlRLXTvFYIbhHmcV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3yuC4fwlRLXTvFYIbhHmcV",
+  "id" : "3yuC4fwlRLXTvFYIbhHmcV",
+  "name" : "Fantasy Beginning",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/78c49774efd4dff048b8e2593c196460029ca6de?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3yuC4fwlRLXTvFYIbhHmcV"
+}

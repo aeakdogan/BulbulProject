@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+      "id" : "4F84IBURUo98rz4r61KF70",
+      "name" : "The White Stripes",
+      "type" : "artist",
+      "uri" : "spotify:artist:4F84IBURUo98rz4r61KF70"
+    } ],
+    "available_markets" : [ "CA", "JP", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6K8LgaK1oJFfZfNGszd4TG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6K8LgaK1oJFfZfNGszd4TG",
+    "id" : "6K8LgaK1oJFfZfNGszd4TG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d1f56ac0d045ca980d28cc4cc926fbb353cffaa0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/429f83a029628281b18f378b42b7d607627692b6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c6b8ddfa962656cfd8b1623c6ccad2e41036b5a1",
+      "width" : 64
+    } ],
+    "name" : "Get Behind Me Satan",
+    "type" : "album",
+    "uri" : "spotify:album:6K8LgaK1oJFfZfNGszd4TG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+    "id" : "4F84IBURUo98rz4r61KF70",
+    "name" : "The White Stripes",
+    "type" : "artist",
+    "uri" : "spotify:artist:4F84IBURUo98rz4r61KF70"
+  } ],
+  "available_markets" : [ "CA", "JP", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 241866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVT10500078"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1GXPBNGMUFyG56Gf9pyMQo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1GXPBNGMUFyG56Gf9pyMQo",
+  "id" : "1GXPBNGMUFyG56Gf9pyMQo",
+  "name" : "My Doorbell",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/96d3e09df45cabdf61909cd9c665ce2343f334b8?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1GXPBNGMUFyG56Gf9pyMQo"
+}

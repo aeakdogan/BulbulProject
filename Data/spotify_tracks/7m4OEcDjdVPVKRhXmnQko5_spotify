@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+      "id" : "6zkX5fhrSD4tdVOmimR9wB",
+      "name" : "Oscar Peterson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34W7ZCX0LZeJd8q6boKGOk",
+      "id" : "34W7ZCX0LZeJd8q6boKGOk",
+      "name" : "Ben Webster",
+      "type" : "artist",
+      "uri" : "spotify:artist:34W7ZCX0LZeJd8q6boKGOk"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/52vxvueV32JO6tZHaSojRZ",
+    "id" : "52vxvueV32JO6tZHaSojRZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e9fe646b6b2d8a3c97f567c2df30d8011df9f8da",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/12971d778452c513d82b9f6ed0971f8f278e33c2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/17ffb2660586f4e302cc0e9a6b752d2c190aecfd",
+      "width" : 64
+    } ],
+    "name" : "Ben Webster Meets Oscar Peterson",
+    "type" : "album",
+    "uri" : "spotify:album:52vxvueV32JO6tZHaSojRZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/34W7ZCX0LZeJd8q6boKGOk",
+    "id" : "34W7ZCX0LZeJd8q6boKGOk",
+    "name" : "Ben Webster",
+    "type" : "artist",
+    "uri" : "spotify:artist:34W7ZCX0LZeJd8q6boKGOk"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6zkX5fhrSD4tdVOmimR9wB",
+    "id" : "6zkX5fhrSD4tdVOmimR9wB",
+    "name" : "Oscar Peterson",
+    "type" : "artist",
+    "uri" : "spotify:artist:6zkX5fhrSD4tdVOmimR9wB"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 239666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR35912073"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7m4OEcDjdVPVKRhXmnQko5",
+  "id" : "7m4OEcDjdVPVKRhXmnQko5",
+  "name" : "When Your Lover Has Gone",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3062aac24cb903e99d85fedf0573038429c9bde5?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7m4OEcDjdVPVKRhXmnQko5"
+}

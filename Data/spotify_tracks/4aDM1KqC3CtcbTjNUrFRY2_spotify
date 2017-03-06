@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XHiH53dHrvbwfjYM7en7I",
+      "id" : "0XHiH53dHrvbwfjYM7en7I",
+      "name" : "Chris Cornell",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XHiH53dHrvbwfjYM7en7I"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7DTYi2YCfQZGDyeedTdNGb",
+    "id" : "7DTYi2YCfQZGDyeedTdNGb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0148e7722fc48b68ccf1acce84c0555da74eb7a0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/58540abd54c45a9f504ccb670b816c39d01f7991",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d435873b2961ea480cbf218d0e131f08128a3fc0",
+      "width" : 64
+    } ],
+    "name" : "Carry On",
+    "type" : "album",
+    "uri" : "spotify:album:7DTYi2YCfQZGDyeedTdNGb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0XHiH53dHrvbwfjYM7en7I",
+    "id" : "0XHiH53dHrvbwfjYM7en7I",
+    "name" : "Chris Cornell",
+    "type" : "artist",
+    "uri" : "spotify:artist:0XHiH53dHrvbwfjYM7en7I"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 273400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70730454"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4aDM1KqC3CtcbTjNUrFRY2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4aDM1KqC3CtcbTjNUrFRY2",
+  "id" : "4aDM1KqC3CtcbTjNUrFRY2",
+  "name" : "Disappearing Act",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f5a55ba3915ea892445cd85d2165f917e5c6301b?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:4aDM1KqC3CtcbTjNUrFRY2"
+}

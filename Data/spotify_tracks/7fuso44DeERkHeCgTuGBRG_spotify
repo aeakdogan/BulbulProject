@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TMrnxBwZfmfRxsGzkNIHw",
+      "id" : "1TMrnxBwZfmfRxsGzkNIHw",
+      "name" : "Andy Mineo",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TMrnxBwZfmfRxsGzkNIHw"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1LqEq7VDkS1LUgNwraZFcr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1LqEq7VDkS1LUgNwraZFcr",
+    "id" : "1LqEq7VDkS1LUgNwraZFcr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5ad9202ca85aa96898154bc41eebffc1da5fd2af",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a135c6148655708305b46f45a3c3d689b9e27c50",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0cd30923896c5ab4614258c9d49f6ca68ae5491c",
+      "width" : 64
+    } ],
+    "name" : "Never Land",
+    "type" : "album",
+    "uri" : "spotify:album:1LqEq7VDkS1LUgNwraZFcr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1TMrnxBwZfmfRxsGzkNIHw",
+    "id" : "1TMrnxBwZfmfRxsGzkNIHw",
+    "name" : "Andy Mineo",
+    "type" : "artist",
+    "uri" : "spotify:artist:1TMrnxBwZfmfRxsGzkNIHw"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 251345,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMTND1100169"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7fuso44DeERkHeCgTuGBRG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7fuso44DeERkHeCgTuGBRG",
+  "id" : "7fuso44DeERkHeCgTuGBRG",
+  "name" : "Rewind",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0ef41fb0af74359b409666c9eb5fc6ab34d6bf23?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7fuso44DeERkHeCgTuGBRG"
+}

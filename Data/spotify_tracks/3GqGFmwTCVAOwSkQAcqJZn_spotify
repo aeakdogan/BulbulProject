@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+      "id" : "33EUXrFKGjpUSGacqEHhU4",
+      "name" : "Iggy Pop",
+      "type" : "artist",
+      "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0skz0WUkzSQDlzpZazqcuz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0skz0WUkzSQDlzpZazqcuz",
+    "id" : "0skz0WUkzSQDlzpZazqcuz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d43f0d4280de222a4b0fa0fcb4bda46dc9232cc9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b8afa4848e725ecfa7f46a89b41285c1feb3da58",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/16633e71d97f151556bbce206a0ad08d7217e67e",
+      "width" : 64
+    } ],
+    "name" : "Roadkill Rising: The Bootleg Collection 1977-2009",
+    "type" : "album",
+    "uri" : "spotify:album:0skz0WUkzSQDlzpZazqcuz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+    "id" : "33EUXrFKGjpUSGacqEHhU4",
+    "name" : "Iggy Pop",
+    "type" : "artist",
+    "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 3,
+  "duration_ms" : 309520,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USSE91132433"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3GqGFmwTCVAOwSkQAcqJZn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3GqGFmwTCVAOwSkQAcqJZn",
+  "id" : "3GqGFmwTCVAOwSkQAcqJZn",
+  "name" : "In The Death Car",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ebb1fadede95aca442380bff182361132406d58f?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:3GqGFmwTCVAOwSkQAcqJZn"
+}

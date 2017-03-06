@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4qWTqOdDnH56Qak9UjmpKz",
+      "id" : "4qWTqOdDnH56Qak9UjmpKz",
+      "name" : "The Clancy Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:4qWTqOdDnH56Qak9UjmpKz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+      },
+      "href" : "https://api.spotify.com/v1/artists/72RvmgEg2omdlMV9aExO6a",
+      "id" : "72RvmgEg2omdlMV9aExO6a",
+      "name" : "The Dubliners",
+      "type" : "artist",
+      "uri" : "spotify:artist:72RvmgEg2omdlMV9aExO6a"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/22g2ochq0A8wojUx2SPm13"
+    },
+    "href" : "https://api.spotify.com/v1/albums/22g2ochq0A8wojUx2SPm13",
+    "id" : "22g2ochq0A8wojUx2SPm13",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d87b27da109db1802e580bb2ec2bab0b9352fbb9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bd42238cec7f7de40b00b3c7fb1fb482dc139791",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2c2dab4375852e0e5bad5be408fcd7bf6e649c7a",
+      "width" : 64
+    } ],
+    "name" : "Irish Drinking Songs",
+    "type" : "album",
+    "uri" : "spotify:album:22g2ochq0A8wojUx2SPm13"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+    },
+    "href" : "https://api.spotify.com/v1/artists/72RvmgEg2omdlMV9aExO6a",
+    "id" : "72RvmgEg2omdlMV9aExO6a",
+    "name" : "The Dubliners",
+    "type" : "artist",
+    "uri" : "spotify:artist:72RvmgEg2omdlMV9aExO6a"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 134000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10025541"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5hKZqeGWjeLMKv3LUdRaHi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5hKZqeGWjeLMKv3LUdRaHi",
+  "id" : "5hKZqeGWjeLMKv3LUdRaHi",
+  "name" : "Maloney Wants A Drink",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/93d729a4fe46f15a3bf6715e87f2da52d7d0b33a?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5hKZqeGWjeLMKv3LUdRaHi"
+}

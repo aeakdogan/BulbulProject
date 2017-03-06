@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+      "id" : "0oSGxfWSnnOXhD2fKuz2Gy",
+      "name" : "David Bowie",
+      "type" : "artist",
+      "uri" : "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1jdQFC3s8PZUc5i7vovZTv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1jdQFC3s8PZUc5i7vovZTv",
+    "id" : "1jdQFC3s8PZUc5i7vovZTv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dab9f6761e3c516cbb599c7d003e79d72e0cf9df",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/175d9c226fba661b806a4fe8f3bf54a646c24a13",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3fad4a9d1f7f7f5e3cbe2472293fdafa005967f0",
+      "width" : 64
+    } ],
+    "name" : "Best Of Bowie",
+    "type" : "album",
+    "uri" : "spotify:album:1jdQFC3s8PZUc5i7vovZTv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+    "id" : "0oSGxfWSnnOXhD2fKuz2Gy",
+    "name" : "David Bowie",
+    "type" : "artist",
+    "uri" : "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 255133,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USJT19900102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4r8cI0SCP8c0juGDEMreEW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4r8cI0SCP8c0juGDEMreEW",
+  "id" : "4r8cI0SCP8c0juGDEMreEW",
+  "name" : "Fame - 1999 Remastered Version",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/db6f05a4d32b81a351a2e496d9c84913a4bd8a1b?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4r8cI0SCP8c0juGDEMreEW"
+}

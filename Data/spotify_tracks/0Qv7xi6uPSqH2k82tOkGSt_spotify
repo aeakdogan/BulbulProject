@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
+      "id" : "4bthk9UfsYUYdcFyqxmSUU",
+      "name" : "Tears For Fears",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3sIFpEctox1XOs3FEkqrgr",
+    "id" : "3sIFpEctox1XOs3FEkqrgr",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/07e8a14a66ef82beddd23b09cfe689ab13519ccf",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/597f041207ac84c534b17b191f4defbea1e633bd",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/82d54f9c8e5d0368430d3ce593f1696bdae9904f",
+      "width" : 64
+    } ],
+    "name" : "The Hurting",
+    "type" : "album",
+    "uri" : "spotify:album:3sIFpEctox1XOs3FEkqrgr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
+    "id" : "4bthk9UfsYUYdcFyqxmSUU",
+    "name" : "Tears For Fears",
+    "type" : "artist",
+    "uri" : "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 215400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF088200040"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Qv7xi6uPSqH2k82tOkGSt",
+  "id" : "0Qv7xi6uPSqH2k82tOkGSt",
+  "name" : "Mad World",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e521f6968b6196d950ee8159a6316f6eff287210?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0Qv7xi6uPSqH2k82tOkGSt"
+}

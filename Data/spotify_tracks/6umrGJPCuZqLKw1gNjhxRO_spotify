@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cy1oWKlBfDuxBvo9ZiodY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1cy1oWKlBfDuxBvo9ZiodY",
+      "id" : "1cy1oWKlBfDuxBvo9ZiodY",
+      "name" : "123",
+      "type" : "artist",
+      "uri" : "spotify:artist:1cy1oWKlBfDuxBvo9ZiodY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1QbXu5uZrOr2EsE8uKdzXj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1QbXu5uZrOr2EsE8uKdzXj",
+    "id" : "1QbXu5uZrOr2EsE8uKdzXj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/143518e152e82630818bfc0d36c4d17888f2ec8b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0b6df762f90725bd2705765553580b94bddbb10f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/98465a999f331da56bc26ce92f14bce861480810",
+      "width" : 64
+    } ],
+    "name" : "arve",
+    "type" : "album",
+    "uri" : "spotify:album:1QbXu5uZrOr2EsE8uKdzXj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1cy1oWKlBfDuxBvo9ZiodY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1cy1oWKlBfDuxBvo9ZiodY",
+    "id" : "1cy1oWKlBfDuxBvo9ZiodY",
+    "name" : "123",
+    "type" : "artist",
+    "uri" : "spotify:artist:1cy1oWKlBfDuxBvo9ZiodY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 119386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR7931000009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6umrGJPCuZqLKw1gNjhxRO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6umrGJPCuZqLKw1gNjhxRO",
+  "id" : "6umrGJPCuZqLKw1gNjhxRO",
+  "name" : "not yet",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/613e3a77c124099a80856425f36c889483b5ebab?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6umrGJPCuZqLKw1gNjhxRO"
+}

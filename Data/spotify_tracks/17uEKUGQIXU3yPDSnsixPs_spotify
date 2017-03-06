@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3",
+      "id" : "25KNo5GDS6ZpLkjasaecA3",
+      "name" : "Thievery Corporation",
+      "type" : "artist",
+      "uri" : "spotify:artist:25KNo5GDS6ZpLkjasaecA3"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6tkOchsryJzlqa0Tp1bGjE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6tkOchsryJzlqa0Tp1bGjE",
+    "id" : "6tkOchsryJzlqa0Tp1bGjE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3ea6a5f96e8f246e30292ae2ace38fdd565260d3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7859624f4d32c0531a0ca1ad36aab0fde30f5b51",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1644f581d2a6963c855a6605b792ad6479fa6bd0",
+      "width" : 64
+    } ],
+    "name" : "It Takes A Thief",
+    "type" : "album",
+    "uri" : "spotify:album:6tkOchsryJzlqa0Tp1bGjE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3",
+    "id" : "25KNo5GDS6ZpLkjasaecA3",
+    "name" : "Thievery Corporation",
+    "type" : "artist",
+    "uri" : "spotify:artist:25KNo5GDS6ZpLkjasaecA3"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 306359,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USESL1016414"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/17uEKUGQIXU3yPDSnsixPs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/17uEKUGQIXU3yPDSnsixPs",
+  "id" : "17uEKUGQIXU3yPDSnsixPs",
+  "name" : "Warning Shots",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ced35af4a3c11a1f7547ba7c2c6a2907ffbdb614?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:17uEKUGQIXU3yPDSnsixPs"
+}

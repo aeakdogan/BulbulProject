@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id" : "7bu3H8JO7d0UbMoVzbo70s",
+      "name" : "The Cure",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0A13JySVHzBoRZFk2o89Wl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0A13JySVHzBoRZFk2o89Wl",
+    "id" : "0A13JySVHzBoRZFk2o89Wl",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/cd87da32846a350379b91b752f82bf1b3883259d",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/c7fc954df61041598815d53a0f0611fcd69340e4",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/991cd51a7464109a796832304b91f6d85eb484b8",
+      "width" : 64
+    } ],
+    "name" : "Disintegration (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:0A13JySVHzBoRZFk2o89Wl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+    "id" : "7bu3H8JO7d0UbMoVzbo70s",
+    "name" : "The Cure",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 258853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10901454"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4iUgeqlt2Fks3nCZOYyTeQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4iUgeqlt2Fks3nCZOYyTeQ",
+  "id" : "4iUgeqlt2Fks3nCZOYyTeQ",
+  "name" : "Closedown",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ccd408369297ede60be43dd348cb515b9cfae0ad?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4iUgeqlt2Fks3nCZOYyTeQ"
+}

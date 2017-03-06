@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+      "id" : "5y2Xq6xcjJb2jVM54GHK3t",
+      "name" : "John Legend",
+      "type" : "artist",
+      "uri" : "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ryfxFVYctq06Btwatl8zE",
+    "id" : "0ryfxFVYctq06Btwatl8zE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6d285dc02619ed8df7458a9b33da3de00c49fa9e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ea17c74d381455bbe738d50a9751dc1e8aba3552",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/da5ed7381ec5b348ff944178104fb154a64a0556",
+      "width" : 64
+    } ],
+    "name" : "Spotify Sessions",
+    "type" : "album",
+    "uri" : "spotify:album:0ryfxFVYctq06Btwatl8zE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+    "id" : "5y2Xq6xcjJb2jVM54GHK3t",
+    "name" : "John Legend",
+    "type" : "artist",
+    "uri" : "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11306721"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6zxk0Bx256dNbUtcdBKFvt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6zxk0Bx256dNbUtcdBKFvt",
+  "id" : "6zxk0Bx256dNbUtcdBKFvt",
+  "name" : "Everybody Knows - Live from Spotify Milan",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5dd76a76cac6f944e8a389a0483644e1360426cc?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6zxk0Bx256dNbUtcdBKFvt"
+}

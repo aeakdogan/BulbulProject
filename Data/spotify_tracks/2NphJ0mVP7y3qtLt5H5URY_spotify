@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3",
+      "id" : "0yNLKJebCb8Aueb54LYya3",
+      "name" : "New Order",
+      "type" : "artist",
+      "uri" : "spotify:artist:0yNLKJebCb8Aueb54LYya3"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7ha9sBu0lsKuW6PRhfSMzg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7ha9sBu0lsKuW6PRhfSMzg",
+    "id" : "7ha9sBu0lsKuW6PRhfSMzg",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/8e22b8ffbfe5d2539c0f926c9aacda22b47c8ed4",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/9087014bfc29e5f8c0910f9361cd71d25f7fb566",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/6c576bd6b94cd1d7d5a20c6bd0420bdd4650a2f0",
+      "width" : 64
+    } ],
+    "name" : "Republic",
+    "type" : "album",
+    "uri" : "spotify:album:7ha9sBu0lsKuW6PRhfSMzg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3",
+    "id" : "0yNLKJebCb8Aueb54LYya3",
+    "name" : "New Order",
+    "type" : "artist",
+    "uri" : "spotify:artist:0yNLKJebCb8Aueb54LYya3"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 249840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBANP9400060"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2NphJ0mVP7y3qtLt5H5URY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2NphJ0mVP7y3qtLt5H5URY",
+  "id" : "2NphJ0mVP7y3qtLt5H5URY",
+  "name" : "Regret",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2abd61f85d1b1792c034b1b0f3537f575f1961e9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2NphJ0mVP7y3qtLt5H5URY"
+}

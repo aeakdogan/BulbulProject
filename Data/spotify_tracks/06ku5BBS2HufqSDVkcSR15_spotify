@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+      "id" : "0WwSkZ7LtFUFjGjMZBMt6T",
+      "name" : "Dire Straits",
+      "type" : "artist",
+      "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7yTjsInNdNQJAlXAboi1nh",
+    "id" : "7yTjsInNdNQJAlXAboi1nh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4f0ac1c3e7fa9e770562423f147837b9aea88230",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/16d190b0786a9b85f80f2abbb776d440b1459d69",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/94ab1903c944432ffa81fabdfd27d3fec8bd3f5d",
+      "width" : 64
+    } ],
+    "name" : "Making Movies",
+    "type" : "album",
+    "uri" : "spotify:album:7yTjsInNdNQJAlXAboi1nh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+    "id" : "0WwSkZ7LtFUFjGjMZBMt6T",
+    "name" : "Dire Straits",
+    "type" : "artist",
+    "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 494533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF088000674"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/06ku5BBS2HufqSDVkcSR15"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/06ku5BBS2HufqSDVkcSR15",
+  "id" : "06ku5BBS2HufqSDVkcSR15",
+  "name" : "Tunnel Of Love",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/75112c41dfc44172e7125de150b3b73e0fd0a180?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:06ku5BBS2HufqSDVkcSR15"
+}

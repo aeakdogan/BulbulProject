@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+      "id" : "0vYkHhJ48Bs3jWcvZXvOrP",
+      "name" : "Patti Smith",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1p6cWoueuunhpgy6131zAd",
+    "id" : "1p6cWoueuunhpgy6131zAd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c62a8e5e1b5ead1c9a71d0069ecaf9b58e90d17c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5f1ea14c3f8d1e4b727e0ba2c5bdb0c350f8f222",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/35ebce555fa354824e32b1dd40a51a5400067344",
+      "width" : 64
+    } ],
+    "name" : "Easter",
+    "type" : "album",
+    "uri" : "spotify:album:1p6cWoueuunhpgy6131zAd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+    "id" : "0vYkHhJ48Bs3jWcvZXvOrP",
+    "name" : "Patti Smith",
+    "type" : "artist",
+    "uri" : "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 204800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR17800008"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0lIoY4ZQsdn5QzhraM9o9u",
+  "id" : "0lIoY4ZQsdn5QzhraM9o9u",
+  "name" : "Because the Night",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/91aeadd271c997390ca82caaee943f6f6b636d30?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0lIoY4ZQsdn5QzhraM9o9u"
+}

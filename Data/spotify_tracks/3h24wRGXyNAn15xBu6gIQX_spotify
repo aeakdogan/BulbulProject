@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/242iqFnwNhlidVBMI9GYKp",
+      "id" : "242iqFnwNhlidVBMI9GYKp",
+      "name" : "The Verve Pipe",
+      "type" : "artist",
+      "uri" : "spotify:artist:242iqFnwNhlidVBMI9GYKp"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "DO", "EC", "GB", "GT", "HK", "HN", "IE", "JP", "LI", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0VPdwgDo5JwoK8ovyYBikd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0VPdwgDo5JwoK8ovyYBikd",
+    "id" : "0VPdwgDo5JwoK8ovyYBikd",
+    "images" : [ {
+      "height" : 638,
+      "url" : "https://i.scdn.co/image/ce059f2e01e13b49e6dd2531c8ce53e54eb04445",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/cbbb5db45573b74cace15432c6d69e2d5ed104a3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ee256b137066acf348bfd4e115bc4117e63de9bd",
+      "width" : 64
+    } ],
+    "name" : "Underneath",
+    "type" : "album",
+    "uri" : "spotify:album:0VPdwgDo5JwoK8ovyYBikd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/242iqFnwNhlidVBMI9GYKp",
+    "id" : "242iqFnwNhlidVBMI9GYKp",
+    "name" : "The Verve Pipe",
+    "type" : "artist",
+    "uri" : "spotify:artist:242iqFnwNhlidVBMI9GYKp"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "DO", "EC", "GB", "GT", "HK", "HN", "IE", "JP", "LI", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 266266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC10100657"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3h24wRGXyNAn15xBu6gIQX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3h24wRGXyNAn15xBu6gIQX",
+  "id" : "3h24wRGXyNAn15xBu6gIQX",
+  "name" : "Colorful",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8f9141c28a38310358592c01ed6032c6c4ac348c?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3h24wRGXyNAn15xBu6gIQX"
+}

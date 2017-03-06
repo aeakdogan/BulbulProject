@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1R84VlXnFFULOsWWV8IrCQ",
+      "id" : "1R84VlXnFFULOsWWV8IrCQ",
+      "name" : "Panda Bear",
+      "type" : "artist",
+      "uri" : "spotify:artist:1R84VlXnFFULOsWWV8IrCQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4iRqf2zoGhh7yO5evg1NYj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4iRqf2zoGhh7yO5evg1NYj",
+    "id" : "4iRqf2zoGhh7yO5evg1NYj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d9d1713b4074946e0c60693bf9682af8b5e6b8b5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/15bded36c73e0fc044575a9b7ddade4d8e13229d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b7f71a7a6c56ffdfff3786720f1fb4e6b7330c65",
+      "width" : 64
+    } ],
+    "name" : "Panda Bear Meets The Grim Reaper",
+    "type" : "album",
+    "uri" : "spotify:album:4iRqf2zoGhh7yO5evg1NYj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1R84VlXnFFULOsWWV8IrCQ",
+    "id" : "1R84VlXnFFULOsWWV8IrCQ",
+    "name" : "Panda Bear",
+    "type" : "artist",
+    "uri" : "spotify:artist:1R84VlXnFFULOsWWV8IrCQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 253146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1400454"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ckdEBWRPr2Cisjg2PLyr1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ckdEBWRPr2Cisjg2PLyr1",
+  "id" : "7ckdEBWRPr2Cisjg2PLyr1",
+  "name" : "Mr Noah",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6968e35469f98fcc5a697bd6c76506f5690ff03a?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7ckdEBWRPr2Cisjg2PLyr1"
+}

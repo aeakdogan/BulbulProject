@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+      "id" : "5VF0YkVLeVD4ytyiyVSIiF",
+      "name" : "Dirty Projectors",
+      "type" : "artist",
+      "uri" : "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5zQgu9qi6mK8KuleuzM22C",
+    "id" : "5zQgu9qi6mK8KuleuzM22C",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/548327609a47a53482102bb4dee38953f1b92ae3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/192dfab2ac6038f1145baaa4dedfeee160f1ee73",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f35a048372d7f0a0c71d99cfbf9dff69d994e5e9",
+      "width" : 64
+    } ],
+    "name" : "Swing Lo Magellan",
+    "type" : "album",
+    "uri" : "spotify:album:5zQgu9qi6mK8KuleuzM22C"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+    "id" : "5VF0YkVLeVD4ytyiyVSIiF",
+    "name" : "Dirty Projectors",
+    "type" : "artist",
+    "uri" : "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 157800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1200120"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2JtL0a3NHcGkFQ7kfDLKUT",
+  "id" : "2JtL0a3NHcGkFQ7kfDLKUT",
+  "name" : "Swing Lo Magellan",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/64c9bead28f1099af82b073b4c42c62bd3771fc0?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2JtL0a3NHcGkFQ7kfDLKUT"
+}

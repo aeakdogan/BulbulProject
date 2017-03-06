@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2HcZuUtnktqMHm4H1R9gAR",
+      "id" : "2HcZuUtnktqMHm4H1R9gAR",
+      "name" : "Great Lake Swimmers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2HcZuUtnktqMHm4H1R9gAR"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6apF0MYNemM0APTbKA6GUX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6apF0MYNemM0APTbKA6GUX",
+    "id" : "6apF0MYNemM0APTbKA6GUX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c00128d4b8ce37ed1a68fd9c1eaa97a060a8064f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e08956499927f2279d6ec2aaefda0645d834ac5b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1b93c8f93a1e00a24bcc62130726f0b06a5ea928",
+      "width" : 64
+    } ],
+    "name" : "Bodies And Minds",
+    "type" : "album",
+    "uri" : "spotify:album:6apF0MYNemM0APTbKA6GUX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2HcZuUtnktqMHm4H1R9gAR",
+    "id" : "2HcZuUtnktqMHm4H1R9gAR",
+    "name" : "Great Lake Swimmers",
+    "type" : "artist",
+    "uri" : "spotify:artist:2HcZuUtnktqMHm4H1R9gAR"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 324120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAH400500002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6qHGwOwFC4A8zaexKWszVh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6qHGwOwFC4A8zaexKWszVh",
+  "id" : "6qHGwOwFC4A8zaexKWszVh",
+  "name" : "Let's Trade Skins",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0a28d23c25f8c6a497ca3560a920bf48e2994ffa?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6qHGwOwFC4A8zaexKWszVh"
+}

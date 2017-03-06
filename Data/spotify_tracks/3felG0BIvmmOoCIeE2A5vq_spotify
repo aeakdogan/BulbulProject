@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5X4LWwbUFNzPkEas04uU82",
+      "id" : "5X4LWwbUFNzPkEas04uU82",
+      "name" : "DVBBS",
+      "type" : "artist",
+      "uri" : "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4uiMn2g0pgTrhN096QJhbp",
+      "id" : "4uiMn2g0pgTrhN096QJhbp",
+      "name" : "Borgeous",
+      "type" : "artist",
+      "uri" : "spotify:artist:4uiMn2g0pgTrhN096QJhbp"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/11bkt0bAaSycDHNd4OYH3R"
+    },
+    "href" : "https://api.spotify.com/v1/albums/11bkt0bAaSycDHNd4OYH3R",
+    "id" : "11bkt0bAaSycDHNd4OYH3R",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/36d3477a886a057b35d4b31aa1755bb38cdf66bb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/651d37fe14b19b2c62760e34c9bccdf88af301f7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d521a63aec57a7f5c0c9ff16ce7081cf1ab68c4",
+      "width" : 64
+    } ],
+    "name" : "Tsunami (Original Mix)",
+    "type" : "album",
+    "uri" : "spotify:album:11bkt0bAaSycDHNd4OYH3R"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5X4LWwbUFNzPkEas04uU82",
+    "id" : "5X4LWwbUFNzPkEas04uU82",
+    "name" : "DVBBS",
+    "type" : "artist",
+    "uri" : "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4uiMn2g0pgTrhN096QJhbp",
+    "id" : "4uiMn2g0pgTrhN096QJhbp",
+    "name" : "Borgeous",
+    "type" : "artist",
+    "uri" : "spotify:artist:4uiMn2g0pgTrhN096QJhbp"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 236826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLZ541300786"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3felG0BIvmmOoCIeE2A5vq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3felG0BIvmmOoCIeE2A5vq",
+  "id" : "3felG0BIvmmOoCIeE2A5vq",
+  "name" : "Tsunami - Original Mix",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8fd81c25db2d5749e18f6b6383fce2c2f9272163?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3felG0BIvmmOoCIeE2A5vq"
+}

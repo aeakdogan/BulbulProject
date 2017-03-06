@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/399t4qwl1M9sMlOtlxVP7e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/399t4qwl1M9sMlOtlxVP7e",
+      "id" : "399t4qwl1M9sMlOtlxVP7e",
+      "name" : "The Dining Rooms",
+      "type" : "artist",
+      "uri" : "spotify:artist:399t4qwl1M9sMlOtlxVP7e"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/56qpUnH6KXKyGUWxhq0N1p"
+    },
+    "href" : "https://api.spotify.com/v1/albums/56qpUnH6KXKyGUWxhq0N1p",
+    "id" : "56qpUnH6KXKyGUWxhq0N1p",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/47012ecd902328969e00a01b3f628c10b2b692d4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0d3f0d2ab2109428259a2e3becdaff8665fca041",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/758b5617046450aae6fbf237618b6992d150a828",
+      "width" : 64
+    } ],
+    "name" : "Numero Deux",
+    "type" : "album",
+    "uri" : "spotify:album:56qpUnH6KXKyGUWxhq0N1p"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/399t4qwl1M9sMlOtlxVP7e"
+    },
+    "href" : "https://api.spotify.com/v1/artists/399t4qwl1M9sMlOtlxVP7e",
+    "id" : "399t4qwl1M9sMlOtlxVP7e",
+    "name" : "The Dining Rooms",
+    "type" : "artist",
+    "uri" : "spotify:artist:399t4qwl1M9sMlOtlxVP7e"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 315924,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITO0P0100135"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1sJfZSCxvSjEchvIjDY5UV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1sJfZSCxvSjEchvIjDY5UV",
+  "id" : "1sJfZSCxvSjEchvIjDY5UV",
+  "name" : "Chorus Of Flames",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7833cc53864f238ef540fbe4637b3225cc202141?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:1sJfZSCxvSjEchvIjDY5UV"
+}

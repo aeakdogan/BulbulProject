@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PbBg2aYjWLKRk84zJK15x",
+      "id" : "1PbBg2aYjWLKRk84zJK15x",
+      "name" : "Echosmith",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PbBg2aYjWLKRk84zJK15x"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1oHY6eQmEG8skElDvFgKz2",
+    "id" : "1oHY6eQmEG8skElDvFgKz2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e0cff5c6f0782b007472042f33f7daecf83b17de",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/026c97f626e35395e845061874000948a2027601",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/400671c8959b66477e0a86f37d156114a739c3f6",
+      "width" : 64
+    } ],
+    "name" : "Talking Dreams (Deluxe Version)",
+    "type" : "album",
+    "uri" : "spotify:album:1oHY6eQmEG8skElDvFgKz2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1PbBg2aYjWLKRk84zJK15x",
+    "id" : "1PbBg2aYjWLKRk84zJK15x",
+    "name" : "Echosmith",
+    "type" : "artist",
+    "uri" : "spotify:artist:1PbBg2aYjWLKRk84zJK15x"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 237626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11301764"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/13P5rwmk2EsoFRIz9UCeh9",
+  "id" : "13P5rwmk2EsoFRIz9UCeh9",
+  "name" : "Cool Kids",
+  "popularity" : 68,
+  "preview_url" : "https://p.scdn.co/mp3-preview/27df0a89036135748fd03fb67114abeb00c529a4?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:13P5rwmk2EsoFRIz9UCeh9"
+}

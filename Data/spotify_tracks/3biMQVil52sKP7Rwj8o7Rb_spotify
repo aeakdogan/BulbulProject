@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0oeUpvxWsC8bWS6SnpU8b9",
+      "id" : "0oeUpvxWsC8bWS6SnpU8b9",
+      "name" : "The Naked And Famous",
+      "type" : "artist",
+      "uri" : "spotify:artist:0oeUpvxWsC8bWS6SnpU8b9"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ImvJCAX33Pt2XGMaYaMia",
+    "id" : "5ImvJCAX33Pt2XGMaYaMia",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fba44d05075d7eebebe467584bd279302aaff1f6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6bd33e25b2ed5490f0483833afbfc3104797ee81",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/99b3ed2d397501921e27d10cafea81585b6a4e8d",
+      "width" : 64
+    } ],
+    "name" : "Passive Me, Aggressive You",
+    "type" : "album",
+    "uri" : "spotify:album:5ImvJCAX33Pt2XGMaYaMia"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0oeUpvxWsC8bWS6SnpU8b9",
+    "id" : "0oeUpvxWsC8bWS6SnpU8b9",
+    "name" : "The Naked And Famous",
+    "type" : "artist",
+    "uri" : "spotify:artist:0oeUpvxWsC8bWS6SnpU8b9"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 236560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NZNK11000005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3biMQVil52sKP7Rwj8o7Rb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3biMQVil52sKP7Rwj8o7Rb",
+  "id" : "3biMQVil52sKP7Rwj8o7Rb",
+  "name" : "The Sun",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2069d0660f08ea7ce71482b9fb96caacba3c4102?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3biMQVil52sKP7Rwj8o7Rb"
+}

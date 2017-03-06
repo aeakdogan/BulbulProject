@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SGZfHICh9e4oEXS8zGOXt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0SGZfHICh9e4oEXS8zGOXt",
+      "id" : "0SGZfHICh9e4oEXS8zGOXt",
+      "name" : "Bianca Ryan",
+      "type" : "artist",
+      "uri" : "spotify:artist:0SGZfHICh9e4oEXS8zGOXt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/69TcjIDahXkiwllHkujYdj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/69TcjIDahXkiwllHkujYdj",
+    "id" : "69TcjIDahXkiwllHkujYdj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/81cf82487ecb3f2cc8f59bcd700f8cabeca55466",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cbb2d2744c332c20545f17416e07252d22aaaf23",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e2318e627bc7b064b1a7c206c0f86c9537fa1471",
+      "width" : 64
+    } ],
+    "name" : "Alice - Single",
+    "type" : "album",
+    "uri" : "spotify:album:69TcjIDahXkiwllHkujYdj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0SGZfHICh9e4oEXS8zGOXt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0SGZfHICh9e4oEXS8zGOXt",
+    "id" : "0SGZfHICh9e4oEXS8zGOXt",
+    "name" : "Bianca Ryan",
+    "type" : "artist",
+    "uri" : "spotify:artist:0SGZfHICh9e4oEXS8zGOXt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 226029,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMAAK1587816"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7boFZtgO8nuejr7QdZ9Uj0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7boFZtgO8nuejr7QdZ9Uj0",
+  "id" : "7boFZtgO8nuejr7QdZ9Uj0",
+  "name" : "Alice",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/426b6c8b4d4235fd49d906e392c5d533b89f504e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7boFZtgO8nuejr7QdZ9Uj0"
+}

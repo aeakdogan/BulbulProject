@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7DLBOZ7wcTkgOSO0hZPFG9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7DLBOZ7wcTkgOSO0hZPFG9",
+      "id" : "7DLBOZ7wcTkgOSO0hZPFG9",
+      "name" : "Ace Enders and a Million Different People",
+      "type" : "artist",
+      "uri" : "spotify:artist:7DLBOZ7wcTkgOSO0hZPFG9"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1IznnTuB6V9xVMiPohwtKD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1IznnTuB6V9xVMiPohwtKD",
+    "id" : "1IznnTuB6V9xVMiPohwtKD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/21b83981f6386dc51075620cab059c8b26fb2e55",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/663bf60146b7424986496d1f4e50dc8b7fee2f6a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b0381249b425894cf80ff076ef92ecc7b383071e",
+      "width" : 64
+    } ],
+    "name" : "When I Hit The Ground",
+    "type" : "album",
+    "uri" : "spotify:album:1IznnTuB6V9xVMiPohwtKD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7DLBOZ7wcTkgOSO0hZPFG9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7DLBOZ7wcTkgOSO0hZPFG9",
+    "id" : "7DLBOZ7wcTkgOSO0hZPFG9",
+    "name" : "Ace Enders and a Million Different People",
+    "type" : "artist",
+    "uri" : "spotify:artist:7DLBOZ7wcTkgOSO0hZPFG9"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 173600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVR90953508"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3mcKSx58qeKVwVpzLakuct"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3mcKSx58qeKVwVpzLakuct",
+  "id" : "3mcKSx58qeKVwVpzLakuct",
+  "name" : "SOS",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/879edabb67205698ea2d3e6979043d8ebaff77ba?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:3mcKSx58qeKVwVpzLakuct"
+}

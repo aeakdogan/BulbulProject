@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Uz6jx81OY2J5K8Z4wmy2P",
+      "id" : "3Uz6jx81OY2J5K8Z4wmy2P",
+      "name" : "Camel",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Uz6jx81OY2J5K8Z4wmy2P"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2FQprDV7oOtHWbgctkCsxq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2FQprDV7oOtHWbgctkCsxq",
+    "id" : "2FQprDV7oOtHWbgctkCsxq",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/f778ed05a444969521539940a6a890b79ba5d1f5",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/2f407c5e08e84cfe39ad759129e2fb2970c7f285",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/9bc5df10935cf9a4998fbb5797eea6cad460aed2",
+      "width" : 64
+    } ],
+    "name" : "The Snow Goose (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:2FQprDV7oOtHWbgctkCsxq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Uz6jx81OY2J5K8Z4wmy2P",
+    "id" : "3Uz6jx81OY2J5K8Z4wmy2P",
+    "name" : "Camel",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Uz6jx81OY2J5K8Z4wmy2P"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 662306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF077421800"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Wb5ZD8Qy7MQX3F0ay6sxA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Wb5ZD8Qy7MQX3F0ay6sxA",
+  "id" : "3Wb5ZD8Qy7MQX3F0ay6sxA",
+  "name" : "The Snow Goose / Freefall - Live At The Marquee / 1974 / Medley",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c1f613a848b65fbefb6e91e74d756212ee499a5f?cid=null",
+  "track_number" : 20,
+  "type" : "track",
+  "uri" : "spotify:track:3Wb5ZD8Qy7MQX3F0ay6sxA"
+}

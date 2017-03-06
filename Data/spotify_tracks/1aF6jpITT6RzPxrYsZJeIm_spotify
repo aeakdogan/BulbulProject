@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+      "id" : "5he5w2lnU9x7JFhnwcekXX",
+      "name" : "Skrillex",
+      "type" : "artist",
+      "uri" : "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+    } ],
+    "available_markets" : [ "AT", "CA", "CH", "DE", "DK", "FI", "GB", "HK", "ID", "IE", "IS", "JP", "MX", "MY", "NO", "PH", "SG", "TW", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/35tQBmq1RblVUzAvfsw5uO",
+    "id" : "35tQBmq1RblVUzAvfsw5uO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7e80ff5eb7d04084caba4459b95a0f16e40cceb6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0f01e9427eb4a8ab61ff48c12d70dd6a50077b8a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9a23b1f93b6208f1cfec0306b5347e09f06728cd",
+      "width" : 64
+    } ],
+    "name" : "Scary Monsters and Nice Sprites EP",
+    "type" : "album",
+    "uri" : "spotify:album:35tQBmq1RblVUzAvfsw5uO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+    "id" : "5he5w2lnU9x7JFhnwcekXX",
+    "name" : "Skrillex",
+    "type" : "artist",
+    "uri" : "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+  } ],
+  "available_markets" : [ "AT", "CA", "CH", "DE", "DK", "FI", "GB", "HK", "ID", "IE", "IS", "JP", "MX", "MY", "NO", "PH", "SG", "TW", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 389023,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBTDG1000200"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1aF6jpITT6RzPxrYsZJeIm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1aF6jpITT6RzPxrYsZJeIm",
+  "id" : "1aF6jpITT6RzPxrYsZJeIm",
+  "name" : "With You, Friends [Long Drive]",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6b93fd8aae675728238a1fd26d5a39c77120812c?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1aF6jpITT6RzPxrYsZJeIm"
+}

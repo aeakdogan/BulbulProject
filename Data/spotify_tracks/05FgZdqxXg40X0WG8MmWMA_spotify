@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+      "id" : "36E7oYfz3LLRto6l2WmDcD",
+      "name" : "Pulp",
+      "type" : "artist",
+      "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ly9T2L4pqTZijFgQssd3x",
+    "id" : "3ly9T2L4pqTZijFgQssd3x",
+    "images" : [ {
+      "height" : 639,
+      "url" : "https://i.scdn.co/image/291f3f5b74b57c369fa31aca22a3d44bdc65df5c",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/efc01b5057993a9f9d006ca99a14c8744f6aa144",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b804ac83fdec1944af46221e6e2f26a06e3413d6",
+      "width" : 64
+    } ],
+    "name" : "Different Class",
+    "type" : "album",
+    "uri" : "spotify:album:3ly9T2L4pqTZijFgQssd3x"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+    "id" : "36E7oYfz3LLRto6l2WmDcD",
+    "name" : "Pulp",
+    "type" : "artist",
+    "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 198600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN9500147"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/05FgZdqxXg40X0WG8MmWMA",
+  "id" : "05FgZdqxXg40X0WG8MmWMA",
+  "name" : "Something Changed",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/05517f59cb9765e962f7445e97d48281a45e3794?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:05FgZdqxXg40X0WG8MmWMA"
+}

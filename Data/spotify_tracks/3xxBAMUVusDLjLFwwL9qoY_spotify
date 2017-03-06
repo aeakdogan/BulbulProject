@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5gznATMVO85ZcLTkE9ULU7",
+      "id" : "5gznATMVO85ZcLTkE9ULU7",
+      "name" : "Lenny Kravitz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5gznATMVO85ZcLTkE9ULU7"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7A3LlV59lh4KljWa7I6Tks",
+    "id" : "7A3LlV59lh4KljWa7I6Tks",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/900fb5bee60492146808a74a1d5d3425e4d6ce84",
+      "width" : 638
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f8205447f49296daf7ef777698e687f85753bab3",
+      "width" : 299
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/415b183c855ca9ef03c142b0e7dd4577b6922aba",
+      "width" : 64
+    } ],
+    "name" : "Mama Said",
+    "type" : "album",
+    "uri" : "spotify:album:7A3LlV59lh4KljWa7I6Tks"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5gznATMVO85ZcLTkE9ULU7",
+    "id" : "5gznATMVO85ZcLTkE9ULU7",
+    "name" : "Lenny Kravitz",
+    "type" : "artist",
+    "uri" : "spotify:artist:5gznATMVO85ZcLTkE9ULU7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 232710,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI29100013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3xxBAMUVusDLjLFwwL9qoY",
+  "id" : "3xxBAMUVusDLjLFwwL9qoY",
+  "name" : "Always On The Run",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/25153d0735692dd5cf011904b863ab681012b459?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3xxBAMUVusDLjLFwwL9qoY"
+}

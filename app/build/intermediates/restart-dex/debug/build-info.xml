@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="134188230481958"
+    token="5219218430162025657"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1055" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="427" />
+    <task
+        name="verifier"
+        duration="52" />
+
+    <artifact
+        location="/Users/mesutgurlek/Documents/SeniorProject/BulbulProject/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="134188230481958"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/mesutgurlek/Documents/SeniorProject/BulbulProject/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

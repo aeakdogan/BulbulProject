@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2eaky7ug05f0ep794lWWXN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2eaky7ug05f0ep794lWWXN",
+      "id" : "2eaky7ug05f0ep794lWWXN",
+      "name" : "Ilya",
+      "type" : "artist",
+      "uri" : "spotify:artist:2eaky7ug05f0ep794lWWXN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1XbenYX4qse8nqaUB7MI3V"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1XbenYX4qse8nqaUB7MI3V",
+    "id" : "1XbenYX4qse8nqaUB7MI3V",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/75250ea9a425207efa6c9908d6ef808865f01020",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9423f60a1b8f24a6c5540e47add313ea91566db3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9acb8473d6364bc96cc889e7eed84221e5678083",
+      "width" : 64
+    } ],
+    "name" : "Fathoms Deep",
+    "type" : "album",
+    "uri" : "spotify:album:1XbenYX4qse8nqaUB7MI3V"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2eaky7ug05f0ep794lWWXN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2eaky7ug05f0ep794lWWXN",
+    "id" : "2eaky7ug05f0ep794lWWXN",
+    "name" : "Ilya",
+    "type" : "artist",
+    "uri" : "spotify:artist:2eaky7ug05f0ep794lWWXN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 255317,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "uscgj1245278"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0PeQXm7OOQMTEuQvkJn8nx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0PeQXm7OOQMTEuQvkJn8nx",
+  "id" : "0PeQXm7OOQMTEuQvkJn8nx",
+  "name" : "Lean Down",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/74ae623169d3e4be3b79fede13c598f44da260df?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0PeQXm7OOQMTEuQvkJn8nx"
+}

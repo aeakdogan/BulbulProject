@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7wJ9NwdRWtN92NunmXuwBk",
+      "id" : "7wJ9NwdRWtN92NunmXuwBk",
+      "name" : "Orchestral Manoeuvres In The Dark",
+      "type" : "artist",
+      "uri" : "spotify:artist:7wJ9NwdRWtN92NunmXuwBk"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3bouQtY9H1DP39yxqHuFf8",
+    "id" : "3bouQtY9H1DP39yxqHuFf8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d715204dcc72a9d4e0979c2076b6de97613938b0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/997abac6a9f1ebf01b78ddae1420593edfaa041b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/94d43cafc3e7a6c87e6778079c193b95c3e08bf0",
+      "width" : 64
+    } ],
+    "name" : "Organisation",
+    "type" : "album",
+    "uri" : "spotify:album:3bouQtY9H1DP39yxqHuFf8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7wJ9NwdRWtN92NunmXuwBk",
+    "id" : "7wJ9NwdRWtN92NunmXuwBk",
+    "name" : "Orchestral Manoeuvres In The Dark",
+    "type" : "artist",
+    "uri" : "spotify:artist:7wJ9NwdRWtN92NunmXuwBk"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 212266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0300048"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3NYCaxkggl0Hh8vQptSUvV",
+  "id" : "3NYCaxkggl0Hh8vQptSUvV",
+  "name" : "Enola Gay - 2003 - Remaster",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cd11615f4fe3b751f9629d4b5b272eb44dd08ee4?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3NYCaxkggl0Hh8vQptSUvV"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt",
+      "id" : "22WZ7M8sxp5THdruNY3gXt",
+      "name" : "The Doors",
+      "type" : "artist",
+      "uri" : "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0qZTwrunzX3LG45PvRghmh",
+    "id" : "0qZTwrunzX3LG45PvRghmh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c025f3e3ba85141229aa73f3a426db99d4a24139",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fda7c14634f4e862a76caa706f79e942bec66722",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b34bad8f7676e63d917e52dd7824bef5598fcc13",
+      "width" : 64
+    } ],
+    "name" : "Waiting For The Sun",
+    "type" : "album",
+    "uri" : "spotify:album:0qZTwrunzX3LG45PvRghmh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt",
+    "id" : "22WZ7M8sxp5THdruNY3gXt",
+    "name" : "The Doors",
+    "type" : "artist",
+    "uri" : "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 169533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE19900745"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Q2Im8o4RthlAMkvUMYwGj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Q2Im8o4RthlAMkvUMYwGj",
+  "id" : "5Q2Im8o4RthlAMkvUMYwGj",
+  "name" : "Love Street",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1730ec0b6fd5262fc30098a5002f974ee0e8da89?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5Q2Im8o4RthlAMkvUMYwGj"
+}

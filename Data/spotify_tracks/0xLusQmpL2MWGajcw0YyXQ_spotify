@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+      "id" : "5a2EaR3hamoenG9rDuVn8j",
+      "name" : "Prince",
+      "type" : "artist",
+      "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Cijd5OjHeWBm97DsPHpgs",
+    "id" : "3Cijd5OjHeWBm97DsPHpgs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6504f0b45da3d3f214383a9836797e7af95a737c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/00a1916f79920437fd56829a097d39b8ba52ca23",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e0367dfcf6788770383e1a45e95f1cdabfd1d3d4",
+      "width" : 64
+    } ],
+    "name" : "Dirty Mind",
+    "type" : "album",
+    "uri" : "spotify:album:3Cijd5OjHeWBm97DsPHpgs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+    "id" : "5a2EaR3hamoenG9rDuVn8j",
+    "name" : "Prince",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 254866,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USWB18000120"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0xLusQmpL2MWGajcw0YyXQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0xLusQmpL2MWGajcw0YyXQ",
+  "id" : "0xLusQmpL2MWGajcw0YyXQ",
+  "name" : "Dirty Mind",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4714716a8d2c0aba6260710c55f8c5a16f30b419?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0xLusQmpL2MWGajcw0YyXQ"
+}

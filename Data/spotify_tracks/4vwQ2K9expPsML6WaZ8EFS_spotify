@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6u11Qbko2N2hP4lTBYjX86",
+      "id" : "6u11Qbko2N2hP4lTBYjX86",
+      "name" : "Peter Bjorn and John",
+      "type" : "artist",
+      "uri" : "spotify:artist:6u11Qbko2N2hP4lTBYjX86"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1IbUzxyFuJD70ZlFfcP4qM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1IbUzxyFuJD70ZlFfcP4qM",
+    "id" : "1IbUzxyFuJD70ZlFfcP4qM",
+    "images" : [ {
+      "height" : 599,
+      "url" : "https://i.scdn.co/image/fbea33e5a9be88c328631287226d92d88a34db12",
+      "width" : 640
+    }, {
+      "height" : 281,
+      "url" : "https://i.scdn.co/image/fcab182d6c12d6f5b3296b6c46d482f94ab33028",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://i.scdn.co/image/64424af49ddd41d250ff074e3a59fccdb4520045",
+      "width" : 64
+    } ],
+    "name" : "Living Thing",
+    "type" : "album",
+    "uri" : "spotify:album:1IbUzxyFuJD70ZlFfcP4qM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6u11Qbko2N2hP4lTBYjX86",
+    "id" : "6u11Qbko2N2hP4lTBYjX86",
+    "name" : "Peter Bjorn and John",
+    "type" : "artist",
+    "uri" : "spotify:artist:6u11Qbko2N2hP4lTBYjX86"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 176733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEUM70801795"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4vwQ2K9expPsML6WaZ8EFS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4vwQ2K9expPsML6WaZ8EFS",
+  "id" : "4vwQ2K9expPsML6WaZ8EFS",
+  "name" : "Nothing To Worry About",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/db6fba6376dd79c416dbec7d89b3ac3ffac989b2?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4vwQ2K9expPsML6WaZ8EFS"
+}

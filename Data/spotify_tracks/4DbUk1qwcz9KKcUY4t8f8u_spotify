@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+      "id" : "5a2EaR3hamoenG9rDuVn8j",
+      "name" : "Prince",
+      "type" : "artist",
+      "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2FwzHgJ4XaPhC19Y0uL6SK",
+    "id" : "2FwzHgJ4XaPhC19Y0uL6SK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d69314af2236bac51db882aeac07ec9f2066da1b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a3aa6cb9a9999f86bd9c018a139ad62b7bfec117",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bbfeb832988bc8b0cc4e3e21ea97e18ef3ccc02e",
+      "width" : 64
+    } ],
+    "name" : "Batman",
+    "type" : "album",
+    "uri" : "spotify:album:2FwzHgJ4XaPhC19Y0uL6SK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+    "id" : "5a2EaR3hamoenG9rDuVn8j",
+    "name" : "Prince",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 373733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19900683"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4DbUk1qwcz9KKcUY4t8f8u"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4DbUk1qwcz9KKcUY4t8f8u",
+  "id" : "4DbUk1qwcz9KKcUY4t8f8u",
+  "name" : "Batdance",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2a6e683b5a6aa2744d06afafad44dd37235b9a22?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:4DbUk1qwcz9KKcUY4t8f8u"
+}

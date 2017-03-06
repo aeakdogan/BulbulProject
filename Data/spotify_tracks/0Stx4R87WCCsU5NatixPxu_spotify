@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RwQ26hR2tJtA8F9p2n7jG",
+      "id" : "3RwQ26hR2tJtA8F9p2n7jG",
+      "name" : "The Temptations",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3nbu26YZJwrj0l40A0ctF7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3nbu26YZJwrj0l40A0ctF7",
+    "id" : "3nbu26YZJwrj0l40A0ctF7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7bf86f4ae250ca99a985dd9ff9cc30cd75d224c3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/92bacddd19069581715e7363ef2be83227d3173c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ed0f43d25fa2bf43375e6984bc61fd7ca800a63b",
+      "width" : 64
+    } ],
+    "name" : "50th Anniversary: The Singles Collection 1961-1971",
+    "type" : "album",
+    "uri" : "spotify:album:3nbu26YZJwrj0l40A0ctF7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3RwQ26hR2tJtA8F9p2n7jG",
+    "id" : "3RwQ26hR2tJtA8F9p2n7jG",
+    "name" : "The Temptations",
+    "type" : "artist",
+    "uri" : "spotify:artist:3RwQ26hR2tJtA8F9p2n7jG"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 172186,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO10111049"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Stx4R87WCCsU5NatixPxu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Stx4R87WCCsU5NatixPxu",
+  "id" : "0Stx4R87WCCsU5NatixPxu",
+  "name" : "Since I Lost My Baby",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b59cb020c19d9ffcae2bbcbe05bb255459f2cce5?cid=null",
+  "track_number" : 25,
+  "type" : "track",
+  "uri" : "spotify:track:0Stx4R87WCCsU5NatixPxu"
+}

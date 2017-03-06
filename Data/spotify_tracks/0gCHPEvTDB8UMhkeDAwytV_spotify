@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SbkVQYYzlw1kte75QIabH",
+      "id" : "5SbkVQYYzlw1kte75QIabH",
+      "name" : "Gnarls Barkley",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SbkVQYYzlw1kte75QIabH"
+    } ],
+    "available_markets" : [ "AR", "CA", "FR", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7p2aWivr9OLXocSTTKtG9B",
+    "id" : "7p2aWivr9OLXocSTTKtG9B",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f77997d963a9ab47cd640bbbfbf68cf440ec52ce",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/998bae93cdcdc46f0e2e8d2b1cce06decf337768",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2a8f85fe585a1ad7ede253d884723a32c85dab16",
+      "width" : 64
+    } ],
+    "name" : "St. Elsewhere",
+    "type" : "album",
+    "uri" : "spotify:album:7p2aWivr9OLXocSTTKtG9B"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5SbkVQYYzlw1kte75QIabH",
+    "id" : "5SbkVQYYzlw1kte75QIabH",
+    "name" : "Gnarls Barkley",
+    "type" : "artist",
+    "uri" : "spotify:artist:5SbkVQYYzlw1kte75QIabH"
+  } ],
+  "available_markets" : [ "AR", "CA", "FR", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 148066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20611043"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0gCHPEvTDB8UMhkeDAwytV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0gCHPEvTDB8UMhkeDAwytV",
+  "id" : "0gCHPEvTDB8UMhkeDAwytV",
+  "name" : "Gone Daddy Gone/I Just Want To Make Love To You",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/778d33f8e95d2b556e8a44a25031f90bdb2af22d?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0gCHPEvTDB8UMhkeDAwytV"
+}

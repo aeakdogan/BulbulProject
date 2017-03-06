@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/634B8f7S6YwveFT4zunhGB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/634B8f7S6YwveFT4zunhGB",
+      "id" : "634B8f7S6YwveFT4zunhGB",
+      "name" : "Birth Of Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:634B8f7S6YwveFT4zunhGB"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5SZS83vgrulqDEQdHh6Bxo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5SZS83vgrulqDEQdHh6Bxo",
+    "id" : "5SZS83vgrulqDEQdHh6Bxo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b0983703e1454fc478f83dc21a37a4c4185543be",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e066c3d5e96c95e3e3dd9c819efdc9d68c830a92",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7d2b7fc73e06866b361d74519a015be62674a616",
+      "width" : 64
+    } ],
+    "name" : "Make Things Happen",
+    "type" : "album",
+    "uri" : "spotify:album:5SZS83vgrulqDEQdHh6Bxo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/634B8f7S6YwveFT4zunhGB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/634B8f7S6YwveFT4zunhGB",
+    "id" : "634B8f7S6YwveFT4zunhGB",
+    "name" : "Birth Of Joy",
+    "type" : "artist",
+    "uri" : "spotify:artist:634B8f7S6YwveFT4zunhGB"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 232880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEA451317620"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1AcaWpzXByawMsDy2QegVN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1AcaWpzXByawMsDy2QegVN",
+  "id" : "1AcaWpzXByawMsDy2QegVN",
+  "name" : "Make Things Happen",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3da929c0694eeb42321f0184a3bf224182d5f839?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1AcaWpzXByawMsDy2QegVN"
+}

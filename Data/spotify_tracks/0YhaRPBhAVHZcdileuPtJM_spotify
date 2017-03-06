@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5olDKSsFhhmwh8UCWwKtpq",
+      "id" : "5olDKSsFhhmwh8UCWwKtpq",
+      "name" : "Chick Corea",
+      "type" : "artist",
+      "uri" : "spotify:artist:5olDKSsFhhmwh8UCWwKtpq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1txWOvvuItlRlkB4rM0cUK",
+      "id" : "1txWOvvuItlRlkB4rM0cUK",
+      "name" : "Return To Forever",
+      "type" : "artist",
+      "uri" : "spotify:artist:1txWOvvuItlRlkB4rM0cUK"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2wkmxijYToqAr0ATgcNSsn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2wkmxijYToqAr0ATgcNSsn",
+    "id" : "2wkmxijYToqAr0ATgcNSsn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5766f00ca4b065d0ea11535f77a9f1597114a435",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4e2300b3ce402ce85bc9f32a4fae364c8501ee89",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ac34b67a33cdb9d4dd0dcda491649072e4877e2f",
+      "width" : 64
+    } ],
+    "name" : "Light As A Feather",
+    "type" : "album",
+    "uri" : "spotify:album:2wkmxijYToqAr0ATgcNSsn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5olDKSsFhhmwh8UCWwKtpq",
+    "id" : "5olDKSsFhhmwh8UCWwKtpq",
+    "name" : "Chick Corea",
+    "type" : "artist",
+    "uri" : "spotify:artist:5olDKSsFhhmwh8UCWwKtpq"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1txWOvvuItlRlkB4rM0cUK",
+    "id" : "1txWOvvuItlRlkB4rM0cUK",
+    "name" : "Return To Forever",
+    "type" : "artist",
+    "uri" : "spotify:artist:1txWOvvuItlRlkB4rM0cUK"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 588266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR37200024"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0YhaRPBhAVHZcdileuPtJM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0YhaRPBhAVHZcdileuPtJM",
+  "id" : "0YhaRPBhAVHZcdileuPtJM",
+  "name" : "Spain",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/92c88b22ff23a1f711eff688fc46c584bfd388d3?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0YhaRPBhAVHZcdileuPtJM"
+}

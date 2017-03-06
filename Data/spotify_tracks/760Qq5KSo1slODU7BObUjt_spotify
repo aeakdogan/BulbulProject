@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6bVE0WDWHM9h7Ghiwjua5T"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6bVE0WDWHM9h7Ghiwjua5T",
+    "id" : "6bVE0WDWHM9h7Ghiwjua5T",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ff4419f46fd98352219079d4ee371b69c6abc5d7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1e073cbefe11d678b3579251dc146192b4029ed3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/384d1a7dcacf4a92d8ded30027a5be204fabef60",
+      "width" : 64
+    } ],
+    "name" : "A Tribute to Joni Mitchell",
+    "type" : "album",
+    "uri" : "spotify:album:6bVE0WDWHM9h7Ghiwjua5T"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+    "id" : "7w29UYBi0qsHi5RTcv3lmA",
+    "name" : "Björk",
+    "type" : "artist",
+    "uri" : "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 306386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO10750491"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/760Qq5KSo1slODU7BObUjt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/760Qq5KSo1slODU7BObUjt",
+  "id" : "760Qq5KSo1slODU7BObUjt",
+  "name" : "The Boho Dance",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f48867410bd267a45cd30d0d406ad34e7bdc6405?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:760Qq5KSo1slODU7BObUjt"
+}

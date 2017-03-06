@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6e8CHD8PtaKElkzC7xMQQU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6e8CHD8PtaKElkzC7xMQQU",
+      "id" : "6e8CHD8PtaKElkzC7xMQQU",
+      "name" : "Absent Without Leave",
+      "type" : "artist",
+      "uri" : "spotify:artist:6e8CHD8PtaKElkzC7xMQQU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/18cceiVwq4PY7m1NopXsZZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/18cceiVwq4PY7m1NopXsZZ",
+    "id" : "18cceiVwq4PY7m1NopXsZZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ba3b1af1d18aea396c760d984b10854a07884b70",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/393fdc2be07987dde8d591d5d12dfb521e23b40c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5c0af394826ae681e0692a01a285bf2d29584146",
+      "width" : 64
+    } ],
+    "name" : "Postcards from Nowhere",
+    "type" : "album",
+    "uri" : "spotify:album:18cceiVwq4PY7m1NopXsZZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6e8CHD8PtaKElkzC7xMQQU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6e8CHD8PtaKElkzC7xMQQU",
+    "id" : "6e8CHD8PtaKElkzC7xMQQU",
+    "name" : "Absent Without Leave",
+    "type" : "artist",
+    "uri" : "spotify:artist:6e8CHD8PtaKElkzC7xMQQU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 396320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA4D1028016"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2QZRmZzHAVPb2pw9bm0uot"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2QZRmZzHAVPb2pw9bm0uot",
+  "id" : "2QZRmZzHAVPb2pw9bm0uot",
+  "name" : "The First Rain",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aa5c5ba8b8e44b4e06fd6a65d6a48f2a64eee866?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2QZRmZzHAVPb2pw9bm0uot"
+}

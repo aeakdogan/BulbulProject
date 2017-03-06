@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+      "id" : "5l8VQNuIg0turYE1VtM9zV",
+      "name" : "Leonard Cohen",
+      "type" : "artist",
+      "uri" : "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3gUw30X6A7WEGcRdv1nFr9",
+    "id" : "3gUw30X6A7WEGcRdv1nFr9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2eda193616d315d5c456f4fa66b83b6ff533177f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/54df5a003f5fdf83cafb15e30299cfa181b6580d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/19048f0b0601d9d006e0ca6ce3d3e7836ade60f8",
+      "width" : 64
+    } ],
+    "name" : "I'm Your Man",
+    "type" : "album",
+    "uri" : "spotify:album:3gUw30X6A7WEGcRdv1nFr9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+    "id" : "5l8VQNuIg0turYE1VtM9zV",
+    "name" : "Leonard Cohen",
+    "type" : "artist",
+    "uri" : "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 265186,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10027492"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5atFAXIgMXP378op4FaxBm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5atFAXIgMXP378op4FaxBm",
+  "id" : "5atFAXIgMXP378op4FaxBm",
+  "name" : "I'm Your Man",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9ed21388ece9be71c17deb4e8199148b748d81ce?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5atFAXIgMXP378op4FaxBm"
+}

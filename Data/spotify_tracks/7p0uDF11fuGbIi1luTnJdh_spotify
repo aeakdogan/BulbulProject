@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4h7NLIlg1oYdEtfQJfyto0",
+      "id" : "4h7NLIlg1oYdEtfQJfyto0",
+      "name" : "Nouvelle Vague",
+      "type" : "artist",
+      "uri" : "spotify:artist:4h7NLIlg1oYdEtfQJfyto0"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/04VmLM7OUYvIIwtSryQ7nm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/04VmLM7OUYvIIwtSryQ7nm",
+    "id" : "04VmLM7OUYvIIwtSryQ7nm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9f9af226299310126238eecff24f7ced9eca4ca2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0d5ec35b7fba76a79350a7a6c7051432bff06645",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e78bf8db29ea42f61f3dbc13d563526d844e1edc",
+      "width" : 64
+    } ],
+    "name" : "Bande à Part",
+    "type" : "album",
+    "uri" : "spotify:album:04VmLM7OUYvIIwtSryQ7nm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4h7NLIlg1oYdEtfQJfyto0",
+    "id" : "4h7NLIlg1oYdEtfQJfyto0",
+    "name" : "Nouvelle Vague",
+    "type" : "artist",
+    "uri" : "spotify:artist:4h7NLIlg1oYdEtfQJfyto0"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 199746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR13Z0600002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7p0uDF11fuGbIi1luTnJdh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7p0uDF11fuGbIi1luTnJdh",
+  "id" : "7p0uDF11fuGbIi1luTnJdh",
+  "name" : "Ever Fallen In Love",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c71c8f2cf617437cad3705180406dbdb2b173738?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7p0uDF11fuGbIi1luTnJdh"
+}

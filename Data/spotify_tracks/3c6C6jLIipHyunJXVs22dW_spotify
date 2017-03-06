@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4l8xPGtl6DHR2uvunqrl8r",
+      "id" : "4l8xPGtl6DHR2uvunqrl8r",
+      "name" : "CAN",
+      "type" : "artist",
+      "uri" : "spotify:artist:4l8xPGtl6DHR2uvunqrl8r"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6IBWNkc5eWbllZN4U5Ehxn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6IBWNkc5eWbllZN4U5Ehxn",
+    "id" : "6IBWNkc5eWbllZN4U5Ehxn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/72f240236e3139823f01613644df253c148eea9d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1441dd012faebea39e26007e5ce21f7a005f16cf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2746aed573de306ea483a3e7cd7e57b32e64ee88",
+      "width" : 64
+    } ],
+    "name" : "Can (Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:6IBWNkc5eWbllZN4U5Ehxn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4l8xPGtl6DHR2uvunqrl8r",
+    "id" : "4l8xPGtl6DHR2uvunqrl8r",
+    "name" : "CAN",
+    "type" : "artist",
+    "uri" : "spotify:artist:4l8xPGtl6DHR2uvunqrl8r"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 349293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX170522805"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3c6C6jLIipHyunJXVs22dW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3c6C6jLIipHyunJXVs22dW",
+  "id" : "3c6C6jLIipHyunJXVs22dW",
+  "name" : "Aspectacle",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/77ae424ec27fb8184679fcacf814de29f3f27a7e?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3c6C6jLIipHyunJXVs22dW"
+}

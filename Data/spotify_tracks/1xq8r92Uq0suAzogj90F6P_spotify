@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/27o6v2N3H2YW2EPZjAMn0t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/27o6v2N3H2YW2EPZjAMn0t",
+      "id" : "27o6v2N3H2YW2EPZjAMn0t",
+      "name" : "Glenn Jones",
+      "type" : "artist",
+      "uri" : "spotify:artist:27o6v2N3H2YW2EPZjAMn0t"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5iHww3iH6ZNJK6O2s5axVq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5iHww3iH6ZNJK6O2s5axVq",
+    "id" : "5iHww3iH6ZNJK6O2s5axVq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/88ca6c8c7a086545d1a574a39b594f16c1a22db8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1b3983739c924bf5d6756a023d98da2da93a985a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c96e853fd9b718244688748129d6323485345f6f",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Glenn Jones",
+    "type" : "album",
+    "uri" : "spotify:album:5iHww3iH6ZNJK6O2s5axVq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/27o6v2N3H2YW2EPZjAMn0t"
+    },
+    "href" : "https://api.spotify.com/v1/artists/27o6v2N3H2YW2EPZjAMn0t",
+    "id" : "27o6v2N3H2YW2EPZjAMn0t",
+    "name" : "Glenn Jones",
+    "type" : "artist",
+    "uri" : "spotify:artist:27o6v2N3H2YW2EPZjAMn0t"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 227933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJI10300803"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1xq8r92Uq0suAzogj90F6P"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1xq8r92Uq0suAzogj90F6P",
+  "id" : "1xq8r92Uq0suAzogj90F6P",
+  "name" : "I Am Somebody",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5400795199dfb546007ff742d821fe0de04b47dc?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1xq8r92Uq0suAzogj90F6P"
+}

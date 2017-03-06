@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+      "id" : "3crnzLy8R4lVwaigKEOz7V",
+      "name" : "E-40",
+      "type" : "artist",
+      "uri" : "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/42wO2hmYMe3tQGMoshwFsI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/42wO2hmYMe3tQGMoshwFsI",
+    "id" : "42wO2hmYMe3tQGMoshwFsI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/213fa4f167ad97d53173a1f1ef63f5d974fb94cb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/433b08d0b4ef3aa480d77800f499e1e39a16bb0d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/35f75adac97824fab6bcfb08182dcc1650521a7d",
+      "width" : 64
+    } ],
+    "name" : "Sharp On All 4 Corners (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:42wO2hmYMe3tQGMoshwFsI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3crnzLy8R4lVwaigKEOz7V",
+    "id" : "3crnzLy8R4lVwaigKEOz7V",
+    "name" : "E-40",
+    "type" : "artist",
+    "uri" : "spotify:artist:3crnzLy8R4lVwaigKEOz7V"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 272720,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "US4KV1400050"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5vIu19A3EEdHgFM4Cba6F4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5vIu19A3EEdHgFM4Cba6F4",
+  "id" : "5vIu19A3EEdHgFM4Cba6F4",
+  "name" : "Choices (Yup)",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/678e28db7aadfa1375051cf03cafecef37265e3f?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5vIu19A3EEdHgFM4Cba6F4"
+}

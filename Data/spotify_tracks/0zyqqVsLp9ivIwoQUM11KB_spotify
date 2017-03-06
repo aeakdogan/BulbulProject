@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sL9uDMwceYHPknnCLAAwJ",
+      "id" : "5sL9uDMwceYHPknnCLAAwJ",
+      "name" : "GusGus",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sL9uDMwceYHPknnCLAAwJ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6FiqDpq028FAsCRQTIZzac"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6FiqDpq028FAsCRQTIZzac",
+    "id" : "6FiqDpq028FAsCRQTIZzac",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6374a915dc3af33e9d107b32b010b94acf725fb9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/55189db3f9423d8adea56a73620c2e7717752760",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0f7cab805992750479aca2ce681ff3d034ed450c",
+      "width" : 64
+    } ],
+    "name" : "Attention",
+    "type" : "album",
+    "uri" : "spotify:album:6FiqDpq028FAsCRQTIZzac"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5sL9uDMwceYHPknnCLAAwJ",
+    "id" : "5sL9uDMwceYHPknnCLAAwJ",
+    "name" : "GusGus",
+    "type" : "artist",
+    "uri" : "spotify:artist:5sL9uDMwceYHPknnCLAAwJ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 271360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBPUP0725093"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0zyqqVsLp9ivIwoQUM11KB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0zyqqVsLp9ivIwoQUM11KB",
+  "id" : "0zyqqVsLp9ivIwoQUM11KB",
+  "name" : "David",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/186d3db61ef438e89bde0e7baf99736d0406ec05?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0zyqqVsLp9ivIwoQUM11KB"
+}

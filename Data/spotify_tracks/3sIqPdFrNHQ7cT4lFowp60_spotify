@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1qHR9DMfOJQjvWLEfMZQlG",
+      "id" : "1qHR9DMfOJQjvWLEfMZQlG",
+      "name" : "Beat Happening",
+      "type" : "artist",
+      "uri" : "spotify:artist:1qHR9DMfOJQjvWLEfMZQlG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0dkGkvmsNSgpqFhpzaSfIW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0dkGkvmsNSgpqFhpzaSfIW",
+    "id" : "0dkGkvmsNSgpqFhpzaSfIW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/68b5845194aa1cc17d12370bddce7d0ce65f4305",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/35c195f3dad9efbecdf7307caf3248502ad9c675",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/277b864a7024ae2744008313c82cae27d4e53cc1",
+      "width" : 64
+    } ],
+    "name" : "Beat Happening",
+    "type" : "album",
+    "uri" : "spotify:album:0dkGkvmsNSgpqFhpzaSfIW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1qHR9DMfOJQjvWLEfMZQlG",
+    "id" : "1qHR9DMfOJQjvWLEfMZQlG",
+    "name" : "Beat Happening",
+    "type" : "artist",
+    "uri" : "spotify:artist:1qHR9DMfOJQjvWLEfMZQlG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 166373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USK110400120"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3sIqPdFrNHQ7cT4lFowp60"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3sIqPdFrNHQ7cT4lFowp60",
+  "id" : "3sIqPdFrNHQ7cT4lFowp60",
+  "name" : "Let's Kiss",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b37b119f88d1736601ff8817e48b3d16e5be9214?cid=null",
+  "track_number" : 20,
+  "type" : "track",
+  "uri" : "spotify:track:3sIqPdFrNHQ7cT4lFowp60"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+      "id" : "3BeQqzKdlARoOd6y30kCO2",
+      "name" : "Pete Rock",
+      "type" : "artist",
+      "uri" : "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2fK82UKrNrE4JLT4Y3BphR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2fK82UKrNrE4JLT4Y3BphR",
+    "id" : "2fK82UKrNrE4JLT4Y3BphR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d18d48eb9eea0cde05e75f019d25bf55ba451244",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4bcf4da1be6be45a7a439aa85f9936b1454c1e20",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/50ed57c8692348cd1ed575ec2b970f1dd6c96603",
+      "width" : 64
+    } ],
+    "name" : "Petestrumentals - 10th Anniversary Expanded & Limited Edition",
+    "type" : "album",
+    "uri" : "spotify:album:2fK82UKrNrE4JLT4Y3BphR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+    "id" : "3BeQqzKdlARoOd6y30kCO2",
+    "name" : "Pete Rock",
+    "type" : "artist",
+    "uri" : "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 315322,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEQT0100006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3zKQ7LvEHjW3v1e2MTBxU0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3zKQ7LvEHjW3v1e2MTBxU0",
+  "id" : "3zKQ7LvEHjW3v1e2MTBxU0",
+  "name" : "Pete's Jazz",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/424f8a7a410f368b9160e96287cf2473f0614a41?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:3zKQ7LvEHjW3v1e2MTBxU0"
+}

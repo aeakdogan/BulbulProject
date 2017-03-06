@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5157OsVqMlDL6xDN3RiIoc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5157OsVqMlDL6xDN3RiIoc",
+    "id" : "5157OsVqMlDL6xDN3RiIoc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9046cfe9a21c98ba8ca1a67c4e7b146d62a90b6c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f6f6e728eb569f516a15726e0010547b64b3f888",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/12455c02094157fa8ae5d00840ca82f7a7dfcd0e",
+      "width" : 64
+    } ],
+    "name" : "Signed, Sealed And Delivered",
+    "type" : "album",
+    "uri" : "spotify:album:5157OsVqMlDL6xDN3RiIoc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+    "id" : "7guDJrEfX3qb6FEbdPA5qi",
+    "name" : "Stevie Wonder",
+    "type" : "artist",
+    "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 161160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ029400710"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4CB13d6Igb94cWMOQWY3JF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4CB13d6Igb94cWMOQWY3JF",
+  "id" : "4CB13d6Igb94cWMOQWY3JF",
+  "name" : "Signed, Sealed, Delivered (I'm Yours)",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cb5de99cae68edbc9f513c1953a42b029dc1c7ce?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4CB13d6Igb94cWMOQWY3JF"
+}

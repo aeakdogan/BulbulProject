@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Js6Lde8thlIHXggv2SCBz",
+      "id" : "7Js6Lde8thlIHXggv2SCBz",
+      "name" : "Europe",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Js6Lde8thlIHXggv2SCBz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Jkd47JEaCU1g4DcGBnHm3",
+    "id" : "5Jkd47JEaCU1g4DcGBnHm3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/315041fa3ee12402824018670e3aee43e997562d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3122f0adbd9443aeda8003720d6b30425d830958",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/709a0670d49eb38d71b25e624a1b402d0f72bd2f",
+      "width" : 64
+    } ],
+    "name" : "The Final Countdown",
+    "type" : "album",
+    "uri" : "spotify:album:5Jkd47JEaCU1g4DcGBnHm3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7Js6Lde8thlIHXggv2SCBz",
+    "id" : "7Js6Lde8thlIHXggv2SCBz",
+    "name" : "Europe",
+    "type" : "artist",
+    "uri" : "spotify:artist:7Js6Lde8thlIHXggv2SCBz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 247306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10105445"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3J9NEWkd9Cx1MwSSvDySkL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3J9NEWkd9Cx1MwSSvDySkL",
+  "id" : "3J9NEWkd9Cx1MwSSvDySkL",
+  "name" : "Rock the Night",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/01a8abba619f621894657fb7f594194626da2969?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3J9NEWkd9Cx1MwSSvDySkL"
+}

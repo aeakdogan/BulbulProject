@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG",
+      "id" : "6kBDZFXuLrZgHnvmPu9NsG",
+      "name" : "Aphex Twin",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kBDZFXuLrZgHnvmPu9NsG"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Xdzq7uZAv640cXUoeAFAZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Xdzq7uZAv640cXUoeAFAZ",
+    "id" : "1Xdzq7uZAv640cXUoeAFAZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e105dde789ab15ad3bc0b6e1359033f8aee80f2e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b38a8bf0dd24f5c453ae3ed9af08e42b9f402e14",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0c8f51c91bb6f7afa70897a5f4ac5a8a931536e7",
+      "width" : 64
+    } ],
+    "name" : "Selected Ambient Works 85-92",
+    "type" : "album",
+    "uri" : "spotify:album:1Xdzq7uZAv640cXUoeAFAZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG",
+    "id" : "6kBDZFXuLrZgHnvmPu9NsG",
+    "name" : "Aphex Twin",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kBDZFXuLrZgHnvmPu9NsG"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 547133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEZ350800023"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6MTR1iU2ndeDGqdswM4ucH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6MTR1iU2ndeDGqdswM4ucH",
+  "id" : "6MTR1iU2ndeDGqdswM4ucH",
+  "name" : "Tha",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/190a3fd25a1e5258d6d1b42a2f943ca3226675e3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6MTR1iU2ndeDGqdswM4ucH"
+}

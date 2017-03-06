@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+      "id" : "74XFHRwlV6OrjEM0A2NCMF",
+      "name" : "Paramore",
+      "type" : "artist",
+      "uri" : "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+    } ],
+    "available_markets" : [ "BR", "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/71rziY9eLo1tA2dBMxrwhc",
+    "id" : "71rziY9eLo1tA2dBMxrwhc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b7bf9e682e3dca64d2396bdea7b56005f23448ed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0e3e4e3665edb0f15d3cb57f9f84e5eb82b7f423",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/19b813b0a3733f3ef3ec69e2ef4bc473dc0d6720",
+      "width" : 64
+    } ],
+    "name" : "RIOT!",
+    "type" : "album",
+    "uri" : "spotify:album:71rziY9eLo1tA2dBMxrwhc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+    "id" : "74XFHRwlV6OrjEM0A2NCMF",
+    "name" : "Paramore",
+    "type" : "artist",
+    "uri" : "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+  } ],
+  "available_markets" : [ "BR", "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 218333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20702607"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3QCNDusgteS3LdSpjLZdli"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3QCNDusgteS3LdSpjLZdli",
+  "id" : "3QCNDusgteS3LdSpjLZdli",
+  "name" : "We Are Broken",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/237a859b6f59c305644b0f709bb319fb9160df67?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3QCNDusgteS3LdSpjLZdli"
+}

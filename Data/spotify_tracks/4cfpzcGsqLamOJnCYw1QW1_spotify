@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/56YiNz2C704YPpRtPvMBg7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/56YiNz2C704YPpRtPvMBg7",
+      "id" : "56YiNz2C704YPpRtPvMBg7",
+      "name" : "Res",
+      "type" : "artist",
+      "uri" : "spotify:artist:56YiNz2C704YPpRtPvMBg7"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4u50iZ3xFs19AxPRmakPYa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4u50iZ3xFs19AxPRmakPYa",
+    "id" : "4u50iZ3xFs19AxPRmakPYa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a7d193fe7a535cb87f33a8fede080e1513f590bb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b5b8f5aa298064484631575f7964dda7ef608055",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4d40a55b6ee8c3198f34f58a5c13acdf06617b11",
+      "width" : 64
+    } ],
+    "name" : "How I Do",
+    "type" : "album",
+    "uri" : "spotify:album:4u50iZ3xFs19AxPRmakPYa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/56YiNz2C704YPpRtPvMBg7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/56YiNz2C704YPpRtPvMBg7",
+    "id" : "56YiNz2C704YPpRtPvMBg7",
+    "name" : "Res",
+    "type" : "artist",
+    "uri" : "spotify:artist:56YiNz2C704YPpRtPvMBg7"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 250106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC10110496"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4cfpzcGsqLamOJnCYw1QW1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4cfpzcGsqLamOJnCYw1QW1",
+  "id" : "4cfpzcGsqLamOJnCYw1QW1",
+  "name" : "700 Mile Situation",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2cce8148566473801614ad122462e6a64774e6f3?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4cfpzcGsqLamOJnCYw1QW1"
+}

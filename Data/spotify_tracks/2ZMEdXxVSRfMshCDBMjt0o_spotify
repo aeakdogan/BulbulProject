@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2e53aHBQdCMKWqHDuyJsjC",
+      "id" : "2e53aHBQdCMKWqHDuyJsjC",
+      "name" : "Free",
+      "type" : "artist",
+      "uri" : "spotify:artist:2e53aHBQdCMKWqHDuyJsjC"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0y1k7yzTo230VF9VPZhV1k"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0y1k7yzTo230VF9VPZhV1k",
+    "id" : "0y1k7yzTo230VF9VPZhV1k",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/4660e37de6adf6d84a6b9a36667be3b36448204f",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/86f6209878ced1918d364a05e07c27e2e9ecddb8",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/06c6d946bf2a7ffe32f0c1230c9b949fe9836331",
+      "width" : 64
+    } ],
+    "name" : "20th Century Masters: The Millennium Collection: Best Of Free",
+    "type" : "album",
+    "uri" : "spotify:album:0y1k7yzTo230VF9VPZhV1k"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2e53aHBQdCMKWqHDuyJsjC",
+    "id" : "2e53aHBQdCMKWqHDuyJsjC",
+    "name" : "Free",
+    "type" : "artist",
+    "uri" : "spotify:artist:2e53aHBQdCMKWqHDuyJsjC"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 334000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN7000001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ZMEdXxVSRfMshCDBMjt0o"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ZMEdXxVSRfMshCDBMjt0o",
+  "id" : "2ZMEdXxVSRfMshCDBMjt0o",
+  "name" : "All Right Now",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1d633a3765dfe805d41b13ee0536cad5dcae37b?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2ZMEdXxVSRfMshCDBMjt0o"
+}

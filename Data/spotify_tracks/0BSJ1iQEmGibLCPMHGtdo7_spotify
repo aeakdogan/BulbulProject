@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+      "id" : "7yxi31szvlbwvKq9dYOmFI",
+      "name" : "Jon Hopkins",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7wPJ4V3ueggJxvaYscV9Ou",
+    "id" : "7wPJ4V3ueggJxvaYscV9Ou",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3f553d715e68eaa46d29933b150e9be0e898b1ac",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5d81cd23c17d0cdad6f481dfc1c95e3b8a5663bf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/65a422ee34216723a852a5fe785502371f21f0a1",
+      "width" : 64
+    } ],
+    "name" : "Opalescent",
+    "type" : "album",
+    "uri" : "spotify:album:7wPJ4V3ueggJxvaYscV9Ou"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+    "id" : "7yxi31szvlbwvKq9dYOmFI",
+    "name" : "Jon Hopkins",
+    "type" : "artist",
+    "uri" : "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 376733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDDN9900061"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0BSJ1iQEmGibLCPMHGtdo7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0BSJ1iQEmGibLCPMHGtdo7",
+  "id" : "0BSJ1iQEmGibLCPMHGtdo7",
+  "name" : "Lost In Thought",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/29b2cba1f3eb137a430b8d134dd0f479528bf846?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0BSJ1iQEmGibLCPMHGtdo7"
+}

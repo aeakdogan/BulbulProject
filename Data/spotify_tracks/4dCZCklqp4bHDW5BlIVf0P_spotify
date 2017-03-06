@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3x27w2KnHpV7l4xcQKhOV1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3x27w2KnHpV7l4xcQKhOV1",
+    "id" : "3x27w2KnHpV7l4xcQKhOV1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0d45b93c5a0ee2bb087cf1b5c3c74997b88ff729",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9fe6b0aeb15f028cf17106cbd13842fddd490eaa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/df264d87f3a85b0cab87b33e186aea507c6ced21",
+      "width" : 64
+    } ],
+    "name" : "Brazilian Beats 7 (Mr Bongo presents)",
+    "type" : "album",
+    "uri" : "spotify:album:3x27w2KnHpV7l4xcQKhOV1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5WjQdv8f0Ffd191eoHWkVI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5WjQdv8f0Ffd191eoHWkVI",
+    "id" : "5WjQdv8f0Ffd191eoHWkVI",
+    "name" : "Junip",
+    "type" : "artist",
+    "uri" : "spotify:artist:5WjQdv8f0Ffd191eoHWkVI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 303440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCLQ1300038"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4dCZCklqp4bHDW5BlIVf0P"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4dCZCklqp4bHDW5BlIVf0P",
+  "id" : "4dCZCklqp4bHDW5BlIVf0P",
+  "name" : "Oba, La Vem Ela",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/afb156388237a8b3421f63be2a8f1d7d2744c4b9?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:4dCZCklqp4bHDW5BlIVf0P"
+}

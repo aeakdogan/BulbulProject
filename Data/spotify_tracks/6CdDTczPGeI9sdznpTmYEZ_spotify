@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ooIqOf4X2uz4mMptXCtie",
+      "id" : "2ooIqOf4X2uz4mMptXCtie",
+      "name" : "Neutral Milk Hotel",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ooIqOf4X2uz4mMptXCtie"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5COXoP5kj2DWfCDg0vxi4F"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5COXoP5kj2DWfCDg0vxi4F",
+    "id" : "5COXoP5kj2DWfCDg0vxi4F",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4bd59c0b2ef97a9225600b4d5d5e7b45395ed9ad",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e614108e0a6e7393372afc56e6ef9753296b926b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6654c58b5c6e4e2d38c2d325d38d85b5df6780d0",
+      "width" : 64
+    } ],
+    "name" : "In the Aeroplane Over the Sea",
+    "type" : "album",
+    "uri" : "spotify:album:5COXoP5kj2DWfCDg0vxi4F"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ooIqOf4X2uz4mMptXCtie",
+    "id" : "2ooIqOf4X2uz4mMptXCtie",
+    "name" : "Neutral Milk Hotel",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ooIqOf4X2uz4mMptXCtie"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 248573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG0316023"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6CdDTczPGeI9sdznpTmYEZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6CdDTczPGeI9sdznpTmYEZ",
+  "id" : "6CdDTczPGeI9sdznpTmYEZ",
+  "name" : "Ghost",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/450005ee5dcf8713ec8233d48fad220af749db1a?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:6CdDTczPGeI9sdznpTmYEZ"
+}

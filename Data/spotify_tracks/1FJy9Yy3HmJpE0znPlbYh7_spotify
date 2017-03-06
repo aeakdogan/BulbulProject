@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6m5tnZgZL60pqTFn0nSmRE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6m5tnZgZL60pqTFn0nSmRE",
+      "id" : "6m5tnZgZL60pqTFn0nSmRE",
+      "name" : "Juliet",
+      "type" : "artist",
+      "uri" : "spotify:artist:6m5tnZgZL60pqTFn0nSmRE"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Cj0sHLPZbhlY8PoX06ciR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Cj0sHLPZbhlY8PoX06ciR",
+    "id" : "4Cj0sHLPZbhlY8PoX06ciR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/525f0cab080c435d9ae6a59872f5b744b923fc7f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/41d297bb553211c42da3f8b21a7f7f2d8b0bb88b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2b504473a5f50cd4b1e60a914bc3f1b9ec2c14ba",
+      "width" : 64
+    } ],
+    "name" : "Random Order",
+    "type" : "album",
+    "uri" : "spotify:album:4Cj0sHLPZbhlY8PoX06ciR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6m5tnZgZL60pqTFn0nSmRE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6m5tnZgZL60pqTFn0nSmRE",
+    "id" : "6m5tnZgZL60pqTFn0nSmRE",
+    "name" : "Juliet",
+    "type" : "artist",
+    "uri" : "spotify:artist:6m5tnZgZL60pqTFn0nSmRE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 428320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI20400588"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1FJy9Yy3HmJpE0znPlbYh7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1FJy9Yy3HmJpE0znPlbYh7",
+  "id" : "1FJy9Yy3HmJpE0znPlbYh7",
+  "name" : "Avalon",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6c34eb965ab3138eb4703f5df73a6ea21bfe0554?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1FJy9Yy3HmJpE0znPlbYh7"
+}

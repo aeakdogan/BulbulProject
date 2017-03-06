@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3r2NIFzGaKQoLHQWQctLSX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3r2NIFzGaKQoLHQWQctLSX",
+    "id" : "3r2NIFzGaKQoLHQWQctLSX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/52114f2d654473161b0b7575b96f31d3cd185f8c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f8a58a224b80373db83c9e9c9c5bd7bb80477853",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b2967aba4065d6834b446f37eea30f9204cd2287",
+      "width" : 64
+    } ],
+    "name" : "Brokedown Palace (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:3r2NIFzGaKQoLHQWQctLSX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+    "id" : "12VaqyEhgwDRuFfEqbnrpz",
+    "name" : "PJ Harvey",
+    "type" : "artist",
+    "uri" : "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN9800304"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3wpgsItgt4A6YetXqOLt0T"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3wpgsItgt4A6YetXqOLt0T",
+  "id" : "3wpgsItgt4A6YetXqOLt0T",
+  "name" : "The Wind",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bdae486e046b83a749d7d0274d67ad61f08b35ca?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:3wpgsItgt4A6YetXqOLt0T"
+}

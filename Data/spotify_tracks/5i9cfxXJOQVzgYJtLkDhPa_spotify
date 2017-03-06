@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CnFF3lpGueIc1G0z9DaGh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CnFF3lpGueIc1G0z9DaGh",
+      "id" : "2CnFF3lpGueIc1G0z9DaGh",
+      "name" : "Felipecha",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CnFF3lpGueIc1G0z9DaGh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/10xG0trDopV7i6SDcuQRNy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/10xG0trDopV7i6SDcuQRNy",
+    "id" : "10xG0trDopV7i6SDcuQRNy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/daac3eca142f1f76aff5507cab8493bba4d749f3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/01a4374ae51b718fdb93f7fb6c6401be78746b82",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/36967177821c3df334d713d8d92b631c6b6be9b9",
+      "width" : 64
+    } ],
+    "name" : "De fil en aiguille",
+    "type" : "album",
+    "uri" : "spotify:album:10xG0trDopV7i6SDcuQRNy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2CnFF3lpGueIc1G0z9DaGh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2CnFF3lpGueIc1G0z9DaGh",
+    "id" : "2CnFF3lpGueIc1G0z9DaGh",
+    "name" : "Felipecha",
+    "type" : "artist",
+    "uri" : "spotify:artist:2CnFF3lpGueIc1G0z9DaGh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 140746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR19X0800006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5i9cfxXJOQVzgYJtLkDhPa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5i9cfxXJOQVzgYJtLkDhPa",
+  "id" : "5i9cfxXJOQVzgYJtLkDhPa",
+  "name" : "Je pars",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5b1c0cd1ded330bf133984c7580f41fee290aeb8?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5i9cfxXJOQVzgYJtLkDhPa"
+}

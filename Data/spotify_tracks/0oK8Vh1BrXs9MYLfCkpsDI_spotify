@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+      },
+      "href" : "https://api.spotify.com/v1/artists/79kOOyVKcrCOKDnzcDHsia",
+      "id" : "79kOOyVKcrCOKDnzcDHsia",
+      "name" : "Norman Brown",
+      "type" : "artist",
+      "uri" : "spotify:artist:79kOOyVKcrCOKDnzcDHsia"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5vhTq5K0zLlKHovFu7MpWj",
+    "id" : "5vhTq5K0zLlKHovFu7MpWj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aa5a6be7c3386645c2631d14343d810a0ab78aad",
+      "width" : 627
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2fa82981ee10d2967235f59cc6b420f9e63b4210",
+      "width" : 294
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b33d37b30aa03b4a1a4caada0d3edcfcbee51978",
+      "width" : 63
+    } ],
+    "name" : "After The Storm",
+    "type" : "album",
+    "uri" : "spotify:album:5vhTq5K0zLlKHovFu7MpWj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+    },
+    "href" : "https://api.spotify.com/v1/artists/79kOOyVKcrCOKDnzcDHsia",
+    "id" : "79kOOyVKcrCOKDnzcDHsia",
+    "name" : "Norman Brown",
+    "type" : "artist",
+    "uri" : "spotify:artist:79kOOyVKcrCOKDnzcDHsia"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 323133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO19400077"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0oK8Vh1BrXs9MYLfCkpsDI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0oK8Vh1BrXs9MYLfCkpsDI",
+  "id" : "0oK8Vh1BrXs9MYLfCkpsDI",
+  "name" : "Any Love",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5d97ae5e47cb0724cdea83a22779b6f09487f580?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0oK8Vh1BrXs9MYLfCkpsDI"
+}

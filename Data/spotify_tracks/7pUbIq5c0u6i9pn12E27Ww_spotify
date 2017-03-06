@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5kmPPWY9z07hGJSZgdvfiJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5kmPPWY9z07hGJSZgdvfiJ",
+    "id" : "5kmPPWY9z07hGJSZgdvfiJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bfe126bf8e57cd1821f9cc50b2b1ac98ec18865c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/77f86ea460b283e7fcd582fa7f95a1530475f7aa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e86f9e164726ba2765ba8533ec2c4aeadbb61339",
+      "width" : 64
+    } ],
+    "name" : "Nip/Tuck Original Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:5kmPPWY9z07hGJSZgdvfiJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0L4nRBwqdugqIWCpAzjB9g"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0L4nRBwqdugqIWCpAzjB9g",
+    "id" : "0L4nRBwqdugqIWCpAzjB9g",
+    "name" : "Daniel Ash",
+    "type" : "artist",
+    "uri" : "spotify:artist:0L4nRBwqdugqIWCpAzjB9g"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 266786,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN110400342"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7pUbIq5c0u6i9pn12E27Ww"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7pUbIq5c0u6i9pn12E27Ww",
+  "id" : "7pUbIq5c0u6i9pn12E27Ww",
+  "name" : "Fever",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fb3462b6525bc77412ccb46aac6c236fcbc58f6b?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7pUbIq5c0u6i9pn12E27Ww"
+}

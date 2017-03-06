@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+      "id" : "7t0rwkOPGlDPEhaOcVtOt9",
+      "name" : "The Cranberries",
+      "type" : "artist",
+      "uri" : "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5GugLrmYMl5VRoe2zNgLGp",
+    "id" : "5GugLrmYMl5VRoe2zNgLGp",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/33350d809a9956c739757569f292658db1d0b20d",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/04f8fdd5de3453861ecc96d4825dc4fcdc92740a",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/3ee231855c236f2c3b33e3a6f6e6904abd8c1c85",
+      "width" : 64
+    } ],
+    "name" : "No Need To Argue",
+    "type" : "album",
+    "uri" : "spotify:album:5GugLrmYMl5VRoe2zNgLGp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+    "id" : "7t0rwkOPGlDPEhaOcVtOt9",
+    "name" : "The Cranberries",
+    "type" : "artist",
+    "uri" : "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 306410,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR29400443"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2IZZqH4K02UIYg5EohpNHF",
+  "id" : "2IZZqH4K02UIYg5EohpNHF",
+  "name" : "Zombie",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e13f58598287c837d23cf2c1621419d7c7d12811?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2IZZqH4K02UIYg5EohpNHF"
+}

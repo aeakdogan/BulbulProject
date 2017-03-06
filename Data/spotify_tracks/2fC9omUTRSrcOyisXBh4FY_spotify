@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2iVoDxX4iDDXYr2WbMucaw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2iVoDxX4iDDXYr2WbMucaw",
+      "id" : "2iVoDxX4iDDXYr2WbMucaw",
+      "name" : "New Musik",
+      "type" : "artist",
+      "uri" : "spotify:artist:2iVoDxX4iDDXYr2WbMucaw"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2Ao5JKlaIsoVPpZXZVNWqe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2Ao5JKlaIsoVPpZXZVNWqe",
+    "id" : "2Ao5JKlaIsoVPpZXZVNWqe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f69ad1df96bf3678516d29b13580954d20e821de",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b016c5ef78e57f560f421fc3a92ccd5810c403c1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/09766433f11292ad204399c00ca4c183a6f5c6ca",
+      "width" : 64
+    } ],
+    "name" : "Warp",
+    "type" : "album",
+    "uri" : "spotify:album:2Ao5JKlaIsoVPpZXZVNWqe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2iVoDxX4iDDXYr2WbMucaw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2iVoDxX4iDDXYr2WbMucaw",
+    "id" : "2iVoDxX4iDDXYr2WbMucaw",
+    "name" : "New Musik",
+    "type" : "artist",
+    "uri" : "spotify:artist:2iVoDxX4iDDXYr2WbMucaw"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 207293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBM8202036"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2fC9omUTRSrcOyisXBh4FY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2fC9omUTRSrcOyisXBh4FY",
+  "id" : "2fC9omUTRSrcOyisXBh4FY",
+  "name" : "A Train on Twisted Tracks",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/10cb9698222323a4a5797cfddd6ce8eb7aa77cdd?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2fC9omUTRSrcOyisXBh4FY"
+}

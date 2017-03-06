@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6S0GHTqz5sxK5f9HtLXn9q",
+      "id" : "6S0GHTqz5sxK5f9HtLXn9q",
+      "name" : "Garbage",
+      "type" : "artist",
+      "uri" : "spotify:artist:6S0GHTqz5sxK5f9HtLXn9q"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3HgnxYnIzlgk7cjaVBcgxz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3HgnxYnIzlgk7cjaVBcgxz",
+    "id" : "3HgnxYnIzlgk7cjaVBcgxz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/575c781fb35740c1ec2d7d2487de62fc60155f6f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1f2cac065e261a1a96ca5416f6f26c2b7e6418a2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/46db982a55d6d71633cd2f6c654e48a90ed3e6e0",
+      "width" : 64
+    } ],
+    "name" : "Bleed Like Me (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:3HgnxYnIzlgk7cjaVBcgxz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6S0GHTqz5sxK5f9HtLXn9q",
+    "id" : "6S0GHTqz5sxK5f9HtLXn9q",
+    "name" : "Garbage",
+    "type" : "artist",
+    "uri" : "spotify:artist:6S0GHTqz5sxK5f9HtLXn9q"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR10500339"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3gwiRLnvg4w0iFkedg66US"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3gwiRLnvg4w0iFkedg66US",
+  "id" : "3gwiRLnvg4w0iFkedg66US",
+  "name" : "Run Baby Run",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ca387cba79e1e6dcbd08db46a009b8f2e7ae9df9?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3gwiRLnvg4w0iFkedg66US"
+}

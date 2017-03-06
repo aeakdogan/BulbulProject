@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+      "id" : "0SwO7SWeDHJijQ3XNS7xEE",
+      "name" : "MGMT",
+      "type" : "artist",
+      "uri" : "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2b9b3iyUtD4G93niFKp6mP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2b9b3iyUtD4G93niFKp6mP",
+    "id" : "2b9b3iyUtD4G93niFKp6mP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ec6192b819aab3e8628045e0252af3e5cea80b00",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/769ec74e906936066b1d01b83451c4d85e898c65",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5a905f6c9f6092150ed189dede6b7711df78c108",
+      "width" : 64
+    } ],
+    "name" : "Time To Pretend",
+    "type" : "album",
+    "uri" : "spotify:album:2b9b3iyUtD4G93niFKp6mP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+    "id" : "0SwO7SWeDHJijQ3XNS7xEE",
+    "name" : "MGMT",
+    "type" : "artist",
+    "uri" : "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USME30900179"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4wyCALpKaHWSxfm01Q34h0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4wyCALpKaHWSxfm01Q34h0",
+  "id" : "4wyCALpKaHWSxfm01Q34h0",
+  "name" : "Destrokk",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c83c32adf62a48c8d0be6d0f53996f60d3cf013a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4wyCALpKaHWSxfm01Q34h0"
+}

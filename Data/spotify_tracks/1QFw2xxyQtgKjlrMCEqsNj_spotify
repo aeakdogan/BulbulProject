@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5j4HeCoUlzhfWtjAfM1acR",
+      "id" : "5j4HeCoUlzhfWtjAfM1acR",
+      "name" : "Stromae",
+      "type" : "artist",
+      "uri" : "spotify:artist:5j4HeCoUlzhfWtjAfM1acR"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/22yd3bcffqUO7Pn5nsDaoj",
+    "id" : "22yd3bcffqUO7Pn5nsDaoj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/95ab79a33e86e54f813e84c93bcaa9dea567502a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/be497843832c7ae12bdaea1720ff19865d32b4e4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fb6ca4d69afc17b72d27e91eb05be2d3d6a26d77",
+      "width" : 64
+    } ],
+    "name" : "Racine Carrée (Standard US Version)",
+    "type" : "album",
+    "uri" : "spotify:album:22yd3bcffqUO7Pn5nsDaoj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5j4HeCoUlzhfWtjAfM1acR",
+    "id" : "5j4HeCoUlzhfWtjAfM1acR",
+    "name" : "Stromae",
+    "type" : "artist",
+    "uri" : "spotify:artist:5j4HeCoUlzhfWtjAfM1acR"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 232146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BET671300160"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1QFw2xxyQtgKjlrMCEqsNj",
+  "id" : "1QFw2xxyQtgKjlrMCEqsNj",
+  "name" : "Papaoutai",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/470d455b4e73eadffc71b1618e534cc9626d18d1?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1QFw2xxyQtgKjlrMCEqsNj"
+}

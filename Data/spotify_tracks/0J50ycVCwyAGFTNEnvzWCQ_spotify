@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3qYfqdVwX0fil71onLpLkh",
+      "id" : "3qYfqdVwX0fil71onLpLkh",
+      "name" : "Thee Oh Sees",
+      "type" : "artist",
+      "uri" : "spotify:artist:3qYfqdVwX0fil71onLpLkh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2bCXXGBmCZjLFMI4LNlZWZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2bCXXGBmCZjLFMI4LNlZWZ",
+    "id" : "2bCXXGBmCZjLFMI4LNlZWZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/640399ef37f04aca7af68661954065192e701fac",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/aaa7b92022a6a5ce7f17fc444520c4c1f4cc5cd2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/be8eb5a81b5857b000b4f281435217bf870d387d",
+      "width" : 64
+    } ],
+    "name" : "Help",
+    "type" : "album",
+    "uri" : "spotify:album:2bCXXGBmCZjLFMI4LNlZWZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3qYfqdVwX0fil71onLpLkh",
+    "id" : "3qYfqdVwX0fil71onLpLkh",
+    "name" : "Thee Oh Sees",
+    "type" : "artist",
+    "uri" : "spotify:artist:3qYfqdVwX0fil71onLpLkh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 199586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA3D0910070"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0J50ycVCwyAGFTNEnvzWCQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0J50ycVCwyAGFTNEnvzWCQ",
+  "id" : "0J50ycVCwyAGFTNEnvzWCQ",
+  "name" : "Enemy Destruct",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cc0b8415a77205f92e61a639c0fb14bf463762fd?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0J50ycVCwyAGFTNEnvzWCQ"
+}

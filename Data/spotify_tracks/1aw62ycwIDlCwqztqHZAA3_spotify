@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/75dQReiBOHN37fQgWQrIAJ",
+      "id" : "75dQReiBOHN37fQgWQrIAJ",
+      "name" : "Local Natives",
+      "type" : "artist",
+      "uri" : "spotify:artist:75dQReiBOHN37fQgWQrIAJ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Zmq4tEgCSyTkud2ahysrq",
+    "id" : "1Zmq4tEgCSyTkud2ahysrq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ffb73205454b0307873f1445a29070ccbdd0a26e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2ff577ecedd35f08ab1d653c9df6b33eecac9693",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c11f73b56e61786dd9dba461e71d86ac0a9979fb",
+      "width" : 64
+    } ],
+    "name" : "Hummingbird",
+    "type" : "album",
+    "uri" : "spotify:album:1Zmq4tEgCSyTkud2ahysrq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/75dQReiBOHN37fQgWQrIAJ",
+    "id" : "75dQReiBOHN37fQgWQrIAJ",
+    "name" : "Local Natives",
+    "type" : "artist",
+    "uri" : "spotify:artist:75dQReiBOHN37fQgWQrIAJ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 249293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBZUZ1200052"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1aw62ycwIDlCwqztqHZAA3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1aw62ycwIDlCwqztqHZAA3",
+  "id" : "1aw62ycwIDlCwqztqHZAA3",
+  "name" : "Breakers",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e6d0e4669630e45a6a416a360863ec5e65da91f8?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1aw62ycwIDlCwqztqHZAA3"
+}

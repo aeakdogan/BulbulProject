@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+      "id" : "3yY2gUcIsjMr8hjo51PoJ8",
+      "name" : "The Smiths",
+      "type" : "artist",
+      "uri" : "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5DM1qCdgGt2zbknnsVn1Ca"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5DM1qCdgGt2zbknnsVn1Ca",
+    "id" : "5DM1qCdgGt2zbknnsVn1Ca",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/259fc07c86fca2d6a89856e075fc565ebfa68d04",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab756dac2a90a70a638cc7aa99647d25c450ac5f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/df59da7f1cee219c9552569b761d4f0acfee6f63",
+      "width" : 64
+    } ],
+    "name" : "Meat Is Murder",
+    "type" : "album",
+    "uri" : "spotify:album:5DM1qCdgGt2zbknnsVn1Ca"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+    "id" : "3yY2gUcIsjMr8hjo51PoJ8",
+    "name" : "The Smiths",
+    "type" : "artist",
+    "uri" : "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 295440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCRL1100037"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4tFGNFIIZ9ANSewxGZyiDD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4tFGNFIIZ9ANSewxGZyiDD",
+  "id" : "4tFGNFIIZ9ANSewxGZyiDD",
+  "name" : "The Headmaster Ritual - 2011 Remastered Version",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5a637134af803a22b8360f6c04f499805eb43ed4?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4tFGNFIIZ9ANSewxGZyiDD"
+}

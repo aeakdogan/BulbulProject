@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+      "id" : "2QoU3awHVdcHS8LrZEKvSM",
+      "name" : "Wilco",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1f8UM82zkRXTLy7qGp4lJF",
+    "id" : "1f8UM82zkRXTLy7qGp4lJF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fe09cbd406d6d998215edcd70b9d95aea36948a7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4685b7122087ca64b895955f64090e749a7551b9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6aad57dc0125c4542b8a64317b2371771e33ff70",
+      "width" : 64
+    } ],
+    "name" : "A ghost is born (Deluxe Version)",
+    "type" : "album",
+    "uri" : "spotify:album:1f8UM82zkRXTLy7qGp4lJF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+    "id" : "2QoU3awHVdcHS8LrZEKvSM",
+    "name" : "Wilco",
+    "type" : "artist",
+    "uri" : "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 363000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO10480906"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7wOXAS9DfepmybaTYyfYwd",
+  "id" : "7wOXAS9DfepmybaTYyfYwd",
+  "name" : "Handshake drugs",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ca0f80da6f4c491fcc88449e9cb4aa1b6d965fd4?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:7wOXAS9DfepmybaTYyfYwd"
+}

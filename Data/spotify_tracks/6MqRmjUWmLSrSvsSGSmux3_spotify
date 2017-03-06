@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5isqImG0rLfAgBJSPMEVXF",
+      "id" : "5isqImG0rLfAgBJSPMEVXF",
+      "name" : "Blonde Redhead",
+      "type" : "artist",
+      "uri" : "spotify:artist:5isqImG0rLfAgBJSPMEVXF"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2x1vdYdyScaiKECmg7jJoJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2x1vdYdyScaiKECmg7jJoJ",
+    "id" : "2x1vdYdyScaiKECmg7jJoJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6ed5a28f8e003db9a196e765152f5c846a00d695",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8bf55631838a97c74b7a8822effca2fd3f0c527b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/54fa8eed307bee682e243ab5a81d04fe23429f11",
+      "width" : 64
+    } ],
+    "name" : "23",
+    "type" : "album",
+    "uri" : "spotify:album:2x1vdYdyScaiKECmg7jJoJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5isqImG0rLfAgBJSPMEVXF",
+    "id" : "5isqImG0rLfAgBJSPMEVXF",
+    "name" : "Blonde Redhead",
+    "type" : "artist",
+    "uri" : "spotify:artist:5isqImG0rLfAgBJSPMEVXF"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 276586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAFL0600104"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6MqRmjUWmLSrSvsSGSmux3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6MqRmjUWmLSrSvsSGSmux3",
+  "id" : "6MqRmjUWmLSrSvsSGSmux3",
+  "name" : "SW",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/69d6e1046f6cd09797eccc7184d6c1cfb87cb905?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6MqRmjUWmLSrSvsSGSmux3"
+}

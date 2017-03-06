@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7HeVXdOdMhLslVputGTZFQ",
+      "id" : "7HeVXdOdMhLslVputGTZFQ",
+      "name" : "Timber Timbre",
+      "type" : "artist",
+      "uri" : "spotify:artist:7HeVXdOdMhLslVputGTZFQ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Bo79GWWHcrApEvf4VdD87"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Bo79GWWHcrApEvf4VdD87",
+    "id" : "1Bo79GWWHcrApEvf4VdD87",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fbeb3f9bdcdd9b21b712efd9894788e60d5a36a4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d6a9a1f36b2d879343f6c53c12107db8bc07d0b1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa68126a5c23adbe9629acf0bf30e4bd097ce1e3",
+      "width" : 64
+    } ],
+    "name" : "Creep On Creepin' On",
+    "type" : "album",
+    "uri" : "spotify:album:1Bo79GWWHcrApEvf4VdD87"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7HeVXdOdMhLslVputGTZFQ",
+    "id" : "7HeVXdOdMhLslVputGTZFQ",
+    "name" : "Timber Timbre",
+    "type" : "artist",
+    "uri" : "spotify:artist:7HeVXdOdMhLslVputGTZFQ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 292013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAAA11006107"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7osSymUv2sC0EqlvkfIWF2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7osSymUv2sC0EqlvkfIWF2",
+  "id" : "7osSymUv2sC0EqlvkfIWF2",
+  "name" : "Too Old to Die Young",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d030afaca89ea29a33a93f3df25853f97b2b1248?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:7osSymUv2sC0EqlvkfIWF2"
+}

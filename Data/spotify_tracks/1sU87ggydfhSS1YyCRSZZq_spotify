@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1pzNRIDRT064HEdW1nG59c",
+      "id" : "1pzNRIDRT064HEdW1nG59c",
+      "name" : "Plants and Animals",
+      "type" : "artist",
+      "uri" : "spotify:artist:1pzNRIDRT064HEdW1nG59c"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5jjT3BZZ15kpMvH6Ipz4zZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5jjT3BZZ15kpMvH6Ipz4zZ",
+    "id" : "5jjT3BZZ15kpMvH6Ipz4zZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/30fc9659261a446c1ad2bfc896500f23a9555714",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d1d3355cd637bc292012bc97d313a2b2d141c7c9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/79ccb8e89ad30cbb2194875c2d01ecec56fa3b98",
+      "width" : 64
+    } ],
+    "name" : "Parc Avenue",
+    "type" : "album",
+    "uri" : "spotify:album:5jjT3BZZ15kpMvH6Ipz4zZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1pzNRIDRT064HEdW1nG59c",
+    "id" : "1pzNRIDRT064HEdW1nG59c",
+    "name" : "Plants and Animals",
+    "type" : "artist",
+    "uri" : "spotify:artist:1pzNRIDRT064HEdW1nG59c"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 365546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAJ220727011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1sU87ggydfhSS1YyCRSZZq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1sU87ggydfhSS1YyCRSZZq",
+  "id" : "1sU87ggydfhSS1YyCRSZZq",
+  "name" : "Good Friend",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dc7d790e67118ba02365b2105a71db9268884d48?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1sU87ggydfhSS1YyCRSZZq"
+}

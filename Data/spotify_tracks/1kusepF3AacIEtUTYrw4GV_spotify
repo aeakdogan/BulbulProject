@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0QJIPDAEDILuo8AIq3pMuU",
+      "id" : "0QJIPDAEDILuo8AIq3pMuU",
+      "name" : "M.I.A.",
+      "type" : "artist",
+      "uri" : "spotify:artist:0QJIPDAEDILuo8AIq3pMuU"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Lymt1abGCr3J06bbnmWca"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Lymt1abGCr3J06bbnmWca",
+    "id" : "1Lymt1abGCr3J06bbnmWca",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/c67fabaa1c6ce42426cc8be17dc379b8202fad35",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/b0bf66fa6b80dc2ab32b302e381e9dd761e287d9",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/c61bd26516cca4a936d1c15284c403f1d5ed880d",
+      "width" : 64
+    } ],
+    "name" : "Kala",
+    "type" : "album",
+    "uri" : "spotify:album:1Lymt1abGCr3J06bbnmWca"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0QJIPDAEDILuo8AIq3pMuU",
+    "id" : "0QJIPDAEDILuo8AIq3pMuU",
+    "name" : "M.I.A.",
+    "type" : "artist",
+    "uri" : "spotify:artist:0QJIPDAEDILuo8AIq3pMuU"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 203760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0700215"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1kusepF3AacIEtUTYrw4GV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1kusepF3AacIEtUTYrw4GV",
+  "id" : "1kusepF3AacIEtUTYrw4GV",
+  "name" : "Paper Planes",
+  "popularity" : 65,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0b0d0452180421807155d894d4f7319d59fa11c5?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:1kusepF3AacIEtUTYrw4GV"
+}

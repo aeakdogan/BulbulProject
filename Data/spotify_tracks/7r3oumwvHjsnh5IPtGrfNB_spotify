@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54QMjE4toDfiCryzYWCpXX",
+      "id" : "54QMjE4toDfiCryzYWCpXX",
+      "name" : "Metronomy",
+      "type" : "artist",
+      "uri" : "spotify:artist:54QMjE4toDfiCryzYWCpXX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0KhwLl8JKnXaf6KQKBtMZL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0KhwLl8JKnXaf6KQKBtMZL",
+    "id" : "0KhwLl8JKnXaf6KQKBtMZL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/04af8a8c03eb7ac8c0c9fdf8054cce07ce3bfc98",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7a6bf53d4ed59ee6f528533ce505ea9a4ba20e8c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e87b39ad7f677aae1d38d8d3d8d75beac91fef18",
+      "width" : 64
+    } ],
+    "name" : "The English Riviera",
+    "type" : "album",
+    "uri" : "spotify:album:0KhwLl8JKnXaf6KQKBtMZL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/54QMjE4toDfiCryzYWCpXX",
+    "id" : "54QMjE4toDfiCryzYWCpXX",
+    "name" : "Metronomy",
+    "type" : "artist",
+    "uri" : "spotify:artist:54QMjE4toDfiCryzYWCpXX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 210080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBMVH1100030"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7r3oumwvHjsnh5IPtGrfNB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7r3oumwvHjsnh5IPtGrfNB",
+  "id" : "7r3oumwvHjsnh5IPtGrfNB",
+  "name" : "Everything Goes My Way",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/412d035607be0ff6d28b9e5d0a689571ffcf2bb0?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7r3oumwvHjsnh5IPtGrfNB"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4CYeVo5iZbtYGBN4Isc3n6",
+      "id" : "4CYeVo5iZbtYGBN4Isc3n6",
+      "name" : "Dio",
+      "type" : "artist",
+      "uri" : "spotify:artist:4CYeVo5iZbtYGBN4Isc3n6"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5PONHX8ojbwfRkBfukQ8aI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5PONHX8ojbwfRkBfukQ8aI",
+    "id" : "5PONHX8ojbwfRkBfukQ8aI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aabf514225c7a471ec98999607bb7d2985bb7d2c",
+      "width" : 628
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/745aae74e7e9458980f17624896d6a86a95c24d3",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4aadaa4d82b44dcbf8841b474f67a3b955f118aa",
+      "width" : 63
+    } ],
+    "name" : "Sacred Heart (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:5PONHX8ojbwfRkBfukQ8aI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4CYeVo5iZbtYGBN4Isc3n6",
+    "id" : "4CYeVo5iZbtYGBN4Isc3n6",
+    "name" : "Dio",
+    "type" : "artist",
+    "uri" : "spotify:artist:4CYeVo5iZbtYGBN4Isc3n6"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 384346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRH11603049"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1R25Vjg2Kb723DtwJx9OUh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1R25Vjg2Kb723DtwJx9OUh",
+  "id" : "1R25Vjg2Kb723DtwJx9OUh",
+  "name" : "Sacred Heart - Remastered",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f1c9afb33ab8b947f3831ff54d65936c9b87d01c?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1R25Vjg2Kb723DtwJx9OUh"
+}

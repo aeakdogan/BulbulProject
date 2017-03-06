@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ChuP6H4cNcHErBXSHit5B"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ChuP6H4cNcHErBXSHit5B",
+    "id" : "0ChuP6H4cNcHErBXSHit5B",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/15dc9171221bf1722bed897e45cb5ec71e37f102",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9769f8cfa108e3b213b6b158bc8b2bc5d1c9ce4b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7a3f5076f1d5ea2abbcda35fe4c8a977cc969fd0",
+      "width" : 64
+    } ],
+    "name" : "El Chicho 2010/2011",
+    "type" : "album",
+    "uri" : "spotify:album:0ChuP6H4cNcHErBXSHit5B"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/42ss0pOkCWjV7Q7NMTjGHU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/42ss0pOkCWjV7Q7NMTjGHU",
+    "id" : "42ss0pOkCWjV7Q7NMTjGHU",
+    "name" : "Evening Hymns",
+    "type" : "artist",
+    "uri" : "spotify:artist:42ss0pOkCWjV7Q7NMTjGHU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 282200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V80462785"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/18atTlipgZzx7R3nYs705w"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/18atTlipgZzx7R3nYs705w",
+  "id" : "18atTlipgZzx7R3nYs705w",
+  "name" : "Dead Deer",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f9e2ac7f96ee1aaf8f5cb1fc28575dbf70275a97?cid=null",
+  "track_number" : 19,
+  "type" : "track",
+  "uri" : "spotify:track:18atTlipgZzx7R3nYs705w"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0cvcyKmUhq9xY39B4zUpDq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0cvcyKmUhq9xY39B4zUpDq",
+      "id" : "0cvcyKmUhq9xY39B4zUpDq",
+      "name" : "Ballboy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0cvcyKmUhq9xY39B4zUpDq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ZBFNmpQOaJ3o0aC2Nq5ZI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ZBFNmpQOaJ3o0aC2Nq5ZI",
+    "id" : "3ZBFNmpQOaJ3o0aC2Nq5ZI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1784eaa2a815aad6d178a319f92d11a43ebc5ef0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/56c7faa84f7b83eb251c2f038bf58137f8b93a53",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/77eb0de848c92d8abf6700a27b57f1e7fdd76666",
+      "width" : 64
+    } ],
+    "name" : "A Guide For The Daylight Hours",
+    "type" : "album",
+    "uri" : "spotify:album:3ZBFNmpQOaJ3o0aC2Nq5ZI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0cvcyKmUhq9xY39B4zUpDq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0cvcyKmUhq9xY39B4zUpDq",
+    "id" : "0cvcyKmUhq9xY39B4zUpDq",
+    "name" : "Ballboy",
+    "type" : "artist",
+    "uri" : "spotify:artist:0cvcyKmUhq9xY39B4zUpDq"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 86000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBLMS0910499"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7FeaMPzHXebPHO61XY1BEd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7FeaMPzHXebPHO61XY1BEd",
+  "id" : "7FeaMPzHXebPHO61XY1BEd",
+  "name" : "I Lost You, But I Found Country Music",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c49a201a16bb97925d68646e98fb95336225ffd5?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7FeaMPzHXebPHO61XY1BEd"
+}

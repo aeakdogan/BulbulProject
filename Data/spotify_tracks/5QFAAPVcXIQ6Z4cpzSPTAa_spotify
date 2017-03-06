@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tQ2Q4y9iUkKszxXyB14ZH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tQ2Q4y9iUkKszxXyB14ZH",
+      "id" : "0tQ2Q4y9iUkKszxXyB14ZH",
+      "name" : "Young Marble Giants",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tQ2Q4y9iUkKszxXyB14ZH"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/41Pg69TVSfLsiwfYE3GPuq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/41Pg69TVSfLsiwfYE3GPuq",
+    "id" : "41Pg69TVSfLsiwfYE3GPuq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e5636d2142ef453bfbfeb27791710b73e1c5c6de",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/95705f74f74126c03196c453a0ac45ce027e2a28",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/db41678a1ac061a275cdc29e3c9e2f9f14d18cb4",
+      "width" : 64
+    } ],
+    "name" : "Colossal Youth",
+    "type" : "album",
+    "uri" : "spotify:album:41Pg69TVSfLsiwfYE3GPuq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0tQ2Q4y9iUkKszxXyB14ZH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0tQ2Q4y9iUkKszxXyB14ZH",
+    "id" : "0tQ2Q4y9iUkKszxXyB14ZH",
+    "name" : "Young Marble Giants",
+    "type" : "artist",
+    "uri" : "spotify:artist:0tQ2Q4y9iUkKszxXyB14ZH"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 183800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0700241"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5QFAAPVcXIQ6Z4cpzSPTAa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5QFAAPVcXIQ6Z4cpzSPTAa",
+  "id" : "5QFAAPVcXIQ6Z4cpzSPTAa",
+  "name" : "Searching For Mr Right",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b51cf0be1457328c1d4fc24eafca4a75682efbb6?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5QFAAPVcXIQ6Z4cpzSPTAa"
+}

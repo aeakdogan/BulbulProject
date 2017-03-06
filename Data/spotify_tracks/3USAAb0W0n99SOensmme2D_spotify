@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+      "id" : "6hhA8TKRNryM8FNzqCqdDO",
+      "name" : "Tricky",
+      "type" : "artist",
+      "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7qlZpMib7D0riFPQ5JHDT8",
+    "id" : "7qlZpMib7D0riFPQ5JHDT8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9d88cc20cd60becdf0140deafe9ed21a2adf39c4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2084485cd3555c56ed67dcd3242dcf50a7d44efd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8b2eca0d2b65eaeb7ff8c765f45125677cbc49b6",
+      "width" : 64
+    } ],
+    "name" : "Maxinquaye",
+    "type" : "album",
+    "uri" : "spotify:album:7qlZpMib7D0riFPQ5JHDT8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+    "id" : "6hhA8TKRNryM8FNzqCqdDO",
+    "name" : "Tricky",
+    "type" : "artist",
+    "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 210640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBANY9400023"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3USAAb0W0n99SOensmme2D"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3USAAb0W0n99SOensmme2D",
+  "id" : "3USAAb0W0n99SOensmme2D",
+  "name" : "Ponderosa",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bb972c894082a95e29187528dfcd8cf0f8f918ca?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3USAAb0W0n99SOensmme2D"
+}

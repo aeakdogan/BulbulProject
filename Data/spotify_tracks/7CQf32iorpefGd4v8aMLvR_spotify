@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+      "id" : "13saZpZnCDWOI9D4IJhp1f",
+      "name" : "Lily Allen",
+      "type" : "artist",
+      "uri" : "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3nxPzWEJBjzonYWtTNb0uY",
+    "id" : "3nxPzWEJBjzonYWtTNb0uY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2bc44a1beac59e24a2ed07c5ccdbc4cb2a941572",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/49d9acc5f3a5516517d5ff17f72f21298161bec7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8a5c48cb381f544b3cc7c0382f8134a8fa2c8649",
+      "width" : 64
+    } ],
+    "name" : "Alright, Still",
+    "type" : "album",
+    "uri" : "spotify:album:3nxPzWEJBjzonYWtTNb0uY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+    },
+    "href" : "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+    "id" : "13saZpZnCDWOI9D4IJhp1f",
+    "name" : "Lily Allen",
+    "type" : "artist",
+    "uri" : "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2sWf9Tj6EsTxURcgil3NTG",
+    "id" : "2sWf9Tj6EsTxURcgil3NTG",
+    "name" : "Greg Kurstin",
+    "type" : "artist",
+    "uri" : "spotify:artist:2sWf9Tj6EsTxURcgil3NTG"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 165053,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBAYE0600642"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7CQf32iorpefGd4v8aMLvR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7CQf32iorpefGd4v8aMLvR",
+  "id" : "7CQf32iorpefGd4v8aMLvR",
+  "name" : "Alfie",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e081acec27731f51c58c5bb1d956456b7efc2775?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:7CQf32iorpefGd4v8aMLvR"
+}

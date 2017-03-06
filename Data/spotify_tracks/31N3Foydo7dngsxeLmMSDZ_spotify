@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0sRVVDpgF2sKzPBkDszzUl",
+      "id" : "0sRVVDpgF2sKzPBkDszzUl",
+      "name" : "Laurel Halo",
+      "type" : "artist",
+      "uri" : "spotify:artist:0sRVVDpgF2sKzPBkDszzUl"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4HrLgkW8qPTfLxAt5fj8lq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4HrLgkW8qPTfLxAt5fj8lq",
+    "id" : "4HrLgkW8qPTfLxAt5fj8lq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a6a6e1e7ce4d096b62c8fd552628dd8e7e393744",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e5faaa9169a546ef398236d47bd872240d195ddc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/80e620638dfc5f45625872527eae5361d0e3fb50",
+      "width" : 64
+    } ],
+    "name" : "Chance Of Rain",
+    "type" : "album",
+    "uri" : "spotify:album:4HrLgkW8qPTfLxAt5fj8lq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0sRVVDpgF2sKzPBkDszzUl",
+    "id" : "0sRVVDpgF2sKzPBkDszzUl",
+    "name" : "Laurel Halo",
+    "type" : "artist",
+    "uri" : "spotify:artist:0sRVVDpgF2sKzPBkDszzUl"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 455798,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBLZC1300111"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/31N3Foydo7dngsxeLmMSDZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/31N3Foydo7dngsxeLmMSDZ",
+  "id" : "31N3Foydo7dngsxeLmMSDZ",
+  "name" : "Chance Of Rain",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c9ecf87d182ce65b6d6ada18eb8185e2c22bec5b?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:31N3Foydo7dngsxeLmMSDZ"
+}

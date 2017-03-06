@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/03gmrcXrpEDf3pahDr1tuJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/03gmrcXrpEDf3pahDr1tuJ",
+    "id" : "03gmrcXrpEDf3pahDr1tuJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e8f779776e964c67bf576baaa6ca3609539aee54",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6424e4ce20650793a41235ae135009870f5e6453",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5d58c0117c53172f462af93f80bd7cf95d57e876",
+      "width" : 64
+    } ],
+    "name" : "Jahtarian Dubbers, Vol. 2",
+    "type" : "album",
+    "uri" : "spotify:album:03gmrcXrpEDf3pahDr1tuJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3WngJ3HES1rfV16pNV4rQ4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3WngJ3HES1rfV16pNV4rQ4",
+    "id" : "3WngJ3HES1rfV16pNV4rQ4",
+    "name" : "Pupajim",
+    "type" : "artist",
+    "uri" : "spotify:artist:3WngJ3HES1rfV16pNV4rQ4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 202057,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEGT81000169"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5VcIAFCQ549dPucBeDbNd9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5VcIAFCQ549dPucBeDbNd9",
+  "id" : "5VcIAFCQ549dPucBeDbNd9",
+  "name" : "International Farmer",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ac21158c2e86c986d39247cb9e5dfc4c042e2462?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:5VcIAFCQ549dPucBeDbNd9"
+}

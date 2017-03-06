@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EuW5xabgZbQPLvJI9ksgZ",
+      "id" : "4EuW5xabgZbQPLvJI9ksgZ",
+      "name" : "Isabelle Antena",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EuW5xabgZbQPLvJI9ksgZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0htWsoC4ORq9URJmrBEiCI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0htWsoC4ORq9URJmrBEiCI",
+    "id" : "0htWsoC4ORq9URJmrBEiCI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a4b2e6fa7524cb2984e4eb83e470240c98addbbd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/44345359ccca02feb834102aff0f5f982cd7f310",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a6c92265db46f3b9c06b6729c068d9354d47c2d8",
+      "width" : 64
+    } ],
+    "name" : "Easy Does It",
+    "type" : "album",
+    "uri" : "spotify:album:0htWsoC4ORq9URJmrBEiCI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4EuW5xabgZbQPLvJI9ksgZ",
+    "id" : "4EuW5xabgZbQPLvJI9ksgZ",
+    "name" : "Isabelle Antena",
+    "type" : "artist",
+    "uri" : "spotify:artist:4EuW5xabgZbQPLvJI9ksgZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 251800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBHBR0400686"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2SIfaEZlwoAPnfvNF0O7Vv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2SIfaEZlwoAPnfvNF0O7Vv",
+  "id" : "2SIfaEZlwoAPnfvNF0O7Vv",
+  "name" : "Stars",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2b21e862553a5886c963f87c21f6519fe0fccfd6?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2SIfaEZlwoAPnfvNF0O7Vv"
+}

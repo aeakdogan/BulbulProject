@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+      "id" : "0oSGxfWSnnOXhD2fKuz2Gy",
+      "name" : "David Bowie",
+      "type" : "artist",
+      "uri" : "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5HFp1l4n85DnXWl0q6M2mq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5HFp1l4n85DnXWl0q6M2mq",
+    "id" : "5HFp1l4n85DnXWl0q6M2mq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/293be5e361bf0faa6703c2ac1da1b1525271d8fb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/32a93626a8b3a218918d657ad9f292892510c326",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fab824c1648bd63598f20ca9ef094e71c3742ebe",
+      "width" : 64
+    } ],
+    "name" : "Lodger",
+    "type" : "album",
+    "uri" : "spotify:album:5HFp1l4n85DnXWl0q6M2mq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+    "id" : "0oSGxfWSnnOXhD2fKuz2Gy",
+    "name" : "David Bowie",
+    "type" : "artist",
+    "uri" : "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 242360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJT19900162"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0UeJMWehmBadM6UPd7hHEW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0UeJMWehmBadM6UPd7hHEW",
+  "id" : "0UeJMWehmBadM6UPd7hHEW",
+  "name" : "DJ - 1999 Remastered Version",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a5fba529d307b601ff85ea8ff25e4205c11c5bb5?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0UeJMWehmBadM6UPd7hHEW"
+}

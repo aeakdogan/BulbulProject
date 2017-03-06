@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1AOW7foIpWpN9zfYl7hQHD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1AOW7foIpWpN9zfYl7hQHD",
+      "id" : "1AOW7foIpWpN9zfYl7hQHD",
+      "name" : "Tying Tiffany",
+      "type" : "artist",
+      "uri" : "spotify:artist:1AOW7foIpWpN9zfYl7hQHD"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1WFbzeNL0oiFTz231yCOGb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1WFbzeNL0oiFTz231yCOGb",
+    "id" : "1WFbzeNL0oiFTz231yCOGb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/61912f8f79b1c54c43dc30da52f87c3e4f3d3a34",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/655bc83e34f7fb67359ec5002d933cbecf5f400e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/565f04e07972818268e300e1d744c7605ea528dc",
+      "width" : 64
+    } ],
+    "name" : "People's Temple",
+    "type" : "album",
+    "uri" : "spotify:album:1WFbzeNL0oiFTz231yCOGb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1AOW7foIpWpN9zfYl7hQHD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1AOW7foIpWpN9zfYl7hQHD",
+    "id" : "1AOW7foIpWpN9zfYl7hQHD",
+    "name" : "Tying Tiffany",
+    "type" : "artist",
+    "uri" : "spotify:artist:1AOW7foIpWpN9zfYl7hQHD"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 198373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEL360801381"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0zQdYI58DK0ftfYYPn7R9k"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0zQdYI58DK0ftfYYPn7R9k",
+  "id" : "0zQdYI58DK0ftfYYPn7R9k",
+  "name" : "Miracle",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/01c69376245ce709ac157d830667a13f2956a041?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0zQdYI58DK0ftfYYPn7R9k"
+}

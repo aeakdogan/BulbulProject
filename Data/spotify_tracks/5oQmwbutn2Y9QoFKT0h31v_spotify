@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Npr4HpRE8YlsisRjN9T8h",
+      "id" : "5Npr4HpRE8YlsisRjN9T8h",
+      "name" : "Philip Sayce",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Npr4HpRE8YlsisRjN9T8h"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4LVZlwxt0KopNFeAjh6ScO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4LVZlwxt0KopNFeAjh6ScO",
+    "id" : "4LVZlwxt0KopNFeAjh6ScO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6487ea97fba3f13b265a90d1a666a0f3affe5cc9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a59d7c7e1eb84583373c7cce4e14f5fb45046587",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/38586478e2c87c0415953c648a8792e3ee209643",
+      "width" : 64
+    } ],
+    "name" : "Influence",
+    "type" : "album",
+    "uri" : "spotify:album:4LVZlwxt0KopNFeAjh6ScO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Npr4HpRE8YlsisRjN9T8h",
+    "id" : "5Npr4HpRE8YlsisRjN9T8h",
+    "name" : "Philip Sayce",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Npr4HpRE8YlsisRjN9T8h"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 203346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLB931400242"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5oQmwbutn2Y9QoFKT0h31v"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5oQmwbutn2Y9QoFKT0h31v",
+  "id" : "5oQmwbutn2Y9QoFKT0h31v",
+  "name" : "Sailin' Shoes",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dc6befcfa56310fbec9a2726b5486c9a85f28a4b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5oQmwbutn2Y9QoFKT0h31v"
+}

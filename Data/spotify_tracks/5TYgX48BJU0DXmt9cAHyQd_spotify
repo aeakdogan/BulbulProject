@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2rBcvLKWCZs9w1qIWv560v",
+      "id" : "2rBcvLKWCZs9w1qIWv560v",
+      "name" : "Charlotte Gainsbourg",
+      "type" : "artist",
+      "uri" : "spotify:artist:2rBcvLKWCZs9w1qIWv560v"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/40xNgfsoOYmHk8tULpSgYy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/40xNgfsoOYmHk8tULpSgYy",
+    "id" : "40xNgfsoOYmHk8tULpSgYy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6a063b29834a3f83c245de524c95cd10b21c56c3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/65a982686bca7278cbd7de31b99f69f751104752",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5d6d4c3834f26ba2688c62d014f296c556f98a5a",
+      "width" : 64
+    } ],
+    "name" : "Hey Joe",
+    "type" : "album",
+    "uri" : "spotify:album:40xNgfsoOYmHk8tULpSgYy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2rBcvLKWCZs9w1qIWv560v",
+    "id" : "2rBcvLKWCZs9w1qIWv560v",
+    "name" : "Charlotte Gainsbourg",
+    "type" : "artist",
+    "uri" : "spotify:artist:2rBcvLKWCZs9w1qIWv560v"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 292290,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6P11301230"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5TYgX48BJU0DXmt9cAHyQd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5TYgX48BJU0DXmt9cAHyQd",
+  "id" : "5TYgX48BJU0DXmt9cAHyQd",
+  "name" : "Hey Joe",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e60ed8368cc7d39757407de139450d30dfb523b9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5TYgX48BJU0DXmt9cAHyQd"
+}

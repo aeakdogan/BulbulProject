@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7GaxyUddsPok8BuhxN6OUW",
+      "id" : "7GaxyUddsPok8BuhxN6OUW",
+      "name" : "James Brown",
+      "type" : "artist",
+      "uri" : "spotify:artist:7GaxyUddsPok8BuhxN6OUW"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6MjOv3BeIjmht2ymtRih3s",
+    "id" : "6MjOv3BeIjmht2ymtRih3s",
+    "images" : [ {
+      "height" : 633,
+      "url" : "https://i.scdn.co/image/f1d56ecf420c67b42cca4699b8d42c623bfa4c34",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/ee45f563a6500538db1be08778ae0e6d00950403",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/34472c385704a2cd4fc57c8b9ff91369549f2943",
+      "width" : 64
+    } ],
+    "name" : "20 All-Time Greatest Hits!",
+    "type" : "album",
+    "uri" : "spotify:album:6MjOv3BeIjmht2ymtRih3s"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7GaxyUddsPok8BuhxN6OUW",
+    "id" : "7GaxyUddsPok8BuhxN6OUW",
+    "name" : "James Brown",
+    "type" : "artist",
+    "uri" : "spotify:artist:7GaxyUddsPok8BuhxN6OUW"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 167066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUR10001144"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6AIB4vBOGWM4FJ65yNWaXu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6AIB4vBOGWM4FJ65yNWaXu",
+  "id" : "6AIB4vBOGWM4FJ65yNWaXu",
+  "name" : "It's A Man's, Man's, Man's World",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2d3b9da05187437e2f741508ec7df92a37a0b275?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:6AIB4vBOGWM4FJ65yNWaXu"
+}

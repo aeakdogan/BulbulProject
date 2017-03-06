@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NrGqWwh6dKk99v1UFqQak",
+      "id" : "3NrGqWwh6dKk99v1UFqQak",
+      "name" : "The Agonist",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NrGqWwh6dKk99v1UFqQak"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/78vhzovWhYjThOUmiW55ZI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/78vhzovWhYjThOUmiW55ZI",
+    "id" : "78vhzovWhYjThOUmiW55ZI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2a3746bc19af632f3fa58a12c5db83b285bbe52a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c1e587ece4ebf3a1fda48ce8cc0bd5aaba6fd0fa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fa189eda4ff71ccfeae7cfd75edfaf84d63894e9",
+      "width" : 64
+    } ],
+    "name" : "Eye of Providence",
+    "type" : "album",
+    "uri" : "spotify:album:78vhzovWhYjThOUmiW55ZI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3NrGqWwh6dKk99v1UFqQak",
+    "id" : "3NrGqWwh6dKk99v1UFqQak",
+    "name" : "The Agonist",
+    "type" : "artist",
+    "uri" : "spotify:artist:3NrGqWwh6dKk99v1UFqQak"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 205626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4E41413503"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3DypApeEr6V617nb37He9F"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3DypApeEr6V617nb37He9F",
+  "id" : "3DypApeEr6V617nb37He9F",
+  "name" : "Gates of Horn and Ivory",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/48749f8e78fa53bd846dbb21ecd2e77e6e4f8e50?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3DypApeEr6V617nb37He9F"
+}

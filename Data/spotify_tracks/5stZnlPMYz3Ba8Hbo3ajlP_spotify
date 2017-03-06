@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6FbOJTOKgRkWSh8kcV9NG3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6FbOJTOKgRkWSh8kcV9NG3",
+    "id" : "6FbOJTOKgRkWSh8kcV9NG3",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/74075fd096f6aec8131ebb632a4a2bb4a8d88eae",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/4f3c8b99430dc2c6b6f5b9c0becb436843c68b3b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9ff6068b1d8d204111d5f267e1f9846af43d862f",
+      "width" : 64
+    } ],
+    "name" : "Restless",
+    "type" : "album",
+    "uri" : "spotify:album:6FbOJTOKgRkWSh8kcV9NG3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+    "id" : "4tujQJicOnuZRLiBFdp3Ou",
+    "name" : "Xzibit",
+    "type" : "artist",
+    "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 255640,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USLR50000796"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5stZnlPMYz3Ba8Hbo3ajlP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5stZnlPMYz3Ba8Hbo3ajlP",
+  "id" : "5stZnlPMYz3Ba8Hbo3ajlP",
+  "name" : "X",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/df941a89f67af3a2d854a66b0e2b4e8e5621e26e?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5stZnlPMYz3Ba8Hbo3ajlP"
+}

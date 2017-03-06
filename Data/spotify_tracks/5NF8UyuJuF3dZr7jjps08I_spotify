@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Q192DXotxtaysaqNPy5yR",
+      "id" : "6Q192DXotxtaysaqNPy5yR",
+      "name" : "Amy Winehouse",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Q192DXotxtaysaqNPy5yR"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5WkNPVYW7QyUmNqW5yiodh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5WkNPVYW7QyUmNqW5yiodh",
+    "id" : "5WkNPVYW7QyUmNqW5yiodh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/846f97a3e901d9a0710f7f5e127f61debd975a38",
+      "width" : 639
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/53c76c0a114479ede77fc13b0524e9c71a39a669",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/74ed9fbeae5acf7e4ea575b513c338792b2561cf",
+      "width" : 64
+    } ],
+    "name" : "Frank (US e-Version)",
+    "type" : "album",
+    "uri" : "spotify:album:5WkNPVYW7QyUmNqW5yiodh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Q192DXotxtaysaqNPy5yR",
+    "id" : "6Q192DXotxtaysaqNPy5yR",
+    "name" : "Amy Winehouse",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Q192DXotxtaysaqNPy5yR"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200626,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBAAN0300464"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5NF8UyuJuF3dZr7jjps08I"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5NF8UyuJuF3dZr7jjps08I",
+  "id" : "5NF8UyuJuF3dZr7jjps08I",
+  "name" : "Fuck Me Pumps",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/08407b59655a1f34bce1810183d6e266bd57cb1c?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5NF8UyuJuF3dZr7jjps08I"
+}

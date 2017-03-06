@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5i0ph60TnwTlIGrOZAmcZa",
+      "id" : "5i0ph60TnwTlIGrOZAmcZa",
+      "name" : "King Diamond",
+      "type" : "artist",
+      "uri" : "spotify:artist:5i0ph60TnwTlIGrOZAmcZa"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7y3qhpdNjiRLekCzbmsFPi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7y3qhpdNjiRLekCzbmsFPi",
+    "id" : "7y3qhpdNjiRLekCzbmsFPi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1bdc277cee5c24243776f8b0eef27616d9b484cf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e8caf92c9f2a637f8ed1602ad02e5eb76f43671",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/02ce894041de2194cb0874969350ac0e01762c94",
+      "width" : 64
+    } ],
+    "name" : "Them (Reissue)",
+    "type" : "album",
+    "uri" : "spotify:album:7y3qhpdNjiRLekCzbmsFPi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5i0ph60TnwTlIGrOZAmcZa",
+    "id" : "5i0ph60TnwTlIGrOZAmcZa",
+    "name" : "King Diamond",
+    "type" : "artist",
+    "uri" : "spotify:artist:5i0ph60TnwTlIGrOZAmcZa"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 277560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLA329780512"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/261sNk4veE1p00mdvT6naK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/261sNk4veE1p00mdvT6naK",
+  "id" : "261sNk4veE1p00mdvT6naK",
+  "name" : "Welcome Home (Reissue)",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b35033b872b892e95f2a3487760d98783134db71?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:261sNk4veE1p00mdvT6naK"
+}

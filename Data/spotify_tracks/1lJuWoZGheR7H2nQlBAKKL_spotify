@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UEYawMcp2M4JFoXVOtZEq",
+      "id" : "6UEYawMcp2M4JFoXVOtZEq",
+      "name" : "Dustin O'Halloran",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UEYawMcp2M4JFoXVOtZEq"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ptXbWijlr47UVw4jiXNtF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ptXbWijlr47UVw4jiXNtF",
+    "id" : "4ptXbWijlr47UVw4jiXNtF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/788bea69bc76a454cf53dacceffd27b8aca339fd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fc0e5787218fd4f85ebe0748381ca528d63ecb83",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/603dabce087be90590f2d9a73d95e63e0a213621",
+      "width" : 64
+    } ],
+    "name" : "Piano Solos, Vol 2",
+    "type" : "album",
+    "uri" : "spotify:album:4ptXbWijlr47UVw4jiXNtF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6UEYawMcp2M4JFoXVOtZEq",
+    "id" : "6UEYawMcp2M4JFoXVOtZEq",
+    "name" : "Dustin O'Halloran",
+    "type" : "artist",
+    "uri" : "spotify:artist:6UEYawMcp2M4JFoXVOtZEq"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 239800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABX1432015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1lJuWoZGheR7H2nQlBAKKL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1lJuWoZGheR7H2nQlBAKKL",
+  "id" : "1lJuWoZGheR7H2nQlBAKKL",
+  "name" : "Opus 21",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a3b2e1f56c75e915cca8b20793d551061d1cbc35?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1lJuWoZGheR7H2nQlBAKKL"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+      "id" : "2AsusXITU8P25dlRNhcAbG",
+      "name" : "Gotye",
+      "type" : "artist",
+      "uri" : "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0vd9Zi2ICgOtN0rQqHEqCJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0vd9Zi2ICgOtN0rQqHEqCJ",
+    "id" : "0vd9Zi2ICgOtN0rQqHEqCJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/86da54fedf802707be0a31bfdf3709dc4b356604",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3ef7a2e5c04ede84ff2ee2aeeac7fab6b0510281",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5414ba3f187850cb8812a3822fdd2ec60ae94178",
+      "width" : 64
+    } ],
+    "name" : "Like Drawing Blood",
+    "type" : "album",
+    "uri" : "spotify:album:0vd9Zi2ICgOtN0rQqHEqCJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+    "id" : "2AsusXITU8P25dlRNhcAbG",
+    "name" : "Gotye",
+    "type" : "artist",
+    "uri" : "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 365440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUZS20800003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/14WY9PjqIwABQF6BE386cz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/14WY9PjqIwABQF6BE386cz",
+  "id" : "14WY9PjqIwABQF6BE386cz",
+  "name" : "Hearts A Mess",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b28883a6cae440222f033e54c97394006b665969?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:14WY9PjqIwABQF6BE386cz"
+}

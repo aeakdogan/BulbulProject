@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02uPe16VFxPaiueQsPEDkE",
+      "id" : "02uPe16VFxPaiueQsPEDkE",
+      "name" : "The Album Leaf",
+      "type" : "artist",
+      "uri" : "spotify:artist:02uPe16VFxPaiueQsPEDkE"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4r6F9MHmX3c5zeYzaETi7z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4r6F9MHmX3c5zeYzaETi7z",
+    "id" : "4r6F9MHmX3c5zeYzaETi7z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1f1dadd9f2e05f500350ffb1a3ea0c922143b9e5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0ba3735807e8e6bd071ec422a0e4cf8629e2e0dd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/153b1c07e68de6c5c95d75a707f1c0ad73f4e026",
+      "width" : 64
+    } ],
+    "name" : "In a Safe Place",
+    "type" : "album",
+    "uri" : "spotify:album:4r6F9MHmX3c5zeYzaETi7z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/02uPe16VFxPaiueQsPEDkE",
+    "id" : "02uPe16VFxPaiueQsPEDkE",
+    "name" : "The Album Leaf",
+    "type" : "artist",
+    "uri" : "spotify:artist:02uPe16VFxPaiueQsPEDkE"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 295426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB0400161"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1LIEUXGvj68507oDhvInm8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1LIEUXGvj68507oDhvInm8",
+  "id" : "1LIEUXGvj68507oDhvInm8",
+  "name" : "Over The Pond",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6d2513e288f79bcbdce5a0bf3c985c924a4fe7d0?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1LIEUXGvj68507oDhvInm8"
+}

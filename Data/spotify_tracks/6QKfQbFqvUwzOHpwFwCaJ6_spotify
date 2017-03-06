@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43mWhBXSflupNLuNjM5vff",
+      "id" : "43mWhBXSflupNLuNjM5vff",
+      "name" : "Soulwax",
+      "type" : "artist",
+      "uri" : "spotify:artist:43mWhBXSflupNLuNjM5vff"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5d36tohU6hNW0AK5sdmbZI",
+    "id" : "5d36tohU6hNW0AK5sdmbZI",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/1af8d8af4441acb5282d7cc8b8be9a8a82b36a07",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/239e85e0289edcc048e9d36600246ce6e769c1f2",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/618fdda5cf4743eb22e7be29191ddf0e5f1941a9",
+      "width" : 64
+    } ],
+    "name" : "Nite Versions",
+    "type" : "album",
+    "uri" : "spotify:album:5d36tohU6hNW0AK5sdmbZI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+    },
+    "href" : "https://api.spotify.com/v1/artists/43mWhBXSflupNLuNjM5vff",
+    "id" : "43mWhBXSflupNLuNjM5vff",
+    "name" : "Soulwax",
+    "type" : "artist",
+    "uri" : "spotify:artist:43mWhBXSflupNLuNjM5vff"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 323853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEP010500094"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6QKfQbFqvUwzOHpwFwCaJ6",
+  "id" : "6QKfQbFqvUwzOHpwFwCaJ6",
+  "name" : "Krack",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9ffeed0eba3fd04cc87937a7ba05163adbd5f618?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6QKfQbFqvUwzOHpwFwCaJ6"
+}

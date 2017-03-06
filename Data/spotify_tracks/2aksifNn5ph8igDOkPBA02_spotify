@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+      "id" : "5pKCCKE2ajJHZ9KAiaK11H",
+      "name" : "Rihanna",
+      "type" : "artist",
+      "uri" : "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Q149ZH46Z0f3oDR7vlDYV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Q149ZH46Z0f3oDR7vlDYV",
+    "id" : "3Q149ZH46Z0f3oDR7vlDYV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/660849fa669b8fd072487d557e39232ffdd64479",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f0ffeaa05aff767f2d48929af0c305eaa24e6941",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/337f283c3c3085ad02b98b7fc54b6e74bdfe9319",
+      "width" : 64
+    } ],
+    "name" : "ANTI",
+    "type" : "album",
+    "uri" : "spotify:album:3Q149ZH46Z0f3oDR7vlDYV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+    "id" : "5pKCCKE2ajJHZ9KAiaK11H",
+    "name" : "Rihanna",
+    "type" : "artist",
+    "uri" : "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224000,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "QM5FT1600120"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2aksifNn5ph8igDOkPBA02"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2aksifNn5ph8igDOkPBA02",
+  "id" : "2aksifNn5ph8igDOkPBA02",
+  "name" : "Love On The Brain",
+  "popularity" : 77,
+  "preview_url" : "https://p.scdn.co/mp3-preview/10fbb7f593e6e44b0eae872550ab2352dfb5d130?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2aksifNn5ph8igDOkPBA02"
+}

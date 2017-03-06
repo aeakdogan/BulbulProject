@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1zuJe6b1roixEKMOtyrEak",
+      "id" : "1zuJe6b1roixEKMOtyrEak",
+      "name" : "Tina Turner",
+      "type" : "artist",
+      "uri" : "spotify:artist:1zuJe6b1roixEKMOtyrEak"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6FkWiSUX7YAdxOlHPrIzMj",
+    "id" : "6FkWiSUX7YAdxOlHPrIzMj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e4c3cce04bb416398aa51b5896d6e549ff590eff",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a56a0a4d2074ffbe066440495fe4301f1d69a7e4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/18d9264ff62a9d40d0068b5fb96c0128ade23448",
+      "width" : 64
+    } ],
+    "name" : "Tina!",
+    "type" : "album",
+    "uri" : "spotify:album:6FkWiSUX7YAdxOlHPrIzMj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ZikppG9dPedbIgMfnfx8k",
+    "id" : "1ZikppG9dPedbIgMfnfx8k",
+    "name" : "Ike & Tina Turner",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ZikppG9dPedbIgMfnfx8k"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 244160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEM38900129"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/19jo0UT2vqD4pNVfIqTy4R",
+  "id" : "19jo0UT2vqD4pNVfIqTy4R",
+  "name" : "River Deep Mountain High",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5028ec14e91b3557c1f33e36c4e4b038387eaa79?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:19jo0UT2vqD4pNVfIqTy4R"
+}

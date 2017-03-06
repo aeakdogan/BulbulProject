@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ",
+      "id" : "3iTsJGG39nMg9YiolUgLMQ",
+      "name" : "Morrissey",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iTsJGG39nMg9YiolUgLMQ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5HXa55PAQat4tgD6IT8G6F"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5HXa55PAQat4tgD6IT8G6F",
+    "id" : "5HXa55PAQat4tgD6IT8G6F",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/74eff8001f1ab7bacc2c2d1b1bd19ec09f34cac3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ff1f2d179d944aad86c372d119030272f6221abb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/773b90dbc5f165d5992bef8797c62dbb9fd64a2d",
+      "width" : 64
+    } ],
+    "name" : "My Early Burglary Years",
+    "type" : "album",
+    "uri" : "spotify:album:5HXa55PAQat4tgD6IT8G6F"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ",
+    "id" : "3iTsJGG39nMg9YiolUgLMQ",
+    "name" : "Morrissey",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iTsJGG39nMg9YiolUgLMQ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 290893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE19000020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0NUgAinuBP4nrAJayXaHj2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0NUgAinuBP4nrAJayXaHj2",
+  "id" : "0NUgAinuBP4nrAJayXaHj2",
+  "name" : "Girl Least Likely To",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e9b862f52e53942feb65ac8e17f6c875a9b58a03?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:0NUgAinuBP4nrAJayXaHj2"
+}

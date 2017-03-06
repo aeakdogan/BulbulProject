@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2nszamLjZFgu3Yx77mKxuC",
+      "id" : "2nszamLjZFgu3Yx77mKxuC",
+      "name" : "UNKLE",
+      "type" : "artist",
+      "uri" : "spotify:artist:2nszamLjZFgu3Yx77mKxuC"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/24NNDsJwDmtjdXAIp5hQWX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/24NNDsJwDmtjdXAIp5hQWX",
+    "id" : "24NNDsJwDmtjdXAIp5hQWX",
+    "images" : [ {
+      "height" : 574,
+      "url" : "https://i.scdn.co/image/d432cd06e482f857a2b5581652598d6cedbb21ac",
+      "width" : 640
+    }, {
+      "height" : 269,
+      "url" : "https://i.scdn.co/image/a83c66b8d2fbcd605270f7ac267cfa81484f6fdc",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/d4905640eb8552e4ff46ef478687f33f19520c8b",
+      "width" : 64
+    } ],
+    "name" : "Psyence Fiction (Standard)",
+    "type" : "album",
+    "uri" : "spotify:album:24NNDsJwDmtjdXAIp5hQWX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2nszamLjZFgu3Yx77mKxuC",
+    "id" : "2nszamLjZFgu3Yx77mKxuC",
+    "name" : "UNKLE",
+    "type" : "artist",
+    "uri" : "spotify:artist:2nszamLjZFgu3Yx77mKxuC"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1HGTHrRQkw0BtevSo1jucU",
+    "id" : "1HGTHrRQkw0BtevSo1jucU",
+    "name" : "Richard Ashcroft",
+    "type" : "artist",
+    "uri" : "spotify:artist:1HGTHrRQkw0BtevSo1jucU"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 536760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAQH9800053"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6D2FMgB1DFP3KMCdmAzqkI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6D2FMgB1DFP3KMCdmAzqkI",
+  "id" : "6D2FMgB1DFP3KMCdmAzqkI",
+  "name" : "Lonely Soul",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/77707329c051e41091e53673d8234fedfe26d5e7?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6D2FMgB1DFP3KMCdmAzqkI"
+}

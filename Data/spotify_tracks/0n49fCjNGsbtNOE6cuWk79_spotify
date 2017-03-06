@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3hozsZ9hqNq7CoBGYNlFTz",
+      "id" : "3hozsZ9hqNq7CoBGYNlFTz",
+      "name" : "OK Go",
+      "type" : "artist",
+      "uri" : "spotify:artist:3hozsZ9hqNq7CoBGYNlFTz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1qN6qh1gwgrYTCdSq21gov",
+    "id" : "1qN6qh1gwgrYTCdSq21gov",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b1019b0edf9370a5d68697112baf377a9c887f55",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0daec5f36020994e49f725d1cb5ef2cbf3651962",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e5d8ae33539f5d928ffa49c3b34b81b757c64493",
+      "width" : 64
+    } ],
+    "name" : "Oh No",
+    "type" : "album",
+    "uri" : "spotify:album:1qN6qh1gwgrYTCdSq21gov"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3hozsZ9hqNq7CoBGYNlFTz",
+    "id" : "3hozsZ9hqNq7CoBGYNlFTz",
+    "name" : "OK Go",
+    "type" : "artist",
+    "uri" : "spotify:artist:3hozsZ9hqNq7CoBGYNlFTz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 193133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA20500274"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0n49fCjNGsbtNOE6cuWk79"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0n49fCjNGsbtNOE6cuWk79",
+  "id" : "0n49fCjNGsbtNOE6cuWk79",
+  "name" : "A Million Ways",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4b1ba36a1653c91751fa7d67820e98e4770f34cd?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0n49fCjNGsbtNOE6cuWk79"
+}

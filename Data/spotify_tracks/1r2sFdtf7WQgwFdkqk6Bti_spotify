@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5JUYSPkis2Mk6HUbmMqk1m",
+      "id" : "5JUYSPkis2Mk6HUbmMqk1m",
+      "name" : "Sean Lennon",
+      "type" : "artist",
+      "uri" : "spotify:artist:5JUYSPkis2Mk6HUbmMqk1m"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ITNL0pBY3LcZ5WzCD5UgW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ITNL0pBY3LcZ5WzCD5UgW",
+    "id" : "3ITNL0pBY3LcZ5WzCD5UgW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e4b21e78f8fac3f954022c4ff361ac5952eae09f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0d0f6ff87c3e81937682ddcc9490a80cea8a919c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ecccb190e4dbae452800daa65a266040c222c986",
+      "width" : 64
+    } ],
+    "name" : "Friendly Fire",
+    "type" : "album",
+    "uri" : "spotify:album:3ITNL0pBY3LcZ5WzCD5UgW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5JUYSPkis2Mk6HUbmMqk1m",
+    "id" : "5JUYSPkis2Mk6HUbmMqk1m",
+    "name" : "Sean Lennon",
+    "type" : "artist",
+    "uri" : "spotify:artist:5JUYSPkis2Mk6HUbmMqk1m"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 199320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA20601019"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1r2sFdtf7WQgwFdkqk6Bti"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1r2sFdtf7WQgwFdkqk6Bti",
+  "id" : "1r2sFdtf7WQgwFdkqk6Bti",
+  "name" : "Parachute",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/839ec3353def9b09135042fc08d90446d4e4010c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1r2sFdtf7WQgwFdkqk6Bti"
+}

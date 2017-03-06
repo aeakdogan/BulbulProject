@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1A6zWJwn4XmdZZgob3wYPM",
+      "id" : "1A6zWJwn4XmdZZgob3wYPM",
+      "name" : "Blaudzun",
+      "type" : "artist",
+      "uri" : "spotify:artist:1A6zWJwn4XmdZZgob3wYPM"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/13FMEuIh0Oi3iDGWzkUSO8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/13FMEuIh0Oi3iDGWzkUSO8",
+    "id" : "13FMEuIh0Oi3iDGWzkUSO8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f9b871b4a6e4e897ee78cf4bdd1a38eac9f0d53c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5883dbcbbce15387f1538fe52fe45a3341363ccb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/74379361af708390d80af3c9b8c6467ceef32051",
+      "width" : 64
+    } ],
+    "name" : "Elephants",
+    "type" : "album",
+    "uri" : "spotify:album:13FMEuIh0Oi3iDGWzkUSO8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1A6zWJwn4XmdZZgob3wYPM",
+    "id" : "1A6zWJwn4XmdZZgob3wYPM",
+    "name" : "Blaudzun",
+    "type" : "artist",
+    "uri" : "spotify:artist:1A6zWJwn4XmdZZgob3wYPM"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 214706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4R31155174"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2HRnRbstgs01yODME7yS3S"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2HRnRbstgs01yODME7yS3S",
+  "id" : "2HRnRbstgs01yODME7yS3S",
+  "name" : "Elephants",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6b6a56dd13cf63351f673632b6ef09229bcdef80?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2HRnRbstgs01yODME7yS3S"
+}

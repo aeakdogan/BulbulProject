@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yhtlCNnRgCNGnsy2K7mHm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yhtlCNnRgCNGnsy2K7mHm",
+      "id" : "1yhtlCNnRgCNGnsy2K7mHm",
+      "name" : "JEFF The Brotherhood",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yhtlCNnRgCNGnsy2K7mHm"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7JtDT7zQCcwRBhTe5njHLV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7JtDT7zQCcwRBhTe5njHLV",
+    "id" : "7JtDT7zQCcwRBhTe5njHLV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/75d0188f49b574c0b80bb335b6fa3d3f00fda89f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/af6dbcaedb4eb54c8e0d62a4049de6cbffc87c06",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/32e0e485d49de32b48dd3af0949bfb258f4415b0",
+      "width" : 64
+    } ],
+    "name" : "We Are The Champions",
+    "type" : "album",
+    "uri" : "spotify:album:7JtDT7zQCcwRBhTe5njHLV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1yhtlCNnRgCNGnsy2K7mHm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1yhtlCNnRgCNGnsy2K7mHm",
+    "id" : "1yhtlCNnRgCNGnsy2K7mHm",
+    "name" : "JEFF The Brotherhood",
+    "type" : "artist",
+    "uri" : "spotify:artist:1yhtlCNnRgCNGnsy2K7mHm"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 248506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4NP1100011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6k5yz5rd2BYSrpUQDhBOTJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6k5yz5rd2BYSrpUQDhBOTJ",
+  "id" : "6k5yz5rd2BYSrpUQDhBOTJ",
+  "name" : "Hey Friend",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cba4c392002dcc08ff8957b8b31f3bc6f09a78ae?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6k5yz5rd2BYSrpUQDhBOTJ"
+}

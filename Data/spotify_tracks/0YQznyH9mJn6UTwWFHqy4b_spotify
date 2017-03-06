@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3LPOvF8M3DijXowBs1MdDr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3LPOvF8M3DijXowBs1MdDr",
+    "id" : "3LPOvF8M3DijXowBs1MdDr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/42498794a241fb55807666ab0f8282fd130b248a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f2cc6aedc11d2186fa40472f5d218b25883ca4fc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4113f25485e7bf7ae7dd9c7da23c764987884993",
+      "width" : 64
+    } ],
+    "name" : "Significant Others",
+    "type" : "album",
+    "uri" : "spotify:album:3LPOvF8M3DijXowBs1MdDr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a0etAzO5V26gvlbmHzT9W",
+    "id" : "5a0etAzO5V26gvlbmHzT9W",
+    "name" : "Nicolas Jaar",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a0etAzO5V26gvlbmHzT9W"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 397242,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DECY50919043"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0YQznyH9mJn6UTwWFHqy4b"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0YQznyH9mJn6UTwWFHqy4b",
+  "id" : "0YQznyH9mJn6UTwWFHqy4b",
+  "name" : "El Bandido",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ed3e4b3649fa080f8d8eadb01f46058fde7e4cb?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0YQznyH9mJn6UTwWFHqy4b"
+}

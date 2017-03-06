@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43O3c6wewpzPKwVaGEEtBM",
+      "id" : "43O3c6wewpzPKwVaGEEtBM",
+      "name" : "My Morning Jacket",
+      "type" : "artist",
+      "uri" : "spotify:artist:43O3c6wewpzPKwVaGEEtBM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2TpZRh7HrXYr5CzOaMHZte"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2TpZRh7HrXYr5CzOaMHZte",
+    "id" : "2TpZRh7HrXYr5CzOaMHZte",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/98009e79c0696732a0650c03a823ab169b017b3b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/25868271edf4d6422101900bd50190655960a557",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6882631e51ee2c07909c4d40d5cc8c59e2a2b2fb",
+      "width" : 64
+    } ],
+    "name" : "Z",
+    "type" : "album",
+    "uri" : "spotify:album:2TpZRh7HrXYr5CzOaMHZte"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/43O3c6wewpzPKwVaGEEtBM",
+    "id" : "43O3c6wewpzPKwVaGEEtBM",
+    "name" : "My Morning Jacket",
+    "type" : "artist",
+    "uri" : "spotify:artist:43O3c6wewpzPKwVaGEEtBM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 479306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USATO0500090"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6cggVfW0GENxOmEuTUfKvo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6cggVfW0GENxOmEuTUfKvo",
+  "id" : "6cggVfW0GENxOmEuTUfKvo",
+  "name" : "Dondante",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/41307a85a6917badc22f6b60f2644bfe3fea32bc?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:6cggVfW0GENxOmEuTUfKvo"
+}

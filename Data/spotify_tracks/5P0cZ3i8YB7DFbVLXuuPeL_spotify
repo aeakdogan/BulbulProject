@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6WYKqCoezPOWXD9UxbXyGZ",
+    "id" : "6WYKqCoezPOWXD9UxbXyGZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0989188cb171267a66b0bd3230f2cf96b31e73fb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/22548afbbe78452c10af4f6f09fbdfdaedba1242",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b5e0ac23b181061f4619ee330ac1eda030e9057f",
+      "width" : 64
+    } ],
+    "name" : "Holidays Rule",
+    "type" : "album",
+    "uri" : "spotify:album:6WYKqCoezPOWXD9UxbXyGZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1OmdWpAh1pucAuZPzJaxIJ",
+    "id" : "1OmdWpAh1pucAuZPzJaxIJ",
+    "name" : "Calexico",
+    "type" : "artist",
+    "uri" : "spotify:artist:1OmdWpAh1pucAuZPzJaxIJ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 239040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USHC41200297"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5P0cZ3i8YB7DFbVLXuuPeL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5P0cZ3i8YB7DFbVLXuuPeL",
+  "id" : "5P0cZ3i8YB7DFbVLXuuPeL",
+  "name" : "Green Grows The Holly",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/174bce76658895dfef3a9c1def44c8a27fe0db71?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5P0cZ3i8YB7DFbVLXuuPeL"
+}

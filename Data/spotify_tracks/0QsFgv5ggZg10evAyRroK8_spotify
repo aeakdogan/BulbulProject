@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0dR6oNfg1pqmBrm9IAQNjD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0dR6oNfg1pqmBrm9IAQNjD",
+    "id" : "0dR6oNfg1pqmBrm9IAQNjD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/159bb7db0d003a62b8fa13dad75837ec28fc0785",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f5297e77247ec25dec634c4230acbfc40cae3864",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ad9ec28eef162f6976cd8dd1e5fc5c0289219d3a",
+      "width" : 64
+    } ],
+    "name" : "Hôtel Costes - La suite - by Stéphane Pompougnac",
+    "type" : "album",
+    "uri" : "spotify:album:0dR6oNfg1pqmBrm9IAQNjD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Nks3cFWU2a7rooAlFQYgn",
+    "id" : "0Nks3cFWU2a7rooAlFQYgn",
+    "name" : "Cesaria Evora",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Nks3cFWU2a7rooAlFQYgn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 385519,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRX629985062"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0QsFgv5ggZg10evAyRroK8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0QsFgv5ggZg10evAyRroK8",
+  "id" : "0QsFgv5ggZg10evAyRroK8",
+  "name" : "Carnaval De São Vicente - Jazzy carnaval mix",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/42b1ee0de225552f985c2a28ce46cd367fee1c24?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0QsFgv5ggZg10evAyRroK8"
+}

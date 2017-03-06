@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3",
+      "id" : "4BFMTELQyWJU1SwqcXMBm3",
+      "name" : "The Stooges",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BFMTELQyWJU1SwqcXMBm3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6mxbG8KrOTZIxlP4gzaliM",
+    "id" : "6mxbG8KrOTZIxlP4gzaliM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3111fecf1e01bec2dbd09613855c86b36b402421",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ee1798468b42638ea844bac362938628f1adf5f8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ea8f61dcb48cc3850f3ab3c4ee6b14a0e704a904",
+      "width" : 64
+    } ],
+    "name" : "Raw Power",
+    "type" : "album",
+    "uri" : "spotify:album:6mxbG8KrOTZIxlP4gzaliM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3",
+    "id" : "4BFMTELQyWJU1SwqcXMBm3",
+    "name" : "The Stooges",
+    "type" : "artist",
+    "uri" : "spotify:artist:4BFMTELQyWJU1SwqcXMBm3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 208133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM17200128"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/00sydAz6PeOxYzwG1dRIPi",
+  "id" : "00sydAz6PeOxYzwG1dRIPi",
+  "name" : "Search and Destroy - Iggy Pop Mix",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a97333a82fe5bf028956ce0cca495ff2bef720f2?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:00sydAz6PeOxYzwG1dRIPi"
+}

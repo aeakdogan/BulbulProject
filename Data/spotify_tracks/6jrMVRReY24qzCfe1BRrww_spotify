@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
+      "id" : "536BYVgOnRky0xjsPT96zl",
+      "name" : "Two Door Cinema Club",
+      "type" : "artist",
+      "uri" : "spotify:artist:536BYVgOnRky0xjsPT96zl"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0gyRFAfY08NFv7N8RTFg9M"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0gyRFAfY08NFv7N8RTFg9M",
+    "id" : "0gyRFAfY08NFv7N8RTFg9M",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6a42f1132795dbc1b6414bc8fe126977bcc6a969",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/24dd71b6a27363b8ce6ef23e6c063815faff9c23",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4f567ecd72da819e864bc61a0a8131272342aa58",
+      "width" : 64
+    } ],
+    "name" : "Tourist History",
+    "type" : "album",
+    "uri" : "spotify:album:0gyRFAfY08NFv7N8RTFg9M"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
+    "id" : "536BYVgOnRky0xjsPT96zl",
+    "name" : "Two Door Cinema Club",
+    "type" : "artist",
+    "uri" : "spotify:artist:536BYVgOnRky0xjsPT96zl"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 191400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRU700900116"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6jrMVRReY24qzCfe1BRrww"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6jrMVRReY24qzCfe1BRrww",
+  "id" : "6jrMVRReY24qzCfe1BRrww",
+  "name" : "What You Know",
+  "popularity" : 65,
+  "preview_url" : "https://p.scdn.co/mp3-preview/88e55a8c0b548837812b7513276b9b1a4479514c?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6jrMVRReY24qzCfe1BRrww"
+}

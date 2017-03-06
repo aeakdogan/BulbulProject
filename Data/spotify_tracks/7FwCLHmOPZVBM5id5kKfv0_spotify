@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1020a42xVklY6c56imNcaa",
+      "id" : "1020a42xVklY6c56imNcaa",
+      "name" : "Slum Village",
+      "type" : "artist",
+      "uri" : "spotify:artist:1020a42xVklY6c56imNcaa"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3bF7UefpUmG1BAriPPLLez",
+    "id" : "3bF7UefpUmG1BAriPPLLez",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d4b5289a782124f9548f412526e0a0d48713502d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/89914fa932ae3a24533c6d071a0f9ca563906114",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8fb3966bf68202b9498852b92ade610f4147a1cf",
+      "width" : 64
+    } ],
+    "name" : "Fantastic, Vol. 2.10",
+    "type" : "album",
+    "uri" : "spotify:album:3bF7UefpUmG1BAriPPLLez"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1020a42xVklY6c56imNcaa",
+    "id" : "1020a42xVklY6c56imNcaa",
+    "name" : "Slum Village",
+    "type" : "artist",
+    "uri" : "spotify:artist:1020a42xVklY6c56imNcaa"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 184239,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USBCE1010002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7FwCLHmOPZVBM5id5kKfv0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7FwCLHmOPZVBM5id5kKfv0",
+  "id" : "7FwCLHmOPZVBM5id5kKfv0",
+  "name" : "Conant Gardens",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/47920763f827d8f9afaf36ecbfbdc2e1ad27cbab?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7FwCLHmOPZVBM5id5kKfv0"
+}

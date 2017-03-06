@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5BtHciL0e0zOP7prIHn3pP",
+      "id" : "5BtHciL0e0zOP7prIHn3pP",
+      "name" : "Breaking Benjamin",
+      "type" : "artist",
+      "uri" : "spotify:artist:5BtHciL0e0zOP7prIHn3pP"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/39FF5RewRO5F3OoNlWSQik"
+    },
+    "href" : "https://api.spotify.com/v1/albums/39FF5RewRO5F3OoNlWSQik",
+    "id" : "39FF5RewRO5F3OoNlWSQik",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/59b8f6adc6540c4f8a671af003cde2c20506b223",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/62961ec7dc5c0edb93f373235a9cc15cc09d9e6c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6562d8fc53875199e2ad7cca4a686709a32d5222",
+      "width" : 64
+    } ],
+    "name" : "We Are Not Alone",
+    "type" : "album",
+    "uri" : "spotify:album:39FF5RewRO5F3OoNlWSQik"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5BtHciL0e0zOP7prIHn3pP",
+    "id" : "5BtHciL0e0zOP7prIHn3pP",
+    "name" : "Breaking Benjamin",
+    "type" : "artist",
+    "uri" : "spotify:artist:5BtHciL0e0zOP7prIHn3pP"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 216986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USHR10421021"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2lVLgsRENLhr7lCq88udyX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2lVLgsRENLhr7lCq88udyX",
+  "id" : "2lVLgsRENLhr7lCq88udyX",
+  "name" : "Forget It",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6fb21a6fae169d3908b18f1f678bee8eab17fae6?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2lVLgsRENLhr7lCq88udyX"
+}

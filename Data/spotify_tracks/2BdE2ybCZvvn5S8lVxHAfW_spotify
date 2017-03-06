@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2PD0xyJOdwn3i3fKhgRDA8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2PD0xyJOdwn3i3fKhgRDA8",
+      "id" : "2PD0xyJOdwn3i3fKhgRDA8",
+      "name" : "Rabbit!",
+      "type" : "artist",
+      "uri" : "spotify:artist:2PD0xyJOdwn3i3fKhgRDA8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6MEtgBVTY0eXy1ocEsoC1g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6MEtgBVTY0eXy1ocEsoC1g",
+    "id" : "6MEtgBVTY0eXy1ocEsoC1g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ca7bfe3b9cdf08d09770b6402099edd725ad2444",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d9663e7e78af8b5b01ca97307383f5307f407e27",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5f530a95ea9695aa54c7134088d5fc54a31e3161",
+      "width" : 64
+    } ],
+    "name" : "Go For It",
+    "type" : "album",
+    "uri" : "spotify:album:6MEtgBVTY0eXy1ocEsoC1g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2PD0xyJOdwn3i3fKhgRDA8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2PD0xyJOdwn3i3fKhgRDA8",
+    "id" : "2PD0xyJOdwn3i3fKhgRDA8",
+    "name" : "Rabbit!",
+    "type" : "artist",
+    "uri" : "spotify:artist:2PD0xyJOdwn3i3fKhgRDA8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 229520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USREL1100012"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2BdE2ybCZvvn5S8lVxHAfW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2BdE2ybCZvvn5S8lVxHAfW",
+  "id" : "2BdE2ybCZvvn5S8lVxHAfW",
+  "name" : "Best Thing I Found",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c7751546594c55814d1e584aa77424c912cbe896?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2BdE2ybCZvvn5S8lVxHAfW"
+}

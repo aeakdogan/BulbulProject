@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4N3FRWAVeD4mWSgIpitOVw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4N3FRWAVeD4mWSgIpitOVw",
+    "id" : "4N3FRWAVeD4mWSgIpitOVw",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/7736957e9ba653298ea4eb59b5083516919f776b",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/fd2c5d4830aa4fdf7e181e2a936d6de6ca9ab280",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/327ec921a41bbec33d76338330f334536a368f28",
+      "width" : 64
+    } ],
+    "name" : "Live At The Roxy - The Complete Concert",
+    "type" : "album",
+    "uri" : "spotify:album:4N3FRWAVeD4mWSgIpitOVw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+    "id" : "2QsynagSdAqZj3U9HgDzjD",
+    "name" : "Bob Marley & The Wailers",
+    "type" : "artist",
+    "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 393438,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR20200869"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7HrXkDaGGJ7U5ZmFfFugdD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7HrXkDaGGJ7U5ZmFfFugdD",
+  "id" : "7HrXkDaGGJ7U5ZmFfFugdD",
+  "name" : "I Shot The Sheriff - Live At The Roxy",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/79dbe4d762edf91f75493dc11a829dc15732d044?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:7HrXkDaGGJ7U5ZmFfFugdD"
+}

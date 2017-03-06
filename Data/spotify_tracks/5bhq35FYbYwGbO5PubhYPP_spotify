@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54KTsBl98buzGkELjGlnuU",
+      "id" : "54KTsBl98buzGkELjGlnuU",
+      "name" : "Active Child",
+      "type" : "artist",
+      "uri" : "spotify:artist:54KTsBl98buzGkELjGlnuU"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5pt3B2bfIkvZOxlAQDquNr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5pt3B2bfIkvZOxlAQDquNr",
+    "id" : "5pt3B2bfIkvZOxlAQDquNr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/339b3c86f96bd3017eebf6e563766929d0268402",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/17aa555019216e0e3d410b81d232f927eadd8e24",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/227ed6532ab19cbef4640733c9549c2ed4913864",
+      "width" : 64
+    } ],
+    "name" : "You Are All I See (Exclusive Bonus Version)",
+    "type" : "album",
+    "uri" : "spotify:album:5pt3B2bfIkvZOxlAQDquNr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/54KTsBl98buzGkELjGlnuU",
+    "id" : "54KTsBl98buzGkELjGlnuU",
+    "name" : "Active Child",
+    "type" : "artist",
+    "uri" : "spotify:artist:54KTsBl98buzGkELjGlnuU"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 245560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVR91168101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5bhq35FYbYwGbO5PubhYPP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5bhq35FYbYwGbO5PubhYPP",
+  "id" : "5bhq35FYbYwGbO5PubhYPP",
+  "name" : "You Are All I See",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/56a29dee102074f9ae3966b7fc1e7daa7d49646e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5bhq35FYbYwGbO5PubhYPP"
+}

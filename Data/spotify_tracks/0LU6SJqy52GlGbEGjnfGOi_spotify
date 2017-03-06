@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0JTMRuiDzOCjWuYtWMgv2s",
+      "id" : "0JTMRuiDzOCjWuYtWMgv2s",
+      "name" : "Haloo Helsinki!",
+      "type" : "artist",
+      "uri" : "spotify:artist:0JTMRuiDzOCjWuYtWMgv2s"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0eAsETA27sZs175AfyfwVA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0eAsETA27sZs175AfyfwVA",
+    "id" : "0eAsETA27sZs175AfyfwVA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e2b80aba8dc3cd2b8b095a31244faf02278a2220",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7bf3b389506be9242b7be0e561a668d37f429d09",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4a98266d705f069e2807fb35d426761395c3eb90",
+      "width" : 64
+    } ],
+    "name" : "Arena (Live)",
+    "type" : "album",
+    "uri" : "spotify:album:0eAsETA27sZs175AfyfwVA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0JTMRuiDzOCjWuYtWMgv2s",
+    "id" : "0JTMRuiDzOCjWuYtWMgv2s",
+    "name" : "Haloo Helsinki!",
+    "type" : "artist",
+    "uri" : "spotify:artist:0JTMRuiDzOCjWuYtWMgv2s"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 254613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FIBAR1500442"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0LU6SJqy52GlGbEGjnfGOi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0LU6SJqy52GlGbEGjnfGOi",
+  "id" : "0LU6SJqy52GlGbEGjnfGOi",
+  "name" : "Carpe Diem",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/97139860c4e45ec1fff3e041d511ac57a86732fe?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0LU6SJqy52GlGbEGjnfGOi"
+}

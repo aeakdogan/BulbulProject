@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+      "name" : "Metallica",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4qDiQwJ7UEuJsGLWL078nQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4qDiQwJ7UEuJsGLWL078nQ",
+    "id" : "4qDiQwJ7UEuJsGLWL078nQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/29fc4cd45f0aca39505b00e155c46b1ad31262a4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/be3210e0838ec7c2f40155d47ca80420e8b080a0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/89bcf45a70aaa8834dd0e9db0266d6dbe8f4e9ba",
+      "width" : 64
+    } ],
+    "name" : "Garage, Inc.",
+    "type" : "album",
+    "uri" : "spotify:album:4qDiQwJ7UEuJsGLWL078nQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+    "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+    "name" : "Metallica",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 304893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEV19800013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/77gY3WsOnEsq9JOWgBmdLj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/77gY3WsOnEsq9JOWgBmdLj",
+  "id" : "77gY3WsOnEsq9JOWgBmdLj",
+  "name" : "Whiskey In The Jar",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fb4b43214506212442cf9a4493d094fe6d30f110?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:77gY3WsOnEsq9JOWgBmdLj"
+}

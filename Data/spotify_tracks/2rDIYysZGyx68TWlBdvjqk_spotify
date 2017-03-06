@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4CzUzn54Cp9TQr6a7JIlMZ",
+      "id" : "4CzUzn54Cp9TQr6a7JIlMZ",
+      "name" : "Manowar",
+      "type" : "artist",
+      "uri" : "spotify:artist:4CzUzn54Cp9TQr6a7JIlMZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1uVLEeDuKWgOazttohIOvd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1uVLEeDuKWgOazttohIOvd",
+    "id" : "1uVLEeDuKWgOazttohIOvd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/150d49564e4923724e93a0e9088023783b71abc7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1f94b1c9dd454bf612285044e0e5c21acacee390",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4df1962a7fec39238e1aecd64f32b761a2cc13a4",
+      "width" : 64
+    } ],
+    "name" : "The Triumph Of Steel",
+    "type" : "album",
+    "uri" : "spotify:album:1uVLEeDuKWgOazttohIOvd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4CzUzn54Cp9TQr6a7JIlMZ",
+    "id" : "4CzUzn54Cp9TQr6a7JIlMZ",
+    "name" : "Manowar",
+    "type" : "artist",
+    "uri" : "spotify:artist:4CzUzn54Cp9TQr6a7JIlMZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 326933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20102870"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2rDIYysZGyx68TWlBdvjqk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2rDIYysZGyx68TWlBdvjqk",
+  "id" : "2rDIYysZGyx68TWlBdvjqk",
+  "name" : "Master Of The Wind",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b810ef7ed674e938bfad2b08dd0e40fcafb60788?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2rDIYysZGyx68TWlBdvjqk"
+}

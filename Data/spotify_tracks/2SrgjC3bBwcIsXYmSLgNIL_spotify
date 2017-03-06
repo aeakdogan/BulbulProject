@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+      "id" : "2CWWgbxApjbyByxBBCvGTm",
+      "name" : "Katatonia",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1gJ3canBKvwKToDIB9Wael"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1gJ3canBKvwKToDIB9Wael",
+    "id" : "1gJ3canBKvwKToDIB9Wael",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bcda10da68b94f14f92d9a3e297b3cbfb08a7783",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0588acdadd1d4cade55a9ca591ea88df05c7f2ab",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d4aa6b521e282598731ab89b0f5148e13febaaa3",
+      "width" : 64
+    } ],
+    "name" : "Dead End Kings",
+    "type" : "album",
+    "uri" : "spotify:album:1gJ3canBKvwKToDIB9Wael"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+    "id" : "2CWWgbxApjbyByxBBCvGTm",
+    "name" : "Katatonia",
+    "type" : "artist",
+    "uri" : "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 246586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCQV1250033"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2SrgjC3bBwcIsXYmSLgNIL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2SrgjC3bBwcIsXYmSLgNIL",
+  "id" : "2SrgjC3bBwcIsXYmSLgNIL",
+  "name" : "Hypnone",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2a2114af908cb4d921a3482c05cc3711bad953c9?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2SrgjC3bBwcIsXYmSLgNIL"
+}

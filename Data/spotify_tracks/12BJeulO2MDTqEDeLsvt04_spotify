@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0zCGwfjfccjoEE7vorQKy3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0zCGwfjfccjoEE7vorQKy3",
+      "id" : "0zCGwfjfccjoEE7vorQKy3",
+      "name" : "Ms. John Soda",
+      "type" : "artist",
+      "uri" : "spotify:artist:0zCGwfjfccjoEE7vorQKy3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1NZ6I91KXlPziKzdBvsNMA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1NZ6I91KXlPziKzdBvsNMA",
+    "id" : "1NZ6I91KXlPziKzdBvsNMA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fe389341e80d0aa5086c61331e24dba01288b404",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0a19f90668f0d4a93e3445822e4b2819ed2a8133",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5e24e78cd2a7f29796a56ad7119e043fb12d9cba",
+      "width" : 64
+    } ],
+    "name" : "Notes And The Like",
+    "type" : "album",
+    "uri" : "spotify:album:1NZ6I91KXlPziKzdBvsNMA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0zCGwfjfccjoEE7vorQKy3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0zCGwfjfccjoEE7vorQKy3",
+    "id" : "0zCGwfjfccjoEE7vorQKy3",
+    "name" : "Ms. John Soda",
+    "type" : "artist",
+    "uri" : "spotify:artist:0zCGwfjfccjoEE7vorQKy3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 267013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX260606406"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/12BJeulO2MDTqEDeLsvt04"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/12BJeulO2MDTqEDeLsvt04",
+  "id" : "12BJeulO2MDTqEDeLsvt04",
+  "name" : "Outlined View",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0337685784e6b2e93f1ddfb4d46c04f1b771d5e0?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:12BJeulO2MDTqEDeLsvt04"
+}

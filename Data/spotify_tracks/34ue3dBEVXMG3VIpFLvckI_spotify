@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nXSnNEdLuKTzAQozRtqiI",
+      "id" : "6nXSnNEdLuKTzAQozRtqiI",
+      "name" : "M. Ward",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nXSnNEdLuKTzAQozRtqiI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4C8AUW89DL5LE5ikBBm4sp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4C8AUW89DL5LE5ikBBm4sp",
+    "id" : "4C8AUW89DL5LE5ikBBm4sp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f286cfe649e2b165a5d9ad1235aaf38cd5228c32",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/618c113afb8f0c1b69ac3b72e134702b6860abe1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2dde044165dc2bc8238a6be953f0ec8eca81dd42",
+      "width" : 64
+    } ],
+    "name" : "Hold Time",
+    "type" : "album",
+    "uri" : "spotify:album:4C8AUW89DL5LE5ikBBm4sp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6nXSnNEdLuKTzAQozRtqiI",
+    "id" : "6nXSnNEdLuKTzAQozRtqiI",
+    "name" : "M. Ward",
+    "type" : "artist",
+    "uri" : "spotify:artist:6nXSnNEdLuKTzAQozRtqiI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 151506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG0932303"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/34ue3dBEVXMG3VIpFLvckI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/34ue3dBEVXMG3VIpFLvckI",
+  "id" : "34ue3dBEVXMG3VIpFLvckI",
+  "name" : "Jailbird",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2910f822d164ced977ee1b41d373bfc6d6ed428c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:34ue3dBEVXMG3VIpFLvckI"
+}

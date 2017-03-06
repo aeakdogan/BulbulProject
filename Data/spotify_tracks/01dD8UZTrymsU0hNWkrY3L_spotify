@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aBEGOeWQCJfptic9xyaAb",
+      "id" : "5aBEGOeWQCJfptic9xyaAb",
+      "name" : "Tones On Tail",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aBEGOeWQCJfptic9xyaAb"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2HLe3MOLEKEhuGIbrGSN3i"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2HLe3MOLEKEhuGIbrGSN3i",
+    "id" : "2HLe3MOLEKEhuGIbrGSN3i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/adab389499b3d4009fb8faeb09bd75408fcfdc07",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a39be53bc2e8eda599fd769752d64b34b86dbf7f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d956f930fe1b9bd7227668b5cf60e73869ebf696",
+      "width" : 64
+    } ],
+    "name" : "Everything!",
+    "type" : "album",
+    "uri" : "spotify:album:2HLe3MOLEKEhuGIbrGSN3i"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5aBEGOeWQCJfptic9xyaAb",
+    "id" : "5aBEGOeWQCJfptic9xyaAb",
+    "name" : "Tones On Tail",
+    "type" : "artist",
+    "uri" : "spotify:artist:5aBEGOeWQCJfptic9xyaAb"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 387106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAZP9800020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/01dD8UZTrymsU0hNWkrY3L"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/01dD8UZTrymsU0hNWkrY3L",
+  "id" : "01dD8UZTrymsU0hNWkrY3L",
+  "name" : "Burning Skies",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1232ecba86fd6d0c797025b9ee3974acda42ab89?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:01dD8UZTrymsU0hNWkrY3L"
+}

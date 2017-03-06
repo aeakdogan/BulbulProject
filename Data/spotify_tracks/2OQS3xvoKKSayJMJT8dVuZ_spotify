@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0WhGV9lzljq2QKJ8ipw6jx",
+      "id" : "0WhGV9lzljq2QKJ8ipw6jx",
+      "name" : "New York Dolls",
+      "type" : "artist",
+      "uri" : "spotify:artist:0WhGV9lzljq2QKJ8ipw6jx"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2xbTV0Awe4Qm5caUVuPbMr",
+    "id" : "2xbTV0Awe4Qm5caUVuPbMr",
+    "images" : [ {
+      "height" : 628,
+      "url" : "https://i.scdn.co/image/639892dd926b12a3d0800e68109a6267b9742b5f",
+      "width" : 640
+    }, {
+      "height" : 295,
+      "url" : "https://i.scdn.co/image/70b54d46debfc1d0c0aa25c473c322cd12b3413c",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/284fc9e4dc1c9f2bf2dbd97f3bf23fe1dc050f35",
+      "width" : 64
+    } ],
+    "name" : "New York Dolls",
+    "type" : "album",
+    "uri" : "spotify:album:2xbTV0Awe4Qm5caUVuPbMr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0WhGV9lzljq2QKJ8ipw6jx",
+    "id" : "0WhGV9lzljq2QKJ8ipw6jx",
+    "name" : "New York Dolls",
+    "type" : "artist",
+    "uri" : "spotify:artist:0WhGV9lzljq2QKJ8ipw6jx"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 188306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR37300025"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2OQS3xvoKKSayJMJT8dVuZ",
+  "id" : "2OQS3xvoKKSayJMJT8dVuZ",
+  "name" : "Trash",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/100d33a996feaf7a8f388e08c49f313fee7ec508?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2OQS3xvoKKSayJMJT8dVuZ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2C8mKwk3z5DtqLcSwUdYJ9",
+      "id" : "2C8mKwk3z5DtqLcSwUdYJ9",
+      "name" : "Marc Cohn",
+      "type" : "artist",
+      "uri" : "spotify:artist:2C8mKwk3z5DtqLcSwUdYJ9"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Zndfz8u9OTb8sXDkve96m",
+    "id" : "0Zndfz8u9OTb8sXDkve96m",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f670b7a2646bb868c51457c5d79d61679180c483",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e6e8e2a142c303f4d97aa0047e6c9047a9dd97ae",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c5b3625c7be5996d0eb51633985f5a71750692c6",
+      "width" : 64
+    } ],
+    "name" : "Marc Cohn",
+    "type" : "album",
+    "uri" : "spotify:album:0Zndfz8u9OTb8sXDkve96m"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2C8mKwk3z5DtqLcSwUdYJ9",
+    "id" : "2C8mKwk3z5DtqLcSwUdYJ9",
+    "name" : "Marc Cohn",
+    "type" : "artist",
+    "uri" : "spotify:artist:2C8mKwk3z5DtqLcSwUdYJ9"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 252613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT29900737"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5fgkjhICZnqFctrV0AyuQD",
+  "id" : "5fgkjhICZnqFctrV0AyuQD",
+  "name" : "Walking In Memphis",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dfca660c74d6459a663d3ab173814a3f043669be?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5fgkjhICZnqFctrV0AyuQD"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Djz8cbEv5rtrYrJYdzQ20",
+      "id" : "2Djz8cbEv5rtrYrJYdzQ20",
+      "name" : "Model 500",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Djz8cbEv5rtrYrJYdzQ20"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/45zJTPrgY94R6tF3rjNCYg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/45zJTPrgY94R6tF3rjNCYg",
+    "id" : "45zJTPrgY94R6tF3rjNCYg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a438a212dc42b5745f69a6d48cc5bf3b76102328",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6d22207f4b3058debb15786a7358061d4f67db7a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6d12e17ba78b086f56bcc63bd297dd711ee6fad8",
+      "width" : 64
+    } ],
+    "name" : "Classics",
+    "type" : "album",
+    "uri" : "spotify:album:45zJTPrgY94R6tF3rjNCYg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Djz8cbEv5rtrYrJYdzQ20",
+    "id" : "2Djz8cbEv5rtrYrJYdzQ20",
+    "name" : "Model 500",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Djz8cbEv5rtrYrJYdzQ20"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 367146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEZ350800003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6TlLJid0PddYSTPLX7ILS0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6TlLJid0PddYSTPLX7ILS0",
+  "id" : "6TlLJid0PddYSTPLX7ILS0",
+  "name" : "Off to Battle - Remix",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0f444d48b2dbb5e4a96168a503bd7b39f81332b5?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6TlLJid0PddYSTPLX7ILS0"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0EdvGhlC1FkGItLOWQzG4J",
+      "id" : "0EdvGhlC1FkGItLOWQzG4J",
+      "name" : "Sublime",
+      "type" : "artist",
+      "uri" : "spotify:artist:0EdvGhlC1FkGItLOWQzG4J"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2TsCsy22SvMckza20MwOUr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2TsCsy22SvMckza20MwOUr",
+    "id" : "2TsCsy22SvMckza20MwOUr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a7d9e250da6f06acd7bcc478cbbe463d09fa3957",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/79c90d3a9270089314203ac03071110373e0d5c9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bc4ff772a7bebe18040d644ec83b5e1b4d130278",
+      "width" : 64
+    } ],
+    "name" : "Gold",
+    "type" : "album",
+    "uri" : "spotify:album:2TsCsy22SvMckza20MwOUr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0EdvGhlC1FkGItLOWQzG4J",
+    "id" : "0EdvGhlC1FkGItLOWQzG4J",
+    "name" : "Sublime",
+    "type" : "artist",
+    "uri" : "spotify:artist:0EdvGhlC1FkGItLOWQzG4J"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 130226,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USGA19649254"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2SpcrfTPAh9EUyEKH0oeb7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2SpcrfTPAh9EUyEKH0oeb7",
+  "id" : "2SpcrfTPAh9EUyEKH0oeb7",
+  "name" : "Seed",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/53267e4bcde2d50d167018a5be937b158e3b74d6?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:2SpcrfTPAh9EUyEKH0oeb7"
+}

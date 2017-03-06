@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb",
+      "id" : "0cmWgDlu9CwTgxPhf403hb",
+      "name" : "Bonobo",
+      "type" : "artist",
+      "uri" : "spotify:artist:0cmWgDlu9CwTgxPhf403hb"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6TaDSeHRXqw06H2PlYsD5K",
+    "id" : "6TaDSeHRXqw06H2PlYsD5K",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5863a58b5c1531f8b6f15a26715602ec8bf656ed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b7e4a4842d56e73039186fe63bb93008f8fa9906",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a7d3c34f54d2ff31ea0a757570ea09efd5612007",
+      "width" : 64
+    } ],
+    "name" : "Dial 'M' for Monkey",
+    "type" : "album",
+    "uri" : "spotify:album:6TaDSeHRXqw06H2PlYsD5K"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb",
+    "id" : "0cmWgDlu9CwTgxPhf403hb",
+    "name" : "Bonobo",
+    "type" : "artist",
+    "uri" : "spotify:artist:0cmWgDlu9CwTgxPhf403hb"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 322373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCFB0300060"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1sVPnm3MQqQGaCUH1OO8NV",
+  "id" : "1sVPnm3MQqQGaCUH1OO8NV",
+  "name" : "Noctuary",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7977e4cb922d901c87708a9fdb4c33860fb19ba8?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1sVPnm3MQqQGaCUH1OO8NV"
+}

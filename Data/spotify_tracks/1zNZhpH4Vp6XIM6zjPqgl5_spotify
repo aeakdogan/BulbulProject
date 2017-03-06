@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22TEmHXBBLjTec2LOAuMdS",
+      "id" : "22TEmHXBBLjTec2LOAuMdS",
+      "name" : "L.A. Guns",
+      "type" : "artist",
+      "uri" : "spotify:artist:22TEmHXBBLjTec2LOAuMdS"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7qxMyKTvm9UtiypH7t8pqz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7qxMyKTvm9UtiypH7t8pqz",
+    "id" : "7qxMyKTvm9UtiypH7t8pqz",
+    "images" : [ {
+      "height" : 632,
+      "url" : "https://i.scdn.co/image/02bc600bf5ed1f81067088ce610f35c9aaff52c6",
+      "width" : 640
+    }, {
+      "height" : 296,
+      "url" : "https://i.scdn.co/image/155828c5dbd5fa84ae56a9614f4570b5b015c302",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/469eed3504645f6c78b7c67151fa5b3f22c56552",
+      "width" : 64
+    } ],
+    "name" : "L.A. Guns",
+    "type" : "album",
+    "uri" : "spotify:album:7qxMyKTvm9UtiypH7t8pqz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/22TEmHXBBLjTec2LOAuMdS",
+    "id" : "22TEmHXBBLjTec2LOAuMdS",
+    "name" : "L.A. Guns",
+    "type" : "artist",
+    "uri" : "spotify:artist:22TEmHXBBLjTec2LOAuMdS"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 187066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUR10110879"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1zNZhpH4Vp6XIM6zjPqgl5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1zNZhpH4Vp6XIM6zjPqgl5",
+  "id" : "1zNZhpH4Vp6XIM6zjPqgl5",
+  "name" : "One More Reason",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c48b1a299fb943229b3f48dd71d1aa31d325f3f1?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1zNZhpH4Vp6XIM6zjPqgl5"
+}

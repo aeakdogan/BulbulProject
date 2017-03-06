@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+      "id" : "6PAt558ZEZl0DmdXlnjMgD",
+      "name" : "Eric Clapton",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/408nODJ1r3nO7f3qWkCrCB",
+    "id" : "408nODJ1r3nO7f3qWkCrCB",
+    "images" : [ {
+      "height" : 578,
+      "url" : "https://i.scdn.co/image/c6468b46e6eec35f374ed5d119af8e3c52514a10",
+      "width" : 640
+    }, {
+      "height" : 271,
+      "url" : "https://i.scdn.co/image/efeeeb64038f1c54a06834d2095ff5cfa865cf82",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/0d238f54b2fb6b596dea4eb9b8e514f945fdb647",
+      "width" : 64
+    } ],
+    "name" : "461 Ocean Blvd. (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:408nODJ1r3nO7f3qWkCrCB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+    "id" : "6PAt558ZEZl0DmdXlnjMgD",
+    "name" : "Eric Clapton",
+    "type" : "artist",
+    "uri" : "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 298280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLF057490011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2sXBdtNvV7fn1wbTzFrKrf",
+  "id" : "2sXBdtNvV7fn1wbTzFrKrf",
+  "name" : "Let It Grow",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8b3d53ff71b233b6bb975a91dc8e768194e697f6?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2sXBdtNvV7fn1wbTzFrKrf"
+}

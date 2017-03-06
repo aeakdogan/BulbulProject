@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id" : "7bu3H8JO7d0UbMoVzbo70s",
+      "name" : "The Cure",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5swgMRfWHhnsES6D65MyN1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5swgMRfWHhnsES6D65MyN1",
+    "id" : "5swgMRfWHhnsES6D65MyN1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/75d5dcca1305899f500f8d8796511f291a36fc59",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d2d60089c6c304d5402ca23e77d9d9985b57387c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e93c3d109b2a0b1d4898cf6273440bf3476f4b46",
+      "width" : 64
+    } ],
+    "name" : "Bloodflowers",
+    "type" : "album",
+    "uri" : "spotify:album:5swgMRfWHhnsES6D65MyN1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+    "id" : "7bu3H8JO7d0UbMoVzbo70s",
+    "name" : "The Cure",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 672293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE19900936"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3YtOBhaLD1iKS7EElRwNYV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3YtOBhaLD1iKS7EElRwNYV",
+  "id" : "3YtOBhaLD1iKS7EElRwNYV",
+  "name" : "Watching Me Fall",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dc359f35ad2fa063b23fe1a8315a6e1259855474?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3YtOBhaLD1iKS7EElRwNYV"
+}

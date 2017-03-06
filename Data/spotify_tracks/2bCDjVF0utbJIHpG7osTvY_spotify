@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/53f2OKMfVLTsHFkGyA5dnz",
+      "id" : "53f2OKMfVLTsHFkGyA5dnz",
+      "name" : "Lisa Mitchell",
+      "type" : "artist",
+      "uri" : "spotify:artist:53f2OKMfVLTsHFkGyA5dnz"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/68sDD2SfT1Mgy6qKL09XM4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/68sDD2SfT1Mgy6qKL09XM4",
+    "id" : "68sDD2SfT1Mgy6qKL09XM4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aa824fa87439471fa5e2a0c969299a25f15b0a4f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/586fdfd41551c3bdb3fa9f2e06da6b7df8c31543",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/074626d442e31a37ddb5e7c52632eaa440d376b0",
+      "width" : 64
+    } ],
+    "name" : "Neopolitan Dreams",
+    "type" : "album",
+    "uri" : "spotify:album:68sDD2SfT1Mgy6qKL09XM4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/53f2OKMfVLTsHFkGyA5dnz",
+    "id" : "53f2OKMfVLTsHFkGyA5dnz",
+    "name" : "Lisa Mitchell",
+    "type" : "artist",
+    "uri" : "spotify:artist:53f2OKMfVLTsHFkGyA5dnz"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 182893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBHKB0800033"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2bCDjVF0utbJIHpG7osTvY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2bCDjVF0utbJIHpG7osTvY",
+  "id" : "2bCDjVF0utbJIHpG7osTvY",
+  "name" : "Neopolitan Dreams",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c539ef9cd6c6a68f9c48f4d15ea7d08bd1829b14?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2bCDjVF0utbJIHpG7osTvY"
+}

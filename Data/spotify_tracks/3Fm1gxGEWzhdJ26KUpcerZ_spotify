@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Tz1kM5vFyBpzD22fHW609"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Tz1kM5vFyBpzD22fHW609",
+      "id" : "1Tz1kM5vFyBpzD22fHW609",
+      "name" : "Flunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Tz1kM5vFyBpzD22fHW609"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/62jSZQJltgq2qmenbCs15M"
+    },
+    "href" : "https://api.spotify.com/v1/albums/62jSZQJltgq2qmenbCs15M",
+    "id" : "62jSZQJltgq2qmenbCs15M",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/9b4de5ba0560a8e1cb334bb4fa170af83278e2d2",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/94f54ae97c436a028505e07583c802b2259335a6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/382822ad2e76f28bd87a52bc84c614f21f21a096",
+      "width" : 64
+    } ],
+    "name" : "Morning Star",
+    "type" : "album",
+    "uri" : "spotify:album:62jSZQJltgq2qmenbCs15M"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Tz1kM5vFyBpzD22fHW609"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Tz1kM5vFyBpzD22fHW609",
+    "id" : "1Tz1kM5vFyBpzD22fHW609",
+    "name" : "Flunk",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Tz1kM5vFyBpzD22fHW609"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 278961,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOMEA0404040"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Fm1gxGEWzhdJ26KUpcerZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Fm1gxGEWzhdJ26KUpcerZ",
+  "id" : "3Fm1gxGEWzhdJ26KUpcerZ",
+  "name" : "Six Seven Times",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/73bf35306be0d39e2864ec4d6254daeebe3f1d77?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3Fm1gxGEWzhdJ26KUpcerZ"
+}

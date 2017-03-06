@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz",
+      "id" : "7mnBLXK823vNxN3UWB7Gfz",
+      "name" : "The Black Keys",
+      "type" : "artist",
+      "uri" : "spotify:artist:7mnBLXK823vNxN3UWB7Gfz"
+    } ],
+    "available_markets" : [ "AD", "AR", "BE", "BO", "BR", "CL", "CO", "CR", "CY", "DK", "DO", "EC", "ES", "FI", "GR", "GT", "HN", "IS", "IT", "JP", "LU", "MC", "MT", "NI", "NL", "NO", "NZ", "PA", "PE", "PT", "PY", "SE", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4wLY5WOlblr9hgTSNQuf5M"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4wLY5WOlblr9hgTSNQuf5M",
+    "id" : "4wLY5WOlblr9hgTSNQuf5M",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a62402bed2a8a8c4ef160d0104c4e0ffaca283e0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/12729892ab6634f792dc9c920257cefa1244611b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6090ce371bf4e1b0773bcd1cbae7d52780762c3c",
+      "width" : 64
+    } ],
+    "name" : "Gold On The Ceiling",
+    "type" : "album",
+    "uri" : "spotify:album:4wLY5WOlblr9hgTSNQuf5M"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz",
+    "id" : "7mnBLXK823vNxN3UWB7Gfz",
+    "name" : "The Black Keys",
+    "type" : "artist",
+    "uri" : "spotify:artist:7mnBLXK823vNxN3UWB7Gfz"
+  } ],
+  "available_markets" : [ "AD", "AR", "BE", "BO", "BR", "CL", "CO", "CR", "CY", "DK", "DO", "EC", "ES", "FI", "GR", "GT", "HN", "IS", "IT", "JP", "LU", "MC", "MT", "NI", "NL", "NO", "NZ", "PA", "PE", "PT", "PY", "SE", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 224333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO11100275"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/46iI0binWzpkEJgIWTYUBR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/46iI0binWzpkEJgIWTYUBR",
+  "id" : "46iI0binWzpkEJgIWTYUBR",
+  "name" : "Gold On The Ceiling",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ff2b18fdee4aa8f3945a03b6adcb2b67e04b9448?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:46iI0binWzpkEJgIWTYUBR"
+}

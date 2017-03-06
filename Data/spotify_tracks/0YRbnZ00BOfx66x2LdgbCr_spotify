@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/65ltPnFGbTfv1sFjVOZBMM",
+      "id" : "65ltPnFGbTfv1sFjVOZBMM",
+      "name" : "Moddi",
+      "type" : "artist",
+      "uri" : "spotify:artist:65ltPnFGbTfv1sFjVOZBMM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5dk1GQsMyNY6CCXsljuMeE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5dk1GQsMyNY6CCXsljuMeE",
+    "id" : "5dk1GQsMyNY6CCXsljuMeE",
+    "images" : [ {
+      "height" : 575,
+      "url" : "https://i.scdn.co/image/d1f820d89bd7eaf3dae32052f7a63fb1bd3fb83e",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/56c412ca3c5131015083169ebcfc9fbb7efec45f",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/0067859e9bed79a3f029296ace337e5ccfedf4a6",
+      "width" : 64
+    } ],
+    "name" : "Floriography",
+    "type" : "album",
+    "uri" : "spotify:album:5dk1GQsMyNY6CCXsljuMeE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/65ltPnFGbTfv1sFjVOZBMM",
+    "id" : "65ltPnFGbTfv1sFjVOZBMM",
+    "name" : "Moddi",
+    "type" : "artist",
+    "uri" : "spotify:artist:65ltPnFGbTfv1sFjVOZBMM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 312666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOIMR1001050"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0YRbnZ00BOfx66x2LdgbCr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0YRbnZ00BOfx66x2LdgbCr",
+  "id" : "0YRbnZ00BOfx66x2LdgbCr",
+  "name" : "Smoke",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a7211acb6051b8e2e9262f43af79f7af6aceca87?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0YRbnZ00BOfx66x2LdgbCr"
+}

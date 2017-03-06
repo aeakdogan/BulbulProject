@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0zOcE3mg9nS6l3yxt1Y0bK",
+      "id" : "0zOcE3mg9nS6l3yxt1Y0bK",
+      "name" : "The Fray",
+      "type" : "artist",
+      "uri" : "spotify:artist:0zOcE3mg9nS6l3yxt1Y0bK"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ibdlhMmbFPMYoWvwHCzI3",
+    "id" : "3ibdlhMmbFPMYoWvwHCzI3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3d8d8483a1d3477b8422c15b4fbad328364a25f4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1f5e9c2262c2d31b50d2d2cd8ae87308cf060e03",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6f6e223e896f68b2df38d356a06832cc54d80fe4",
+      "width" : 64
+    } ],
+    "name" : "The Fray",
+    "type" : "album",
+    "uri" : "spotify:album:3ibdlhMmbFPMYoWvwHCzI3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0zOcE3mg9nS6l3yxt1Y0bK",
+    "id" : "0zOcE3mg9nS6l3yxt1Y0bK",
+    "name" : "The Fray",
+    "type" : "artist",
+    "uri" : "spotify:artist:0zOcE3mg9nS6l3yxt1Y0bK"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 241853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10803009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4IoYz8XqqdowINzfRrFnhi",
+  "id" : "4IoYz8XqqdowINzfRrFnhi",
+  "name" : "You Found Me",
+  "popularity" : 70,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4d14eda64e96e13b4911ed8fe8a7f6610a8449ab?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4IoYz8XqqdowINzfRrFnhi"
+}

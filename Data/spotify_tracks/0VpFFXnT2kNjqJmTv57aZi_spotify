@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+      "id" : "4gzpq5DPGxSnKTe4SA8HAU",
+      "name" : "Coldplay",
+      "type" : "artist",
+      "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+    } ],
+    "available_markets" : [ "CA", "ES", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4XTT0NcNHyvl6h9JX2AfEi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4XTT0NcNHyvl6h9JX2AfEi",
+    "id" : "4XTT0NcNHyvl6h9JX2AfEi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/009aa1548af52b1d834648c6452f3804f086fead",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a9e3493350233c5ee3f290b98d77664e83377982",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7759ebd402ccb7ceec6618f5f0ab708359432f01",
+      "width" : 64
+    } ],
+    "name" : "Viva La Vida - Prospekt's March Edition",
+    "type" : "album",
+    "uri" : "spotify:album:4XTT0NcNHyvl6h9JX2AfEi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+    "id" : "4gzpq5DPGxSnKTe4SA8HAU",
+    "name" : "Coldplay",
+    "type" : "artist",
+    "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+  } ],
+  "available_markets" : [ "CA", "ES", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 245099,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE0801695"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0VpFFXnT2kNjqJmTv57aZi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0VpFFXnT2kNjqJmTv57aZi",
+  "id" : "0VpFFXnT2kNjqJmTv57aZi",
+  "name" : "Life In Technicolor ii",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/126811db37893014f0a6f20c42f966042b8fa524?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0VpFFXnT2kNjqJmTv57aZi"
+}

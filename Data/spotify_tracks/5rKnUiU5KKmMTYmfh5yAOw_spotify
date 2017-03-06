@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5isqImG0rLfAgBJSPMEVXF",
+      "id" : "5isqImG0rLfAgBJSPMEVXF",
+      "name" : "Blonde Redhead",
+      "type" : "artist",
+      "uri" : "spotify:artist:5isqImG0rLfAgBJSPMEVXF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/555RfuWH0mvDtgx2OrKJ4P"
+    },
+    "href" : "https://api.spotify.com/v1/albums/555RfuWH0mvDtgx2OrKJ4P",
+    "id" : "555RfuWH0mvDtgx2OrKJ4P",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f32a19b25686acf5fbfefc1d00db223435d0215f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/24b4f80a3761678e8fb993ebb0b69319262bbeeb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3b786765de9dd6d170b53f05b8a9efc2f02b738c",
+      "width" : 64
+    } ],
+    "name" : "Mélodie Citronique",
+    "type" : "album",
+    "uri" : "spotify:album:555RfuWH0mvDtgx2OrKJ4P"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5isqImG0rLfAgBJSPMEVXF",
+    "id" : "5isqImG0rLfAgBJSPMEVXF",
+    "name" : "Blonde Redhead",
+    "type" : "artist",
+    "uri" : "spotify:artist:5isqImG0rLfAgBJSPMEVXF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 311240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTG30021905"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5rKnUiU5KKmMTYmfh5yAOw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5rKnUiU5KKmMTYmfh5yAOw",
+  "id" : "5rKnUiU5KKmMTYmfh5yAOw",
+  "name" : "Four Damaged Lemons",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/de634f61fd73850e45b173465b0fac34eb3d5f2f?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5rKnUiU5KKmMTYmfh5yAOw"
+}

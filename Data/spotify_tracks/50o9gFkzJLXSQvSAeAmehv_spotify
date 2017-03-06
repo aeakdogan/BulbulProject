@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+      "id" : "4F84IBURUo98rz4r61KF70",
+      "name" : "The White Stripes",
+      "type" : "artist",
+      "uri" : "spotify:artist:4F84IBURUo98rz4r61KF70"
+    } ],
+    "available_markets" : [ "CA", "JP", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0LicnijsvZ3Q7OCU0g9U8Z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0LicnijsvZ3Q7OCU0g9U8Z",
+    "id" : "0LicnijsvZ3Q7OCU0g9U8Z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b8e373d85224dedbccd36fd124d25bc7174c85f5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c26a3aca527e7a8068998e6c6f0452494cd8c1f3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c72c5937d552467d1e020727b2d585b8d5302648",
+      "width" : 64
+    } ],
+    "name" : "White Blood Cells",
+    "type" : "album",
+    "uri" : "spotify:album:0LicnijsvZ3Q7OCU0g9U8Z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+    "id" : "4F84IBURUo98rz4r61KF70",
+    "name" : "The White Stripes",
+    "type" : "artist",
+    "uri" : "spotify:artist:4F84IBURUo98rz4r61KF70"
+  } ],
+  "available_markets" : [ "CA", "JP", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 124533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0100359"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/50o9gFkzJLXSQvSAeAmehv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/50o9gFkzJLXSQvSAeAmehv",
+  "id" : "50o9gFkzJLXSQvSAeAmehv",
+  "name" : "I Think I Smell A Rat",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f1b4a6e860d992c7a527292c43c0d634962bfeaa?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:50o9gFkzJLXSQvSAeAmehv"
+}

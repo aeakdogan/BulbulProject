@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+      "id" : "5Mq7iqCWBzofK39FBqblNc",
+      "name" : "Jessie Ware",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1T5wmjLCBuuTKTpKsiAn7R"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1T5wmjLCBuuTKTpKsiAn7R",
+    "id" : "1T5wmjLCBuuTKTpKsiAn7R",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/787e5030d035a7aa4221405602845d540e279a4b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a2c85841ac2af17d563107f419b96c0c4ddeb5d0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/be36bdcd64bd2710106c3225a1125ac3e1b7f218",
+      "width" : 64
+    } ],
+    "name" : "Devotion",
+    "type" : "album",
+    "uri" : "spotify:album:1T5wmjLCBuuTKTpKsiAn7R"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+    "id" : "5Mq7iqCWBzofK39FBqblNc",
+    "name" : "Jessie Ware",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 204466,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71203400"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1hvq121KNtvohsdY0svnDi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1hvq121KNtvohsdY0svnDi",
+  "id" : "1hvq121KNtvohsdY0svnDi",
+  "name" : "Devotion",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fdd23ea1ccdce9da342c1eff96ac6f99a8425cf1?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1hvq121KNtvohsdY0svnDi"
+}

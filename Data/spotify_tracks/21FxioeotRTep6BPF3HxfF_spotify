@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4uuUGaQKEYJW2b78K0HD6X"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4uuUGaQKEYJW2b78K0HD6X",
+      "id" : "4uuUGaQKEYJW2b78K0HD6X",
+      "name" : "Divine Fits",
+      "type" : "artist",
+      "uri" : "spotify:artist:4uuUGaQKEYJW2b78K0HD6X"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6g8Lynv75UwyJuEMSyiORS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6g8Lynv75UwyJuEMSyiORS",
+    "id" : "6g8Lynv75UwyJuEMSyiORS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f95d1d4b29c56ad20fb9c712e3183ca1c2500faa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a3058aec7a73cf7efef56b0ede636af05d51a2ca",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/81c891a134c80a62b79efa127df69f151ecc17de",
+      "width" : 64
+    } ],
+    "name" : "A Thing Called Divine Fits",
+    "type" : "album",
+    "uri" : "spotify:album:6g8Lynv75UwyJuEMSyiORS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4uuUGaQKEYJW2b78K0HD6X"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4uuUGaQKEYJW2b78K0HD6X",
+    "id" : "4uuUGaQKEYJW2b78K0HD6X",
+    "name" : "Divine Fits",
+    "type" : "artist",
+    "uri" : "spotify:artist:4uuUGaQKEYJW2b78K0HD6X"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 255158,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG1245506"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/21FxioeotRTep6BPF3HxfF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/21FxioeotRTep6BPF3HxfF",
+  "id" : "21FxioeotRTep6BPF3HxfF",
+  "name" : "Baby Get Worse",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/799dd7bd8da48d343fd5598d7a181f86da388653?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:21FxioeotRTep6BPF3HxfF"
+}

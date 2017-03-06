@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4bJ0bvf5rdCs7WxoefG49S"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4bJ0bvf5rdCs7WxoefG49S",
+    "id" : "4bJ0bvf5rdCs7WxoefG49S",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5fb74489626f7b1df76f583f0bcf1de3d2faf60e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b42ed1266351da561b69058a848ba9eb2070c65b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a3ab1bf57aaf4ce6a11e4ca84ca47e740297d265",
+      "width" : 64
+    } ],
+    "name" : "Queer As Folk",
+    "type" : "album",
+    "uri" : "spotify:album:4bJ0bvf5rdCs7WxoefG49S"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5HnkAAaf0MCIxMWzsJNrdg",
+    "id" : "5HnkAAaf0MCIxMWzsJNrdg",
+    "name" : "Alcazar",
+    "type" : "artist",
+    "uri" : "spotify:artist:5HnkAAaf0MCIxMWzsJNrdg"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 230626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEBMA0065010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6GOb5OnmhfPpCfs2p38l36"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6GOb5OnmhfPpCfs2p38l36",
+  "id" : "6GOb5OnmhfPpCfs2p38l36",
+  "name" : "Crying at the Discoteque - Radio Edit",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/52ebedc6649756eebbd5cb58154ab0dba9f380ec?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6GOb5OnmhfPpCfs2p38l36"
+}

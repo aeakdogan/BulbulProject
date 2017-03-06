@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+      "id" : "6hhA8TKRNryM8FNzqCqdDO",
+      "name" : "Tricky",
+      "type" : "artist",
+      "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0eCeiO4MHW0YMRbT7t7xjE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0eCeiO4MHW0YMRbT7t7xjE",
+    "id" : "0eCeiO4MHW0YMRbT7t7xjE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3a6e0eef32c8dff6599193bd7973555b0ec45871",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8c7be8c85627fb5f413e76084995b4eb1c00594b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/48cb3f1e19106703c515c02afaeab62db1bfe8bf",
+      "width" : 64
+    } ],
+    "name" : "False Idols",
+    "type" : "album",
+    "uri" : "spotify:album:0eCeiO4MHW0YMRbT7t7xjE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+    "id" : "6hhA8TKRNryM8FNzqCqdDO",
+    "name" : "Tricky",
+    "type" : "artist",
+    "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 191072,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEG931300381"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1l5NHiaB7lSzECa7oiomli"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1l5NHiaB7lSzECa7oiomli",
+  "id" : "1l5NHiaB7lSzECa7oiomli",
+  "name" : "We Don't Die",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e0cfd54c21976620cd56b0cb6f3681fb50c561c3?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1l5NHiaB7lSzECa7oiomli"
+}

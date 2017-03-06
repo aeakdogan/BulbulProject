@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2u7xZP39dtED9EuRX9MUwu",
+      "id" : "2u7xZP39dtED9EuRX9MUwu",
+      "name" : "Orange Juice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2u7xZP39dtED9EuRX9MUwu"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1n0oDCjZDLsfZECPWab2MJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1n0oDCjZDLsfZECPWab2MJ",
+    "id" : "1n0oDCjZDLsfZECPWab2MJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cd5e76af9caca3ef54fcf220c509ad1140d2de3f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c30f93fc03ff0f12a99368eba5f403acc349810d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/760b27206125bba505c2a36ed032e950f2b4a9c3",
+      "width" : 64
+    } ],
+    "name" : "You Can't Hide Your Love Forever",
+    "type" : "album",
+    "uri" : "spotify:album:1n0oDCjZDLsfZECPWab2MJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2u7xZP39dtED9EuRX9MUwu",
+    "id" : "2u7xZP39dtED9EuRX9MUwu",
+    "name" : "Orange Juice",
+    "type" : "artist",
+    "uri" : "spotify:artist:2u7xZP39dtED9EuRX9MUwu"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 231493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1000557"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6BW9mZvDAa2soDI446Kgnl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6BW9mZvDAa2soDI446Kgnl",
+  "id" : "6BW9mZvDAa2soDI446Kgnl",
+  "name" : "Falling And Laughing",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a9eca80ae12fead82a7e4516cae6b22941d256ff?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6BW9mZvDAa2soDI446Kgnl"
+}

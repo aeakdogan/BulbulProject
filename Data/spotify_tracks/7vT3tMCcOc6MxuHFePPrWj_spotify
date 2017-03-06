@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50sSN9E5i4DJzYDclAXlSo",
+      "id" : "50sSN9E5i4DJzYDclAXlSo",
+      "name" : "Anna Calvi",
+      "type" : "artist",
+      "uri" : "spotify:artist:50sSN9E5i4DJzYDclAXlSo"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5p4gVGqPLeRidI5WprOExJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5p4gVGqPLeRidI5WprOExJ",
+    "id" : "5p4gVGqPLeRidI5WprOExJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0809c15e23fe04551faccc07338a1c93ff9e93ba",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ef09fd9660774b9eadcdc1453fb1583bdbdf2a82",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a2a9b49ef17dc8f7c0f4ef96f22503be7a96b5f9",
+      "width" : 64
+    } ],
+    "name" : "Anna Calvi",
+    "type" : "album",
+    "uri" : "spotify:album:5p4gVGqPLeRidI5WprOExJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/50sSN9E5i4DJzYDclAXlSo",
+    "id" : "50sSN9E5i4DJzYDclAXlSo",
+    "name" : "Anna Calvi",
+    "type" : "artist",
+    "uri" : "spotify:artist:50sSN9E5i4DJzYDclAXlSo"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 185520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1000770"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7vT3tMCcOc6MxuHFePPrWj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7vT3tMCcOc6MxuHFePPrWj",
+  "id" : "7vT3tMCcOc6MxuHFePPrWj",
+  "name" : "First We Kiss",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1ca848d8e70d9c7284bcb8b56d6f30cc9f5a6bd3?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7vT3tMCcOc6MxuHFePPrWj"
+}

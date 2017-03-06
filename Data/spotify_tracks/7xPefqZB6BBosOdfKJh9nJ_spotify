@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3huVQoEWdqUTvlYpFVUHcF",
+      "id" : "3huVQoEWdqUTvlYpFVUHcF",
+      "name" : "Original Soundtrack",
+      "type" : "artist",
+      "uri" : "spotify:artist:3huVQoEWdqUTvlYpFVUHcF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Su23YyUD0OyafVwOP22HP",
+    "id" : "0Su23YyUD0OyafVwOP22HP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/90577a4014a7e97a2e1f2084d8c331797959aad7",
+      "width" : 636
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1e2bc6de3bdfc84d7546152b03d5e60f2c880202",
+      "width" : 298
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e252c3c0eab63a8d9a189ed641374ce69a8417f5",
+      "width" : 64
+    } ],
+    "name" : "Taxi Driver",
+    "type" : "album",
+    "uri" : "spotify:album:0Su23YyUD0OyafVwOP22HP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5bUj39bg0zEbRzjUEISMG9",
+    "id" : "5bUj39bg0zEbRzjUEISMG9",
+    "name" : "Bernard Herrmann",
+    "type" : "artist",
+    "uri" : "spotify:artist:5bUj39bg0zEbRzjUEISMG9"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 134493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR17600242"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7xPefqZB6BBosOdfKJh9nJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7xPefqZB6BBosOdfKJh9nJ",
+  "id" : "7xPefqZB6BBosOdfKJh9nJ",
+  "name" : "Main Title - Taxi Driver",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8cff4d45fe7918934e39d3f93affa910c9ad5f05?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7xPefqZB6BBosOdfKJh9nJ"
+}

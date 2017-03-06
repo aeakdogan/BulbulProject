@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1VaIDrxow5xfLmB9R26JVZ",
+      "id" : "1VaIDrxow5xfLmB9R26JVZ",
+      "name" : "Danger Danger",
+      "type" : "artist",
+      "uri" : "spotify:artist:1VaIDrxow5xfLmB9R26JVZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7303vkWAqj5C0EYEdjUTGB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7303vkWAqj5C0EYEdjUTGB",
+    "id" : "7303vkWAqj5C0EYEdjUTGB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0a1e5aaae9eb7893110bee6f2ab8dba88f861c9f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bd591209f82d7300fd68317951113fd1a226dd17",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b38d67825d5a12bc3b291d20a4ecb96b653fa01b",
+      "width" : 64
+    } ],
+    "name" : "Screw It!",
+    "type" : "album",
+    "uri" : "spotify:album:7303vkWAqj5C0EYEdjUTGB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1VaIDrxow5xfLmB9R26JVZ",
+    "id" : "1VaIDrxow5xfLmB9R26JVZ",
+    "name" : "Danger Danger",
+    "type" : "artist",
+    "uri" : "spotify:artist:1VaIDrxow5xfLmB9R26JVZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 202973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABR1369857"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Hs1jgXbN8V7uBPy5BDXvA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Hs1jgXbN8V7uBPy5BDXvA",
+  "id" : "5Hs1jgXbN8V7uBPy5BDXvA",
+  "name" : "Horny S.O.B.",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2217d88e2c18043a209d98fcd22da7e574ced6e2?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:5Hs1jgXbN8V7uBPy5BDXvA"
+}

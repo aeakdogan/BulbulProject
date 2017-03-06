@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4a16JEaHldo5vZuRojtGTZ",
+      "id" : "4a16JEaHldo5vZuRojtGTZ",
+      "name" : "Charles Trenet",
+      "type" : "artist",
+      "uri" : "spotify:artist:4a16JEaHldo5vZuRojtGTZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4WDKGsDi7616S6Egs0quLq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4WDKGsDi7616S6Egs0quLq",
+    "id" : "4WDKGsDi7616S6Egs0quLq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4a36d23930194d6c59192ce97fbaccf08e19a036",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6a75b34771b54d0caa85d9dfb59d29d716d1aa2c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a39ae12b59532a3443f4aca56983189fee7553ea",
+      "width" : 64
+    } ],
+    "name" : "Platinum",
+    "type" : "album",
+    "uri" : "spotify:album:4WDKGsDi7616S6Egs0quLq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4a16JEaHldo5vZuRojtGTZ",
+    "id" : "4a16JEaHldo5vZuRojtGTZ",
+    "name" : "Charles Trenet",
+    "type" : "artist",
+    "uri" : "spotify:artist:4a16JEaHldo5vZuRojtGTZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 156866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ116000080"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4vgxVHNQMbbeVsWTu9Pg6t"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4vgxVHNQMbbeVsWTu9Pg6t",
+  "id" : "4vgxVHNQMbbeVsWTu9Pg6t",
+  "name" : "Fleur bleue",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/40dd6d32c90e64a4354d126a93aebe54d22851a0?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4vgxVHNQMbbeVsWTu9Pg6t"
+}

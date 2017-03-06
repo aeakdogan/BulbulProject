@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0EgHhNmWcjusA7F2heSD0O",
+      "id" : "0EgHhNmWcjusA7F2heSD0O",
+      "name" : "Baxter Dury",
+      "type" : "artist",
+      "uri" : "spotify:artist:0EgHhNmWcjusA7F2heSD0O"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/15CaPbM15nfoCTiDzu1hH3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/15CaPbM15nfoCTiDzu1hH3",
+    "id" : "15CaPbM15nfoCTiDzu1hH3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/59024a22aa52afc5422c1c8862b9f0d18bf43cc1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/79d9c672b0e527e78aa3ecd94fbd33803bd22b8d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a466fad3c422c75343488378d03e3a1ac67ec89f",
+      "width" : 64
+    } ],
+    "name" : "It's a Pleasure",
+    "type" : "album",
+    "uri" : "spotify:album:15CaPbM15nfoCTiDzu1hH3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0EgHhNmWcjusA7F2heSD0O",
+    "id" : "0EgHhNmWcjusA7F2heSD0O",
+    "name" : "Baxter Dury",
+    "type" : "artist",
+    "uri" : "spotify:artist:0EgHhNmWcjusA7F2heSD0O"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 260844,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRX851400428"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2hgubDkCN1x4IXUpEFe3Z2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2hgubDkCN1x4IXUpEFe3Z2",
+  "id" : "2hgubDkCN1x4IXUpEFe3Z2",
+  "name" : "Palm Trees",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/12c667891db3745f5fe16f4a5e287775564d687f?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2hgubDkCN1x4IXUpEFe3Z2"
+}

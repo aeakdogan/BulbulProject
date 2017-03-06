@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sp0EZC05wbJUlY1h8oOUc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6sp0EZC05wbJUlY1h8oOUc",
+      "id" : "6sp0EZC05wbJUlY1h8oOUc",
+      "name" : "The Lost Fingers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6sp0EZC05wbJUlY1h8oOUc"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/589RyveG7xpvi3FQlLlyGj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/589RyveG7xpvi3FQlLlyGj",
+    "id" : "589RyveG7xpvi3FQlLlyGj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5905c3deaa300966e4feb18ce418c295637e8048",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b30c3f82e29f1dc21cd93fcf0ddab47bfa2053af",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d3403a923ae743a4301db7cf66e3e8e48bca5434",
+      "width" : 64
+    } ],
+    "name" : "Wonders of the World",
+    "type" : "album",
+    "uri" : "spotify:album:589RyveG7xpvi3FQlLlyGj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6sp0EZC05wbJUlY1h8oOUc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6sp0EZC05wbJUlY1h8oOUc",
+    "id" : "6sp0EZC05wbJUlY1h8oOUc",
+    "name" : "The Lost Fingers",
+    "type" : "artist",
+    "uri" : "spotify:artist:6sp0EZC05wbJUlY1h8oOUc"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 185226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAD941488310"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6PRHSwTgUTXzr3EerULlMv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6PRHSwTgUTXzr3EerULlMv",
+  "id" : "6PRHSwTgUTXzr3EerULlMv",
+  "name" : "Break My Stride",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d271921191bd8bb5a5cca045e8538c6bad182e01?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:6PRHSwTgUTXzr3EerULlMv"
+}

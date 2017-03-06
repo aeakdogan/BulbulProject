@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi",
+      "id" : "3inCNiUr4R6XQ3W43s9Aqi",
+      "name" : "Pavement",
+      "type" : "artist",
+      "uri" : "spotify:artist:3inCNiUr4R6XQ3W43s9Aqi"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3EdtFWfLmkT5mC1QFXgqIW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3EdtFWfLmkT5mC1QFXgqIW",
+    "id" : "3EdtFWfLmkT5mC1QFXgqIW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/48cd4f163846dce22639af492b10328fffe2ca78",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/77266524fe4fee6d4f69d19c43c74f3b499610a4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/14eb9d2720d603b20c951a512b3c117aa6163bfe",
+      "width" : 64
+    } ],
+    "name" : "Slanted & Enchanted (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:3EdtFWfLmkT5mC1QFXgqIW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi",
+    "id" : "3inCNiUr4R6XQ3W43s9Aqi",
+    "name" : "Pavement",
+    "type" : "artist",
+    "uri" : "spotify:artist:3inCNiUr4R6XQ3W43s9Aqi"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 197493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD0255702"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5U3rofqVuMLqJfvqCMJg7W"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5U3rofqVuMLqJfvqCMJg7W",
+  "id" : "5U3rofqVuMLqJfvqCMJg7W",
+  "name" : "Trigger Cut/Wounded-Kite At :17",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/eb5d6afe1990a3fd3fb467ebfc1c5a9fe4936ab3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5U3rofqVuMLqJfvqCMJg7W"
+}

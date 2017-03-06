@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7HqrSDuI9lHuH1CDismTFg",
+      "id" : "7HqrSDuI9lHuH1CDismTFg",
+      "name" : "AZ",
+      "type" : "artist",
+      "uri" : "spotify:artist:7HqrSDuI9lHuH1CDismTFg"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2ZuQKOQKGkmKpMD6QU6SoJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2ZuQKOQKGkmKpMD6QU6SoJ",
+    "id" : "2ZuQKOQKGkmKpMD6QU6SoJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/396dace2994ce8f9b491476c33b10cdfce3b2a73",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/77642c9f211df5125a528e63a1dc8962cde993b7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8e9c718ab7dcecaaea60eeb6ad6f92b70944f408",
+      "width" : 64
+    } ],
+    "name" : "The Format (Special Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:2ZuQKOQKGkmKpMD6QU6SoJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7HqrSDuI9lHuH1CDismTFg",
+    "id" : "7HqrSDuI9lHuH1CDismTFg",
+    "name" : "AZ",
+    "type" : "artist",
+    "uri" : "spotify:artist:7HqrSDuI9lHuH1CDismTFg"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 183440,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USFZH0701074"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Thl6niewJ6rZywbQsEwnu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Thl6niewJ6rZywbQsEwnu",
+  "id" : "3Thl6niewJ6rZywbQsEwnu",
+  "name" : "The Format",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/082e2233a7d033d2452478e00cea6aeb009c75ab?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3Thl6niewJ6rZywbQsEwnu"
+}

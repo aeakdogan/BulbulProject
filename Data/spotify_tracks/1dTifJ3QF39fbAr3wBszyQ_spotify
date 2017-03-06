@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2mrMBahPKsZi5Uy7Cnqyjf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2mrMBahPKsZi5Uy7Cnqyjf",
+      "id" : "2mrMBahPKsZi5Uy7Cnqyjf",
+      "name" : "Kaboom Karavan",
+      "type" : "artist",
+      "uri" : "spotify:artist:2mrMBahPKsZi5Uy7Cnqyjf"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0tmTqfhllRnzukqlFIVFIN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0tmTqfhllRnzukqlFIVFIN",
+    "id" : "0tmTqfhllRnzukqlFIVFIN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4b00fed62ae688b7f028691713b2be7caf43e802",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8984e9e992e7d9ea6cd18585d1ee69c593e04004",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3542a96e3e4415f2a3d1639eb367c8b1bf717471",
+      "width" : 64
+    } ],
+    "name" : "Hokus Fokus",
+    "type" : "album",
+    "uri" : "spotify:album:0tmTqfhllRnzukqlFIVFIN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2mrMBahPKsZi5Uy7Cnqyjf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2mrMBahPKsZi5Uy7Cnqyjf",
+    "id" : "2mrMBahPKsZi5Uy7Cnqyjf",
+    "name" : "Kaboom Karavan",
+    "type" : "artist",
+    "uri" : "spotify:artist:2mrMBahPKsZi5Uy7Cnqyjf"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 336687,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX261372410"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1dTifJ3QF39fbAr3wBszyQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1dTifJ3QF39fbAr3wBszyQ",
+  "id" : "1dTifJ3QF39fbAr3wBszyQ",
+  "name" : "Miss Okee",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b3d15a083dd129835ef5dc4afc11b10f443065c0?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1dTifJ3QF39fbAr3wBszyQ"
+}

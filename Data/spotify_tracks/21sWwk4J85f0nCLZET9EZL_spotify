@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/58XGUNsRNu3cVOIOYk5chx",
+      "id" : "58XGUNsRNu3cVOIOYk5chx",
+      "name" : "Ty Segall",
+      "type" : "artist",
+      "uri" : "spotify:artist:58XGUNsRNu3cVOIOYk5chx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iYHbSsTg6iQrjAcF56Soj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iYHbSsTg6iQrjAcF56Soj",
+      "id" : "3iYHbSsTg6iQrjAcF56Soj",
+      "name" : "Black Time",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iYHbSsTg6iQrjAcF56Soj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6OKJkq6u7lebTYq9sUMl7X"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6OKJkq6u7lebTYq9sUMl7X",
+    "id" : "6OKJkq6u7lebTYq9sUMl7X",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/91d474dc733ee4ccc7383fe883520eb50422fe4c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d1043d1d9942550ce4b17ae2471379a435686760",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/35c492333897c042075b1756a8fe3ffcc6eab236",
+      "width" : 64
+    } ],
+    "name" : "Split LP",
+    "type" : "album",
+    "uri" : "spotify:album:6OKJkq6u7lebTYq9sUMl7X"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/58XGUNsRNu3cVOIOYk5chx",
+    "id" : "58XGUNsRNu3cVOIOYk5chx",
+    "name" : "Ty Segall",
+    "type" : "artist",
+    "uri" : "spotify:artist:58XGUNsRNu3cVOIOYk5chx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 139293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CA25T0910074"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/21sWwk4J85f0nCLZET9EZL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/21sWwk4J85f0nCLZET9EZL",
+  "id" : "21sWwk4J85f0nCLZET9EZL",
+  "name" : "Swag",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1b48be78eb15425a7d26e389262c844c25bd27b1?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:21sWwk4J85f0nCLZET9EZL"
+}

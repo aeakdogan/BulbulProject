@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2qlAMLpUyBjZgnzuFXXZXI",
+      "id" : "2qlAMLpUyBjZgnzuFXXZXI",
+      "name" : "Klaxons",
+      "type" : "artist",
+      "uri" : "spotify:artist:2qlAMLpUyBjZgnzuFXXZXI"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6nUnyAr1eCjdd9sD4xB9rx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6nUnyAr1eCjdd9sD4xB9rx",
+    "id" : "6nUnyAr1eCjdd9sD4xB9rx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/277c2247c1304a612578052b1757a423f9a27508",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d26f865cbcfbf1044af2512daaaddaaca4598c1d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7b2b075349a3ef9f6d8db4d30aa01109ce74022d",
+      "width" : 64
+    } ],
+    "name" : "Gravity's Rainbow (Soulwax Remix)",
+    "type" : "album",
+    "uri" : "spotify:album:6nUnyAr1eCjdd9sD4xB9rx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2qlAMLpUyBjZgnzuFXXZXI",
+    "id" : "2qlAMLpUyBjZgnzuFXXZXI",
+    "name" : "Klaxons",
+    "type" : "artist",
+    "uri" : "spotify:artist:2qlAMLpUyBjZgnzuFXXZXI"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 382933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDM31100057"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1feENOwQlymxbIdIz93sji"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1feENOwQlymxbIdIz93sji",
+  "id" : "1feENOwQlymxbIdIz93sji",
+  "name" : "Gravity's Rainbow - Soulwax Remix",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3f55ae10d943c43bc990af3746d3e95cdb2e74a2?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1feENOwQlymxbIdIz93sji"
+}

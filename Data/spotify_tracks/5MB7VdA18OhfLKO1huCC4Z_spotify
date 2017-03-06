@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1S8bX9opXYLkPIp7WPhySa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1S8bX9opXYLkPIp7WPhySa",
+      "id" : "1S8bX9opXYLkPIp7WPhySa",
+      "name" : "Pascal Comelade",
+      "type" : "artist",
+      "uri" : "spotify:artist:1S8bX9opXYLkPIp7WPhySa"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3eAhcCywCq08CdWm4M2dkt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3eAhcCywCq08CdWm4M2dkt",
+    "id" : "3eAhcCywCq08CdWm4M2dkt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1579ff16e2384f5548b43b7206086f6f4e07cb2c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2d7b1e6b1a11e5da1b2651fa56d41533d4e5fcbe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d385f9ec2018cd70f75ab5af0bfdb2177bbfc3c8",
+      "width" : 64
+    } ],
+    "name" : "L'argot Du Bruit",
+    "type" : "album",
+    "uri" : "spotify:album:3eAhcCywCq08CdWm4M2dkt"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1S8bX9opXYLkPIp7WPhySa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1S8bX9opXYLkPIp7WPhySa",
+    "id" : "1S8bX9opXYLkPIp7WPhySa",
+    "name" : "Pascal Comelade",
+    "type" : "artist",
+    "uri" : "spotify:artist:1S8bX9opXYLkPIp7WPhySa"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 188893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V89800167"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5MB7VdA18OhfLKO1huCC4Z"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5MB7VdA18OhfLKO1huCC4Z",
+  "id" : "5MB7VdA18OhfLKO1huCC4Z",
+  "name" : "Le Soir Du Grand Soir",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aa4eb1d11c8730815ecf57439297330b0eaf38f2?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5MB7VdA18OhfLKO1huCC4Z"
+}

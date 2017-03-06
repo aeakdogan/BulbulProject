@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5YP3Bj0ZP9HpVJw04dayBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5YP3Bj0ZP9HpVJw04dayBe",
+      "id" : "5YP3Bj0ZP9HpVJw04dayBe",
+      "name" : "Kevin Hewick",
+      "type" : "artist",
+      "uri" : "spotify:artist:5YP3Bj0ZP9HpVJw04dayBe"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1DbjF4hrb2kZXOkw79TYJL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1DbjF4hrb2kZXOkw79TYJL",
+    "id" : "1DbjF4hrb2kZXOkw79TYJL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a2f1bede5da508c6a2079cccf4b6f8a3be9dfc20",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4c1f0c68af19c05cfb4bea2d4200365e5348ef70",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5467ba70a0bb1291127ac56d1788ad4080937ce2",
+      "width" : 64
+    } ],
+    "name" : "Tree of Life",
+    "type" : "album",
+    "uri" : "spotify:album:1DbjF4hrb2kZXOkw79TYJL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5YP3Bj0ZP9HpVJw04dayBe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5YP3Bj0ZP9HpVJw04dayBe",
+    "id" : "5YP3Bj0ZP9HpVJw04dayBe",
+    "name" : "Kevin Hewick",
+    "type" : "artist",
+    "uri" : "spotify:artist:5YP3Bj0ZP9HpVJw04dayBe"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 225854,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBMA21404702"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5t67j4SYpdyKK8FTe8yBji"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5t67j4SYpdyKK8FTe8yBji",
+  "id" : "5t67j4SYpdyKK8FTe8yBji",
+  "name" : "Sanity Was Just The Start",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/636507991d621e1854bf6f51d8707dc436aa7398?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5t67j4SYpdyKK8FTe8yBji"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1PXHzxRDiLnjqNrRn2Xbsa",
+      "id" : "1PXHzxRDiLnjqNrRn2Xbsa",
+      "name" : "Underworld",
+      "type" : "artist",
+      "uri" : "spotify:artist:1PXHzxRDiLnjqNrRn2Xbsa"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/68wdXsJmyuDfbozV2rDjXq",
+    "id" : "68wdXsJmyuDfbozV2rDjXq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8d8e185e210966c046a1ca17851b335fcd67fb50",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dce7942ca1de8c77a644cbd24dccdbe7ba2344b0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a7026dd1cec8741ee4e1e44a183ce7896f21f200",
+      "width" : 64
+    } ],
+    "name" : "1992 - 2012",
+    "type" : "album",
+    "uri" : "spotify:album:68wdXsJmyuDfbozV2rDjXq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1PXHzxRDiLnjqNrRn2Xbsa",
+    "id" : "1PXHzxRDiLnjqNrRn2Xbsa",
+    "name" : "Underworld",
+    "type" : "artist",
+    "uri" : "spotify:artist:1PXHzxRDiLnjqNrRn2Xbsa"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 155760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBJJY0700004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/55pF5e9seYn9mln69dTVYj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/55pF5e9seYn9mln69dTVYj",
+  "id" : "55pF5e9seYn9mln69dTVYj",
+  "name" : "To Heal",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c6af79660c463bb032f4d9640aad2374e33e0974?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:55pF5e9seYn9mln69dTVYj"
+}

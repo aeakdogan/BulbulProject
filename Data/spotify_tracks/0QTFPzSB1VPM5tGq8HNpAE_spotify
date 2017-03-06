@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4KXp3xtaz1wWXnu5u34eVX",
+      "id" : "4KXp3xtaz1wWXnu5u34eVX",
+      "name" : "kent",
+      "type" : "artist",
+      "uri" : "spotify:artist:4KXp3xtaz1wWXnu5u34eVX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4GP6wDsB1V87v3aEqYNQ9j"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4GP6wDsB1V87v3aEqYNQ9j",
+    "id" : "4GP6wDsB1V87v3aEqYNQ9j",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/16a81748ef00427e219fc5812d5fc1d7da4ebc0d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/83f6ebcc5fbc378082d63bce4b26667b74d1043f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/44cde78870166400cc50c3779c9ce20f3d1600e7",
+      "width" : 64
+    } ],
+    "name" : "Best Of",
+    "type" : "album",
+    "uri" : "spotify:album:4GP6wDsB1V87v3aEqYNQ9j"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4KXp3xtaz1wWXnu5u34eVX",
+    "id" : "4KXp3xtaz1wWXnu5u34eVX",
+    "name" : "kent",
+    "type" : "artist",
+    "uri" : "spotify:artist:4KXp3xtaz1wWXnu5u34eVX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 274280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEBMC9961010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0QTFPzSB1VPM5tGq8HNpAE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0QTFPzSB1VPM5tGq8HNpAE",
+  "id" : "0QTFPzSB1VPM5tGq8HNpAE",
+  "name" : "Musik Non Stop",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b2cc196017ef2a1d05b6f83415f171ab51782efc?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0QTFPzSB1VPM5tGq8HNpAE"
+}

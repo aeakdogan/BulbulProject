@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2mcNCn1qbZUQ3J9KHapUxj",
+      "id" : "2mcNCn1qbZUQ3J9KHapUxj",
+      "name" : "The Dø",
+      "type" : "artist",
+      "uri" : "spotify:artist:2mcNCn1qbZUQ3J9KHapUxj"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7rBEPzSkxqHFYPfFd34evh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7rBEPzSkxqHFYPfFd34evh",
+    "id" : "7rBEPzSkxqHFYPfFd34evh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dcfc43158d7632b662e59cf6ac22b64bff7c15bb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d96333a822bb601a043d9d74addd947d6d061b28",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/24f1eaa59fbf5b4c40daa4301ee584563e56cb25",
+      "width" : 64
+    } ],
+    "name" : "A Mouthful",
+    "type" : "album",
+    "uri" : "spotify:album:7rBEPzSkxqHFYPfFd34evh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2mcNCn1qbZUQ3J9KHapUxj",
+    "id" : "2mcNCn1qbZUQ3J9KHapUxj",
+    "name" : "The Dø",
+    "type" : "artist",
+    "uri" : "spotify:artist:2mcNCn1qbZUQ3J9KHapUxj"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 318573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR2MH0700010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/463rRI9DFE1SWE9JB4rjvP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/463rRI9DFE1SWE9JB4rjvP",
+  "id" : "463rRI9DFE1SWE9JB4rjvP",
+  "name" : "On My Shoulders",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c1711ad2d4f789f9a0412a5baad0f2cc1c5c03fa?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:463rRI9DFE1SWE9JB4rjvP"
+}

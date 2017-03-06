@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn",
+      "id" : "2UZMlIwnkgAEDBsw1Rejkn",
+      "name" : "Tom Petty",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UZMlIwnkgAEDBsw1Rejkn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ZGUBwDiY5HPOcWv4SBPQg",
+    "id" : "3ZGUBwDiY5HPOcWv4SBPQg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3b7937284e17b5381de756cdbbdec6024cc4ae1d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0efb93effa150fcbfd061ca2f197a45611dded98",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c49b9a5b37ec6b7f8693d5192e6fed399bc09136",
+      "width" : 64
+    } ],
+    "name" : "Wildflowers",
+    "type" : "album",
+    "uri" : "spotify:album:3ZGUBwDiY5HPOcWv4SBPQg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2UZMlIwnkgAEDBsw1Rejkn",
+    "id" : "2UZMlIwnkgAEDBsw1Rejkn",
+    "name" : "Tom Petty",
+    "type" : "artist",
+    "uri" : "spotify:artist:2UZMlIwnkgAEDBsw1Rejkn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 289440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10102188"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7MooGz4ZPE4bNxjFegR6Jx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7MooGz4ZPE4bNxjFegR6Jx",
+  "id" : "7MooGz4ZPE4bNxjFegR6Jx",
+  "name" : "You Don't Know How It Feels",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/920e1367344e020100e499744890d45f0f8729ce?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7MooGz4ZPE4bNxjFegR6Jx"
+}

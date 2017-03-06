@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CrCKxXekxMpkYfMEf8mca",
+      "id" : "0CrCKxXekxMpkYfMEf8mca",
+      "name" : "Rebecca Ferguson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CrCKxXekxMpkYfMEf8mca"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7casok18TXKpkt263CTlfM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7casok18TXKpkt263CTlfM",
+    "id" : "7casok18TXKpkt263CTlfM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4d796104f062b3348aca64693266d234ce770fcb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b1a8a8ca94abed40746b2ace98e798542b4530a7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2fee128ae237ea18c93e207e7aa31a9c2bee53d3",
+      "width" : 64
+    } ],
+    "name" : "Heaven",
+    "type" : "album",
+    "uri" : "spotify:album:7casok18TXKpkt263CTlfM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0CrCKxXekxMpkYfMEf8mca",
+    "id" : "0CrCKxXekxMpkYfMEf8mca",
+    "name" : "Rebecca Ferguson",
+    "type" : "artist",
+    "uri" : "spotify:artist:0CrCKxXekxMpkYfMEf8mca"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 173626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL1101210"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0bfB9alSNlw9i9N72yQZn2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0bfB9alSNlw9i9N72yQZn2",
+  "id" : "0bfB9alSNlw9i9N72yQZn2",
+  "name" : "Nothing's Real but Love",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1e8c26db9062febb3495b819284443e6433470fa?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0bfB9alSNlw9i9N72yQZn2"
+}

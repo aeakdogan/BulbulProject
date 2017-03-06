@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/03r4iKL2g2442PT9n2UKsx",
+      "id" : "03r4iKL2g2442PT9n2UKsx",
+      "name" : "Beastie Boys",
+      "type" : "artist",
+      "uri" : "spotify:artist:03r4iKL2g2442PT9n2UKsx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1vQYbqslni0jVfvaVK2lvx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1vQYbqslni0jVfvaVK2lvx",
+    "id" : "1vQYbqslni0jVfvaVK2lvx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3d8ca485492d209563ff5eef5ecce819e21e38d2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a6b3682166f647b004dc1901e5aa19b317b0ea2c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c8aa6cced56e0784fd639d2fe3391b634a135253",
+      "width" : 64
+    } ],
+    "name" : "Hot Sauce Committee Part Two",
+    "type" : "album",
+    "uri" : "spotify:album:1vQYbqslni0jVfvaVK2lvx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/03r4iKL2g2442PT9n2UKsx",
+    "id" : "03r4iKL2g2442PT9n2UKsx",
+    "name" : "Beastie Boys",
+    "type" : "artist",
+    "uri" : "spotify:artist:03r4iKL2g2442PT9n2UKsx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 210360,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USCA21100528"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Bz2Q1JNwwPj40T9AvzE7f"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Bz2Q1JNwwPj40T9AvzE7f",
+  "id" : "2Bz2Q1JNwwPj40T9AvzE7f",
+  "name" : "Make Some Noise",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/307cde1b07930e6097e632220cf6e57158cfb201?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2Bz2Q1JNwwPj40T9AvzE7f"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+      "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+      "name" : "Chris Thile",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+    } ],
+    "available_markets" : [ "AT", "AU", "BE", "CA", "CH", "CZ", "DE", "DK", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IT", "MX", "NL", "NO", "NZ", "PL", "PT", "SE", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3UVP898xdmvyLVE1OLCLh4",
+    "id" : "3UVP898xdmvyLVE1OLCLh4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/78fe0ddc9d8a12f56b38c48586b4babdc5427e1e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/16d89333cf18ec581335d2c0f5bdafae1f7fc4ce",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f75a6d94430f88f951ecd078dcda2855f01f6471",
+      "width" : 64
+    } ],
+    "name" : "How To Grow A Woman From The Ground",
+    "type" : "album",
+    "uri" : "spotify:album:3UVP898xdmvyLVE1OLCLh4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+    "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+    "name" : "Chris Thile",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+  } ],
+  "available_markets" : [ "AT", "AU", "BE", "CA", "CH", "CZ", "DE", "DK", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IT", "MX", "NL", "NO", "NZ", "PL", "PT", "SE", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 187413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSH50600381"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3JZteSHBgqZ8T1SWNLr56x"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3JZteSHBgqZ8T1SWNLr56x",
+  "id" : "3JZteSHBgqZ8T1SWNLr56x",
+  "name" : "Dead Leaves and the Dirty Ground",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b7b110a6d7de2711830d1cb31d688da550cf349b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3JZteSHBgqZ8T1SWNLr56x"
+}

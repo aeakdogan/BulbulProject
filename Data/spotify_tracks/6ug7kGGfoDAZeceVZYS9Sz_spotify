@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6660N5a1AcFe0MT3Adznvy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6660N5a1AcFe0MT3Adznvy",
+      "id" : "6660N5a1AcFe0MT3Adznvy",
+      "name" : "Linea del sur Quartet",
+      "type" : "artist",
+      "uri" : "spotify:artist:6660N5a1AcFe0MT3Adznvy"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7zSXYV25oDLC5ZmLHZnIlo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7zSXYV25oDLC5ZmLHZnIlo",
+    "id" : "7zSXYV25oDLC5ZmLHZnIlo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5469a463dec0d59f21964205e17ceba96c3ae4f1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2d60e201018f8a13a019066be59e4de4bf1e9502",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bdd877b8c11dbddfb2edf6bf84e2b38ca4a07821",
+      "width" : 64
+    } ],
+    "name" : "La Linea del Sur",
+    "type" : "album",
+    "uri" : "spotify:album:7zSXYV25oDLC5ZmLHZnIlo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/085ia2vF4DS8nVGthl7EjC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/085ia2vF4DS8nVGthl7EjC",
+    "id" : "085ia2vF4DS8nVGthl7EjC",
+    "name" : "Esperanza Fernandez",
+    "type" : "artist",
+    "uri" : "spotify:artist:085ia2vF4DS8nVGthl7EjC"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6660N5a1AcFe0MT3Adznvy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6660N5a1AcFe0MT3Adznvy",
+    "id" : "6660N5a1AcFe0MT3Adznvy",
+    "name" : "Linea del sur Quartet",
+    "type" : "artist",
+    "uri" : "spotify:artist:6660N5a1AcFe0MT3Adznvy"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 327813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEA590902705"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ug7kGGfoDAZeceVZYS9Sz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ug7kGGfoDAZeceVZYS9Sz",
+  "id" : "6ug7kGGfoDAZeceVZYS9Sz",
+  "name" : "El agua de la vida",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e94a11d0c2357973c7ee77b07ddebe445d39d4a1?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6ug7kGGfoDAZeceVZYS9Sz"
+}

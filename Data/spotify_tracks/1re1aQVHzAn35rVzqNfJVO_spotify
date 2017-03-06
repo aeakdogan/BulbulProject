@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+      "id" : "6xrCU6zdcSTsG2hLrojpmI",
+      "name" : "José González",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4zhb7QX3fvyamvbcYGnKMv",
+    "id" : "4zhb7QX3fvyamvbcYGnKMv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/afc133e00ce8e36eb9f8eb171e1cb036d95a8ca2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6178c16e091ac8bb69599febeb653413355cae05",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/921901cc34f5b5e73979454c516ff441d8b83d3d",
+      "width" : 64
+    } ],
+    "name" : "In Our Nature",
+    "type" : "album",
+    "uri" : "spotify:album:4zhb7QX3fvyamvbcYGnKMv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+    "id" : "6xrCU6zdcSTsG2hLrojpmI",
+    "name" : "José González",
+    "type" : "artist",
+    "uri" : "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 167840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEVVX0700307"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1re1aQVHzAn35rVzqNfJVO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1re1aQVHzAn35rVzqNfJVO",
+  "id" : "1re1aQVHzAn35rVzqNfJVO",
+  "name" : "Time To Send Someone Away",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/39d6be422079372d44e9b6a6df3846d40e85f5b6?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:1re1aQVHzAn35rVzqNfJVO"
+}

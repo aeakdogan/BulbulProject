@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6JcDqt1rBKIWfnoPjXFYqc",
+      "id" : "6JcDqt1rBKIWfnoPjXFYqc",
+      "name" : "Emmy Rossum",
+      "type" : "artist",
+      "uri" : "spotify:artist:6JcDqt1rBKIWfnoPjXFYqc"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2UJqRpoJ7eng4SZYXiVq9H"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2UJqRpoJ7eng4SZYXiVq9H",
+    "id" : "2UJqRpoJ7eng4SZYXiVq9H",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c30a2a5e196582ce0d0c288da8fdbe7f1b83b888",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/30701e1ed0f025e0483aaa99a92cdd6a7400cae0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1e24fe3008dc593019bf2fbf31b979b8d5e18faf",
+      "width" : 64
+    } ],
+    "name" : "Sentimental Journey",
+    "type" : "album",
+    "uri" : "spotify:album:2UJqRpoJ7eng4SZYXiVq9H"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6JcDqt1rBKIWfnoPjXFYqc",
+    "id" : "6JcDqt1rBKIWfnoPjXFYqc",
+    "name" : "Emmy Rossum",
+    "type" : "artist",
+    "uri" : "spotify:artist:6JcDqt1rBKIWfnoPjXFYqc"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 193226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11203067"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/27ErGziKPQm19htFjUWOpj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/27ErGziKPQm19htFjUWOpj",
+  "id" : "27ErGziKPQm19htFjUWOpj",
+  "name" : "Summer Wind",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c38d97db26a86b1cb5a6c9475b842379945439cf?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:27ErGziKPQm19htFjUWOpj"
+}

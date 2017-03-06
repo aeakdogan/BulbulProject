@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0kbYTNQb4Pb1rPbbaF0pT4",
+      "id" : "0kbYTNQb4Pb1rPbbaF0pT4",
+      "name" : "Miles Davis",
+      "type" : "artist",
+      "uri" : "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1wVO8nHzgcim0IBzbXnYX0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1wVO8nHzgcim0IBzbXnYX0",
+    "id" : "1wVO8nHzgcim0IBzbXnYX0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e0e76ee2a2e033f561ae8a52af6ae2a0c552fbf1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dc81e47114ac7e4bed43d363259e08a2aa7d287e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c292e73ab0b68309c83d8c2ca9855839304c45b1",
+      "width" : 64
+    } ],
+    "name" : "Bitches Brew (Legacy Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:1wVO8nHzgcim0IBzbXnYX0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0kbYTNQb4Pb1rPbbaF0pT4",
+    "id" : "0kbYTNQb4Pb1rPbbaF0pT4",
+    "name" : "Miles Davis",
+    "type" : "artist",
+    "uri" : "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 1618693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM16900316"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4IqzVeWfWLPQ2deCYYWeXL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4IqzVeWfWLPQ2deCYYWeXL",
+  "id" : "4IqzVeWfWLPQ2deCYYWeXL",
+  "name" : "Bitches Brew",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ff9064b2add1687b5c36e561b80c847ec1e37b66?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4IqzVeWfWLPQ2deCYYWeXL"
+}

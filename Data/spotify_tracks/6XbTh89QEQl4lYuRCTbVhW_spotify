@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+      "id" : "5l8VQNuIg0turYE1VtM9zV",
+      "name" : "Leonard Cohen",
+      "type" : "artist",
+      "uri" : "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0AMbk6F6ZJ57OqlpB214gV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0AMbk6F6ZJ57OqlpB214gV",
+    "id" : "0AMbk6F6ZJ57OqlpB214gV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1c56767ef631ca0a56dd71c36197a8fa8cfe612c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6563421191c118b1efe643bd3e1b5468a6bfe0e8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d44b97df4a60554dd7be208e918ea22c2fd5fa02",
+      "width" : 64
+    } ],
+    "name" : "Ten New Songs",
+    "type" : "album",
+    "uri" : "spotify:album:0AMbk6F6ZJ57OqlpB214gV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+    "id" : "5l8VQNuIg0turYE1VtM9zV",
+    "name" : "Leonard Cohen",
+    "type" : "artist",
+    "uri" : "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 255120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLB630100143"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6XbTh89QEQl4lYuRCTbVhW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6XbTh89QEQl4lYuRCTbVhW",
+  "id" : "6XbTh89QEQl4lYuRCTbVhW",
+  "name" : "Here It Is",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e3e1a97863b256e87e674356ba88ab8948dc587f?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6XbTh89QEQl4lYuRCTbVhW"
+}

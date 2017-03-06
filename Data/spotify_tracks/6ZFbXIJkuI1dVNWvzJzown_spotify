@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+      "id" : "0YC192cP3KPCRWx8zr8MfZ",
+      "name" : "Hans Zimmer",
+      "type" : "artist",
+      "uri" : "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2qvA7HmSg1iM6XMiFF76dp",
+    "id" : "2qvA7HmSg1iM6XMiFF76dp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6072343320a01ddb0a605a687be95ae4d7b73c9c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ac6cb7cc9b6d9b373f161990debdbe0f5f82532a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d4c31ab1259e50e285b7608449e96a0bc80429bd",
+      "width" : 64
+    } ],
+    "name" : "Inception (Music From The Motion Picture)",
+    "type" : "album",
+    "uri" : "spotify:album:2qvA7HmSg1iM6XMiFF76dp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+    "id" : "0YC192cP3KPCRWx8zr8MfZ",
+    "name" : "Hans Zimmer",
+    "type" : "artist",
+    "uri" : "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 275546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE11000577"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ZFbXIJkuI1dVNWvzJzown",
+  "id" : "6ZFbXIJkuI1dVNWvzJzown",
+  "name" : "Time",
+  "popularity" : 67,
+  "preview_url" : "https://p.scdn.co/mp3-preview/eb463247243646de10aa4d9b3f2c0c8b836c1dc8?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:6ZFbXIJkuI1dVNWvzJzown"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49gaZqfow2v8EEQmjGyEIw",
+      "id" : "49gaZqfow2v8EEQmjGyEIw",
+      "name" : "Todd Terje",
+      "type" : "artist",
+      "uri" : "spotify:artist:49gaZqfow2v8EEQmjGyEIw"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/68zh8sbZPMeJb7GnqomRJS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/68zh8sbZPMeJb7GnqomRJS",
+    "id" : "68zh8sbZPMeJb7GnqomRJS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/27a6d44e9f90945e2b6fb5d435e6445d21a1916a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e60a8901178bf41db39160668a0ac531d6ddf714",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f02b4263c3a7b065ff8f2c24d3d09f4acc0f0e7f",
+      "width" : 64
+    } ],
+    "name" : "It's the Arps",
+    "type" : "album",
+    "uri" : "spotify:album:68zh8sbZPMeJb7GnqomRJS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/49gaZqfow2v8EEQmjGyEIw",
+    "id" : "49gaZqfow2v8EEQmjGyEIw",
+    "name" : "Todd Terje",
+    "type" : "artist",
+    "uri" : "spotify:artist:49gaZqfow2v8EEQmjGyEIw"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 400751,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOSTS1219010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2pucDx5Wyz9uHCou4wntHa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2pucDx5Wyz9uHCou4wntHa",
+  "id" : "2pucDx5Wyz9uHCou4wntHa",
+  "name" : "Inspector Norse",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d0272ee4e30475d8a3f36988112ea1fb54db0309?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2pucDx5Wyz9uHCou4wntHa"
+}

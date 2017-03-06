@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1cSpfa4Un4NCOzeOKgGtG9",
+      "id" : "1cSpfa4Un4NCOzeOKgGtG9",
+      "name" : "MxPx",
+      "type" : "artist",
+      "uri" : "spotify:artist:1cSpfa4Un4NCOzeOKgGtG9"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6UOmnieUNgsBpqve9uRff1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6UOmnieUNgsBpqve9uRff1",
+    "id" : "6UOmnieUNgsBpqve9uRff1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/07a9286e2409e36897572ee7af6eae53fabb3d0b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dcbcad9aab40e385dbd2e0d9929b865e555ca475",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/629ca36ce4e1eab23c67000832d4f453f60b466f",
+      "width" : 64
+    } ],
+    "name" : "Panic",
+    "type" : "album",
+    "uri" : "spotify:album:6UOmnieUNgsBpqve9uRff1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1cSpfa4Un4NCOzeOKgGtG9",
+    "id" : "1cSpfa4Un4NCOzeOKgGtG9",
+    "name" : "MxPx",
+    "type" : "artist",
+    "uri" : "spotify:artist:1cSpfa4Un4NCOzeOKgGtG9"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 206973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA6G0526906"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4KWWDLTgYHjBxmg27nbLYZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4KWWDLTgYHjBxmg27nbLYZ",
+  "id" : "4KWWDLTgYHjBxmg27nbLYZ",
+  "name" : "Wrecking Hotel Rooms",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bd0847122feb45aae0b2835f6da036c5f0c2d8bc?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:4KWWDLTgYHjBxmg27nbLYZ"
+}

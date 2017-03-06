@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/47zz7sob9NUcODy0BTDvKx",
+      "id" : "47zz7sob9NUcODy0BTDvKx",
+      "name" : "Sade",
+      "type" : "artist",
+      "uri" : "spotify:artist:47zz7sob9NUcODy0BTDvKx"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/19J58sh0DO8dbTFzafPXBC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/19J58sh0DO8dbTFzafPXBC",
+    "id" : "19J58sh0DO8dbTFzafPXBC",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/6703acde81b4708ceea046827d0561521a075ebe",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/72859bb9a0cb2f851e55778c17aeab2184aaf218",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6bd4809a43f040fd6d3e8b807f03801a0299c039",
+      "width" : 64
+    } ],
+    "name" : "The Essential Sade",
+    "type" : "album",
+    "uri" : "spotify:album:19J58sh0DO8dbTFzafPXBC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/47zz7sob9NUcODy0BTDvKx",
+    "id" : "47zz7sob9NUcODy0BTDvKx",
+    "name" : "Sade",
+    "type" : "artist",
+    "uri" : "spotify:artist:47zz7sob9NUcODy0BTDvKx"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 248373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL1100295"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4kZvVT60wNIgWfRIRNUQmA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4kZvVT60wNIgWfRIRNUQmA",
+  "id" : "4kZvVT60wNIgWfRIRNUQmA",
+  "name" : "Love Is Found",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3cc6b6ce03bcb061d54e578f041480fe1c16e554?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:4kZvVT60wNIgWfRIRNUQmA"
+}

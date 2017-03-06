@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+      },
+      "href" : "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+      "id" : "711MCceyCBcFnzjGY4Q7Un",
+      "name" : "AC/DC",
+      "type" : "artist",
+      "uri" : "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7DUvURQ0wfA1kgG8j99frR",
+    "id" : "7DUvURQ0wfA1kgG8j99frR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/83d60c6b630444aca049379175b0e8cfeec98a34",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f27aaacfab61ddd288d0f97c8ec7a269b63bc0dc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7538ad79da8ab97d3ccacc7127ffa073c31d6f16",
+      "width" : 64
+    } ],
+    "name" : "For Those About to Rock (We Salute You)",
+    "type" : "album",
+    "uri" : "spotify:album:7DUvURQ0wfA1kgG8j99frR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+    },
+    "href" : "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+    "id" : "711MCceyCBcFnzjGY4Q7Un",
+    "name" : "AC/DC",
+    "type" : "artist",
+    "uri" : "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 344240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUAP08100026"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/17lu4tymfnhmcIDlzBbtAb",
+  "id" : "17lu4tymfnhmcIDlzBbtAb",
+  "name" : "For Those About to Rock (We Salute You)",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6af9d160ed099275813f4cbf6383d548bfd235e2?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:17lu4tymfnhmcIDlzBbtAb"
+}

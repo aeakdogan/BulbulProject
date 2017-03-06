@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+      "id" : "7yxi31szvlbwvKq9dYOmFI",
+      "name" : "Jon Hopkins",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5f4LV7TuJs1aHH6VWbnULx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5f4LV7TuJs1aHH6VWbnULx",
+    "id" : "5f4LV7TuJs1aHH6VWbnULx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/159f4f4e26f8d57ddfefcd268f5a6eb6b8e69fed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9313f574f77e489c7a7292b2e6bb087d8a0f0831",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cb127bfb8eb962e088e7a461a51d839b32cf506c",
+      "width" : 64
+    } ],
+    "name" : "Insides",
+    "type" : "album",
+    "uri" : "spotify:album:5f4LV7TuJs1aHH6VWbnULx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+    "id" : "7yxi31szvlbwvKq9dYOmFI",
+    "name" : "Jon Hopkins",
+    "type" : "artist",
+    "uri" : "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 100946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDDN0800296"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4TzRObrwZ4eDjdrXlNgJyR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4TzRObrwZ4eDjdrXlNgJyR",
+  "id" : "4TzRObrwZ4eDjdrXlNgJyR",
+  "name" : "Small Memory",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a90c279f2557a4954e1e92efd8cc89a51be740ea?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4TzRObrwZ4eDjdrXlNgJyR"
+}

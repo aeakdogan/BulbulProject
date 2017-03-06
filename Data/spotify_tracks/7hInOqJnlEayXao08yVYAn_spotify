@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+      "id" : "74XFHRwlV6OrjEM0A2NCMF",
+      "name" : "Paramore",
+      "type" : "artist",
+      "uri" : "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+    } ],
+    "available_markets" : [ "AR", "BE", "BO", "BR", "CA", "CL", "CO", "CR", "DK", "DO", "EC", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "ID", "IS", "IT", "LU", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PT", "PY", "SE", "SG", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+    },
+    "href" : "https://api.spotify.com/v1/albums/27UqZoE1kV6sIV6uQcI28A",
+    "id" : "27UqZoE1kV6sIV6uQcI28A",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4f0396064baeb8a83ea109cfd4239781a43555eb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e82ddc597bf14ee9a380006738a1bc6e340b08f6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ea0cccec32f28020dc8bff1908ec7aad0a300d78",
+      "width" : 64
+    } ],
+    "name" : "brand new eyes",
+    "type" : "album",
+    "uri" : "spotify:album:27UqZoE1kV6sIV6uQcI28A"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+    "id" : "74XFHRwlV6OrjEM0A2NCMF",
+    "name" : "Paramore",
+    "type" : "artist",
+    "uri" : "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+  } ],
+  "available_markets" : [ "AR", "BE", "BO", "BR", "CA", "CL", "CO", "CR", "DK", "DO", "EC", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "ID", "IS", "IT", "LU", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PT", "PY", "SE", "SG", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 182800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20902320"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7hInOqJnlEayXao08yVYAn",
+  "id" : "7hInOqJnlEayXao08yVYAn",
+  "name" : "Playing God",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/37dcc1a418293f105eed549c3c6fc78422676080?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7hInOqJnlEayXao08yVYAn"
+}

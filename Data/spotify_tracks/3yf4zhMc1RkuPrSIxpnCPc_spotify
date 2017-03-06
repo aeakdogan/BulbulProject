@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7C1CFA2GWGFc51SrvX5Bvy",
+      "id" : "7C1CFA2GWGFc51SrvX5Bvy",
+      "name" : "Robben Ford",
+      "type" : "artist",
+      "uri" : "spotify:artist:7C1CFA2GWGFc51SrvX5Bvy"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3rVIlM4tVHK9eRxXjyy15n"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3rVIlM4tVHK9eRxXjyy15n",
+    "id" : "3rVIlM4tVHK9eRxXjyy15n",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/29b96885e0f59ab28ad2a1271a1af1ddf8ddc36d",
+      "width" : 632
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1fef94c7d6ee9b72cc82e3b04e2b6ab00022f3ce",
+      "width" : 296
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a6477d2646bdbe3671526768452f497f10c6e6f1",
+      "width" : 63
+    } ],
+    "name" : "Keep On Running",
+    "type" : "album",
+    "uri" : "spotify:album:3rVIlM4tVHK9eRxXjyy15n"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7C1CFA2GWGFc51SrvX5Bvy",
+    "id" : "7C1CFA2GWGFc51SrvX5Bvy",
+    "name" : "Robben Ford",
+    "type" : "artist",
+    "uri" : "spotify:artist:7C1CFA2GWGFc51SrvX5Bvy"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 236760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R0301966"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3yf4zhMc1RkuPrSIxpnCPc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3yf4zhMc1RkuPrSIxpnCPc",
+  "id" : "3yf4zhMc1RkuPrSIxpnCPc",
+  "name" : "Badge",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1dfd6f8ce1549a52f7645cc97b05f5d9d74aab7a?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3yf4zhMc1RkuPrSIxpnCPc"
+}

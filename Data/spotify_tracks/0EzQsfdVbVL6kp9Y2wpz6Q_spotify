@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+      "id" : "7eQZTqEMozBcuSubfu52i4",
+      "name" : "The Knife",
+      "type" : "artist",
+      "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6GWQ6fq8krujlglglMPyPu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6GWQ6fq8krujlglglMPyPu",
+    "id" : "6GWQ6fq8krujlglglMPyPu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9f947fafc4552026abf758f4253f1e0d9f39cda8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0fb807405b3a636da4dd42f94313bac424c549e2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5a8539dc15c10019a27afae462d54adc192c8479",
+      "width" : 64
+    } ],
+    "name" : "Shaking The Habitual",
+    "type" : "album",
+    "uri" : "spotify:album:6GWQ6fq8krujlglglMPyPu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+    "id" : "7eQZTqEMozBcuSubfu52i4",
+    "name" : "The Knife",
+    "type" : "artist",
+    "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 556506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEWCE1300102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0EzQsfdVbVL6kp9Y2wpz6Q"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0EzQsfdVbVL6kp9Y2wpz6Q",
+  "id" : "0EzQsfdVbVL6kp9Y2wpz6Q",
+  "name" : "Full of Fire",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3eb250e645db74b6b5893f1738d94de678a96eb1?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0EzQsfdVbVL6kp9Y2wpz6Q"
+}

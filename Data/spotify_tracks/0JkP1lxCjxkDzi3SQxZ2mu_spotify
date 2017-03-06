@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ucLPotcQNI7AViFytdhBz",
+      "id" : "0ucLPotcQNI7AViFytdhBz",
+      "name" : "Ladytron",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ucLPotcQNI7AViFytdhBz"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Y2PojX6zFEvvLMpk5mGB9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Y2PojX6zFEvvLMpk5mGB9",
+    "id" : "4Y2PojX6zFEvvLMpk5mGB9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/714d11ea050ea08c7412e1319fe8fcba17a5b80e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/63dfde71b1caadf58929453912527f763d93f24e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cf215e774c7002927f2768e97d2e5deee7aaeb90",
+      "width" : 64
+    } ],
+    "name" : "604",
+    "type" : "album",
+    "uri" : "spotify:album:4Y2PojX6zFEvvLMpk5mGB9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ucLPotcQNI7AViFytdhBz",
+    "id" : "0ucLPotcQNI7AViFytdhBz",
+    "name" : "Ladytron",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ucLPotcQNI7AViFytdhBz"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 190066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN111000558"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0JkP1lxCjxkDzi3SQxZ2mu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0JkP1lxCjxkDzi3SQxZ2mu",
+  "id" : "0JkP1lxCjxkDzi3SQxZ2mu",
+  "name" : "Jet Age",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5796ab6a55189c4e2730424c0e3e063cbfda1115?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:0JkP1lxCjxkDzi3SQxZ2mu"
+}

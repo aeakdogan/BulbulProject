@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0qLNsNKm8bQcMoRFkR8Hmh",
+      "id" : "0qLNsNKm8bQcMoRFkR8Hmh",
+      "name" : "James",
+      "type" : "artist",
+      "uri" : "spotify:artist:0qLNsNKm8bQcMoRFkR8Hmh"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4sd1JAggakMUuXLpFN6LIx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4sd1JAggakMUuXLpFN6LIx",
+    "id" : "4sd1JAggakMUuXLpFN6LIx",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/549da43d8113691f3ee657b7a7dec08f0377e0a9",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/d81db4daf76917b8e700d66b1b92540cb7747c4a",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/36b313bb95c6d5e3c9ee2c760ff3eb05cbe3ff68",
+      "width" : 64
+    } ],
+    "name" : "Pleased To Meet You",
+    "type" : "album",
+    "uri" : "spotify:album:4sd1JAggakMUuXLpFN6LIx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0qLNsNKm8bQcMoRFkR8Hmh",
+    "id" : "0qLNsNKm8bQcMoRFkR8Hmh",
+    "name" : "James",
+    "type" : "artist",
+    "uri" : "spotify:artist:0qLNsNKm8bQcMoRFkR8Hmh"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 183626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF080100158"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3TojURFGyoDBArg0b5nfCP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3TojURFGyoDBArg0b5nfCP",
+  "id" : "3TojURFGyoDBArg0b5nfCP",
+  "name" : "Give It Away",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a9b95ab61aebae40d2ef57ab241136034181c80a?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:3TojURFGyoDBArg0b5nfCP"
+}

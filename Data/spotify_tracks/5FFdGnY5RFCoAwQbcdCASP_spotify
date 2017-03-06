@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6RZUqkomCmb8zCRqc9eznB",
+      "id" : "6RZUqkomCmb8zCRqc9eznB",
+      "name" : "Placebo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6RZUqkomCmb8zCRqc9eznB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7gLNPbL9arQdIl4aj4hBcq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7gLNPbL9arQdIl4aj4hBcq",
+    "id" : "7gLNPbL9arQdIl4aj4hBcq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0a6838f2188a17e07e6978451dff0da76648ac40",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3ea521e92ef9158fee8216ff7b20e1235860303d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e04e31fed185aa1361c12bbd7b7045ac87393ee6",
+      "width" : 64
+    } ],
+    "name" : "Black Market Music",
+    "type" : "album",
+    "uri" : "spotify:album:7gLNPbL9arQdIl4aj4hBcq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6RZUqkomCmb8zCRqc9eznB",
+    "id" : "6RZUqkomCmb8zCRqc9eznB",
+    "name" : "Placebo",
+    "type" : "artist",
+    "uri" : "spotify:artist:6RZUqkomCmb8zCRqc9eznB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 246906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0000670"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5FFdGnY5RFCoAwQbcdCASP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5FFdGnY5RFCoAwQbcdCASP",
+  "id" : "5FFdGnY5RFCoAwQbcdCASP",
+  "name" : "Slave to the Wage",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/866c52bdfa9fbad3d196e1ee128c7dc9c99c78e5?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5FFdGnY5RFCoAwQbcdCASP"
+}

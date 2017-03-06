@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6loBF9iQdE11WSX29fNKqY",
+      "id" : "6loBF9iQdE11WSX29fNKqY",
+      "name" : "Howard Jones",
+      "type" : "artist",
+      "uri" : "spotify:artist:6loBF9iQdE11WSX29fNKqY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6b2nNF4nUoWfGfwez9hwst"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6b2nNF4nUoWfGfwez9hwst",
+    "id" : "6b2nNF4nUoWfGfwez9hwst",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dff0082d7caa55d7589e9c78bc76c5eeba598de2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2b6017a34c33669107ef6b22eebb69c4856d750a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ceac619ce702566e10673f82ee263cacb8d082d0",
+      "width" : 64
+    } ],
+    "name" : "Best Of",
+    "type" : "album",
+    "uri" : "spotify:album:6b2nNF4nUoWfGfwez9hwst"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6loBF9iQdE11WSX29fNKqY",
+    "id" : "6loBF9iQdE11WSX29fNKqY",
+    "name" : "Howard Jones",
+    "type" : "artist",
+    "uri" : "spotify:artist:6loBF9iQdE11WSX29fNKqY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 235826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHS0200071"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3lCMAtfFDcJj9nzZB3ayeB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3lCMAtfFDcJj9nzZB3ayeB",
+  "id" : "3lCMAtfFDcJj9nzZB3ayeB",
+  "name" : "Things Can Only Get Better",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a4526c0a36afdd3082e49db2e88719d1ed07cb24?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3lCMAtfFDcJj9nzZB3ayeB"
+}

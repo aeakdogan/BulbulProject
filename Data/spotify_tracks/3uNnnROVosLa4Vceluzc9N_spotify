@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1svaANJTE5KrG16fTGDqOs",
+      "id" : "1svaANJTE5KrG16fTGDqOs",
+      "name" : "The Puppini Sisters",
+      "type" : "artist",
+      "uri" : "spotify:artist:1svaANJTE5KrG16fTGDqOs"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3l4GDGqEcy2Ij1TLjBTdGI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3l4GDGqEcy2Ij1TLjBTdGI",
+    "id" : "3l4GDGqEcy2Ij1TLjBTdGI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0ee6ab795027afb446aae15b346dd899f4b96073",
+      "width" : 629
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0daa64c87c77fec201446adc5b2fe621f3a2d2ed",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/afc0a6ef68d3dd0d04bbdd4c7420215536617118",
+      "width" : 63
+    } ],
+    "name" : "The Rise And Fall Of Ruby Woo",
+    "type" : "album",
+    "uri" : "spotify:album:3l4GDGqEcy2Ij1TLjBTdGI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1svaANJTE5KrG16fTGDqOs",
+    "id" : "1svaANJTE5KrG16fTGDqOs",
+    "name" : "The Puppini Sisters",
+    "type" : "artist",
+    "uri" : "spotify:artist:1svaANJTE5KrG16fTGDqOs"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 212533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70705988"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3uNnnROVosLa4Vceluzc9N"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3uNnnROVosLa4Vceluzc9N",
+  "id" : "3uNnnROVosLa4Vceluzc9N",
+  "name" : "Old Cape Cod",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/68574c2280c935e28dcc4374bcdec8e01f6e8813?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3uNnnROVosLa4Vceluzc9N"
+}

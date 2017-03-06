@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp",
+      "id" : "1YzCsTRb22dQkh9lghPIrp",
+      "name" : "Billie Holiday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YzCsTRb22dQkh9lghPIrp"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ZaUoXSDVR5a0lgVDJ0xRN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ZaUoXSDVR5a0lgVDJ0xRN",
+    "id" : "5ZaUoXSDVR5a0lgVDJ0xRN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/33396dbeb78b27a6ef0f5842f6b979999fb6b79c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a600092066a733d5aa0fa4eb188bad7995bcc9fd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab77150c95993b244101f3b568d65aac02b418f1",
+      "width" : 64
+    } ],
+    "name" : "The Complete Commodore/Decca Masters",
+    "type" : "album",
+    "uri" : "spotify:album:5ZaUoXSDVR5a0lgVDJ0xRN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp",
+    "id" : "1YzCsTRb22dQkh9lghPIrp",
+    "name" : "Billie Holiday",
+    "type" : "artist",
+    "uri" : "spotify:artist:1YzCsTRb22dQkh9lghPIrp"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 200946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC14573006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/32jLW9g39OY5AqydwMtNkv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/32jLW9g39OY5AqydwMtNkv",
+  "id" : "32jLW9g39OY5AqydwMtNkv",
+  "name" : "Don't Explain - Single Version",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3a429d9c1f173c90dcd673f24f8529f15df3112f?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:32jLW9g39OY5AqydwMtNkv"
+}

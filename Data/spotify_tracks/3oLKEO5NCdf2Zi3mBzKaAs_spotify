@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1EevBGfUh3RSQSGpluxgBm",
+      "id" : "1EevBGfUh3RSQSGpluxgBm",
+      "name" : "Joan Baez",
+      "type" : "artist",
+      "uri" : "spotify:artist:1EevBGfUh3RSQSGpluxgBm"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/61w0fi4vQywV8YIHznnhBr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/61w0fi4vQywV8YIHznnhBr",
+    "id" : "61w0fi4vQywV8YIHznnhBr",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/26b40ed7634ef154d450a52e5ad3e0e057e35b0b",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/14abebda00bbbdb6c2d6080d4aca6977087fc100",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/456c77573f329084873454b2c482112a771d2f6d",
+      "width" : 64
+    } ],
+    "name" : "Diamonds & Rust",
+    "type" : "album",
+    "uri" : "spotify:album:61w0fi4vQywV8YIHznnhBr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1EevBGfUh3RSQSGpluxgBm",
+    "id" : "1EevBGfUh3RSQSGpluxgBm",
+    "name" : "Joan Baez",
+    "type" : "artist",
+    "uri" : "spotify:artist:1EevBGfUh3RSQSGpluxgBm"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 286106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0129138"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3oLKEO5NCdf2Zi3mBzKaAs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3oLKEO5NCdf2Zi3mBzKaAs",
+  "id" : "3oLKEO5NCdf2Zi3mBzKaAs",
+  "name" : "Diamonds And Rust",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5e05ce37b537591fbff6ec1df83c2745c9839f69?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3oLKEO5NCdf2Zi3mBzKaAs"
+}

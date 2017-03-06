@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ulCJnCYTOOtXu1uuEg5Md"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ulCJnCYTOOtXu1uuEg5Md",
+    "id" : "5ulCJnCYTOOtXu1uuEg5Md",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d6ea0c2f6ac1203f2862c70ae6cec3bac6b959cb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e411cfef8ceabb1b1958151ab2d752f7ea38ff43",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/74cd5ba21380089d46af7e7f0d2434358e50eea8",
+      "width" : 64
+    } ],
+    "name" : "Hôtel Costes 8 by Stéphane Pompougnac",
+    "type" : "album",
+    "uri" : "spotify:album:5ulCJnCYTOOtXu1uuEg5Md"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+    },
+    "href" : "https://api.spotify.com/v1/artists/65EXuYHVoehCKqp0kOS6px",
+    "id" : "65EXuYHVoehCKqp0kOS6px",
+    "name" : "Parov Stelar",
+    "type" : "artist",
+    "uri" : "spotify:artist:65EXuYHVoehCKqp0kOS6px"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 281546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATE610400006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0jakfggA0WkYpkAXni6pts"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0jakfggA0WkYpkAXni6pts",
+  "id" : "0jakfggA0WkYpkAXni6pts",
+  "name" : "KissKiss",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a850bf149fd43462198b7bad92f3035ceafa1d55?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0jakfggA0WkYpkAXni6pts"
+}

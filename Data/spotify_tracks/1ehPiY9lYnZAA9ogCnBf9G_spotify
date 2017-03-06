@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mZqziCJj4pq3P2VBpmK6p",
+      "id" : "3mZqziCJj4pq3P2VBpmK6p",
+      "name" : "Friendly Fires",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mZqziCJj4pq3P2VBpmK6p"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6cLebEH9n07yXZGQj5G7qG",
+    "id" : "6cLebEH9n07yXZGQj5G7qG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6108a5e9aec08f5f6cab64069139d5ac91e10209",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b79932e4f1dd3c690e653a5fa9f9ea0f70b8efe9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aadad192658ee2a53131cd345bc5434df664093f",
+      "width" : 64
+    } ],
+    "name" : "Pala",
+    "type" : "album",
+    "uri" : "spotify:album:6cLebEH9n07yXZGQj5G7qG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3mZqziCJj4pq3P2VBpmK6p",
+    "id" : "3mZqziCJj4pq3P2VBpmK6p",
+    "name" : "Friendly Fires",
+    "type" : "artist",
+    "uri" : "spotify:artist:3mZqziCJj4pq3P2VBpmK6p"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 211493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS1100047"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1ehPiY9lYnZAA9ogCnBf9G"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1ehPiY9lYnZAA9ogCnBf9G",
+  "id" : "1ehPiY9lYnZAA9ogCnBf9G",
+  "name" : "Blue Cassette",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/764b7d037aff1ade41ffde4db0981b412b372952?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1ehPiY9lYnZAA9ogCnBf9G"
+}

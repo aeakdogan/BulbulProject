@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI",
+      "id" : "3pFCERyEiP5xeN2EsPXhjI",
+      "name" : "Joe Cocker",
+      "type" : "artist",
+      "uri" : "spotify:artist:3pFCERyEiP5xeN2EsPXhjI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ZHwXuQmOlwI6i1ZSX0CEx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ZHwXuQmOlwI6i1ZSX0CEx",
+    "id" : "0ZHwXuQmOlwI6i1ZSX0CEx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/65833d38120541051027dea12913e0a8e9dc22f6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/569fdbb9e2b1adda121904b4c5f382710c8ed6d4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bf8319c212883349360b9cb57b0426acddcc12a1",
+      "width" : 64
+    } ],
+    "name" : "Unchain My Heart",
+    "type" : "album",
+    "uri" : "spotify:album:0ZHwXuQmOlwI6i1ZSX0CEx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI",
+    "id" : "3pFCERyEiP5xeN2EsPXhjI",
+    "name" : "Joe Cocker",
+    "type" : "artist",
+    "uri" : "spotify:artist:3pFCERyEiP5xeN2EsPXhjI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 304293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA28800001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6oyYKWTbYt5Zb8tIiLZbmH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6oyYKWTbYt5Zb8tIiLZbmH",
+  "id" : "6oyYKWTbYt5Zb8tIiLZbmH",
+  "name" : "Unchain My Heart",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d139fcda788e033c3dc926d0bdbf8730d7c4f7a5?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6oyYKWTbYt5Zb8tIiLZbmH"
+}

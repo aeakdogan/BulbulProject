@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1BlBZ9jQGOjmj6Zykgg43L",
+      "id" : "1BlBZ9jQGOjmj6Zykgg43L",
+      "name" : "4hero",
+      "type" : "artist",
+      "uri" : "spotify:artist:1BlBZ9jQGOjmj6Zykgg43L"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4j7jyXjKZcj7GXTAVfsyqz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4j7jyXjKZcj7GXTAVfsyqz",
+    "id" : "4j7jyXjKZcj7GXTAVfsyqz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e34766b12b0e5146d1dbe39aa6cf3e34756b8e4a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/264a46e7223040fdc7285144e775436da9baa5e5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9be20f412beba79bf1a02d7c1b12ffcbf9b11032",
+      "width" : 64
+    } ],
+    "name" : "Two Pages (US Version)",
+    "type" : "album",
+    "uri" : "spotify:album:4j7jyXjKZcj7GXTAVfsyqz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1BlBZ9jQGOjmj6Zykgg43L",
+    "id" : "1BlBZ9jQGOjmj6Zykgg43L",
+    "name" : "4hero",
+    "type" : "artist",
+    "uri" : "spotify:artist:1BlBZ9jQGOjmj6Zykgg43L"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 364133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF089800225"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/19TjSwWzz8Xp8OWt90eopg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/19TjSwWzz8Xp8OWt90eopg",
+  "id" : "19TjSwWzz8Xp8OWt90eopg",
+  "name" : "Third Stream",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6d01780770d1fe74a8a48c8d92f775fef113d8ba?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:19TjSwWzz8Xp8OWt90eopg"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN",
+      "id" : "5WUlDfRSoLAfcVSX1WnrxN",
+      "name" : "Sia",
+      "type" : "artist",
+      "uri" : "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6uVUKJgirfLpW20hCk9cwb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6uVUKJgirfLpW20hCk9cwb",
+    "id" : "6uVUKJgirfLpW20hCk9cwb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ed4bea7ca62ef5351f0edbb6bd3a9c7123ddf73f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2267719a2f629509f713478dc120496c580e455e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8ff905095c76c034d6b9ec2ab3baebdc178581b6",
+      "width" : 64
+    } ],
+    "name" : "Colour The Small One",
+    "type" : "album",
+    "uri" : "spotify:album:6uVUKJgirfLpW20hCk9cwb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN",
+    "id" : "5WUlDfRSoLAfcVSX1WnrxN",
+    "name" : "Sia",
+    "type" : "artist",
+    "uri" : "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 284933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN0300591"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7r66gMjXH5euA5unHhIJyL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7r66gMjXH5euA5unHhIJyL",
+  "id" : "7r66gMjXH5euA5unHhIJyL",
+  "name" : "Where I Belong",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b73c34664b1ca494693d2bbefdd6935801b1bc6c?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:7r66gMjXH5euA5unHhIJyL"
+}

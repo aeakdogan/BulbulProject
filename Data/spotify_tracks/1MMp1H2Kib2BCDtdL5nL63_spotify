@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0N5PyKJzS3M1XNlaCL7bbE",
+      "id" : "0N5PyKJzS3M1XNlaCL7bbE",
+      "name" : "Wilson Pickett",
+      "type" : "artist",
+      "uri" : "spotify:artist:0N5PyKJzS3M1XNlaCL7bbE"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3i8EJ0Ypi3qptjM2Q3DLIL",
+    "id" : "3i8EJ0Ypi3qptjM2Q3DLIL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/210bb6e977027adcbd929fc32d92ea9a388ca813",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9827821d994f2b30a1c1bd06e7b29f78c987f1c6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/64089fa583448c4e485e2cb930e984f610c06eb4",
+      "width" : 64
+    } ],
+    "name" : "Hey Jude",
+    "type" : "album",
+    "uri" : "spotify:album:3i8EJ0Ypi3qptjM2Q3DLIL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0N5PyKJzS3M1XNlaCL7bbE",
+    "id" : "0N5PyKJzS3M1XNlaCL7bbE",
+    "name" : "Wilson Pickett",
+    "type" : "artist",
+    "uri" : "spotify:artist:0N5PyKJzS3M1XNlaCL7bbE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 247733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT29902218"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1MMp1H2Kib2BCDtdL5nL63",
+  "id" : "1MMp1H2Kib2BCDtdL5nL63",
+  "name" : "Hey Jude",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f9bd7992e08e00c43e21ceeb3f06568cfd961913?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1MMp1H2Kib2BCDtdL5nL63"
+}

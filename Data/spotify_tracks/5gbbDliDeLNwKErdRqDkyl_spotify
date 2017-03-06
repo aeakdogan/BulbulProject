@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4rxLL54lKK2LgDjDE4w8mg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4rxLL54lKK2LgDjDE4w8mg",
+    "id" : "4rxLL54lKK2LgDjDE4w8mg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5f54a9986f49d5e6bcb034b0d7c6984c15356adc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4f13ff5bbb48ae9cdb889357f9f7ada4c08a5aaa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0dec1bd07a9afde7fdfa8a2ff7593ef576e67ecf",
+      "width" : 64
+    } ],
+    "name" : "Barcelona Satélite Lounge",
+    "type" : "album",
+    "uri" : "spotify:album:4rxLL54lKK2LgDjDE4w8mg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2dxfrIXDVz9vrggJPRuJrZ",
+    "id" : "2dxfrIXDVz9vrggJPRuJrZ",
+    "name" : "Doctor Rockit",
+    "type" : "artist",
+    "uri" : "spotify:artist:2dxfrIXDVz9vrggJPRuJrZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 507652,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES6100141411"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5gbbDliDeLNwKErdRqDkyl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5gbbDliDeLNwKErdRqDkyl",
+  "id" : "5gbbDliDeLNwKErdRqDkyl",
+  "name" : "Cafe de Flore",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c13c71a267029489f61037c587f733b71f0315c3?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:5gbbDliDeLNwKErdRqDkyl"
+}

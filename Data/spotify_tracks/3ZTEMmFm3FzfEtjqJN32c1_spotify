@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0W498bDDNlJIrYMKXdpLHA",
+      "id" : "0W498bDDNlJIrYMKXdpLHA",
+      "name" : "Roberta Flack",
+      "type" : "artist",
+      "uri" : "spotify:artist:0W498bDDNlJIrYMKXdpLHA"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2ARWEOvaUgm4FSj25MpY6F",
+    "id" : "2ARWEOvaUgm4FSj25MpY6F",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8e1ebf94a927b288260a75c9a14b941cb6897a8c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/787432e66993a8c96d5a1a764c3588709da1eb89",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4b8dc7c8c34bd83c06e35b4b71393f81948edb62",
+      "width" : 64
+    } ],
+    "name" : "First Take",
+    "type" : "album",
+    "uri" : "spotify:album:2ARWEOvaUgm4FSj25MpY6F"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0W498bDDNlJIrYMKXdpLHA",
+    "id" : "0W498bDDNlJIrYMKXdpLHA",
+    "name" : "Roberta Flack",
+    "type" : "artist",
+    "uri" : "spotify:artist:0W498bDDNlJIrYMKXdpLHA"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 316160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT29500143"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3ZTEMmFm3FzfEtjqJN32c1",
+  "id" : "3ZTEMmFm3FzfEtjqJN32c1",
+  "name" : "Compared To What",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dee2e1c2827f0ece31d8719df1c894eac76bd856?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3ZTEMmFm3FzfEtjqJN32c1"
+}

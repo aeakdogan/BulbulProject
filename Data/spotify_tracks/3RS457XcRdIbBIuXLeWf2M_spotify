@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy",
+      "id" : "6UUrUCIZtQeOf8tC0WuzRy",
+      "name" : "Sigur Rós",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0zNndSTi4Kqg98hzSU6d2x"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0zNndSTi4Kqg98hzSU6d2x",
+    "id" : "0zNndSTi4Kqg98hzSU6d2x",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/07e79cc33b0b6218d7fd5613a8a6eca2dd68e254",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/30cbe0e802fcc3bdeee03a7d620cb5a502c36f1a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/20f23f93f025c5fcae6ec1e344c0d04202f36326",
+      "width" : 64
+    } ],
+    "name" : "Valtari",
+    "type" : "album",
+    "uri" : "spotify:album:0zNndSTi4Kqg98hzSU6d2x"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy",
+    "id" : "6UUrUCIZtQeOf8tC0WuzRy",
+    "name" : "Sigur Rós",
+    "type" : "artist",
+    "uri" : "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 367773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBKEE1200237"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3RS457XcRdIbBIuXLeWf2M"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3RS457XcRdIbBIuXLeWf2M",
+  "id" : "3RS457XcRdIbBIuXLeWf2M",
+  "name" : "Varðeldur",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d2599f20887ac2f5045c7ccef2e865ff3daec205?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3RS457XcRdIbBIuXLeWf2M"
+}

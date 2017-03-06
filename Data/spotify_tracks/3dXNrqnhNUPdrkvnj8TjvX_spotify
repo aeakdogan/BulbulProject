@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/75EZuo5MHV2572NRpMWotC",
+      "id" : "75EZuo5MHV2572NRpMWotC",
+      "name" : "Crystal Fighters",
+      "type" : "artist",
+      "uri" : "spotify:artist:75EZuo5MHV2572NRpMWotC"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/00v21bgN2da5KonMWEAMec"
+    },
+    "href" : "https://api.spotify.com/v1/albums/00v21bgN2da5KonMWEAMec",
+    "id" : "00v21bgN2da5KonMWEAMec",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3fa56eabf818298c1920b33a22b52a19d5bd8680",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/941cf92143e5dda0f0eead7d59f10f7830d5ac97",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/df93bbc5b3e4a89ff93ec828b73de4d233cf3ea9",
+      "width" : 64
+    } ],
+    "name" : "Star Of Love",
+    "type" : "album",
+    "uri" : "spotify:album:00v21bgN2da5KonMWEAMec"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/75EZuo5MHV2572NRpMWotC",
+    "id" : "75EZuo5MHV2572NRpMWotC",
+    "name" : "Crystal Fighters",
+    "type" : "artist",
+    "uri" : "spotify:artist:75EZuo5MHV2572NRpMWotC"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 306440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBE7C1000013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3dXNrqnhNUPdrkvnj8TjvX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3dXNrqnhNUPdrkvnj8TjvX",
+  "id" : "3dXNrqnhNUPdrkvnj8TjvX",
+  "name" : "At Home",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b23ace802c8bfd29d20d9e0866fdc3a1d6b09c94?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3dXNrqnhNUPdrkvnj8TjvX"
+}

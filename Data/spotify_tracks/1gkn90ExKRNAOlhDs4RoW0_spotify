@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq",
+      "id" : "2Hkut4rAAyrQxRdof7FVJq",
+      "name" : "Rush",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Hkut4rAAyrQxRdof7FVJq"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/57ystaP7WpAOxvCxKFxByS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/57ystaP7WpAOxvCxKFxByS",
+    "id" : "57ystaP7WpAOxvCxKFxByS",
+    "images" : [ {
+      "height" : 631,
+      "url" : "https://i.scdn.co/image/f5b3939bc776cac32dc6cba037bd2f4944d09289",
+      "width" : 640
+    }, {
+      "height" : 296,
+      "url" : "https://i.scdn.co/image/42fd595930a6222a43284e515fd3c65e6b25abe9",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/91682dee25761aefb6d06f6ce7eaffc74cf23e05",
+      "width" : 64
+    } ],
+    "name" : "Rush",
+    "type" : "album",
+    "uri" : "spotify:album:57ystaP7WpAOxvCxKFxByS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq",
+    "id" : "2Hkut4rAAyrQxRdof7FVJq",
+    "name" : "Rush",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Hkut4rAAyrQxRdof7FVJq"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 429973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMR17407513"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1gkn90ExKRNAOlhDs4RoW0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1gkn90ExKRNAOlhDs4RoW0",
+  "id" : "1gkn90ExKRNAOlhDs4RoW0",
+  "name" : "Working Man",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0619b440ba9fed0199d5b6664bed7cf931b9492d?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1gkn90ExKRNAOlhDs4RoW0"
+}

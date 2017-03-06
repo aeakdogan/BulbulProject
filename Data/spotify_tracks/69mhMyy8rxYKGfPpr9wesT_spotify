@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KsASRNugxU85T0u6zSg32",
+      "id" : "1KsASRNugxU85T0u6zSg32",
+      "name" : "Tori Amos",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KsASRNugxU85T0u6zSg32"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1pFUGy3ABpLRRE3oNMPbDb",
+    "id" : "1pFUGy3ABpLRRE3oNMPbDb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b9ca0a1c04724eb0dcc768be744bc3f0290823fa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e2d37ecd6c0f1aabb01c7b1880f8ee1bb6a3fcf3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/87759e19cfe6b714410c2343a55edacccda4fe39",
+      "width" : 64
+    } ],
+    "name" : "Little Earthquakes (*)",
+    "type" : "album",
+    "uri" : "spotify:album:1pFUGy3ABpLRRE3oNMPbDb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1KsASRNugxU85T0u6zSg32",
+    "id" : "1KsASRNugxU85T0u6zSg32",
+    "name" : "Tori Amos",
+    "type" : "artist",
+    "uri" : "spotify:artist:1KsASRNugxU85T0u6zSg32"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 342000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT29100019"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/69mhMyy8rxYKGfPpr9wesT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/69mhMyy8rxYKGfPpr9wesT",
+  "id" : "69mhMyy8rxYKGfPpr9wesT",
+  "name" : "Winter",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8e6b05376b00efc141aa3015474d07d79e73d97f?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:69mhMyy8rxYKGfPpr9wesT"
+}

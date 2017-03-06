@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+      "id" : "22bE4uQ6baNwSHPVcDxLCe",
+      "name" : "The Rolling Stones",
+      "type" : "artist",
+      "uri" : "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4l4u9e9jSbotSXNjYfOugy",
+    "id" : "4l4u9e9jSbotSXNjYfOugy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eda50e6eb9d59e339baf96b3b98d6e9ae8a8ee95",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/88169c4f1e5666f1120f04730891720976db1653",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/be1aba99b46127c747e4142ad23f2161b9b9871b",
+      "width" : 64
+    } ],
+    "name" : "Let It Bleed",
+    "type" : "album",
+    "uri" : "spotify:album:4l4u9e9jSbotSXNjYfOugy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+    "id" : "22bE4uQ6baNwSHPVcDxLCe",
+    "name" : "The Rolling Stones",
+    "type" : "artist",
+    "uri" : "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 270773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA176910020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6H3kDe7CGoWYBabAeVWGiD",
+  "id" : "6H3kDe7CGoWYBabAeVWGiD",
+  "name" : "Gimme Shelter",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dcc0bc7ee6b4849ea5695965a98f111df566f927?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6H3kDe7CGoWYBabAeVWGiD"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/23i8EixXKG0EWGRCfHlUGN",
+      "id" : "23i8EixXKG0EWGRCfHlUGN",
+      "name" : "Milt Jackson",
+      "type" : "artist",
+      "uri" : "spotify:artist:23i8EixXKG0EWGRCfHlUGN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4k6MyOmCrR9z8uTs2KUdJ5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4k6MyOmCrR9z8uTs2KUdJ5",
+    "id" : "4k6MyOmCrR9z8uTs2KUdJ5",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/b5cc0b6bc8f41fa8b38fa6ca665d05e3bf93a5c4",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/78e624a17671648e465afc4d5c1bfb0f04afa69d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/25ebfac2218b50041b4c7c58d1d100d099387c1d",
+      "width" : 64
+    } ],
+    "name" : "Anthology",
+    "type" : "album",
+    "uri" : "spotify:album:4k6MyOmCrR9z8uTs2KUdJ5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/23i8EixXKG0EWGRCfHlUGN",
+    "id" : "23i8EixXKG0EWGRCfHlUGN",
+    "name" : "Milt Jackson",
+    "type" : "artist",
+    "uri" : "spotify:artist:23i8EixXKG0EWGRCfHlUGN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 181213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70603049"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ymyMteqnw6t1fDkQdJsuW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ymyMteqnw6t1fDkQdJsuW",
+  "id" : "7ymyMteqnw6t1fDkQdJsuW",
+  "name" : "Jazz Bossa Nova",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9d023de9b658098a95c114a25b4261002363acc4?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7ymyMteqnw6t1fDkQdJsuW"
+}

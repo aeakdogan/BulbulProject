@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4SXj7TVoA3bgfR8AVssACa",
+      "id" : "4SXj7TVoA3bgfR8AVssACa",
+      "name" : "Caspian",
+      "type" : "artist",
+      "uri" : "spotify:artist:4SXj7TVoA3bgfR8AVssACa"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6nhEy5Eu7lkJ3SOX1nis1B"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6nhEy5Eu7lkJ3SOX1nis1B",
+    "id" : "6nhEy5Eu7lkJ3SOX1nis1B",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/709c8477594d82b870f8060bf136097ff7171290",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/26627a13bb944650ec71701154e784a0b73fbdcd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a4e63b23bf60baaea578e7a157f62bf920761791",
+      "width" : 64
+    } ],
+    "name" : "Hymn For The Greatest Generation",
+    "type" : "album",
+    "uri" : "spotify:album:6nhEy5Eu7lkJ3SOX1nis1B"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4SXj7TVoA3bgfR8AVssACa",
+    "id" : "4SXj7TVoA3bgfR8AVssACa",
+    "name" : "Caspian",
+    "type" : "artist",
+    "uri" : "spotify:artist:4SXj7TVoA3bgfR8AVssACa"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 457226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US72W1311099"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1v7Xg2vz6QBSbCHo0j0WUU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1v7Xg2vz6QBSbCHo0j0WUU",
+  "id" : "1v7Xg2vz6QBSbCHo0j0WUU",
+  "name" : "Hymn For The Greatest Generation",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ff4e7736bd6a697f4e8bded9db6f05deb0a69315?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1v7Xg2vz6QBSbCHo0j0WUU"
+}

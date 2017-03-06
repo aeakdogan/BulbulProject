@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0K1q0nXQ8is36PzOKAMbNe",
+      "id" : "0K1q0nXQ8is36PzOKAMbNe",
+      "name" : "Spoon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0K1q0nXQ8is36PzOKAMbNe"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2laFBdVKIFTExgJ46dsRna"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2laFBdVKIFTExgJ46dsRna",
+    "id" : "2laFBdVKIFTExgJ46dsRna",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/addc6a313b0478ba4caf70f51ec7608a57c9d4e7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c03c7b949558c896991e304631103f3b1e92786c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e7cb88a4f76a7d979c0b67b6092712b8d8541c33",
+      "width" : 64
+    } ],
+    "name" : "Transference",
+    "type" : "album",
+    "uri" : "spotify:album:2laFBdVKIFTExgJ46dsRna"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0K1q0nXQ8is36PzOKAMbNe",
+    "id" : "0K1q0nXQ8is36PzOKAMbNe",
+    "name" : "Spoon",
+    "type" : "artist",
+    "uri" : "spotify:artist:0K1q0nXQ8is36PzOKAMbNe"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG1036510"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1htoARBSUNF9zWZ7XRoFGq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1htoARBSUNF9zWZ7XRoFGq",
+  "id" : "1htoARBSUNF9zWZ7XRoFGq",
+  "name" : "Got Nuffin",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3df77e12810a22ef1900b840c5fdae43e355d91c?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1htoARBSUNF9zWZ7XRoFGq"
+}

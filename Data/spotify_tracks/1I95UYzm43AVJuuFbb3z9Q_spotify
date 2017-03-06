@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0utS63XytOEVN1EtzWhJpG",
+      "id" : "0utS63XytOEVN1EtzWhJpG",
+      "name" : "The Radio Dept.",
+      "type" : "artist",
+      "uri" : "spotify:artist:0utS63XytOEVN1EtzWhJpG"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1dYRRNTOC6KA94HxqyhES1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1dYRRNTOC6KA94HxqyhES1",
+    "id" : "1dYRRNTOC6KA94HxqyhES1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1c02ebbb6acd091ac5a98bdc459111436bdd0e94",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ed4ad09856065ad3125ad2d3b2997f439a2111fc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/efafc9898097de74455e3536698365fa796c6405",
+      "width" : 64
+    } ],
+    "name" : "Passive Aggressive: Singles 2002-2010",
+    "type" : "album",
+    "uri" : "spotify:album:1dYRRNTOC6KA94HxqyhES1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0utS63XytOEVN1EtzWhJpG",
+    "id" : "0utS63XytOEVN1EtzWhJpG",
+    "name" : "The Radio Dept.",
+    "type" : "artist",
+    "uri" : "spotify:artist:0utS63XytOEVN1EtzWhJpG"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 207093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEVMM0905002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1I95UYzm43AVJuuFbb3z9Q"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1I95UYzm43AVJuuFbb3z9Q",
+  "id" : "1I95UYzm43AVJuuFbb3z9Q",
+  "name" : "Messy Enough",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1612c7f163e9e867b2735c50529658600ca07ff0?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1I95UYzm43AVJuuFbb3z9Q"
+}

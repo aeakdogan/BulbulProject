@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+      "id" : "3jOstUTkEu2JkjvRdBA5Gu",
+      "name" : "Weezer",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4D8A8M0NJjEdQhusawyeDz",
+    "id" : "4D8A8M0NJjEdQhusawyeDz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/648b1c9d662b07968c02f8dbc22ea388c64de25f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6cb02d28697562973520d3f34ecda3ccc0cc17f6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e3fe6f90314f3eff2f73e85c67ae524d4e386e2e",
+      "width" : 64
+    } ],
+    "name" : "Make Believe",
+    "type" : "album",
+    "uri" : "spotify:album:4D8A8M0NJjEdQhusawyeDz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+    "id" : "3jOstUTkEu2JkjvRdBA5Gu",
+    "name" : "Weezer",
+    "type" : "artist",
+    "uri" : "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 255866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR10500628"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6RldLi8E0Q6nr8yfUnfXVQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6RldLi8E0Q6nr8yfUnfXVQ",
+  "id" : "6RldLi8E0Q6nr8yfUnfXVQ",
+  "name" : "Pardon Me",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0fc5b07d061d63b2998a6d859f51479a69225d62?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6RldLi8E0Q6nr8yfUnfXVQ"
+}

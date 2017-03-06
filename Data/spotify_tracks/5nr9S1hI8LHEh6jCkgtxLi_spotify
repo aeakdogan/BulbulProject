@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UL7BodGc5iVmQGlMwHR0g",
+      "id" : "6UL7BodGc5iVmQGlMwHR0g",
+      "name" : "Steel Pulse",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UL7BodGc5iVmQGlMwHR0g"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6yFAr5jJ9FlqkJrGF1W1kv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6yFAr5jJ9FlqkJrGF1W1kv",
+    "id" : "6yFAr5jJ9FlqkJrGF1W1kv",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/461ab1dc1b4e3f9648b31ff8069d3660a1a566dc",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/ca5866f04aaaa66785568d0e6d81800af3d4dd36",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/e25a9463f949b075852ed8233951231d58f88d56",
+      "width" : 64
+    } ],
+    "name" : "Sound System: The Island Anthology",
+    "type" : "album",
+    "uri" : "spotify:album:6yFAr5jJ9FlqkJrGF1W1kv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6UL7BodGc5iVmQGlMwHR0g",
+    "id" : "6UL7BodGc5iVmQGlMwHR0g",
+    "name" : "Steel Pulse",
+    "type" : "artist",
+    "uri" : "spotify:artist:6UL7BodGc5iVmQGlMwHR0g"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 323226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAPA7800006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5nr9S1hI8LHEh6jCkgtxLi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5nr9S1hI8LHEh6jCkgtxLi",
+  "id" : "5nr9S1hI8LHEh6jCkgtxLi",
+  "name" : "Handsworth Revolution",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cb643173078f9855ba58414503732daaf00bf65a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5nr9S1hI8LHEh6jCkgtxLi"
+}

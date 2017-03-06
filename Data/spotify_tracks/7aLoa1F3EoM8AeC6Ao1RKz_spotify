@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DTgcOxytJHD8p17mhSgd7",
+      "id" : "1DTgcOxytJHD8p17mhSgd7",
+      "name" : "Big Joe Turner",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DTgcOxytJHD8p17mhSgd7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2iu4J4bEoe5uFum7txYGkV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2iu4J4bEoe5uFum7txYGkV",
+      "id" : "2iu4J4bEoe5uFum7txYGkV",
+      "name" : "Pete Johnson Atomic Boogie",
+      "type" : "artist",
+      "uri" : "spotify:artist:2iu4J4bEoe5uFum7txYGkV"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3srwW4zf3HJcOItxUokJgI",
+    "id" : "3srwW4zf3HJcOItxUokJgI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ff6eab7e2079006660ae51fd770fde5947c49163",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9c16b1ca50cda55b8f13794f058be5ece1cb8e61",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/16b8ca9faa460c0a8c045bfd68f5e7b2102a7e0e",
+      "width" : 64
+    } ],
+    "name" : "Shake Rattle & Rock",
+    "type" : "album",
+    "uri" : "spotify:album:3srwW4zf3HJcOItxUokJgI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DTgcOxytJHD8p17mhSgd7",
+    "id" : "1DTgcOxytJHD8p17mhSgd7",
+    "name" : "Big Joe Turner",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DTgcOxytJHD8p17mhSgd7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 179626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT29901885"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7aLoa1F3EoM8AeC6Ao1RKz",
+  "id" : "7aLoa1F3EoM8AeC6Ao1RKz",
+  "name" : "Shake, Rattle And Roll",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/398c12d511a800b33e4d359589a9e1c92a9a1384?cid=null",
+  "track_number" : 16,
+  "type" : "track",
+  "uri" : "spotify:track:7aLoa1F3EoM8AeC6Ao1RKz"
+}

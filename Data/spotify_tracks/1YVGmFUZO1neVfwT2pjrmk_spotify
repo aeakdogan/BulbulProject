@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+      "id" : "7w29UYBi0qsHi5RTcv3lmA",
+      "name" : "Björk",
+      "type" : "artist",
+      "uri" : "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4l3nzzqehJwW5EJb3KaNxg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4l3nzzqehJwW5EJb3KaNxg",
+    "id" : "4l3nzzqehJwW5EJb3KaNxg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ec8c6a48a4f205488f19e35b614a7f0c2640d834",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/71d53a58315781bdcd11254faee04aa7c9a8bc30",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1abdf4e274295f7c8965c930b7b78717e75e7b3c",
+      "width" : 64
+    } ],
+    "name" : "Selmasongs: Music From The Motion Picture \"Dancer In The Dark\"`",
+    "type" : "album",
+    "uri" : "spotify:album:4l3nzzqehJwW5EJb3KaNxg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+    "id" : "7w29UYBi0qsHi5RTcv3lmA",
+    "name" : "Björk",
+    "type" : "artist",
+    "uri" : "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 319826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBTF9900163"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1YVGmFUZO1neVfwT2pjrmk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1YVGmFUZO1neVfwT2pjrmk",
+  "id" : "1YVGmFUZO1neVfwT2pjrmk",
+  "name" : "I've Seen It All",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fe2a7d581ca017da63136648489054af849fef60?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1YVGmFUZO1neVfwT2pjrmk"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ajp0mepNWwjGZ9ivlqqaT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ajp0mepNWwjGZ9ivlqqaT",
+      "id" : "6ajp0mepNWwjGZ9ivlqqaT",
+      "name" : "Jan A.P. Kaczmarek",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ajp0mepNWwjGZ9ivlqqaT"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5DZgFdwM8RGwbJitZqBzLJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5DZgFdwM8RGwbJitZqBzLJ",
+    "id" : "5DZgFdwM8RGwbJitZqBzLJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b5c75c1c63a896b23f68b204d7fe00ff69c9af02",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/502d948251e184ca81455696cbf70e8b90efe313",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aefc1064710bb8efd5c30035feb5fc6de0f8381a",
+      "width" : 64
+    } ],
+    "name" : "Unfaithful (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:5DZgFdwM8RGwbJitZqBzLJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6ajp0mepNWwjGZ9ivlqqaT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6ajp0mepNWwjGZ9ivlqqaT",
+    "id" : "6ajp0mepNWwjGZ9ivlqqaT",
+    "name" : "Jan A.P. Kaczmarek",
+    "type" : "artist",
+    "uri" : "spotify:artist:6ajp0mepNWwjGZ9ivlqqaT"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 154733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US3M50235611"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0exekKataU9jYoMXz6YnzR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0exekKataU9jYoMXz6YnzR",
+  "id" : "0exekKataU9jYoMXz6YnzR",
+  "name" : "Unfaithful",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/644d784d302fe80959de74da2be4db35fa2e5fd4?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0exekKataU9jYoMXz6YnzR"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ",
+      "id" : "3iTsJGG39nMg9YiolUgLMQ",
+      "name" : "Morrissey",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iTsJGG39nMg9YiolUgLMQ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0hSTT2RPAk1MDB0gSBjZbb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0hSTT2RPAk1MDB0gSBjZbb",
+    "id" : "0hSTT2RPAk1MDB0gSBjZbb",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/4e5aaeb1d5b20984e0395c0ac83a9a27196875d7",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/b89f305416588d64e8de70cc1f37af4db4603459",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ed14576c995ee0f7d7aaab8d4866801b3598eeeb",
+      "width" : 64
+    } ],
+    "name" : "Morrissey Greatest Hits",
+    "type" : "album",
+    "uri" : "spotify:album:0hSTT2RPAk1MDB0gSBjZbb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ",
+    "id" : "3iTsJGG39nMg9YiolUgLMQ",
+    "name" : "Morrissey",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iTsJGG39nMg9YiolUgLMQ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 156400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBA0742540"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1fFVZbsNjNKPFG8hv2YTTZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1fFVZbsNjNKPFG8hv2YTTZ",
+  "id" : "1fFVZbsNjNKPFG8hv2YTTZ",
+  "name" : "Irish Blood, English Heart",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b4f6be5c9a93a5cc6a98662879946043ea6e2fc5?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1fFVZbsNjNKPFG8hv2YTTZ"
+}

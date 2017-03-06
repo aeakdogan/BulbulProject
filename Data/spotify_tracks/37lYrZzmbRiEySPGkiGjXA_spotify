@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3LLNDXrxL4uxXtnUJS5XWM",
+      "id" : "3LLNDXrxL4uxXtnUJS5XWM",
+      "name" : "Alexander Rybak",
+      "type" : "artist",
+      "uri" : "spotify:artist:3LLNDXrxL4uxXtnUJS5XWM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4SpIN9uoCm4Hx66iOhP3Vg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4SpIN9uoCm4Hx66iOhP3Vg",
+    "id" : "4SpIN9uoCm4Hx66iOhP3Vg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4e9b6ba75087e228409c6c46e963e0b7b3d4d828",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8a50dc8774d5f10e59b443eb0faa87362c8d8807",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2a3b607a4e298b87d8c4a6ba0282835ed9f25132",
+      "width" : 64
+    } ],
+    "name" : "Fairytale",
+    "type" : "album",
+    "uri" : "spotify:album:4SpIN9uoCm4Hx66iOhP3Vg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3LLNDXrxL4uxXtnUJS5XWM",
+    "id" : "3LLNDXrxL4uxXtnUJS5XWM",
+    "name" : "Alexander Rybak",
+    "type" : "artist",
+    "uri" : "spotify:artist:3LLNDXrxL4uxXtnUJS5XWM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 182600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NO23B0900001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/37lYrZzmbRiEySPGkiGjXA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/37lYrZzmbRiEySPGkiGjXA",
+  "id" : "37lYrZzmbRiEySPGkiGjXA",
+  "name" : "Fairytale",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2c550f33a9879ffa651e90be660fc26ec0a6091e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:37lYrZzmbRiEySPGkiGjXA"
+}

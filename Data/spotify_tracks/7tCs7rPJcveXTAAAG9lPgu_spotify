@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0IVapwlnM3dEOiMsHXsghT",
+      "id" : "0IVapwlnM3dEOiMsHXsghT",
+      "name" : "Nosaj Thing",
+      "type" : "artist",
+      "uri" : "spotify:artist:0IVapwlnM3dEOiMsHXsghT"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4aEu59xNuAebcY131BUhrm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4aEu59xNuAebcY131BUhrm",
+    "id" : "4aEu59xNuAebcY131BUhrm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/733574d92b59d8914f745e1b5ef25f141a66629a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/23b6720766b9ce37b8b3708992a6c9ebac8d00eb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3894fab0e0bce4a9a063bfe918b7a086bd8e0a44",
+      "width" : 64
+    } ],
+    "name" : "Home",
+    "type" : "album",
+    "uri" : "spotify:album:4aEu59xNuAebcY131BUhrm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0IVapwlnM3dEOiMsHXsghT",
+    "id" : "0IVapwlnM3dEOiMsHXsghT",
+    "name" : "Nosaj Thing",
+    "type" : "artist",
+    "uri" : "spotify:artist:0IVapwlnM3dEOiMsHXsghT"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Hq3XBRgvPxexCPev1WFjf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Hq3XBRgvPxexCPev1WFjf",
+    "id" : "5Hq3XBRgvPxexCPev1WFjf",
+    "name" : "Kazu Makino",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Hq3XBRgvPxexCPev1WFjf"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 269226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USD8D2010002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7tCs7rPJcveXTAAAG9lPgu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7tCs7rPJcveXTAAAG9lPgu",
+  "id" : "7tCs7rPJcveXTAAAG9lPgu",
+  "name" : "Eclipse/Blue (feat. Kazu Makino)",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c10904d72ea9f6f297e65f8530c8a92d13251647?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7tCs7rPJcveXTAAAG9lPgu"
+}

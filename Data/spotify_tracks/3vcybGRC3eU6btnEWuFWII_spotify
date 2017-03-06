@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6eoJpTIlcuxJNjV5fDzDJH",
+      "id" : "6eoJpTIlcuxJNjV5fDzDJH",
+      "name" : "Live",
+      "type" : "artist",
+      "uri" : "spotify:artist:6eoJpTIlcuxJNjV5fDzDJH"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/42x2xMRsc2eZm4m3I6fhL4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/42x2xMRsc2eZm4m3I6fhL4",
+    "id" : "42x2xMRsc2eZm4m3I6fhL4",
+    "images" : [ {
+      "height" : 615,
+      "url" : "https://i.scdn.co/image/92d701addd16082320458099c0423c29a29c16cd",
+      "width" : 640
+    }, {
+      "height" : 288,
+      "url" : "https://i.scdn.co/image/6292afd5c2255ceb1f4e267ecdfedcdd52f193c1",
+      "width" : 300
+    }, {
+      "height" : 61,
+      "url" : "https://i.scdn.co/image/c909a1b81df0f66b227a077a557b508c2149dcbf",
+      "width" : 64
+    } ],
+    "name" : "Secret Samadhi",
+    "type" : "album",
+    "uri" : "spotify:album:42x2xMRsc2eZm4m3I6fhL4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6eoJpTIlcuxJNjV5fDzDJH",
+    "id" : "6eoJpTIlcuxJNjV5fDzDJH",
+    "name" : "Live",
+    "type" : "artist",
+    "uri" : "spotify:artist:6eoJpTIlcuxJNjV5fDzDJH"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 299266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRR29651608"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3vcybGRC3eU6btnEWuFWII"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3vcybGRC3eU6btnEWuFWII",
+  "id" : "3vcybGRC3eU6btnEWuFWII",
+  "name" : "Lakini's Juice",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/36504acd7ddf716c1e5cd77d22e858f58dacc9fd?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3vcybGRC3eU6btnEWuFWII"
+}

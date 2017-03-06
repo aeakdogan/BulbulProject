@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+      "id" : "4Z8W4fKeB5YxbusRsdQVPb",
+      "name" : "Radiohead",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6400dnyeDyD2mIFHfkwHXN",
+    "id" : "6400dnyeDyD2mIFHfkwHXN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e17011b2aa33289dfa6c0828a0e40d6b56ad8820",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fe11a648ea61a3c2422c21b3ff8a870a6efbc608",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4b04fa350781271b1af24d804c1badec1f8e63c7",
+      "width" : 64
+    } ],
+    "name" : "Pablo Honey",
+    "type" : "album",
+    "uri" : "spotify:album:6400dnyeDyD2mIFHfkwHXN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+    "id" : "4Z8W4fKeB5YxbusRsdQVPb",
+    "name" : "Radiohead",
+    "type" : "artist",
+    "uri" : "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 187866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE9200116"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2B5P22cfUadACK7jLQegU6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2B5P22cfUadACK7jLQegU6",
+  "id" : "2B5P22cfUadACK7jLQegU6",
+  "name" : "Lurgee",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ae0de4e9b90a15a79f13643efbefa647d19baf18?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2B5P22cfUadACK7jLQegU6"
+}

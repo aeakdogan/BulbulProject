@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+      "id" : "7G1GBhoKtEPnP86X2PvEYO",
+      "name" : "Nina Simone",
+      "type" : "artist",
+      "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/12aKG91Tj6hJFOe90TzcX2",
+    "id" : "12aKG91Tj6hJFOe90TzcX2",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/4f9d151d775dfa6b561b7dc143bc31e6e26208e5",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/7b029ca04dc4e20175d384169d5a75dfee4732cc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e40ac59348d1383596274e07bdbe42db2555a2d6",
+      "width" : 64
+    } ],
+    "name" : "Nina Simone Sings The Blues",
+    "type" : "album",
+    "uri" : "spotify:album:12aKG91Tj6hJFOe90TzcX2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+    "id" : "7G1GBhoKtEPnP86X2PvEYO",
+    "name" : "Nina Simone",
+    "type" : "artist",
+    "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 255906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC16707689"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5QzTKoV71zuDilmtCkdU8A"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5QzTKoV71zuDilmtCkdU8A",
+  "id" : "5QzTKoV71zuDilmtCkdU8A",
+  "name" : "My Man's Gone Now",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b43450da8e94d7fe1e7770932b8ccd375991fffa?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5QzTKoV71zuDilmtCkdU8A"
+}

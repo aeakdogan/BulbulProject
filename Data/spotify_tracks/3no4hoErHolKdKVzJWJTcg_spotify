@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+      "id" : "34UhPkLbtFKRq3nmfFgejG",
+      "name" : "Mogwai",
+      "type" : "artist",
+      "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2uPCSiXbtnvNBlebZK7aVu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2uPCSiXbtnvNBlebZK7aVu",
+    "id" : "2uPCSiXbtnvNBlebZK7aVu",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/9d4edabd371cfadb6fb125d362e5baa841223ab8",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/aac745802d29c9a5fa0910a0b692bc7c68befcde",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5ae40db5751f52c58ef213e10c3763e863f7dccb",
+      "width" : 64
+    } ],
+    "name" : "The Hawk Is Howling",
+    "type" : "album",
+    "uri" : "spotify:album:2uPCSiXbtnvNBlebZK7aVu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+    "id" : "34UhPkLbtFKRq3nmfFgejG",
+    "name" : "Mogwai",
+    "type" : "artist",
+    "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 404480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBENL0800090"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3no4hoErHolKdKVzJWJTcg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3no4hoErHolKdKVzJWJTcg",
+  "id" : "3no4hoErHolKdKVzJWJTcg",
+  "name" : "I'm Jim Morrison, I'm Dead",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c4d0b34ee132e2033e4375c8a4bb00146b96c4d4?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3no4hoErHolKdKVzJWJTcg"
+}

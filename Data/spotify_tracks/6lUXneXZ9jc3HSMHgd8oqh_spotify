@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3dkbV4qihUeMsqN4vBGg93",
+      "id" : "3dkbV4qihUeMsqN4vBGg93",
+      "name" : "Al Green",
+      "type" : "artist",
+      "uri" : "spotify:artist:3dkbV4qihUeMsqN4vBGg93"
+    } ],
+    "available_markets" : [ "CA", "HK", "ID", "JP", "MX", "MY", "PH", "SG", "TW", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/58eMx3QrTkiRmGGbSz2XL0",
+    "id" : "58eMx3QrTkiRmGGbSz2XL0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8f271b1c2ad42fbed2c42d57d98eeec9802612ff",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/961cf8310c890205e213a0f411c340c9640a6804",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6dba438e36b23d71912e44c5717af4c64489aa04",
+      "width" : 64
+    } ],
+    "name" : "Let's Stay Together",
+    "type" : "album",
+    "uri" : "spotify:album:58eMx3QrTkiRmGGbSz2XL0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3dkbV4qihUeMsqN4vBGg93",
+    "id" : "3dkbV4qihUeMsqN4vBGg93",
+    "name" : "Al Green",
+    "type" : "artist",
+    "uri" : "spotify:artist:3dkbV4qihUeMsqN4vBGg93"
+  } ],
+  "available_markets" : [ "CA", "HK", "ID", "JP", "MX", "MY", "PH", "SG", "TW", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 383502,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2HK0913707"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6lUXneXZ9jc3HSMHgd8oqh",
+  "id" : "6lUXneXZ9jc3HSMHgd8oqh",
+  "name" : "How Can You Mend a Broken Heart",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/586f501037f5f090681fc4115ccca2404f61a210?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6lUXneXZ9jc3HSMHgd8oqh"
+}

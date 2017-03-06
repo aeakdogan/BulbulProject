@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3UbyYnvNIT5DFXU4WgiGpP",
+      "id" : "3UbyYnvNIT5DFXU4WgiGpP",
+      "name" : "Whitesnake",
+      "type" : "artist",
+      "uri" : "spotify:artist:3UbyYnvNIT5DFXU4WgiGpP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1C4VJOZKat9ewEz3UBUlPu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1C4VJOZKat9ewEz3UBUlPu",
+    "id" : "1C4VJOZKat9ewEz3UBUlPu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5505a425e2eeec3e1a424429b641762ccca9f5db",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ea731400160003b29af6f11ed50f0fbfabf4570d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d5483c15f6a368e10a091b62f0ee2a7b61551d90",
+      "width" : 64
+    } ],
+    "name" : "Forevermore",
+    "type" : "album",
+    "uri" : "spotify:album:1C4VJOZKat9ewEz3UBUlPu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3UbyYnvNIT5DFXU4WgiGpP",
+    "id" : "3UbyYnvNIT5DFXU4WgiGpP",
+    "name" : "Whitesnake",
+    "type" : "artist",
+    "uri" : "spotify:artist:3UbyYnvNIT5DFXU4WgiGpP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 231906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITG271100120"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6PIcUqmDiKXmKD18tu0Z5j"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6PIcUqmDiKXmKD18tu0Z5j",
+  "id" : "6PIcUqmDiKXmKD18tu0Z5j",
+  "name" : "Love Will Set You Free",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ae69f4359d3bb13d6cd770a60611e33fa68a2fe8?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6PIcUqmDiKXmKD18tu0Z5j"
+}

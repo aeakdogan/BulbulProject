@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4UBYU2gjxGYZSG4k6RW32F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4UBYU2gjxGYZSG4k6RW32F",
+      "id" : "4UBYU2gjxGYZSG4k6RW32F",
+      "name" : "James Harris",
+      "type" : "artist",
+      "uri" : "spotify:artist:4UBYU2gjxGYZSG4k6RW32F"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/478dh8h8xda4MDVmgECOtZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/478dh8h8xda4MDVmgECOtZ",
+    "id" : "478dh8h8xda4MDVmgECOtZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a9c03f47b2b0fef046cec3ce75a0a143bce05615",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c27a24f29434ee5cd9b3d0df68907c2596e828c6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d20c9e9ca9797a0d57e6d03ea5ae27b9ac19390",
+      "width" : 64
+    } ],
+    "name" : "Say Something",
+    "type" : "album",
+    "uri" : "spotify:album:478dh8h8xda4MDVmgECOtZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4UBYU2gjxGYZSG4k6RW32F"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4UBYU2gjxGYZSG4k6RW32F",
+    "id" : "4UBYU2gjxGYZSG4k6RW32F",
+    "name" : "James Harris",
+    "type" : "artist",
+    "uri" : "spotify:artist:4UBYU2gjxGYZSG4k6RW32F"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 192479,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "uscgh1668395"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ClMp9b2DMxtMnrd8VU7RU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ClMp9b2DMxtMnrd8VU7RU",
+  "id" : "7ClMp9b2DMxtMnrd8VU7RU",
+  "name" : "Say Something",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6f2fe7be50ded17706fc3a168b2525314a02f96f?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7ClMp9b2DMxtMnrd8VU7RU"
+}

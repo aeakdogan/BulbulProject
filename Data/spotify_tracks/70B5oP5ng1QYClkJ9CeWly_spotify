@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX",
+      "id" : "762310PdDnwsDxAQxzQkfX",
+      "name" : "Depeche Mode",
+      "type" : "artist",
+      "uri" : "spotify:artist:762310PdDnwsDxAQxzQkfX"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5g3Yi15plTSMaq6tYiuw8p",
+    "id" : "5g3Yi15plTSMaq6tYiuw8p",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2d6badd108ef4250246c54d301023d5d7616885a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e5bf75cf16702f4fb7960dafe62898800639d346",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a81c061c082b2457a936ced919194f437bc50ba1",
+      "width" : 64
+    } ],
+    "name" : "Violator (2006 Remastered Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:5g3Yi15plTSMaq6tYiuw8p"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX",
+    "id" : "762310PdDnwsDxAQxzQkfX",
+    "name" : "Depeche Mode",
+    "type" : "artist",
+    "uri" : "spotify:artist:762310PdDnwsDxAQxzQkfX"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 267040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0600287"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/70B5oP5ng1QYClkJ9CeWly"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/70B5oP5ng1QYClkJ9CeWly",
+  "id" : "70B5oP5ng1QYClkJ9CeWly",
+  "name" : "World In My Eyes - 2006 Remastered Version",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/44cda1281916623c3794601036fbe081d072cdc9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:70B5oP5ng1QYClkJ9CeWly"
+}

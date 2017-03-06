@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7GN9PivdemQRKjDt4z5Zv8",
+      "id" : "7GN9PivdemQRKjDt4z5Zv8",
+      "name" : "The Internet",
+      "type" : "artist",
+      "uri" : "spotify:artist:7GN9PivdemQRKjDt4z5Zv8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Bpt4fHYxxgqR2GjrxyR6D",
+    "id" : "4Bpt4fHYxxgqR2GjrxyR6D",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8837251990d67369cb31c816d26a3f29ec92afb1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d990f03f92c198977f372f746893f986e57f65e7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/83c40b517a398a3054825549e998278f2b9161ef",
+      "width" : 64
+    } ],
+    "name" : "Feel Good",
+    "type" : "album",
+    "uri" : "spotify:album:4Bpt4fHYxxgqR2GjrxyR6D"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7GN9PivdemQRKjDt4z5Zv8",
+    "id" : "7GN9PivdemQRKjDt4z5Zv8",
+    "name" : "The Internet",
+    "type" : "artist",
+    "uri" : "spotify:artist:7GN9PivdemQRKjDt4z5Zv8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 201640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USQX91301600"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6dET51TwAJPrKV5wmA5Vhr",
+  "id" : "6dET51TwAJPrKV5wmA5Vhr",
+  "name" : "Dontcha",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/87750894c1f4727cf0a4d629b3550acbd02372c3?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6dET51TwAJPrKV5wmA5Vhr"
+}

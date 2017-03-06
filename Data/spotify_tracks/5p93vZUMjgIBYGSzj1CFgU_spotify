@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG",
+      "id" : "6kBDZFXuLrZgHnvmPu9NsG",
+      "name" : "Aphex Twin",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kBDZFXuLrZgHnvmPu9NsG"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4u4hQUWs8Ghz7KVkjTd5o5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4u4hQUWs8Ghz7KVkjTd5o5",
+    "id" : "4u4hQUWs8Ghz7KVkjTd5o5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bbaa2f3d5a39d58d3ba50877278245cdda1f2a75",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e640941f66425ed784fccacebaba032ec59d6bb8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a6418aa5d19da59c7d9754b805df2ba0c56e00f9",
+      "width" : 64
+    } ],
+    "name" : "Drukqs",
+    "type" : "album",
+    "uri" : "spotify:album:4u4hQUWs8Ghz7KVkjTd5o5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG",
+    "id" : "6kBDZFXuLrZgHnvmPu9NsG",
+    "name" : "Aphex Twin",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kBDZFXuLrZgHnvmPu9NsG"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 131333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPW0100156"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5p93vZUMjgIBYGSzj1CFgU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5p93vZUMjgIBYGSzj1CFgU",
+  "id" : "5p93vZUMjgIBYGSzj1CFgU",
+  "name" : "Petiatil Cx Htdui",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/770d58d6a99845b853364cda5e20ab9d7a1dd9a9?cid=null",
+  "track_number" : 25,
+  "type" : "track",
+  "uri" : "spotify:track:5p93vZUMjgIBYGSzj1CFgU"
+}

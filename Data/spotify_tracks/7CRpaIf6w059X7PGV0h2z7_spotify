@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jefIIksOi1EazgRTfW2Pk",
+      "id" : "7jefIIksOi1EazgRTfW2Pk",
+      "name" : "Electric Light Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jefIIksOi1EazgRTfW2Pk"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0VN1YBG3026uRTujM4KPzB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0VN1YBG3026uRTujM4KPzB",
+    "id" : "0VN1YBG3026uRTujM4KPzB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9f77c862ff1ddda55cb8a4c758e077c23a7e544d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dde5529148a119a3ee3961a161505761914e82cb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/74f1c1b3b16516f5d765ec7c124209d7f47591e2",
+      "width" : 64
+    } ],
+    "name" : "20 Grandes Éxitos Electric Light Orchestra",
+    "type" : "album",
+    "uri" : "spotify:album:0VN1YBG3026uRTujM4KPzB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7jefIIksOi1EazgRTfW2Pk",
+    "id" : "7jefIIksOi1EazgRTfW2Pk",
+    "name" : "Electric Light Orchestra",
+    "type" : "artist",
+    "uri" : "spotify:artist:7jefIIksOi1EazgRTfW2Pk"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 200437,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES64A1044616"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7CRpaIf6w059X7PGV0h2z7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7CRpaIf6w059X7PGV0h2z7",
+  "id" : "7CRpaIf6w059X7PGV0h2z7",
+  "name" : "Rock & Roll Is King",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9f94c490b05ae38e94dd1c5fe5eb2ed5e4a01914?cid=null",
+  "track_number" : 16,
+  "type" : "track",
+  "uri" : "spotify:track:7CRpaIf6w059X7PGV0h2z7"
+}

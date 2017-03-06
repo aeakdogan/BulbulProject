@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+      "id" : "1aSxMhuvixZ8h9dK9jIDwL",
+      "name" : "Kate Bush",
+      "type" : "artist",
+      "uri" : "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7qeRejAsyqrM1hw3LwVPYp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7qeRejAsyqrM1hw3LwVPYp",
+    "id" : "7qeRejAsyqrM1hw3LwVPYp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/87ca5332a3ed58dc7bad387fbaebf7a18bb1cf74",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6066173829425316e5f498d906098fccdc458b89",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/47c98293ca9b8606a37581cc0dbf86459be45ee1",
+      "width" : 64
+    } ],
+    "name" : "Lionheart",
+    "type" : "album",
+    "uri" : "spotify:album:7qeRejAsyqrM1hw3LwVPYp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+    "id" : "1aSxMhuvixZ8h9dK9jIDwL",
+    "name" : "Kate Bush",
+    "type" : "artist",
+    "uri" : "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 240773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE7800149"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1hbB7wFZ28n5vOfMEEY2Jw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1hbB7wFZ28n5vOfMEEY2Jw",
+  "id" : "1hbB7wFZ28n5vOfMEEY2Jw",
+  "name" : "Wow",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e185da70cf92db443d3cd009c87a98d4e769aa7e?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1hbB7wFZ28n5vOfMEEY2Jw"
+}

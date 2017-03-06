@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt",
+      "id" : "22WZ7M8sxp5THdruNY3gXt",
+      "name" : "The Doors",
+      "type" : "artist",
+      "uri" : "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6v5IVMmY1IvWtbfnQoiFSf",
+    "id" : "6v5IVMmY1IvWtbfnQoiFSf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/506ddc62ea2bfba4dacf9c68836ba2403295bbcf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/349769ca909816d8934cafd69df20e5086fb6ef2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3cc1b8adbf45a670da080d663855fd67f91d5452",
+      "width" : 64
+    } ],
+    "name" : "Strange Days",
+    "type" : "album",
+    "uri" : "spotify:album:6v5IVMmY1IvWtbfnQoiFSf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt",
+    "id" : "22WZ7M8sxp5THdruNY3gXt",
+    "name" : "The Doors",
+    "type" : "artist",
+    "uri" : "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 195106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE19900736"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/67HxeUADW4H3ERfaPW59ma"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/67HxeUADW4H3ERfaPW59ma",
+  "id" : "67HxeUADW4H3ERfaPW59ma",
+  "name" : "Love Me Two Times",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3845a52801233ab99edb33a18f4c669b49217c52?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:67HxeUADW4H3ERfaPW59ma"
+}

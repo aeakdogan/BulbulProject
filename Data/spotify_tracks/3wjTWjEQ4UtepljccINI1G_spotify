@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj",
+      "id" : "4kwxTgCKMipBKhSnEstNKj",
+      "name" : "Animal Collective",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kwxTgCKMipBKhSnEstNKj"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1XtUILwRT4o8Yyl0m8USSK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1XtUILwRT4o8Yyl0m8USSK",
+    "id" : "1XtUILwRT4o8Yyl0m8USSK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c89db877c34112b218feec703d23d4db173fe9c5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4f12c9a74b86d5d70041415e7e67268f7350034e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1e853ae4989f2666ef1b029b3015015de5b5d116",
+      "width" : 64
+    } ],
+    "name" : "Centipede Hz",
+    "type" : "album",
+    "uri" : "spotify:album:1XtUILwRT4o8Yyl0m8USSK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj",
+    "id" : "4kwxTgCKMipBKhSnEstNKj",
+    "name" : "Animal Collective",
+    "type" : "artist",
+    "uri" : "spotify:artist:4kwxTgCKMipBKhSnEstNKj"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 300253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1200189"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3wjTWjEQ4UtepljccINI1G"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3wjTWjEQ4UtepljccINI1G",
+  "id" : "3wjTWjEQ4UtepljccINI1G",
+  "name" : "Wide Eyed",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f26c81446e0e7bb326eede586926f4b387238e3c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3wjTWjEQ4UtepljccINI1G"
+}

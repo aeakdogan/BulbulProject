@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+      "id" : "0vYkHhJ48Bs3jWcvZXvOrP",
+      "name" : "Patti Smith",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CZ", "DE", "DO", "EC", "GT", "HN", "HU", "JP", "MX", "NI", "PA", "PE", "PL", "PY", "SK", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3hlHi5Mz5hRao09uUvT0ta",
+    "id" : "3hlHi5Mz5hRao09uUvT0ta",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/41f1be2367c872e4264a3c994c5c0f5912681ab2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ea89d6461e70f1409eaf22ad1b21dd0e70ac903e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e5d52e4c1d19f5322d65f88af88c480f9b4910a1",
+      "width" : 64
+    } ],
+    "name" : "Twelve",
+    "type" : "album",
+    "uri" : "spotify:album:3hlHi5Mz5hRao09uUvT0ta"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+    "id" : "0vYkHhJ48Bs3jWcvZXvOrP",
+    "name" : "Patti Smith",
+    "type" : "artist",
+    "uri" : "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CZ", "DE", "DO", "EC", "GT", "HN", "HU", "JP", "MX", "NI", "PA", "PE", "PL", "PY", "SK", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 345853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10700242"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2NUDgu1fFrFHSKda4IErpr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2NUDgu1fFrFHSKda4IErpr",
+  "id" : "2NUDgu1fFrFHSKda4IErpr",
+  "name" : "Changing of the Guards",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/36dca8aa35e56f564b50497e74827f763bb70203?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2NUDgu1fFrFHSKda4IErpr"
+}

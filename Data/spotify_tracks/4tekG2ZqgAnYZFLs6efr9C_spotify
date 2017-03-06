@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3UbyYnvNIT5DFXU4WgiGpP",
+      "id" : "3UbyYnvNIT5DFXU4WgiGpP",
+      "name" : "Whitesnake",
+      "type" : "artist",
+      "uri" : "spotify:artist:3UbyYnvNIT5DFXU4WgiGpP"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5pnzxsOuzylUR43PahJfXR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5pnzxsOuzylUR43PahJfXR",
+    "id" : "5pnzxsOuzylUR43PahJfXR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2bbd3731ad202fc5e47ba7075b517555ecfd2e73",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/db3b37524996ecabff39c05ded4b7903fe576511",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d5ba4d3548f48bcd42dd162106b4a0c1d40610a",
+      "width" : 64
+    } ],
+    "name" : "Slip Of The Tongue",
+    "type" : "album",
+    "uri" : "spotify:album:5pnzxsOuzylUR43PahJfXR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3UbyYnvNIT5DFXU4WgiGpP",
+    "id" : "3UbyYnvNIT5DFXU4WgiGpP",
+    "name" : "Whitesnake",
+    "type" : "artist",
+    "uri" : "spotify:artist:3UbyYnvNIT5DFXU4WgiGpP"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 262960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF19962011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4tekG2ZqgAnYZFLs6efr9C"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4tekG2ZqgAnYZFLs6efr9C",
+  "id" : "4tekG2ZqgAnYZFLs6efr9C",
+  "name" : "The Deeper The Love",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/db72890e2f7353afe51ca829518d373b15bf0cc1?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4tekG2ZqgAnYZFLs6efr9C"
+}

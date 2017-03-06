@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vDPwpGZIflBoW6Gy3FWFw",
+      "id" : "6vDPwpGZIflBoW6Gy3FWFw",
+      "name" : "Battlelore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vDPwpGZIflBoW6Gy3FWFw"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6YMa7JiVkiz6zj5oIKfqjo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6YMa7JiVkiz6zj5oIKfqjo",
+    "id" : "6YMa7JiVkiz6zj5oIKfqjo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9494208a31a4532e58ddfdeaa8c2fb6e690a036b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3160ae7d42b4c15ad0bda3ae669452337ba8076f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e692dc5d1b9a4a52e932259fe22dbad57b996a9a",
+      "width" : 64
+    } ],
+    "name" : "Third Age Of The Sun",
+    "type" : "album",
+    "uri" : "spotify:album:6YMa7JiVkiz6zj5oIKfqjo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6vDPwpGZIflBoW6Gy3FWFw",
+    "id" : "6vDPwpGZIflBoW6Gy3FWFw",
+    "name" : "Battlelore",
+    "type" : "artist",
+    "uri" : "spotify:artist:6vDPwpGZIflBoW6Gy3FWFw"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 96666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATN260516701"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6DajSPpQX67wvQRPWmK9H1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6DajSPpQX67wvQRPWmK9H1",
+  "id" : "6DajSPpQX67wvQRPWmK9H1",
+  "name" : "Usvainen Rhûn",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7d6fa5a98c9808ab83feb2adb828ef4c5884409a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6DajSPpQX67wvQRPWmK9H1"
+}

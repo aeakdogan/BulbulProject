@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dTYaRzOn4rXGBLH052EeQ",
+      "id" : "5dTYaRzOn4rXGBLH052EeQ",
+      "name" : "A Fine Frenzy",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dTYaRzOn4rXGBLH052EeQ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/07IV5RxLvAUeZbcPm4zOzn",
+    "id" : "07IV5RxLvAUeZbcPm4zOzn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a55468d26bead79f2c4f3c0a7841578040adbe02",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c4e2fb77f219631fb1a07d56b5dc1d6636631665",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f1441fc05a3808b69354164620f529d63363243a",
+      "width" : 64
+    } ],
+    "name" : "Bomb In A Birdcage",
+    "type" : "album",
+    "uri" : "spotify:album:07IV5RxLvAUeZbcPm4zOzn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5dTYaRzOn4rXGBLH052EeQ",
+    "id" : "5dTYaRzOn4rXGBLH052EeQ",
+    "name" : "A Fine Frenzy",
+    "type" : "artist",
+    "uri" : "spotify:artist:5dTYaRzOn4rXGBLH052EeQ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 255733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI20900262"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0RMNjxqO8NTXYcnOERN8P2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0RMNjxqO8NTXYcnOERN8P2",
+  "id" : "0RMNjxqO8NTXYcnOERN8P2",
+  "name" : "The World Without",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3e09f4eaa199a82f4601bf5927b5d9d9b3bb3c8f?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0RMNjxqO8NTXYcnOERN8P2"
+}

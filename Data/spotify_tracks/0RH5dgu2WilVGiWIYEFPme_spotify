@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dTYaRzOn4rXGBLH052EeQ",
+      "id" : "5dTYaRzOn4rXGBLH052EeQ",
+      "name" : "A Fine Frenzy",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dTYaRzOn4rXGBLH052EeQ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Ot7MEgreG2R93aN42M9iK",
+    "id" : "0Ot7MEgreG2R93aN42M9iK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4efbabc6ec61975ce69a1318e1d1323bc5030ead",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/486b1864e81d7ec6a94fba1192c7a98f21078873",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a8c70b40a8bfdc1a9d44eee9843ab7b2b83b7aa7",
+      "width" : 64
+    } ],
+    "name" : "One Cell In The Sea",
+    "type" : "album",
+    "uri" : "spotify:album:0Ot7MEgreG2R93aN42M9iK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5dTYaRzOn4rXGBLH052EeQ",
+    "id" : "5dTYaRzOn4rXGBLH052EeQ",
+    "name" : "A Fine Frenzy",
+    "type" : "artist",
+    "uri" : "spotify:artist:5dTYaRzOn4rXGBLH052EeQ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 215733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI20700633"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0RH5dgu2WilVGiWIYEFPme"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0RH5dgu2WilVGiWIYEFPme",
+  "id" : "0RH5dgu2WilVGiWIYEFPme",
+  "name" : "Come On, Come Out",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b2f91c210678f2de2300f1f6bb2593a9183acab0?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0RH5dgu2WilVGiWIYEFPme"
+}

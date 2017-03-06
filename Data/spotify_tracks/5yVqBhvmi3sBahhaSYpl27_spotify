@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kXp61QMZFPcKMcRPqoiVj",
+      "id" : "6kXp61QMZFPcKMcRPqoiVj",
+      "name" : "Gin Blossoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kXp61QMZFPcKMcRPqoiVj"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5TKaETR0SQHjdwER8MMDdx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5TKaETR0SQHjdwER8MMDdx",
+    "id" : "5TKaETR0SQHjdwER8MMDdx",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/fea5dfddd5205bd4f9830c89721518efd4f522e4",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/64cb43e60b1f47b611cb6893888ad06290e936cd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d063a61d85ecf5c6b3f01869785c1a8eaa60bf69",
+      "width" : 64
+    } ],
+    "name" : "Follow You Down",
+    "type" : "album",
+    "uri" : "spotify:album:5TKaETR0SQHjdwER8MMDdx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kXp61QMZFPcKMcRPqoiVj",
+    "id" : "6kXp61QMZFPcKMcRPqoiVj",
+    "name" : "Gin Blossoms",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kXp61QMZFPcKMcRPqoiVj"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAM19601266"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5yVqBhvmi3sBahhaSYpl27"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5yVqBhvmi3sBahhaSYpl27",
+  "id" : "5yVqBhvmi3sBahhaSYpl27",
+  "name" : "Follow You Down",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/61aeded5b90b964464fbf9b9fc6a13f723aa3b58?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5yVqBhvmi3sBahhaSYpl27"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+      "id" : "3fMbdgg4jU18AjLCKBhRSm",
+      "name" : "Michael Jackson",
+      "type" : "artist",
+      "uri" : "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/24TAupSNVWSAHL0R7n71vm",
+    "id" : "24TAupSNVWSAHL0R7n71vm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c9b773d0baae3eb0d93801b325de27c13e827aa2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9d3434dd5eec933e8df71b888a0c8294dd00af18",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a4315d50a7a26f3e4d2faf370d2d06bb4c38292d",
+      "width" : 64
+    } ],
+    "name" : "Bad 25th Anniversary",
+    "type" : "album",
+    "uri" : "spotify:album:24TAupSNVWSAHL0R7n71vm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+    "id" : "3fMbdgg4jU18AjLCKBhRSm",
+    "name" : "Michael Jackson",
+    "type" : "artist",
+    "uri" : "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 257760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11204989"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2bCQHF9gdG5BNDVuEIEnNk",
+  "id" : "2bCQHF9gdG5BNDVuEIEnNk",
+  "name" : "Smooth Criminal - 2012 Remaster",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8dcbe2702477ac98c7c711cbafcac43e10063949?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2bCQHF9gdG5BNDVuEIEnNk"
+}

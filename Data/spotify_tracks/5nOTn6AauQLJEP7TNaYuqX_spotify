@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3BVkDHWRvLJEyKdvhLbjsq",
+      "id" : "3BVkDHWRvLJEyKdvhLbjsq",
+      "name" : "W.A.S.P.",
+      "type" : "artist",
+      "uri" : "spotify:artist:3BVkDHWRvLJEyKdvhLbjsq"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1zPUe0QEaV5jfzL8x3rMvA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1zPUe0QEaV5jfzL8x3rMvA",
+    "id" : "1zPUe0QEaV5jfzL8x3rMvA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d45a25a823b09760f10ba5028d8dfa8e3b304635",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f187d67d8cce084acaecb2b1b24f58a55f1414b4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f87c03fd4667a5f93962f2266834f46ce61a6d77",
+      "width" : 64
+    } ],
+    "name" : "Dominator",
+    "type" : "album",
+    "uri" : "spotify:album:1zPUe0QEaV5jfzL8x3rMvA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3BVkDHWRvLJEyKdvhLbjsq",
+    "id" : "3BVkDHWRvLJEyKdvhLbjsq",
+    "name" : "W.A.S.P.",
+    "type" : "artist",
+    "uri" : "spotify:artist:3BVkDHWRvLJEyKdvhLbjsq"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 434240,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "ATN261560105"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5nOTn6AauQLJEP7TNaYuqX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5nOTn6AauQLJEP7TNaYuqX",
+  "id" : "5nOTn6AauQLJEP7TNaYuqX",
+  "name" : "Heaven's Hung In Black",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/26df93193756bddde9e63a7bfbed0e7d8f7d1dfe?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5nOTn6AauQLJEP7TNaYuqX"
+}

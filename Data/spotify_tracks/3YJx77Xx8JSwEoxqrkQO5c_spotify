@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Bfy6QzadCXS92y0T8dDZF",
+      "id" : "6Bfy6QzadCXS92y0T8dDZF",
+      "name" : "Eddie Floyd",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Bfy6QzadCXS92y0T8dDZF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/07ojYfe9B08p7nmOL2kgNF",
+    "id" : "07ojYfe9B08p7nmOL2kgNF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9eabf11ffca9faa95c65a3793d78ed2e357f3dd0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/45f9dfee10de43ce8b50aa28b42c95edfe83e4b7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/94b8db9347450980eda1d9959589f531d49f7af5",
+      "width" : 64
+    } ],
+    "name" : "Knock On Wood",
+    "type" : "album",
+    "uri" : "spotify:album:07ojYfe9B08p7nmOL2kgNF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Bfy6QzadCXS92y0T8dDZF",
+    "id" : "6Bfy6QzadCXS92y0T8dDZF",
+    "name" : "Eddie Floyd",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Bfy6QzadCXS92y0T8dDZF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 189840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20001062"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3YJx77Xx8JSwEoxqrkQO5c",
+  "id" : "3YJx77Xx8JSwEoxqrkQO5c",
+  "name" : "Knock On Wood",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/101ba98dd3a1ef797b9c9e0f13b45a76ddb7361c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3YJx77Xx8JSwEoxqrkQO5c"
+}

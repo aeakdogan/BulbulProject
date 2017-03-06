@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4KXp3xtaz1wWXnu5u34eVX",
+      "id" : "4KXp3xtaz1wWXnu5u34eVX",
+      "name" : "kent",
+      "type" : "artist",
+      "uri" : "spotify:artist:4KXp3xtaz1wWXnu5u34eVX"
+    } ],
+    "available_markets" : [ "AR", "BO", "CA", "CL", "MY", "PY", "SG", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ikDeAMNL0kP0KxYQ3rHrZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ikDeAMNL0kP0KxYQ3rHrZ",
+    "id" : "5ikDeAMNL0kP0KxYQ3rHrZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/869be6206fca1775742aa29df3a98168aef404aa",
+      "width" : 636
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4d629bfe959dff85bd2ba8b2910261bc4a3acd1a",
+      "width" : 298
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8134ab69d14bcd2561cbcc0f27eb336f5bc9ee90",
+      "width" : 64
+    } ],
+    "name" : "Isola",
+    "type" : "album",
+    "uri" : "spotify:album:5ikDeAMNL0kP0KxYQ3rHrZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4KXp3xtaz1wWXnu5u34eVX",
+    "id" : "4KXp3xtaz1wWXnu5u34eVX",
+    "name" : "kent",
+    "type" : "artist",
+    "uri" : "spotify:artist:4KXp3xtaz1wWXnu5u34eVX"
+  } ],
+  "available_markets" : [ "AR", "BO", "CA", "CL", "MY", "PY", "SG", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 276360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEBMC9781011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3RyD7MX9PVassxFwVI4yto"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3RyD7MX9PVassxFwVI4yto",
+  "id" : "3RyD7MX9PVassxFwVI4yto",
+  "name" : "Lifesavers",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5d9c9a9995a4d6bbcff65418da8eba2168ea512d?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3RyD7MX9PVassxFwVI4yto"
+}

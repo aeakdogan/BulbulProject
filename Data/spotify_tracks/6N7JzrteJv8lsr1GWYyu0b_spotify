@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Uff91EOsvd99rtAupatMP",
+      "id" : "1Uff91EOsvd99rtAupatMP",
+      "name" : "Claude Debussy",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Uff91EOsvd99rtAupatMP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2T5bM1nb5fZVw5Bm851HNh",
+      "id" : "2T5bM1nb5fZVw5Bm851HNh",
+      "name" : "Alain Planes",
+      "type" : "artist",
+      "uri" : "spotify:artist:2T5bM1nb5fZVw5Bm851HNh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6kdiApKnIe8xQ1cTo9mWJJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6kdiApKnIe8xQ1cTo9mWJJ",
+    "id" : "6kdiApKnIe8xQ1cTo9mWJJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/11f18ce931e87f4cb28407f331c106c741225473",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4c50e8f889cec74157e89a0195eefa67b59169d7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/03655ceb97c05fc283d61318f7b0bbbb6b85bc8c",
+      "width" : 64
+    } ],
+    "name" : "Debussy: Children's Corner, Suite bergamasque, Images",
+    "type" : "album",
+    "uri" : "spotify:album:6kdiApKnIe8xQ1cTo9mWJJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Uff91EOsvd99rtAupatMP",
+    "id" : "1Uff91EOsvd99rtAupatMP",
+    "name" : "Claude Debussy",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Uff91EOsvd99rtAupatMP"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2T5bM1nb5fZVw5Bm851HNh",
+    "id" : "2T5bM1nb5fZVw5Bm851HNh",
+    "name" : "Alain Planes",
+    "type" : "artist",
+    "uri" : "spotify:artist:2T5bM1nb5fZVw5Bm851HNh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 279160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ140504030"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6N7JzrteJv8lsr1GWYyu0b"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6N7JzrteJv8lsr1GWYyu0b",
+  "id" : "6N7JzrteJv8lsr1GWYyu0b",
+  "name" : "Suite bergamasque: III. Clair de lune. Andante très expressif",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9d2f2efefe64782278a1baa93cfdff48aa106987?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6N7JzrteJv8lsr1GWYyu0b"
+}

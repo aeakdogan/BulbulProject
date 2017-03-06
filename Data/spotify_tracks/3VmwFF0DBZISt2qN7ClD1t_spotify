@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl",
+      "id" : "3zunDAtRDg7kflREzWAhxl",
+      "name" : "Eels",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zunDAtRDg7kflREzWAhxl"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4qG4oTvEBpTbbmghEp1EKX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4qG4oTvEBpTbbmghEp1EKX",
+    "id" : "4qG4oTvEBpTbbmghEp1EKX",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/105c6830efb28bce589bdf23c9dcbfde26d2bc9c",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/582461fb15c193d33367dff7d523f3662b0444da",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/9c1c03322f3fb30c328f735c66d7085e07abfd59",
+      "width" : 64
+    } ],
+    "name" : "Souljacker",
+    "type" : "album",
+    "uri" : "spotify:album:4qG4oTvEBpTbbmghEp1EKX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl",
+    "id" : "3zunDAtRDg7kflREzWAhxl",
+    "name" : "Eels",
+    "type" : "artist",
+    "uri" : "spotify:artist:3zunDAtRDg7kflREzWAhxl"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 222200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDW10110362"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3VmwFF0DBZISt2qN7ClD1t"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3VmwFF0DBZISt2qN7ClD1t",
+  "id" : "3VmwFF0DBZISt2qN7ClD1t",
+  "name" : "Bus Stop Boxer",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/732131acce3a3107a7ee2dd64259d742b208cb11?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:3VmwFF0DBZISt2qN7ClD1t"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4fxp616ALtFWnXfwxnjLzW",
+      "id" : "4fxp616ALtFWnXfwxnjLzW",
+      "name" : "Antony and the Johnsons",
+      "type" : "artist",
+      "uri" : "spotify:artist:4fxp616ALtFWnXfwxnjLzW"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4yYa6DGzkYsAIpoE8ael1V"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4yYa6DGzkYsAIpoE8ael1V",
+    "id" : "4yYa6DGzkYsAIpoE8ael1V",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bc2881c51b5b4312672520a504467784aeb36a8a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f03d38941bb2da5185c763fe1ec9029ddc08372",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/21bea334bd3cd52378c09a0e36cf4d9ef9d2d3a0",
+      "width" : 64
+    } ],
+    "name" : "I Am A Bird Now",
+    "type" : "album",
+    "uri" : "spotify:album:4yYa6DGzkYsAIpoE8ael1V"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4fxp616ALtFWnXfwxnjLzW",
+    "id" : "4fxp616ALtFWnXfwxnjLzW",
+    "name" : "Antony and the Johnsons",
+    "type" : "artist",
+    "uri" : "spotify:artist:4fxp616ALtFWnXfwxnjLzW"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 261200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US38W0510527"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/57KORKnC0OQM7HE7IN2FkZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/57KORKnC0OQM7HE7IN2FkZ",
+  "id" : "57KORKnC0OQM7HE7IN2FkZ",
+  "name" : "Hope There's Someone",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bb86ec0fb7bba0b5f64016ddb9ebd7074e310f57?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:57KORKnC0OQM7HE7IN2FkZ"
+}

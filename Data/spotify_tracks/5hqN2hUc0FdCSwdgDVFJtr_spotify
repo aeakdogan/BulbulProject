@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB",
+      "id" : "3kjuyTCjPG1WMFCiyc5IuB",
+      "name" : "Arcade Fire",
+      "type" : "artist",
+      "uri" : "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0aGwrXjKIfAMlj1vBYLtnR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0aGwrXjKIfAMlj1vBYLtnR",
+    "id" : "0aGwrXjKIfAMlj1vBYLtnR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/039cebbd438ff115b94166a6df18704bc99f32f2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4427cc3566d27e1b633fb2d7dfb8eb92171ad49d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/649580d1c6a8d53e3f430d6ef219fae6529c8c9d",
+      "width" : 64
+    } ],
+    "name" : "Funeral",
+    "type" : "album",
+    "uri" : "spotify:album:0aGwrXjKIfAMlj1vBYLtnR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB",
+    "id" : "3kjuyTCjPG1WMFCiyc5IuB",
+    "name" : "Arcade Fire",
+    "type" : "artist",
+    "uri" : "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 380213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG0467011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5hqN2hUc0FdCSwdgDVFJtr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5hqN2hUc0FdCSwdgDVFJtr",
+  "id" : "5hqN2hUc0FdCSwdgDVFJtr",
+  "name" : "In the Backseat",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c4dc54cfcfc31f814537199346876536d02056b8?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:5hqN2hUc0FdCSwdgDVFJtr"
+}

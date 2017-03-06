@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2a9P2MgATSDrFg0jsGuf5Z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2a9P2MgATSDrFg0jsGuf5Z",
+    "id" : "2a9P2MgATSDrFg0jsGuf5Z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/12009fbfa009526f39e940fa0ad1a3081b59aeeb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/437c6d096b983df29405c9b0e8342b57a60b0e1e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4d3377e93f79bef3f86f827d33287eb7f1e12ced",
+      "width" : 64
+    } ],
+    "name" : "The Alchemists",
+    "type" : "album",
+    "uri" : "spotify:album:2a9P2MgATSDrFg0jsGuf5Z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/19MZg9MYc5xw08l09RCfrT",
+    "id" : "19MZg9MYc5xw08l09RCfrT",
+    "name" : "Guthrie Govan",
+    "type" : "artist",
+    "uri" : "spotify:artist:19MZg9MYc5xw08l09RCfrT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 267346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm80453728"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7CQ2CZnjmcr1gOrzPNOQ0x"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7CQ2CZnjmcr1gOrzPNOQ0x",
+  "id" : "7CQ2CZnjmcr1gOrzPNOQ0x",
+  "name" : "Fives",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/664ada3a559a7ce982bd2a45f27f91e8258905ff?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7CQ2CZnjmcr1gOrzPNOQ0x"
+}

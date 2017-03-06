@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21UJ7PRWb3Etgsu99f8yo8",
+      "id" : "21UJ7PRWb3Etgsu99f8yo8",
+      "name" : "Stereophonics",
+      "type" : "artist",
+      "uri" : "spotify:artist:21UJ7PRWb3Etgsu99f8yo8"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/47q89rBTeAa2iC5vrrBrRh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/47q89rBTeAa2iC5vrrBrRh",
+    "id" : "47q89rBTeAa2iC5vrrBrRh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/17862dd5165655a7763bb1e36590290b0bc194e5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9d0ab1e6cb5d3088973258ce3b94f753912140b3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6810c1a5459bb6911b51f11657d217e6a4d4ffc6",
+      "width" : 64
+    } ],
+    "name" : "Decade In The Sun - Best of Stereophonics (Deluxe Version)",
+    "type" : "album",
+    "uri" : "spotify:album:47q89rBTeAa2iC5vrrBrRh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/21UJ7PRWb3Etgsu99f8yo8",
+    "id" : "21UJ7PRWb3Etgsu99f8yo8",
+    "name" : "Stereophonics",
+    "type" : "artist",
+    "uri" : "spotify:artist:21UJ7PRWb3Etgsu99f8yo8"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 215226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70812897"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/35lcx4bhVdEvyqS1IJM5UE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/35lcx4bhVdEvyqS1IJM5UE",
+  "id" : "35lcx4bhVdEvyqS1IJM5UE",
+  "name" : "My Own Worst Enemy - Decade In The Sun Version",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1edff775611191edb544ef09c499b200d8ddd7f9?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:35lcx4bhVdEvyqS1IJM5UE"
+}

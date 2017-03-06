@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+      "id" : "56ZTgzPBDge0OvCGgMO3OY",
+      "name" : "Beach House",
+      "type" : "artist",
+      "uri" : "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1TIYptlEuQQtBn6eQOtciQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1TIYptlEuQQtBn6eQOtciQ",
+    "id" : "1TIYptlEuQQtBn6eQOtciQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/01650073af94c5b48098deaea84f76c5079fc4cb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b9591684d407a713b99ef1781a7c02387fdffa1c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1bcd89423559bb0862b8ffcf5e842b87f75143af",
+      "width" : 64
+    } ],
+    "name" : "Beach House",
+    "type" : "album",
+    "uri" : "spotify:album:1TIYptlEuQQtBn6eQOtciQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+    "id" : "56ZTgzPBDge0OvCGgMO3OY",
+    "name" : "Beach House",
+    "type" : "artist",
+    "uri" : "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 182746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US22N0503507"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/44VFx9K7Hs8OmJoMuhMaJq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/44VFx9K7Hs8OmJoMuhMaJq",
+  "id" : "44VFx9K7Hs8OmJoMuhMaJq",
+  "name" : "Lovelier Girl",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f79955c8fae2c0b294a09d995b8e37b39fe0c676?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:44VFx9K7Hs8OmJoMuhMaJq"
+}

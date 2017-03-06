@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ga4lWS7NtKo4r9jNSWumc",
+      "id" : "1ga4lWS7NtKo4r9jNSWumc",
+      "name" : "Alice Russell",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ga4lWS7NtKo4r9jNSWumc"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3CH3Og1AuJJX1BkTbADFes"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3CH3Og1AuJJX1BkTbADFes",
+    "id" : "3CH3Og1AuJJX1BkTbADFes",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/43d6663daf6079f57eb039b3ca69a3cd140e4109",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/251634b1474a195230f0a7ba09ddbd0d0cb2dd91",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c339b68ac4469bce5c53d9ca3dfa90c74a641b92",
+      "width" : 64
+    } ],
+    "name" : "To Dust",
+    "type" : "album",
+    "uri" : "spotify:album:3CH3Og1AuJJX1BkTbADFes"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ga4lWS7NtKo4r9jNSWumc",
+    "id" : "1ga4lWS7NtKo4r9jNSWumc",
+    "name" : "Alice Russell",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ga4lWS7NtKo4r9jNSWumc"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 167400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR9W11211877"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6yRMD3sIMKJxvK0hcyxPCO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6yRMD3sIMKJxvK0hcyxPCO",
+  "id" : "6yRMD3sIMKJxvK0hcyxPCO",
+  "name" : "Citizens",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1419cbb13e66fcb56ea260e06920776cbc62db3?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:6yRMD3sIMKJxvK0hcyxPCO"
+}

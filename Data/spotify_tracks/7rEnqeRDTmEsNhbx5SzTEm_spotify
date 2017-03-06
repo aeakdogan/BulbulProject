@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zn0m3hBUQVl6Nf36Sb0A6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zn0m3hBUQVl6Nf36Sb0A6",
+      "id" : "4zn0m3hBUQVl6Nf36Sb0A6",
+      "name" : "Tuxedomoon",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zn0m3hBUQVl6Nf36Sb0A6"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0i2ePIHgY7AMASZWLMQdD3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0i2ePIHgY7AMASZWLMQdD3",
+    "id" : "0i2ePIHgY7AMASZWLMQdD3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2080e66de7f747d43c6e9c1ab0dc054fca4ed04d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7681ec91aa72eeac0100512b97bed105680829b1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8af0d2f08238a1795844f8bf33480800a41973d0",
+      "width" : 64
+    } ],
+    "name" : "The Ghost Sonata",
+    "type" : "album",
+    "uri" : "spotify:album:0i2ePIHgY7AMASZWLMQdD3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4zn0m3hBUQVl6Nf36Sb0A6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4zn0m3hBUQVl6Nf36Sb0A6",
+    "id" : "4zn0m3hBUQVl6Nf36Sb0A6",
+    "name" : "Tuxedomoon",
+    "type" : "artist",
+    "uri" : "spotify:artist:4zn0m3hBUQVl6Nf36Sb0A6"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 176360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BE6F59100470"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7rEnqeRDTmEsNhbx5SzTEm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7rEnqeRDTmEsNhbx5SzTEm",
+  "id" : "7rEnqeRDTmEsNhbx5SzTEm",
+  "name" : "Music Number Two - Ghost Sonata Version",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a397304953287a0b3ffbdcb4de24c49d988dc071?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7rEnqeRDTmEsNhbx5SzTEm"
+}

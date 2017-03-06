@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC",
+      "id" : "1nJvji2KIlWSseXRSlNYsC",
+      "name" : "The Velvet Underground",
+      "type" : "artist",
+      "uri" : "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7IbA4TYrsDIGa4414raKPm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7IbA4TYrsDIGa4414raKPm",
+    "id" : "7IbA4TYrsDIGa4414raKPm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/820fd623c6d5bb2154f0d5cb4633a46752283fc1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ae386760e4636c4d2b99463485a481214412a352",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/29ac91ff441f29b16a24bbf069cd46a66e35ca63",
+      "width" : 64
+    } ],
+    "name" : "The Velvet Underground",
+    "type" : "album",
+    "uri" : "spotify:album:7IbA4TYrsDIGa4414raKPm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC",
+    "id" : "1nJvji2KIlWSseXRSlNYsC",
+    "name" : "The Velvet Underground",
+    "type" : "artist",
+    "uri" : "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 244253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR36905207"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0PcgKSeJIJNGbAd4BO1sXD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0PcgKSeJIJNGbAd4BO1sXD",
+  "id" : "0PcgKSeJIJNGbAd4BO1sXD",
+  "name" : "I'm Set Free",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/447c798ef3ebbf69865d038767b803815e0fc782?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0PcgKSeJIJNGbAd4BO1sXD"
+}

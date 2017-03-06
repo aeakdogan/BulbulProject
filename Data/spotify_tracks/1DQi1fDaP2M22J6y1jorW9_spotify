@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xM0Rz2FbjZevoVLVJUgEQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4xM0Rz2FbjZevoVLVJUgEQ",
+      "id" : "4xM0Rz2FbjZevoVLVJUgEQ",
+      "name" : "The Big Pink",
+      "type" : "artist",
+      "uri" : "spotify:artist:4xM0Rz2FbjZevoVLVJUgEQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1fA67KbuJM4ogvSDdDmI5W"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1fA67KbuJM4ogvSDdDmI5W",
+    "id" : "1fA67KbuJM4ogvSDdDmI5W",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7963026d55e2f5e950b0a4e9b2fad7804565ef55",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5bc9fb9a54fbffc7a80f11b40f67bb4d3f4d5152",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1f88442abb7225850e33f3726264ea1b1cb85705",
+      "width" : 64
+    } ],
+    "name" : "Stop The World",
+    "type" : "album",
+    "uri" : "spotify:album:1fA67KbuJM4ogvSDdDmI5W"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4xM0Rz2FbjZevoVLVJUgEQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4xM0Rz2FbjZevoVLVJUgEQ",
+    "id" : "4xM0Rz2FbjZevoVLVJUgEQ",
+    "name" : "The Big Pink",
+    "type" : "artist",
+    "uri" : "spotify:artist:4xM0Rz2FbjZevoVLVJUgEQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 226120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAFL0900049"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1DQi1fDaP2M22J6y1jorW9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1DQi1fDaP2M22J6y1jorW9",
+  "id" : "1DQi1fDaP2M22J6y1jorW9",
+  "name" : "Stop The World",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/569e77aec54fb7bc57d1fef0a759adc5a00dcbcb?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1DQi1fDaP2M22J6y1jorW9"
+}

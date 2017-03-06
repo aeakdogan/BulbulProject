@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0nJmFO9huvto3PHos43STE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0nJmFO9huvto3PHos43STE",
+      "id" : "0nJmFO9huvto3PHos43STE",
+      "name" : "Tribes",
+      "type" : "artist",
+      "uri" : "spotify:artist:0nJmFO9huvto3PHos43STE"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6PlATmJENWKI6bdm9lnEnK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6PlATmJENWKI6bdm9lnEnK",
+    "id" : "6PlATmJENWKI6bdm9lnEnK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1c0ef1aba4a9c231a6ec7d584c51e3c5fda1f143",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/61f680a54e05bd78cc7cab0d7022c251f977561e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/74e38d7663667802850700689f963ef2aa48721c",
+      "width" : 64
+    } ],
+    "name" : "Baby",
+    "type" : "album",
+    "uri" : "spotify:album:6PlATmJENWKI6bdm9lnEnK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0nJmFO9huvto3PHos43STE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0nJmFO9huvto3PHos43STE",
+    "id" : "0nJmFO9huvto3PHos43STE",
+    "name" : "Tribes",
+    "type" : "artist",
+    "uri" : "spotify:artist:0nJmFO9huvto3PHos43STE"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 249853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71104823"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/747AlFp5N43CFOSyhs4DeM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/747AlFp5N43CFOSyhs4DeM",
+  "id" : "747AlFp5N43CFOSyhs4DeM",
+  "name" : "Nightdriving",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/27f09b5903df0e16039f0036997c671140d8011c?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:747AlFp5N43CFOSyhs4DeM"
+}

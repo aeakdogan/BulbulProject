@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1h0hOL3bVcYlg4xcSjU7fP",
+      "id" : "1h0hOL3bVcYlg4xcSjU7fP",
+      "name" : "Otis Rush",
+      "type" : "artist",
+      "uri" : "spotify:artist:1h0hOL3bVcYlg4xcSjU7fP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/39zS4QvdYkdcoa7VzG7KHe",
+    "id" : "39zS4QvdYkdcoa7VzG7KHe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/191d6dc9e727b4eb6dc7f16042f698f1fb3d0409",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5efe38ee7c7183093e51eeb8b7de10c149379ed1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3b0bf3de83b4687e9e709ecb7f98bb62a2b75200",
+      "width" : 64
+    } ],
+    "name" : "Mourning In The Morning",
+    "type" : "album",
+    "uri" : "spotify:album:39zS4QvdYkdcoa7VzG7KHe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1h0hOL3bVcYlg4xcSjU7fP",
+    "id" : "1h0hOL3bVcYlg4xcSjU7fP",
+    "name" : "Otis Rush",
+    "type" : "artist",
+    "uri" : "spotify:artist:1h0hOL3bVcYlg4xcSjU7fP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 341173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20001438"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3hLxjGBGvO1VF3p6BMPn8x",
+  "id" : "3hLxjGBGvO1VF3p6BMPn8x",
+  "name" : "Gambler's Blues",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a636105df96953b479f0dc7fee04190a538208e5?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3hLxjGBGvO1VF3p6BMPn8x"
+}

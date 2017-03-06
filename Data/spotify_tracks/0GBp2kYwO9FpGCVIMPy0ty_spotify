@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+      "id" : "6mdiAmATAx73kdxrNrnlao",
+      "name" : "Iron Maiden",
+      "type" : "artist",
+      "uri" : "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ly2BmT61LBYVFBNGXOj3n"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ly2BmT61LBYVFBNGXOj3n",
+    "id" : "4ly2BmT61LBYVFBNGXOj3n",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/68eb8c8deb8dc7b0c5cc2b1df6afd0081975b264",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bfb326602794c43af967cd8f42c5a11c574077d3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c58c0e4d30dcb3c8181e6355368078db83bcd26a",
+      "width" : 64
+    } ],
+    "name" : "Somewhere in Time (1998 Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:4ly2BmT61LBYVFBNGXOj3n"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+    "id" : "6mdiAmATAx73kdxrNrnlao",
+    "name" : "Iron Maiden",
+    "type" : "artist",
+    "uri" : "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 306173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10108806"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0GBp2kYwO9FpGCVIMPy0ty"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0GBp2kYwO9FpGCVIMPy0ty",
+  "id" : "0GBp2kYwO9FpGCVIMPy0ty",
+  "name" : "Wasted Years - 1998 Remastered Version",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2da08f000799c8417069a507d615eb835eb3e3dd?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0GBp2kYwO9FpGCVIMPy0ty"
+}

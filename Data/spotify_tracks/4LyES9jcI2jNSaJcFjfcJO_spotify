@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51DIzOpPRD0WoDHzZrcBal"
+      },
+      "href" : "https://api.spotify.com/v1/artists/51DIzOpPRD0WoDHzZrcBal",
+      "id" : "51DIzOpPRD0WoDHzZrcBal",
+      "name" : "Galleon",
+      "type" : "artist",
+      "uri" : "spotify:artist:51DIzOpPRD0WoDHzZrcBal"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3wFz1LRaggyfGw9bHPioZv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3wFz1LRaggyfGw9bHPioZv",
+    "id" : "3wFz1LRaggyfGw9bHPioZv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/12156b8714301b3ec702f9666cc15d1330c0833c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c030c2220c8e95fe3ced3d4efe0bc39037a7ec8a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/01b20c24e93345f743ccddcb54ea0004857ed0eb",
+      "width" : 64
+    } ],
+    "name" : "So I Begin",
+    "type" : "album",
+    "uri" : "spotify:album:3wFz1LRaggyfGw9bHPioZv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/51DIzOpPRD0WoDHzZrcBal"
+    },
+    "href" : "https://api.spotify.com/v1/artists/51DIzOpPRD0WoDHzZrcBal",
+    "id" : "51DIzOpPRD0WoDHzZrcBal",
+    "name" : "Galleon",
+    "type" : "artist",
+    "uri" : "spotify:artist:51DIzOpPRD0WoDHzZrcBal"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 237933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USR3R0400494"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4LyES9jcI2jNSaJcFjfcJO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4LyES9jcI2jNSaJcFjfcJO",
+  "id" : "4LyES9jcI2jNSaJcFjfcJO",
+  "name" : "So I Begin",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c670c63bade994e36c557a64c6325e088c4cd9d8?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4LyES9jcI2jNSaJcFjfcJO"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2IAZ2xX1Ovh5jxhBWE7wda",
+      "id" : "2IAZ2xX1Ovh5jxhBWE7wda",
+      "name" : "Donavon Frankenreiter",
+      "type" : "artist",
+      "uri" : "spotify:artist:2IAZ2xX1Ovh5jxhBWE7wda"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7HPDZ1Gu4pWyDn9o6DiToG",
+    "id" : "7HPDZ1Gu4pWyDn9o6DiToG",
+    "images" : [ {
+      "height" : 578,
+      "url" : "https://i.scdn.co/image/1373461e1889e4a182750c9a9bf7aba8fa8bfbb3",
+      "width" : 640
+    }, {
+      "height" : 271,
+      "url" : "https://i.scdn.co/image/b79bdf733797531147495858c8610d98173763b6",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/59048bbedc74abbdc5883c24a2d71f4d7b5e8b54",
+      "width" : 64
+    } ],
+    "name" : "Donavon Frankenreiter",
+    "type" : "album",
+    "uri" : "spotify:album:7HPDZ1Gu4pWyDn9o6DiToG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2IAZ2xX1Ovh5jxhBWE7wda",
+    "id" : "2IAZ2xX1Ovh5jxhBWE7wda",
+    "name" : "Donavon Frankenreiter",
+    "type" : "artist",
+    "uri" : "spotify:artist:2IAZ2xX1Ovh5jxhBWE7wda"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 148600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUR10400016"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2BJy5YrRMhVCqaLNY5cbv2",
+  "id" : "2BJy5YrRMhVCqaLNY5cbv2",
+  "name" : "Free",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a61ba967d4fa301416ea9b00d7d9f64b5f08aa3a?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2BJy5YrRMhVCqaLNY5cbv2"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+      "id" : "3CkvROUTQ6nRi9yQOcsB50",
+      "name" : "Genesis",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4gRwe7MFlmZ08i5N5kwJ2C"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4gRwe7MFlmZ08i5N5kwJ2C",
+    "id" : "4gRwe7MFlmZ08i5N5kwJ2C",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/254567e152e0f6e2ae282e15c61b9ab995aa481c",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/3354d2fd0b290ea2b3a3b0934f614fd9fd208814",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3340586146d3e7780fa691e283996f8d33e3b64f",
+      "width" : 64
+    } ],
+    "name" : "Wind & Wuthering",
+    "type" : "album",
+    "uri" : "spotify:album:4gRwe7MFlmZ08i5N5kwJ2C"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+    "id" : "3CkvROUTQ6nRi9yQOcsB50",
+    "name" : "Genesis",
+    "type" : "artist",
+    "uri" : "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 327800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA9400535"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Ljra5bdwVxGguoq1THkR7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Ljra5bdwVxGguoq1THkR7",
+  "id" : "1Ljra5bdwVxGguoq1THkR7",
+  "name" : "Blood On The Rooftops",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aa3279e2c7b8605e5807a9e732ef1595c06018ef?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1Ljra5bdwVxGguoq1THkR7"
+}

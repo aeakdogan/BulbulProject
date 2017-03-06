@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4foARo5aSfuIuDLupoxK4k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4foARo5aSfuIuDLupoxK4k",
+      "id" : "4foARo5aSfuIuDLupoxK4k",
+      "name" : "Datarock",
+      "type" : "artist",
+      "uri" : "spotify:artist:4foARo5aSfuIuDLupoxK4k"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2cKkI59NQ648GDHVwrIgCF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2cKkI59NQ648GDHVwrIgCF",
+    "id" : "2cKkI59NQ648GDHVwrIgCF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/274c6c74aac50de59ad532d10196d6285941987c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0f23908941b985a0bb4c2f00270bd7e536204a7f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6f331275d58898530f94654fbe3b147521d13a30",
+      "width" : 64
+    } ],
+    "name" : "Red",
+    "type" : "album",
+    "uri" : "spotify:album:2cKkI59NQ648GDHVwrIgCF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4foARo5aSfuIuDLupoxK4k"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4foARo5aSfuIuDLupoxK4k",
+    "id" : "4foARo5aSfuIuDLupoxK4k",
+    "name" : "Datarock",
+    "type" : "artist",
+    "uri" : "spotify:artist:4foARo5aSfuIuDLupoxK4k"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN110801240"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0xalf6S6WwZtIh2OIOuxoX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0xalf6S6WwZtIh2OIOuxoX",
+  "id" : "0xalf6S6WwZtIh2OIOuxoX",
+  "name" : "Molly",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b85aab2e45fdded95b400b40756aa0333156c77f?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0xalf6S6WwZtIh2OIOuxoX"
+}

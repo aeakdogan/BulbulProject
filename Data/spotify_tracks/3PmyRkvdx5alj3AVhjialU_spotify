@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WY7D3jk8zTrHtmkqqo5GI",
+      "id" : "6WY7D3jk8zTrHtmkqqo5GI",
+      "name" : "Maren Morris",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WY7D3jk8zTrHtmkqqo5GI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3E10GQY1o8ZkHrhlQymzaO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3E10GQY1o8ZkHrhlQymzaO",
+    "id" : "3E10GQY1o8ZkHrhlQymzaO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4d0f022e347e288d1eba9c3cc607679c38f6b635",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/eac7078276f5edc4b980407d1baf4e0d69326524",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f65630cbedb216b751caefcb894f77b5a3270201",
+      "width" : 64
+    } ],
+    "name" : "HERO",
+    "type" : "album",
+    "uri" : "spotify:album:3E10GQY1o8ZkHrhlQymzaO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6WY7D3jk8zTrHtmkqqo5GI",
+    "id" : "6WY7D3jk8zTrHtmkqqo5GI",
+    "name" : "Maren Morris",
+    "type" : "artist",
+    "uri" : "spotify:artist:6WY7D3jk8zTrHtmkqqo5GI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 205619,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USG4X1500811"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3PmyRkvdx5alj3AVhjialU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3PmyRkvdx5alj3AVhjialU",
+  "id" : "3PmyRkvdx5alj3AVhjialU",
+  "name" : "How It's Done",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/95e692ad182d7975f2dbf0885f02352a8bfe3966?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:3PmyRkvdx5alj3AVhjialU"
+}

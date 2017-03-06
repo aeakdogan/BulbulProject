@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0utS63XytOEVN1EtzWhJpG",
+      "id" : "0utS63XytOEVN1EtzWhJpG",
+      "name" : "The Radio Dept.",
+      "type" : "artist",
+      "uri" : "spotify:artist:0utS63XytOEVN1EtzWhJpG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1PFjpXZH3HM8lNRUaYSt4d"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1PFjpXZH3HM8lNRUaYSt4d",
+    "id" : "1PFjpXZH3HM8lNRUaYSt4d",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/60c3a3722879e67776b0809eeb1e64594e826091",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e813d4953d5f8dd95ce66b6657cd8984be3e561",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/887421f267cf2c122ef4801fede03aca66669dff",
+      "width" : 64
+    } ],
+    "name" : "Lesser Matters",
+    "type" : "album",
+    "uri" : "spotify:album:1PFjpXZH3HM8lNRUaYSt4d"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0utS63XytOEVN1EtzWhJpG",
+    "id" : "0utS63XytOEVN1EtzWhJpG",
+    "name" : "The Radio Dept.",
+    "type" : "artist",
+    "uri" : "spotify:artist:0utS63XytOEVN1EtzWhJpG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 293160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEVMM0206003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5r8qASAZBBafcpDKfBEP7q"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5r8qASAZBBafcpDKfBEP7q",
+  "id" : "5r8qASAZBBafcpDKfBEP7q",
+  "name" : "Keen On Boys",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5c386c74b0140fc31b7db50f6d2089271ee3eb19?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5r8qASAZBBafcpDKfBEP7q"
+}

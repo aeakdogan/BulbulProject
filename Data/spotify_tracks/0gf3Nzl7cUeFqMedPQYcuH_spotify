@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6OAueBADydAjR5lP5NqTvv",
+      "id" : "6OAueBADydAjR5lP5NqTvv",
+      "name" : "And One",
+      "type" : "artist",
+      "uri" : "spotify:artist:6OAueBADydAjR5lP5NqTvv"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5kcdgFgTHE9W43TIs3BfY1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5kcdgFgTHE9W43TIs3BfY1",
+    "id" : "5kcdgFgTHE9W43TIs3BfY1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7c0d5de94590fc8c0954c6ee59fc86e10c116f2c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2c6d132e6896f852da4c6a073b65ad8b1f5ffab5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0b3570b52e20ad372aab776d3b0fe2aafb6ac716",
+      "width" : 64
+    } ],
+    "name" : "So Klingt Liebe (X)",
+    "type" : "album",
+    "uri" : "spotify:album:5kcdgFgTHE9W43TIs3BfY1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6OAueBADydAjR5lP5NqTvv",
+    "id" : "6OAueBADydAjR5lP5NqTvv",
+    "name" : "And One",
+    "type" : "artist",
+    "uri" : "spotify:artist:6OAueBADydAjR5lP5NqTvv"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 325400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEBZ70600260"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0gf3Nzl7cUeFqMedPQYcuH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0gf3Nzl7cUeFqMedPQYcuH",
+  "id" : "0gf3Nzl7cUeFqMedPQYcuH",
+  "name" : "Get You Closer - Live",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/53e8a721a2ed228aaf7b5d7fcf4501e0ecd6ddff?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0gf3Nzl7cUeFqMedPQYcuH"
+}

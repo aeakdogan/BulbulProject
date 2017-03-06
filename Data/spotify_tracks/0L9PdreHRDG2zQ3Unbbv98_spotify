@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ECOOncSHGdAtD6VTGTtIP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ECOOncSHGdAtD6VTGTtIP",
+      "id" : "1ECOOncSHGdAtD6VTGTtIP",
+      "name" : "New Cassettes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ECOOncSHGdAtD6VTGTtIP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5l315IJGytkKXrwtITWtqE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5l315IJGytkKXrwtITWtqE",
+    "id" : "5l315IJGytkKXrwtITWtqE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f490aafee4250998c162e35d8a1a716e09cd6acd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/230408603e1b4dd9d2663b0287e4d79543081257",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a76c309e126a3ab3e213d06d048fcf820a2e0792",
+      "width" : 64
+    } ],
+    "name" : "The Art Of...",
+    "type" : "album",
+    "uri" : "spotify:album:5l315IJGytkKXrwtITWtqE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ECOOncSHGdAtD6VTGTtIP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ECOOncSHGdAtD6VTGTtIP",
+    "id" : "1ECOOncSHGdAtD6VTGTtIP",
+    "name" : "New Cassettes",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ECOOncSHGdAtD6VTGTtIP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 196826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUCZ0900001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0L9PdreHRDG2zQ3Unbbv98"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0L9PdreHRDG2zQ3Unbbv98",
+  "id" : "0L9PdreHRDG2zQ3Unbbv98",
+  "name" : "Sore Eyes",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b5e9ff3963f8fd813296d4ab1398f5fdb891a6f9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0L9PdreHRDG2zQ3Unbbv98"
+}

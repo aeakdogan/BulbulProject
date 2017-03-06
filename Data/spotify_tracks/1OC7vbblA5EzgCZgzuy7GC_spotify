@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6wdOFU1EmFgTblMSwAKQEr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6wdOFU1EmFgTblMSwAKQEr",
+      "id" : "6wdOFU1EmFgTblMSwAKQEr",
+      "name" : "Rhinoceros",
+      "type" : "artist",
+      "uri" : "spotify:artist:6wdOFU1EmFgTblMSwAKQEr"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7gAbsBfYVEsdkWigsIcMmq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7gAbsBfYVEsdkWigsIcMmq",
+    "id" : "7gAbsBfYVEsdkWigsIcMmq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/73b24c9b83bb1973910a9df0e0337fc64a10251c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3cf3c0dfc14ee7627a7b8435ee97cc7e866d8472",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/04680ed88c26a7e2b40f0d85ebe313bab452dac6",
+      "width" : 64
+    } ],
+    "name" : "Rhinoceros",
+    "type" : "album",
+    "uri" : "spotify:album:7gAbsBfYVEsdkWigsIcMmq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6wdOFU1EmFgTblMSwAKQEr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6wdOFU1EmFgTblMSwAKQEr",
+    "id" : "6wdOFU1EmFgTblMSwAKQEr",
+    "name" : "Rhinoceros",
+    "type" : "artist",
+    "uri" : "spotify:artist:6wdOFU1EmFgTblMSwAKQEr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 118440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10250554"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1OC7vbblA5EzgCZgzuy7GC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1OC7vbblA5EzgCZgzuy7GC",
+  "id" : "1OC7vbblA5EzgCZgzuy7GC",
+  "name" : "Apricot Brandy",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ea3419cabdb69564848f008c36265617ee205408?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1OC7vbblA5EzgCZgzuy7GC"
+}

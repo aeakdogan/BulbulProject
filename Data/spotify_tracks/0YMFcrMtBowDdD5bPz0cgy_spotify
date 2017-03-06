@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7oPgCQqMMXEXrNau5vxYZP",
+      "id" : "7oPgCQqMMXEXrNau5vxYZP",
+      "name" : "Tracy Chapman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7oPgCQqMMXEXrNau5vxYZP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6hmmX5UP4rIvOpGSaPerV8",
+    "id" : "6hmmX5UP4rIvOpGSaPerV8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5c69dfb7c6bd99518facb068fec7b92df2df10c8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3cc11a45d3ab979dbcf95a1a360a79902e1aaa96",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/50f234dac4a4e3786d397124716da80127548727",
+      "width" : 64
+    } ],
+    "name" : "Tracy Chapman",
+    "type" : "album",
+    "uri" : "spotify:album:6hmmX5UP4rIvOpGSaPerV8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7oPgCQqMMXEXrNau5vxYZP",
+    "id" : "7oPgCQqMMXEXrNau5vxYZP",
+    "name" : "Tracy Chapman",
+    "type" : "artist",
+    "uri" : "spotify:artist:7oPgCQqMMXEXrNau5vxYZP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 161600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10100547"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0YMFcrMtBowDdD5bPz0cgy",
+  "id" : "0YMFcrMtBowDdD5bPz0cgy",
+  "name" : "Talkin' Bout A Revolution",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a9afb93a872e34d1399a2b839f472ce7b830c259?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0YMFcrMtBowDdD5bPz0cgy"
+}

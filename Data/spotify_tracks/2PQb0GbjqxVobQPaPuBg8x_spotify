@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp",
+      "id" : "3rIZMv9rysU7JkLzEaC5Jp",
+      "name" : "Snow Patrol",
+      "type" : "artist",
+      "uri" : "spotify:artist:3rIZMv9rysU7JkLzEaC5Jp"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1IN1tRZL4wr52v3iZBz4Qb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1IN1tRZL4wr52v3iZBz4Qb",
+    "id" : "1IN1tRZL4wr52v3iZBz4Qb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9c58bf98a2df9b18494bc8ece411e55163965443",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9fc48cb573472845ed8cc0a974fad7b01ec6f21d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1347816c6e7b970019868b8270d5210630e68cc8",
+      "width" : 64
+    } ],
+    "name" : "Up To Now",
+    "type" : "album",
+    "uri" : "spotify:album:1IN1tRZL4wr52v3iZBz4Qb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp",
+    "id" : "3rIZMv9rysU7JkLzEaC5Jp",
+    "name" : "Snow Patrol",
+    "type" : "artist",
+    "uri" : "spotify:artist:3rIZMv9rysU7JkLzEaC5Jp"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+    },
+    "href" : "https://api.spotify.com/v1/artists/67pQ8Yr09zDDzzwWw3EG9R",
+    "id" : "67pQ8Yr09zDDzzwWw3EG9R",
+    "name" : "Martha Wainwright",
+    "type" : "artist",
+    "uri" : "spotify:artist:67pQ8Yr09zDDzzwWw3EG9R"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 202520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70600350"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2PQb0GbjqxVobQPaPuBg8x"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2PQb0GbjqxVobQPaPuBg8x",
+  "id" : "2PQb0GbjqxVobQPaPuBg8x",
+  "name" : "Set The Fire To The Third Bar",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/56fdaadb02c4ab4696af84745188ebba67597b17?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2PQb0GbjqxVobQPaPuBg8x"
+}

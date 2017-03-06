@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XFbnj1jNNzzyg46ni3dnr",
+      "id" : "1XFbnj1jNNzzyg46ni3dnr",
+      "name" : "Moullinex",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XFbnj1jNNzzyg46ni3dnr"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3MgRSG2NxfYVay2c0tc74Q"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3MgRSG2NxfYVay2c0tc74Q",
+    "id" : "3MgRSG2NxfYVay2c0tc74Q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fc79cce84c5a0de8ff6489285503c39c59340d0d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7d1b09e615451161e541d14d2fdd813f25963706",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ae7d2f6ba28d970a58c73de16f9902c51fb25e39",
+      "width" : 64
+    } ],
+    "name" : "Flora",
+    "type" : "album",
+    "uri" : "spotify:album:3MgRSG2NxfYVay2c0tc74Q"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1XFbnj1jNNzzyg46ni3dnr",
+    "id" : "1XFbnj1jNNzzyg46ni3dnr",
+    "name" : "Moullinex",
+    "type" : "artist",
+    "uri" : "spotify:artist:1XFbnj1jNNzzyg46ni3dnr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 234493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEBY40601118"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/23fnz0EH6mof0jM6JXCEWk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/23fnz0EH6mof0jM6JXCEWk",
+  "id" : "23fnz0EH6mof0jM6JXCEWk",
+  "name" : "Sunflare",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6480f44fc8f0a1221423be4c78c4ed6c681f8adf?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:23fnz0EH6mof0jM6JXCEWk"
+}

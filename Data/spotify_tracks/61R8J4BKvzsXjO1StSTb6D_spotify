@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/023YMawCG3OvACmRjWxLWC",
+      "id" : "023YMawCG3OvACmRjWxLWC",
+      "name" : "The Cat Empire",
+      "type" : "artist",
+      "uri" : "spotify:artist:023YMawCG3OvACmRjWxLWC"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2CAp15mHwLSnYJjyFFAhaH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2CAp15mHwLSnYJjyFFAhaH",
+    "id" : "2CAp15mHwLSnYJjyFFAhaH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d701aeacf4afe4c899fcfaa5fb79084d164306cc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6c1b94953b4c6d8f1f083e739915a2dc6fd79c77",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a20622f41de3542e8d5c6bf4af6ae6d265c23bb0",
+      "width" : 64
+    } ],
+    "name" : "So Many Nights",
+    "type" : "album",
+    "uri" : "spotify:album:2CAp15mHwLSnYJjyFFAhaH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/023YMawCG3OvACmRjWxLWC",
+    "id" : "023YMawCG3OvACmRjWxLWC",
+    "name" : "The Cat Empire",
+    "type" : "artist",
+    "uri" : "spotify:artist:023YMawCG3OvACmRjWxLWC"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 190880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUTW00700002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/61R8J4BKvzsXjO1StSTb6D"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/61R8J4BKvzsXjO1StSTb6D",
+  "id" : "61R8J4BKvzsXjO1StSTb6D",
+  "name" : "Fishies",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/562be77f6fce94cc10e5a4e6b2e4609ab0e760af?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:61R8J4BKvzsXjO1StSTb6D"
+}

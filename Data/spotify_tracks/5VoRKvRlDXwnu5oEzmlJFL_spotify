@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4gZRt9wlRx1IsxT9glJdrc",
+      "id" : "4gZRt9wlRx1IsxT9glJdrc",
+      "name" : "Julia Stone",
+      "type" : "artist",
+      "uri" : "spotify:artist:4gZRt9wlRx1IsxT9glJdrc"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2hIk2gdlhqFNgkRj6SGmFG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2hIk2gdlhqFNgkRj6SGmFG",
+    "id" : "2hIk2gdlhqFNgkRj6SGmFG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/25bf5e251ad25e7ceb09ea9855bd2db646e2fd8b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/576dce5a088e8a51c38b459b2ec6961d93a752fd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/60a014f7b86b46c0864072e1189a6003b0e7a1c6",
+      "width" : 64
+    } ],
+    "name" : "By The Horns",
+    "type" : "album",
+    "uri" : "spotify:album:2hIk2gdlhqFNgkRj6SGmFG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4gZRt9wlRx1IsxT9glJdrc",
+    "id" : "4gZRt9wlRx1IsxT9glJdrc",
+    "name" : "Julia Stone",
+    "type" : "artist",
+    "uri" : "spotify:artist:4gZRt9wlRx1IsxT9glJdrc"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 310840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUAP11100004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5VoRKvRlDXwnu5oEzmlJFL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5VoRKvRlDXwnu5oEzmlJFL",
+  "id" : "5VoRKvRlDXwnu5oEzmlJFL",
+  "name" : "Bloodbuzz Ohio",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/18b569d358882133dbe5b0586a27fe34e0e0b72f?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5VoRKvRlDXwnu5oEzmlJFL"
+}

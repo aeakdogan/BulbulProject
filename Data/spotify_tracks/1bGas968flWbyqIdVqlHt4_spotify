@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS",
+      "id" : "3vbKDsSS70ZX9D2OcvbZmS",
+      "name" : "Beck",
+      "type" : "artist",
+      "uri" : "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ieP11rJQvuYz0Ov3k03cy",
+    "id" : "5ieP11rJQvuYz0Ov3k03cy",
+    "images" : [ {
+      "height" : 630,
+      "url" : "https://i.scdn.co/image/de00fd2fba86c62ac510503ac775d8ef665aaa41",
+      "width" : 640
+    }, {
+      "height" : 295,
+      "url" : "https://i.scdn.co/image/73bf6b5512a933336c2f3e61ae16ab8fb13ac5c0",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/516a88db47e49559367029179b3db44e46950347",
+      "width" : 64
+    } ],
+    "name" : "Sea Change",
+    "type" : "album",
+    "uri" : "spotify:album:5ieP11rJQvuYz0Ov3k03cy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS",
+    "id" : "3vbKDsSS70ZX9D2OcvbZmS",
+    "name" : "Beck",
+    "type" : "artist",
+    "uri" : "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 274813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR10211440"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1bGas968flWbyqIdVqlHt4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1bGas968flWbyqIdVqlHt4",
+  "id" : "1bGas968flWbyqIdVqlHt4",
+  "name" : "The Golden Age",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/96e136e93e87e015e0aea7c3a07052c95ad0a53c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1bGas968flWbyqIdVqlHt4"
+}

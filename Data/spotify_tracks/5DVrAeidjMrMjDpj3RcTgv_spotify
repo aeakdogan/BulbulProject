@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+      "id" : "34UhPkLbtFKRq3nmfFgejG",
+      "name" : "Mogwai",
+      "type" : "artist",
+      "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7oNZHJpPwDNVBTOB01SBOg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7oNZHJpPwDNVBTOB01SBOg",
+    "id" : "7oNZHJpPwDNVBTOB01SBOg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bb764ddb894332e6edddf6c46ac7be179322401a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4c6be2e26aefc0fcbde8287f56088eb7afd7f93c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c93abfacb30f5ea0fe1f92fb03236ca5128bd088",
+      "width" : 64
+    } ],
+    "name" : "Hardcore Will Never Die, But You Will",
+    "type" : "album",
+    "uri" : "spotify:album:7oNZHJpPwDNVBTOB01SBOg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+    "id" : "34UhPkLbtFKRq3nmfFgejG",
+    "name" : "Mogwai",
+    "type" : "artist",
+    "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 317480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB1089502"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5DVrAeidjMrMjDpj3RcTgv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5DVrAeidjMrMjDpj3RcTgv",
+  "id" : "5DVrAeidjMrMjDpj3RcTgv",
+  "name" : "Mexican Grand Prix",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/476d586eb03d8297342f1886c3217e291329948b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5DVrAeidjMrMjDpj3RcTgv"
+}

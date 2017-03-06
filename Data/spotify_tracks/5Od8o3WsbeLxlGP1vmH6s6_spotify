@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0FrpdcVlJQqibaz5HfBUrL",
+      "id" : "0FrpdcVlJQqibaz5HfBUrL",
+      "name" : "Rick James",
+      "type" : "artist",
+      "uri" : "spotify:artist:0FrpdcVlJQqibaz5HfBUrL"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2DBFUBBqJQvfXpodPi2WP5",
+    "id" : "2DBFUBBqJQvfXpodPi2WP5",
+    "images" : [ {
+      "height" : 574,
+      "url" : "https://i.scdn.co/image/aa5c1df61c54cd1d962011eb103987066b986041",
+      "width" : 640
+    }, {
+      "height" : 269,
+      "url" : "https://i.scdn.co/image/2c324e50ad4278cc19a8fb079312f425441ebffb",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/3d5f89435b0a43049bd7dcdad3795e3d94a11970",
+      "width" : 64
+    } ],
+    "name" : "Street Songs (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:2DBFUBBqJQvfXpodPi2WP5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0FrpdcVlJQqibaz5HfBUrL",
+    "id" : "0FrpdcVlJQqibaz5HfBUrL",
+    "name" : "Rick James",
+    "type" : "artist",
+    "uri" : "spotify:artist:0FrpdcVlJQqibaz5HfBUrL"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 263626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO18100049"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Od8o3WsbeLxlGP1vmH6s6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Od8o3WsbeLxlGP1vmH6s6",
+  "id" : "5Od8o3WsbeLxlGP1vmH6s6",
+  "name" : "Ghetto Life",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/236401b635216cdc1d1e60c010c8f6ac5fb56d4b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5Od8o3WsbeLxlGP1vmH6s6"
+}

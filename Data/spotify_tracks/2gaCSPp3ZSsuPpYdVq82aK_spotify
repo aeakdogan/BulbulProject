@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4XYH5Be5pn1qkxhfaID3J5",
+      "id" : "4XYH5Be5pn1qkxhfaID3J5",
+      "name" : "Jane Birkin",
+      "type" : "artist",
+      "uri" : "spotify:artist:4XYH5Be5pn1qkxhfaID3J5"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/25BqoGshaTZnluPJ7FaUeC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/25BqoGshaTZnluPJ7FaUeC",
+    "id" : "25BqoGshaTZnluPJ7FaUeC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8e2acdf63fbc25112f31e82dbf94bdf079aff38e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fc5910612021566c2ae6ddca97650170ba0d7337",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ccafef76a0eb81caaeb436db77bc1aabe5047ee4",
+      "width" : 64
+    } ],
+    "name" : "Best Of 70",
+    "type" : "album",
+    "uri" : "spotify:album:25BqoGshaTZnluPJ7FaUeC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4XYH5Be5pn1qkxhfaID3J5",
+    "id" : "4XYH5Be5pn1qkxhfaID3J5",
+    "name" : "Jane Birkin",
+    "type" : "artist",
+    "uri" : "spotify:artist:4XYH5Be5pn1qkxhfaID3J5"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 186506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ037500470"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2gaCSPp3ZSsuPpYdVq82aK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2gaCSPp3ZSsuPpYdVq82aK",
+  "id" : "2gaCSPp3ZSsuPpYdVq82aK",
+  "name" : "Lolita Go Home",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cdae2a00a24e113f7a6f84b006347a2a9e3e67cf?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2gaCSPp3ZSsuPpYdVq82aK"
+}

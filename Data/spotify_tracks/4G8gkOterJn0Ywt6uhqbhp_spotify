@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+      "id" : "53XhwfbYqKCa1cC15pYq2q",
+      "name" : "Imagine Dragons",
+      "type" : "artist",
+      "uri" : "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6htgf3qv7vGcsdxLCDxKp8",
+    "id" : "6htgf3qv7vGcsdxLCDxKp8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/443609cd35e43c7bdb272b3d1d9e80290e128bc5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/64e279e82a7d78e1bcb2579bceb54341ef2465b0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d2ceba212b0f7a15b0254527fcbf28ceddac3704",
+      "width" : 64
+    } ],
+    "name" : "Night Visions",
+    "type" : "album",
+    "uri" : "spotify:album:6htgf3qv7vGcsdxLCDxKp8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+    },
+    "href" : "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+    "id" : "53XhwfbYqKCa1cC15pYq2q",
+    "name" : "Imagine Dragons",
+    "type" : "artist",
+    "uri" : "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 186813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71201074"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4G8gkOterJn0Ywt6uhqbhp",
+  "id" : "4G8gkOterJn0Ywt6uhqbhp",
+  "name" : "Radioactive",
+  "popularity" : 70,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dacdf4edb5a64943dbeef11a1d19ae62c9686208?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4G8gkOterJn0Ywt6uhqbhp"
+}

@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ODYbknLzVe3cWQzVfbzGB",
+      "id" : "3ODYbknLzVe3cWQzVfbzGB",
+      "name" : "Tab Benoit",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ODYbknLzVe3cWQzVfbzGB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1AgniYAqAAKE8NRbSH7DZP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1AgniYAqAAKE8NRbSH7DZP",
+    "id" : "1AgniYAqAAKE8NRbSH7DZP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0e81d9cb99cde1e10b7f77818c3080c74873c211",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/56d8c9e440dd09aa791e3d092cca34045de35161",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ebb52b60e316278bc75c81ae64012b9779b9e5f6",
+      "width" : 64
+    } ],
+    "name" : "Legacy: The Best of Tab Benoit",
+    "type" : "album",
+    "uri" : "spotify:album:1AgniYAqAAKE8NRbSH7DZP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3ODYbknLzVe3cWQzVfbzGB",
+    "id" : "3ODYbknLzVe3cWQzVfbzGB",
+    "name" : "Tab Benoit",
+    "type" : "artist",
+    "uri" : "spotify:artist:3ODYbknLzVe3cWQzVfbzGB"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6055P8DekQCGx47sckcoIF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6055P8DekQCGx47sckcoIF",
+    "id" : "6055P8DekQCGx47sckcoIF",
+    "name" : "Louisiana's LeRoux",
+    "type" : "artist",
+    "uri" : "spotify:artist:6055P8DekQCGx47sckcoIF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 319146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTE10765405"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/40L42bFLR8qOoa47eCXXxI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/40L42bFLR8qOoa47eCXXxI",
+  "id" : "40L42bFLR8qOoa47eCXXxI",
+  "name" : "For What It's Worth",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a8d487c139a96f6e1fd3bb23303316eeb650d07a?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:40L42bFLR8qOoa47eCXXxI"
+}

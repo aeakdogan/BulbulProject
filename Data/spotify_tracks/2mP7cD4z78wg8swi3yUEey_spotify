@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2GkJdEJneopHc10XQV76rN",
+      "id" : "2GkJdEJneopHc10XQV76rN",
+      "name" : "Lali Puna",
+      "type" : "artist",
+      "uri" : "spotify:artist:2GkJdEJneopHc10XQV76rN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6NUMXxMBXsCuth2PXt4d79"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6NUMXxMBXsCuth2PXt4d79",
+    "id" : "6NUMXxMBXsCuth2PXt4d79",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/88574846799a0ec02550bfc5fda52ad944f6e41d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d7f18c1cff11fff16132c064207a0c1ed9a4c7cf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2fcedb490cd1b9992e3eab7fb575b802a521bdb1",
+      "width" : 64
+    } ],
+    "name" : "Faking The Books",
+    "type" : "album",
+    "uri" : "spotify:album:6NUMXxMBXsCuth2PXt4d79"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2GkJdEJneopHc10XQV76rN",
+    "id" : "2GkJdEJneopHc10XQV76rN",
+    "name" : "Lali Puna",
+    "type" : "artist",
+    "uri" : "spotify:artist:2GkJdEJneopHc10XQV76rN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 193093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX260404405"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2mP7cD4z78wg8swi3yUEey"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2mP7cD4z78wg8swi3yUEey",
+  "id" : "2mP7cD4z78wg8swi3yUEey",
+  "name" : "B-movie",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2684436f407f9b23335fc38239dcc44d23246ef5?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2mP7cD4z78wg8swi3yUEey"
+}

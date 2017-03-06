@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6amvvBljGEyXeZydvaZ0VT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6amvvBljGEyXeZydvaZ0VT",
+    "id" : "6amvvBljGEyXeZydvaZ0VT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ce7a2dcc55705edea44cb344557923cdc40a5854",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cf1fd10119c5dc801e9c1a346f56edd5e878d636",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0fe86872db2aa18a79f7ef37046246a16ee165ab",
+      "width" : 64
+    } ],
+    "name" : "90's Rarities Vol. 1",
+    "type" : "album",
+    "uri" : "spotify:album:6amvvBljGEyXeZydvaZ0VT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+    "id" : "36E7oYfz3LLRto6l2WmDcD",
+    "name" : "Pulp",
+    "type" : "artist",
+    "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 305960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBLFP1577301"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0kjZeALIsr6YrUNM1LArRw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0kjZeALIsr6YrUNM1LArRw",
+  "id" : "0kjZeALIsr6YrUNM1LArRw",
+  "name" : "She's Dead",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/be3b02bf0311960f91b3e9e375b6741212c96a4f?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0kjZeALIsr6YrUNM1LArRw"
+}

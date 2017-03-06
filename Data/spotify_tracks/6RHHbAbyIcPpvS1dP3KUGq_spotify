@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6RZUqkomCmb8zCRqc9eznB",
+      "id" : "6RZUqkomCmb8zCRqc9eznB",
+      "name" : "Placebo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6RZUqkomCmb8zCRqc9eznB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/42LvsxgKnHYVu7PQRXmURw",
+    "id" : "42LvsxgKnHYVu7PQRXmURw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c2cd6b22de40401c4bb98dff666c91b7687319ef",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b301fba1307126e4d9e39e14bf627d5b37f59052",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b20d353907970811ac9e7f176ed327748e447c90",
+      "width" : 64
+    } ],
+    "name" : "Covers",
+    "type" : "album",
+    "uri" : "spotify:album:42LvsxgKnHYVu7PQRXmURw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6RZUqkomCmb8zCRqc9eznB",
+    "id" : "6RZUqkomCmb8zCRqc9eznB",
+    "name" : "Placebo",
+    "type" : "artist",
+    "uri" : "spotify:artist:6RZUqkomCmb8zCRqc9eznB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 297320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0300682"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6RHHbAbyIcPpvS1dP3KUGq",
+  "id" : "6RHHbAbyIcPpvS1dP3KUGq",
+  "name" : "Running Up That Hill",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bb95a992e74d5103205267c61e4bbd9fedcb4db8?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6RHHbAbyIcPpvS1dP3KUGq"
+}

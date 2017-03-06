@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2O0Hw1WSMbskB5tD9aWah3",
+      "id" : "2O0Hw1WSMbskB5tD9aWah3",
+      "name" : "The Stylistics",
+      "type" : "artist",
+      "uri" : "spotify:artist:2O0Hw1WSMbskB5tD9aWah3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6niA5WysdTshOMYsFAvkTz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6niA5WysdTshOMYsFAvkTz",
+    "id" : "6niA5WysdTshOMYsFAvkTz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f2d6e0dc8b8735b64bb043ce261b825b52bdea30",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4d4eaa3b4b00cdb8f2f2c34e489fd26deec7aef1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/de568279271e8e7bfb4276c8aef7ace80cc3bf51",
+      "width" : 64
+    } ],
+    "name" : "Closer Than Close",
+    "type" : "album",
+    "uri" : "spotify:album:6niA5WysdTshOMYsFAvkTz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2O0Hw1WSMbskB5tD9aWah3",
+    "id" : "2O0Hw1WSMbskB5tD9aWah3",
+    "name" : "The Stylistics",
+    "type" : "artist",
+    "uri" : "spotify:artist:2O0Hw1WSMbskB5tD9aWah3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 241493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11407111"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Ujapj5Gv1EM0yDGSP8wzl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Ujapj5Gv1EM0yDGSP8wzl",
+  "id" : "3Ujapj5Gv1EM0yDGSP8wzl",
+  "name" : "Closer Than Close",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bab2d65dce1f0ea1c8d698dbc92d22fd99d216ea?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:3Ujapj5Gv1EM0yDGSP8wzl"
+}

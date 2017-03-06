@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CIRif6ZAedT7kZSPvj2A4",
+      "id" : "3CIRif6ZAedT7kZSPvj2A4",
+      "name" : "She & Him",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CIRif6ZAedT7kZSPvj2A4"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5FHgJlXkHfMP4vwK0hDN0i"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5FHgJlXkHfMP4vwK0hDN0i",
+    "id" : "5FHgJlXkHfMP4vwK0hDN0i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f8827d50ff944ec67ddf5fcd51c5dc4d2339926c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d9e6f008c5a30a071594ff61b062c91bab6e8bd8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/143d94accc8c17edfffc1c8f80e72f789adbf69c",
+      "width" : 64
+    } ],
+    "name" : "Volume One",
+    "type" : "album",
+    "uri" : "spotify:album:5FHgJlXkHfMP4vwK0hDN0i"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3CIRif6ZAedT7kZSPvj2A4",
+    "id" : "3CIRif6ZAedT7kZSPvj2A4",
+    "name" : "She & Him",
+    "type" : "artist",
+    "uri" : "spotify:artist:3CIRif6ZAedT7kZSPvj2A4"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 150506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG0832402"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6e7TwT8TUE3BHN7aokBKfq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6e7TwT8TUE3BHN7aokBKfq",
+  "id" : "6e7TwT8TUE3BHN7aokBKfq",
+  "name" : "Why Do You Let Me Stay Here?",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/edd7ebd8623e2b2fe3a05557e6ccd4dd3c02da5b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6e7TwT8TUE3BHN7aokBKfq"
+}

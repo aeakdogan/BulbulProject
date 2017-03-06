@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+      "id" : "4F84IBURUo98rz4r61KF70",
+      "name" : "The White Stripes",
+      "type" : "artist",
+      "uri" : "spotify:artist:4F84IBURUo98rz4r61KF70"
+    } ],
+    "available_markets" : [ "CA", "JP", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/22TLQXdBF2zfA0hK48deec"
+    },
+    "href" : "https://api.spotify.com/v1/albums/22TLQXdBF2zfA0hK48deec",
+    "id" : "22TLQXdBF2zfA0hK48deec",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ba42886df7c3e953a050d847f4228d87b74fc200",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/86fb44e17c535b3e588781941e98a8b91bc59e1e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e63760f74d169a1fb23ac8ee84c70fa5856fd0db",
+      "width" : 64
+    } ],
+    "name" : "The White Stripes",
+    "type" : "album",
+    "uri" : "spotify:album:22TLQXdBF2zfA0hK48deec"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+    "id" : "4F84IBURUo98rz4r61KF70",
+    "name" : "The White Stripes",
+    "type" : "artist",
+    "uri" : "spotify:artist:4F84IBURUo98rz4r61KF70"
+  } ],
+  "available_markets" : [ "CA", "JP", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 149066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVT10200080"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6mSGgR9y4ltd809eZjuSw5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6mSGgR9y4ltd809eZjuSw5",
+  "id" : "6mSGgR9y4ltd809eZjuSw5",
+  "name" : "Jimmy The Exploder",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/528cc4f732db10b6e9388e7d99fd3a0f92bcdf22?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6mSGgR9y4ltd809eZjuSw5"
+}

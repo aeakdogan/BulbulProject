@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/42crL07E4WPfVovyUtMpvC",
+      "id" : "42crL07E4WPfVovyUtMpvC",
+      "name" : "Robert DeLong",
+      "type" : "artist",
+      "uri" : "spotify:artist:42crL07E4WPfVovyUtMpvC"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5bxG2NewqjQjENq0I1Y3A1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5bxG2NewqjQjENq0I1Y3A1",
+    "id" : "5bxG2NewqjQjENq0I1Y3A1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9ed9487f51866edbb8164f51f89e4334a169ef31",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/17e6b6dd0ca83550e31dee5c57d92386f89c9a45",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8c0e7d6ece5ab0144d34e664a75266153330108b",
+      "width" : 64
+    } ],
+    "name" : "Just Movement",
+    "type" : "album",
+    "uri" : "spotify:album:5bxG2NewqjQjENq0I1Y3A1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/42crL07E4WPfVovyUtMpvC",
+    "id" : "42crL07E4WPfVovyUtMpvC",
+    "name" : "Robert DeLong",
+    "type" : "artist",
+    "uri" : "spotify:artist:42crL07E4WPfVovyUtMpvC"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 330240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USYAH1200386"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ntyuiqd7CnVDQWjQRU0OX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ntyuiqd7CnVDQWjQRU0OX",
+  "id" : "7ntyuiqd7CnVDQWjQRU0OX",
+  "name" : "Basically, I",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/78ea8fdf14fbf879eba57abee4af84d42b855973?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:7ntyuiqd7CnVDQWjQRU0OX"
+}

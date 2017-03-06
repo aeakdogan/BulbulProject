@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5T0MSzX9RC5NA6gAI6irSn",
+      "id" : "5T0MSzX9RC5NA6gAI6irSn",
+      "name" : "Estelle",
+      "type" : "artist",
+      "uri" : "spotify:artist:5T0MSzX9RC5NA6gAI6irSn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4kmajI8zGguCoODAtFNAcB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4kmajI8zGguCoODAtFNAcB",
+    "id" : "4kmajI8zGguCoODAtFNAcB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9b6c82fba185f7b47d5a2d2ee824695760647f79",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5cc0f80aec7529dcca1151ae0da9b784ec39ca33",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e5168c184200cd5ddc7f5d6c431dad82b73907ba",
+      "width" : 64
+    } ],
+    "name" : "All Of Me",
+    "type" : "album",
+    "uri" : "spotify:album:4kmajI8zGguCoODAtFNAcB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5T0MSzX9RC5NA6gAI6irSn",
+    "id" : "5T0MSzX9RC5NA6gAI6irSn",
+    "name" : "Estelle",
+    "type" : "artist",
+    "uri" : "spotify:artist:5T0MSzX9RC5NA6gAI6irSn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 198373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT21200092"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2aAHyMAzO6tn4AkZzniE4d"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2aAHyMAzO6tn4AkZzniE4d",
+  "id" : "2aAHyMAzO6tn4AkZzniE4d",
+  "name" : "Cold Crush",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/15cb004b6520e0d1adacc9a75cd3c896220ffb61?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2aAHyMAzO6tn4AkZzniE4d"
+}

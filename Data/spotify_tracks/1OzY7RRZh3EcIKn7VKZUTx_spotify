@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xeFne1rkxMhKSW3ipvkdV",
+      "id" : "6xeFne1rkxMhKSW3ipvkdV",
+      "name" : "Toploader",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xeFne1rkxMhKSW3ipvkdV"
+    } ],
+    "available_markets" : [ "HK", "ID", "MY", "PH", "SG", "TW", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4uTSmNGMP2FrM5D3NMeI6P"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4uTSmNGMP2FrM5D3NMeI6P",
+    "id" : "4uTSmNGMP2FrM5D3NMeI6P",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0c2f13b8370e06797b6ab7998b9a283802455f42",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/abfa7677702cad853c9004dae9cb18b4fd893c61",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/421a1d4031cb9019d82cb9d6b4b0493411b5dc79",
+      "width" : 64
+    } ],
+    "name" : "Onka's Big Moka",
+    "type" : "album",
+    "uri" : "spotify:album:4uTSmNGMP2FrM5D3NMeI6P"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6xeFne1rkxMhKSW3ipvkdV",
+    "id" : "6xeFne1rkxMhKSW3ipvkdV",
+    "name" : "Toploader",
+    "type" : "artist",
+    "uri" : "spotify:artist:6xeFne1rkxMhKSW3ipvkdV"
+  } ],
+  "available_markets" : [ "HK", "ID", "MY", "PH", "SG", "TW", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 233573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBN0102316"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1OzY7RRZh3EcIKn7VKZUTx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1OzY7RRZh3EcIKn7VKZUTx",
+  "id" : "1OzY7RRZh3EcIKn7VKZUTx",
+  "name" : "Dancing in the Moonlight - 2001 Remix",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bb872fb100458a4709c5bbd968fa040b440f2e47?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1OzY7RRZh3EcIKn7VKZUTx"
+}

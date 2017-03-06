@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CIRif6ZAedT7kZSPvj2A4",
+      "id" : "3CIRif6ZAedT7kZSPvj2A4",
+      "name" : "She & Him",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CIRif6ZAedT7kZSPvj2A4"
+    } ],
+    "available_markets" : [ "AR", "BO", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3FSiWiPJxoz7L6tLmrwYYy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3FSiWiPJxoz7L6tLmrwYYy",
+    "id" : "3FSiWiPJxoz7L6tLmrwYYy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6f03ddf59e64c24a6f4dbe167aedd3f0861efeb6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/08172a706c0bc26585398d3da42a66929b31e762",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eda55108732eb05da8e10b0a4fe80a73b671f988",
+      "width" : 64
+    } ],
+    "name" : "A Very She & Him Christmas",
+    "type" : "album",
+    "uri" : "spotify:album:3FSiWiPJxoz7L6tLmrwYYy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3CIRif6ZAedT7kZSPvj2A4",
+    "id" : "3CIRif6ZAedT7kZSPvj2A4",
+    "name" : "She & Him",
+    "type" : "artist",
+    "uri" : "spotify:artist:3CIRif6ZAedT7kZSPvj2A4"
+  } ],
+  "available_markets" : [ "AR", "BO", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 137226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG1142409"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1FkfPShKw6e2WHe3ZsYEbk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1FkfPShKw6e2WHe3ZsYEbk",
+  "id" : "1FkfPShKw6e2WHe3ZsYEbk",
+  "name" : "Baby, It's Cold Outside",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2b854371334393531952610ae17c4b3c1594ca1e?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1FkfPShKw6e2WHe3ZsYEbk"
+}

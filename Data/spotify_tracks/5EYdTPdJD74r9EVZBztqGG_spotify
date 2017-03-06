@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nDLku5uL3ou60kvCGZorh",
+      "id" : "6nDLku5uL3ou60kvCGZorh",
+      "name" : "Bloodhound Gang",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nDLku5uL3ou60kvCGZorh"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7BuCGZPiQkZpyn0Wj8rxIh",
+    "id" : "7BuCGZPiQkZpyn0Wj8rxIh",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/b996940f703580a1b5cb2849bb6fea051ba6fb03",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/cd5e28b8dc2cf23ca753e448f22f4cafb29aa114",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f74f7d22a92fd6483e44a18154a083ba45231efe",
+      "width" : 64
+    } ],
+    "name" : "Hooray For Boobies",
+    "type" : "album",
+    "uri" : "spotify:album:7BuCGZPiQkZpyn0Wj8rxIh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6nDLku5uL3ou60kvCGZorh",
+    "id" : "6nDLku5uL3ou60kvCGZorh",
+    "name" : "Bloodhound Gang",
+    "type" : "artist",
+    "uri" : "spotify:artist:6nDLku5uL3ou60kvCGZorh"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 260506,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USIR19902530"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5EYdTPdJD74r9EVZBztqGG",
+  "id" : "5EYdTPdJD74r9EVZBztqGG",
+  "name" : "The Bad Touch",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8537b56ad32002bc69e3c97d8bcdec6add076c2c?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:5EYdTPdJD74r9EVZBztqGG"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh",
+      "id" : "3bUwxJgNakzYKkqAVgZLlh",
+      "name" : "Travis",
+      "type" : "artist",
+      "uri" : "spotify:artist:3bUwxJgNakzYKkqAVgZLlh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/18NWKHHNIupWIvXxsG9vHh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/18NWKHHNIupWIvXxsG9vHh",
+    "id" : "18NWKHHNIupWIvXxsG9vHh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/57076d2e238db8847c32e778058c2437480afd54",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/79d255ae29fe61341e1afa95bac13f31b37c08c6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/92eda148a329fd23b11b4bf8210bb0ffe696f15a",
+      "width" : 64
+    } ],
+    "name" : "Singles",
+    "type" : "album",
+    "uri" : "spotify:album:18NWKHHNIupWIvXxsG9vHh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh",
+    "id" : "3bUwxJgNakzYKkqAVgZLlh",
+    "name" : "Travis",
+    "type" : "artist",
+    "uri" : "spotify:artist:3bUwxJgNakzYKkqAVgZLlh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 221760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPF9800170"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3z2WwXeZjoSIUa2c9r2SFV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3z2WwXeZjoSIUa2c9r2SFV",
+  "id" : "3z2WwXeZjoSIUa2c9r2SFV",
+  "name" : "Writing to Reach You",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/faf30d41085e3502cf9c955da48c91a25cbb7479?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3z2WwXeZjoSIUa2c9r2SFV"
+}

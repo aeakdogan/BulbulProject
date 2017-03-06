@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+      "id" : "3GBPw9NK25X1Wt2OUvOwY3",
+      "name" : "Jack Johnson",
+      "type" : "artist",
+      "uri" : "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7tTc46dNdE6GGuiQsssWxo",
+    "id" : "7tTc46dNdE6GGuiQsssWxo",
+    "images" : [ {
+      "height" : 576,
+      "url" : "https://i.scdn.co/image/c788b8e42acc2986a7eed28b0342547b5053a88f",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/173a5e53a4e8cdc29a6a465506ca2f1deb20cd3d",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/a33a86468232f9cf06da89b3fd0d616041b6da72",
+      "width" : 64
+    } ],
+    "name" : "In Between Dreams",
+    "type" : "album",
+    "uri" : "spotify:album:7tTc46dNdE6GGuiQsssWxo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+    "id" : "3GBPw9NK25X1Wt2OUvOwY3",
+    "name" : "Jack Johnson",
+    "type" : "artist",
+    "uri" : "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 144986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC60400037"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/49T9pCYlpvtGd9ugZt7DSZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/49T9pCYlpvtGd9ugZt7DSZ",
+  "id" : "49T9pCYlpvtGd9ugZt7DSZ",
+  "name" : "If I Could",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5d9ab32573e8ba7c571678ca6044265c7d6ed8dd?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:49T9pCYlpvtGd9ugZt7DSZ"
+}

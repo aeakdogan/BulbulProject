@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2GOfAZEwmCpwPhX7kjMJYN",
+      "id" : "2GOfAZEwmCpwPhX7kjMJYN",
+      "name" : "John Vanderslice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2GOfAZEwmCpwPhX7kjMJYN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2aHz6MgTTVtCHg5LEBlpJO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2aHz6MgTTVtCHg5LEBlpJO",
+    "id" : "2aHz6MgTTVtCHg5LEBlpJO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9e05c9319e546afdffa87bd74bda71b2d5883803",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1f20a8a17e18010eaa12d43fb6001bacbd515027",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a28c992982dfbd9ac9f0c638e52871b12484f9d2",
+      "width" : 64
+    } ],
+    "name" : "Cellar Door",
+    "type" : "album",
+    "uri" : "spotify:album:2aHz6MgTTVtCHg5LEBlpJO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2GOfAZEwmCpwPhX7kjMJYN",
+    "id" : "2GOfAZEwmCpwPhX7kjMJYN",
+    "name" : "John Vanderslice",
+    "type" : "artist",
+    "uri" : "spotify:artist:2GOfAZEwmCpwPhX7kjMJYN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 258826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBS50410307"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/43uwqlzKIRAJxcvQKONk1R"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/43uwqlzKIRAJxcvQKONk1R",
+  "id" : "43uwqlzKIRAJxcvQKONk1R",
+  "name" : "White Plains",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/80a8cd46315367bf231adfd19cbdc575a0ef93fe?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:43uwqlzKIRAJxcvQKONk1R"
+}

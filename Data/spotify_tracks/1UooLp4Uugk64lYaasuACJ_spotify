@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1tXAvPcwDlkP31LkClzuIS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1tXAvPcwDlkP31LkClzuIS",
+      "id" : "1tXAvPcwDlkP31LkClzuIS",
+      "name" : "Neyse",
+      "type" : "artist",
+      "uri" : "spotify:artist:1tXAvPcwDlkP31LkClzuIS"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3aPwB5r4cLnm8BjbLjnAGL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3aPwB5r4cLnm8BjbLjnAGL",
+    "id" : "3aPwB5r4cLnm8BjbLjnAGL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2cce70d73b3a3598c7c9dbb088406e6fb4f26005",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/72ce9cd769c07033f541f0d6a36f115a81e83922",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b60ebc7ec09c63d3ee4a68e038338b09fde86098",
+      "width" : 64
+    } ],
+    "name" : "Neyse",
+    "type" : "album",
+    "uri" : "spotify:album:3aPwB5r4cLnm8BjbLjnAGL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1tXAvPcwDlkP31LkClzuIS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1tXAvPcwDlkP31LkClzuIS",
+    "id" : "1tXAvPcwDlkP31LkClzuIS",
+    "name" : "Neyse",
+    "type" : "artist",
+    "uri" : "spotify:artist:1tXAvPcwDlkP31LkClzuIS"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 224351,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR9621100017"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1UooLp4Uugk64lYaasuACJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1UooLp4Uugk64lYaasuACJ",
+  "id" : "1UooLp4Uugk64lYaasuACJ",
+  "name" : "Hokkabaz",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fabc9654170991b2849cafddb491a4187a6d8722?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1UooLp4Uugk64lYaasuACJ"
+}

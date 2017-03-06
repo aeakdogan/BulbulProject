@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+      "id" : "4tZwfgrHOc3mvqYlEYSvVi",
+      "name" : "Daft Punk",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1A2GTWGtFfWp7KSQTwWOyo",
+    "id" : "1A2GTWGtFfWp7KSQTwWOyo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3c9e735ef6d82635f371677484eaaf788ea226bf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dce7f4e4c5f8741e0f08877863a8e57dfe1d4224",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a70f2abda6b9900cc6eb6afee60494844af0f059",
+      "width" : 64
+    } ],
+    "name" : "Human After All",
+    "type" : "album",
+    "uri" : "spotify:album:1A2GTWGtFfWp7KSQTwWOyo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+    "id" : "4tZwfgrHOc3mvqYlEYSvVi",
+    "name" : "Daft Punk",
+    "type" : "artist",
+    "uri" : "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 287720,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDUW0400103"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4zu9wo2FXoBSsKjO6tRB3R"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4zu9wo2FXoBSsKjO6tRB3R",
+  "id" : "4zu9wo2FXoBSsKjO6tRB3R",
+  "name" : "Robot Rock",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9ec3a52390ff23aeb2ce125591839ef16be18abb?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4zu9wo2FXoBSsKjO6tRB3R"
+}

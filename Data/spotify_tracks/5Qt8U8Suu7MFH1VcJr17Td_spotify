@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
+      },
+      "href" : "https://api.spotify.com/v1/artists/06YQ6XwCdPUn8rAXV70gge",
+      "id" : "06YQ6XwCdPUn8rAXV70gge",
+      "name" : "Republica",
+      "type" : "artist",
+      "uri" : "spotify:artist:06YQ6XwCdPUn8rAXV70gge"
+    } ],
+    "available_markets" : [ "AR", "BO", "CA", "CL", "DK", "HK", "IS", "PY", "SG", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5KIb3c4z28CHa5snztEMNK",
+    "id" : "5KIb3c4z28CHa5snztEMNK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bfd3cf777038af6730ed66c38435108c9b19cd4a",
+      "width" : 629
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/618d70ae2360269620ca7adbf634b3c115538a8b",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/739b7171b58ea4a5d01316c50cf36d4c457547a8",
+      "width" : 63
+    } ],
+    "name" : "Republica",
+    "type" : "album",
+    "uri" : "spotify:album:5KIb3c4z28CHa5snztEMNK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
+    },
+    "href" : "https://api.spotify.com/v1/artists/06YQ6XwCdPUn8rAXV70gge",
+    "id" : "06YQ6XwCdPUn8rAXV70gge",
+    "name" : "Republica",
+    "type" : "artist",
+    "uri" : "spotify:artist:06YQ6XwCdPUn8rAXV70gge"
+  } ],
+  "available_markets" : [ "AR", "BO", "CA", "CL", "DK", "HK", "IS", "PY", "SG", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 301066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL9600018"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Qt8U8Suu7MFH1VcJr17Td",
+  "id" : "5Qt8U8Suu7MFH1VcJr17Td",
+  "name" : "Ready to Go",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/67be12e399ca888476170ab9bc24465deb0fe72b?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5Qt8U8Suu7MFH1VcJr17Td"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ICflSq6ZgYAIrm2CTkfVP",
+      "id" : "3ICflSq6ZgYAIrm2CTkfVP",
+      "name" : "The Animals",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ICflSq6ZgYAIrm2CTkfVP"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3GoBNqjGtsJ8jnwp1PfKby",
+    "id" : "3GoBNqjGtsJ8jnwp1PfKby",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7186993cfc9c7c0503913da358ec0c702af25686",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/24b1858143c90686b766e35118473b1bbe61d0c8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/31c741c1cb6ce7223b96c3dffbbf3528dac9925f",
+      "width" : 64
+    } ],
+    "name" : "Animal Tracks",
+    "type" : "album",
+    "uri" : "spotify:album:3GoBNqjGtsJ8jnwp1PfKby"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3ICflSq6ZgYAIrm2CTkfVP",
+    "id" : "3ICflSq6ZgYAIrm2CTkfVP",
+    "name" : "The Animals",
+    "type" : "artist",
+    "uri" : "spotify:artist:3ICflSq6ZgYAIrm2CTkfVP"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 149360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA171360028"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7vYA9ET5AUqJt5pBbhKmcB",
+  "id" : "7vYA9ET5AUqJt5pBbhKmcB",
+  "name" : "Don't Let Me Be Misunderstood",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/931e195a5a4dbae14bab37870bbcf22304d4978e?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7vYA9ET5AUqJt5pBbhKmcB"
+}

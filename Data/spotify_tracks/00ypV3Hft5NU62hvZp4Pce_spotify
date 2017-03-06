@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/77zrvBORXcnTyysjjKRfBU",
+      "id" : "77zrvBORXcnTyysjjKRfBU",
+      "name" : "Art Of Noise",
+      "type" : "artist",
+      "uri" : "spotify:artist:77zrvBORXcnTyysjjKRfBU"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1zHbMGOtGMXJvYZjt1WdFE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1zHbMGOtGMXJvYZjt1WdFE",
+    "id" : "1zHbMGOtGMXJvYZjt1WdFE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/87c3537162bad53c3e175bae9f5a272bae74b40b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/60a81cb24fb025cd4906d159fdab47d73f02cc08",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0ff7463b696d8b37afd28d2a0a5625779bc8f06d",
+      "width" : 64
+    } ],
+    "name" : "And What Have You Done With My Body, God? (Best of the Box)",
+    "type" : "album",
+    "uri" : "spotify:album:1zHbMGOtGMXJvYZjt1WdFE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/77zrvBORXcnTyysjjKRfBU",
+    "id" : "77zrvBORXcnTyysjjKRfBU",
+    "name" : "Art Of Noise",
+    "type" : "artist",
+    "uri" : "spotify:artist:77zrvBORXcnTyysjjKRfBU"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 226266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHW0600135"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/00ypV3Hft5NU62hvZp4Pce"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/00ypV3Hft5NU62hvZp4Pce",
+  "id" : "00ypV3Hft5NU62hvZp4Pce",
+  "name" : "Diversions 5",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6d214b0ce8cd3c4b484c3e21003c7188d5513c33?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:00ypV3Hft5NU62hvZp4Pce"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5raxAhTYYjNAtPT1mq3a2L"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5raxAhTYYjNAtPT1mq3a2L",
+      "id" : "5raxAhTYYjNAtPT1mq3a2L",
+      "name" : "Bottin",
+      "type" : "artist",
+      "uri" : "spotify:artist:5raxAhTYYjNAtPT1mq3a2L"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/01AqGdtxBDLoP6556Q321i"
+    },
+    "href" : "https://api.spotify.com/v1/albums/01AqGdtxBDLoP6556Q321i",
+    "id" : "01AqGdtxBDLoP6556Q321i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3774e977b356c7fbeebcf57887654df69399acbe",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/44320e3842b9a4d30e0587c0e8fb1962ebc0cf50",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/525b144055f8a4770cb813f27f741369effe75c8",
+      "width" : 64
+    } ],
+    "name" : "Horror Disco",
+    "type" : "album",
+    "uri" : "spotify:album:01AqGdtxBDLoP6556Q321i"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5raxAhTYYjNAtPT1mq3a2L"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5raxAhTYYjNAtPT1mq3a2L",
+    "id" : "5raxAhTYYjNAtPT1mq3a2L",
+    "name" : "Bottin",
+    "type" : "artist",
+    "uri" : "spotify:artist:5raxAhTYYjNAtPT1mq3a2L"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 334302,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBPUP0932063"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0I7NA1peS9weRVx1st2764"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0I7NA1peS9weRVx1st2764",
+  "id" : "0I7NA1peS9weRVx1st2764",
+  "name" : "Endless Mother",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/955462c6957da262f1521ff71bbf927286893744?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:0I7NA1peS9weRVx1st2764"
+}

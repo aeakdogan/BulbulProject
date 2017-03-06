@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6gp6HExvrVJwOHWQKhV2wq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6gp6HExvrVJwOHWQKhV2wq",
+      "id" : "6gp6HExvrVJwOHWQKhV2wq",
+      "name" : "Botanica",
+      "type" : "artist",
+      "uri" : "spotify:artist:6gp6HExvrVJwOHWQKhV2wq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5fFdYBUQ94DC0zyd0BmJZj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5fFdYBUQ94DC0zyd0BmJZj",
+    "id" : "5fFdYBUQ94DC0zyd0BmJZj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9130720665649a37b9631d88cc01a5fe7b74496e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/16d12fab8fab96f47db8c905b3b112cc5e533864",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/73dbf2b0277983e687070ce41acaf07a959d956f",
+      "width" : 64
+    } ],
+    "name" : "Vs. The Truthfish",
+    "type" : "album",
+    "uri" : "spotify:album:5fFdYBUQ94DC0zyd0BmJZj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6gp6HExvrVJwOHWQKhV2wq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6gp6HExvrVJwOHWQKhV2wq",
+    "id" : "6gp6HExvrVJwOHWQKhV2wq",
+    "name" : "Botanica",
+    "type" : "artist",
+    "uri" : "spotify:artist:6gp6HExvrVJwOHWQKhV2wq"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 332280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DECH70500109"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/29xlBQesSfzEwMAz9zYu2V"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/29xlBQesSfzEwMAz9zYu2V",
+  "id" : "29xlBQesSfzEwMAz9zYu2V",
+  "name" : "The Truth Fish",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/444fb7fd302eddbeaed4267c3ce317d379ee3bb8?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:29xlBQesSfzEwMAz9zYu2V"
+}

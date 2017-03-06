@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU",
+      "id" : "0kEfub5RzlZOB2zGomqVSU",
+      "name" : "Gil Scott-Heron",
+      "type" : "artist",
+      "uri" : "spotify:artist:0kEfub5RzlZOB2zGomqVSU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3GlD97HHslKO74Ef1yW2JF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3GlD97HHslKO74Ef1yW2JF",
+    "id" : "3GlD97HHslKO74Ef1yW2JF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/592a12c699dba9b1cafbca3df5fea9f2976fce3c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7815f3c9cca2ff796e5343fcf5a6f57a1ac68198",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/914eb3a05107a41da3202c9a8465544a060ed04f",
+      "width" : 64
+    } ],
+    "name" : "Real Eyes",
+    "type" : "album",
+    "uri" : "spotify:album:3GlD97HHslKO74Ef1yW2JF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU",
+    "id" : "0kEfub5RzlZOB2zGomqVSU",
+    "name" : "Gil Scott-Heron",
+    "type" : "artist",
+    "uri" : "spotify:artist:0kEfub5RzlZOB2zGomqVSU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 288026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR11000151"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5T224hy0yYSyvqFA58AiZF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5T224hy0yYSyvqFA58AiZF",
+  "id" : "5T224hy0yYSyvqFA58AiZF",
+  "name" : "Waiting for the Axe to Fall",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7327900701b486f4787a8abbe3b0f9cb8def125f?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5T224hy0yYSyvqFA58AiZF"
+}

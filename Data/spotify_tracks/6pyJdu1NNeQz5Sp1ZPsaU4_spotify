@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+      "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+      "name" : "Frank Sinatra",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3D4FYzqPi2LqJWyfsY1ZdI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3D4FYzqPi2LqJWyfsY1ZdI",
+    "id" : "3D4FYzqPi2LqJWyfsY1ZdI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0dddf5da44d023e3fcbf1931d2abe28e143a8ffa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/de2fc9131d0ca868bd6150dac10d440b14fa847a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/31b91621c9d637085af6dc5b426e9db799075217",
+      "width" : 64
+    } ],
+    "name" : "World On A String (Live)",
+    "type" : "album",
+    "uri" : "spotify:album:3D4FYzqPi2LqJWyfsY1ZdI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+    "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+    "name" : "Frank Sinatra",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 146693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRH11604286"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6pyJdu1NNeQz5Sp1ZPsaU4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6pyJdu1NNeQz5Sp1ZPsaU4",
+  "id" : "6pyJdu1NNeQz5Sp1ZPsaU4",
+  "name" : "April In Paris - Live At The Sporting Club, Monte Carlo/1958",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d534431396324c0831d92c2658bc2b2322b3217d?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:6pyJdu1NNeQz5Sp1ZPsaU4"
+}

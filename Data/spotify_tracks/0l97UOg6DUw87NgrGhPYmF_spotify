@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+      "id" : "33EUXrFKGjpUSGacqEHhU4",
+      "name" : "Iggy Pop",
+      "type" : "artist",
+      "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7ynKEunH8LSit4TR3foMVC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7ynKEunH8LSit4TR3foMVC",
+    "id" : "7ynKEunH8LSit4TR3foMVC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b985e7146c33829b4abb682bcec563d6396ce06e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ba2045ffb59aed58dccd81192d098053f8d6e1d4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6e18fb266026c2d0fc2c249e00c37ab6f46ba898",
+      "width" : 64
+    } ],
+    "name" : "Lust For Life",
+    "type" : "album",
+    "uri" : "spotify:album:7ynKEunH8LSit4TR3foMVC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+    "id" : "33EUXrFKGjpUSGacqEHhU4",
+    "name" : "Iggy Pop",
+    "type" : "artist",
+    "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 265893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTM39000002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0l97UOg6DUw87NgrGhPYmF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0l97UOg6DUw87NgrGhPYmF",
+  "id" : "0l97UOg6DUw87NgrGhPYmF",
+  "name" : "Success",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c61ee8c5b453f3495be7c301ac14899b7cfbf997?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0l97UOg6DUw87NgrGhPYmF"
+}

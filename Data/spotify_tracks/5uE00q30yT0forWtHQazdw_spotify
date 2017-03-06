@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TdVTSmMfLh55VrJDUpIQ2",
+      "id" : "3TdVTSmMfLh55VrJDUpIQ2",
+      "name" : "Tamaryn",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TdVTSmMfLh55VrJDUpIQ2"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5PIKcDrhMTnWgQK9fPrVZB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5PIKcDrhMTnWgQK9fPrVZB",
+    "id" : "5PIKcDrhMTnWgQK9fPrVZB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d5ab00611186ca70148bffd9b2707b45cb081cb1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e9fbee24c27ba1f818f479b2e388dadb5ce2c916",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b9b5d76fe3ff37d10d14c0d1e35d4fe97666a5d9",
+      "width" : 64
+    } ],
+    "name" : "Tender New Signs",
+    "type" : "album",
+    "uri" : "spotify:album:5PIKcDrhMTnWgQK9fPrVZB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3TdVTSmMfLh55VrJDUpIQ2",
+    "id" : "3TdVTSmMfLh55VrJDUpIQ2",
+    "name" : "Tamaryn",
+    "type" : "artist",
+    "uri" : "spotify:artist:3TdVTSmMfLh55VrJDUpIQ2"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 284040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMV8L1212510"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5uE00q30yT0forWtHQazdw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5uE00q30yT0forWtHQazdw",
+  "id" : "5uE00q30yT0forWtHQazdw",
+  "name" : "I'm Gone",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/babe8c0df5d9d6dc575dc49aeabb1de37c34d4f8?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5uE00q30yT0forWtHQazdw"
+}

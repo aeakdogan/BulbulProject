@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yzxX2DI9LFK8VFTyW2zZ8",
+      "id" : "2yzxX2DI9LFK8VFTyW2zZ8",
+      "name" : "Joe Satriani",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yzxX2DI9LFK8VFTyW2zZ8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2lNbMeSaE393FDbMsiLLBw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2lNbMeSaE393FDbMsiLLBw",
+    "id" : "2lNbMeSaE393FDbMsiLLBw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d2dbe26c1358eef963f3fbaa624a6d5540bab23c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2eb07dec6f184133f53cb621bf1193e9afb20fe1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/af04ff4a08adbddb74a8cfe1c3b18240225acdaf",
+      "width" : 64
+    } ],
+    "name" : "Professor Satchafunkilus and the Musterion of Rock",
+    "type" : "album",
+    "uri" : "spotify:album:2lNbMeSaE393FDbMsiLLBw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2yzxX2DI9LFK8VFTyW2zZ8",
+    "id" : "2yzxX2DI9LFK8VFTyW2zZ8",
+    "name" : "Joe Satriani",
+    "type" : "artist",
+    "uri" : "spotify:artist:2yzxX2DI9LFK8VFTyW2zZ8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 411853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10800311"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/54CJqOVORsJg6NU5zn6cio"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/54CJqOVORsJg6NU5zn6cio",
+  "id" : "54CJqOVORsJg6NU5zn6cio",
+  "name" : "Andalusia",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/263f3d78ba2fa8f791e64165dacd521dee6cd8a3?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:54CJqOVORsJg6NU5zn6cio"
+}

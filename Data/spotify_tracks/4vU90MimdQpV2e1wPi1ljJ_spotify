@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+      "id" : "3iOvXCl6edW5Um0fXEBRXy",
+      "name" : "The xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2rmMeEq5D1Bg7YFRwtHBDr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2rmMeEq5D1Bg7YFRwtHBDr",
+    "id" : "2rmMeEq5D1Bg7YFRwtHBDr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/765dd18a89c2dbbb8d548dfb6387001eb362d25c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2c6ef1a925c7598bffeb4bc7f891c429b8f2997e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f97b0a4dd963032640922f15b61170774d50f8af",
+      "width" : 64
+    } ],
+    "name" : "xx",
+    "type" : "album",
+    "uri" : "spotify:album:2rmMeEq5D1Bg7YFRwtHBDr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+    "id" : "3iOvXCl6edW5Um0fXEBRXy",
+    "name" : "The xx",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 177093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0900197"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4vU90MimdQpV2e1wPi1ljJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4vU90MimdQpV2e1wPi1ljJ",
+  "id" : "4vU90MimdQpV2e1wPi1ljJ",
+  "name" : "VCR",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5ca434a4e0b66ccc0a939fb95df853188e9af7b6?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4vU90MimdQpV2e1wPi1ljJ"
+}

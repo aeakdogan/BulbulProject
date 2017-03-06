@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+      "id" : "776Uo845nYHJpNaStv1Ds4",
+      "name" : "Jimi Hendrix",
+      "type" : "artist",
+      "uri" : "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6kvCH4eS92QkpBNdTmjLEz",
+    "id" : "6kvCH4eS92QkpBNdTmjLEz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fb323e7633579fc817e20401ad9e8b1ec5736a4e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/20667ee73bdd238de8930019d920f8d25840042a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1b15b68668824179c380f25f92cde728d99e4097",
+      "width" : 64
+    } ],
+    "name" : "Blues",
+    "type" : "album",
+    "uri" : "spotify:album:6kvCH4eS92QkpBNdTmjLEz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+    "id" : "776Uo845nYHJpNaStv1Ds4",
+    "name" : "Jimi Hendrix",
+    "type" : "artist",
+    "uri" : "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 457600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USQX90900879"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1HbOlAS9kF9d5j7WNQbin9",
+  "id" : "1HbOlAS9kF9d5j7WNQbin9",
+  "name" : "Born Under a Bad Sign",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/589b7cff3779a8fa98e14b7b19a13c514002f471?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1HbOlAS9kF9d5j7WNQbin9"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tOVIRjlWWfR1RrAxyRqTE",
+      "id" : "4tOVIRjlWWfR1RrAxyRqTE",
+      "name" : "Chromatics",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tOVIRjlWWfR1RrAxyRqTE"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1n2sQiZEoloTUrmyxaoUvu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1n2sQiZEoloTUrmyxaoUvu",
+    "id" : "1n2sQiZEoloTUrmyxaoUvu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/32abff1e4381bee088e354166c7dfe291094ac21",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c3ce45dfdffa4aed0adc94a819aefad55a08a1b9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d4d7cb1d6124cf7786fdc1a273b8c73de9c15ee9",
+      "width" : 64
+    } ],
+    "name" : "Night Drive",
+    "type" : "album",
+    "uri" : "spotify:album:1n2sQiZEoloTUrmyxaoUvu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4tOVIRjlWWfR1RrAxyRqTE",
+    "id" : "4tOVIRjlWWfR1RrAxyRqTE",
+    "name" : "Chromatics",
+    "type" : "artist",
+    "uri" : "spotify:artist:4tOVIRjlWWfR1RrAxyRqTE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 223533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USL841010034"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7c3CgGwCKpcgONIQ5xYdo5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7c3CgGwCKpcgONIQ5xYdo5",
+  "id" : "7c3CgGwCKpcgONIQ5xYdo5",
+  "name" : "Night Drive",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/73b8e40db7ba07df1425383702ffbb526ab8f999?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7c3CgGwCKpcgONIQ5xYdo5"
+}

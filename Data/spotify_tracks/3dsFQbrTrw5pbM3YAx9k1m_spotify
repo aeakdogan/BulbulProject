@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5x3mrCTZmkoTXURN7pWdGN",
+      "id" : "5x3mrCTZmkoTXURN7pWdGN",
+      "name" : "Los Amigos Invisibles",
+      "type" : "artist",
+      "uri" : "spotify:artist:5x3mrCTZmkoTXURN7pWdGN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3zogQdhho3DhQzsV5sNFir"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3zogQdhho3DhQzsV5sNFir",
+    "id" : "3zogQdhho3DhQzsV5sNFir",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c4e2e89e2a1cd91d277b434bc6134db9363e8e03",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/576c937cdf644660c1bc75da7b09b3f590f20c3a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/de808b5b90781ff43b08cec17b61a20b569a2437",
+      "width" : 64
+    } ],
+    "name" : "Not So Commercial",
+    "type" : "album",
+    "uri" : "spotify:album:3zogQdhho3DhQzsV5sNFir"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5x3mrCTZmkoTXURN7pWdGN",
+    "id" : "5x3mrCTZmkoTXURN7pWdGN",
+    "name" : "Los Amigos Invisibles",
+    "type" : "artist",
+    "uri" : "spotify:artist:5x3mrCTZmkoTXURN7pWdGN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 292917,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCAAU1163286"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3dsFQbrTrw5pbM3YAx9k1m"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3dsFQbrTrw5pbM3YAx9k1m",
+  "id" : "3dsFQbrTrw5pbM3YAx9k1m",
+  "name" : "Criticar",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/be776b515a46b658657e79e00eb3a9554fe0906d?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:3dsFQbrTrw5pbM3YAx9k1m"
+}

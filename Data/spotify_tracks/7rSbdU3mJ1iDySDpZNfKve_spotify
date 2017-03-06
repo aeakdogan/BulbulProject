@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Nhyo9KNcy4JI38iOWIWk3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Nhyo9KNcy4JI38iOWIWk3",
+      "id" : "3Nhyo9KNcy4JI38iOWIWk3",
+      "name" : "Tom McRae",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Nhyo9KNcy4JI38iOWIWk3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0URBHJ9taYfA9CCyhpZbZ6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0URBHJ9taYfA9CCyhpZbZ6",
+    "id" : "0URBHJ9taYfA9CCyhpZbZ6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6263fcaf5e5751d825370e4c76c8b018f2f22d19",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/27c4ae593e6deba7161a301bba45e744111f18bd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1a4188e3fa544c91211b520e5b615eb5d0d292d5",
+      "width" : 64
+    } ],
+    "name" : "Tom McRae",
+    "type" : "album",
+    "uri" : "spotify:album:0URBHJ9taYfA9CCyhpZbZ6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Nhyo9KNcy4JI38iOWIWk3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Nhyo9KNcy4JI38iOWIWk3",
+    "id" : "3Nhyo9KNcy4JI38iOWIWk3",
+    "name" : "Tom McRae",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Nhyo9KNcy4JI38iOWIWk3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 166066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDJT1400001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7rSbdU3mJ1iDySDpZNfKve"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7rSbdU3mJ1iDySDpZNfKve",
+  "id" : "7rSbdU3mJ1iDySDpZNfKve",
+  "name" : "You Cut Her Hair",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5d773770a3bf7ddbbfafc160d3b854d4f9006c5d?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7rSbdU3mJ1iDySDpZNfKve"
+}

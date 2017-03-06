@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1uquUYtkdKei0zuhBY9P0t",
+      "id" : "1uquUYtkdKei0zuhBY9P0t",
+      "name" : "Justin Nozuka",
+      "type" : "artist",
+      "uri" : "spotify:artist:1uquUYtkdKei0zuhBY9P0t"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2zMKFlZxAKmwoxhj3wCDZU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2zMKFlZxAKmwoxhj3wCDZU",
+    "id" : "2zMKFlZxAKmwoxhj3wCDZU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ecda531dfe1f32c6402530ed0b30d497f228f6d0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/740db81b6d50a2ba7f42977d71bedb4d9c6cf8f6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9cd74af88a11f22519a6aab3d04e19703462f1ca",
+      "width" : 64
+    } ],
+    "name" : "Holly",
+    "type" : "album",
+    "uri" : "spotify:album:2zMKFlZxAKmwoxhj3wCDZU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1uquUYtkdKei0zuhBY9P0t",
+    "id" : "1uquUYtkdKei0zuhBY9P0t",
+    "name" : "Justin Nozuka",
+    "type" : "artist",
+    "uri" : "spotify:artist:1uquUYtkdKei0zuhBY9P0t"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 255400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USYAH0700037"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1amvEHuQdfB5IM6XEqqbo6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1amvEHuQdfB5IM6XEqqbo6",
+  "id" : "1amvEHuQdfB5IM6XEqqbo6",
+  "name" : "Be Back Soon",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d3588695ae75f002c0c944d68cb691372882ae2e?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1amvEHuQdfB5IM6XEqqbo6"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2rcnAZ6DvORQ365X3zVYpr",
+      "id" : "2rcnAZ6DvORQ365X3zVYpr",
+      "name" : "Biosphere",
+      "type" : "artist",
+      "uri" : "spotify:artist:2rcnAZ6DvORQ365X3zVYpr"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6jeIzUv8Bff4fFElZwwA4B"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6jeIzUv8Bff4fFElZwwA4B",
+    "id" : "6jeIzUv8Bff4fFElZwwA4B",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3b9e41b73e3e39a7ea78b25adac2b24fcc0d0c22",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5708024ad441a10401aed3746f867fba4feb1147",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2958e1cb22b59d2e4db92d54991b2203b8900fdb",
+      "width" : 64
+    } ],
+    "name" : "Substrata",
+    "type" : "album",
+    "uri" : "spotify:album:6jeIzUv8Bff4fFElZwwA4B"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2rcnAZ6DvORQ365X3zVYpr",
+    "id" : "2rcnAZ6DvORQ365X3zVYpr",
+    "name" : "Biosphere",
+    "type" : "artist",
+    "uri" : "spotify:artist:2rcnAZ6DvORQ365X3zVYpr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 250961,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBJYX0505039"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1TCkrnjuurf0DNLLoJxVyd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1TCkrnjuurf0DNLLoJxVyd",
+  "id" : "1TCkrnjuurf0DNLLoJxVyd",
+  "name" : "Poa Alpina",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7272512b883104b54086ab1aeafe950132cb2c5c?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1TCkrnjuurf0DNLLoJxVyd"
+}

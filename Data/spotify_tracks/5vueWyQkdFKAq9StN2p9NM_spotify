@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76bzKuKkK7RJkocdD6i4Cx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76bzKuKkK7RJkocdD6i4Cx",
+      "id" : "76bzKuKkK7RJkocdD6i4Cx",
+      "name" : "Don Cavalli",
+      "type" : "artist",
+      "uri" : "spotify:artist:76bzKuKkK7RJkocdD6i4Cx"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4F7n5hdHlMbAfnWwFWFG7P"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4F7n5hdHlMbAfnWwFWFG7P",
+    "id" : "4F7n5hdHlMbAfnWwFWFG7P",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/53725fffbdae04765d688485f5bee34fdacddb1d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/89d9981618b40680fe161e6ad2d1abb918c14b0f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/45883c3b7dbc6e21e7c7eb9897ec20c139ecdbf6",
+      "width" : 64
+    } ],
+    "name" : "Temperamental",
+    "type" : "album",
+    "uri" : "spotify:album:4F7n5hdHlMbAfnWwFWFG7P"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/76bzKuKkK7RJkocdD6i4Cx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/76bzKuKkK7RJkocdD6i4Cx",
+    "id" : "76bzKuKkK7RJkocdD6i4Cx",
+    "name" : "Don Cavalli",
+    "type" : "artist",
+    "uri" : "spotify:artist:76bzKuKkK7RJkocdD6i4Cx"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 158386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR1DP1200750"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5vueWyQkdFKAq9StN2p9NM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5vueWyQkdFKAq9StN2p9NM",
+  "id" : "5vueWyQkdFKAq9StN2p9NM",
+  "name" : "Me and My Baby",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1768317b2dd2ab1026c0911d4acc47714e8280c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5vueWyQkdFKAq9StN2p9NM"
+}

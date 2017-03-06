@@ -1,0 +1,101 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+      "id" : "5aIqB5nVVvmFsvSdExz408",
+      "name" : "Johann Sebastian Bach",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6JqySKJaBT1YsTD5EQKshK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6JqySKJaBT1YsTD5EQKshK",
+      "id" : "6JqySKJaBT1YsTD5EQKshK",
+      "name" : "Francesca Pagnini",
+      "type" : "artist",
+      "uri" : "spotify:artist:6JqySKJaBT1YsTD5EQKshK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4qY9ZCz1OI69fRRy2Rihwv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4qY9ZCz1OI69fRRy2Rihwv",
+      "id" : "4qY9ZCz1OI69fRRy2Rihwv",
+      "name" : "Annibale Rebaudengo",
+      "type" : "artist",
+      "uri" : "spotify:artist:4qY9ZCz1OI69fRRy2Rihwv"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/742IlgosSh6QpfE0Bfs5B7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/742IlgosSh6QpfE0Bfs5B7",
+    "id" : "742IlgosSh6QpfE0Bfs5B7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/463d9c5bb2c947f0f666e78b75f74d04b18d3b6b",
+      "width" : 632
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0e58ec2831ca6fb6a59002b5c784ba6caa5bd7b4",
+      "width" : 296
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f86771200ada7dab2c3e9fec7064d0115ccf90d3",
+      "width" : 63
+    } ],
+    "name" : "J.S. Bach: Complete Works for Flute",
+    "type" : "album",
+    "uri" : "spotify:album:742IlgosSh6QpfE0Bfs5B7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+    "id" : "5aIqB5nVVvmFsvSdExz408",
+    "name" : "Johann Sebastian Bach",
+    "type" : "artist",
+    "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6JqySKJaBT1YsTD5EQKshK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6JqySKJaBT1YsTD5EQKshK",
+    "id" : "6JqySKJaBT1YsTD5EQKshK",
+    "name" : "Francesca Pagnini",
+    "type" : "artist",
+    "uri" : "spotify:artist:6JqySKJaBT1YsTD5EQKshK"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4qY9ZCz1OI69fRRy2Rihwv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4qY9ZCz1OI69fRRy2Rihwv",
+    "id" : "4qY9ZCz1OI69fRRy2Rihwv",
+    "name" : "Annibale Rebaudengo",
+    "type" : "artist",
+    "uri" : "spotify:artist:4qY9ZCz1OI69fRRy2Rihwv"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 273933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITX921001883"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1CgOwxZMjkbe8DCor3tnqv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1CgOwxZMjkbe8DCor3tnqv",
+  "id" : "1CgOwxZMjkbe8DCor3tnqv",
+  "name" : "Flute Sonata in A Major, BWV 1032: III. Allegro",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/488256b61d4174aca92fe61572243552e3444c7a?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1CgOwxZMjkbe8DCor3tnqv"
+}

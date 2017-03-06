@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY",
+      "id" : "2SHhfs4BiDxGQ3oxqf0UHY",
+      "name" : "Roxette",
+      "type" : "artist",
+      "uri" : "spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7pzDigL5fGL881Dk2Y1tRy",
+    "id" : "7pzDigL5fGL881Dk2Y1tRy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/162b3826be01886339dff9fa5b44a42b8d82f65b",
+      "width" : 630
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/401a59125a3972766dc01ecb165a6d5c22c1bba6",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eaf641e36a854df481705a70a213629e49036d10",
+      "width" : 63
+    } ],
+    "name" : "Tourism",
+    "type" : "album",
+    "uri" : "spotify:album:7pzDigL5fGL881Dk2Y1tRy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY",
+    "id" : "2SHhfs4BiDxGQ3oxqf0UHY",
+    "name" : "Roxette",
+    "type" : "artist",
+    "uri" : "spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 280506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEAMA9053130"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3ODXPWFyYDRj3WCT6vvHfe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3ODXPWFyYDRj3WCT6vvHfe",
+  "id" : "3ODXPWFyYDRj3WCT6vvHfe",
+  "name" : "Come Back (Before You Leave)",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8c0c5a1eeb2c4c93d9919471f6ed487196cf9027?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:3ODXPWFyYDRj3WCT6vvHfe"
+}

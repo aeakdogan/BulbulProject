@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37uLId6Z5ZXCx19vuruvv5",
+      "id" : "37uLId6Z5ZXCx19vuruvv5",
+      "name" : "Hot Chip",
+      "type" : "artist",
+      "uri" : "spotify:artist:37uLId6Z5ZXCx19vuruvv5"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/28L4sa3ygZWpZv2LhGPXI1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/28L4sa3ygZWpZv2LhGPXI1",
+    "id" : "28L4sa3ygZWpZv2LhGPXI1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/045e5ff1f6eef4c9ca9ba329ac4977b82cf1af25",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f66112125f6e8d1af5a13e7b7151eabcfb09ea00",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2317f9df229a0ba5ebaa890b85f03d79f2f00981",
+      "width" : 64
+    } ],
+    "name" : "Coming On Strong",
+    "type" : "album",
+    "uri" : "spotify:album:28L4sa3ygZWpZv2LhGPXI1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/37uLId6Z5ZXCx19vuruvv5",
+    "id" : "37uLId6Z5ZXCx19vuruvv5",
+    "name" : "Hot Chip",
+    "type" : "artist",
+    "uri" : "spotify:artist:37uLId6Z5ZXCx19vuruvv5"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 394160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBGEY0400007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1AWeSJ4XFoTh73zRJWhJpU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1AWeSJ4XFoTh73zRJWhJpU",
+  "id" : "1AWeSJ4XFoTh73zRJWhJpU",
+  "name" : "Crap Kraft Dinner",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e9a31aff82776cbb397ba8afcab7412423c969db?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1AWeSJ4XFoTh73zRJWhJpU"
+}

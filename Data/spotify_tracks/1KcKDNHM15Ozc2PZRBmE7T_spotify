@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5o8Wylae9k23IEJMIiwd8s",
+      "id" : "5o8Wylae9k23IEJMIiwd8s",
+      "name" : "The Antlers",
+      "type" : "artist",
+      "uri" : "spotify:artist:5o8Wylae9k23IEJMIiwd8s"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5vsoo3OTuDAJkeOMsUpYMK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5vsoo3OTuDAJkeOMsUpYMK",
+    "id" : "5vsoo3OTuDAJkeOMsUpYMK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9fe95fd6716ff301ff84e9ccb579bf5bb1e51927",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e73812d2bc2b83a16514ebf04b4ee38f3d2690b4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e5f1076aa7e3d91d04bf629fd298a34452ca3de8",
+      "width" : 64
+    } ],
+    "name" : "Familiars",
+    "type" : "album",
+    "uri" : "spotify:album:5vsoo3OTuDAJkeOMsUpYMK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5o8Wylae9k23IEJMIiwd8s",
+    "id" : "5o8Wylae9k23IEJMIiwd8s",
+    "name" : "The Antlers",
+    "type" : "artist",
+    "uri" : "spotify:artist:5o8Wylae9k23IEJMIiwd8s"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 461013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP41401006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1KcKDNHM15Ozc2PZRBmE7T"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1KcKDNHM15Ozc2PZRBmE7T",
+  "id" : "1KcKDNHM15Ozc2PZRBmE7T",
+  "name" : "Revisited",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f6fb1a32223db7664cbe2026c34ae6693d7b76f3?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1KcKDNHM15Ozc2PZRBmE7T"
+}

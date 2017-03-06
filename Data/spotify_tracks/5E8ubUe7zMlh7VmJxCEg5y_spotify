@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh",
+      "id" : "3bUwxJgNakzYKkqAVgZLlh",
+      "name" : "Travis",
+      "type" : "artist",
+      "uri" : "spotify:artist:3bUwxJgNakzYKkqAVgZLlh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1rP5ntAVL1Zp504KrsSLkD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1rP5ntAVL1Zp504KrsSLkD",
+    "id" : "1rP5ntAVL1Zp504KrsSLkD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c755c3ec7379ac8e1104d996b9dc6fbd88cee22e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2e80cb96ba9b5fc876e0acaf32fa95bb97673158",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/551180e522126396930e271872a19ca74434cbb4",
+      "width" : 64
+    } ],
+    "name" : "12 Memories",
+    "type" : "album",
+    "uri" : "spotify:album:1rP5ntAVL1Zp504KrsSLkD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh",
+    "id" : "3bUwxJgNakzYKkqAVgZLlh",
+    "name" : "Travis",
+    "type" : "artist",
+    "uri" : "spotify:artist:3bUwxJgNakzYKkqAVgZLlh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 193360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPF0301088"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5E8ubUe7zMlh7VmJxCEg5y"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5E8ubUe7zMlh7VmJxCEg5y",
+  "id" : "5E8ubUe7zMlh7VmJxCEg5y",
+  "name" : "Somewhere Else",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/355f0f1f31edec4cbd8ec05c8ecff225fc2762e3?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5E8ubUe7zMlh7VmJxCEg5y"
+}

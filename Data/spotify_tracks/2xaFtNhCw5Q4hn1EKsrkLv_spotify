@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6uEj5L8M2kF3TrxjcnH5q0",
+    "id" : "6uEj5L8M2kF3TrxjcnH5q0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/98b7f7d3788234072ca4d6946875faabe30ce5c4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ec042138788027786bf5cfe535baf14aea42fff1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4a4f7cbe50e142f5bb2132cf8131b6d5744749df",
+      "width" : 64
+    } ],
+    "name" : "00s Party Mixtape",
+    "type" : "album",
+    "uri" : "spotify:album:6uEj5L8M2kF3TrxjcnH5q0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0NeC6ploeJUq8oDwYQjNPS",
+    "id" : "0NeC6ploeJUq8oDwYQjNPS",
+    "name" : "Bomfunk MC's",
+    "type" : "artist",
+    "uri" : "spotify:artist:0NeC6ploeJUq8oDwYQjNPS"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 172733,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "FISME9900064"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2xaFtNhCw5Q4hn1EKsrkLv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2xaFtNhCw5Q4hn1EKsrkLv",
+  "id" : "2xaFtNhCw5Q4hn1EKsrkLv",
+  "name" : "Freestyler - Radio Edit",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2c9005483c14377b89665dcc4eff548ab662221f?cid=null",
+  "track_number" : 19,
+  "type" : "track",
+  "uri" : "spotify:track:2xaFtNhCw5Q4hn1EKsrkLv"
+}

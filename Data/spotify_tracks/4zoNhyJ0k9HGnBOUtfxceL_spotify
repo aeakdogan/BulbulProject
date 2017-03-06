@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2oM3uSlkqojknWm0nwKwmo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2oM3uSlkqojknWm0nwKwmo",
+    "id" : "2oM3uSlkqojknWm0nwKwmo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/52a6ef440b558d1a9a9966be7a4026fb3ad49486",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/24edef7bf3ff57c1ae44c1790184840914c71221",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1a6acc1f3758e4d2143890006742d13958b7963c",
+      "width" : 64
+    } ],
+    "name" : "Elysian Vibes 4",
+    "type" : "album",
+    "uri" : "spotify:album:2oM3uSlkqojknWm0nwKwmo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4EuW5xabgZbQPLvJI9ksgZ",
+    "id" : "4EuW5xabgZbQPLvJI9ksgZ",
+    "name" : "Isabelle Antena",
+    "type" : "artist",
+    "uri" : "spotify:artist:4EuW5xabgZbQPLvJI9ksgZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 175040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUNW00700325"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4zoNhyJ0k9HGnBOUtfxceL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4zoNhyJ0k9HGnBOUtfxceL",
+  "id" : "4zoNhyJ0k9HGnBOUtfxceL",
+  "name" : "Nothing to Lose (Thievery Corporation Remix)",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f28c07d55a4c7fc2fb1e29f15fe0755f4c26ab89?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4zoNhyJ0k9HGnBOUtfxceL"
+}

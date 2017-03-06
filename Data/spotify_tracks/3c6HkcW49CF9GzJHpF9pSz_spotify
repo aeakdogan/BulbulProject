@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4WeRix3pCmdwef6aBAIbYf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4WeRix3pCmdwef6aBAIbYf",
+      "id" : "4WeRix3pCmdwef6aBAIbYf",
+      "name" : "Wax Poetic",
+      "type" : "artist",
+      "uri" : "spotify:artist:4WeRix3pCmdwef6aBAIbYf"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "EC", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2wb7ViVQ1XLUhK837B2aTL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2wb7ViVQ1XLUhK837B2aTL",
+    "id" : "2wb7ViVQ1XLUhK837B2aTL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5fe3f28856d50ea5844936734572bd4d18f353c9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2927290149174cc18f1cf95c5e77bbb466c63f0e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b45d4de6074210782c41e6ce91fddb041de8ded8",
+      "width" : 64
+    } ],
+    "name" : "Istanbul",
+    "type" : "album",
+    "uri" : "spotify:album:2wb7ViVQ1XLUhK837B2aTL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4WeRix3pCmdwef6aBAIbYf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4WeRix3pCmdwef6aBAIbYf",
+    "id" : "4WeRix3pCmdwef6aBAIbYf",
+    "name" : "Wax Poetic",
+    "type" : "artist",
+    "uri" : "spotify:artist:4WeRix3pCmdwef6aBAIbYf"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "EC", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 286333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "VEA2B0850705"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3c6HkcW49CF9GzJHpF9pSz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3c6HkcW49CF9GzJHpF9pSz",
+  "id" : "3c6HkcW49CF9GzJHpF9pSz",
+  "name" : "Hoppala",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b5c39d0a6168f470ccb08d7b5aec56c234ca07ee?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3c6HkcW49CF9GzJHpF9pSz"
+}

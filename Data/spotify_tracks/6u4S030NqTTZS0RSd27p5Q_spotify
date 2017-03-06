@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aolDYgNWRTDQWUZ8C7jZu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1aolDYgNWRTDQWUZ8C7jZu",
+      "id" : "1aolDYgNWRTDQWUZ8C7jZu",
+      "name" : "Zammuto",
+      "type" : "artist",
+      "uri" : "spotify:artist:1aolDYgNWRTDQWUZ8C7jZu"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1NfudoraxXHeSLhNjMRotF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1NfudoraxXHeSLhNjMRotF",
+    "id" : "1NfudoraxXHeSLhNjMRotF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/69d8aa8419e3a255435a83de13895c8c13ada42b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/329fbbe4738ec007bda405c01f62d25a1e8b294d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5b02acadb28def196df8e57afc75a782dab6797c",
+      "width" : 64
+    } ],
+    "name" : "Zammuto",
+    "type" : "album",
+    "uri" : "spotify:album:1NfudoraxXHeSLhNjMRotF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1aolDYgNWRTDQWUZ8C7jZu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1aolDYgNWRTDQWUZ8C7jZu",
+    "id" : "1aolDYgNWRTDQWUZ8C7jZu",
+    "name" : "Zammuto",
+    "type" : "artist",
+    "uri" : "spotify:artist:1aolDYgNWRTDQWUZ8C7jZu"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 219253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USY6C1220901"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6u4S030NqTTZS0RSd27p5Q"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6u4S030NqTTZS0RSd27p5Q",
+  "id" : "6u4S030NqTTZS0RSd27p5Q",
+  "name" : "Yay",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e2b06bdcd3e2eb69cc3221b48fc938d26f0afca9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6u4S030NqTTZS0RSd27p5Q"
+}

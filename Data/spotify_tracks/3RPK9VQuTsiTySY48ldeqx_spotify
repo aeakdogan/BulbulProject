@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id" : "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name" : "Kendrick Lamar",
+      "type" : "artist",
+      "uri" : "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/13WjgUEEAQp0d9JqojlWp1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/13WjgUEEAQp0d9JqojlWp1",
+    "id" : "13WjgUEEAQp0d9JqojlWp1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dc9bc3b0491e9cd118240529c3822839fdb2e934",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6244bd4d5fa0f3081fe4f39319ebca4d2abac78c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/807bb63f563ba14d406c62aff341e5801655329d",
+      "width" : 64
+    } ],
+    "name" : "Section.80",
+    "type" : "album",
+    "uri" : "spotify:album:13WjgUEEAQp0d9JqojlWp1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+    "id" : "2YZyLoL8N0Wb9xBt1NhZWg",
+    "name" : "Kendrick Lamar",
+    "type" : "artist",
+    "uri" : "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 161670,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUYG1008104"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3RPK9VQuTsiTySY48ldeqx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3RPK9VQuTsiTySY48ldeqx",
+  "id" : "3RPK9VQuTsiTySY48ldeqx",
+  "name" : "Tammy's Song (Her Evils)",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c3976ac2886558f7ccc1fd4cb057bf5395e8e1fd?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3RPK9VQuTsiTySY48ldeqx"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3rxIQc9kWT6Ueg4BhnOwRK",
+      "id" : "3rxIQc9kWT6Ueg4BhnOwRK",
+      "name" : "Quincy Jones",
+      "type" : "artist",
+      "uri" : "spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7wzqMLL9bo3nj33n99et1M"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7wzqMLL9bo3nj33n99et1M",
+    "id" : "7wzqMLL9bo3nj33n99et1M",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/d0e97e4207da5b6656e280858a24da0245be97be",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/dc6544b02613d2bbc2dd11769f3708974bb5fb92",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/d8be924fe5b8cce6b214d4ecb0797400b5dcc093",
+      "width" : 64
+    } ],
+    "name" : "Quincy Jones's Finest Hour",
+    "type" : "album",
+    "uri" : "spotify:album:7wzqMLL9bo3nj33n99et1M"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3rxIQc9kWT6Ueg4BhnOwRK",
+    "id" : "3rxIQc9kWT6Ueg4BhnOwRK",
+    "name" : "Quincy Jones",
+    "type" : "artist",
+    "uri" : "spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 167106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR36270200"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5nCKqaa9mJ0sMrnOguNgoa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5nCKqaa9mJ0sMrnOguNgoa",
+  "id" : "5nCKqaa9mJ0sMrnOguNgoa",
+  "name" : "Soul Bossa Nova",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7b2826986ee81af0a1e690287708086fb85c2ce9?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:5nCKqaa9mJ0sMrnOguNgoa"
+}

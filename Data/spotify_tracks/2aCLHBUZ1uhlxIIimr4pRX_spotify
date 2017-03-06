@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/24WRvSDW3TaWsPvJ9JwDTx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/24WRvSDW3TaWsPvJ9JwDTx",
+      "id" : "24WRvSDW3TaWsPvJ9JwDTx",
+      "name" : "Love Like Blood",
+      "type" : "artist",
+      "uri" : "spotify:artist:24WRvSDW3TaWsPvJ9JwDTx"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "ID", "JP", "MT", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1CFmujhFJIN96w2LtdxV3j"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1CFmujhFJIN96w2LtdxV3j",
+    "id" : "1CFmujhFJIN96w2LtdxV3j",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c2f183b30d438d849a287154763db31cd9e22749",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/72df71e45ba53ee7f43520ffc602c75f3ffa671d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/45f512d309f04c9dd83de30fe33a2f244003e92d",
+      "width" : 64
+    } ],
+    "name" : "Exposure",
+    "type" : "album",
+    "uri" : "spotify:album:1CFmujhFJIN96w2LtdxV3j"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/24WRvSDW3TaWsPvJ9JwDTx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/24WRvSDW3TaWsPvJ9JwDTx",
+    "id" : "24WRvSDW3TaWsPvJ9JwDTx",
+    "name" : "Love Like Blood",
+    "type" : "artist",
+    "uri" : "spotify:artist:24WRvSDW3TaWsPvJ9JwDTx"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "ID", "JP", "MT", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 261533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DED830900727"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2aCLHBUZ1uhlxIIimr4pRX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2aCLHBUZ1uhlxIIimr4pRX",
+  "id" : "2aCLHBUZ1uhlxIIimr4pRX",
+  "name" : "Shed Your Skin",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d8b4f0661d022aff051bb5cb3097274d7bb08172?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2aCLHBUZ1uhlxIIimr4pRX"
+}

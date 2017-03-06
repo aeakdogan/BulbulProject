@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/23ymPLjbtAMzTJS2qRtQ8Z",
+      "id" : "23ymPLjbtAMzTJS2qRtQ8Z",
+      "name" : "Sébastien Tellier",
+      "type" : "artist",
+      "uri" : "spotify:artist:23ymPLjbtAMzTJS2qRtQ8Z"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5t9xe6OuWmK0SWal6stKdE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5t9xe6OuWmK0SWal6stKdE",
+    "id" : "5t9xe6OuWmK0SWal6stKdE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fd0a78dd8c86bf0ed889c9aca10fcf08013d00b8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6fd817aba71da713552b2f7c0106c4892fd3512e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3fcc001afc6b3e0f834a39d8f9f3dcc7acc564d3",
+      "width" : 64
+    } ],
+    "name" : "L'incroyable vérité",
+    "type" : "album",
+    "uri" : "spotify:album:5t9xe6OuWmK0SWal6stKdE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/23ymPLjbtAMzTJS2qRtQ8Z",
+    "id" : "23ymPLjbtAMzTJS2qRtQ8Z",
+    "name" : "Sébastien Tellier",
+    "type" : "artist",
+    "uri" : "spotify:artist:23ymPLjbtAMzTJS2qRtQ8Z"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 282733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRS710000001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3S926XwN6ud8crHBiUkZWI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3S926XwN6ud8crHBiUkZWI",
+  "id" : "3S926XwN6ud8crHBiUkZWI",
+  "name" : "Oh malheur chez O'Malley",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1051a058e3159d8fd409cfc7bd98f64db54fa6d1?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3S926XwN6ud8crHBiUkZWI"
+}

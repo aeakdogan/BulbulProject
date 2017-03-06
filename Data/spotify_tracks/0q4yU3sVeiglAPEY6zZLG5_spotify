@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3bw0A7x5AgdJsK20ai5iS6",
+      "id" : "3bw0A7x5AgdJsK20ai5iS6",
+      "name" : "Other Lives",
+      "type" : "artist",
+      "uri" : "spotify:artist:3bw0A7x5AgdJsK20ai5iS6"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7JYPHNpefA6mNOiGK360Mf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7JYPHNpefA6mNOiGK360Mf",
+    "id" : "7JYPHNpefA6mNOiGK360Mf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5a46b2251449d5559b51aa443d860cfb19661138",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/28ebac682383ae8ccba6e0d786400c7c171d04c4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/40b2dac7bdc33e5d51612e517585bcb76dff739b",
+      "width" : 64
+    } ],
+    "name" : "Tamer Animals",
+    "type" : "album",
+    "uri" : "spotify:album:7JYPHNpefA6mNOiGK360Mf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3bw0A7x5AgdJsK20ai5iS6",
+    "id" : "3bw0A7x5AgdJsK20ai5iS6",
+    "name" : "Other Lives",
+    "type" : "artist",
+    "uri" : "spotify:artist:3bw0A7x5AgdJsK20ai5iS6"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 251173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTBD1100011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0q4yU3sVeiglAPEY6zZLG5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0q4yU3sVeiglAPEY6zZLG5",
+  "id" : "0q4yU3sVeiglAPEY6zZLG5",
+  "name" : "For 12",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/28b8c8c2a15c32186a28df9b3880fd0b3ea4e86a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0q4yU3sVeiglAPEY6zZLG5"
+}

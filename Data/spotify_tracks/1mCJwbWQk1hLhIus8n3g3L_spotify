@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2nszamLjZFgu3Yx77mKxuC",
+      "id" : "2nszamLjZFgu3Yx77mKxuC",
+      "name" : "UNKLE",
+      "type" : "artist",
+      "uri" : "spotify:artist:2nszamLjZFgu3Yx77mKxuC"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/24NNDsJwDmtjdXAIp5hQWX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/24NNDsJwDmtjdXAIp5hQWX",
+    "id" : "24NNDsJwDmtjdXAIp5hQWX",
+    "images" : [ {
+      "height" : 574,
+      "url" : "https://i.scdn.co/image/d432cd06e482f857a2b5581652598d6cedbb21ac",
+      "width" : 640
+    }, {
+      "height" : 269,
+      "url" : "https://i.scdn.co/image/a83c66b8d2fbcd605270f7ac267cfa81484f6fdc",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/d4905640eb8552e4ff46ef478687f33f19520c8b",
+      "width" : 64
+    } ],
+    "name" : "Psyence Fiction (Standard)",
+    "type" : "album",
+    "uri" : "spotify:album:24NNDsJwDmtjdXAIp5hQWX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2nszamLjZFgu3Yx77mKxuC",
+    "id" : "2nszamLjZFgu3Yx77mKxuC",
+    "name" : "UNKLE",
+    "type" : "artist",
+    "uri" : "spotify:artist:2nszamLjZFgu3Yx77mKxuC"
+  } ],
+  "available_markets" : [ ],
+  "disc_number" : 1,
+  "duration_ms" : 310266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAQH9800047"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1mCJwbWQk1hLhIus8n3g3L"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1mCJwbWQk1hLhIus8n3g3L",
+  "id" : "1mCJwbWQk1hLhIus8n3g3L",
+  "name" : "Unreal",
+  "popularity" : 0,
+  "preview_url" : null,
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1mCJwbWQk1hLhIus8n3g3L"
+}

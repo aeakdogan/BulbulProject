@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7686rZbqpWoWy8s41SuftJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7686rZbqpWoWy8s41SuftJ",
+    "id" : "7686rZbqpWoWy8s41SuftJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/569f50bb791fcb66e42f31c896636047fdd6c352",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/802a9213b4c754013d6c1bab334a0ccaf4ae4618",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c070f1af1cd0b36b4345e3d110caad5757cae17f",
+      "width" : 64
+    } ],
+    "name" : "SK200",
+    "type" : "album",
+    "uri" : "spotify:album:7686rZbqpWoWy8s41SuftJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/55MZ7jjahLFA6RmCafCJAv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/55MZ7jjahLFA6RmCafCJAv",
+    "id" : "55MZ7jjahLFA6RmCafCJAv",
+    "name" : "Soulphiction",
+    "type" : "artist",
+    "uri" : "spotify:artist:55MZ7jjahLFA6RmCafCJAv"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 337360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEP960800007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/62218e32K9Y5GWlx3X50jw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/62218e32K9Y5GWlx3X50jw",
+  "id" : "62218e32K9Y5GWlx3X50jw",
+  "name" : "Sun Children",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8ffb72bea6673c9b93477642e451fefc695dffd4?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:62218e32K9Y5GWlx3X50jw"
+}

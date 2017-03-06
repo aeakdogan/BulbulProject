@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+      "id" : "7MhMgCo0Bl0Kukl93PZbYS",
+      "name" : "Blur",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7HvIrSkKGJCzd8AKyjTJ6Q",
+    "id" : "7HvIrSkKGJCzd8AKyjTJ6Q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8598dd87ca83d963fb9c6295f42ebb883fbfd93f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ad88757ab4021ac6855bc3ef5befc45e98d539c7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/20b1573959e395187900f335abe02258d8a5bc36",
+      "width" : 64
+    } ],
+    "name" : "Blur [Special Edition]",
+    "type" : "album",
+    "uri" : "spotify:album:7HvIrSkKGJCzd8AKyjTJ6Q"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+    "id" : "7MhMgCo0Bl0Kukl93PZbYS",
+    "name" : "Blur",
+    "type" : "artist",
+    "uri" : "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 121160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE1200348"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1FTSo4v6BOZH9QxKc3MbVM",
+  "id" : "1FTSo4v6BOZH9QxKc3MbVM",
+  "name" : "Song 2 - 2012 Remastered Version",
+  "popularity" : 67,
+  "preview_url" : "https://p.scdn.co/mp3-preview/183c0855e94b58dcb267e2b0721d4a3c99260acf?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1FTSo4v6BOZH9QxKc3MbVM"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+      "id" : "0Ya43ZKWHTKkAbkoJJkwIB",
+      "name" : "The Wombats",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5v5rjsyNYYQMoGNwqxjjun"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5v5rjsyNYYQMoGNwqxjjun",
+    "id" : "5v5rjsyNYYQMoGNwqxjjun",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/34bd8c81e03716da4ef4842bbeeba5d025b7df44",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7bce40ddeb4f0fc00f2520a37efa236880b1b92f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e05d088e923ebb350b7cb96541cd37593ce5fc39",
+      "width" : 64
+    } ],
+    "name" : "The Wombats proudly present...This Modern Glitch",
+    "type" : "album",
+    "uri" : "spotify:album:5v5rjsyNYYQMoGNwqxjjun"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+    "id" : "0Ya43ZKWHTKkAbkoJJkwIB",
+    "name" : "The Wombats",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 225526,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBFTG1100007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/136iZLQdKtlyEFurf4UKf6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/136iZLQdKtlyEFurf4UKf6",
+  "id" : "136iZLQdKtlyEFurf4UKf6",
+  "name" : "Tokyo - Vampires & Wolves",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1c3c548967d96a37f95b55fa5e274398ef3f6a3c?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:136iZLQdKtlyEFurf4UKf6"
+}

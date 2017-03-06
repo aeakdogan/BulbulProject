@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3xgj17ZsWxxU86S4qlWvOi",
+      "id" : "3xgj17ZsWxxU86S4qlWvOi",
+      "name" : "Yello",
+      "type" : "artist",
+      "uri" : "spotify:artist:3xgj17ZsWxxU86S4qlWvOi"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1n4sqlNjt8mc0i4q7TQmDr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1n4sqlNjt8mc0i4q7TQmDr",
+    "id" : "1n4sqlNjt8mc0i4q7TQmDr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/15a806bb19cd05da19ecd1c6bab5508d1ccf1b97",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ed5fc69c65e111195cc1f5ea05da71e0345335de",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e2fe5408d52b39aafa410a7b1588983a2f58a7e7",
+      "width" : 64
+    } ],
+    "name" : "Baby",
+    "type" : "album",
+    "uri" : "spotify:album:1n4sqlNjt8mc0i4q7TQmDr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3xgj17ZsWxxU86S4qlWvOi",
+    "id" : "3xgj17ZsWxxU86S4qlWvOi",
+    "name" : "Yello",
+    "type" : "artist",
+    "uri" : "spotify:artist:3xgj17ZsWxxU86S4qlWvOi"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 277933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEF079102900"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1nbdLGAZhQH9GmZZuUEbjX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1nbdLGAZhQH9GmZZuUEbjX",
+  "id" : "1nbdLGAZhQH9GmZZuUEbjX",
+  "name" : "On The Run",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e2ea66b4066ab45a20555de9a6fcaef6dfc9e0fd?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1nbdLGAZhQH9GmZZuUEbjX"
+}

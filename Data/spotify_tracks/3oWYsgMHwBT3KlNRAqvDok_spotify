@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4NPxziJsCX4Gc4wo7D8JqQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4NPxziJsCX4Gc4wo7D8JqQ",
+      "id" : "4NPxziJsCX4Gc4wo7D8JqQ",
+      "name" : "The Go Find",
+      "type" : "artist",
+      "uri" : "spotify:artist:4NPxziJsCX4Gc4wo7D8JqQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/67uo0H6rWddfm8Fx0hsHn5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/67uo0H6rWddfm8Fx0hsHn5",
+    "id" : "67uo0H6rWddfm8Fx0hsHn5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d6f05e7aa7b5b846e5d858b474feede2321307eb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/891f9b6bc1b2d323b26d9665e3d76ba67ff860b4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b2cb8354c7ba7d1b23cc9d5b0f1949f379280663",
+      "width" : 64
+    } ],
+    "name" : "Stars On The Wall",
+    "type" : "album",
+    "uri" : "spotify:album:67uo0H6rWddfm8Fx0hsHn5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4NPxziJsCX4Gc4wo7D8JqQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4NPxziJsCX4Gc4wo7D8JqQ",
+    "id" : "4NPxziJsCX4Gc4wo7D8JqQ",
+    "name" : "The Go Find",
+    "type" : "artist",
+    "uri" : "spotify:artist:4NPxziJsCX4Gc4wo7D8JqQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 315826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX260707506"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3oWYsgMHwBT3KlNRAqvDok"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3oWYsgMHwBT3KlNRAqvDok",
+  "id" : "3oWYsgMHwBT3KlNRAqvDok",
+  "name" : "Ice Cold Ice",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3ab7df2206c777e410bedf4d7a4c89d09b914182?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3oWYsgMHwBT3KlNRAqvDok"
+}

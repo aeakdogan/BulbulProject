@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1zok0QXebHywV3KLl6DIFw",
+      "id" : "1zok0QXebHywV3KLl6DIFw",
+      "name" : "The Shivers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1zok0QXebHywV3KLl6DIFw"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4zqGE8nT6MGuKtvA3Y2GUL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4zqGE8nT6MGuKtvA3Y2GUL",
+    "id" : "4zqGE8nT6MGuKtvA3Y2GUL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e7edde3277f54e4b3d6133685e3e89c90f7fdd9b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/84cd9c2a75b0cdfae81c8154150abc171c991923",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/38aa34c59f4ea17c41f1d0db1aca4d345e68c562",
+      "width" : 64
+    } ],
+    "name" : "Charades",
+    "type" : "album",
+    "uri" : "spotify:album:4zqGE8nT6MGuKtvA3Y2GUL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1zok0QXebHywV3KLl6DIFw",
+    "id" : "1zok0QXebHywV3KLl6DIFw",
+    "name" : "The Shivers",
+    "type" : "artist",
+    "uri" : "spotify:artist:1zok0QXebHywV3KLl6DIFw"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 211413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm20500473"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5wC5aUCu9gp7kb23I8OECm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5wC5aUCu9gp7kb23I8OECm",
+  "id" : "5wC5aUCu9gp7kb23I8OECm",
+  "name" : "Beauty",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/80b9c3a1bdd36f96fabe2a42eb3626d351556ead?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:5wC5aUCu9gp7kb23I8OECm"
+}

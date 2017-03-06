@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/75kN1qUWvE10QcnpE6nEsM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/75kN1qUWvE10QcnpE6nEsM",
+    "id" : "75kN1qUWvE10QcnpE6nEsM",
+    "images" : [ {
+      "height" : 576,
+      "url" : "https://i.scdn.co/image/58d58cfb95cf86dc967b0001d2cc1784e6dbf0c6",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/850b4ebd3d8e7c0e575ce9f33a77042c46a2c493",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/7eca757d89922b15742c36bb652d458f2d453a82",
+      "width" : 64
+    } ],
+    "name" : "Wrecking Ball",
+    "type" : "album",
+    "uri" : "spotify:album:75kN1qUWvE10QcnpE6nEsM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+    "id" : "3eqjTLE0HfPfh78zjh6TqT",
+    "name" : "Bruce Springsteen",
+    "type" : "artist",
+    "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 233946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11107315"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4KGbQXQ8HKVypeKJslxQtH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4KGbQXQ8HKVypeKJslxQtH",
+  "id" : "4KGbQXQ8HKVypeKJslxQtH",
+  "name" : "We Take Care of Our Own",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/53f77f3ee6c2ec7cb0fe9b663f2926feea41dd52?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4KGbQXQ8HKVypeKJslxQtH"
+}

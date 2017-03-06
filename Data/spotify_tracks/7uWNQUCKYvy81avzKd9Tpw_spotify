@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rxxu32JCGDpKKMPHxnSJp",
+      "id" : "6rxxu32JCGDpKKMPHxnSJp",
+      "name" : "Eric Dolphy",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rxxu32JCGDpKKMPHxnSJp"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7L7zE192GY9uir7cG0IJh9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7L7zE192GY9uir7cG0IJh9",
+    "id" : "7L7zE192GY9uir7cG0IJh9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/833956001726a2fe79faec57a97d066593e7dec3",
+      "width" : 632
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9ecfc86e3e4fc1d585db4a8fd83779776a767870",
+      "width" : 296
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2c0a9c65aaf22b0a5ea545f4fb97b49c709a7b51",
+      "width" : 63
+    } ],
+    "name" : "Out There (Rudy Van Gelder Remaster)",
+    "type" : "album",
+    "uri" : "spotify:album:7L7zE192GY9uir7cG0IJh9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6rxxu32JCGDpKKMPHxnSJp",
+    "id" : "6rxxu32JCGDpKKMPHxnSJp",
+    "name" : "Eric Dolphy",
+    "type" : "artist",
+    "uri" : "spotify:artist:6rxxu32JCGDpKKMPHxnSJp"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 174586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI86100748"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7uWNQUCKYvy81avzKd9Tpw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7uWNQUCKYvy81avzKd9Tpw",
+  "id" : "7uWNQUCKYvy81avzKd9Tpw",
+  "name" : "The Baron",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ef209e0c3db057e9f68992cac96b9fd970e86424?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7uWNQUCKYvy81avzKd9Tpw"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ARH58Hit3yC6ziGdhma23",
+      "id" : "2ARH58Hit3yC6ziGdhma23",
+      "name" : "Elisa",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ARH58Hit3yC6ziGdhma23"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3I82UoWuTBu1fZUiEj4PQr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3I82UoWuTBu1fZUiEj4PQr",
+    "id" : "3I82UoWuTBu1fZUiEj4PQr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9cd5201dc122f6d8374738cd72ac1d4ce1b58e72",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9908605affbfc03bdb98588ae8f9e4cf2f5c88b4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e67182b9edaa5d845411882a2e135a917c06f007",
+      "width" : 64
+    } ],
+    "name" : "Pearl Days",
+    "type" : "album",
+    "uri" : "spotify:album:3I82UoWuTBu1fZUiEj4PQr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ARH58Hit3yC6ziGdhma23",
+    "id" : "2ARH58Hit3yC6ziGdhma23",
+    "name" : "Elisa",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ARH58Hit3yC6ziGdhma23"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 315826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITZ040500072"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/25MTSiBKzNEv6porIcfwfs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/25MTSiBKzNEv6porIcfwfs",
+  "id" : "25MTSiBKzNEv6porIcfwfs",
+  "name" : "Una Poesia Anche Per Te",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1c786e6506e50cad7f8328c26f743f95d390222e?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:25MTSiBKzNEv6porIcfwfs"
+}

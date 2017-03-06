@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4awnjjqiUnSBA4ucPVbF8R",
+      "id" : "4awnjjqiUnSBA4ucPVbF8R",
+      "name" : "TM Juke",
+      "type" : "artist",
+      "uri" : "spotify:artist:4awnjjqiUnSBA4ucPVbF8R"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5LbVLxwcVHEjh587vaTrih"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5LbVLxwcVHEjh587vaTrih",
+    "id" : "5LbVLxwcVHEjh587vaTrih",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c23aef161c19b208f48af3a30c7d062e107e33d3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9c66ed5f021f6d2ea14ce43cdddf52962033bbd4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f33b8c0554b5da464a3795c7aaf79eebb158081f",
+      "width" : 64
+    } ],
+    "name" : "Forward",
+    "type" : "album",
+    "uri" : "spotify:album:5LbVLxwcVHEjh587vaTrih"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4awnjjqiUnSBA4ucPVbF8R",
+    "id" : "4awnjjqiUnSBA4ucPVbF8R",
+    "name" : "TM Juke",
+    "type" : "artist",
+    "uri" : "spotify:artist:4awnjjqiUnSBA4ucPVbF8R"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 194973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEUE0600438"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Am2sFArn5hT17lbkQxQoC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Am2sFArn5hT17lbkQxQoC",
+  "id" : "5Am2sFArn5hT17lbkQxQoC",
+  "name" : "Bee's On Mars",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/197f28ba591ec928c369ac579f584aa369ba7271?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5Am2sFArn5hT17lbkQxQoC"
+}

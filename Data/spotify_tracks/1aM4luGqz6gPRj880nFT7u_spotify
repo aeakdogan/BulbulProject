@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Mww2P8ni50lmfOTsBmGHn",
+      "id" : "5Mww2P8ni50lmfOTsBmGHn",
+      "name" : "Danny De Munk",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Mww2P8ni50lmfOTsBmGHn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1ZsiKqXJH3U7qN6pX3nHme",
+    "id" : "1ZsiKqXJH3U7qN6pX3nHme",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/66b3652a1115a0c777af189a3d24dd71a3c1b9c8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/29f798d30fa048dde42da1de0bc8a5c3c4e4e5a3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e1204c4601c23218fcd4bd122175e26219b29843",
+      "width" : 64
+    } ],
+    "name" : "Mijn Levenslied",
+    "type" : "album",
+    "uri" : "spotify:album:1ZsiKqXJH3U7qN6pX3nHme"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Mww2P8ni50lmfOTsBmGHn",
+    "id" : "5Mww2P8ni50lmfOTsBmGHn",
+    "name" : "Danny De Munk",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Mww2P8ni50lmfOTsBmGHn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 192253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLK071300160"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1aM4luGqz6gPRj880nFT7u"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1aM4luGqz6gPRj880nFT7u",
+  "id" : "1aM4luGqz6gPRj880nFT7u",
+  "name" : "Mijn Meissie",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a81e25abdc6594c9382f9f6baa6e9a2af3d2a127?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1aM4luGqz6gPRj880nFT7u"
+}

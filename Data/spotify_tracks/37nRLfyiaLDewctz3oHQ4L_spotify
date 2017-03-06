@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3yEnArbNHyTCwMRvD9SBy4",
+      "id" : "3yEnArbNHyTCwMRvD9SBy4",
+      "name" : "Wolfmother",
+      "type" : "artist",
+      "uri" : "spotify:artist:3yEnArbNHyTCwMRvD9SBy4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0L7wO9iFQjvnD69VnRXjQi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0L7wO9iFQjvnD69VnRXjQi",
+    "id" : "0L7wO9iFQjvnD69VnRXjQi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2d9fa773393a690b3981e42c8572104cfcfd04e9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/10cf44399ed1d2b5ef7f65bd8e6c364e30b80a5a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/92ba0ead3ec4694a40ab249b1ebc792f79fd57ef",
+      "width" : 64
+    } ],
+    "name" : "Cosmic Egg (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:0L7wO9iFQjvnD69VnRXjQi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3yEnArbNHyTCwMRvD9SBy4",
+    "id" : "3yEnArbNHyTCwMRvD9SBy4",
+    "name" : "Wolfmother",
+    "type" : "artist",
+    "uri" : "spotify:artist:3yEnArbNHyTCwMRvD9SBy4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 362133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUUM70901902"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/37nRLfyiaLDewctz3oHQ4L"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/37nRLfyiaLDewctz3oHQ4L",
+  "id" : "37nRLfyiaLDewctz3oHQ4L",
+  "name" : "Violence Of The Sun",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7472cc1e29c2846d8284f0f6ceaa7baeb5bed9fa?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:37nRLfyiaLDewctz3oHQ4L"
+}

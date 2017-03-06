@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sGAu5R982Tf4ZuU2JfV55"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3sGAu5R982Tf4ZuU2JfV55",
+      "id" : "3sGAu5R982Tf4ZuU2JfV55",
+      "name" : "Elysian Fields",
+      "type" : "artist",
+      "uri" : "spotify:artist:3sGAu5R982Tf4ZuU2JfV55"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6KhRjKmYz2K1oZJSQph4pX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6KhRjKmYz2K1oZJSQph4pX",
+    "id" : "6KhRjKmYz2K1oZJSQph4pX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3c21828da7c53237fc1f76bbc343c399268cf6cf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cc96f91f0da2d5986d39a18dda7cab7f1dba1dae",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4d7e6a0ae25d96e89a6676ee9e06d54904f68b9d",
+      "width" : 64
+    } ],
+    "name" : "Last Night On Earth",
+    "type" : "album",
+    "uri" : "spotify:album:6KhRjKmYz2K1oZJSQph4pX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3sGAu5R982Tf4ZuU2JfV55"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3sGAu5R982Tf4ZuU2JfV55",
+    "id" : "3sGAu5R982Tf4ZuU2JfV55",
+    "name" : "Elysian Fields",
+    "type" : "artist",
+    "uri" : "spotify:artist:3sGAu5R982Tf4ZuU2JfV55"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 237093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCAAW1185960"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6kPM5hRNCg60vOIbft0YPW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6kPM5hRNCg60vOIbft0YPW",
+  "id" : "6kPM5hRNCg60vOIbft0YPW",
+  "name" : "Johnny",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f7b4a55ee9ac59d21771b3011f9672c153dac0de?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6kPM5hRNCg60vOIbft0YPW"
+}

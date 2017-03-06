@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3JDIAtVrJdQ7GFOX26LYpv",
+      "id" : "3JDIAtVrJdQ7GFOX26LYpv",
+      "name" : "Accept",
+      "type" : "artist",
+      "uri" : "spotify:artist:3JDIAtVrJdQ7GFOX26LYpv"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/064kESuDMDa4XkBD1NRDg4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/064kESuDMDa4XkBD1NRDg4",
+    "id" : "064kESuDMDa4XkBD1NRDg4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e0fb1651641666b245ec7ca1707a49cdd561ae3e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0dc7ee9a2370712bdeb8ad2c208fbe687df05848",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f88f4ea5157b57e57cee1a9837c35ec72a0ce806",
+      "width" : 64
+    } ],
+    "name" : "Predator",
+    "type" : "album",
+    "uri" : "spotify:album:064kESuDMDa4XkBD1NRDg4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3JDIAtVrJdQ7GFOX26LYpv",
+    "id" : "3JDIAtVrJdQ7GFOX26LYpv",
+    "name" : "Accept",
+    "type" : "artist",
+    "uri" : "spotify:artist:3JDIAtVrJdQ7GFOX26LYpv"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 277866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEC769500416"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/05tsAYgLKitj1xOnNtzJSG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/05tsAYgLKitj1xOnNtzJSG",
+  "id" : "05tsAYgLKitj1xOnNtzJSG",
+  "name" : "Hard Attack",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8b4127d80760ff9e533adebf0c74fc72ef73cb60?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:05tsAYgLKitj1xOnNtzJSG"
+}

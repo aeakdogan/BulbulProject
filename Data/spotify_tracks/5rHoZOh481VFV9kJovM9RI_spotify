@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+      "id" : "4W48hZAnAHVOC2c8WH8pcq",
+      "name" : "The Temper Trap",
+      "type" : "artist",
+      "uri" : "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/47enZlu6ssi5aFaAxHc0wt",
+    "id" : "47enZlu6ssi5aFaAxHc0wt",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/db7c8bb866f7ac10f60deb01ec23079627633092",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/09c93c23196c9e57fef5cadb87241857f300983e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0ea5a792f4383a4913747ed7474d0cce7e0c304a",
+      "width" : 64
+    } ],
+    "name" : "Conditions",
+    "type" : "album",
+    "uri" : "spotify:album:47enZlu6ssi5aFaAxHc0wt"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+    "id" : "4W48hZAnAHVOC2c8WH8pcq",
+    "name" : "The Temper Trap",
+    "type" : "artist",
+    "uri" : "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 183906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBZUZ0900014"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5rHoZOh481VFV9kJovM9RI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5rHoZOh481VFV9kJovM9RI",
+  "id" : "5rHoZOh481VFV9kJovM9RI",
+  "name" : "Fader",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4b0c29789eb95e241a8497a5d357298fb8325216?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5rHoZOh481VFV9kJovM9RI"
+}

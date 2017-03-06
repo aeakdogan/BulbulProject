@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5zbV1iVOTcbbMnSyqccDhu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5zbV1iVOTcbbMnSyqccDhu",
+      "id" : "5zbV1iVOTcbbMnSyqccDhu",
+      "name" : "Evan Bartholomew",
+      "type" : "artist",
+      "uri" : "spotify:artist:5zbV1iVOTcbbMnSyqccDhu"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0DrJgPXfYwfQtFVFqx5aCJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0DrJgPXfYwfQtFVFqx5aCJ",
+    "id" : "0DrJgPXfYwfQtFVFqx5aCJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a82668172dd1a0cb1bafd8e2354f56a7d5cfae16",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/131901c7f1904a523f927f1ee9fa2beede988b38",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9e9157cfe6295cd97ec851fd4dca9ce0e35dacd0",
+      "width" : 64
+    } ],
+    "name" : "Secret Entries Into Darkness",
+    "type" : "album",
+    "uri" : "spotify:album:0DrJgPXfYwfQtFVFqx5aCJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5zbV1iVOTcbbMnSyqccDhu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5zbV1iVOTcbbMnSyqccDhu",
+    "id" : "5zbV1iVOTcbbMnSyqccDhu",
+    "name" : "Evan Bartholomew",
+    "type" : "artist",
+    "uri" : "spotify:artist:5zbV1iVOTcbbMnSyqccDhu"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 670680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US25T0811084"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Pguko6FEvscRdhV793tPm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Pguko6FEvscRdhV793tPm",
+  "id" : "1Pguko6FEvscRdhV793tPm",
+  "name" : "Soft Spots In the Tyranny of Matter",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3f6a3d69de8ca58e031425f937219c38049868c4?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1Pguko6FEvscRdhV793tPm"
+}

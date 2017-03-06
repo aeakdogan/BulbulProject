@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+      "id" : "19eLuQmk9aCobbVDHc6eek",
+      "name" : "Louis Armstrong",
+      "type" : "artist",
+      "uri" : "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0bbKBWmTnBk9XL8IR2BB9m"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0bbKBWmTnBk9XL8IR2BB9m",
+    "id" : "0bbKBWmTnBk9XL8IR2BB9m",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/63bb2d49f47c0b79809a0fa261bd6dd9d9c63019",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/0b83b1664f1b78b0b93348c7e70b2e9b9aee4546",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/81a80db0c0d9bcdf45a16b896d3ad551df74744f",
+      "width" : 64
+    } ],
+    "name" : "The Definitive Collection",
+    "type" : "album",
+    "uri" : "spotify:album:0bbKBWmTnBk9XL8IR2BB9m"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+    "id" : "5V0MlUE1Bft0mbLlND7FJz",
+    "name" : "Ella Fitzgerald",
+    "type" : "artist",
+    "uri" : "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+    },
+    "href" : "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+    "id" : "19eLuQmk9aCobbVDHc6eek",
+    "name" : "Louis Armstrong",
+    "type" : "artist",
+    "uri" : "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 237533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70507326"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7BRCX2bAabQXTTuR3T1nSl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7BRCX2bAabQXTTuR3T1nSl",
+  "id" : "7BRCX2bAabQXTTuR3T1nSl",
+  "name" : "Love Is Here To Stay",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/abf14b603a3ee3cf91e29ec9774a5a35406a127c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7BRCX2bAabQXTTuR3T1nSl"
+}

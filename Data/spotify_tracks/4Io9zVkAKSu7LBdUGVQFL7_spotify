@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb",
+      "id" : "0Lpr5wXzWLtDWm1SjNbpPb",
+      "name" : "Todd Rundgren",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5vsHuXiqwQZYT6AD5NKYsd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5vsHuXiqwQZYT6AD5NKYsd",
+    "id" : "5vsHuXiqwQZYT6AD5NKYsd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/18722e0d03023359318b3add6cbf2e3b5ad65984",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b31b7107d8622848c83e3ef7004a6c5cb238ae0b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5ab0caf81a730221aa5dbeb2096ef2a32cec3f2c",
+      "width" : 64
+    } ],
+    "name" : "The Very Best Of Todd Rundgren",
+    "type" : "album",
+    "uri" : "spotify:album:5vsHuXiqwQZYT6AD5NKYsd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Lpr5wXzWLtDWm1SjNbpPb",
+    "id" : "0Lpr5wXzWLtDWm1SjNbpPb",
+    "name" : "Todd Rundgren",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Lpr5wXzWLtDWm1SjNbpPb"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 218440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRH10175301"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Io9zVkAKSu7LBdUGVQFL7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Io9zVkAKSu7LBdUGVQFL7",
+  "id" : "4Io9zVkAKSu7LBdUGVQFL7",
+  "name" : "Can We Still Be Friends?",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8381fbde881839f8bb906cb8baed388ed8280d1d?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:4Io9zVkAKSu7LBdUGVQFL7"
+}

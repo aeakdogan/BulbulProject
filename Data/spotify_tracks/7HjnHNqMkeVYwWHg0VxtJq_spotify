@@ -1,0 +1,101 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nhx0IXivjaTWqTwQhNqKD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nhx0IXivjaTWqTwQhNqKD",
+      "id" : "3nhx0IXivjaTWqTwQhNqKD",
+      "name" : "Ayşe Önder",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nhx0IXivjaTWqTwQhNqKD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HvOQCOBt25uYqnMdsAKAj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6HvOQCOBt25uYqnMdsAKAj",
+      "id" : "6HvOQCOBt25uYqnMdsAKAj",
+      "name" : "Ümit Önder",
+      "type" : "artist",
+      "uri" : "spotify:artist:6HvOQCOBt25uYqnMdsAKAj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cFquqEAbW7VvAetQ1jhc7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1cFquqEAbW7VvAetQ1jhc7",
+      "id" : "1cFquqEAbW7VvAetQ1jhc7",
+      "name" : "Murat Başaran (Mayki)",
+      "type" : "artist",
+      "uri" : "spotify:artist:1cFquqEAbW7VvAetQ1jhc7"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0rsjFH62ZRgbKbpJIkQ61C"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0rsjFH62ZRgbKbpJIkQ61C",
+    "id" : "0rsjFH62ZRgbKbpJIkQ61C",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/662d475e79126578724ada8cb9766be792da9cf2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6e8f648e22afab9ec2b26ba9c2c16e251e7edef2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ad5debd6c80ad80fd32b55fd1e14c725833ae887",
+      "width" : 64
+    } ],
+    "name" : "Paramparça (Orjinal Dizi Müzikleri)",
+    "type" : "album",
+    "uri" : "spotify:album:0rsjFH62ZRgbKbpJIkQ61C"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6HvOQCOBt25uYqnMdsAKAj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6HvOQCOBt25uYqnMdsAKAj",
+    "id" : "6HvOQCOBt25uYqnMdsAKAj",
+    "name" : "Ümit Önder",
+    "type" : "artist",
+    "uri" : "spotify:artist:6HvOQCOBt25uYqnMdsAKAj"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3nhx0IXivjaTWqTwQhNqKD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3nhx0IXivjaTWqTwQhNqKD",
+    "id" : "3nhx0IXivjaTWqTwQhNqKD",
+    "name" : "Ayşe Önder",
+    "type" : "artist",
+    "uri" : "spotify:artist:3nhx0IXivjaTWqTwQhNqKD"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1cFquqEAbW7VvAetQ1jhc7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1cFquqEAbW7VvAetQ1jhc7",
+    "id" : "1cFquqEAbW7VvAetQ1jhc7",
+    "name" : "Murat Başaran (Mayki)",
+    "type" : "artist",
+    "uri" : "spotify:artist:1cFquqEAbW7VvAetQ1jhc7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 147956,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR0331510142"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7HjnHNqMkeVYwWHg0VxtJq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7HjnHNqMkeVYwWHg0VxtJq",
+  "id" : "7HjnHNqMkeVYwWHg0VxtJq",
+  "name" : "Çaresiz Aşk",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dc151db8705b13ad9090664610c4fd07f7c10238?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:7HjnHNqMkeVYwWHg0VxtJq"
+}

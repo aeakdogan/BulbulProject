@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Vz3AN2wY3xjS2jCaGMVsy",
+      "id" : "2Vz3AN2wY3xjS2jCaGMVsy",
+      "name" : "Little Green Cars",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Vz3AN2wY3xjS2jCaGMVsy"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0FSlXUD9lWwWP1NkfiNmQH",
+    "id" : "0FSlXUD9lWwWP1NkfiNmQH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5a1c3559e189072ed324361d9f66e2ae1d1236a5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/83b7329691472b7150a5208c699839c208cb8016",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0f3d0aab076ab85b8bfd7eee1db59271eea6fe59",
+      "width" : 64
+    } ],
+    "name" : "Absolute Zero",
+    "type" : "album",
+    "uri" : "spotify:album:0FSlXUD9lWwWP1NkfiNmQH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Vz3AN2wY3xjS2jCaGMVsy",
+    "id" : "2Vz3AN2wY3xjS2jCaGMVsy",
+    "name" : "Little Green Cars",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Vz3AN2wY3xjS2jCaGMVsy"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 291920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USYAH1200371"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/460n97wRvhCNU4OVgZyM0V"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/460n97wRvhCNU4OVgZyM0V",
+  "id" : "460n97wRvhCNU4OVgZyM0V",
+  "name" : "The John Wayne",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/899309419a02b3bda96c40719b0410782c3148cc?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:460n97wRvhCNU4OVgZyM0V"
+}

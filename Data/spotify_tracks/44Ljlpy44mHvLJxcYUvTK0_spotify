@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+      "id" : "3mIj9lX2MWuHmhNCA7LSCW",
+      "name" : "The 1975",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/33ZqJmmqFE8Z7Ak1Lxbnfb",
+    "id" : "33ZqJmmqFE8Z7Ak1Lxbnfb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/281926da293f453a9f486c81c059c20278c87195",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fdf64ed939e4bf3be1ca7e2832c2d61640591a8f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a0ab8e36bc420afb176a0dcc3f6ee042d44177d7",
+      "width" : 64
+    } ],
+    "name" : "The 1975",
+    "type" : "album",
+    "uri" : "spotify:album:33ZqJmmqFE8Z7Ak1Lxbnfb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+    "id" : "3mIj9lX2MWuHmhNCA7LSCW",
+    "name" : "The 1975",
+    "type" : "artist",
+    "uri" : "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBK3W1000183"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/44Ljlpy44mHvLJxcYUvTK0",
+  "id" : "44Ljlpy44mHvLJxcYUvTK0",
+  "name" : "Chocolate",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/40546e5d0f83c3e79e37c16f48da08d68ada8ea4?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:44Ljlpy44mHvLJxcYUvTK0"
+}

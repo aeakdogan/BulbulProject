@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Ikpa4dpPVQ3nzlYiX5UbP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Ikpa4dpPVQ3nzlYiX5UbP",
+    "id" : "0Ikpa4dpPVQ3nzlYiX5UbP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/647ad70499da15712453a8d2c22cd74b0ceef731",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c6e7a402187bf8474772fcb51730d7bd2a35da5c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2a903bdcb30f4486e7ac4b21b6cd328b12c41f8b",
+      "width" : 64
+    } ],
+    "name" : "Fahrenheit Project Part Two",
+    "type" : "album",
+    "uri" : "spotify:album:0Ikpa4dpPVQ3nzlYiX5UbP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0CsPrPCuz1c87PHgg4ZEOY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0CsPrPCuz1c87PHgg4ZEOY",
+    "id" : "0CsPrPCuz1c87PHgg4ZEOY",
+    "name" : "Vibrasphere",
+    "type" : "artist",
+    "uri" : "spotify:artist:0CsPrPCuz1c87PHgg4ZEOY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 519946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2P0602262"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2BXOTyUjUz3a5ThlNlJRzO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2BXOTyUjUz3a5ThlNlJRzO",
+  "id" : "2BXOTyUjUz3a5ThlNlJRzO",
+  "name" : "San Pedro",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b8cd0c1574dcca638d6aee66d61898946cc035d5?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2BXOTyUjUz3a5ThlNlJRzO"
+}

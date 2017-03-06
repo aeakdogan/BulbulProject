@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7pW390CJdmhakvtcGZIqGP",
+      "id" : "7pW390CJdmhakvtcGZIqGP",
+      "name" : "Tanlines",
+      "type" : "artist",
+      "uri" : "spotify:artist:7pW390CJdmhakvtcGZIqGP"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3LYzPoYkdH1KTnjkgxGQg3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3LYzPoYkdH1KTnjkgxGQg3",
+    "id" : "3LYzPoYkdH1KTnjkgxGQg3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/60abd33f5718c0ab0c933f759f51e294e2c34110",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7da55c082223616dcf0f4d738528c942e8390288",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/11add79c413a9988c8e35dc2112b1c7e2c1144aa",
+      "width" : 64
+    } ],
+    "name" : "Mixed Emotions",
+    "type" : "album",
+    "uri" : "spotify:album:3LYzPoYkdH1KTnjkgxGQg3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7pW390CJdmhakvtcGZIqGP",
+    "id" : "7pW390CJdmhakvtcGZIqGP",
+    "name" : "Tanlines",
+    "type" : "artist",
+    "uri" : "spotify:artist:7pW390CJdmhakvtcGZIqGP"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 230586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD1102093"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0AWZRlmdLQ0OBU6WTTYSZE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0AWZRlmdLQ0OBU6WTTYSZE",
+  "id" : "0AWZRlmdLQ0OBU6WTTYSZE",
+  "name" : "All Of Me",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2ada7783f4bedeac663b8680cb863ce5b810a404?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0AWZRlmdLQ0OBU6WTTYSZE"
+}

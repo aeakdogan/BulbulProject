@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2RhgnQNC74QoBlaUvT4MEe",
+      "id" : "2RhgnQNC74QoBlaUvT4MEe",
+      "name" : "The Growlers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2RhgnQNC74QoBlaUvT4MEe"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "JP", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0b7iiX6rAdsggW5ERuLWB7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0b7iiX6rAdsggW5ERuLWB7",
+    "id" : "0b7iiX6rAdsggW5ERuLWB7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/12f844b98fd8bc20ad16d2c83fdcfb7751787ea8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c6c758d870f7acbbea075ddf55d547b5ff7a1935",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/053d452277c79d269352cd7bbdb860814da10784",
+      "width" : 64
+    } ],
+    "name" : "Chinese Fountain",
+    "type" : "album",
+    "uri" : "spotify:album:0b7iiX6rAdsggW5ERuLWB7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2RhgnQNC74QoBlaUvT4MEe",
+    "id" : "2RhgnQNC74QoBlaUvT4MEe",
+    "name" : "The Growlers",
+    "type" : "artist",
+    "uri" : "spotify:artist:2RhgnQNC74QoBlaUvT4MEe"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "JP", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 249266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USER81404408"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/71bWpBImqNaLjIvfV50Hsa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/71bWpBImqNaLjIvfV50Hsa",
+  "id" : "71bWpBImqNaLjIvfV50Hsa",
+  "name" : "Love Test",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/48c64aa7fea8f151158acfabd64a5ebc06aac47b?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:71bWpBImqNaLjIvfV50Hsa"
+}

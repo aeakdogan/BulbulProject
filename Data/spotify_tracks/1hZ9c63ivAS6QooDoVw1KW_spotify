@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/71jzN72g8qWMCMkWC5p1Z0",
+      "id" : "71jzN72g8qWMCMkWC5p1Z0",
+      "name" : "Alexandre Desplat",
+      "type" : "artist",
+      "uri" : "spotify:artist:71jzN72g8qWMCMkWC5p1Z0"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5bnxkPX9k57u4vzbvrwoJk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5bnxkPX9k57u4vzbvrwoJk",
+    "id" : "5bnxkPX9k57u4vzbvrwoJk",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/c5c5ba663ab32158197ad6ffdf2db40a0e9f983c",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/79641d82bf581075aa93244e7ac5da25c468ffe7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c9850e9c9a76bedcbb02e798007da31a9b9e217",
+      "width" : 64
+    } ],
+    "name" : "Lust, Caution",
+    "type" : "album",
+    "uri" : "spotify:album:5bnxkPX9k57u4vzbvrwoJk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/71jzN72g8qWMCMkWC5p1Z0",
+    "id" : "71jzN72g8qWMCMkWC5p1Z0",
+    "name" : "Alexandre Desplat",
+    "type" : "artist",
+    "uri" : "spotify:artist:71jzN72g8qWMCMkWC5p1Z0"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 184973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70749639"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1hZ9c63ivAS6QooDoVw1KW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1hZ9c63ivAS6QooDoVw1KW",
+  "id" : "1hZ9c63ivAS6QooDoVw1KW",
+  "name" : "Nanjing Road",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f086d1c813e5c7cc298d956731cb38c1cb5c625c?cid=null",
+  "track_number" : 16,
+  "type" : "track",
+  "uri" : "spotify:track:1hZ9c63ivAS6QooDoVw1KW"
+}

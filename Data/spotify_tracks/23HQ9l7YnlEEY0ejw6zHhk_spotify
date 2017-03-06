@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6qokeohfvbaNK1m0VfIEtB",
+      "id" : "6qokeohfvbaNK1m0VfIEtB",
+      "name" : "Klischée",
+      "type" : "artist",
+      "uri" : "spotify:artist:6qokeohfvbaNK1m0VfIEtB"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GB", "GT", "HN", "IE", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3dcYtAp1z0xMLZ4iyvQBzh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3dcYtAp1z0xMLZ4iyvQBzh",
+    "id" : "3dcYtAp1z0xMLZ4iyvQBzh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3678fcdcbd2e639e40840bc5475f8bd1ae19d9c9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c08fa0608d25f8c1749ae0ae3d0bfe4e1823f363",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c770c84a50b88dbb1a99cab05b9d32e298ccbe41",
+      "width" : 64
+    } ],
+    "name" : "Touché",
+    "type" : "album",
+    "uri" : "spotify:album:3dcYtAp1z0xMLZ4iyvQBzh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6qokeohfvbaNK1m0VfIEtB",
+    "id" : "6qokeohfvbaNK1m0VfIEtB",
+    "name" : "Klischée",
+    "type" : "artist",
+    "uri" : "spotify:artist:6qokeohfvbaNK1m0VfIEtB"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GB", "GT", "HN", "IE", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 209240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CH7401300140"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/23HQ9l7YnlEEY0ejw6zHhk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/23HQ9l7YnlEEY0ejw6zHhk",
+  "id" : "23HQ9l7YnlEEY0ejw6zHhk",
+  "name" : "Tin Tin",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3a27be9d027c75b6243c88d07cf3cba081a98521?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:23HQ9l7YnlEEY0ejw6zHhk"
+}

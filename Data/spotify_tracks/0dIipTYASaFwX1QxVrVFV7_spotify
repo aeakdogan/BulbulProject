@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+      "id" : "1w5Kfo2jwwIPruYS2UWh56",
+      "name" : "Pearl Jam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5zsDtoSrXK4usJ4MB1tCh2",
+    "id" : "5zsDtoSrXK4usJ4MB1tCh2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/77c17804f5bcb51a93aed3b4e86a7881644d1fdb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab708d45dbefa7aa99ee9977fca0c528217ed046",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b69b6f25bdb9126f710ba96a4317280f335d4b14",
+      "width" : 64
+    } ],
+    "name" : "Yield",
+    "type" : "album",
+    "uri" : "spotify:album:5zsDtoSrXK4usJ4MB1tCh2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+    "id" : "1w5Kfo2jwwIPruYS2UWh56",
+    "name" : "Pearl Jam",
+    "type" : "artist",
+    "uri" : "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 231253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19703251"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0dIipTYASaFwX1QxVrVFV7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0dIipTYASaFwX1QxVrVFV7",
+  "id" : "0dIipTYASaFwX1QxVrVFV7",
+  "name" : "Do the Evolution",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d0d28d360eed093c2e3ad986d09e95e64013a016?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0dIipTYASaFwX1QxVrVFV7"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb",
+      "id" : "1n65zfwYIj5kKEtNgxUlWb",
+      "name" : "Siouxsie and the Banshees",
+      "type" : "artist",
+      "uri" : "spotify:artist:1n65zfwYIj5kKEtNgxUlWb"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2Ck1R00QDxkC780kh7b5Pv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2Ck1R00QDxkC780kh7b5Pv",
+    "id" : "2Ck1R00QDxkC780kh7b5Pv",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/bb4b94de0f90e421e318981b4a08e926f5f86dfe",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/0292c84f04a2ac6485f2daca50c8da4d22c33a91",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/12433ee1a6244006346213a13de184e27ab47989",
+      "width" : 64
+    } ],
+    "name" : "The Best Of...",
+    "type" : "album",
+    "uri" : "spotify:album:2Ck1R00QDxkC780kh7b5Pv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb",
+    "id" : "1n65zfwYIj5kKEtNgxUlWb",
+    "name" : "Siouxsie and the Banshees",
+    "type" : "artist",
+    "uri" : "spotify:artist:1n65zfwYIj5kKEtNgxUlWb"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 263013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAKW9101027"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7rEYpBLXTugTmX89RQPTUa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7rEYpBLXTugTmX89RQPTUa",
+  "id" : "7rEYpBLXTugTmX89RQPTUa",
+  "name" : "Kiss Them For Me",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f33729e2e8c0b579a99ed16e0089329849079bff?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:7rEYpBLXTugTmX89RQPTUa"
+}

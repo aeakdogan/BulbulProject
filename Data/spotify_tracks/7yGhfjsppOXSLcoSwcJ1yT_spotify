@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KDuKk6YdEu3hR56HtXmxt",
+      "id" : "0KDuKk6YdEu3hR56HtXmxt",
+      "name" : "Story Of The Year",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KDuKk6YdEu3hR56HtXmxt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Qk9nVlmC49ZNo9j14khzF",
+    "id" : "0Qk9nVlmC49ZNo9j14khzF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d324658ddaec562abdd0e986853d97a072cec870",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab824bf67f2ea0062088267db82c859d4665060d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2e08519fd7edde918bbab2201c98f5f9b3072850",
+      "width" : 64
+    } ],
+    "name" : "The Black Swan",
+    "type" : "album",
+    "uri" : "spotify:album:0Qk9nVlmC49ZNo9j14khzF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0KDuKk6YdEu3hR56HtXmxt",
+    "id" : "0KDuKk6YdEu3hR56HtXmxt",
+    "name" : "Story Of The Year",
+    "type" : "artist",
+    "uri" : "spotify:artist:0KDuKk6YdEu3hR56HtXmxt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 239600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP40730103"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7yGhfjsppOXSLcoSwcJ1yT",
+  "id" : "7yGhfjsppOXSLcoSwcJ1yT",
+  "name" : "The Antidote",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d721c982c49bb00b7bd9ef5fd1cdd0f82f254f33?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7yGhfjsppOXSLcoSwcJ1yT"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6bYFkBNvayh3nGqxcPp7Sv",
+      "id" : "6bYFkBNvayh3nGqxcPp7Sv",
+      "name" : "Ulver",
+      "type" : "artist",
+      "uri" : "spotify:artist:6bYFkBNvayh3nGqxcPp7Sv"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2nhfXcao5wQrsNIxDaVasH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2nhfXcao5wQrsNIxDaVasH",
+    "id" : "2nhfXcao5wQrsNIxDaVasH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f1809956fb5b6fca68a92bee65eb31a619522792",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8173eb9b3aeac9303ef5e3bdc027bada95d85a76",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b320bf8f770fbd74b229842e9c218e238182d275",
+      "width" : 64
+    } ],
+    "name" : "Childhood's End",
+    "type" : "album",
+    "uri" : "spotify:album:2nhfXcao5wQrsNIxDaVasH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6bYFkBNvayh3nGqxcPp7Sv",
+    "id" : "6bYFkBNvayh3nGqxcPp7Sv",
+    "name" : "Ulver",
+    "type" : "artist",
+    "uri" : "spotify:artist:6bYFkBNvayh3nGqxcPp7Sv"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 173933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCQV1200309"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2QgmyoZClHvS28d603lnqv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2QgmyoZClHvS28d603lnqv",
+  "id" : "2QgmyoZClHvS28d603lnqv",
+  "name" : "I Had Too Much To Dream Last Night",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/17b8a0d35596bf6bbccd76dc8980f5886423799c?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2QgmyoZClHvS28d603lnqv"
+}

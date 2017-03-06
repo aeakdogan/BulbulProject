@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0GDGKpJFhVpcjIGF8N6Ewt",
+      "id" : "0GDGKpJFhVpcjIGF8N6Ewt",
+      "name" : "Gojira",
+      "type" : "artist",
+      "uri" : "spotify:artist:0GDGKpJFhVpcjIGF8N6Ewt"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3jfojn8GJUDoxzBd1EPY2c"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3jfojn8GJUDoxzBd1EPY2c",
+    "id" : "3jfojn8GJUDoxzBd1EPY2c",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/221b1a7db657ed4fb8e4ed95337dab3615f720e7",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/7ff1884ba9904a7d32857d3545fa0b2cbfdbacdd",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/9256210366050f55c343bca129de0221784f5d1d",
+      "width" : 64
+    } ],
+    "name" : "From Mars to Sirius",
+    "type" : "album",
+    "uri" : "spotify:album:3jfojn8GJUDoxzBd1EPY2c"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0GDGKpJFhVpcjIGF8N6Ewt",
+    "id" : "0GDGKpJFhVpcjIGF8N6Ewt",
+    "name" : "Gojira",
+    "type" : "artist",
+    "uri" : "spotify:artist:0GDGKpJFhVpcjIGF8N6Ewt"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 348013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRYFO0500017"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7fVNEKI7aAaZc1T7JkLmub"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7fVNEKI7aAaZc1T7JkLmub",
+  "id" : "7fVNEKI7aAaZc1T7JkLmub",
+  "name" : "From The Sky",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e75126eaa5ce0b9a43d7c2b896333d811092988b?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7fVNEKI7aAaZc1T7JkLmub"
+}

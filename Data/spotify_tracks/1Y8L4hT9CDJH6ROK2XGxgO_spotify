@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+      "id" : "6v8FB84lnmJs434UJf2Mrm",
+      "name" : "Neil Young",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3w5Hok05AFjCLy269xXM7e"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3w5Hok05AFjCLy269xXM7e",
+    "id" : "3w5Hok05AFjCLy269xXM7e",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/15cb574914ea76d773287e868ff06e9ed62a678f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/18ee8d7e0c4c4bffe28b21be468caf2dd7c35cb0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e64073364175e0b23971ae84d635c5b8f0945659",
+      "width" : 64
+    } ],
+    "name" : "On the Beach",
+    "type" : "album",
+    "uri" : "spotify:album:3w5Hok05AFjCLy269xXM7e"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+    "id" : "6v8FB84lnmJs434UJf2Mrm",
+    "name" : "Neil Young",
+    "type" : "artist",
+    "uri" : "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 419013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE11600774"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Y8L4hT9CDJH6ROK2XGxgO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Y8L4hT9CDJH6ROK2XGxgO",
+  "id" : "1Y8L4hT9CDJH6ROK2XGxgO",
+  "name" : "On the Beach",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bea2328dbcbc90010aa9fff40cd30cf2d64c8dc9?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1Y8L4hT9CDJH6ROK2XGxgO"
+}

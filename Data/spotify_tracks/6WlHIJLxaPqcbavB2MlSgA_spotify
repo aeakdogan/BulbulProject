@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76oeXwztPqAxVg9oqozK3z",
+      "id" : "76oeXwztPqAxVg9oqozK3z",
+      "name" : "Heather Nova",
+      "type" : "artist",
+      "uri" : "spotify:artist:76oeXwztPqAxVg9oqozK3z"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0uOCOT1XFPgWfuHZuPQUJ5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0uOCOT1XFPgWfuHZuPQUJ5",
+    "id" : "0uOCOT1XFPgWfuHZuPQUJ5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bd3e90ce4c2cfb6c895111fa42a7bd535fe066ad",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3d593c53710a92b06b2116e406d9ed4bddf2b65a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/61609fbf2bd76a82845e2cc5ffcb94aea91c4ae3",
+      "width" : 64
+    } ],
+    "name" : "The Way It Feels",
+    "type" : "album",
+    "uri" : "spotify:album:0uOCOT1XFPgWfuHZuPQUJ5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/76oeXwztPqAxVg9oqozK3z",
+    "id" : "76oeXwztPqAxVg9oqozK3z",
+    "name" : "Heather Nova",
+    "type" : "artist",
+    "uri" : "spotify:artist:76oeXwztPqAxVg9oqozK3z"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 236120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DETO31400124"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6WlHIJLxaPqcbavB2MlSgA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6WlHIJLxaPqcbavB2MlSgA",
+  "id" : "6WlHIJLxaPqcbavB2MlSgA",
+  "name" : "Sea Glass",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7f2d5cfc52c190e72cc90432fea163a8b21ed9c3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6WlHIJLxaPqcbavB2MlSgA"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5wroubrfmIyimH1vOXTJtj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5wroubrfmIyimH1vOXTJtj",
+    "id" : "5wroubrfmIyimH1vOXTJtj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1a1e6f176bc75aabc2ac9cbc93d648ea0695c336",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/501b44d1bbeea5e0c7230e4ae61109326ad8cecd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/94ddb3eef4d82ffd10a74345a64ea0d3e9f32917",
+      "width" : 64
+    } ],
+    "name" : "Just Say I Love You / Bana Sadece Seni Seviyorum De",
+    "type" : "album",
+    "uri" : "spotify:album:5wroubrfmIyimH1vOXTJtj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6d2cna6ab3mL140jbRNXqV",
+    "id" : "6d2cna6ab3mL140jbRNXqV",
+    "name" : "Dilemma",
+    "type" : "artist",
+    "uri" : "spotify:artist:6d2cna6ab3mL140jbRNXqV"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 261000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR2180603109"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7iRrGbkMSDl28ekkBj4A6C"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7iRrGbkMSDl28ekkBj4A6C",
+  "id" : "7iRrGbkMSDl28ekkBj4A6C",
+  "name" : "Hep Bana",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/700b1a6b075a20d2c50d07ddd12ba3de129d8994?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:7iRrGbkMSDl28ekkBj4A6C"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+      "id" : "1w5Kfo2jwwIPruYS2UWh56",
+      "name" : "Pearl Jam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
+    },
+    "href" : "https://api.spotify.com/v1/albums/01WEcEzoa9mfh8fIDhvV1M",
+    "id" : "01WEcEzoa9mfh8fIDhvV1M",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/accc94d0e8bc2dab31bc38c1af0d5ba580602506",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/878943d04611b38b209cc87c0bcc549a9a9ae737",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d1b1071c9209bd16893b61006284ec9d02f3ea34",
+      "width" : 64
+    } ],
+    "name" : "Lightning Bolt",
+    "type" : "album",
+    "uri" : "spotify:album:01WEcEzoa9mfh8fIDhvV1M"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+    "id" : "1w5Kfo2jwwIPruYS2UWh56",
+    "name" : "Pearl Jam",
+    "type" : "artist",
+    "uri" : "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 320280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71308246"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/10ksqrWHRkFHAdD9Nggalm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/10ksqrWHRkFHAdD9Nggalm",
+  "id" : "10ksqrWHRkFHAdD9Nggalm",
+  "name" : "Infallible",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bfd6db57b13c61d71b1eb003422dfa6325485843?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:10ksqrWHRkFHAdD9Nggalm"
+}

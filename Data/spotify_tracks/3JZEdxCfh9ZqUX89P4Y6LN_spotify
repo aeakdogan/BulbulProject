@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2SNzxY1OsSCHBLVi77mpPQ",
+      "id" : "2SNzxY1OsSCHBLVi77mpPQ",
+      "name" : "Joe Bonamassa",
+      "type" : "artist",
+      "uri" : "spotify:artist:2SNzxY1OsSCHBLVi77mpPQ"
+    } ],
+    "available_markets" : [ "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CZ", "DE", "DK", "DO", "EC", "ES", "FI", "FR", "GB", "GR", "HK", "HU", "ID", "IE", "IT", "MX", "MY", "NL", "NO", "NZ", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4aW4j7Mftlvc7IxsZKoNtv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4aW4j7Mftlvc7IxsZKoNtv",
+    "id" : "4aW4j7Mftlvc7IxsZKoNtv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5411f99747e9e0fc826168e91cf7d778ef9368ee",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b1118d8753f1caadec5ff16158775e61d543c0aa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/16b8c48487afad70562a46fd471abdf6d10fc082",
+      "width" : 64
+    } ],
+    "name" : "Driving Towards The Daylight",
+    "type" : "album",
+    "uri" : "spotify:album:4aW4j7Mftlvc7IxsZKoNtv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2SNzxY1OsSCHBLVi77mpPQ",
+    "id" : "2SNzxY1OsSCHBLVi77mpPQ",
+    "name" : "Joe Bonamassa",
+    "type" : "artist",
+    "uri" : "spotify:artist:2SNzxY1OsSCHBLVi77mpPQ"
+  } ],
+  "available_markets" : [ "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CZ", "DE", "DK", "DO", "EC", "ES", "FI", "FR", "GB", "GR", "HK", "HU", "ID", "IE", "IT", "MX", "MY", "NL", "NO", "NZ", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 207840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMH51200219"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3JZEdxCfh9ZqUX89P4Y6LN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3JZEdxCfh9ZqUX89P4Y6LN",
+  "id" : "3JZEdxCfh9ZqUX89P4Y6LN",
+  "name" : "Who's Been Talking",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5230166bfd6ff453fd98671b3f8164536bf419c1?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3JZEdxCfh9ZqUX89P4Y6LN"
+}

@@ -1,0 +1,92 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11T8SOX82xraocZzUXzkvM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/11T8SOX82xraocZzUXzkvM",
+      "id" : "11T8SOX82xraocZzUXzkvM",
+      "name" : "Hector Berlioz",
+      "type" : "artist",
+      "uri" : "spotify:artist:11T8SOX82xraocZzUXzkvM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1v3CPrEofAQR0unayPg8RI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1v3CPrEofAQR0unayPg8RI",
+    "id" : "1v3CPrEofAQR0unayPg8RI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8ceabcc5bbc1476b7357598d00a4c49838400f62",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/46c35a0b415ab041bb0ec4eef4e89d44351f7141",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f615416779a96677ae314d8289bbe58f053d408a",
+      "width" : 64
+    } ],
+    "name" : "Berlioz: Symphony Fantastique - Roman Carnival Overture - the Secret Judge Overture",
+    "type" : "album",
+    "uri" : "spotify:album:1v3CPrEofAQR0unayPg8RI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/11T8SOX82xraocZzUXzkvM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/11T8SOX82xraocZzUXzkvM",
+    "id" : "11T8SOX82xraocZzUXzkvM",
+    "name" : "Hector Berlioz",
+    "type" : "artist",
+    "uri" : "spotify:artist:11T8SOX82xraocZzUXzkvM"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4zBSN7OzdsGmKIdLPzXueB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4zBSN7OzdsGmKIdLPzXueB",
+    "id" : "4zBSN7OzdsGmKIdLPzXueB",
+    "name" : "Anton Nanut",
+    "type" : "artist",
+    "uri" : "spotify:artist:4zBSN7OzdsGmKIdLPzXueB"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Hc3I9qN9IfEFIofvw6LRp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Hc3I9qN9IfEFIofvw6LRp",
+    "id" : "2Hc3I9qN9IfEFIofvw6LRp",
+    "name" : "RSO Ljubljana",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Hc3I9qN9IfEFIofvw6LRp"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 781133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSJ10810843"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7st7AucuT7I07IrSdEu4ww"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7st7AucuT7I07IrSdEu4ww",
+  "id" : "7st7AucuT7I07IrSdEu4ww",
+  "name" : "Symphony Fantastique In C Major, Op 14: I. Reveries, Passions - Largo, Allegro Agitato e Appassionato Assai",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bd5d78b0d84360a8b0f7aff0b3e8213fd27b92e3?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7st7AucuT7I07IrSdEu4ww"
+}

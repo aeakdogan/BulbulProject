@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2bmixwMZXlkl2sbIbOfviq",
+      "id" : "2bmixwMZXlkl2sbIbOfviq",
+      "name" : "Bo Diddley",
+      "type" : "artist",
+      "uri" : "spotify:artist:2bmixwMZXlkl2sbIbOfviq"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/332XU5qo4o77ZxnEn8tQ5E"
+    },
+    "href" : "https://api.spotify.com/v1/albums/332XU5qo4o77ZxnEn8tQ5E",
+    "id" : "332XU5qo4o77ZxnEn8tQ5E",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fddd0f3ef9b4ba0fb55fd89f41b4fbc83dd73b4a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/541f6aa01e3dcd0d542d9c4e42693d3d17912618",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/682d5c9736dac1fa33c8fc45d19e84e5bae2624a",
+      "width" : 64
+    } ],
+    "name" : "The Chess Box",
+    "type" : "album",
+    "uri" : "spotify:album:332XU5qo4o77ZxnEn8tQ5E"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2bmixwMZXlkl2sbIbOfviq",
+    "id" : "2bmixwMZXlkl2sbIbOfviq",
+    "name" : "Bo Diddley",
+    "type" : "artist",
+    "uri" : "spotify:artist:2bmixwMZXlkl2sbIbOfviq"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 179973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC15547010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5kXJVyFqJdAv6XzjFeKqv7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5kXJVyFqJdAv6XzjFeKqv7",
+  "id" : "5kXJVyFqJdAv6XzjFeKqv7",
+  "name" : "I'm A Man - Single Version",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/04d484a02feeefbcd443faf31383bcd59752c93e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5kXJVyFqJdAv6XzjFeKqv7"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0OdUWJ0sBjDrqHygGUXeCF",
+      "id" : "0OdUWJ0sBjDrqHygGUXeCF",
+      "name" : "Band of Horses",
+      "type" : "artist",
+      "uri" : "spotify:artist:0OdUWJ0sBjDrqHygGUXeCF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2j80e8guCnpYphNJW8hSaX",
+    "id" : "2j80e8guCnpYphNJW8hSaX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f33cb2d76a7241eae723ef14adc06142a42bf487",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e02dd84f14cee134d57ed89129657174d73ace07",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cfd4d67b5b580b3e7da48515d555ff5a548ca963",
+      "width" : 64
+    } ],
+    "name" : "Spotify Sessions",
+    "type" : "album",
+    "uri" : "spotify:album:2j80e8guCnpYphNJW8hSaX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0OdUWJ0sBjDrqHygGUXeCF",
+    "id" : "0OdUWJ0sBjDrqHygGUXeCF",
+    "name" : "Band of Horses",
+    "type" : "artist",
+    "uri" : "spotify:artist:0OdUWJ0sBjDrqHygGUXeCF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 239080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USQX91202034"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5MYfpFJYm8WNFGssR6H2Oz",
+  "id" : "5MYfpFJYm8WNFGssR6H2Oz",
+  "name" : "No One's Gonna Love You - Live from Spotify Sweden",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d800f4f7aabcb10bc214cd73f1f1675e4acc3bff?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5MYfpFJYm8WNFGssR6H2Oz"
+}

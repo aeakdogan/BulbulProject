@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+      "id" : "3FUY2gzHeIiaesXtOAdB7A",
+      "name" : "Train",
+      "type" : "artist",
+      "uri" : "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "JP", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5zseibu9WEsPaZmkJUMkz1",
+    "id" : "5zseibu9WEsPaZmkJUMkz1",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/ede492a76a3bc017a3671030cdab2ef231ab522f",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/14d67940660b09881c5c1b22247b20e5223d6798",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bc070798999281396d7e766e1c259eb18c8ea2af",
+      "width" : 64
+    } ],
+    "name" : "California 37",
+    "type" : "album",
+    "uri" : "spotify:album:5zseibu9WEsPaZmkJUMkz1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+    "id" : "3FUY2gzHeIiaesXtOAdB7A",
+    "name" : "Train",
+    "type" : "artist",
+    "uri" : "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "JP", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 247946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11201533"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2NniAhAtkRACaMeYt48xlD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2NniAhAtkRACaMeYt48xlD",
+  "id" : "2NniAhAtkRACaMeYt48xlD",
+  "name" : "50 Ways to Say Goodbye",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/49535b4f73876b27111861b0f6c2f0902264a305?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2NniAhAtkRACaMeYt48xlD"
+}

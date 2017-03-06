@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4XOAS1Q62GWP67HMX7ASk3",
+      "id" : "4XOAS1Q62GWP67HMX7ASk3",
+      "name" : "Pete Philly & Perquisite",
+      "type" : "artist",
+      "uri" : "spotify:artist:4XOAS1Q62GWP67HMX7ASk3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1LFGVkNRmXz8jIkyPjaGNL",
+      "id" : "1LFGVkNRmXz8jIkyPjaGNL",
+      "name" : "De Hofnar",
+      "type" : "artist",
+      "uri" : "spotify:artist:1LFGVkNRmXz8jIkyPjaGNL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5WFXnsaOqoXSCcdSZ8681I"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5WFXnsaOqoXSCcdSZ8681I",
+    "id" : "5WFXnsaOqoXSCcdSZ8681I",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b40d6be659ca52f6c480e400bc757020a3a3c010",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0dfe3e996c466e1ff4d1937fac892cb972d69348",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d1be9977b9c125ae9735921b6af44d22ca24b946",
+      "width" : 64
+    } ],
+    "name" : "Mystery Repeats (De Hofnar Remix)",
+    "type" : "album",
+    "uri" : "spotify:album:5WFXnsaOqoXSCcdSZ8681I"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4XOAS1Q62GWP67HMX7ASk3",
+    "id" : "4XOAS1Q62GWP67HMX7ASk3",
+    "name" : "Pete Philly & Perquisite",
+    "type" : "artist",
+    "uri" : "spotify:artist:4XOAS1Q62GWP67HMX7ASk3"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1LFGVkNRmXz8jIkyPjaGNL",
+    "id" : "1LFGVkNRmXz8jIkyPjaGNL",
+    "name" : "De Hofnar",
+    "type" : "artist",
+    "uri" : "spotify:artist:1LFGVkNRmXz8jIkyPjaGNL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 194419,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLF711602844"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3dOOB00372mFALtaaIyg0C"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3dOOB00372mFALtaaIyg0C",
+  "id" : "3dOOB00372mFALtaaIyg0C",
+  "name" : "Mystery Repeats - De Hofnar Remix",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d8c8e809a06fcf7a1f4f2260587a053ba76637ce?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3dOOB00372mFALtaaIyg0C"
+}

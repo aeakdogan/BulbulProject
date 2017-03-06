@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0qLNsNKm8bQcMoRFkR8Hmh",
+      "id" : "0qLNsNKm8bQcMoRFkR8Hmh",
+      "name" : "James",
+      "type" : "artist",
+      "uri" : "spotify:artist:0qLNsNKm8bQcMoRFkR8Hmh"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4sd1JAggakMUuXLpFN6LIx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4sd1JAggakMUuXLpFN6LIx",
+    "id" : "4sd1JAggakMUuXLpFN6LIx",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/549da43d8113691f3ee657b7a7dec08f0377e0a9",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/d81db4daf76917b8e700d66b1b92540cb7747c4a",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/36b313bb95c6d5e3c9ee2c760ff3eb05cbe3ff68",
+      "width" : 64
+    } ],
+    "name" : "Pleased To Meet You",
+    "type" : "album",
+    "uri" : "spotify:album:4sd1JAggakMUuXLpFN6LIx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0qLNsNKm8bQcMoRFkR8Hmh",
+    "id" : "0qLNsNKm8bQcMoRFkR8Hmh",
+    "name" : "James",
+    "type" : "artist",
+    "uri" : "spotify:artist:0qLNsNKm8bQcMoRFkR8Hmh"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 265000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF080100257"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0TdAVKULjn3z2BRjrx3Hl2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0TdAVKULjn3z2BRjrx3Hl2",
+  "id" : "0TdAVKULjn3z2BRjrx3Hl2",
+  "name" : "Getting Away With It (All Messed Up)",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a4a7434ec3da06d8b0f1b55cb3ae5b0dfee29cf0?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:0TdAVKULjn3z2BRjrx3Hl2"
+}

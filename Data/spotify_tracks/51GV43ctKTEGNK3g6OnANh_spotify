@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4R2ZUCVWjJs5ef9pjnCVC4",
+      "id" : "4R2ZUCVWjJs5ef9pjnCVC4",
+      "name" : "Cherrelle",
+      "type" : "artist",
+      "uri" : "spotify:artist:4R2ZUCVWjJs5ef9pjnCVC4"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0j5lDdSXw3zuhDXHJVB07H",
+    "id" : "0j5lDdSXw3zuhDXHJVB07H",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6e3f8ab9e235bfb22dc263b39ad89147aef29e07",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fbb118f43fd60e4f4c220e203f09dc457f36fa82",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a9e860ae34933f0803b5a451be45edc192e60e95",
+      "width" : 64
+    } ],
+    "name" : "Best Of",
+    "type" : "album",
+    "uri" : "spotify:album:0j5lDdSXw3zuhDXHJVB07H"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4R2ZUCVWjJs5ef9pjnCVC4",
+    "id" : "4R2ZUCVWjJs5ef9pjnCVC4",
+    "name" : "Cherrelle",
+    "type" : "artist",
+    "uri" : "spotify:artist:4R2ZUCVWjJs5ef9pjnCVC4"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 362240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO18482740"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/51GV43ctKTEGNK3g6OnANh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/51GV43ctKTEGNK3g6OnANh",
+  "id" : "51GV43ctKTEGNK3g6OnANh",
+  "name" : "Fragile...Handle With Care",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/601d8b2a23811494e2b449d5e683db5e4cafb89e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:51GV43ctKTEGNK3g6OnANh"
+}

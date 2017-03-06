@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+      },
+      "href" : "https://api.spotify.com/v1/artists/11wRdbnoYqRddKBrpHt4Ue",
+      "id" : "11wRdbnoYqRddKBrpHt4Ue",
+      "name" : "Kasabian",
+      "type" : "artist",
+      "uri" : "spotify:artist:11wRdbnoYqRddKBrpHt4Ue"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GB", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1SuykXotZpA8F3EbNv2yGd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1SuykXotZpA8F3EbNv2yGd",
+    "id" : "1SuykXotZpA8F3EbNv2yGd",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/6f0259f08a00566ff400fcc052ab8464c17214ab",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/2c6d281fc100efe6f8cc3c65adf50aa19c0acff6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cc1b568916b74ea940e4e0b9b3bacb211c985405",
+      "width" : 64
+    } ],
+    "name" : "Empire",
+    "type" : "album",
+    "uri" : "spotify:album:1SuykXotZpA8F3EbNv2yGd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+    },
+    "href" : "https://api.spotify.com/v1/artists/11wRdbnoYqRddKBrpHt4Ue",
+    "id" : "11wRdbnoYqRddKBrpHt4Ue",
+    "name" : "Kasabian",
+    "type" : "artist",
+    "uri" : "spotify:artist:11wRdbnoYqRddKBrpHt4Ue"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GB", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 318906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL0600770"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Z3bVAOo0V2TAopi1qBpa7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Z3bVAOo0V2TAopi1qBpa7",
+  "id" : "2Z3bVAOo0V2TAopi1qBpa7",
+  "name" : "Stuntman",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5a4c1099bc5978462bf96549a0b0d7b048005af8?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2Z3bVAOo0V2TAopi1qBpa7"
+}

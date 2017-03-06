@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+      "id" : "6olE6TJLqED3rqDCT0FyPh",
+      "name" : "Nirvana",
+      "type" : "artist",
+      "uri" : "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1To7kv722A8SpZF789MZy7",
+    "id" : "1To7kv722A8SpZF789MZy7",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/70965cfd4bb4c29f34b2cd5ede4f9f1ebb075177",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/550366e3f930a0ed1fd40f9598494540aa8c6936",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/102cbbf11a4f12c9216548b44a163639c0ca9f04",
+      "width" : 64
+    } ],
+    "name" : "MTV Unplugged In New York",
+    "type" : "album",
+    "uri" : "spotify:album:1To7kv722A8SpZF789MZy7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+    "id" : "6olE6TJLqED3rqDCT0FyPh",
+    "name" : "Nirvana",
+    "type" : "artist",
+    "uri" : "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 218066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF19972710"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2smax1OWAxOo63p14G8KZx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2smax1OWAxOo63p14G8KZx",
+  "id" : "2smax1OWAxOo63p14G8KZx",
+  "name" : "Plateau",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2a0473038454bac1b2d54826b7aea0086cb5d73c?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2smax1OWAxOo63p14G8KZx"
+}

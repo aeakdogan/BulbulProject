@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yN5eYpsyyo2FYNCUS0ndf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yN5eYpsyyo2FYNCUS0ndf",
+      "id" : "2yN5eYpsyyo2FYNCUS0ndf",
+      "name" : "Gevende",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yN5eYpsyyo2FYNCUS0ndf"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5UQedzl1m76VgUy1xEr8Lv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5UQedzl1m76VgUy1xEr8Lv",
+    "id" : "5UQedzl1m76VgUy1xEr8Lv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1b2768f67178f971451a9655761b70f3fe7b64dc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/96cd6597dd8da3eac2c67c2c97bc12029cab3480",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/03d0d9405be5aa441847c10e3e328c86b6982028",
+      "width" : 64
+    } ],
+    "name" : "Ev",
+    "type" : "album",
+    "uri" : "spotify:album:5UQedzl1m76VgUy1xEr8Lv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2yN5eYpsyyo2FYNCUS0ndf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2yN5eYpsyyo2FYNCUS0ndf",
+    "id" : "2yN5eYpsyyo2FYNCUS0ndf",
+    "name" : "Gevende",
+    "type" : "artist",
+    "uri" : "spotify:artist:2yN5eYpsyyo2FYNCUS0ndf"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 391213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR0230600004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/30JvvNVeDTYZpXN8b0huuw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/30JvvNVeDTYZpXN8b0huuw",
+  "id" : "30JvvNVeDTYZpXN8b0huuw",
+  "name" : "Nem",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f2d93929341eaf33d7bbbc269dfe22dea648d86b?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:30JvvNVeDTYZpXN8b0huuw"
+}

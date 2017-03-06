@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7idm1Z2kk9ffIobkLlZ2Ds",
+      "id" : "7idm1Z2kk9ffIobkLlZ2Ds",
+      "name" : "Pan-American",
+      "type" : "artist",
+      "uri" : "spotify:artist:7idm1Z2kk9ffIobkLlZ2Ds"
+    } ],
+    "available_markets" : [ "AU", "CA", "JP", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2z8tM4xuatM4eEgkxJJUsI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2z8tM4xuatM4eEgkxJJUsI",
+    "id" : "2z8tM4xuatM4eEgkxJJUsI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c0560d575a9b1a61c2009668b9a289fe7e25920b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a875e2d078b208c43dd581700c19a516aa37dc41",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/da229e485c602c8e60c995bdff4fd787883a0daf",
+      "width" : 64
+    } ],
+    "name" : "The River Made No Sound",
+    "type" : "album",
+    "uri" : "spotify:album:2z8tM4xuatM4eEgkxJJUsI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7idm1Z2kk9ffIobkLlZ2Ds",
+    "id" : "7idm1Z2kk9ffIobkLlZ2Ds",
+    "name" : "Pan-American",
+    "type" : "artist",
+    "uri" : "spotify:artist:7idm1Z2kk9ffIobkLlZ2Ds"
+  } ],
+  "available_markets" : [ "AU", "CA", "JP", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 278480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USI4R0401932"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/77MbgEOOub875sHv3L2jbK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/77MbgEOOub875sHv3L2jbK",
+  "id" : "77MbgEOOub875sHv3L2jbK",
+  "name" : "Settled",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1ed036f7ac894cf0928bc29e566fb520c01963b1?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:77MbgEOOub875sHv3L2jbK"
+}

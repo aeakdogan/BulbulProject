@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5wo7l7l6PUIspZFPfSHqDL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5wo7l7l6PUIspZFPfSHqDL",
+    "id" : "5wo7l7l6PUIspZFPfSHqDL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/844e7f930f83c7c070d95e5e687298540594bd78",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bfd0e8e0b0b0ede17df16633d0fb17686df97dd8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/80208a76f1fe8125ccb5f66e67088d8f1744eb24",
+      "width" : 64
+    } ],
+    "name" : "Friday Night Lights (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:5wo7l7l6PUIspZFPfSHqDL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1uQWmt1OhuHGRKmZ2ZcL6p",
+    "id" : "1uQWmt1OhuHGRKmZ2ZcL6p",
+    "name" : "Explosions In The Sky",
+    "type" : "artist",
+    "uri" : "spotify:artist:1uQWmt1OhuHGRKmZ2ZcL6p"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2twCnYZ6KJpcFcfyZhcx6C"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2twCnYZ6KJpcFcfyZhcx6C",
+    "id" : "2twCnYZ6KJpcFcfyZhcx6C",
+    "name" : "Brian Reitzell",
+    "type" : "artist",
+    "uri" : "spotify:artist:2twCnYZ6KJpcFcfyZhcx6C"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2hEbVGDelF6bqVwydUPyJI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2hEbVGDelF6bqVwydUPyJI",
+    "id" : "2hEbVGDelF6bqVwydUPyJI",
+    "name" : "Justin Stanley",
+    "type" : "artist",
+    "uri" : "spotify:artist:2hEbVGDelF6bqVwydUPyJI"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 340480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUG10400428"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2IRDh9WcG1o6kBDbzMjI6p"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2IRDh9WcG1o6kBDbzMjI6p",
+  "id" : "2IRDh9WcG1o6kBDbzMjI6p",
+  "name" : "The Sky Above, The Field Below - From \"Friday Night Lights\" Soundtrack",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b859f54f82f4f5af88e89638071ce28e0719b117?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:2IRDh9WcG1o6kBDbzMjI6p"
+}

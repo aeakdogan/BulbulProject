@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/62QZPjYQMoo5g56FP9Webq",
+      "id" : "62QZPjYQMoo5g56FP9Webq",
+      "name" : "Laleh",
+      "type" : "artist",
+      "uri" : "spotify:artist:62QZPjYQMoo5g56FP9Webq"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3oLebuTDn4c2i4G0F7kFtz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3oLebuTDn4c2i4G0F7kFtz",
+    "id" : "3oLebuTDn4c2i4G0F7kFtz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3c18d11e13979ac94e18a747322391f8282cba1e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/28fe56ab5dfa61eee0d882d03f3274405f1bab1c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bade4b1fc3a4e43795cb52017bd77000b21ce37d",
+      "width" : 64
+    } ],
+    "name" : "Boom",
+    "type" : "album",
+    "uri" : "spotify:album:3oLebuTDn4c2i4G0F7kFtz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/62QZPjYQMoo5g56FP9Webq",
+    "id" : "62QZPjYQMoo5g56FP9Webq",
+    "name" : "Laleh",
+    "type" : "artist",
+    "uri" : "spotify:artist:62QZPjYQMoo5g56FP9Webq"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217786,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71306751"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/65Ve3XLglW5xSYVFnnm5mI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/65Ve3XLglW5xSYVFnnm5mI",
+  "id" : "65Ve3XLglW5xSYVFnnm5mI",
+  "name" : "Some Die Young",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/29bd309573b800a571c2c476deaf4affa48bc552?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:65Ve3XLglW5xSYVFnnm5mI"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+      "id" : "7Ln80lUS6He07XvHI8qqHH",
+      "name" : "Arctic Monkeys",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ZnOKznPxZTWuMusR4tmGG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ZnOKznPxZTWuMusR4tmGG",
+    "id" : "5ZnOKznPxZTWuMusR4tmGG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f6642b542263544435d3973788f313be8e74283a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/eabf79cee67598e2db15e853bfd462fb8c5161f3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5ea855ec135915c3bc3ed41440fc4ac6d35465fd",
+      "width" : 64
+    } ],
+    "name" : "Humbug",
+    "type" : "album",
+    "uri" : "spotify:album:5ZnOKznPxZTWuMusR4tmGG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+    "id" : "7Ln80lUS6He07XvHI8qqHH",
+    "name" : "Arctic Monkeys",
+    "type" : "artist",
+    "uri" : "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0900443"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/21sa0bWFqOFEYPtahlt4Lt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/21sa0bWFqOFEYPtahlt4Lt",
+  "id" : "21sa0bWFqOFEYPtahlt4Lt",
+  "name" : "Crying Lightning",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9484b9d394aa8c504c86a151c77df01c122a2bf8?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:21sa0bWFqOFEYPtahlt4Lt"
+}

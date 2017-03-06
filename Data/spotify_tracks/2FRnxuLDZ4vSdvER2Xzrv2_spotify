@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+      "id" : "7y97mc3bZRFXzT2szRM4L4",
+      "name" : "Frédéric Chopin",
+      "type" : "artist",
+      "uri" : "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3KKWiT9fSN5F19NQLOrNog"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3KKWiT9fSN5F19NQLOrNog",
+    "id" : "3KKWiT9fSN5F19NQLOrNog",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bc6650dd3f1464a4cba658bbe654c1a4707229f5",
+      "width" : 633
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/19793c1fa473614fe526da07fbebc3da8c1df08d",
+      "width" : 297
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bd14dd953e13c622b1b4565502225aa62be1c5f1",
+      "width" : 63
+    } ],
+    "name" : "Chopin Masterworks Volume 1",
+    "type" : "album",
+    "uri" : "spotify:album:3KKWiT9fSN5F19NQLOrNog"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+    "id" : "7y97mc3bZRFXzT2szRM4L4",
+    "name" : "Frédéric Chopin",
+    "type" : "artist",
+    "uri" : "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3i67VvAwUlOKZa3fc75zs8",
+    "id" : "3i67VvAwUlOKZa3fc75zs8",
+    "name" : "Elisabeth Leonskaja",
+    "type" : "artist",
+    "uri" : "spotify:artist:3i67VvAwUlOKZa3fc75zs8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 309640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEA809200801"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2FRnxuLDZ4vSdvER2Xzrv2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2FRnxuLDZ4vSdvER2Xzrv2",
+  "id" : "2FRnxuLDZ4vSdvER2Xzrv2",
+  "name" : "Chopin : Nocturne No.2 in E flat major Op.9 No.2",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bfd5a585bcb7ce53a7c7d371ea763ba8f5c8a2bc?cid=null",
+  "track_number" : 18,
+  "type" : "track",
+  "uri" : "spotify:track:2FRnxuLDZ4vSdvER2Xzrv2"
+}

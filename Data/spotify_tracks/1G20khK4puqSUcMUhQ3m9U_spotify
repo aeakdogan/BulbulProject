@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0jMze9qUrWL2ZCy3FQlYRi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0jMze9qUrWL2ZCy3FQlYRi",
+    "id" : "0jMze9qUrWL2ZCy3FQlYRi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/66f91bbfb62db79eeb0a38a2df51422e41150018",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f2a40a23fab58823b1ae41f1557f3b9adb63915",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/873bf3190cc2de06fc75d7fbc6ffdfaa35236ec4",
+      "width" : 64
+    } ],
+    "name" : "Sleep: 111 Pieces Of Classical Music For Bedtime",
+    "type" : "album",
+    "uri" : "spotify:album:0jMze9qUrWL2ZCy3FQlYRi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2uFUBdaVGtyMqckSeCl0Qj",
+    "id" : "2uFUBdaVGtyMqckSeCl0Qj",
+    "name" : "Ludovico Einaudi",
+    "type" : "artist",
+    "uri" : "spotify:artist:2uFUBdaVGtyMqckSeCl0Qj"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/63L6NSMY7isrNaziNX2YXX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/63L6NSMY7isrNaziNX2YXX",
+    "id" : "63L6NSMY7isrNaziNX2YXX",
+    "name" : "Myleene Klass",
+    "type" : "artist",
+    "uri" : "spotify:artist:63L6NSMY7isrNaziNX2YXX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 310688,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEKZ0400082"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1G20khK4puqSUcMUhQ3m9U"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1G20khK4puqSUcMUhQ3m9U",
+  "id" : "1G20khK4puqSUcMUhQ3m9U",
+  "name" : "Le Onde",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6d77067e9ebe695fd80798d8a66af298e0342d05?cid=null",
+  "track_number" : 18,
+  "type" : "track",
+  "uri" : "spotify:track:1G20khK4puqSUcMUhQ3m9U"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+      "id" : "2cCUtGK9sDU2EoElnk0GNB",
+      "name" : "The National",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3hvjTC9OSOrf6SFQmfqLNX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3hvjTC9OSOrf6SFQmfqLNX",
+    "id" : "3hvjTC9OSOrf6SFQmfqLNX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4c2463e87018e17684321fe3f81e5c18a9e9f1c9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/70f190de55b59593b416c79e1676f738f025b25e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f72e56739bdfd62b99163ec1a9a0f09710ee6e34",
+      "width" : 64
+    } ],
+    "name" : "Boxer",
+    "type" : "album",
+    "uri" : "spotify:album:3hvjTC9OSOrf6SFQmfqLNX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+    "id" : "2cCUtGK9sDU2EoElnk0GNB",
+    "name" : "The National",
+    "type" : "artist",
+    "uri" : "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 212533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAZP0700009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7y883gLtmTAfkM4RvAsTA1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7y883gLtmTAfkM4RvAsTA1",
+  "id" : "7y883gLtmTAfkM4RvAsTA1",
+  "name" : "Apartment Story",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/59fa42699b99a8811a6a75be0a0bb8aadecddd17?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:7y883gLtmTAfkM4RvAsTA1"
+}

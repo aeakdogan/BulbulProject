@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+      "id" : "36E7oYfz3LLRto6l2WmDcD",
+      "name" : "Pulp",
+      "type" : "artist",
+      "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4KVaUWQnFQSqP3lBViJTO5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4KVaUWQnFQSqP3lBViJTO5",
+    "id" : "4KVaUWQnFQSqP3lBViJTO5",
+    "images" : [ {
+      "height" : 576,
+      "url" : "https://i.scdn.co/image/ccf3adc9aa228216f48306868b86dd08a65b45b0",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/d7b3f233c3f3fecc8faac876fbf6eca32a0ddd15",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/922ace4130afa7e684ad565cb533089ebc46f4a1",
+      "width" : 64
+    } ],
+    "name" : "This Is Hardcore Deluxe Edition (2 CD )",
+    "type" : "album",
+    "uri" : "spotify:album:4KVaUWQnFQSqP3lBViJTO5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+    "id" : "36E7oYfz3LLRto6l2WmDcD",
+    "name" : "Pulp",
+    "type" : "artist",
+    "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 228706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN9700194"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Ooz66bXxrfCyvrMo5YdbJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Ooz66bXxrfCyvrMo5YdbJ",
+  "id" : "3Ooz66bXxrfCyvrMo5YdbJ",
+  "name" : "Laughing Boy",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6767abfaa50863a40330d65f191e15ea406f0f14?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3Ooz66bXxrfCyvrMo5YdbJ"
+}

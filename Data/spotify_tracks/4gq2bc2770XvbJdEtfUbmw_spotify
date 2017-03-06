@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+      "id" : "4Z8W4fKeB5YxbusRsdQVPb",
+      "name" : "Radiohead",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/36lJLPoPPOKNFddTAcirnc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/36lJLPoPPOKNFddTAcirnc",
+    "id" : "36lJLPoPPOKNFddTAcirnc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/02c6980b9f9e2a85342eb460adc5bd3df6505165",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/342d56d055ced7a9af1fc23b9dbca93ccc3088cb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8f2bffde33e37b3e07eec080d0c7e5bb9f0da7d2",
+      "width" : 64
+    } ],
+    "name" : "In Rainbows Disk 2",
+    "type" : "album",
+    "uri" : "spotify:album:36lJLPoPPOKNFddTAcirnc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+    "id" : "4Z8W4fKeB5YxbusRsdQVPb",
+    "name" : "Radiohead",
+    "type" : "artist",
+    "uri" : "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 228236,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBSTK0700013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4gq2bc2770XvbJdEtfUbmw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4gq2bc2770XvbJdEtfUbmw",
+  "id" : "4gq2bc2770XvbJdEtfUbmw",
+  "name" : "Go Slowly",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d32b77ca482d23cb35585ac7b8004b18135ea3f7?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4gq2bc2770XvbJdEtfUbmw"
+}

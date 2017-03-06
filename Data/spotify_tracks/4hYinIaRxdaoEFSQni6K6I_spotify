@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jiOHVFdVQjbSDVeC7RgY7",
+      "id" : "3jiOHVFdVQjbSDVeC7RgY7",
+      "name" : "Wir Sind Helden",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jiOHVFdVQjbSDVeC7RgY7"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4JG9iU4O51GLseXEWAkZkw",
+    "id" : "4JG9iU4O51GLseXEWAkZkw",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/a6ced06607d422daf4f705ef3168040eb7a13717",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d86d1222500ed0c01c42ed5cebea96f4988cbddc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a496e25b0c8787c9c41315778692f686132a50e1",
+      "width" : 64
+    } ],
+    "name" : "Von Hier An Blind",
+    "type" : "album",
+    "uri" : "spotify:album:4JG9iU4O51GLseXEWAkZkw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3jiOHVFdVQjbSDVeC7RgY7",
+    "id" : "3jiOHVFdVQjbSDVeC7RgY7",
+    "name" : "Wir Sind Helden",
+    "type" : "artist",
+    "uri" : "spotify:artist:3jiOHVFdVQjbSDVeC7RgY7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 236200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEG120500064"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4hYinIaRxdaoEFSQni6K6I",
+  "id" : "4hYinIaRxdaoEFSQni6K6I",
+  "name" : "Nur Ein Wort",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/06fb69849c47ea8435a848ae90a165c1c516b520?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:4hYinIaRxdaoEFSQni6K6I"
+}

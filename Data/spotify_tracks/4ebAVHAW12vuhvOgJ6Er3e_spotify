@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1D8wAaE3QG9CJQJvAKMJhZ",
+      "id" : "1D8wAaE3QG9CJQJvAKMJhZ",
+      "name" : "Kreng",
+      "type" : "artist",
+      "uri" : "spotify:artist:1D8wAaE3QG9CJQJvAKMJhZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5L708hViRryx1gl2LmM3vR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5L708hViRryx1gl2LmM3vR",
+    "id" : "5L708hViRryx1gl2LmM3vR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2c0121b68ceaf1bc741316b599231729e0c046f4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bd61eade0a56409031df52678e569cc6ec3aea6d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9dbdda56510042d72a8db5e63947e036e4478408",
+      "width" : 64
+    } ],
+    "name" : "Grimoire",
+    "type" : "album",
+    "uri" : "spotify:album:5L708hViRryx1gl2LmM3vR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1D8wAaE3QG9CJQJvAKMJhZ",
+    "id" : "1D8wAaE3QG9CJQJvAKMJhZ",
+    "name" : "Kreng",
+    "type" : "artist",
+    "uri" : "spotify:artist:1D8wAaE3QG9CJQJvAKMJhZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 275880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX260990557"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4ebAVHAW12vuhvOgJ6Er3e"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4ebAVHAW12vuhvOgJ6Er3e",
+  "id" : "4ebAVHAW12vuhvOgJ6Er3e",
+  "name" : "Ballet Van De Bloedhoeren",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6d136b3d171e44f234e42c5eb524ec44521a75ad?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:4ebAVHAW12vuhvOgJ6Er3e"
+}

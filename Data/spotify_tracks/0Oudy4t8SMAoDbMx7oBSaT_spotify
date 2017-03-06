@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7HeVXdOdMhLslVputGTZFQ",
+      "id" : "7HeVXdOdMhLslVputGTZFQ",
+      "name" : "Timber Timbre",
+      "type" : "artist",
+      "uri" : "spotify:artist:7HeVXdOdMhLslVputGTZFQ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Q9apubviMMbPFyRNpITzg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Q9apubviMMbPFyRNpITzg",
+    "id" : "6Q9apubviMMbPFyRNpITzg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b93e51e555376d9a648544873e1f43b891789c3f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/afee822209b3c2af40b2a64f4764cc40ee58ddc6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9960d623696c2a887ba3ac793f1392658b6fdb5f",
+      "width" : 64
+    } ],
+    "name" : "Timber Timbre",
+    "type" : "album",
+    "uri" : "spotify:album:6Q9apubviMMbPFyRNpITzg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7HeVXdOdMhLslVputGTZFQ",
+    "id" : "7HeVXdOdMhLslVputGTZFQ",
+    "name" : "Timber Timbre",
+    "type" : "artist",
+    "uri" : "spotify:artist:7HeVXdOdMhLslVputGTZFQ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CASA70919286"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Oudy4t8SMAoDbMx7oBSaT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Oudy4t8SMAoDbMx7oBSaT",
+  "id" : "0Oudy4t8SMAoDbMx7oBSaT",
+  "name" : "Demon Host",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dae0cae96ead110fd1f733eedd84bd24bb162016?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0Oudy4t8SMAoDbMx7oBSaT"
+}

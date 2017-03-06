@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5mi7FKaWE5CtcOjdyxScA7",
+    "id" : "5mi7FKaWE5CtcOjdyxScA7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a145d387ca9eb57b4786a0ec44778d3e43cc500e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5ba08c03ef6dd7cbdacc3674b37a9058d6fbcecc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c003642e28027d0a9b60eac692adfceeda3de77a",
+      "width" : 64
+    } ],
+    "name" : "Chocolate Starfish And The Hot Dog Flavored Water",
+    "type" : "album",
+    "uri" : "spotify:album:5mi7FKaWE5CtcOjdyxScA7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+    "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+    "name" : "Limp Bizkit",
+    "type" : "artist",
+    "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 420266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71509903"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1a3RarhRdrNSTEEERYEFJn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1a3RarhRdrNSTEEERYEFJn",
+  "id" : "1a3RarhRdrNSTEEERYEFJn",
+  "name" : "Boiler",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/478343f8cf3737ef232e32ab971e4e6a3f328305?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:1a3RarhRdrNSTEEERYEFJn"
+}

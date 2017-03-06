@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1lIbZfJvMQRqzhtCQsg5EI",
+      "id" : "1lIbZfJvMQRqzhtCQsg5EI",
+      "name" : "Cem Karaca",
+      "type" : "artist",
+      "uri" : "spotify:artist:1lIbZfJvMQRqzhtCQsg5EI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0wLkYWeG7gdfMfDrZodRa3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0wLkYWeG7gdfMfDrZodRa3",
+    "id" : "0wLkYWeG7gdfMfDrZodRa3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/46f07e6b22ef8f3c664d3a7794196b69fd5888bb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6d1139d2422361ce99f4a32a9b50c47722a7a32b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/48f9347d7a696da90229f370cf71cc62e7052f8e",
+      "width" : 64
+    } ],
+    "name" : "Anısına, Vol. 2",
+    "type" : "album",
+    "uri" : "spotify:album:0wLkYWeG7gdfMfDrZodRa3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1lIbZfJvMQRqzhtCQsg5EI",
+    "id" : "1lIbZfJvMQRqzhtCQsg5EI",
+    "name" : "Cem Karaca",
+    "type" : "artist",
+    "uri" : "spotify:artist:1lIbZfJvMQRqzhtCQsg5EI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 249960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR0800600623"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0dcbScOq3h2kP4mPIVql6d"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0dcbScOq3h2kP4mPIVql6d",
+  "id" : "0dcbScOq3h2kP4mPIVql6d",
+  "name" : "Deniz Üstü Köpürür",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e1f18f41391fa32ed071163ec77ae0d5a295ee91?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0dcbScOq3h2kP4mPIVql6d"
+}

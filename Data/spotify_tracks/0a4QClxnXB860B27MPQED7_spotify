@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/71jzN72g8qWMCMkWC5p1Z0",
+      "id" : "71jzN72g8qWMCMkWC5p1Z0",
+      "name" : "Alexandre Desplat",
+      "type" : "artist",
+      "uri" : "spotify:artist:71jzN72g8qWMCMkWC5p1Z0"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3gADDsHlueojnCqtrn7N6K"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3gADDsHlueojnCqtrn7N6K",
+    "id" : "3gADDsHlueojnCqtrn7N6K",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f2dec6245bf0ffd85e47d524347c7a26905fff34",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/52bec824605cbf9f24bfab19c71d322250fb7a97",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/99b2a2c74d2991a5393cc72e1664b4bf56c45bc8",
+      "width" : 64
+    } ],
+    "name" : "Fantastic Mr. Fox - Additional Music From The Original Score By Alexandre Desplat - The Abbey Road Mixes",
+    "type" : "album",
+    "uri" : "spotify:album:3gADDsHlueojnCqtrn7N6K"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/71jzN72g8qWMCMkWC5p1Z0",
+    "id" : "71jzN72g8qWMCMkWC5p1Z0",
+    "name" : "Alexandre Desplat",
+    "type" : "artist",
+    "uri" : "spotify:artist:71jzN72g8qWMCMkWC5p1Z0"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 82080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFM91000036"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0a4QClxnXB860B27MPQED7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0a4QClxnXB860B27MPQED7",
+  "id" : "0a4QClxnXB860B27MPQED7",
+  "name" : "Mr. Fox's Promenade",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1a18f314b8d6ca279722190a011f15e238e4500b?cid=null",
+  "track_number" : 16,
+  "type" : "track",
+  "uri" : "spotify:track:0a4QClxnXB860B27MPQED7"
+}

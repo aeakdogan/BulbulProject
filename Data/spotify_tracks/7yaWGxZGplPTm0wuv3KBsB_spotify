@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+      "id" : "34UhPkLbtFKRq3nmfFgejG",
+      "name" : "Mogwai",
+      "type" : "artist",
+      "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5adTU5fGiMKVJDazJhpW5l"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5adTU5fGiMKVJDazJhpW5l",
+    "id" : "5adTU5fGiMKVJDazJhpW5l",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a221fa573979e570bd09b307f2090006c0702a6c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e8b6b8aa1ecdafe8f71245e86ddceb1392a3422",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3ae8b3a9c40cf89e48d40856edd6d5f968b331a1",
+      "width" : 64
+    } ],
+    "name" : "Young Team",
+    "type" : "album",
+    "uri" : "spotify:album:5adTU5fGiMKVJDazJhpW5l"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+    "id" : "34UhPkLbtFKRq3nmfFgejG",
+    "name" : "Mogwai",
+    "type" : "artist",
+    "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 700386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCGR9760004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7yaWGxZGplPTm0wuv3KBsB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7yaWGxZGplPTm0wuv3KBsB",
+  "id" : "7yaWGxZGplPTm0wuv3KBsB",
+  "name" : "Like Herod",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8e80e2a347df5f41605cf729d7da581a4137c170?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7yaWGxZGplPTm0wuv3KBsB"
+}

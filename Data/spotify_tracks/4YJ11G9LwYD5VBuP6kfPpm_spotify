@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/53rc6pkiasAEVxO1VPpVOy",
+      "id" : "53rc6pkiasAEVxO1VPpVOy",
+      "name" : "Annie Ross",
+      "type" : "artist",
+      "uri" : "spotify:artist:53rc6pkiasAEVxO1VPpVOy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2qI1B6VbX2oLI3PJ8iBvpP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2qI1B6VbX2oLI3PJ8iBvpP",
+    "id" : "2qI1B6VbX2oLI3PJ8iBvpP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3942be62a1f5d5f395ab0c787255d0bbf0a818ee",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1e54280d679c820aba7774513886ccdf61c37a91",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/19bdcfbaf6beca0d7ba2b5625e0a384566074c12",
+      "width" : 64
+    } ],
+    "name" : "Handful of Songs",
+    "type" : "album",
+    "uri" : "spotify:album:2qI1B6VbX2oLI3PJ8iBvpP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/53rc6pkiasAEVxO1VPpVOy",
+    "id" : "53rc6pkiasAEVxO1VPpVOy",
+    "name" : "Annie Ross",
+    "type" : "artist",
+    "uri" : "spotify:artist:53rc6pkiasAEVxO1VPpVOy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 178706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBSUW0703649"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4YJ11G9LwYD5VBuP6kfPpm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4YJ11G9LwYD5VBuP6kfPpm",
+  "id" : "4YJ11G9LwYD5VBuP6kfPpm",
+  "name" : "All The Things You Are",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/022b122b5e4ff9b5edead03ba5d712ee4476b8cc?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4YJ11G9LwYD5VBuP6kfPpm"
+}

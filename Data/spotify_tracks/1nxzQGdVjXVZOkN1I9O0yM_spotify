@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1hZh9cvN8Gt8liejqje1J0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1hZh9cvN8Gt8liejqje1J0",
+      "id" : "1hZh9cvN8Gt8liejqje1J0",
+      "name" : "Kjell Anderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:1hZh9cvN8Gt8liejqje1J0"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1E2IAlRQJJQgpCrJqwwnjW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1E2IAlRQJJQgpCrJqwwnjW",
+    "id" : "1E2IAlRQJJQgpCrJqwwnjW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a0517bf332dde84f0044795993012e86c9a73ded",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9496c83bf448f39741f858961e530bf5a660e0c0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/76d7ce30c75a37f27597bf5adf04e913a79292e7",
+      "width" : 64
+    } ],
+    "name" : "Full Manifest",
+    "type" : "album",
+    "uri" : "spotify:album:1E2IAlRQJJQgpCrJqwwnjW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1hZh9cvN8Gt8liejqje1J0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1hZh9cvN8Gt8liejqje1J0",
+    "id" : "1hZh9cvN8Gt8liejqje1J0",
+    "name" : "Kjell Anderson",
+    "type" : "artist",
+    "uri" : "spotify:artist:1hZh9cvN8Gt8liejqje1J0"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 137822,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABR1391451"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1nxzQGdVjXVZOkN1I9O0yM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1nxzQGdVjXVZOkN1I9O0yM",
+  "id" : "1nxzQGdVjXVZOkN1I9O0yM",
+  "name" : "Swing St.",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fe6926a4de8881e027a1a30577d6a46501af55a3?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1nxzQGdVjXVZOkN1I9O0yM"
+}

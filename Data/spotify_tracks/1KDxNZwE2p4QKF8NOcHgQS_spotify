@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi",
+      "id" : "3inCNiUr4R6XQ3W43s9Aqi",
+      "name" : "Pavement",
+      "type" : "artist",
+      "uri" : "spotify:artist:3inCNiUr4R6XQ3W43s9Aqi"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3EdtFWfLmkT5mC1QFXgqIW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3EdtFWfLmkT5mC1QFXgqIW",
+    "id" : "3EdtFWfLmkT5mC1QFXgqIW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/48cd4f163846dce22639af492b10328fffe2ca78",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/77266524fe4fee6d4f69d19c43c74f3b499610a4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/14eb9d2720d603b20c951a512b3c117aa6163bfe",
+      "width" : 64
+    } ],
+    "name" : "Slanted & Enchanted (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:3EdtFWfLmkT5mC1QFXgqIW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi",
+    "id" : "3inCNiUr4R6XQ3W43s9Aqi",
+    "name" : "Pavement",
+    "type" : "artist",
+    "uri" : "spotify:artist:3inCNiUr4R6XQ3W43s9Aqi"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 75733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD0255707"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1KDxNZwE2p4QKF8NOcHgQS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1KDxNZwE2p4QKF8NOcHgQS",
+  "id" : "1KDxNZwE2p4QKF8NOcHgQS",
+  "name" : "Chesley's Little Wrists",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c251fb26d811dd2879c13e90bba6a70ce3d23950?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:1KDxNZwE2p4QKF8NOcHgQS"
+}

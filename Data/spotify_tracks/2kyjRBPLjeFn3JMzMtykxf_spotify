@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FgHxjkVqU6e5tPQIxSVfn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7FgHxjkVqU6e5tPQIxSVfn",
+      "id" : "7FgHxjkVqU6e5tPQIxSVfn",
+      "name" : "The Crow",
+      "type" : "artist",
+      "uri" : "spotify:artist:7FgHxjkVqU6e5tPQIxSVfn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3y7Mwv7UqhABQqsGlzSL6n",
+    "id" : "3y7Mwv7UqhABQqsGlzSL6n",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c4b985d18f486f8ee47268298713269562351bb1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d9abdc6ac597da4ee97ea5da8c93a4efffae645d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b2bd55cd8c2c3f442e9ad992ff9c5bd27005bf12",
+      "width" : 64
+    } ],
+    "name" : "The Crow Original Motion Picture Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:3y7Mwv7UqhABQqsGlzSL6n"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0rpMdBzQXf7aYRnu5fDBJy",
+    "id" : "0rpMdBzQXf7aYRnu5fDBJy",
+    "name" : "Violent Femmes",
+    "type" : "artist",
+    "uri" : "spotify:artist:0rpMdBzQXf7aYRnu5fDBJy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 251706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20180659"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2kyjRBPLjeFn3JMzMtykxf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2kyjRBPLjeFn3JMzMtykxf",
+  "id" : "2kyjRBPLjeFn3JMzMtykxf",
+  "name" : "Color Me Once",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0fd2d17958b0ddc25ea54263f1c78718f80bdc99?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2kyjRBPLjeFn3JMzMtykxf"
+}

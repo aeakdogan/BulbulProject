@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+      "id" : "1KCSPY1glIKqW2TotWuXOR",
+      "name" : "P!nk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Ozsat2gzIj9uXd6JMwYXz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Ozsat2gzIj9uXd6JMwYXz",
+    "id" : "6Ozsat2gzIj9uXd6JMwYXz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d570714cefcb89fbd9e44a3096f864d36a006656",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e82172c086e11ee20a11748087d79be88348e0c0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1cdf698e0988d12cea7fd2754a6686d8f3c62a93",
+      "width" : 64
+    } ],
+    "name" : "Raise Your Glass",
+    "type" : "album",
+    "uri" : "spotify:album:6Ozsat2gzIj9uXd6JMwYXz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+    "id" : "1KCSPY1glIKqW2TotWuXOR",
+    "name" : "P!nk",
+    "type" : "artist",
+    "uri" : "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 203333,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USLF21000090"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/12lZTPlXwUtrQuhEty6098"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/12lZTPlXwUtrQuhEty6098",
+  "id" : "12lZTPlXwUtrQuhEty6098",
+  "name" : "Raise Your Glass",
+  "popularity" : 65,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a2ca4557b2df821561618d096a5b08f21374d95e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:12lZTPlXwUtrQuhEty6098"
+}

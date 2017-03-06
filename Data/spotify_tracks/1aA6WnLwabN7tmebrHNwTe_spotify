@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/450iujbtN6XgiA9pv6fVZz",
+      "id" : "450iujbtN6XgiA9pv6fVZz",
+      "name" : "Razorlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:450iujbtN6XgiA9pv6fVZz"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7oJr7Lbqyri5yWHU4021Xt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7oJr7Lbqyri5yWHU4021Xt",
+    "id" : "7oJr7Lbqyri5yWHU4021Xt",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/04500409942de121f3f31266916ac043c0e0da4f",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/b7e9ee177b148bf10034a73b73c07447e935b7ad",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4007c4f037a053ffa37146c0e99aeed78c95ca55",
+      "width" : 64
+    } ],
+    "name" : "Razorlight",
+    "type" : "album",
+    "uri" : "spotify:album:7oJr7Lbqyri5yWHU4021Xt"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/450iujbtN6XgiA9pv6fVZz",
+    "id" : "450iujbtN6XgiA9pv6fVZz",
+    "name" : "Razorlight",
+    "type" : "artist",
+    "uri" : "spotify:artist:450iujbtN6XgiA9pv6fVZz"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 170813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70601503"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1aA6WnLwabN7tmebrHNwTe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1aA6WnLwabN7tmebrHNwTe",
+  "id" : "1aA6WnLwabN7tmebrHNwTe",
+  "name" : "Kirby's House",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c1bbb220fe52193b6d45bf1e260bce8ed193d97d?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1aA6WnLwabN7tmebrHNwTe"
+}

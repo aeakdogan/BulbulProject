@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1k3M9rRscrnQWWtFpPkajL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1k3M9rRscrnQWWtFpPkajL",
+      "id" : "1k3M9rRscrnQWWtFpPkajL",
+      "name" : "Magic Wands",
+      "type" : "artist",
+      "uri" : "spotify:artist:1k3M9rRscrnQWWtFpPkajL"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/58DxUyWz88RQPpOIeDFmF6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/58DxUyWz88RQPpOIeDFmF6",
+    "id" : "58DxUyWz88RQPpOIeDFmF6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/955467708133e0d9a09715603923efecf0d8d463",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/02c1de342106658de487c07adad1f36962f8e795",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/75a6227fceedeb636bbb7c454bc71da05a71570d",
+      "width" : 64
+    } ],
+    "name" : "Aloha Moon (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:58DxUyWz88RQPpOIeDFmF6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1k3M9rRscrnQWWtFpPkajL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1k3M9rRscrnQWWtFpPkajL",
+    "id" : "1k3M9rRscrnQWWtFpPkajL",
+    "name" : "Magic Wands",
+    "type" : "artist",
+    "uri" : "spotify:artist:1k3M9rRscrnQWWtFpPkajL"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 255746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USN2F0810108"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0viKqTynovmAmEQJbXIY44"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0viKqTynovmAmEQJbXIY44",
+  "id" : "0viKqTynovmAmEQJbXIY44",
+  "name" : "Space",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/25f06d81f66a54e11aebcd6c12b5659555731efe?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:0viKqTynovmAmEQJbXIY44"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3tDMOJUJM9pavqkUdO2q9D"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3tDMOJUJM9pavqkUdO2q9D",
+    "id" : "3tDMOJUJM9pavqkUdO2q9D",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/946c9cc39b894dc4864129ca3a45aebe3cdbdca8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1eb8c51cfae4680a42e3e58089f8c9c42f501cc2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4e906f7ff97497dc9efcbaf3a41b4e24e4765816",
+      "width" : 64
+    } ],
+    "name" : "Check The Water",
+    "type" : "album",
+    "uri" : "spotify:album:3tDMOJUJM9pavqkUdO2q9D"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0pGsKU60aKi7MK8rQENGwZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0pGsKU60aKi7MK8rQENGwZ",
+    "id" : "0pGsKU60aKi7MK8rQENGwZ",
+    "name" : "Hanne Hukkelberg",
+    "type" : "artist",
+    "uri" : "spotify:artist:0pGsKU60aKi7MK8rQENGwZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 250866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOPRR0301021"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6a8QMBzQk85DIpunQpFsgX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6a8QMBzQk85DIpunQpFsgX",
+  "id" : "6a8QMBzQk85DIpunQpFsgX",
+  "name" : "Ease",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9d99da9101882704c36376319e2117363740daa4?cid=null",
+  "track_number" : 27,
+  "type" : "track",
+  "uri" : "spotify:track:6a8QMBzQk85DIpunQpFsgX"
+}

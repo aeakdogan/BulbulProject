@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+      "id" : "4KWTAlx2RvbpseOGMEmROg",
+      "name" : "R.E.M.",
+      "type" : "artist",
+      "uri" : "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3UvVHQ31PhSMtI2GIS91Lz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3UvVHQ31PhSMtI2GIS91Lz",
+    "id" : "3UvVHQ31PhSMtI2GIS91Lz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a79480c6e7fd78f3d0befcba5c83528271ec131d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e28cae8cf6478ee7788bb93440285353efe5934f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d2a05fc1222c78e55cf31f79acd572bbcbe852a",
+      "width" : 64
+    } ],
+    "name" : "In Time: The Best Of R.E.M. 1988-2003",
+    "type" : "album",
+    "uri" : "spotify:album:3UvVHQ31PhSMtI2GIS91Lz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+    "id" : "4KWTAlx2RvbpseOGMEmROg",
+    "name" : "R.E.M.",
+    "type" : "artist",
+    "uri" : "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 216373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19800949"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6gFAQZmcmdI80BGex9pOJP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6gFAQZmcmdI80BGex9pOJP",
+  "id" : "6gFAQZmcmdI80BGex9pOJP",
+  "name" : "At My Most Beautiful",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a6ec9cc1c6601467e7f74e62493c6fb039e376b0?cid=null",
+  "track_number" : 17,
+  "type" : "track",
+  "uri" : "spotify:track:6gFAQZmcmdI80BGex9pOJP"
+}

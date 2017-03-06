@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+      "id" : "2PfBzriIMRsCXPDtSy9vg8",
+      "name" : "Rufus Wainwright",
+      "type" : "artist",
+      "uri" : "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5CAT7o1EpDKqLjE1x5tgqU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5CAT7o1EpDKqLjE1x5tgqU",
+    "id" : "5CAT7o1EpDKqLjE1x5tgqU",
+    "images" : [ {
+      "height" : 633,
+      "url" : "https://i.scdn.co/image/0c39460c007ffc0af5a5ae0f36ac25d42039a171",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/3f84c1d607533f47723e9d5d7100c2c148bc8212",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/42273c6403799faf85ea99618109cc2566326c00",
+      "width" : 64
+    } ],
+    "name" : "Poses",
+    "type" : "album",
+    "uri" : "spotify:album:5CAT7o1EpDKqLjE1x5tgqU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+    "id" : "2PfBzriIMRsCXPDtSy9vg8",
+    "name" : "Rufus Wainwright",
+    "type" : "artist",
+    "uri" : "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 250893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDW10200012"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6GGA4fEbHJop37OOjK2kFR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6GGA4fEbHJop37OOjK2kFR",
+  "id" : "6GGA4fEbHJop37OOjK2kFR",
+  "name" : "Across The Universe - Remix",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/46ad8fbf49527e105ccd38a916e9936948dc5312?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:6GGA4fEbHJop37OOjK2kFR"
+}

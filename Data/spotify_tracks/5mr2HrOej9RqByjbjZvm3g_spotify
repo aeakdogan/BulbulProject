@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50Gx1SNB4vH2V7peIiYD4S",
+      "id" : "50Gx1SNB4vH2V7peIiYD4S",
+      "name" : "Emika",
+      "type" : "artist",
+      "uri" : "spotify:artist:50Gx1SNB4vH2V7peIiYD4S"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2SccZOg3VmKUaJQGMDoovZ",
+    "id" : "2SccZOg3VmKUaJQGMDoovZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6cb089c8e64e42417925ea70f73483356da055d5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1868b2e29ced7b051473f05a6820799299de61c7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e3d354a3a96018dd5193c0b30e31507c2325a281",
+      "width" : 64
+    } ],
+    "name" : "Dva",
+    "type" : "album",
+    "uri" : "spotify:album:2SccZOg3VmKUaJQGMDoovZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+    },
+    "href" : "https://api.spotify.com/v1/artists/50Gx1SNB4vH2V7peIiYD4S",
+    "id" : "50Gx1SNB4vH2V7peIiYD4S",
+    "name" : "Emika",
+    "type" : "artist",
+    "uri" : "spotify:artist:50Gx1SNB4vH2V7peIiYD4S"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 238000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCFB1300903"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5mr2HrOej9RqByjbjZvm3g"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5mr2HrOej9RqByjbjZvm3g",
+  "id" : "5mr2HrOej9RqByjbjZvm3g",
+  "name" : "She Beats",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3e37fe71832795c190d470f9665c06a975f3bbbc?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5mr2HrOej9RqByjbjZvm3g"
+}

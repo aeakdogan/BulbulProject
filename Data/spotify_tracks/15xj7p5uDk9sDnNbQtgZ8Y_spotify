@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+      "id" : "2yMN0IP20GOaN6q0p0zL5k",
+      "name" : "Tarkan",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7iAF2p1sEHQ6ixJHRdiTXn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7iAF2p1sEHQ6ixJHRdiTXn",
+    "id" : "7iAF2p1sEHQ6ixJHRdiTXn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cb19b9f82147bf60becbf12915f4f347729f5fe4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/30bae90eb9731cc5ba2183a2dcd0075838b71f97",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c880d0e018e026f85e966949477f456a72d2d17c",
+      "width" : 64
+    } ],
+    "name" : "Dudu",
+    "type" : "album",
+    "uri" : "spotify:album:7iAF2p1sEHQ6ixJHRdiTXn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+    "id" : "2yMN0IP20GOaN6q0p0zL5k",
+    "name" : "Tarkan",
+    "type" : "artist",
+    "uri" : "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 277916,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR0250600039"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/15xj7p5uDk9sDnNbQtgZ8Y"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/15xj7p5uDk9sDnNbQtgZ8Y",
+  "id" : "15xj7p5uDk9sDnNbQtgZ8Y",
+  "name" : "Dudu",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f4220eede7b888d650f4d67a0ff1922ddb4f54f1?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:15xj7p5uDk9sDnNbQtgZ8Y"
+}

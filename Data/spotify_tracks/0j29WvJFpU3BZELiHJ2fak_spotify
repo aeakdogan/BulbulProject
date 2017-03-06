@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ike8zNDzesj4aOoyZMKho"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ike8zNDzesj4aOoyZMKho",
+      "id" : "0ike8zNDzesj4aOoyZMKho",
+      "name" : "Fréhel",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ike8zNDzesj4aOoyZMKho"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/74z3rq7MRocAVvPJgI40JL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/74z3rq7MRocAVvPJgI40JL",
+    "id" : "74z3rq7MRocAVvPJgI40JL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8b2b67fe66733c4318c09a14bf99b7607ece558d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b82c9765f72f0063ceeb5753caf63969b150bee3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c43cb05b8570fd8654363c795207f15420dab3db",
+      "width" : 64
+    } ],
+    "name" : "La java bleue de Fréhel",
+    "type" : "album",
+    "uri" : "spotify:album:74z3rq7MRocAVvPJgI40JL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ike8zNDzesj4aOoyZMKho"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ike8zNDzesj4aOoyZMKho",
+    "id" : "0ike8zNDzesj4aOoyZMKho",
+    "name" : "Fréhel",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ike8zNDzesj4aOoyZMKho"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 170640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V80010424"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0j29WvJFpU3BZELiHJ2fak"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0j29WvJFpU3BZELiHJ2fak",
+  "id" : "0j29WvJFpU3BZELiHJ2fak",
+  "name" : "La der des der",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1b474d23d35a8d40b1ece155e29ba6b540893ea7?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0j29WvJFpU3BZELiHJ2fak"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q9eHzvlqNeRK43CWfHHJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q9eHzvlqNeRK43CWfHHJQ",
+      "id" : "3q9eHzvlqNeRK43CWfHHJQ",
+      "name" : "Husky Rescue",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q9eHzvlqNeRK43CWfHHJQ"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5fQ5ftHHbbfnpbsgHp7qFm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5fQ5ftHHbbfnpbsgHp7qFm",
+    "id" : "5fQ5ftHHbbfnpbsgHp7qFm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/92c8b8642b4882e530418da8e7445de025959727",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5ce48371be712aed6a341466664ab41791eab508",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/042bcc709e2eb502e055a65b53327b85efdf9cee",
+      "width" : 64
+    } ],
+    "name" : "Country Falls",
+    "type" : "album",
+    "uri" : "spotify:album:5fQ5ftHHbbfnpbsgHp7qFm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3q9eHzvlqNeRK43CWfHHJQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3q9eHzvlqNeRK43CWfHHJQ",
+    "id" : "3q9eHzvlqNeRK43CWfHHJQ",
+    "name" : "Husky Rescue",
+    "type" : "artist",
+    "uri" : "spotify:artist:3q9eHzvlqNeRK43CWfHHJQ"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 292773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCFV0400009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5xL0AplqJ7UwIv793zQbZ3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5xL0AplqJ7UwIv793zQbZ3",
+  "id" : "5xL0AplqJ7UwIv793zQbZ3",
+  "name" : "New Light of Tomorrow",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7eb8051028e14d3ea490cc02aadb27b18c387f0c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5xL0AplqJ7UwIv793zQbZ3"
+}

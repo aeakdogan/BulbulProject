@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5AVGx9Dhw7OLeJ5at3Y19f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5AVGx9Dhw7OLeJ5at3Y19f",
+      "id" : "5AVGx9Dhw7OLeJ5at3Y19f",
+      "name" : "Valgeir Sigurðsson",
+      "type" : "artist",
+      "uri" : "spotify:artist:5AVGx9Dhw7OLeJ5at3Y19f"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/15IXLG7Sgp2kXiCkaTYAnI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/15IXLG7Sgp2kXiCkaTYAnI",
+    "id" : "15IXLG7Sgp2kXiCkaTYAnI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a4e662c4a3f5833af17225b0cd9a256f6beeb21a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/deb31c850505d0e19333689f2a3048b66018a3a9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b7aa5f80df6ea20db0e55d734c604a7f39c9bd0b",
+      "width" : 64
+    } ],
+    "name" : "Architecture of Loss",
+    "type" : "album",
+    "uri" : "spotify:album:15IXLG7Sgp2kXiCkaTYAnI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5AVGx9Dhw7OLeJ5at3Y19f"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5AVGx9Dhw7OLeJ5at3Y19f",
+    "id" : "5AVGx9Dhw7OLeJ5at3Y19f",
+    "name" : "Valgeir Sigurðsson",
+    "type" : "artist",
+    "uri" : "spotify:artist:5AVGx9Dhw7OLeJ5at3Y19f"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 140112,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ISW211200210"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0sX4AfHWHFUEN2zyNe730t"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0sX4AfHWHFUEN2zyNe730t",
+  "id" : "0sX4AfHWHFUEN2zyNe730t",
+  "name" : "Gone Not Forgotten",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4cf3cb4ac8340978c7820d4b05ff5070bb5030d4?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:0sX4AfHWHFUEN2zyNe730t"
+}

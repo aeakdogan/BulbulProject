@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78OKNrjc3BvniYTqvpOp6P",
+      "id" : "78OKNrjc3BvniYTqvpOp6P",
+      "name" : "Zola Jesus",
+      "type" : "artist",
+      "uri" : "spotify:artist:78OKNrjc3BvniYTqvpOp6P"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6pNiIBygFJkX0FQpLPKS7s"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6pNiIBygFJkX0FQpLPKS7s",
+    "id" : "6pNiIBygFJkX0FQpLPKS7s",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e9184f5b711be13b4c393f132f2cfbba6881899a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6f459a8d08b08b60937a90cf92faa1eba267b28c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a1ff26d3559afdf3f9f2cf5f9b812760c529d27d",
+      "width" : 64
+    } ],
+    "name" : "Go (Blank Sea) [Remixes]",
+    "type" : "album",
+    "uri" : "spotify:album:6pNiIBygFJkX0FQpLPKS7s"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+    },
+    "href" : "https://api.spotify.com/v1/artists/78OKNrjc3BvniYTqvpOp6P",
+    "id" : "78OKNrjc3BvniYTqvpOp6P",
+    "name" : "Zola Jesus",
+    "type" : "artist",
+    "uri" : "spotify:artist:78OKNrjc3BvniYTqvpOp6P"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 210627,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBR8R1400063"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/40TbUjJS8svZG5UIMeZvDS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/40TbUjJS8svZG5UIMeZvDS",
+  "id" : "40TbUjJS8svZG5UIMeZvDS",
+  "name" : "Go (Blank Sea) - Diplo Remix",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1f49c4cfa88ea1224e58cd9aef17c115c2be0f3a?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:40TbUjJS8svZG5UIMeZvDS"
+}

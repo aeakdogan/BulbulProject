@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UEYawMcp2M4JFoXVOtZEq",
+      "id" : "6UEYawMcp2M4JFoXVOtZEq",
+      "name" : "Dustin O'Halloran",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UEYawMcp2M4JFoXVOtZEq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6hwU096huQ5VEpHeF70Nyb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6hwU096huQ5VEpHeF70Nyb",
+    "id" : "6hwU096huQ5VEpHeF70Nyb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/01fea587ef947a9ae1ad0af861aa6555555667b7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bb949ae9a82a9c055b05e600b9c7fd0c2e538a3c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/741e0d1d4d30cbb48fd576c188c0c5f7768cb943",
+      "width" : 64
+    } ],
+    "name" : "Vorleben",
+    "type" : "album",
+    "uri" : "spotify:album:6hwU096huQ5VEpHeF70Nyb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6UEYawMcp2M4JFoXVOtZEq",
+    "id" : "6UEYawMcp2M4JFoXVOtZEq",
+    "name" : "Dustin O'Halloran",
+    "type" : "artist",
+    "uri" : "spotify:artist:6UEYawMcp2M4JFoXVOtZEq"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 176920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDBY1000242"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6dc6JPZ8dd0jvcKDHVTJ3G"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6dc6JPZ8dd0jvcKDHVTJ3G",
+  "id" : "6dc6JPZ8dd0jvcKDHVTJ3G",
+  "name" : "Opus 15",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/91ef2b85ba3dcb73dc696d291a02a0fb26dc9722?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6dc6JPZ8dd0jvcKDHVTJ3G"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+      "id" : "2cCUtGK9sDU2EoElnk0GNB",
+      "name" : "The National",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2JhR4tjuc3MIKa8v2JaKze",
+    "id" : "2JhR4tjuc3MIKa8v2JaKze",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f76c15133710b5ef4ccf37039c57382ced66c262",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3a824e6dda8bf6c43d1ac7f3aa7cc387415e58b3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9d04eee0794cf8d6e43ca4b1c937ef33a1ccc512",
+      "width" : 64
+    } ],
+    "name" : "Trouble Will Find Me",
+    "type" : "album",
+    "uri" : "spotify:album:2JhR4tjuc3MIKa8v2JaKze"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+    "id" : "2cCUtGK9sDU2EoElnk0GNB",
+    "name" : "The National",
+    "type" : "artist",
+    "uri" : "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 276200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAFL1300066"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/193ZaXTaD0dPz66pUYS3SQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/193ZaXTaD0dPz66pUYS3SQ",
+  "id" : "193ZaXTaD0dPz66pUYS3SQ",
+  "name" : "Pink Rabbits",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/29a2febdc6b8325baa118502142509a8c6784300?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:193ZaXTaD0dPz66pUYS3SQ"
+}

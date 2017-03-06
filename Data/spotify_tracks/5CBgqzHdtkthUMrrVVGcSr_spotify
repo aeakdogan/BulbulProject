@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5uCXJWo3WoXgqv3T1RlAbh",
+      "id" : "5uCXJWo3WoXgqv3T1RlAbh",
+      "name" : "Katie Melua",
+      "type" : "artist",
+      "uri" : "spotify:artist:5uCXJWo3WoXgqv3T1RlAbh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1jXh51p38DdhFDWyUuRpBj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1jXh51p38DdhFDWyUuRpBj",
+    "id" : "1jXh51p38DdhFDWyUuRpBj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1d174bbb507a4690f18226c38f639308086df7e2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1fcc1370bf57f5cd9f98817ad97b393a2bf16ea2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/57e6a6dec5e41af2af3b2553c62a59592ebb5347",
+      "width" : 64
+    } ],
+    "name" : "The Katie Melua Collection",
+    "type" : "album",
+    "uri" : "spotify:album:1jXh51p38DdhFDWyUuRpBj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5uCXJWo3WoXgqv3T1RlAbh",
+    "id" : "5uCXJWo3WoXgqv3T1RlAbh",
+    "name" : "Katie Melua",
+    "type" : "artist",
+    "uri" : "spotify:artist:5uCXJWo3WoXgqv3T1RlAbh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 192400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDVY0700268"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5CBgqzHdtkthUMrrVVGcSr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5CBgqzHdtkthUMrrVVGcSr",
+  "id" : "5CBgqzHdtkthUMrrVVGcSr",
+  "name" : "Mary Pickford - Used To Eat Roses",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a4a69d7c9f4cd43313eb6269584f3653e4b465e4?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5CBgqzHdtkthUMrrVVGcSr"
+}

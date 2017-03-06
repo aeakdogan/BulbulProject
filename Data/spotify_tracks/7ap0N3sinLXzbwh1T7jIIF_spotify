@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2n6FviARgtjjimZXu18uRM",
+      "id" : "2n6FviARgtjjimZXu18uRM",
+      "name" : "Le Tigre",
+      "type" : "artist",
+      "uri" : "spotify:artist:2n6FviARgtjjimZXu18uRM"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2FEvlkKxysgljyanzduLFe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2FEvlkKxysgljyanzduLFe",
+    "id" : "2FEvlkKxysgljyanzduLFe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eed0b8df674ae15511e4639561201da309f04043",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c08958275daf59733229b87e71c3891e310c0b27",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/382c6823435b33ad018fa570833071e37abf24e6",
+      "width" : 64
+    } ],
+    "name" : "This Island",
+    "type" : "album",
+    "uri" : "spotify:album:2FEvlkKxysgljyanzduLFe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2n6FviARgtjjimZXu18uRM",
+    "id" : "2n6FviARgtjjimZXu18uRM",
+    "name" : "Le Tigre",
+    "type" : "artist",
+    "uri" : "spotify:artist:2n6FviARgtjjimZXu18uRM"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 169413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUR10400845"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ap0N3sinLXzbwh1T7jIIF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ap0N3sinLXzbwh1T7jIIF",
+  "id" : "7ap0N3sinLXzbwh1T7jIIF",
+  "name" : "Don't Drink Poison",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/62b86f87d60b6e802a706857b07fb6574fc74374?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7ap0N3sinLXzbwh1T7jIIF"
+}

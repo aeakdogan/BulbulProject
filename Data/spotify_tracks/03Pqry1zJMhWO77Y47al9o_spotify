@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+      "id" : "0oSGxfWSnnOXhD2fKuz2Gy",
+      "name" : "David Bowie",
+      "type" : "artist",
+      "uri" : "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6FZqshBCagLrprFeXQqgOP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6FZqshBCagLrprFeXQqgOP",
+    "id" : "6FZqshBCagLrprFeXQqgOP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/670833ee6faeafa4b05dc0854f1af01d15d539a1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f34ef94c76d5c82d704885d5b7dd88eff5f3f3f0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/81abcabc91c7eca49ebc6af5c63f309aeaec4055",
+      "width" : 64
+    } ],
+    "name" : "'hours...'",
+    "type" : "album",
+    "uri" : "spotify:album:6FZqshBCagLrprFeXQqgOP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+    "id" : "0oSGxfWSnnOXhD2fKuz2Gy",
+    "name" : "David Bowie",
+    "type" : "artist",
+    "uri" : "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 424573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRF39900005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/03Pqry1zJMhWO77Y47al9o"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/03Pqry1zJMhWO77Y47al9o",
+  "id" : "03Pqry1zJMhWO77Y47al9o",
+  "name" : "If I'm Dreaming My Life",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b4aa3b9a65c7f6b75d8630e3b9a0b95393f17ca1?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:03Pqry1zJMhWO77Y47al9o"
+}

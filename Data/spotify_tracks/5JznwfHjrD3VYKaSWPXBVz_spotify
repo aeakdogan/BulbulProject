@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0mgbAj6btHW215UxhLq1AV",
+      "id" : "0mgbAj6btHW215UxhLq1AV",
+      "name" : "Veronica Falls",
+      "type" : "artist",
+      "uri" : "spotify:artist:0mgbAj6btHW215UxhLq1AV"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7D721ZI6TcX4cJgXd9hno3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7D721ZI6TcX4cJgXd9hno3",
+    "id" : "7D721ZI6TcX4cJgXd9hno3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f2a1a9a30921ebd350ad8c9e98237482103aa9b3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/397a8a5d14413ae85d4fcc486ab3138608eeb27f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b6e45ee98f976d9531c875426d34dce3d568c19d",
+      "width" : 64
+    } ],
+    "name" : "Veronica Falls",
+    "type" : "album",
+    "uri" : "spotify:album:7D721ZI6TcX4cJgXd9hno3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0mgbAj6btHW215UxhLq1AV",
+    "id" : "0mgbAj6btHW215UxhLq1AV",
+    "name" : "Veronica Falls",
+    "type" : "artist",
+    "uri" : "spotify:artist:0mgbAj6btHW215UxhLq1AV"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 239066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBRP1130101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5JznwfHjrD3VYKaSWPXBVz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5JznwfHjrD3VYKaSWPXBVz",
+  "id" : "5JznwfHjrD3VYKaSWPXBVz",
+  "name" : "Found Love In A Graveyard",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/116ed902d2f995d540682f34a878a4ceb34fbf31?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5JznwfHjrD3VYKaSWPXBVz"
+}

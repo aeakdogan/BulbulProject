@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ASGmWCYupa0CXGtsDdYSI",
+      "id" : "6ASGmWCYupa0CXGtsDdYSI",
+      "name" : "Jamie Lidell",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ASGmWCYupa0CXGtsDdYSI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6eF9NbDs1uiIuhNJMLy1oM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6eF9NbDs1uiIuhNJMLy1oM",
+    "id" : "6eF9NbDs1uiIuhNJMLy1oM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0cd3e6cce675d557a22ad8e979e24335a03f5bff",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/53652852d5b8faec8922f4fa002facb5665b1ed9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/543e537f2f8f7441401adad74e2a2ae26f907df3",
+      "width" : 64
+    } ],
+    "name" : "Multiply",
+    "type" : "album",
+    "uri" : "spotify:album:6eF9NbDs1uiIuhNJMLy1oM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6ASGmWCYupa0CXGtsDdYSI",
+    "id" : "6ASGmWCYupa0CXGtsDdYSI",
+    "name" : "Jamie Lidell",
+    "type" : "artist",
+    "uri" : "spotify:artist:6ASGmWCYupa0CXGtsDdYSI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 266680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPW0500026"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1EZtB75i7g87yZzJucQKOq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1EZtB75i7g87yZzJucQKOq",
+  "id" : "1EZtB75i7g87yZzJucQKOq",
+  "name" : "Multiply",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0540ffc38e20728899311e02a5a6e97aacfb0b15?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1EZtB75i7g87yZzJucQKOq"
+}

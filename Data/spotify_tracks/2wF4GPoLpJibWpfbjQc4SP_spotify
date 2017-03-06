@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68"
+      },
+      "href" : "https://api.spotify.com/v1/artists/77Rj6PHmQJFb8nbSH62y68",
+      "id" : "77Rj6PHmQJFb8nbSH62y68",
+      "name" : "Owen Pallett",
+      "type" : "artist",
+      "uri" : "spotify:artist:77Rj6PHmQJFb8nbSH62y68"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1VWQxLabA378NtSe57gaW4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1VWQxLabA378NtSe57gaW4",
+    "id" : "1VWQxLabA378NtSe57gaW4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8b60e55fd06c673c02fb70fda8b3c9113c78c39d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f4c8bb83d0356a8a8f78dac0b6c9825da88298a4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/84c4f6276d0e0e05335ae692fe6cd3935abb3420",
+      "width" : 64
+    } ],
+    "name" : "In Conflict",
+    "type" : "album",
+    "uri" : "spotify:album:1VWQxLabA378NtSe57gaW4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68"
+    },
+    "href" : "https://api.spotify.com/v1/artists/77Rj6PHmQJFb8nbSH62y68",
+    "id" : "77Rj6PHmQJFb8nbSH62y68",
+    "name" : "Owen Pallett",
+    "type" : "artist",
+    "uri" : "spotify:artist:77Rj6PHmQJFb8nbSH62y68"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 262840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1300565"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2wF4GPoLpJibWpfbjQc4SP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2wF4GPoLpJibWpfbjQc4SP",
+  "id" : "2wF4GPoLpJibWpfbjQc4SP",
+  "name" : "The Sky Behind the Flag",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0551dc9fc8eca83ced4f1cfd6083bc3356e6a445?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2wF4GPoLpJibWpfbjQc4SP"
+}

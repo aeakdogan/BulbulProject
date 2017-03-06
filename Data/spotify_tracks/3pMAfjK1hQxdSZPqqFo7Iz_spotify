@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ZWXLLwGOaB1sRjYnGRySk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ZWXLLwGOaB1sRjYnGRySk",
+    "id" : "5ZWXLLwGOaB1sRjYnGRySk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8c9d1f4bfede20aee2f6ed33a95682d03a574f8a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/26a32bbb04ea61c1efd2a61417355a951e6fa258",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e573c8a6b847804ae1cd08decaf3e4e525aa461a",
+      "width" : 64
+    } ],
+    "name" : "The Best of Acuarela Songs",
+    "type" : "album",
+    "uri" : "spotify:album:5ZWXLLwGOaB1sRjYnGRySk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6sIZakv0uaA3qQmOOPTOQt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6sIZakv0uaA3qQmOOPTOQt",
+    "id" : "6sIZakv0uaA3qQmOOPTOQt",
+    "name" : "Piano Magic",
+    "type" : "artist",
+    "uri" : "spotify:artist:6sIZakv0uaA3qQmOOPTOQt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 259813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES7120400063"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3pMAfjK1hQxdSZPqqFo7Iz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3pMAfjK1hQxdSZPqqFo7Iz",
+  "id" : "3pMAfjK1hQxdSZPqqFo7Iz",
+  "name" : "Theory of Ghosts",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/27e37828fca2192c57727b6d7560915e37aff8be?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3pMAfjK1hQxdSZPqqFo7Iz"
+}

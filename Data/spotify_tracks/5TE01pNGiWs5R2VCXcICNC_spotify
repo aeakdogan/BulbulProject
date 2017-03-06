@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6jK3EnGSFLfoMQVnxonnIy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6jK3EnGSFLfoMQVnxonnIy",
+      "id" : "6jK3EnGSFLfoMQVnxonnIy",
+      "name" : "Rafter",
+      "type" : "artist",
+      "uri" : "spotify:artist:6jK3EnGSFLfoMQVnxonnIy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6FnJeMt6l12gnzdj7EnC1E"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6FnJeMt6l12gnzdj7EnC1E",
+    "id" : "6FnJeMt6l12gnzdj7EnC1E",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b5494594a617fd83d2d6f9d0e5a3cf09754fe795",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9dd21a5ae6b7a5cf79596d4cafd63de593888ecd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/123d2c6154c3aed02ef0ddefd9375574f9fd7358",
+      "width" : 64
+    } ],
+    "name" : "Animal Feelings",
+    "type" : "album",
+    "uri" : "spotify:album:6FnJeMt6l12gnzdj7EnC1E"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6jK3EnGSFLfoMQVnxonnIy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6jK3EnGSFLfoMQVnxonnIy",
+    "id" : "6jK3EnGSFLfoMQVnxonnIy",
+    "name" : "Rafter",
+    "type" : "artist",
+    "uri" : "spotify:artist:6jK3EnGSFLfoMQVnxonnIy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 206386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US64G1006901"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5TE01pNGiWs5R2VCXcICNC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5TE01pNGiWs5R2VCXcICNC",
+  "id" : "5TE01pNGiWs5R2VCXcICNC",
+  "name" : "No Fucking Around",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3faa9dd2b443dfe4d6b0e6be2f50c454be460c23?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5TE01pNGiWs5R2VCXcICNC"
+}

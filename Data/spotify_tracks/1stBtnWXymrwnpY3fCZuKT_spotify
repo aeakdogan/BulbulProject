@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iejrAcqxYoVgyxp6zkWgs",
+      "id" : "3iejrAcqxYoVgyxp6zkWgs",
+      "name" : "Shed Seven",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iejrAcqxYoVgyxp6zkWgs"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4LtKB45GXvEsbZV9tKEEn3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4LtKB45GXvEsbZV9tKEEn3",
+    "id" : "4LtKB45GXvEsbZV9tKEEn3",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/eb99baae0ce96ef9f1f8485b273e7e677e5a255b",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/7bd8d8453abac23490454efc829806d1e24bb103",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/fce0be56be113b6a95a7f0ec7cde5ee5539ed5f6",
+      "width" : 64
+    } ],
+    "name" : "Going For Gold",
+    "type" : "album",
+    "uri" : "spotify:album:4LtKB45GXvEsbZV9tKEEn3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iejrAcqxYoVgyxp6zkWgs",
+    "id" : "3iejrAcqxYoVgyxp6zkWgs",
+    "name" : "Shed Seven",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iejrAcqxYoVgyxp6zkWgs"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAKW9500391"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1stBtnWXymrwnpY3fCZuKT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1stBtnWXymrwnpY3fCZuKT",
+  "id" : "1stBtnWXymrwnpY3fCZuKT",
+  "name" : "Where Have You Been Tonight",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b31fc6f5ee6ec6494ff8eccb65095120fe6685a3?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:1stBtnWXymrwnpY3fCZuKT"
+}

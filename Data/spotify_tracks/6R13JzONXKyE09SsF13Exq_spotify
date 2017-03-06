@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1BNQnTVxfQqeMxr6xBi8X6",
+      "id" : "1BNQnTVxfQqeMxr6xBi8X6",
+      "name" : "Puggy",
+      "type" : "artist",
+      "uri" : "spotify:artist:1BNQnTVxfQqeMxr6xBi8X6"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5awPoMIU2fk8VsRCyrioDy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5awPoMIU2fk8VsRCyrioDy",
+    "id" : "5awPoMIU2fk8VsRCyrioDy",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/bb05166e16b9866a2fbc407fea402bf774513e28",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/2502c36aae5cfe2d0b70fb3e734b32851051b033",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1e028fd65c82203f0af579d759c75b511edde0d7",
+      "width" : 64
+    } ],
+    "name" : "Something You Might Like",
+    "type" : "album",
+    "uri" : "spotify:album:5awPoMIU2fk8VsRCyrioDy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1BNQnTVxfQqeMxr6xBi8X6",
+    "id" : "1BNQnTVxfQqeMxr6xBi8X6",
+    "name" : "Puggy",
+    "type" : "artist",
+    "uri" : "spotify:artist:1BNQnTVxfQqeMxr6xBi8X6"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 168213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRUM70903144"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6R13JzONXKyE09SsF13Exq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6R13JzONXKyE09SsF13Exq",
+  "id" : "6R13JzONXKyE09SsF13Exq",
+  "name" : "You Call Me Up",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3887fa1fd299781f995744be41df04b3d8e5c0d8?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6R13JzONXKyE09SsF13Exq"
+}

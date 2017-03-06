@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ",
+      "id" : "1YZEoYFXx4AxVv13OiOPvZ",
+      "name" : "Devendra Banhart",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0TrxxY9oApTHWo8QZv8MbI",
+    "id" : "0TrxxY9oApTHWo8QZv8MbI",
+    "images" : [ {
+      "height" : 573,
+      "url" : "https://i.scdn.co/image/704680a0be7b8db0090ea14d2d714f37344c3a47",
+      "width" : 640
+    }, {
+      "height" : 268,
+      "url" : "https://i.scdn.co/image/53dc366371a11f8ba8e53b60bfa04bd048e45120",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/ae30e763c1497814982cc680061f754c62952c5b",
+      "width" : 64
+    } ],
+    "name" : "What Will We Be (Standard)",
+    "type" : "album",
+    "uri" : "spotify:album:0TrxxY9oApTHWo8QZv8MbI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ",
+    "id" : "1YZEoYFXx4AxVv13OiOPvZ",
+    "name" : "Devendra Banhart",
+    "type" : "artist",
+    "uri" : "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 185786,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE10901340"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/17XvbAd3K1GOjWy5uQvK2U",
+  "id" : "17XvbAd3K1GOjWy5uQvK2U",
+  "name" : "Baby",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/985b135eb9d8f1cf41f8d9433e4b4f8b3f297176?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:17XvbAd3K1GOjWy5uQvK2U"
+}

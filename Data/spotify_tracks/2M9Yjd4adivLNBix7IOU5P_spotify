@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ORSNkNYSzva169PBZCzvy",
+      "id" : "4ORSNkNYSzva169PBZCzvy",
+      "name" : "Andrew Hill",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ORSNkNYSzva169PBZCzvy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6VoLNIAzQdRw4zrNIQ5Y4S"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6VoLNIAzQdRw4zrNIQ5Y4S",
+    "id" : "6VoLNIAzQdRw4zrNIQ5Y4S",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/797a99b34f31b8cd3ab51bdd41964790afe30fa0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/943b3cf8b6fdcb2b3ef074f27003034712b6b404",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/15b9ded6fa5893196c13564874469e86a5634b7e",
+      "width" : 64
+    } ],
+    "name" : "Les trinitaires",
+    "type" : "album",
+    "uri" : "spotify:album:6VoLNIAzQdRw4zrNIQ5Y4S"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4ORSNkNYSzva169PBZCzvy",
+    "id" : "4ORSNkNYSzva169PBZCzvy",
+    "name" : "Andrew Hill",
+    "type" : "artist",
+    "uri" : "spotify:artist:4ORSNkNYSzva169PBZCzvy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 478240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V89804082"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2M9Yjd4adivLNBix7IOU5P"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2M9Yjd4adivLNBix7IOU5P",
+  "id" : "2M9Yjd4adivLNBix7IOU5P",
+  "name" : "Dusk (Take 1)",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ee4c83281a14369d4cd1cc5ac533a30d4599cd0c?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2M9Yjd4adivLNBix7IOU5P"
+}

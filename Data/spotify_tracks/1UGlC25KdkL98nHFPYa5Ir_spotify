@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/33w4SGHUMjgCaUEJCo7zsx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/33w4SGHUMjgCaUEJCo7zsx",
+      "id" : "33w4SGHUMjgCaUEJCo7zsx",
+      "name" : "Autistici",
+      "type" : "artist",
+      "uri" : "spotify:artist:33w4SGHUMjgCaUEJCo7zsx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7dKnCaD4DSCqKHsjMOVRtP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7dKnCaD4DSCqKHsjMOVRtP",
+    "id" : "7dKnCaD4DSCqKHsjMOVRtP",
+    "images" : [ {
+      "height" : 586,
+      "url" : "https://i.scdn.co/image/101b4840cf2e48337626df28ecd396c7f9992e72",
+      "width" : 640
+    }, {
+      "height" : 275,
+      "url" : "https://i.scdn.co/image/7a8c2cf52baa4848217a00f1f6bb7e9f6d7dc25f",
+      "width" : 300
+    }, {
+      "height" : 59,
+      "url" : "https://i.scdn.co/image/035ff6d9314cf222c5a686fabac47362c9de7885",
+      "width" : 64
+    } ],
+    "name" : "Volume Objects",
+    "type" : "album",
+    "uri" : "spotify:album:7dKnCaD4DSCqKHsjMOVRtP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/33w4SGHUMjgCaUEJCo7zsx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/33w4SGHUMjgCaUEJCo7zsx",
+    "id" : "33w4SGHUMjgCaUEJCo7zsx",
+    "name" : "Autistici",
+    "type" : "artist",
+    "uri" : "spotify:artist:33w4SGHUMjgCaUEJCo7zsx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 265080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US23K0700060"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1UGlC25KdkL98nHFPYa5Ir"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1UGlC25KdkL98nHFPYa5Ir",
+  "id" : "1UGlC25KdkL98nHFPYa5Ir",
+  "name" : "Broken Guitar, Discarded Violin",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/81cbd340550e095ecd4f3713abebfb6d8328605f?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1UGlC25KdkL98nHFPYa5Ir"
+}

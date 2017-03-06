@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+      "id" : "5l8VQNuIg0turYE1VtM9zV",
+      "name" : "Leonard Cohen",
+      "type" : "artist",
+      "uri" : "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7E4FRoU4Pk0WuO1SQMV1Bo",
+    "id" : "7E4FRoU4Pk0WuO1SQMV1Bo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/348be5a5a9567cc7bce2d64e6b5b0af073f8abc2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a4eeea60bc71e0acf114272564fac962fdb8ca34",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/05ccc6347258d485c692b32acf19b7a757388e97",
+      "width" : 64
+    } ],
+    "name" : "The Future",
+    "type" : "album",
+    "uri" : "spotify:album:7E4FRoU4Pk0WuO1SQMV1Bo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+    "id" : "5l8VQNuIg0turYE1VtM9zV",
+    "name" : "Leonard Cohen",
+    "type" : "artist",
+    "uri" : "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 401533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10023051"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5l8lYrnPEM1ln3J4XaTcy5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5l8lYrnPEM1ln3J4XaTcy5",
+  "id" : "5l8lYrnPEM1ln3J4XaTcy5",
+  "name" : "The Future",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/478e2d1bf8eb9502869372fee6bb5578a693fcd7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5l8lYrnPEM1ln3J4XaTcy5"
+}

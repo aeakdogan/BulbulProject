@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3KEb1kbIZN5jumsjFEWgSW",
+      "id" : "3KEb1kbIZN5jumsjFEWgSW",
+      "name" : "Tal Bachman",
+      "type" : "artist",
+      "uri" : "spotify:artist:3KEb1kbIZN5jumsjFEWgSW"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3v17hBg9lx5vdJQ8Dfr6OD",
+    "id" : "3v17hBg9lx5vdJQ8Dfr6OD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9df9b491a555a1a2db0ae3a6ec35477ca4cff52a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e248941b5defa74bcccf77676fecb0a6b4b24059",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/168c891c4021429ead115064acbaac5fe3d8e7e5",
+      "width" : 64
+    } ],
+    "name" : "Tal Bachman",
+    "type" : "album",
+    "uri" : "spotify:album:3v17hBg9lx5vdJQ8Dfr6OD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3KEb1kbIZN5jumsjFEWgSW",
+    "id" : "3KEb1kbIZN5jumsjFEWgSW",
+    "name" : "Tal Bachman",
+    "type" : "artist",
+    "uri" : "spotify:artist:3KEb1kbIZN5jumsjFEWgSW"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 224693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19802720"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7mnGQesk1TzQLzQ9bYWZPR",
+  "id" : "7mnGQesk1TzQLzQ9bYWZPR",
+  "name" : "She's so High",
+  "popularity" : 65,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4554c4f666f713acc1508fdd8f24c709f21e5fe8?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7mnGQesk1TzQLzQ9bYWZPR"
+}

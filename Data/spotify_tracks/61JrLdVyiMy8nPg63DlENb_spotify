@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+      "id" : "5aIqB5nVVvmFsvSdExz408",
+      "name" : "Johann Sebastian Bach",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Fu8GId2mQkNzqDbZbcDWM",
+      "id" : "7Fu8GId2mQkNzqDbZbcDWM",
+      "name" : "Ton Koopman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Fu8GId2mQkNzqDbZbcDWM"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3cjEFwzga0PPKWKPEiGPft"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3cjEFwzga0PPKWKPEiGPft",
+    "id" : "3cjEFwzga0PPKWKPEiGPft",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/3f5b157425451954f14c45e07341d8f01863e275",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/7531212a20b8a17ceb2a8bbbcdc7b5cf37a05fc1",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/09bca244773fd1f76e0879599ed61eb295f367d7",
+      "width" : 64
+    } ],
+    "name" : "Bach, J.S.: Toccatas & Fugues BWV 538; BWV 540; BWV 564; BWV 565",
+    "type" : "album",
+    "uri" : "spotify:album:3cjEFwzga0PPKWKPEiGPft"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+    "id" : "5aIqB5nVVvmFsvSdExz408",
+    "name" : "Johann Sebastian Bach",
+    "type" : "artist",
+    "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7Fu8GId2mQkNzqDbZbcDWM",
+    "id" : "7Fu8GId2mQkNzqDbZbcDWM",
+    "name" : "Ton Koopman",
+    "type" : "artist",
+    "uri" : "spotify:artist:7Fu8GId2mQkNzqDbZbcDWM"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 482066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEF058300330"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/61JrLdVyiMy8nPg63DlENb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/61JrLdVyiMy8nPg63DlENb",
+  "id" : "61JrLdVyiMy8nPg63DlENb",
+  "name" : "Toccata and Fugue in D minor, BWV 565",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/29d1d2d15bd3e9519e3d2715d4562f8566990275?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:61JrLdVyiMy8nPg63DlENb"
+}

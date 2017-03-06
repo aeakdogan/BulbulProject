@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fqgm8SaAvnQYoXnIf4RqU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5fqgm8SaAvnQYoXnIf4RqU",
+      "id" : "5fqgm8SaAvnQYoXnIf4RqU",
+      "name" : "Conjure One",
+      "type" : "artist",
+      "uri" : "spotify:artist:5fqgm8SaAvnQYoXnIf4RqU"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5P5vapwzsvGSgav2ftLNVo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5P5vapwzsvGSgav2ftLNVo",
+    "id" : "5P5vapwzsvGSgav2ftLNVo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8f13d4b7ed8f00a40864ddbd23245fd75ce77f5b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5f693e7a62e5f848dd8483f8e6a28963b9d24539",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5bc6024216987a5b761f78c41294d6b952138147",
+      "width" : 64
+    } ],
+    "name" : "Extraordinary Ways",
+    "type" : "album",
+    "uri" : "spotify:album:5P5vapwzsvGSgav2ftLNVo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/169JGfu1r1k0Mjop8kQBrk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/169JGfu1r1k0Mjop8kQBrk",
+    "id" : "169JGfu1r1k0Mjop8kQBrk",
+    "name" : "Conjure One Featuring Jane",
+    "type" : "artist",
+    "uri" : "spotify:artist:169JGfu1r1k0Mjop8kQBrk"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 278826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN110500147"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4OoKbic2cLMisxOlvRtul6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4OoKbic2cLMisxOlvRtul6",
+  "id" : "4OoKbic2cLMisxOlvRtul6",
+  "name" : "Extraordinary Way",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c39c8f44d38f8b756078c307e26ba99ff9dcadd1?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4OoKbic2cLMisxOlvRtul6"
+}

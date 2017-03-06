@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1aJ1OS2xdkKGvmLvkU9qn3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1aJ1OS2xdkKGvmLvkU9qn3",
+    "id" : "1aJ1OS2xdkKGvmLvkU9qn3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4192cae7dcf969f380e9046c82f241f571f74e49",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cc7f5392c95a56ec360af7ddb12f5779eaa3c5fe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/90471824adf13baca9ba9c009169151831f2e25a",
+      "width" : 64
+    } ],
+    "name" : "Fantastic Mr. Fox (Original Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:1aJ1OS2xdkKGvmLvkU9qn3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3DtSOCXYU6o4EV0K1NgIKq",
+    "id" : "3DtSOCXYU6o4EV0K1NgIKq",
+    "name" : "Art Tatum",
+    "type" : "artist",
+    "uri" : "spotify:artist:3DtSOCXYU6o4EV0K1NgIKq"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 87413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DKEFA0601123"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7FPSIZP73vAGNUK06yYXF7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7FPSIZP73vAGNUK06yYXF7",
+  "id" : "7FPSIZP73vAGNUK06yYXF7",
+  "name" : "Night and Day",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/12f941aa8d615f0cbf5c163a21801669d7d503cb?cid=null",
+  "track_number" : 17,
+  "type" : "track",
+  "uri" : "spotify:track:7FPSIZP73vAGNUK06yYXF7"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZUIJQdnxHYN1pssKbtwh5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ZUIJQdnxHYN1pssKbtwh5",
+      "id" : "2ZUIJQdnxHYN1pssKbtwh5",
+      "name" : "Avalanch",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZUIJQdnxHYN1pssKbtwh5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4vRitd3FSv9fPfqJUWbJii"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4vRitd3FSv9fPfqJUWbJii",
+    "id" : "4vRitd3FSv9fPfqJUWbJii",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/add8b0d42d1d2b1ab6763d6d4c5605c0aec4630e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dd927b4a3a70fa680f84c9b3c6faa795055f1f5c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b41e3ea4621b3194fdb1fb07c8add5d8e0cf8098",
+      "width" : 64
+    } ],
+    "name" : "Llanto de un Héroe",
+    "type" : "album",
+    "uri" : "spotify:album:4vRitd3FSv9fPfqJUWbJii"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ZUIJQdnxHYN1pssKbtwh5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ZUIJQdnxHYN1pssKbtwh5",
+    "id" : "2ZUIJQdnxHYN1pssKbtwh5",
+    "name" : "Avalanch",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ZUIJQdnxHYN1pssKbtwh5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 386386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES7421250999"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0DuhLgGEJz0bItaSvJuq52"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0DuhLgGEJz0bItaSvJuq52",
+  "id" : "0DuhLgGEJz0bItaSvJuq52",
+  "name" : "Torquemada",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b467483193b6f5ce9a6cb45c868a141643c349a9?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0DuhLgGEJz0bItaSvJuq52"
+}

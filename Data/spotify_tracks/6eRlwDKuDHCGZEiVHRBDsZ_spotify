@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1MDw0zSUU0XtI9D5JgEZH5",
+      "id" : "1MDw0zSUU0XtI9D5JgEZH5",
+      "name" : "The Veils",
+      "type" : "artist",
+      "uri" : "spotify:artist:1MDw0zSUU0XtI9D5JgEZH5"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/46ZBO4QEnzj8J0Kx9kU8MI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/46ZBO4QEnzj8J0Kx9kU8MI",
+    "id" : "46ZBO4QEnzj8J0Kx9kU8MI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9058e2e3c8da31993ef2b1fbd0b2b4d31396eb43",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/16daf80dd1456a565b4e41a5c6b1e7de1a7838dd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e1624c429a5431237be169d791c1ccef4124e29e",
+      "width" : 64
+    } ],
+    "name" : "Nux Vomica",
+    "type" : "album",
+    "uri" : "spotify:album:46ZBO4QEnzj8J0Kx9kU8MI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1MDw0zSUU0XtI9D5JgEZH5",
+    "id" : "1MDw0zSUU0XtI9D5JgEZH5",
+    "name" : "The Veils",
+    "type" : "artist",
+    "uri" : "spotify:artist:1MDw0zSUU0XtI9D5JgEZH5"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 205800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVZ0501575"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6eRlwDKuDHCGZEiVHRBDsZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6eRlwDKuDHCGZEiVHRBDsZ",
+  "id" : "6eRlwDKuDHCGZEiVHRBDsZ",
+  "name" : "Advice For Young Mothers To Be",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/70a412d9a0c33cf854c8f6aae7a88df9ff6af8b2?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6eRlwDKuDHCGZEiVHRBDsZ"
+}

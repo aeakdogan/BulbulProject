@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6AVLthptCPhfrxlHadOBJD",
+      "id" : "6AVLthptCPhfrxlHadOBJD",
+      "name" : "Jill Scott",
+      "type" : "artist",
+      "uri" : "spotify:artist:6AVLthptCPhfrxlHadOBJD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "SE", "SK", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/52UuhKOKOB1PWL1DVAC3os"
+    },
+    "href" : "https://api.spotify.com/v1/albums/52UuhKOKOB1PWL1DVAC3os",
+    "id" : "52UuhKOKOB1PWL1DVAC3os",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fe9d14de41038d874094ca6d1dd7ab18aee6c15d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9b790749ef2d39a8f4a0a3ddf237535a075fe404",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/04a299f7d3a5ebb4fca800bfc07895a85e1c6e02",
+      "width" : 64
+    } ],
+    "name" : "The Light Of The Sun",
+    "type" : "album",
+    "uri" : "spotify:album:52UuhKOKOB1PWL1DVAC3os"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6AVLthptCPhfrxlHadOBJD",
+    "id" : "6AVLthptCPhfrxlHadOBJD",
+    "name" : "Jill Scott",
+    "type" : "artist",
+    "uri" : "spotify:artist:6AVLthptCPhfrxlHadOBJD"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2DzRMyWgjuMbYvt5BLbpCo",
+    "id" : "2DzRMyWgjuMbYvt5BLbpCo",
+    "name" : "Anthony Hamilton",
+    "type" : "artist",
+    "uri" : "spotify:artist:2DzRMyWgjuMbYvt5BLbpCo"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "SE", "SK", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 275400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11100867"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/78mehkHd1WUDxhcLXkbrLb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/78mehkHd1WUDxhcLXkbrLb",
+  "id" : "78mehkHd1WUDxhcLXkbrLb",
+  "name" : "So In Love - feat. Anthony Hamilton",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d5ec8cf5bcd61bd04b89944590c976e7ee9fd787?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:78mehkHd1WUDxhcLXkbrLb"
+}

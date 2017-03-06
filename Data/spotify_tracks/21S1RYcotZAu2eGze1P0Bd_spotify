@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SjNVG3L9mgWQPsfp1sFDB",
+      "id" : "5SjNVG3L9mgWQPsfp1sFDB",
+      "name" : "Wye Oak",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SjNVG3L9mgWQPsfp1sFDB"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0otxl4NsvWDdckqTGX8tKn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0otxl4NsvWDdckqTGX8tKn",
+    "id" : "0otxl4NsvWDdckqTGX8tKn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6c42ae62b33c3a8d4b6bc7e07f0dadcda1908ae1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e1a0c4bf934705f74554076e2a1d720490b845c8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bbf7717384f1e45dd41425d03e015741c9a6163d",
+      "width" : 64
+    } ],
+    "name" : "Shriek",
+    "type" : "album",
+    "uri" : "spotify:album:0otxl4NsvWDdckqTGX8tKn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5SjNVG3L9mgWQPsfp1sFDB",
+    "id" : "5SjNVG3L9mgWQPsfp1sFDB",
+    "name" : "Wye Oak",
+    "type" : "artist",
+    "uri" : "spotify:artist:5SjNVG3L9mgWQPsfp1sFDB"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 261801,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG1451508"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/21S1RYcotZAu2eGze1P0Bd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/21S1RYcotZAu2eGze1P0Bd",
+  "id" : "21S1RYcotZAu2eGze1P0Bd",
+  "name" : "Paradise",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bfd89cb713f77710c8f9a508be2d5e3e33920189?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:21S1RYcotZAu2eGze1P0Bd"
+}

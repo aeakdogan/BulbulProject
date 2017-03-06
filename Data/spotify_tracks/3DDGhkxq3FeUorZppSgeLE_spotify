@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+      "id" : "13saZpZnCDWOI9D4IJhp1f",
+      "name" : "Lily Allen",
+      "type" : "artist",
+      "uri" : "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2BWTPrj9yBBC79fCByZ2Tv",
+    "id" : "2BWTPrj9yBBC79fCByZ2Tv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ad0e2386a3fccd35a86fec51a2746f8839dbee0a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9fa5bc70394122b2ecd9905f7a5610e96638a7b0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/817b17c164e9057016b6f51f1d73f3c33ab416c2",
+      "width" : 64
+    } ],
+    "name" : "Somewhere Only We Know",
+    "type" : "album",
+    "uri" : "spotify:album:2BWTPrj9yBBC79fCByZ2Tv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+    },
+    "href" : "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+    "id" : "13saZpZnCDWOI9D4IJhp1f",
+    "name" : "Lily Allen",
+    "type" : "artist",
+    "uri" : "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 208154,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE1301770"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3DDGhkxq3FeUorZppSgeLE",
+  "id" : "3DDGhkxq3FeUorZppSgeLE",
+  "name" : "Somewhere Only We Know",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bf3c873201949f2f5d378d22d2f4c03753ea72e9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3DDGhkxq3FeUorZppSgeLE"
+}

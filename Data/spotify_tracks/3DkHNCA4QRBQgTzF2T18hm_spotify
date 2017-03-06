@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+      "id" : "3jOstUTkEu2JkjvRdBA5Gu",
+      "name" : "Weezer",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1xpGyKyV26uPstk1Elgp9Q",
+    "id" : "1xpGyKyV26uPstk1Elgp9Q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0e9c778a26796b85b75514488f4a2cf1e6c4e2ad",
+      "width" : 637
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4533bf06ee95fc5a1c9e59980d19b9d842b13949",
+      "width" : 299
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a052ce31260b1c99cb8d6b42c934d3bf186e0cfc",
+      "width" : 64
+    } ],
+    "name" : "Weezer",
+    "type" : "album",
+    "uri" : "spotify:album:1xpGyKyV26uPstk1Elgp9Q"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+    "id" : "3jOstUTkEu2JkjvRdBA5Gu",
+    "name" : "Weezer",
+    "type" : "artist",
+    "uri" : "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 479066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF19962910"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3DkHNCA4QRBQgTzF2T18hm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3DkHNCA4QRBQgTzF2T18hm",
+  "id" : "3DkHNCA4QRBQgTzF2T18hm",
+  "name" : "Only In Dreams",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/71e206081876a986985c56a4f243d33c7db7c49d?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:3DkHNCA4QRBQgTzF2T18hm"
+}

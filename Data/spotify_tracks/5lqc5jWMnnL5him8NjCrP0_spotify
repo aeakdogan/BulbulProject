@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/31ooPZ5zIIegWN9rL5QSq0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/31ooPZ5zIIegWN9rL5QSq0",
+      "id" : "31ooPZ5zIIegWN9rL5QSq0",
+      "name" : "The Silver Seas",
+      "type" : "artist",
+      "uri" : "spotify:artist:31ooPZ5zIIegWN9rL5QSq0"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2TdA66GShYZ3lflgbZYLxe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2TdA66GShYZ3lflgbZYLxe",
+    "id" : "2TdA66GShYZ3lflgbZYLxe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/197dea42051f02af6eea51374f0bd8c6ede14649",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f4c222980c6e83ef47b236dee823eb246e92e1fa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/59998b92b263fa7d15031ded00e395aa0124f333",
+      "width" : 64
+    } ],
+    "name" : "High Society",
+    "type" : "album",
+    "uri" : "spotify:album:2TdA66GShYZ3lflgbZYLxe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/31ooPZ5zIIegWN9rL5QSq0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/31ooPZ5zIIegWN9rL5QSq0",
+    "id" : "31ooPZ5zIIegWN9rL5QSq0",
+    "name" : "The Silver Seas",
+    "type" : "artist",
+    "uri" : "spotify:artist:31ooPZ5zIIegWN9rL5QSq0"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 186880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBCS0700146"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5lqc5jWMnnL5him8NjCrP0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5lqc5jWMnnL5him8NjCrP0",
+  "id" : "5lqc5jWMnnL5him8NjCrP0",
+  "name" : "Catch Yer Own Train",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a95fef062ffc4a10cb3d9ff5d0cfa78c4f43fe7a?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5lqc5jWMnnL5him8NjCrP0"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5tJ8dG0l6HMBfHiQoTkOf8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5tJ8dG0l6HMBfHiQoTkOf8",
+      "id" : "5tJ8dG0l6HMBfHiQoTkOf8",
+      "name" : "Brett Bixby",
+      "type" : "artist",
+      "uri" : "spotify:artist:5tJ8dG0l6HMBfHiQoTkOf8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2KDHpdduJsx3VtVFTJqonq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2KDHpdduJsx3VtVFTJqonq",
+    "id" : "2KDHpdduJsx3VtVFTJqonq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/66f0793dec327f7495257921616359afb254d053",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a19f8a4ab04ea9af42fae64f98f754b4d1d30f76",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8b67df554e8aef328fe7ca6b460018bc9f0c1a1d",
+      "width" : 64
+    } ],
+    "name" : "City Lights",
+    "type" : "album",
+    "uri" : "spotify:album:2KDHpdduJsx3VtVFTJqonq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5tJ8dG0l6HMBfHiQoTkOf8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5tJ8dG0l6HMBfHiQoTkOf8",
+    "id" : "5tJ8dG0l6HMBfHiQoTkOf8",
+    "name" : "Brett Bixby",
+    "type" : "artist",
+    "uri" : "spotify:artist:5tJ8dG0l6HMBfHiQoTkOf8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 195040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm20604698"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0eGfCq3XivTX6UwU6MUOFV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0eGfCq3XivTX6UwU6MUOFV",
+  "id" : "0eGfCq3XivTX6UwU6MUOFV",
+  "name" : "Fireside",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/24bfdba61cfeb6417839e91c0dbdc00d5d70d47a?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0eGfCq3XivTX6UwU6MUOFV"
+}

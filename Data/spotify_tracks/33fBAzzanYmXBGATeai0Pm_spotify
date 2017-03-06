@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04weGKj3nAChyEmS9RFF5y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04weGKj3nAChyEmS9RFF5y",
+      "id" : "04weGKj3nAChyEmS9RFF5y",
+      "name" : "The Crookes",
+      "type" : "artist",
+      "uri" : "spotify:artist:04weGKj3nAChyEmS9RFF5y"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/63TADqGShLTlKW4cru7eUU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/63TADqGShLTlKW4cru7eUU",
+    "id" : "63TADqGShLTlKW4cru7eUU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8894457dd9bdc6dc5b5e6d2a78eb38d6bede6c07",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f75874f0a724c18125c4a9a656d71bf755cbe13",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aed34cd06d3551c4b8bdf4030b21bb31cfb12804",
+      "width" : 64
+    } ],
+    "name" : "Chasing After Ghosts",
+    "type" : "album",
+    "uri" : "spotify:album:63TADqGShLTlKW4cru7eUU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/04weGKj3nAChyEmS9RFF5y"
+    },
+    "href" : "https://api.spotify.com/v1/artists/04weGKj3nAChyEmS9RFF5y",
+    "id" : "04weGKj3nAChyEmS9RFF5y",
+    "name" : "The Crookes",
+    "type" : "artist",
+    "uri" : "spotify:artist:04weGKj3nAChyEmS9RFF5y"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 169293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBFFA1100004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/33fBAzzanYmXBGATeai0Pm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/33fBAzzanYmXBGATeai0Pm",
+  "id" : "33fBAzzanYmXBGATeai0Pm",
+  "name" : "Bright Young Things",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e9de09e918fb66b0544106587565f776c41bdc18?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:33fBAzzanYmXBGATeai0Pm"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+      "id" : "12Chz98pHFMPJEknJQMWvI",
+      "name" : "Muse",
+      "type" : "artist",
+      "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1AP6uGYHdakRgwuWQsP5pK",
+    "id" : "1AP6uGYHdakRgwuWQsP5pK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ecb609f80a433a4bcf06c42e69821772140f0632",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1df08bc3fac0a95d783417bddba0bba9a1da579d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ea2eabc1ce63838531d746386cac28d2f9e3ce4c",
+      "width" : 64
+    } ],
+    "name" : "Origin Of Symmetry (New 09 version)",
+    "type" : "album",
+    "uri" : "spotify:album:1AP6uGYHdakRgwuWQsP5pK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+    "id" : "12Chz98pHFMPJEknJQMWvI",
+    "name" : "Muse",
+    "type" : "artist",
+    "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 198800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVT0100018"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Yj4AP0JGQWierBFKdKVyS",
+  "id" : "5Yj4AP0JGQWierBFKdKVyS",
+  "name" : "Feeling Good",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6e084bbb7b7395cddf1ceccab2c4f34118f43efc?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5Yj4AP0JGQWierBFKdKVyS"
+}

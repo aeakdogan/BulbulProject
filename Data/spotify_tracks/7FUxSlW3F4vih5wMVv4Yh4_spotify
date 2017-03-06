@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/14r9dR01KeBLFfylVSKCZQ",
+      "id" : "14r9dR01KeBLFfylVSKCZQ",
+      "name" : "Damien Rice",
+      "type" : "artist",
+      "uri" : "spotify:artist:14r9dR01KeBLFfylVSKCZQ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6aHBpqM0YAMfYxfTBjfmk1",
+    "id" : "6aHBpqM0YAMfYxfTBjfmk1",
+    "images" : [ {
+      "height" : 576,
+      "url" : "https://i.scdn.co/image/f3b269f392de3fb0181a24b2938a98109a0c2312",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/624e2d48c8fecb8067a6853b3ab9693799d174a3",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/b4655befa6678b1c34dcb18ec57a2bcaf9597d9b",
+      "width" : 64
+    } ],
+    "name" : "O",
+    "type" : "album",
+    "uri" : "spotify:album:6aHBpqM0YAMfYxfTBjfmk1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/14r9dR01KeBLFfylVSKCZQ",
+    "id" : "14r9dR01KeBLFfylVSKCZQ",
+    "name" : "Damien Rice",
+    "type" : "artist",
+    "uri" : "spotify:artist:14r9dR01KeBLFfylVSKCZQ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 329253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "IEABD0100009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7FUxSlW3F4vih5wMVv4Yh4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7FUxSlW3F4vih5wMVv4Yh4",
+  "id" : "7FUxSlW3F4vih5wMVv4Yh4",
+  "name" : "I Remember",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6191d6227ac7ff06aaea2959d81d7fd537336eeb?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:7FUxSlW3F4vih5wMVv4Yh4"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Vhc7Y0Kc6HzMC6glKM4h6",
+      "id" : "2Vhc7Y0Kc6HzMC6glKM4h6",
+      "name" : "Holy Ghost!",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Vhc7Y0Kc6HzMC6glKM4h6"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6sKPX6bMmWQrM2LCVjMoBY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6sKPX6bMmWQrM2LCVjMoBY",
+    "id" : "6sKPX6bMmWQrM2LCVjMoBY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6c82f7226c0afb287b2e9fec867c4948d20ccf0f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/498d18b3c2bba52f9b17ad9f0fbca6676de4d9ea",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab0e31951c12bb0712ccd21599f853a8e6164c57",
+      "width" : 64
+    } ],
+    "name" : "Dynamics",
+    "type" : "album",
+    "uri" : "spotify:album:6sKPX6bMmWQrM2LCVjMoBY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Vhc7Y0Kc6HzMC6glKM4h6",
+    "id" : "2Vhc7Y0Kc6HzMC6glKM4h6",
+    "name" : "Holy Ghost!",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Vhc7Y0Kc6HzMC6glKM4h6"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 330773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4GE1300105"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3c95CgSwV4CrcMM84pZis1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3c95CgSwV4CrcMM84pZis1",
+  "id" : "3c95CgSwV4CrcMM84pZis1",
+  "name" : "Cheap Shots",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f5747e7025206bef46a9ff3823de372b816d4e29?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:3c95CgSwV4CrcMM84pZis1"
+}

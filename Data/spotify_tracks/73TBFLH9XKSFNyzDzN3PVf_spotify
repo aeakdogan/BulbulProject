@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/42Qi1UmMJ6KXyoWgzSxZcD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/42Qi1UmMJ6KXyoWgzSxZcD",
+    "id" : "42Qi1UmMJ6KXyoWgzSxZcD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b7514765a574a6a135ae227aca37e5cbe6a3bef5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9f620486a74f44c35d1854fc60d585a7e3b31389",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/49ff926681ec52e8ffdcba13badafedb7e5d1f28",
+      "width" : 64
+    } ],
+    "name" : "70's Classic Driving Anthems",
+    "type" : "album",
+    "uri" : "spotify:album:42Qi1UmMJ6KXyoWgzSxZcD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2yoCXbhsq5CqLCnzDR7a7l",
+    "id" : "2yoCXbhsq5CqLCnzDR7a7l",
+    "name" : "Alvin Stardust",
+    "type" : "artist",
+    "uri" : "spotify:artist:2yoCXbhsq5CqLCnzDR7a7l"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 208367,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBQRF0846301"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/73TBFLH9XKSFNyzDzN3PVf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/73TBFLH9XKSFNyzDzN3PVf",
+  "id" : "73TBFLH9XKSFNyzDzN3PVf",
+  "name" : "My Coo-Ca-Choo",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/47be028320aa4b24b415094ee5c1d230d688b493?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:73TBFLH9XKSFNyzDzN3PVf"
+}

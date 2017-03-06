@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp",
+      "id" : "3rIZMv9rysU7JkLzEaC5Jp",
+      "name" : "Snow Patrol",
+      "type" : "artist",
+      "uri" : "spotify:artist:3rIZMv9rysU7JkLzEaC5Jp"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3p4qWyNmx3ckymw2l3lCVO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3p4qWyNmx3ckymw2l3lCVO",
+    "id" : "3p4qWyNmx3ckymw2l3lCVO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0b3278fc0a13b206274f4d2b1310797bc85e6ebe",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f49517baedc310935cf6a89f708a2d9e0ed6567",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9257e88d54dd5cd50d6bce91ab7375479b9a1861",
+      "width" : 64
+    } ],
+    "name" : "A Hundred Million Suns",
+    "type" : "album",
+    "uri" : "spotify:album:3p4qWyNmx3ckymw2l3lCVO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp",
+    "id" : "3rIZMv9rysU7JkLzEaC5Jp",
+    "name" : "Snow Patrol",
+    "type" : "artist",
+    "uri" : "spotify:artist:3rIZMv9rysU7JkLzEaC5Jp"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 259480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70814005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7qxXlblRDn2uYJkDMZPDGg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7qxXlblRDn2uYJkDMZPDGg",
+  "id" : "7qxXlblRDn2uYJkDMZPDGg",
+  "name" : "If There's A Rocket Tie Me To It",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e0b296bcb2eb1840c7b68fb3809b07e751d71e95?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7qxXlblRDn2uYJkDMZPDGg"
+}

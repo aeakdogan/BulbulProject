@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RyJG8xp58XSmsiuIySzUj",
+      "id" : "3RyJG8xp58XSmsiuIySzUj",
+      "name" : "Adam Green",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RyJG8xp58XSmsiuIySzUj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4NnQLq3RTSlvlquWAvXBN5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4NnQLq3RTSlvlquWAvXBN5",
+    "id" : "4NnQLq3RTSlvlquWAvXBN5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ac3b4286911bcefea837eeb775163672f8bcd014",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cdb75bad6cbe4bb02aa2a0d280404733a201a56c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0ef95adac7ea47289f111e7f578374fae72c0558",
+      "width" : 64
+    } ],
+    "name" : "Friends of Mine",
+    "type" : "album",
+    "uri" : "spotify:album:4NnQLq3RTSlvlquWAvXBN5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3RyJG8xp58XSmsiuIySzUj",
+    "id" : "3RyJG8xp58XSmsiuIySzUj",
+    "name" : "Adam Green",
+    "type" : "artist",
+    "uri" : "spotify:artist:3RyJG8xp58XSmsiuIySzUj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 169760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVZ0300591"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4bXRMnsOMqGOgDpYtE1gln"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4bXRMnsOMqGOgDpYtE1gln",
+  "id" : "4bXRMnsOMqGOgDpYtE1gln",
+  "name" : "Friends of Mine",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9a4453c77ecd132ca13f3c6903096cebb4b4390a?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4bXRMnsOMqGOgDpYtE1gln"
+}

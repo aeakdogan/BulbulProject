@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7EFB09NxZrMi9pGlOnuBpd",
+      "id" : "7EFB09NxZrMi9pGlOnuBpd",
+      "name" : "The Horrors",
+      "type" : "artist",
+      "uri" : "spotify:artist:7EFB09NxZrMi9pGlOnuBpd"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1xY0RQRX9rLE7PpL3hNZO3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1xY0RQRX9rLE7PpL3hNZO3",
+    "id" : "1xY0RQRX9rLE7PpL3hNZO3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bff7a7e00ab95f121edb7e56c2dd1b8ff978aaa0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b58ae199d4ffd6822a059fb9b15379fd6c44996c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fe2311b595f704592c233afed328aa236cc13f5d",
+      "width" : 64
+    } ],
+    "name" : "Skying",
+    "type" : "album",
+    "uri" : "spotify:album:1xY0RQRX9rLE7PpL3hNZO3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7EFB09NxZrMi9pGlOnuBpd",
+    "id" : "7EFB09NxZrMi9pGlOnuBpd",
+    "name" : "The Horrors",
+    "type" : "artist",
+    "uri" : "spotify:artist:7EFB09NxZrMi9pGlOnuBpd"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 310560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS1100153"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ozUiznqJcslUBnA8Obg4W"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ozUiznqJcslUBnA8Obg4W",
+  "id" : "0ozUiznqJcslUBnA8Obg4W",
+  "name" : "Endless Blue",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c959314261cb94322b8aa7da578d0b153d5a2e93?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0ozUiznqJcslUBnA8Obg4W"
+}

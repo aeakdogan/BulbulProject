@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+      "id" : "7w29UYBi0qsHi5RTcv3lmA",
+      "name" : "Björk",
+      "type" : "artist",
+      "uri" : "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0HMsmYvoT1h2x1C4di5faf",
+    "id" : "0HMsmYvoT1h2x1C4di5faf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2aa483804cac5c919ea11ea16230e2b64914015e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/748b7c8bfc81cc8125173a3277559ec5d49dda76",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/14c772787c4726cf4f28168343b4a48dde0db33c",
+      "width" : 64
+    } ],
+    "name" : "Homogenic (US Internet Release)",
+    "type" : "album",
+    "uri" : "spotify:album:0HMsmYvoT1h2x1C4di5faf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+    "id" : "7w29UYBi0qsHi5RTcv3lmA",
+    "name" : "Björk",
+    "type" : "artist",
+    "uri" : "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 253200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBTF9700142"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3UHuJt2WkLxGdbxn36T9vc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3UHuJt2WkLxGdbxn36T9vc",
+  "id" : "3UHuJt2WkLxGdbxn36T9vc",
+  "name" : "Hunter",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6eabd3117411f27c1d04e3daece9970f3c834fca?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3UHuJt2WkLxGdbxn36T9vc"
+}

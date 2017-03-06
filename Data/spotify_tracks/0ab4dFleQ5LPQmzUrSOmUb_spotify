@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12AnGvqOxseM5VJLyO5yBs",
+      "id" : "12AnGvqOxseM5VJLyO5yBs",
+      "name" : "Erlend Øye",
+      "type" : "artist",
+      "uri" : "spotify:artist:12AnGvqOxseM5VJLyO5yBs"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5qn5bQnazwu4N3iaTHMzz0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5qn5bQnazwu4N3iaTHMzz0",
+    "id" : "5qn5bQnazwu4N3iaTHMzz0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/df3dd5214f1e2e04bcecf8ff0472a8332d323784",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f68cf261fca5c2c696b2846492c652c4a92cc041",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f58d2a98395919a0b6ae3379df1dd13ad6b6a7f5",
+      "width" : 64
+    } ],
+    "name" : "Legao",
+    "type" : "album",
+    "uri" : "spotify:album:5qn5bQnazwu4N3iaTHMzz0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12AnGvqOxseM5VJLyO5yBs",
+    "id" : "12AnGvqOxseM5VJLyO5yBs",
+    "name" : "Erlend Øye",
+    "type" : "artist",
+    "uri" : "spotify:artist:12AnGvqOxseM5VJLyO5yBs"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 190666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEKM51405001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ab4dFleQ5LPQmzUrSOmUb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ab4dFleQ5LPQmzUrSOmUb",
+  "id" : "0ab4dFleQ5LPQmzUrSOmUb",
+  "name" : "Fence Me In",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/26a5866eff66a4b79a42080e78fe27148e0a9693?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0ab4dFleQ5LPQmzUrSOmUb"
+}

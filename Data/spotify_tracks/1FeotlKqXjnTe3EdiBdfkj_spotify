@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0pGsKU60aKi7MK8rQENGwZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0pGsKU60aKi7MK8rQENGwZ",
+      "id" : "0pGsKU60aKi7MK8rQENGwZ",
+      "name" : "Hanne Hukkelberg",
+      "type" : "artist",
+      "uri" : "spotify:artist:0pGsKU60aKi7MK8rQENGwZ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5DnkyHLjSGylErlPhQclBF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5DnkyHLjSGylErlPhQclBF",
+    "id" : "5DnkyHLjSGylErlPhQclBF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/718845b90308cb1f653188d171e03ae12a36ddec",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/78b3559df6ad75359a2081b719f304c2e474b2f8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f8ae52d7e0c5c0541d375e2b7dca04aefb238059",
+      "width" : 64
+    } ],
+    "name" : "Little Things",
+    "type" : "album",
+    "uri" : "spotify:album:5DnkyHLjSGylErlPhQclBF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0pGsKU60aKi7MK8rQENGwZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0pGsKU60aKi7MK8rQENGwZ",
+    "id" : "0pGsKU60aKi7MK8rQENGwZ",
+    "name" : "Hanne Hukkelberg",
+    "type" : "artist",
+    "uri" : "spotify:artist:0pGsKU60aKi7MK8rQENGwZ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 226986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOPRR0401050"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1FeotlKqXjnTe3EdiBdfkj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1FeotlKqXjnTe3EdiBdfkj",
+  "id" : "1FeotlKqXjnTe3EdiBdfkj",
+  "name" : "Do Not As I Do",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9241ee525865651b5bf7d43af1af682d2f03838f?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1FeotlKqXjnTe3EdiBdfkj"
+}

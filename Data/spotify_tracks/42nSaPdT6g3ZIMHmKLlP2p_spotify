@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+      "id" : "2DlGxzQSjYe5N6G9nkYghR",
+      "name" : "Jennifer Lopez",
+      "type" : "artist",
+      "uri" : "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+    } ],
+    "available_markets" : [ "AR", "AT", "BO", "BR", "CH", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "JP", "LI", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Gby5NNeNYkMgAnrtEA3lc",
+    "id" : "3Gby5NNeNYkMgAnrtEA3lc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/be90e9f0db757f58af43203714b73eaac3a2ae38",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/994608f93567f282695d9662b9a2f89ef9e837da",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d061776968199d18d07231a65bb1df53f4f1d042",
+      "width" : 64
+    } ],
+    "name" : "On The 6",
+    "type" : "album",
+    "uri" : "spotify:album:3Gby5NNeNYkMgAnrtEA3lc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2DlGxzQSjYe5N6G9nkYghR",
+    "id" : "2DlGxzQSjYe5N6G9nkYghR",
+    "name" : "Jennifer Lopez",
+    "type" : "artist",
+    "uri" : "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+  } ],
+  "available_markets" : [ "AR", "AT", "BO", "BR", "CH", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "JP", "LI", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 239400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19900597"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/42nSaPdT6g3ZIMHmKLlP2p",
+  "id" : "42nSaPdT6g3ZIMHmKLlP2p",
+  "name" : "Let's Get Loud",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1602f796323f42a598872fd87e8665403a676564?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:42nSaPdT6g3ZIMHmKLlP2p"
+}

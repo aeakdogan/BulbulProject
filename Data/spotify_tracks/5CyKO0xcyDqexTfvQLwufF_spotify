@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0G8zjE6SsFTlbglCkU8pm3",
+      "id" : "0G8zjE6SsFTlbglCkU8pm3",
+      "name" : "Starsailor",
+      "type" : "artist",
+      "uri" : "spotify:artist:0G8zjE6SsFTlbglCkU8pm3"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4PyGvXTMf0PmsWsDWohFZw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4PyGvXTMf0PmsWsDWohFZw",
+    "id" : "4PyGvXTMf0PmsWsDWohFZw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/035db9a822eee66f3cc42ecfec4862c3587ebaad",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/841dc5c275cb929e78866ddb8c4808f06bdd1f46",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6de6a530558101c02656860f46c97f28c90217a8",
+      "width" : 64
+    } ],
+    "name" : "Love Is Here",
+    "type" : "album",
+    "uri" : "spotify:album:4PyGvXTMf0PmsWsDWohFZw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0G8zjE6SsFTlbglCkU8pm3",
+    "id" : "0G8zjE6SsFTlbglCkU8pm3",
+    "name" : "Starsailor",
+    "type" : "artist",
+    "uri" : "spotify:artist:0G8zjE6SsFTlbglCkU8pm3"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 269973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYK0100119"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5CyKO0xcyDqexTfvQLwufF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5CyKO0xcyDqexTfvQLwufF",
+  "id" : "5CyKO0xcyDqexTfvQLwufF",
+  "name" : "Way To Fall",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/57632534c0ecd3bbd3047a4a9034b058f4eea75d?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5CyKO0xcyDqexTfvQLwufF"
+}

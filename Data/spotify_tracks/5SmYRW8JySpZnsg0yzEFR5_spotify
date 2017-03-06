@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7vZ7qmfXiu114lY0qm7rOe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7vZ7qmfXiu114lY0qm7rOe",
+      "id" : "7vZ7qmfXiu114lY0qm7rOe",
+      "name" : "Robert Glasper Experiment",
+      "type" : "artist",
+      "uri" : "spotify:artist:7vZ7qmfXiu114lY0qm7rOe"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1yqUCdbw73DpnHBVDwNa3X",
+    "id" : "1yqUCdbw73DpnHBVDwNa3X",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8ab1ffd5c44d15518cad7522cf2741f7d9295adc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f0e08f29994265f1c56d9b6526fc98234417bd72",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dacdb4eeca1453abbb114d75e1b29abaff165761",
+      "width" : 64
+    } ],
+    "name" : "Black Radio",
+    "type" : "album",
+    "uri" : "spotify:album:1yqUCdbw73DpnHBVDwNa3X"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7vZ7qmfXiu114lY0qm7rOe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7vZ7qmfXiu114lY0qm7rOe",
+    "id" : "7vZ7qmfXiu114lY0qm7rOe",
+    "name" : "Robert Glasper Experiment",
+    "type" : "artist",
+    "uri" : "spotify:artist:7vZ7qmfXiu114lY0qm7rOe"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 444800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN21100491"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5SmYRW8JySpZnsg0yzEFR5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5SmYRW8JySpZnsg0yzEFR5",
+  "id" : "5SmYRW8JySpZnsg0yzEFR5",
+  "name" : "Smells Like Teen Spirit",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8bf34865ea56402e4e48b5d1646018075f1465c6?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:5SmYRW8JySpZnsg0yzEFR5"
+}

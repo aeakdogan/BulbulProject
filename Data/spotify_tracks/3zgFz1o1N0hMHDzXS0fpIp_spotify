@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+      "id" : "7jy3rLJdDQY21OgRLCZ9sD",
+      "name" : "Foo Fighters",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/28q2N44ocJECgf8sbHEDfY",
+    "id" : "28q2N44ocJECgf8sbHEDfY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/90b8179b5a6785a8feaba72b8b634dc6f82aa6f1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1ac8e4ca741c58adc1eee7df60941de7b7e040ab",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/116f3e5659f9a77dcd2da89a31065eed22129bcf",
+      "width" : 64
+    } ],
+    "name" : "There Is Nothing Left To Lose",
+    "type" : "album",
+    "uri" : "spotify:album:28q2N44ocJECgf8sbHEDfY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+    "id" : "7jy3rLJdDQY21OgRLCZ9sD",
+    "name" : "Foo Fighters",
+    "type" : "artist",
+    "uri" : "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 222200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRW39900005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3zgFz1o1N0hMHDzXS0fpIp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3zgFz1o1N0hMHDzXS0fpIp",
+  "id" : "3zgFz1o1N0hMHDzXS0fpIp",
+  "name" : "Gimme Stitches",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3652c6d3c93177295d4add8a16394cde42d98086?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3zgFz1o1N0hMHDzXS0fpIp"
+}

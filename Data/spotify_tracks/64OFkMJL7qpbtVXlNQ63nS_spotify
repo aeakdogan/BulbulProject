@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+      "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+      "name" : "Feist",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7bTdGfczXffzzNE9ssJj4Z",
+    "id" : "7bTdGfczXffzzNE9ssJj4Z",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/6c570e89a7f2a64b82a2d80eb488655e3fde873e",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/098f66f96594a8160041e6ae261981237e7a52e2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fd3a73ae5ee0420d270d15a9abc7491e4be58ff0",
+      "width" : 64
+    } ],
+    "name" : "The Reminder",
+    "type" : "album",
+    "uri" : "spotify:album:7bTdGfczXffzzNE9ssJj4Z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+    "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+    "name" : "Feist",
+    "type" : "artist",
+    "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 266613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRUM70600207"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/64OFkMJL7qpbtVXlNQ63nS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/64OFkMJL7qpbtVXlNQ63nS",
+  "id" : "64OFkMJL7qpbtVXlNQ63nS",
+  "name" : "How My Heart Behaves",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f506223ff079062d877af0440dc0726d96acea06?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:64OFkMJL7qpbtVXlNQ63nS"
+}

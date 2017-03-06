@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id" : "7bu3H8JO7d0UbMoVzbo70s",
+      "name" : "The Cure",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0BGTV9xi9NFdUjA3erGs1T",
+    "id" : "0BGTV9xi9NFdUjA3erGs1T",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/576079fcf9db156945ea0531f026f4a58a0ba95f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fb29fe61e80d3cb52d6e32a65e13e17f0163e6fe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b71bd99974b2498ffa11a166ff5e5eb129ac03b3",
+      "width" : 64
+    } ],
+    "name" : "Faith (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:0BGTV9xi9NFdUjA3erGs1T"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+    "id" : "7bu3H8JO7d0UbMoVzbo70s",
+    "name" : "The Cure",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 253333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10500410"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1rs7lqaXBlcw1N9wuHiQyJ",
+  "id" : "1rs7lqaXBlcw1N9wuHiQyJ",
+  "name" : "Charlotte Sometimes [Single Version]",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a7bb334ba4e8fef198ce5555bf95699fd547a87d?cid=null",
+  "track_number" : 24,
+  "type" : "track",
+  "uri" : "spotify:track:1rs7lqaXBlcw1N9wuHiQyJ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ZUZYvTkSr7kJQyAXVpqaL",
+      "id" : "3ZUZYvTkSr7kJQyAXVpqaL",
+      "name" : "Donald Byrd",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZUZYvTkSr7kJQyAXVpqaL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7Iw2Tx6Jh0Y8iKEVfx7Sua"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7Iw2Tx6Jh0Y8iKEVfx7Sua",
+    "id" : "7Iw2Tx6Jh0Y8iKEVfx7Sua",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bf922781d5656f645300096673eba47d824b042b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5233166d2f3eb428450f9b8dfb546980c2e55b3e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ebf13d896c9658ffca1751f53e21143e7986d40c",
+      "width" : 64
+    } ],
+    "name" : "Street Lady",
+    "type" : "album",
+    "uri" : "spotify:album:7Iw2Tx6Jh0Y8iKEVfx7Sua"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3ZUZYvTkSr7kJQyAXVpqaL",
+    "id" : "3ZUZYvTkSr7kJQyAXVpqaL",
+    "name" : "Donald Byrd",
+    "type" : "artist",
+    "uri" : "spotify:artist:3ZUZYvTkSr7kJQyAXVpqaL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 340266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN29100099"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Luuhx171oq6nXmaC50x3D"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Luuhx171oq6nXmaC50x3D",
+  "id" : "4Luuhx171oq6nXmaC50x3D",
+  "name" : "Street Lady",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f07c27eb1028983e4a7b1e0715fb549d5d5e331f?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4Luuhx171oq6nXmaC50x3D"
+}

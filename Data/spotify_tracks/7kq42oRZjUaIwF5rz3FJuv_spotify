@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6jQzLwzx3VqTHUPEXDDYPF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6jQzLwzx3VqTHUPEXDDYPF",
+      "id" : "6jQzLwzx3VqTHUPEXDDYPF",
+      "name" : "Dye",
+      "type" : "artist",
+      "uri" : "spotify:artist:6jQzLwzx3VqTHUPEXDDYPF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7lMnHNLEE95X51a0bp8dbH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7lMnHNLEE95X51a0bp8dbH",
+    "id" : "7lMnHNLEE95X51a0bp8dbH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c95e6fbe7fde09836dd43dda541c6ccb52e75541",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/18a7fcfbd0ca30c80dc0161ae8f300b274b25577",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2b6fffbe2a47e73831b998fddb69556867452910",
+      "width" : 64
+    } ],
+    "name" : "Taki 183",
+    "type" : "album",
+    "uri" : "spotify:album:7lMnHNLEE95X51a0bp8dbH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6jQzLwzx3VqTHUPEXDDYPF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6jQzLwzx3VqTHUPEXDDYPF",
+    "id" : "6jQzLwzx3VqTHUPEXDDYPF",
+    "name" : "Dye",
+    "type" : "artist",
+    "uri" : "spotify:artist:6jQzLwzx3VqTHUPEXDDYPF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 260959,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR5S91100868"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7kq42oRZjUaIwF5rz3FJuv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7kq42oRZjUaIwF5rz3FJuv",
+  "id" : "7kq42oRZjUaIwF5rz3FJuv",
+  "name" : "Nike",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fa388f639efad32382bddad9db34f880272ef6fd?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7kq42oRZjUaIwF5rz3FJuv"
+}

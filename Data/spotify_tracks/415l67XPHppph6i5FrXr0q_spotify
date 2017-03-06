@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zJdqcSR9OIdT8bjYunHnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zJdqcSR9OIdT8bjYunHnE",
+      "id" : "4zJdqcSR9OIdT8bjYunHnE",
+      "name" : "Githead",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zJdqcSR9OIdT8bjYunHnE"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3qBb949WdlCeZn1CgiM18z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3qBb949WdlCeZn1CgiM18z",
+    "id" : "3qBb949WdlCeZn1CgiM18z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f8802d2cd4e09f3dbf7076d48f38f60fb07cbc07",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d2a3921ab141f456b76c7353dc09abd2d77cd683",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d2ab16afc090b89c8360c75488c93ee6318f8496",
+      "width" : 64
+    } ],
+    "name" : "Art Pop",
+    "type" : "album",
+    "uri" : "spotify:album:3qBb949WdlCeZn1CgiM18z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4zJdqcSR9OIdT8bjYunHnE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4zJdqcSR9OIdT8bjYunHnE",
+    "id" : "4zJdqcSR9OIdT8bjYunHnE",
+    "name" : "Githead",
+    "type" : "artist",
+    "uri" : "spotify:artist:4zJdqcSR9OIdT8bjYunHnE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 197373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBJLE0603904"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/415l67XPHppph6i5FrXr0q"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/415l67XPHppph6i5FrXr0q",
+  "id" : "415l67XPHppph6i5FrXr0q",
+  "name" : "Lifeloops",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/72227733a01a943f642396302db653c73f478421?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:415l67XPHppph6i5FrXr0q"
+}

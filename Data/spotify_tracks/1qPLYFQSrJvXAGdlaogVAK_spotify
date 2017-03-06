@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1jeYbk5eqo6wgsQPjLeU5w",
+      "id" : "1jeYbk5eqo6wgsQPjLeU5w",
+      "name" : "Daniel Johnston",
+      "type" : "artist",
+      "uri" : "spotify:artist:1jeYbk5eqo6wgsQPjLeU5w"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5jeLvqEqJ72sfz818Sj1Qg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5jeLvqEqJ72sfz818Sj1Qg",
+    "id" : "5jeLvqEqJ72sfz818Sj1Qg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/db5f8bd76a654b47b4f9390ebd0088cdf11e0250",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/785bac68497e1d767f90ae8eebad5856d5fa30d6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9ebf94e5bb333115185c52315e76973a8bae0816",
+      "width" : 64
+    } ],
+    "name" : "Welcome To My World",
+    "type" : "album",
+    "uri" : "spotify:album:5jeLvqEqJ72sfz818Sj1Qg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1jeYbk5eqo6wgsQPjLeU5w",
+    "id" : "1jeYbk5eqo6wgsQPjLeU5w",
+    "name" : "Daniel Johnston",
+    "type" : "artist",
+    "uri" : "spotify:artist:1jeYbk5eqo6wgsQPjLeU5w"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 107160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA370567868"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1qPLYFQSrJvXAGdlaogVAK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1qPLYFQSrJvXAGdlaogVAK",
+  "id" : "1qPLYFQSrJvXAGdlaogVAK",
+  "name" : "True Love Will Find You In The End",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4795fa9bec906a6ab8364a949c0c6314790ddce2?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:1qPLYFQSrJvXAGdlaogVAK"
+}

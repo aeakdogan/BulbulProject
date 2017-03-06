@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/06n2rDm62tW55l6cZEL15r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/06n2rDm62tW55l6cZEL15r",
+      "id" : "06n2rDm62tW55l6cZEL15r",
+      "name" : "Oskar Schuster",
+      "type" : "artist",
+      "uri" : "spotify:artist:06n2rDm62tW55l6cZEL15r"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3KecNg67vOvyn9lOcBAJYf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3KecNg67vOvyn9lOcBAJYf",
+    "id" : "3KecNg67vOvyn9lOcBAJYf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/82cbeccb653632cdc1d9e8fe47a0286e4efaada9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/938db06558f00a9ac3af13a1376aca25d8c3c591",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2c95fe65159939fd3644b02dc9642525d7c86344",
+      "width" : 64
+    } ],
+    "name" : "Sneeuwland",
+    "type" : "album",
+    "uri" : "spotify:album:3KecNg67vOvyn9lOcBAJYf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/06n2rDm62tW55l6cZEL15r"
+    },
+    "href" : "https://api.spotify.com/v1/artists/06n2rDm62tW55l6cZEL15r",
+    "id" : "06n2rDm62tW55l6cZEL15r",
+    "name" : "Oskar Schuster",
+    "type" : "artist",
+    "uri" : "spotify:artist:06n2rDm62tW55l6cZEL15r"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 125681,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DELJ81460898"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/306BVMRpuuwzEEMjG1dWWR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/306BVMRpuuwzEEMjG1dWWR",
+  "id" : "306BVMRpuuwzEEMjG1dWWR",
+  "name" : "Vleurgat",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/01f3eb0aae77c21d98e6d3c93115f92bbf40b660?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:306BVMRpuuwzEEMjG1dWWR"
+}

@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3w6zswp5THsSKYLICUbDTZ",
+      "id" : "3w6zswp5THsSKYLICUbDTZ",
+      "name" : "Gabrielle Aplin",
+      "type" : "artist",
+      "uri" : "spotify:artist:3w6zswp5THsSKYLICUbDTZ"
+    } ],
+    "available_markets" : [ "AU", "CA", "NZ", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5vpl6jYfAEAAcu9CwgT7gp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5vpl6jYfAEAAcu9CwgT7gp",
+    "id" : "5vpl6jYfAEAAcu9CwgT7gp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/00d2b290d3957587a7f3acb03b499d4ce5a8998e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a845ac902dc2761d0d1267a2b48676706b8ddbad",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/253f9994f8485e11a1e3eae28ea62750969721d3",
+      "width" : 64
+    } ],
+    "name" : "Panic Cord - EP",
+    "type" : "album",
+    "uri" : "spotify:album:5vpl6jYfAEAAcu9CwgT7gp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3w6zswp5THsSKYLICUbDTZ",
+    "id" : "3w6zswp5THsSKYLICUbDTZ",
+    "name" : "Gabrielle Aplin",
+    "type" : "artist",
+    "uri" : "spotify:artist:3w6zswp5THsSKYLICUbDTZ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+    "id" : "7EQ0qTo7fWT7DPxmxtSYEc",
+    "name" : "Bastille",
+    "type" : "artist",
+    "uri" : "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+  } ],
+  "available_markets" : [ "AU", "CA", "NZ", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 259019,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA1300203"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3vmOVIUDPW2sMlZDIlij6O"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3vmOVIUDPW2sMlZDIlij6O",
+  "id" : "3vmOVIUDPW2sMlZDIlij6O",
+  "name" : "Dreams",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3403d444ee5ae8d53f30e4f8dfc007534d830614?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3vmOVIUDPW2sMlZDIlij6O"
+}

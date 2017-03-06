@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5l9wiTZVfqQTfMDOt0HtwC",
+      "id" : "5l9wiTZVfqQTfMDOt0HtwC",
+      "name" : "Tiga",
+      "type" : "artist",
+      "uri" : "spotify:artist:5l9wiTZVfqQTfMDOt0HtwC"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6ghowyQiiqRZnGK5Jc2ZaU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6ghowyQiiqRZnGK5Jc2ZaU",
+    "id" : "6ghowyQiiqRZnGK5Jc2ZaU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7b5f4651de2dd098d7707b90f2d391e90febcc7d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a5ba2cc4df4ecca8d405ce61fee6d1e8d9a70d35",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d40684134f018773a858c4d0cf1a57250447c39d",
+      "width" : 64
+    } ],
+    "name" : "Sexor",
+    "type" : "album",
+    "uri" : "spotify:album:6ghowyQiiqRZnGK5Jc2ZaU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5l9wiTZVfqQTfMDOt0HtwC",
+    "id" : "5l9wiTZVfqQTfMDOt0HtwC",
+    "name" : "Tiga",
+    "type" : "artist",
+    "uri" : "spotify:artist:5l9wiTZVfqQTfMDOt0HtwC"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEP010500128"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0YEZrXCCmuU0IPe0AFiJTs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0YEZrXCCmuU0IPe0AFiJTs",
+  "id" : "0YEZrXCCmuU0IPe0AFiJTs",
+  "name" : "You Gonna Want Me",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fb4eb249a93384d920e5a86f1a55850044a04887?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0YEZrXCCmuU0IPe0AFiJTs"
+}

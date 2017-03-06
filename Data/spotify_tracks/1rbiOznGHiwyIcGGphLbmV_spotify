@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2bHkYmHPMdTEXsKY29IZcX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2bHkYmHPMdTEXsKY29IZcX",
+      "id" : "2bHkYmHPMdTEXsKY29IZcX",
+      "name" : "Alex Calder",
+      "type" : "artist",
+      "uri" : "spotify:artist:2bHkYmHPMdTEXsKY29IZcX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5sRfRFawpbnXTdBTfjx973"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5sRfRFawpbnXTdBTfjx973",
+    "id" : "5sRfRFawpbnXTdBTfjx973",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d5386173d416a252f30461b5a8f5405583f3d9c0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ec89e4203f7ed7a577284e558afbf7848f2ba75e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a9ba09851fdc038f95a4dfdb8c133be4e36572e4",
+      "width" : 64
+    } ],
+    "name" : "Time",
+    "type" : "album",
+    "uri" : "spotify:album:5sRfRFawpbnXTdBTfjx973"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2bHkYmHPMdTEXsKY29IZcX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2bHkYmHPMdTEXsKY29IZcX",
+    "id" : "2bHkYmHPMdTEXsKY29IZcX",
+    "name" : "Alex Calder",
+    "type" : "artist",
+    "uri" : "spotify:artist:2bHkYmHPMdTEXsKY29IZcX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 134798,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMMZN1300124"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1rbiOznGHiwyIcGGphLbmV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1rbiOznGHiwyIcGGphLbmV",
+  "id" : "1rbiOznGHiwyIcGGphLbmV",
+  "name" : "Time",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bda55783eedb9958f51de9ee7c84f020acdddd6e?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1rbiOznGHiwyIcGGphLbmV"
+}

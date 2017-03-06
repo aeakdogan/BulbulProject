@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Oc4knEQaid8K7AFqO5lHu",
+      "id" : "5Oc4knEQaid8K7AFqO5lHu",
+      "name" : "Selah Sue",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Oc4knEQaid8K7AFqO5lHu"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4QodEuQxjtrNR9htVuaUYr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4QodEuQxjtrNR9htVuaUYr",
+    "id" : "4QodEuQxjtrNR9htVuaUYr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/44c3f9aee58f2684c56c6d261cef2e4d47c02a00",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2c8723da6a78ec16659d92e94f88108af25f7883",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6f48e2f9a17bf763a116fbacb0e6bfbc0b0ff2e1",
+      "width" : 64
+    } ],
+    "name" : "Selah Sue",
+    "type" : "album",
+    "uri" : "spotify:album:4QodEuQxjtrNR9htVuaUYr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Oc4knEQaid8K7AFqO5lHu",
+    "id" : "5Oc4knEQaid8K7AFqO5lHu",
+    "name" : "Selah Sue",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Oc4knEQaid8K7AFqO5lHu"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 284600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11201005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3ttKMMwWGBcp08UWhtdqd7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3ttKMMwWGBcp08UWhtdqd7",
+  "id" : "3ttKMMwWGBcp08UWhtdqd7",
+  "name" : "This World",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d9ae87ea88da8381b8898b08521669dc1ba9401b?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3ttKMMwWGBcp08UWhtdqd7"
+}

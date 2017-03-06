@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn",
+      "id" : "5SHQUMAmEK5KmuSb0aDvsn",
+      "name" : "Hole",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2KE8WCHtD8qnAxXeIzNEId",
+    "id" : "2KE8WCHtD8qnAxXeIzNEId",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e7560a260fb80d3055cede276761af1acbd6c626",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4c0aaee976b50890616dc68fb1643eb9894f6458",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fbdb419436d980e61d95ade1ebcbf4ea4a91ee8e",
+      "width" : 64
+    } ],
+    "name" : "Celebrity Skin",
+    "type" : "album",
+    "uri" : "spotify:album:2KE8WCHtD8qnAxXeIzNEId"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn",
+    "id" : "5SHQUMAmEK5KmuSb0aDvsn",
+    "name" : "Hole",
+    "type" : "artist",
+    "uri" : "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 319400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF19816404"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0NwncLo335WFqNKl9xhXrB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0NwncLo335WFqNKl9xhXrB",
+  "id" : "0NwncLo335WFqNKl9xhXrB",
+  "name" : "Reasons To Be Beautiful",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/91c0555aad1f8c2e6180f6a4bbdfc27efae66c5e?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0NwncLo335WFqNKl9xhXrB"
+}

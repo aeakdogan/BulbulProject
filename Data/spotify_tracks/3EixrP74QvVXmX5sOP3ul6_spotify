@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "DK", "ES", "FI", "GR", "ID", "IS", "MX", "MY", "NO", "PE", "PH", "PT", "PY", "SE", "SG", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3eTgTfn1JSmMW0LOpog4yX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3eTgTfn1JSmMW0LOpog4yX",
+    "id" : "3eTgTfn1JSmMW0LOpog4yX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/259f46260bbe95b8d37c4ae702f47122e5419306",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/86aa420bbf7c60c3909751bae41b887efbe5c0ee",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5b0b304c53876042e46c4231927e7a012072bb2c",
+      "width" : 64
+    } ],
+    "name" : "The Hills Have Eyes 2 (The Album)",
+    "type" : "album",
+    "uri" : "spotify:album:3eTgTfn1JSmMW0LOpog4yX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/14SgKNlOCKAI0PfRD1HnWh",
+    "id" : "14SgKNlOCKAI0PfRD1HnWh",
+    "name" : "Lordi",
+    "type" : "artist",
+    "uri" : "spotify:artist:14SgKNlOCKAI0PfRD1HnWh"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "DK", "ES", "FI", "GR", "ID", "IS", "MX", "MY", "NO", "PE", "PH", "PT", "PY", "SE", "SG", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 246746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGMP0700099"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3EixrP74QvVXmX5sOP3ul6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3EixrP74QvVXmX5sOP3ul6",
+  "id" : "3EixrP74QvVXmX5sOP3ul6",
+  "name" : "Hard Rock Hallelujah",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/56ee610c1cdc028ff16b3d260d883a91bebc190d?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3EixrP74QvVXmX5sOP3ul6"
+}

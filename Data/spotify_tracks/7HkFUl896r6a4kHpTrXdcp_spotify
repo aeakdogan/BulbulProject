@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+      "id" : "4I2BJf80C0skQpp1sQmA0h",
+      "name" : "Belle & Sebastian",
+      "type" : "artist",
+      "uri" : "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5E1aS75EL1XSYfYceVUaOE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5E1aS75EL1XSYfYceVUaOE",
+    "id" : "5E1aS75EL1XSYfYceVUaOE",
+    "images" : [ {
+      "height" : 624,
+      "url" : "https://i.scdn.co/image/28bc05b2dbea2ffd0b759a575c0a948c75edccf2",
+      "width" : 640
+    }, {
+      "height" : 293,
+      "url" : "https://i.scdn.co/image/d3bb1c7c9a87fc63c0012e5cbe5db22eca59193d",
+      "width" : 300
+    }, {
+      "height" : 62,
+      "url" : "https://i.scdn.co/image/8c41f605ce5f419b008cf5062727cd45c003bd76",
+      "width" : 64
+    } ],
+    "name" : "Push Barman To Open Old Wounds",
+    "type" : "album",
+    "uri" : "spotify:album:5E1aS75EL1XSYfYceVUaOE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+    "id" : "4I2BJf80C0skQpp1sQmA0h",
+    "name" : "Belle & Sebastian",
+    "type" : "artist",
+    "uri" : "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 229520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCAX0103401"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7HkFUl896r6a4kHpTrXdcp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7HkFUl896r6a4kHpTrXdcp",
+  "id" : "7HkFUl896r6a4kHpTrXdcp",
+  "name" : "I’m Waking Up To Us",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ac3c62bf34744e4120fcd8009cab4dd5b74b8600?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:7HkFUl896r6a4kHpTrXdcp"
+}

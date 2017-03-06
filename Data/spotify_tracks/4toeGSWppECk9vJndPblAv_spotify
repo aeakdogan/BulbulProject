@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ojlS7imGFiZ8A8tXXGEt7",
+      "id" : "2ojlS7imGFiZ8A8tXXGEt7",
+      "name" : "Library Tapes",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ojlS7imGFiZ8A8tXXGEt7"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/43QOTxisI7tVOFZgUIWu4g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/43QOTxisI7tVOFZgUIWu4g",
+    "id" : "43QOTxisI7tVOFZgUIWu4g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/53d9ce4622b82e08d3fcfe296d2a5c4b8f66bd07",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/76457602e08a58067bf26f0e7175cccb62fa7e28",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/00472440564552d875029423391fedd4375b6c56",
+      "width" : 64
+    } ],
+    "name" : "Fragment",
+    "type" : "album",
+    "uri" : "spotify:album:43QOTxisI7tVOFZgUIWu4g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ojlS7imGFiZ8A8tXXGEt7",
+    "id" : "2ojlS7imGFiZ8A8tXXGEt7",
+    "name" : "Library Tapes",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ojlS7imGFiZ8A8tXXGEt7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 121106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEYTP0800204"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4toeGSWppECk9vJndPblAv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4toeGSWppECk9vJndPblAv",
+  "id" : "4toeGSWppECk9vJndPblAv",
+  "name" : "Fragment IV",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2dbe1d56b06ece88a8b58a061c368a3bb1dcae5e?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4toeGSWppECk9vJndPblAv"
+}

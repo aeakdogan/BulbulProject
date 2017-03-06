@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2NQEwAVHBNcI0tGMLlWwF1",
+      "id" : "2NQEwAVHBNcI0tGMLlWwF1",
+      "name" : "Mat Kearney",
+      "type" : "artist",
+      "uri" : "spotify:artist:2NQEwAVHBNcI0tGMLlWwF1"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6QhRwIZzTZ2ShlXVZsVfbM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6QhRwIZzTZ2ShlXVZsVfbM",
+    "id" : "6QhRwIZzTZ2ShlXVZsVfbM",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/a65edfd48506361f1c052c87dab81a463472f95b",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/9b4b6982212365bc0a5db296a0f8ca3f4ca419d4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/80cd15270766445e8d89b812aeccdba65f79e64d",
+      "width" : 64
+    } ],
+    "name" : "Nothing Left To Lose",
+    "type" : "album",
+    "uri" : "spotify:album:6QhRwIZzTZ2ShlXVZsVfbM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2NQEwAVHBNcI0tGMLlWwF1",
+    "id" : "2NQEwAVHBNcI0tGMLlWwF1",
+    "name" : "Mat Kearney",
+    "type" : "artist",
+    "uri" : "spotify:artist:2NQEwAVHBNcI0tGMLlWwF1"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 267640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10600618"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3V1ONR206j8JhIhMm8Wkv6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3V1ONR206j8JhIhMm8Wkv6",
+  "id" : "3V1ONR206j8JhIhMm8Wkv6",
+  "name" : "All I Need",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/13268df12fd0dff59b01cdfbcb22480af65d13c1?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:3V1ONR206j8JhIhMm8Wkv6"
+}

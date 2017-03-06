@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2qlAMLpUyBjZgnzuFXXZXI",
+      "id" : "2qlAMLpUyBjZgnzuFXXZXI",
+      "name" : "Klaxons",
+      "type" : "artist",
+      "uri" : "spotify:artist:2qlAMLpUyBjZgnzuFXXZXI"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/32RxIrvDSTYpxikhD7Gl3S"
+    },
+    "href" : "https://api.spotify.com/v1/albums/32RxIrvDSTYpxikhD7Gl3S",
+    "id" : "32RxIrvDSTYpxikhD7Gl3S",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1a8d3a03cb2717f00f63e3d207095159400c1a8b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b215c7a175d81ed523f7d008efbb62c6c687da41",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dc33da792c8be63b1c622b35fc86820b69162f01",
+      "width" : 64
+    } ],
+    "name" : "Surfing the Void",
+    "type" : "album",
+    "uri" : "spotify:album:32RxIrvDSTYpxikhD7Gl3S"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2qlAMLpUyBjZgnzuFXXZXI",
+    "id" : "2qlAMLpUyBjZgnzuFXXZXI",
+    "name" : "Klaxons",
+    "type" : "artist",
+    "uri" : "spotify:artist:2qlAMLpUyBjZgnzuFXXZXI"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 225294,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBKPL1411686"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/56NMHNpsrwbr7JjL6E8e1r"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/56NMHNpsrwbr7JjL6E8e1r",
+  "id" : "56NMHNpsrwbr7JjL6E8e1r",
+  "name" : "Echoes",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/104e534fa7905b27ff36ba4ce0b5445ed324877d?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:56NMHNpsrwbr7JjL6E8e1r"
+}

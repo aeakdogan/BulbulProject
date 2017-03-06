@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4E9w0bms6HcEppFlWjeW2d",
+      "id" : "4E9w0bms6HcEppFlWjeW2d",
+      "name" : "Bobbie Gentry",
+      "type" : "artist",
+      "uri" : "spotify:artist:4E9w0bms6HcEppFlWjeW2d"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/05I1EsreLq47JU8pypj7TR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/05I1EsreLq47JU8pypj7TR",
+    "id" : "05I1EsreLq47JU8pypj7TR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1283795665284cec6aad7dad6b435f353eec3bc2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cd9c4abb50a5b052ef4b9bb436dee6226e2072fa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/29956bac946c2b868bf53283a2295caafd27b093",
+      "width" : 64
+    } ],
+    "name" : "Ode To Billie Joe",
+    "type" : "album",
+    "uri" : "spotify:album:05I1EsreLq47JU8pypj7TR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4E9w0bms6HcEppFlWjeW2d",
+    "id" : "4E9w0bms6HcEppFlWjeW2d",
+    "name" : "Bobbie Gentry",
+    "type" : "artist",
+    "uri" : "spotify:artist:4E9w0bms6HcEppFlWjeW2d"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 255027,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCN18900028"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4FdDorlbJTVHcH3djLbIfn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4FdDorlbJTVHcH3djLbIfn",
+  "id" : "4FdDorlbJTVHcH3djLbIfn",
+  "name" : "Ode to Billie Joe",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c9212ac5232cbc01210ee2e674df49f586b9d908?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:4FdDorlbJTVHcH3djLbIfn"
+}

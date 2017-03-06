@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6gk4ierjjSVPoZep27VfZz",
+      "id" : "6gk4ierjjSVPoZep27VfZz",
+      "name" : "Bebel Gilberto",
+      "type" : "artist",
+      "uri" : "spotify:artist:6gk4ierjjSVPoZep27VfZz"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3TW79jBMpvywbkINslZPp3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3TW79jBMpvywbkINslZPp3",
+    "id" : "3TW79jBMpvywbkINslZPp3",
+    "images" : [ {
+      "height" : 586,
+      "url" : "https://i.scdn.co/image/719c0eecf37dcfaf85603d9d0016553c3d257bfd",
+      "width" : 640
+    }, {
+      "height" : 275,
+      "url" : "https://i.scdn.co/image/572c178e3eb63ff84100c9e8ef9c44385b812287",
+      "width" : 300
+    }, {
+      "height" : 59,
+      "url" : "https://i.scdn.co/image/99ca1105148bc13f3ecd05ba63e7883fe6e0a3f8",
+      "width" : 64
+    } ],
+    "name" : "Momento",
+    "type" : "album",
+    "uri" : "spotify:album:3TW79jBMpvywbkINslZPp3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6gk4ierjjSVPoZep27VfZz",
+    "id" : "6gk4ierjjSVPoZep27VfZz",
+    "name" : "Bebel Gilberto",
+    "type" : "artist",
+    "uri" : "spotify:artist:6gk4ierjjSVPoZep27VfZz"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 191440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BE6F50602140"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3jegBAnMwPVa6IkI0VHe8d"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3jegBAnMwPVa6IkI0VHe8d",
+  "id" : "3jegBAnMwPVa6IkI0VHe8d",
+  "name" : "Azul",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c2d32e9e16acd901abb48e5e0733e8e7c98802c4?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3jegBAnMwPVa6IkI0VHe8d"
+}

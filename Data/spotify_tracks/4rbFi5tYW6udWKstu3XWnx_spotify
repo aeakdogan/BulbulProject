@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0OhbmRARz9nrChla8W2OGU",
+      "id" : "0OhbmRARz9nrChla8W2OGU",
+      "name" : "Molly Johnson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0OhbmRARz9nrChla8W2OGU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0gV2KY36N9QANNArAno0h5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0gV2KY36N9QANNArAno0h5",
+    "id" : "0gV2KY36N9QANNArAno0h5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4f3a660444628ca451f03efac7de5c06f2ae147c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/73fe35da1dce5241adf712352db3ed5b9afdd7eb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/897168a5c92f8e5596b63a7a5d2a404f41ee9dd6",
+      "width" : 64
+    } ],
+    "name" : "Another Day",
+    "type" : "album",
+    "uri" : "spotify:album:0gV2KY36N9QANNArAno0h5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0OhbmRARz9nrChla8W2OGU",
+    "id" : "0OhbmRARz9nrChla8W2OGU",
+    "name" : "Molly Johnson",
+    "type" : "artist",
+    "uri" : "spotify:artist:0OhbmRARz9nrChla8W2OGU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 352093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAM230200043"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4rbFi5tYW6udWKstu3XWnx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4rbFi5tYW6udWKstu3XWnx",
+  "id" : "4rbFi5tYW6udWKstu3XWnx",
+  "name" : "Haunted",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3522f9bf048ef688f14580e6ab5cccfa886587cd?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:4rbFi5tYW6udWKstu3XWnx"
+}

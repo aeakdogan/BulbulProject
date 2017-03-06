@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4zm3F562nBXVkf0m2QsBp2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4zm3F562nBXVkf0m2QsBp2",
+    "id" : "4zm3F562nBXVkf0m2QsBp2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/497753c656abf2a39d4e2ef07910e39f169aad4b",
+      "width" : 630
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ea7805da4abe6c5d5ca3d3f72b1284f094477cc1",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/095b223d81f33d1c583150a5b6e11fa8f6aa38cc",
+      "width" : 63
+    } ],
+    "name" : "LAX (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:4zm3F562nBXVkf0m2QsBp2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+    "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+    "name" : "The Game",
+    "type" : "artist",
+    "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 110906,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM70829293"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6v6eLSfMyKDtMytZbPKbcQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6v6eLSfMyKDtMytZbPKbcQ",
+  "id" : "6v6eLSfMyKDtMytZbPKbcQ",
+  "name" : "Hard Liquor (Interlude)",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c6cf714358498c23f5b7b50b2f7abe35f047b844?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:6v6eLSfMyKDtMytZbPKbcQ"
+}

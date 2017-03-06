@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0VkUssy66s90JQn4RXwtFg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0VkUssy66s90JQn4RXwtFg",
+    "id" : "0VkUssy66s90JQn4RXwtFg",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/ca20a419153f6b85a56f349e60f90057bc7b48c8",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a531a18ffbf53082c861a878b13fa119fdd87020",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a32d801f25859dd212bbc93c53ed9f6bf9280ef1",
+      "width" : 64
+    } ],
+    "name" : "Dinner Jazz",
+    "type" : "album",
+    "uri" : "spotify:album:0VkUssy66s90JQn4RXwtFg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7qVvIFc9DktkAc0HKzRhNo",
+    "id" : "7qVvIFc9DktkAc0HKzRhNo",
+    "name" : "Johnny Hartman",
+    "type" : "artist",
+    "uri" : "spotify:artist:7qVvIFc9DktkAc0HKzRhNo"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 190400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC16552821"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7aoLraxjl39zGmnggpD1PE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7aoLraxjl39zGmnggpD1PE",
+  "id" : "7aoLraxjl39zGmnggpD1PE",
+  "name" : "My Ship",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/98704057038f37b58266e6f9f5b349b9837639c6?cid=null",
+  "track_number" : 25,
+  "type" : "track",
+  "uri" : "spotify:track:7aoLraxjl39zGmnggpD1PE"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ZNxiPcbKgaNcBrERMpqeu",
+      "id" : "5ZNxiPcbKgaNcBrERMpqeu",
+      "name" : "Mägo de Oz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ZNxiPcbKgaNcBrERMpqeu"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1j87i0VKzHbS16mOiuziNR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1j87i0VKzHbS16mOiuziNR",
+    "id" : "1j87i0VKzHbS16mOiuziNR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5ed24900484de3755af932ee3df790fd8791a74b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8b2500ae85c04b1daedee169a0838f7f26f717f2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e1c40abd259b140125d705bb11daf827fe1db2cb",
+      "width" : 64
+    } ],
+    "name" : "Mägo de Oz",
+    "type" : "album",
+    "uri" : "spotify:album:1j87i0VKzHbS16mOiuziNR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5ZNxiPcbKgaNcBrERMpqeu",
+    "id" : "5ZNxiPcbKgaNcBrERMpqeu",
+    "name" : "Mägo de Oz",
+    "type" : "artist",
+    "uri" : "spotify:artist:5ZNxiPcbKgaNcBrERMpqeu"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 285837,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES6880300137"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5U1WFLsaJNdzXHFQ0BG733"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5U1WFLsaJNdzXHFQ0BG733",
+  "id" : "5U1WFLsaJNdzXHFQ0BG733",
+  "name" : "El Hijo Del Blues",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/517fd7b772b4a351678726a575d472c88e2812a0?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5U1WFLsaJNdzXHFQ0BG733"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5wo7l7l6PUIspZFPfSHqDL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5wo7l7l6PUIspZFPfSHqDL",
+    "id" : "5wo7l7l6PUIspZFPfSHqDL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/844e7f930f83c7c070d95e5e687298540594bd78",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bfd0e8e0b0b0ede17df16633d0fb17686df97dd8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/80208a76f1fe8125ccb5f66e67088d8f1744eb24",
+      "width" : 64
+    } ],
+    "name" : "Friday Night Lights (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:5wo7l7l6PUIspZFPfSHqDL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1uQWmt1OhuHGRKmZ2ZcL6p",
+    "id" : "1uQWmt1OhuHGRKmZ2ZcL6p",
+    "name" : "Explosions In The Sky",
+    "type" : "artist",
+    "uri" : "spotify:artist:1uQWmt1OhuHGRKmZ2ZcL6p"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 233653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUG10400429"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7bJtPaSLjgTTFzebXoLYFB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7bJtPaSLjgTTFzebXoLYFB",
+  "id" : "7bJtPaSLjgTTFzebXoLYFB",
+  "name" : "A Slow Dance - From \"Friday Night Lights\" Soundtrack",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/82e55ed4d5fc03736da3a083550959e06878b8ed?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:7bJtPaSLjgTTFzebXoLYFB"
+}

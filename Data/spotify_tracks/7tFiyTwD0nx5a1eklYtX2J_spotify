@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+      "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+      "name" : "Queen",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6X9k3hSsvQck2OfKYdBbXr",
+    "id" : "6X9k3hSsvQck2OfKYdBbXr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f6e02ce8bc9e91afa0e220703072c20bf72c72c5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f4111b2cd4d2459cfdf9aad9010d74c97b7e3a68",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8ea6edc8b88d8777c931bff14f48d70503de674c",
+      "width" : 64
+    } ],
+    "name" : "A Night At The Opera (Deluxe Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:6X9k3hSsvQck2OfKYdBbXr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+    "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+    "name" : "Queen",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 354320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71029604"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7tFiyTwD0nx5a1eklYtX2J",
+  "id" : "7tFiyTwD0nx5a1eklYtX2J",
+  "name" : "Bohemian Rhapsody",
+  "popularity" : 69,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d5bc71c0bdc98b547a39aeba9538a7c6d33fc342?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:7tFiyTwD0nx5a1eklYtX2J"
+}

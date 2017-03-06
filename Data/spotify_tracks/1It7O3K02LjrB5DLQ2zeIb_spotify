@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dUI54FMDxPqaXbNs4kLpB",
+      "id" : "5dUI54FMDxPqaXbNs4kLpB",
+      "name" : "Nicola Conte",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dUI54FMDxPqaXbNs4kLpB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4z49YCjxkeGxWjKTe7RenT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4z49YCjxkeGxWjKTe7RenT",
+    "id" : "4z49YCjxkeGxWjKTe7RenT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2f5e2b2357ee88a42248901ee86f0500978b5cf4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/92672aa0ddb55f6972565e243c27927de541a1a8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7892a0a5aeac0c181639ed2927bffcb2b59f8442",
+      "width" : 64
+    } ],
+    "name" : "Rituals",
+    "type" : "album",
+    "uri" : "spotify:album:4z49YCjxkeGxWjKTe7RenT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5dUI54FMDxPqaXbNs4kLpB",
+    "id" : "5dUI54FMDxPqaXbNs4kLpB",
+    "name" : "Nicola Conte",
+    "type" : "artist",
+    "uri" : "spotify:artist:5dUI54FMDxPqaXbNs4kLpB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 242426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITO0P0800051"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1It7O3K02LjrB5DLQ2zeIb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1It7O3K02LjrB5DLQ2zeIb",
+  "id" : "1It7O3K02LjrB5DLQ2zeIb",
+  "name" : "Karma Flower",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ca50f8b1c9812fe132e3b10928c0f7d943e8bae0?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1It7O3K02LjrB5DLQ2zeIb"
+}

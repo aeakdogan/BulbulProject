@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2hGh5VOeeqimQFxqXvfCUf",
+      "id" : "2hGh5VOeeqimQFxqXvfCUf",
+      "name" : "John Coltrane",
+      "type" : "artist",
+      "uri" : "spotify:artist:2hGh5VOeeqimQFxqXvfCUf"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2ghKiaxxBZzgYZCECfSvXe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2ghKiaxxBZzgYZCECfSvXe",
+    "id" : "2ghKiaxxBZzgYZCECfSvXe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/af2f7e6bc4a3057d0c247fd776fa86e3783a9f2e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/62d9e3e4664f0e6e107369ebc8e2a8852d19ca23",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b2654fc7a8a9f7f128f2542054446ef41da11ff0",
+      "width" : 64
+    } ],
+    "name" : "The Atlantic Years In Mono",
+    "type" : "album",
+    "uri" : "spotify:album:2ghKiaxxBZzgYZCECfSvXe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2hGh5VOeeqimQFxqXvfCUf",
+    "id" : "2hGh5VOeeqimQFxqXvfCUf",
+    "name" : "John Coltrane",
+    "type" : "artist",
+    "uri" : "spotify:artist:2hGh5VOeeqimQFxqXvfCUf"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 418106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRH11601306"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5EjooVo7BWZOV4rHXrzugC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5EjooVo7BWZOV4rHXrzugC",
+  "id" : "5EjooVo7BWZOV4rHXrzugC",
+  "name" : "Mr. P.C. - Mono Version",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/db06930cb2dfaac046bb3a680f4d804f9f59b7de?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5EjooVo7BWZOV4rHXrzugC"
+}

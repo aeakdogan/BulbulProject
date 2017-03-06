@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE",
+      "id" : "70cRZdQywnSFp9pnc2WTCE",
+      "name" : "Simon & Garfunkel",
+      "type" : "artist",
+      "uri" : "spotify:artist:70cRZdQywnSFp9pnc2WTCE"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+    },
+    "href" : "https://api.spotify.com/v1/albums/07RAGILF28QweYQSZasr5k",
+    "id" : "07RAGILF28QweYQSZasr5k",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6fda3dc57848286cb737212932289fad109f4d9d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c64653d0b3703d4e8fe0d639d637848873a7c2b6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7082f39f9ada216130f87507a5c74e80906e9fff",
+      "width" : 64
+    } ],
+    "name" : "Sounds Of Silence",
+    "type" : "album",
+    "uri" : "spotify:album:07RAGILF28QweYQSZasr5k"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE",
+    "id" : "70cRZdQywnSFp9pnc2WTCE",
+    "name" : "Simon & Garfunkel",
+    "type" : "artist",
+    "uri" : "spotify:artist:70cRZdQywnSFp9pnc2WTCE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 155986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM16501148"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6jwlUg04JwzpD55ua9XJl1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6jwlUg04JwzpD55ua9XJl1",
+  "id" : "6jwlUg04JwzpD55ua9XJl1",
+  "name" : "Somewhere They Can't Find Me",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8af8331d371482dfb0b7a47a27eb3b48ff033664?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6jwlUg04JwzpD55ua9XJl1"
+}

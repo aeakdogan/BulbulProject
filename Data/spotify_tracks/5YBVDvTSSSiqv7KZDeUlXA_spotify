@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj",
+      "id" : "2d0hyoQ5ynDBnkvAbJKORj",
+      "name" : "Rage Against The Machine",
+      "type" : "artist",
+      "uri" : "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6iVOwFVjFRoQPgj8GUwSsi",
+    "id" : "6iVOwFVjFRoQPgj8GUwSsi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3c9c017c3df6735e2f76b2e7dd6c6e7c709a179f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e4d1a1802ed661655a44ac785993f6c59bd1cf4d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b5294ca67feb44403f5d5c75ed5d8b18d4c00945",
+      "width" : 64
+    } ],
+    "name" : "Renegades",
+    "type" : "album",
+    "uri" : "spotify:album:6iVOwFVjFRoQPgj8GUwSsi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2d0hyoQ5ynDBnkvAbJKORj",
+    "id" : "2d0hyoQ5ynDBnkvAbJKORj",
+    "name" : "Rage Against The Machine",
+    "type" : "artist",
+    "uri" : "spotify:artist:2d0hyoQ5ynDBnkvAbJKORj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 274160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10017103"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5YBVDvTSSSiqv7KZDeUlXA",
+  "id" : "5YBVDvTSSSiqv7KZDeUlXA",
+  "name" : "Renegades Of Funk",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6bc7e7fc964951969186acb7c905037057300a5b?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5YBVDvTSSSiqv7KZDeUlXA"
+}

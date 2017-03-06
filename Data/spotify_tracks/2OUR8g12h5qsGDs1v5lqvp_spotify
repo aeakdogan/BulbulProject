@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH",
+      "id" : "6Ghvu1VvMGScGpOUJBAHNH",
+      "name" : "Deftones",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4PIVdqvL1Rc7T7Vfsr8n8Q",
+    "id" : "4PIVdqvL1Rc7T7Vfsr8n8Q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e565b912d1ef677110bd289bff82cd428577db13",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4e10c0fa207d1113cf4e66e585fc9e05c0d51e77",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/692c1d5f46a4ad3578c6427dd555516315f5b16f",
+      "width" : 64
+    } ],
+    "name" : "Koi No Yokan",
+    "type" : "album",
+    "uri" : "spotify:album:4PIVdqvL1Rc7T7Vfsr8n8Q"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH",
+    "id" : "6Ghvu1VvMGScGpOUJBAHNH",
+    "name" : "Deftones",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 164986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE11200411"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2OUR8g12h5qsGDs1v5lqvp",
+  "id" : "2OUR8g12h5qsGDs1v5lqvp",
+  "name" : "Swerve City",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/42c1bdd2d0816eb1a15e724240ea3017c6c4a8d1?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2OUR8g12h5qsGDs1v5lqvp"
+}

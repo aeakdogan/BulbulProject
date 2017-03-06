@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7sBx432MZn1MzHeYHAA5qr",
+      "id" : "7sBx432MZn1MzHeYHAA5qr",
+      "name" : "Scott Hamilton",
+      "type" : "artist",
+      "uri" : "spotify:artist:7sBx432MZn1MzHeYHAA5qr"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0bw16TpTm9imdckwKYYoKm",
+    "id" : "0bw16TpTm9imdckwKYYoKm",
+    "images" : [ {
+      "height" : 628,
+      "url" : "https://i.scdn.co/image/01c3cb4e9a10968babf33399e623dfffaf8b5c17",
+      "width" : 640
+    }, {
+      "height" : 294,
+      "url" : "https://i.scdn.co/image/78594cbbcad77ed273796eef8f909a3fed77b246",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/9c01bca477d85565938441922bc2ae5ce6617c0e",
+      "width" : 64
+    } ],
+    "name" : "Scott Hamilton Plays Ballads",
+    "type" : "album",
+    "uri" : "spotify:album:0bw16TpTm9imdckwKYYoKm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7sBx432MZn1MzHeYHAA5qr",
+    "id" : "7sBx432MZn1MzHeYHAA5qr",
+    "name" : "Scott Hamilton",
+    "type" : "artist",
+    "uri" : "spotify:artist:7sBx432MZn1MzHeYHAA5qr"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 220666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R0303213"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7wGqWPW8haFrmvikCyS5Qc",
+  "id" : "7wGqWPW8haFrmvikCyS5Qc",
+  "name" : "Maybe September",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3082a79054827522bc46584a750a2022cfb0dd31?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:7wGqWPW8haFrmvikCyS5Qc"
+}

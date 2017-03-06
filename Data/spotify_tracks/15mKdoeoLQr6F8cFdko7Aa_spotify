@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cyyGl4qnHZL0o16t0fpJl",
+      "id" : "2cyyGl4qnHZL0o16t0fpJl",
+      "name" : "Angel Haze",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cyyGl4qnHZL0o16t0fpJl"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/44OLN0q78wTRrMcAWzSDLy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/44OLN0q78wTRrMcAWzSDLy",
+    "id" : "44OLN0q78wTRrMcAWzSDLy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cfa9415ed5af764bbf80fa4a648adbc5bddadb2d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/420f502b86cba2cfcd694fa86452061ee1764d65",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/36e91a7a77e079a4960ad938c19e6ed91c5d143e",
+      "width" : 64
+    } ],
+    "name" : "Dirty Gold (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:44OLN0q78wTRrMcAWzSDLy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2cyyGl4qnHZL0o16t0fpJl",
+    "id" : "2cyyGl4qnHZL0o16t0fpJl",
+    "name" : "Angel Haze",
+    "type" : "artist",
+    "uri" : "spotify:artist:2cyyGl4qnHZL0o16t0fpJl"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 207407,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBUM71206251"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/15mKdoeoLQr6F8cFdko7Aa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/15mKdoeoLQr6F8cFdko7Aa",
+  "id" : "15mKdoeoLQr6F8cFdko7Aa",
+  "name" : "New York",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6f6b402eb12cde565b84fa921bf3fa2aa817e57e?cid=null",
+  "track_number" : 16,
+  "type" : "track",
+  "uri" : "spotify:track:15mKdoeoLQr6F8cFdko7Aa"
+}

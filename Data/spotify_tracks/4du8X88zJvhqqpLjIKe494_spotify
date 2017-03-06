@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6frUTw3CamrF5NAGaQchBS",
+      "id" : "6frUTw3CamrF5NAGaQchBS",
+      "name" : "OMNIA",
+      "type" : "artist",
+      "uri" : "spotify:artist:6frUTw3CamrF5NAGaQchBS"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7IzN5XEJPwOvxCvK54AB3J"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7IzN5XEJPwOvxCvK54AB3J",
+    "id" : "7IzN5XEJPwOvxCvK54AB3J",
+    "images" : [ {
+      "height" : 550,
+      "url" : "https://i.scdn.co/image/7eea6638fe132ed8b1835b49a94d4dae80f93367",
+      "width" : 640
+    }, {
+      "height" : 258,
+      "url" : "https://i.scdn.co/image/04bfb68565f0cc4d47779bff670dcbbf7b6967a1",
+      "width" : 300
+    }, {
+      "height" : 55,
+      "url" : "https://i.scdn.co/image/610a36bcc002f0a870520220ea306401bb3a77bd",
+      "width" : 64
+    } ],
+    "name" : "World of Omnia",
+    "type" : "album",
+    "uri" : "spotify:album:7IzN5XEJPwOvxCvK54AB3J"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0XZkeCAlpiO5qcIlAJzZaA",
+    "id" : "0XZkeCAlpiO5qcIlAJzZaA",
+    "name" : "Omnia",
+    "type" : "artist",
+    "uri" : "spotify:artist:0XZkeCAlpiO5qcIlAJzZaA"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 220240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLT640900040"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4du8X88zJvhqqpLjIKe494"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4du8X88zJvhqqpLjIKe494",
+  "id" : "4du8X88zJvhqqpLjIKe494",
+  "name" : "Tine Bealtaine",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/14f9b5937c1bf245691b65d0f0ecd07a4cf00044?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4du8X88zJvhqqpLjIKe494"
+}

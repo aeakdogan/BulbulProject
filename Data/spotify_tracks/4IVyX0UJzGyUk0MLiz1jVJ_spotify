@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5z1VAFwT35EVvCp1XlZZuL",
+      "id" : "5z1VAFwT35EVvCp1XlZZuL",
+      "name" : "Diana Krall",
+      "type" : "artist",
+      "uri" : "spotify:artist:5z1VAFwT35EVvCp1XlZZuL"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6NqwpeiAjwYAppRNA7F3yD",
+    "id" : "6NqwpeiAjwYAppRNA7F3yD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/385becfc857c4735df43470e97877c84a7fcaea4",
+      "width" : 611
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/64ed3a05a966cc6f76f050454743d863c1bb79d2",
+      "width" : 286
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/142c8be210efd55e3553eed4d32506414c5711eb",
+      "width" : 61
+    } ],
+    "name" : "When I Look In Your Eyes",
+    "type" : "album",
+    "uri" : "spotify:album:6NqwpeiAjwYAppRNA7F3yD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5z1VAFwT35EVvCp1XlZZuL",
+    "id" : "5z1VAFwT35EVvCp1XlZZuL",
+    "name" : "Diana Krall",
+    "type" : "artist",
+    "uri" : "spotify:artist:5z1VAFwT35EVvCp1XlZZuL"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 258959,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGR19900036"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4IVyX0UJzGyUk0MLiz1jVJ",
+  "id" : "4IVyX0UJzGyUk0MLiz1jVJ",
+  "name" : "Let's Fall In Love",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cdf7519bbb8ed18bd857f617e52989fa0160a300?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4IVyX0UJzGyUk0MLiz1jVJ"
+}

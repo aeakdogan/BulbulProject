@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+      "id" : "6kACVPfCOnqzgfEF5ryl0x",
+      "name" : "Johnny Cash",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ucV57dbnqmrGv9d60r6X2",
+    "id" : "0ucV57dbnqmrGv9d60r6X2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/51d04953e62902d01c56a02b9c26d579875abe46",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dd4c2450ad1c58b91234d13ab185ffcc0af15aaf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa1d45f2569644e195f652e6c9e81c8f513cd0d5",
+      "width" : 64
+    } ],
+    "name" : "Ring Of Fire: The Best Of Johnny Cash",
+    "type" : "album",
+    "uri" : "spotify:album:0ucV57dbnqmrGv9d60r6X2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+    "id" : "6kACVPfCOnqzgfEF5ryl0x",
+    "name" : "Johnny Cash",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 158426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11201688"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6YffUZJ2R06kyxyK6onezL",
+  "id" : "6YffUZJ2R06kyxyK6onezL",
+  "name" : "Ring of Fire - Mono Version",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e3bbba328a3227e0d1095f804cd73a634de8cd04?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6YffUZJ2R06kyxyK6onezL"
+}

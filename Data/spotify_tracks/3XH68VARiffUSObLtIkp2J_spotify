@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rX8AFY10dsJkJsv23Z9Um",
+      "id" : "6rX8AFY10dsJkJsv23Z9Um",
+      "name" : "Karnivool",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rX8AFY10dsJkJsv23Z9Um"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6wmXW2IWSYbQywFGqPnnZ9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6wmXW2IWSYbQywFGqPnnZ9",
+    "id" : "6wmXW2IWSYbQywFGqPnnZ9",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/c5411be907095cbea2d17897ec12ef6f3d9b3acf",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/bb3242ffd9099be83bf7c4f2f20ca327e9809586",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/f323247c0e513a83dc55cb565a92e1a00d55bf50",
+      "width" : 64
+    } ],
+    "name" : "Sound Awake",
+    "type" : "album",
+    "uri" : "spotify:album:6wmXW2IWSYbQywFGqPnnZ9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6rX8AFY10dsJkJsv23Z9Um",
+    "id" : "6rX8AFY10dsJkJsv23Z9Um",
+    "name" : "Karnivool",
+    "type" : "artist",
+    "uri" : "spotify:artist:6rX8AFY10dsJkJsv23Z9Um"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 500760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUKA00900003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3XH68VARiffUSObLtIkp2J"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3XH68VARiffUSObLtIkp2J",
+  "id" : "3XH68VARiffUSObLtIkp2J",
+  "name" : "New Day",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5f1247ab8c57717e8d649f1dca6d350137cfd52f?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3XH68VARiffUSObLtIkp2J"
+}

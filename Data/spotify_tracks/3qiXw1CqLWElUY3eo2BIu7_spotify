@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5AZHg5fZjuN4FzGUnaiQcj",
+      "id" : "5AZHg5fZjuN4FzGUnaiQcj",
+      "name" : "Mirah",
+      "type" : "artist",
+      "uri" : "spotify:artist:5AZHg5fZjuN4FzGUnaiQcj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Fc0lUEKhhNCXL2l79u0Kn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Fc0lUEKhhNCXL2l79u0Kn",
+    "id" : "0Fc0lUEKhhNCXL2l79u0Kn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c7c0568a2a3a9e612d517ad6dae6f92704f013dc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/30868d60ac5d0a6cac906026967f6f1a51da93e4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c80e1b331e111f2f2dddc0418a073f1e70e03a73",
+      "width" : 64
+    } ],
+    "name" : "C'mon Miracle",
+    "type" : "album",
+    "uri" : "spotify:album:0Fc0lUEKhhNCXL2l79u0Kn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5AZHg5fZjuN4FzGUnaiQcj",
+    "id" : "5AZHg5fZjuN4FzGUnaiQcj",
+    "name" : "Mirah",
+    "type" : "artist",
+    "uri" : "spotify:artist:5AZHg5fZjuN4FzGUnaiQcj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 140933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USK110416002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3qiXw1CqLWElUY3eo2BIu7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3qiXw1CqLWElUY3eo2BIu7",
+  "id" : "3qiXw1CqLWElUY3eo2BIu7",
+  "name" : "Jerusalem",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/37760884552e9e4251ba06425464b27ad338ee85?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3qiXw1CqLWElUY3eo2BIu7"
+}

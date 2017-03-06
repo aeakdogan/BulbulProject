@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Nhyo9KNcy4JI38iOWIWk3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Nhyo9KNcy4JI38iOWIWk3",
+      "id" : "3Nhyo9KNcy4JI38iOWIWk3",
+      "name" : "Tom McRae",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Nhyo9KNcy4JI38iOWIWk3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6M5Pe9KxjAA0yxTIlIyGqZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6M5Pe9KxjAA0yxTIlIyGqZ",
+    "id" : "6M5Pe9KxjAA0yxTIlIyGqZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6ee2e5503e6532949904b18beba02c5209f81760",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8b99dcd9d15392237b27bf4b451693dd3ca9c986",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/279a5c30880469337801cb016da3c810b04eb67d",
+      "width" : 64
+    } ],
+    "name" : "Just Like Blood",
+    "type" : "album",
+    "uri" : "spotify:album:6M5Pe9KxjAA0yxTIlIyGqZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Nhyo9KNcy4JI38iOWIWk3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Nhyo9KNcy4JI38iOWIWk3",
+    "id" : "3Nhyo9KNcy4JI38iOWIWk3",
+    "name" : "Tom McRae",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Nhyo9KNcy4JI38iOWIWk3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 234240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDJT1400018"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1wkNY2XKp6zPWeF0fs8LCU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1wkNY2XKp6zPWeF0fs8LCU",
+  "id" : "1wkNY2XKp6zPWeF0fs8LCU",
+  "name" : "Overthrown",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f18cb07b04b95b4b6511e458607c14cbee2b94d4?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1wkNY2XKp6zPWeF0fs8LCU"
+}

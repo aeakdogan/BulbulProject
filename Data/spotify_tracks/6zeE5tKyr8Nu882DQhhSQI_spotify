@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2hl0xAkS2AIRAu23TVMBG1",
+      "id" : "2hl0xAkS2AIRAu23TVMBG1",
+      "name" : "Kansas",
+      "type" : "artist",
+      "uri" : "spotify:artist:2hl0xAkS2AIRAu23TVMBG1"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6oU298pdPTCQnMx1PYwyUA",
+    "id" : "6oU298pdPTCQnMx1PYwyUA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4d8256cad24fce3afd07d4a3d21d379f00388dfc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bed048a65b84075588024fbc1e97684dec2ffae3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5f998727e544d1f25da6c79402ad47e5852f52ca",
+      "width" : 64
+    } ],
+    "name" : "Point Of Know Return",
+    "type" : "album",
+    "uri" : "spotify:album:6oU298pdPTCQnMx1PYwyUA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2hl0xAkS2AIRAu23TVMBG1",
+    "id" : "2hl0xAkS2AIRAu23TVMBG1",
+    "name" : "Kansas",
+    "type" : "artist",
+    "uri" : "spotify:artist:2hl0xAkS2AIRAu23TVMBG1"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 206266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10103196"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6zeE5tKyr8Nu882DQhhSQI",
+  "id" : "6zeE5tKyr8Nu882DQhhSQI",
+  "name" : "Dust in the Wind",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f86dfdfaca403adb32ee7a68b84e9953b0cc8572?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6zeE5tKyr8Nu882DQhhSQI"
+}

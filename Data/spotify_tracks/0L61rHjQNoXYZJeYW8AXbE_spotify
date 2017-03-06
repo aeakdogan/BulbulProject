@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id" : "7bu3H8JO7d0UbMoVzbo70s",
+      "name" : "The Cure",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3x1CmNdXWU0DzpTZXFFRZu",
+    "id" : "3x1CmNdXWU0DzpTZXFFRZu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5dff051e4d3c118f50e96ad09a10dc1ff28d730b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/640991a860a57734dda0e84300cd94801b4045de",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/15f9699a2dda40a3759103ddc512997ae035fe2b",
+      "width" : 64
+    } ],
+    "name" : "Wish",
+    "type" : "album",
+    "uri" : "spotify:album:3x1CmNdXWU0DzpTZXFFRZu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+    "id" : "7bu3H8JO7d0UbMoVzbo70s",
+    "name" : "The Cure",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 330000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10180268"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0L61rHjQNoXYZJeYW8AXbE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0L61rHjQNoXYZJeYW8AXbE",
+  "id" : "0L61rHjQNoXYZJeYW8AXbE",
+  "name" : "Trust",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e20193eea017ac8236041095d3ed966a27be9392?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0L61rHjQNoXYZJeYW8AXbE"
+}

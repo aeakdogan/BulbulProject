@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ZWvN9FEfdTea1SEHjpTNi",
+      "id" : "4ZWvN9FEfdTea1SEHjpTNi",
+      "name" : "Pinback",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ZWvN9FEfdTea1SEHjpTNi"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3gZmE2fq4pkJueLqjTrS7u"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3gZmE2fq4pkJueLqjTrS7u",
+    "id" : "3gZmE2fq4pkJueLqjTrS7u",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e2cf9f631c556fee250d23f7c501d2c488ba7c66",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/12c2d0a7f337a1a7fa8f3a2e66bb4a73e81430b1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/546067fb9f274a6e243a321ddbabe2e72d470b2f",
+      "width" : 64
+    } ],
+    "name" : "Pinback",
+    "type" : "album",
+    "uri" : "spotify:album:3gZmE2fq4pkJueLqjTrS7u"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4ZWvN9FEfdTea1SEHjpTNi",
+    "id" : "4ZWvN9FEfdTea1SEHjpTNi",
+    "name" : "Pinback",
+    "type" : "artist",
+    "uri" : "spotify:artist:4ZWvN9FEfdTea1SEHjpTNi"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 218453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US39Z0400704"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3jxYFHXzxHcfzAbYaESSpU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3jxYFHXzxHcfzAbYaESSpU",
+  "id" : "3jxYFHXzxHcfzAbYaESSpU",
+  "name" : "Chaos Engine",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/80008d4c3aec0bc9601254be1bc9ef9830ae69b4?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3jxYFHXzxHcfzAbYaESSpU"
+}

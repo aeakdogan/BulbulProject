@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2aFm5gM8lQefcKzOvP2eH8",
+      "id" : "2aFm5gM8lQefcKzOvP2eH8",
+      "name" : "Pram",
+      "type" : "artist",
+      "uri" : "spotify:artist:2aFm5gM8lQefcKzOvP2eH8"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2DkoynQUHUS4wZclSZw7LF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2DkoynQUHUS4wZclSZw7LF",
+    "id" : "2DkoynQUHUS4wZclSZw7LF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5942a628813c2d9be4a5a1256874785581f2d1e0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1bcb8c069a25a1e0e4ec10da01ccef4c7d22f3c2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6cf89fbd52a85f8ac5456291d3abe9d531ea2d51",
+      "width" : 64
+    } ],
+    "name" : "The Museum of Imaginary Animals",
+    "type" : "album",
+    "uri" : "spotify:album:2DkoynQUHUS4wZclSZw7LF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2aFm5gM8lQefcKzOvP2eH8",
+    "id" : "2aFm5gM8lQefcKzOvP2eH8",
+    "name" : "Pram",
+    "type" : "artist",
+    "uri" : "spotify:artist:2aFm5gM8lQefcKzOvP2eH8"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 253293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG1018401"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7k9cRbxBFFEKQWpQg57GUT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7k9cRbxBFFEKQWpQg57GUT",
+  "id" : "7k9cRbxBFFEKQWpQg57GUT",
+  "name" : "Owl Service",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/128ff32fa86a0c4cf754fcdde7ab48c4863871ee?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7k9cRbxBFFEKQWpQg57GUT"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EnEZVjo3w1cwcQYePccay",
+      "id" : "4EnEZVjo3w1cwcQYePccay",
+      "name" : "N.W.A.",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EnEZVjo3w1cwcQYePccay"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Y7qkJVZ06tS2GUCDptzyW",
+    "id" : "0Y7qkJVZ06tS2GUCDptzyW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/31919fe1fe272ad1d1d90695635d440fd499ef4f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e30a71a67c3f22ea8a75161a5228cd87b6ed0cb2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/95605870fd10246c48adda1282321ec440a7a364",
+      "width" : 64
+    } ],
+    "name" : "Straight Outta Compton",
+    "type" : "album",
+    "uri" : "spotify:album:0Y7qkJVZ06tS2GUCDptzyW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4EnEZVjo3w1cwcQYePccay",
+    "id" : "4EnEZVjo3w1cwcQYePccay",
+    "name" : "N.W.A.",
+    "type" : "artist",
+    "uri" : "spotify:artist:4EnEZVjo3w1cwcQYePccay"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 336917,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USPO10000874"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1pOIpxfrQ8AszXZdKR3aH3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1pOIpxfrQ8AszXZdKR3aH3",
+  "id" : "1pOIpxfrQ8AszXZdKR3aH3",
+  "name" : "Gangsta Gangsta",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cf46f62de8ee70600c9754b7ec1537a322ce9559?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1pOIpxfrQ8AszXZdKR3aH3"
+}

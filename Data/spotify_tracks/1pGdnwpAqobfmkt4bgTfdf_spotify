@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7HIccJjwPhWkLVKu0gGJgB",
+      "id" : "7HIccJjwPhWkLVKu0gGJgB",
+      "name" : "Erkan Oğur",
+      "type" : "artist",
+      "uri" : "spotify:artist:7HIccJjwPhWkLVKu0gGJgB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5QnqPZMMF2gklOLJokRSdm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5QnqPZMMF2gklOLJokRSdm",
+    "id" : "5QnqPZMMF2gklOLJokRSdm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3bd9327b0dc9f41033d3e416a3c4a6b033906b0b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8b077ff5a39e9035501039f7911972d76998358a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/58f9c60ed226f4804c97bfd010b40fa2369bac86",
+      "width" : 64
+    } ],
+    "name" : "Bir Ömürlük Misafir",
+    "type" : "album",
+    "uri" : "spotify:album:5QnqPZMMF2gklOLJokRSdm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7HIccJjwPhWkLVKu0gGJgB",
+    "id" : "7HIccJjwPhWkLVKu0gGJgB",
+    "name" : "Erkan Oğur",
+    "type" : "artist",
+    "uri" : "spotify:artist:7HIccJjwPhWkLVKu0gGJgB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 282933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR0330602669"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1pGdnwpAqobfmkt4bgTfdf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1pGdnwpAqobfmkt4bgTfdf",
+  "id" : "1pGdnwpAqobfmkt4bgTfdf",
+  "name" : "İki Keklik Bir Yaylada",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d70a9bfcf93e296f80e3e7ae34f526c9fb835def?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1pGdnwpAqobfmkt4bgTfdf"
+}

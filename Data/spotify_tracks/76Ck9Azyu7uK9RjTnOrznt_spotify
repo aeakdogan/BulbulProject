@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6C0JkmxU2cgkVzotHJgfW7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6C0JkmxU2cgkVzotHJgfW7",
+      "id" : "6C0JkmxU2cgkVzotHJgfW7",
+      "name" : "Athlete",
+      "type" : "artist",
+      "uri" : "spotify:artist:6C0JkmxU2cgkVzotHJgfW7"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/40ixj8tIixqi6IO4ab88S9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/40ixj8tIixqi6IO4ab88S9",
+    "id" : "40ixj8tIixqi6IO4ab88S9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1a12fe5ef938a1a2c9188e5b9c0dfb1bf91d52b5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f4149c1dfe1a6d98b8daf7aa3fec7c55a187fc1c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b41af4372d1205e04d096715d68e3d2a43ba66c6",
+      "width" : 64
+    } ],
+    "name" : "The Getaway EP",
+    "type" : "album",
+    "uri" : "spotify:album:40ixj8tIixqi6IO4ab88S9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6C0JkmxU2cgkVzotHJgfW7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6C0JkmxU2cgkVzotHJgfW7",
+    "id" : "6C0JkmxU2cgkVzotHJgfW7",
+    "name" : "Athlete",
+    "type" : "artist",
+    "uri" : "spotify:artist:6C0JkmxU2cgkVzotHJgfW7"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 180480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70909114"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/76Ck9Azyu7uK9RjTnOrznt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/76Ck9Azyu7uK9RjTnOrznt",
+  "id" : "76Ck9Azyu7uK9RjTnOrznt",
+  "name" : "Wild Wolves - Album Version CD2",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d832dd752cb1b72db581bea60fa9d8ed37998b86?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:76Ck9Azyu7uK9RjTnOrznt"
+}

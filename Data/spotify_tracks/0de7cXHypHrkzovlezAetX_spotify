@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1hCkSJcXREhrodeIHQdav8",
+      "id" : "1hCkSJcXREhrodeIHQdav8",
+      "name" : "Ramin Djawadi",
+      "type" : "artist",
+      "uri" : "spotify:artist:1hCkSJcXREhrodeIHQdav8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2poAUFGkHetMzM4xzLBVhY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2poAUFGkHetMzM4xzLBVhY",
+    "id" : "2poAUFGkHetMzM4xzLBVhY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/77e55f5445616020f6fe7209e025754afd885778",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d3a5d7458465c548eac09e46893ab9154fd07f54",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ecafd29fcbc4c992f08ce10970f28368236b00f7",
+      "width" : 64
+    } ],
+    "name" : "Westworld: Season 1 (Music from the HBO® Series)",
+    "type" : "album",
+    "uri" : "spotify:album:2poAUFGkHetMzM4xzLBVhY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6MERXsiRbur2oJZFgYRDKz",
+    "id" : "6MERXsiRbur2oJZFgYRDKz",
+    "name" : "Vitamin String Quartet",
+    "type" : "artist",
+    "uri" : "spotify:artist:6MERXsiRbur2oJZFgYRDKz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 356138,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNLR1601033"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0de7cXHypHrkzovlezAetX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0de7cXHypHrkzovlezAetX",
+  "id" : "0de7cXHypHrkzovlezAetX",
+  "name" : "Something I Can Never Have",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8546a6445dda66c7eef7517a1dc2b009988b23f7?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0de7cXHypHrkzovlezAetX"
+}

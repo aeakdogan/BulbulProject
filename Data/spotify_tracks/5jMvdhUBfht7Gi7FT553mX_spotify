@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3UBLa2huRORV0HmGQq3fGs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3UBLa2huRORV0HmGQq3fGs",
+      "id" : "3UBLa2huRORV0HmGQq3fGs",
+      "name" : "BoomBox",
+      "type" : "artist",
+      "uri" : "spotify:artist:3UBLa2huRORV0HmGQq3fGs"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7CY7ayO5InX34BRxKbOlHp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7CY7ayO5InX34BRxKbOlHp",
+    "id" : "7CY7ayO5InX34BRxKbOlHp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/74c0ef9417bc808d9431c539f50539e9353b23fe",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d24d5f394b98369ed5e64b2708ee7dd67b148261",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2cae1be80d1e4e31b8eea99cf3453d964b7e447e",
+      "width" : 64
+    } ],
+    "name" : "downriverelectric",
+    "type" : "album",
+    "uri" : "spotify:album:7CY7ayO5InX34BRxKbOlHp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3UBLa2huRORV0HmGQq3fGs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3UBLa2huRORV0HmGQq3fGs",
+    "id" : "3UBLa2huRORV0HmGQq3fGs",
+    "name" : "BoomBox",
+    "type" : "artist",
+    "uri" : "spotify:artist:3UBLa2huRORV0HmGQq3fGs"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 203066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm21097104"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5jMvdhUBfht7Gi7FT553mX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5jMvdhUBfht7Gi7FT553mX",
+  "id" : "5jMvdhUBfht7Gi7FT553mX",
+  "name" : "Shakedown Street",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1966100672d7d7cdadf5e031cadbb33da27eae19?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5jMvdhUBfht7Gi7FT553mX"
+}

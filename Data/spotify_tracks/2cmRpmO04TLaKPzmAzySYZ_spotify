@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/066X20Nz7iquqkkCW6Jxy6",
+      "id" : "066X20Nz7iquqkkCW6Jxy6",
+      "name" : "LCD Soundsystem",
+      "type" : "artist",
+      "uri" : "spotify:artist:066X20Nz7iquqkkCW6Jxy6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4hnqM0JK4CM1phwfq1Ldyz",
+    "id" : "4hnqM0JK4CM1phwfq1Ldyz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7c2ddcaf6e3aacc89a6470dcac04cb58c9a42306",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/69307d705b035be9c3c4a044f8323a85b1a85b3e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8b3888b33e9d99f102a05779950bb833fa62d0f9",
+      "width" : 64
+    } ],
+    "name" : "This Is Happening",
+    "type" : "album",
+    "uri" : "spotify:album:4hnqM0JK4CM1phwfq1Ldyz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/066X20Nz7iquqkkCW6Jxy6",
+    "id" : "066X20Nz7iquqkkCW6Jxy6",
+    "name" : "LCD Soundsystem",
+    "type" : "artist",
+    "uri" : "spotify:artist:066X20Nz7iquqkkCW6Jxy6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 536471,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4GE1000019"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2cmRpmO04TLaKPzmAzySYZ",
+  "id" : "2cmRpmO04TLaKPzmAzySYZ",
+  "name" : "Dance Yrself Clean",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1fee1a25077587b659573aeb878a66981c7c3926?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2cmRpmO04TLaKPzmAzySYZ"
+}

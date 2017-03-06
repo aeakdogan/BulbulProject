@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0aLsJXIaJ6MMCZIzaGpMaX",
+      "id" : "0aLsJXIaJ6MMCZIzaGpMaX",
+      "name" : "Little Joy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0aLsJXIaJ6MMCZIzaGpMaX"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6uoMTt6m0GlGFASfdfEIVE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6uoMTt6m0GlGFASfdfEIVE",
+    "id" : "6uoMTt6m0GlGFASfdfEIVE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/788776eed8f248798c9418bebd464e192087b2d7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f01574212d2ac7f720bbe0fbe0b6a16deb73bb74",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4609057fac482046cc7f00d93a8f513698237c9a",
+      "width" : 64
+    } ],
+    "name" : "Little Joy (US Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:6uoMTt6m0GlGFASfdfEIVE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0aLsJXIaJ6MMCZIzaGpMaX",
+    "id" : "0aLsJXIaJ6MMCZIzaGpMaX",
+    "name" : "Little Joy",
+    "type" : "artist",
+    "uri" : "spotify:artist:0aLsJXIaJ6MMCZIzaGpMaX"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 144546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVZ0802459"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5ruFO5Cbjvljsh3ItsDmp8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5ruFO5Cbjvljsh3ItsDmp8",
+  "id" : "5ruFO5Cbjvljsh3ItsDmp8",
+  "name" : "Keep Me In Mind",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6cb7d987b32ea9ae97f683321009ce0f11d63a4a?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5ruFO5Cbjvljsh3ItsDmp8"
+}

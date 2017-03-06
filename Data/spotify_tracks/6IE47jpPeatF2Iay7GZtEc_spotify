@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5juOkIIy18sFw9L30syt1Z",
+      "id" : "5juOkIIy18sFw9L30syt1Z",
+      "name" : "Washed Out",
+      "type" : "artist",
+      "uri" : "spotify:artist:5juOkIIy18sFw9L30syt1Z"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3MwrwbxsAhFCNWfjYN3YKN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3MwrwbxsAhFCNWfjYN3YKN",
+    "id" : "3MwrwbxsAhFCNWfjYN3YKN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ec252b340909c2f3c4e77cac88139542cae5212b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/deddf1a1761d6ae72fd15b1268c6d2020a58e327",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a09727c94c4fe9af4a85e7c0bd2a6959ce64aebb",
+      "width" : 64
+    } ],
+    "name" : "Life Of Leisure",
+    "type" : "album",
+    "uri" : "spotify:album:3MwrwbxsAhFCNWfjYN3YKN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5juOkIIy18sFw9L30syt1Z",
+    "id" : "5juOkIIy18sFw9L30syt1Z",
+    "name" : "Washed Out",
+    "type" : "artist",
+    "uri" : "spotify:artist:5juOkIIy18sFw9L30syt1Z"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 192080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMEX0800099"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6IE47jpPeatF2Iay7GZtEc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6IE47jpPeatF2Iay7GZtEc",
+  "id" : "6IE47jpPeatF2Iay7GZtEc",
+  "name" : "Feel It All Around",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9e7353269f97342e91e6b4574d6b51a039c7e8ec?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6IE47jpPeatF2Iay7GZtEc"
+}

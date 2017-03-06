@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+      "id" : "2CWWgbxApjbyByxBBCvGTm",
+      "name" : "Katatonia",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4z98OhSRgHsQnnD7h4lTQj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4z98OhSRgHsQnnD7h4lTQj",
+    "id" : "4z98OhSRgHsQnnD7h4lTQj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1e73d5c928f91b7ede7db03ab3923654c1cb4c62",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/179d1833aca283f632c3e0e35a2204ffb49defb2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/89c80a60b90cab9ab49ddc753b86fba84f8124fe",
+      "width" : 64
+    } ],
+    "name" : "Tonight's Decision",
+    "type" : "album",
+    "uri" : "spotify:album:4z98OhSRgHsQnnD7h4lTQj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+    "id" : "2CWWgbxApjbyByxBBCvGTm",
+    "name" : "Katatonia",
+    "type" : "artist",
+    "uri" : "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 277386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCQV0000192"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1MjYU2IO3LaRTcGBNFVS9a"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1MjYU2IO3LaRTcGBNFVS9a",
+  "id" : "1MjYU2IO3LaRTcGBNFVS9a",
+  "name" : "I Am Nothing",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1f840dd7f4ded8d21ea508ac3065925df5244f29?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1MjYU2IO3LaRTcGBNFVS9a"
+}

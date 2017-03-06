@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5bDxAyJiTYBat1YnFJhvEK",
+      "id" : "5bDxAyJiTYBat1YnFJhvEK",
+      "name" : "Joe Walsh",
+      "type" : "artist",
+      "uri" : "spotify:artist:5bDxAyJiTYBat1YnFJhvEK"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/076bM8NjtRgmIGGrF3Mb6k"
+    },
+    "href" : "https://api.spotify.com/v1/albums/076bM8NjtRgmIGGrF3Mb6k",
+    "id" : "076bM8NjtRgmIGGrF3Mb6k",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c906bed2fbfcc8e70fef4a7ca1d00bdbd1cbdd9a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1a9ec0402788f1af3e2711a691c891e380baf990",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/984d02f8dac79c032dfcef33af07de02aebfffaf",
+      "width" : 64
+    } ],
+    "name" : "Analog Man",
+    "type" : "album",
+    "uri" : "spotify:album:076bM8NjtRgmIGGrF3Mb6k"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5bDxAyJiTYBat1YnFJhvEK",
+    "id" : "5bDxAyJiTYBat1YnFJhvEK",
+    "name" : "Joe Walsh",
+    "type" : "artist",
+    "uri" : "spotify:artist:5bDxAyJiTYBat1YnFJhvEK"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R1200766"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4g5LI1WRCJJSM4nh5AHXBa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4g5LI1WRCJJSM4nh5AHXBa",
+  "id" : "4g5LI1WRCJJSM4nh5AHXBa",
+  "name" : "India",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4949144d221c29ccd034b9841571758a086179d7?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:4g5LI1WRCJJSM4nh5AHXBa"
+}

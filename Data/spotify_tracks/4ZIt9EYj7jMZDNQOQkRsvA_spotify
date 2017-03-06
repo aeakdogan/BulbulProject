@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gbXoccc8bjK8eUh92mILy",
+      "id" : "1gbXoccc8bjK8eUh92mILy",
+      "name" : "Buika",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gbXoccc8bjK8eUh92mILy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7r5wYvvJPOyF3PV3aTPnKd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7r5wYvvJPOyF3PV3aTPnKd",
+    "id" : "7r5wYvvJPOyF3PV3aTPnKd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bf7d219b4f89eac8bf225962f66562679ea08740",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/045493490f367c91755061e2d977239419cab92b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2cfbdb8a6d0e0c181ae2e906fc1f60fd6c7a5a72",
+      "width" : 64
+    } ],
+    "name" : "En mi piel",
+    "type" : "album",
+    "uri" : "spotify:album:7r5wYvvJPOyF3PV3aTPnKd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1gbXoccc8bjK8eUh92mILy",
+    "id" : "1gbXoccc8bjK8eUh92mILy",
+    "name" : "Buika",
+    "type" : "artist",
+    "uri" : "spotify:artist:1gbXoccc8bjK8eUh92mILy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 294360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES5150801167"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4ZIt9EYj7jMZDNQOQkRsvA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4ZIt9EYj7jMZDNQOQkRsvA",
+  "id" : "4ZIt9EYj7jMZDNQOQkRsvA",
+  "name" : "Volver",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2d6386e32d11cde968a867807a1f70e5b90d6f53?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:4ZIt9EYj7jMZDNQOQkRsvA"
+}

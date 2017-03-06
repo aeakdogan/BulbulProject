@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+      "id" : "5BvJzeQpmsdsFp4HGUYUEx",
+      "name" : "Vampire Weekend",
+      "type" : "artist",
+      "uri" : "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7JcfNKXoHSaog85a1hd4lx",
+    "id" : "7JcfNKXoHSaog85a1hd4lx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7601fd72149eeb51f929c55058ba9aea1a416bf2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5106f438528c8e9f1fdf8718a024cbc077ae6614",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5c6c83fda8458389fadfaec935393d2b58d1044a",
+      "width" : 64
+    } ],
+    "name" : "Vampire Weekend",
+    "type" : "album",
+    "uri" : "spotify:album:7JcfNKXoHSaog85a1hd4lx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+    "id" : "5BvJzeQpmsdsFp4HGUYUEx",
+    "name" : "Vampire Weekend",
+    "type" : "artist",
+    "uri" : "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 214706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0700528"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7q4MJZSiqPC16dbhQWxugv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7q4MJZSiqPC16dbhQWxugv",
+  "id" : "7q4MJZSiqPC16dbhQWxugv",
+  "name" : "Cape Cod Kwassa Kwassa",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0f0213f8bd4c84443be049050f1396fd386a9db9?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7q4MJZSiqPC16dbhQWxugv"
+}

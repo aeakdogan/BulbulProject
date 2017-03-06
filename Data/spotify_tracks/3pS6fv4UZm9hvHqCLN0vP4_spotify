@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ucLPotcQNI7AViFytdhBz",
+      "id" : "0ucLPotcQNI7AViFytdhBz",
+      "name" : "Ladytron",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ucLPotcQNI7AViFytdhBz"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0PYgJJqXRstEzH3LvkRNQo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0PYgJJqXRstEzH3LvkRNQo",
+    "id" : "0PYgJJqXRstEzH3LvkRNQo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b2e8bc9114648be7715bdc7eb8a393ec54e3beca",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/70d3211e0a70ee9106aced7a765b4ff0d137fe23",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bc3adb75322ab0391a505203edfa8f36e14687fd",
+      "width" : 64
+    } ],
+    "name" : "Ace of Hz [EP]",
+    "type" : "album",
+    "uri" : "spotify:album:0PYgJJqXRstEzH3LvkRNQo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ucLPotcQNI7AViFytdhBz",
+    "id" : "0ucLPotcQNI7AViFytdhBz",
+    "name" : "Ladytron",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ucLPotcQNI7AViFytdhBz"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN111000270"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3pS6fv4UZm9hvHqCLN0vP4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3pS6fv4UZm9hvHqCLN0vP4",
+  "id" : "3pS6fv4UZm9hvHqCLN0vP4",
+  "name" : "Ace of Hz",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/34435d1aa546c79166ecbbafba38655650e38df8?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3pS6fv4UZm9hvHqCLN0vP4"
+}

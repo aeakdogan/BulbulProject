@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+      "id" : "12Chz98pHFMPJEknJQMWvI",
+      "name" : "Muse",
+      "type" : "artist",
+      "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6AyUVv7MnxxTuijp4WmrhO",
+    "id" : "6AyUVv7MnxxTuijp4WmrhO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3e67c0e68b6cfa0e6d851e0492b29b968d6bb3b9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/29a5e9fc13b9d5f7d5f78ba69d71afa23c84a9d5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fdd7655946d83f014ba2d2c2a3d89d7c7bdb2b64",
+      "width" : 64
+    } ],
+    "name" : "Showbiz",
+    "type" : "album",
+    "uri" : "spotify:album:6AyUVv7MnxxTuijp4WmrhO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+    "id" : "12Chz98pHFMPJEknJQMWvI",
+    "name" : "Muse",
+    "type" : "artist",
+    "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 262973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVT9900014"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5rupf5kRDLhhFPxH15ZmBF",
+  "id" : "5rupf5kRDLhhFPxH15ZmBF",
+  "name" : "Muscle Museum",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/960d5dc83d268ad1a993a0332e061bce1a5ec64c?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5rupf5kRDLhhFPxH15ZmBF"
+}

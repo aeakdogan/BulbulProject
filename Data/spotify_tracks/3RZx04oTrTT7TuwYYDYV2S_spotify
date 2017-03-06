@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GaPCgO5Bpa8hbTuEVCo38"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3GaPCgO5Bpa8hbTuEVCo38",
+      "id" : "3GaPCgO5Bpa8hbTuEVCo38",
+      "name" : "Logh",
+      "type" : "artist",
+      "uri" : "spotify:artist:3GaPCgO5Bpa8hbTuEVCo38"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1U9rbxi5bKu7clHaFouvLp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1U9rbxi5bKu7clHaFouvLp",
+    "id" : "1U9rbxi5bKu7clHaFouvLp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/91503fa839718beda1d40766bad021bcb8324980",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9b593312b836ac374d36b48179772692cf1f452f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/32f5c644c2fe210f2a6b99d4e775ec3788ad06d5",
+      "width" : 64
+    } ],
+    "name" : "A Sunset Panorama",
+    "type" : "album",
+    "uri" : "spotify:album:1U9rbxi5bKu7clHaFouvLp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3GaPCgO5Bpa8hbTuEVCo38"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3GaPCgO5Bpa8hbTuEVCo38",
+    "id" : "3GaPCgO5Bpa8hbTuEVCo38",
+    "name" : "Logh",
+    "type" : "artist",
+    "uri" : "spotify:artist:3GaPCgO5Bpa8hbTuEVCo38"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 259506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USALX0500668"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3RZx04oTrTT7TuwYYDYV2S"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3RZx04oTrTT7TuwYYDYV2S",
+  "id" : "3RZx04oTrTT7TuwYYDYV2S",
+  "name" : "The Smoke Will Lead You Home",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ac5d1000ef500cc4e8b3c74d2577eb70d245f3f7?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:3RZx04oTrTT7TuwYYDYV2S"
+}

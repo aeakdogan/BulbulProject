@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+      "id" : "7t0rwkOPGlDPEhaOcVtOt9",
+      "name" : "The Cranberries",
+      "type" : "artist",
+      "uri" : "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4yRohkbSHhDhlmqlcnY1AE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4yRohkbSHhDhlmqlcnY1AE",
+    "id" : "4yRohkbSHhDhlmqlcnY1AE",
+    "images" : [ {
+      "height" : 571,
+      "url" : "https://i.scdn.co/image/2c8436fc499daf9019100a7791a3c91f48caa10e",
+      "width" : 640
+    }, {
+      "height" : 268,
+      "url" : "https://i.scdn.co/image/a95edc5adc8041244c7d7ce96d6c6a6f0080379f",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/e2ae58325799d25be47dad652fe9efd9f56ed1fd",
+      "width" : 64
+    } ],
+    "name" : "20th Century Masters - The Millennium Collection: The Best Of The Cranberries",
+    "type" : "album",
+    "uri" : "spotify:album:4yRohkbSHhDhlmqlcnY1AE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+    "id" : "7t0rwkOPGlDPEhaOcVtOt9",
+    "name" : "The Cranberries",
+    "type" : "artist",
+    "uri" : "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 230720,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70727302"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7kNRgWI7auu3tlJQgMevlB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7kNRgWI7auu3tlJQgMevlB",
+  "id" : "7kNRgWI7auu3tlJQgMevlB",
+  "name" : "When You're Gone",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0e9ba0c50845963001ab5907becc8189a91cf313?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:7kNRgWI7auu3tlJQgMevlB"
+}

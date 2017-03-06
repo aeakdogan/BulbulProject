@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5FgkTUuCNKDlilidPvZqOq",
+      "id" : "5FgkTUuCNKDlilidPvZqOq",
+      "name" : "Scott Joplin",
+      "type" : "artist",
+      "uri" : "spotify:artist:5FgkTUuCNKDlilidPvZqOq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5oQUqkOa9FMuBPLJ0szWey"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5oQUqkOa9FMuBPLJ0szWey",
+    "id" : "5oQUqkOa9FMuBPLJ0szWey",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2776e0c2954166e3b7db3742e47a7f9e027a8548",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9e606a84e9d9129e3ead3ad09e2746b1c42bc96c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ed6faf38252b5517a1a18c3a57f7cfb3f21d7e96",
+      "width" : 64
+    } ],
+    "name" : "American Classics: Scott Joplin",
+    "type" : "album",
+    "uri" : "spotify:album:5oQUqkOa9FMuBPLJ0szWey"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5FgkTUuCNKDlilidPvZqOq",
+    "id" : "5FgkTUuCNKDlilidPvZqOq",
+    "name" : "Scott Joplin",
+    "type" : "artist",
+    "uri" : "spotify:artist:5FgkTUuCNKDlilidPvZqOq"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3GFsxlO8P0FZ3kZNgNCBww"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3GFsxlO8P0FZ3kZNgNCBww",
+    "id" : "3GFsxlO8P0FZ3kZNgNCBww",
+    "name" : "Joshua Rifkin",
+    "type" : "artist",
+    "uri" : "spotify:artist:3GFsxlO8P0FZ3kZNgNCBww"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 301946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR20800128"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4OBeIzT5dUKXIojL5JaL4S"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4OBeIzT5dUKXIojL5JaL4S",
+  "id" : "4OBeIzT5dUKXIojL5JaL4S",
+  "name" : "Magnetic Rag",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2be49858a2ecc74c6ae752ba4c13a3ed51b463a7?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:4OBeIzT5dUKXIojL5JaL4S"
+}

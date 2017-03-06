@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
+      "id" : "6J7biCazzYhU3gM9j1wfid",
+      "name" : "Jamiroquai",
+      "type" : "artist",
+      "uri" : "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2gIExZUaGpUz21crdjAMnd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2gIExZUaGpUz21crdjAMnd",
+    "id" : "2gIExZUaGpUz21crdjAMnd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b01aecf29da04ba03ee944e0e8d0f7fe0cf7bf99",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ec1960409b4d22a4dff2ba87d231495b51977eae",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dfa4a8a3747f441a19b931c007b77b03e4a08016",
+      "width" : 64
+    } ],
+    "name" : "Rock Dust Light Star",
+    "type" : "album",
+    "uri" : "spotify:album:2gIExZUaGpUz21crdjAMnd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
+    "id" : "6J7biCazzYhU3gM9j1wfid",
+    "name" : "Jamiroquai",
+    "type" : "artist",
+    "uri" : "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 215173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71024485"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1DujLrZJUvLdOCNAUTLJ7Y"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1DujLrZJUvLdOCNAUTLJ7Y",
+  "id" : "1DujLrZJUvLdOCNAUTLJ7Y",
+  "name" : "White Knuckle Ride",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4a51fe616ebda83bc560715f2fadef073e2d7515?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1DujLrZJUvLdOCNAUTLJ7Y"
+}

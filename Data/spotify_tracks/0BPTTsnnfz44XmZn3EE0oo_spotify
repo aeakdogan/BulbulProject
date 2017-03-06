@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5OK8j1JnhoBlivN32G7yOO",
+      "id" : "5OK8j1JnhoBlivN32G7yOO",
+      "name" : "This Mortal Coil",
+      "type" : "artist",
+      "uri" : "spotify:artist:5OK8j1JnhoBlivN32G7yOO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6D6C7jGsJdzJpcEaMcxswR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6D6C7jGsJdzJpcEaMcxswR",
+    "id" : "6D6C7jGsJdzJpcEaMcxswR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ff3f9101412755fe0f6f0ee0d95672a3cfc8d86b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/32db10b5140656390329537e51e83a34a844c2cd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1b517635c80a09b50a59371d922e87eb60e9e1b2",
+      "width" : 64
+    } ],
+    "name" : "It'll End In Tears (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:6D6C7jGsJdzJpcEaMcxswR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5OK8j1JnhoBlivN32G7yOO",
+    "id" : "5OK8j1JnhoBlivN32G7yOO",
+    "name" : "This Mortal Coil",
+    "type" : "artist",
+    "uri" : "spotify:artist:5OK8j1JnhoBlivN32G7yOO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 211093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAFL1000001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0BPTTsnnfz44XmZn3EE0oo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0BPTTsnnfz44XmZn3EE0oo",
+  "id" : "0BPTTsnnfz44XmZn3EE0oo",
+  "name" : "Song To The Siren (Remastered)",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/35c57b8309fd68367bce9296a50eddc8b820fba6?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0BPTTsnnfz44XmZn3EE0oo"
+}

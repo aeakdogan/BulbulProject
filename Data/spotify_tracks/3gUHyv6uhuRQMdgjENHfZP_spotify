@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/03YhcM6fxypfwckPCQV8pQ",
+      "id" : "03YhcM6fxypfwckPCQV8pQ",
+      "name" : "Wes Montgomery",
+      "type" : "artist",
+      "uri" : "spotify:artist:03YhcM6fxypfwckPCQV8pQ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/79403QOWKAE6yeARM4Hjzw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/79403QOWKAE6yeARM4Hjzw",
+    "id" : "79403QOWKAE6yeARM4Hjzw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/049766a28f2806584197060e2c3de8ef1c45c415",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7afb26e70f337f7528faea93834353ddb1397ee5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f7dd49cc123132344f17488a80271a15c48a82ca",
+      "width" : 64
+    } ],
+    "name" : "The Incredible Jazz Guitar (Keepnews Collection)",
+    "type" : "album",
+    "uri" : "spotify:album:79403QOWKAE6yeARM4Hjzw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/03YhcM6fxypfwckPCQV8pQ",
+    "id" : "03YhcM6fxypfwckPCQV8pQ",
+    "name" : "Wes Montgomery",
+    "type" : "artist",
+    "uri" : "spotify:artist:03YhcM6fxypfwckPCQV8pQ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 293320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R0720088"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3gUHyv6uhuRQMdgjENHfZP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3gUHyv6uhuRQMdgjENHfZP",
+  "id" : "3gUHyv6uhuRQMdgjENHfZP",
+  "name" : "In Your Own Sweet Way",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/178e8828ee8548b952bc236469911fcc58c9e984?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3gUHyv6uhuRQMdgjENHfZP"
+}

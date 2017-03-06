@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+      },
+      "href" : "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+      "id" : "711MCceyCBcFnzjGY4Q7Un",
+      "name" : "AC/DC",
+      "type" : "artist",
+      "uri" : "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7kkopGL8qBX9KNQu88tH2y"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7kkopGL8qBX9KNQu88tH2y",
+    "id" : "7kkopGL8qBX9KNQu88tH2y",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4c497bee0d17bed1365dbce72fbedfff21b36a23",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e67975e9996f8fbc4ec6c78af62c82f5632c143c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c1a219b5212a6df4b791920c900438c37388af8",
+      "width" : 64
+    } ],
+    "name" : "'74 Jailbreak",
+    "type" : "album",
+    "uri" : "spotify:album:7kkopGL8qBX9KNQu88tH2y"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+    },
+    "href" : "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+    "id" : "711MCceyCBcFnzjGY4Q7Un",
+    "name" : "AC/DC",
+    "type" : "artist",
+    "uri" : "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 280960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUAP07600031"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5UKeFkVeUfvP6S43I8s9mt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5UKeFkVeUfvP6S43I8s9mt",
+  "id" : "5UKeFkVeUfvP6S43I8s9mt",
+  "name" : "Jailbreak",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4fa3147822c66bd2ce1ef422f7f13dec252a3de5?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5UKeFkVeUfvP6S43I8s9mt"
+}

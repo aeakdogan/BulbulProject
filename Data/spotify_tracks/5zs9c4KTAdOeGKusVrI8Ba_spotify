@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+      "id" : "2BGRfQgtzikz1pzAD0kaEn",
+      "name" : "Elvis Costello",
+      "type" : "artist",
+      "uri" : "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/35y7CZMg7jbG8Q96JY7dyC",
+      "id" : "35y7CZMg7jbG8Q96JY7dyC",
+      "name" : "Burt Bacharach",
+      "type" : "artist",
+      "uri" : "spotify:artist:35y7CZMg7jbG8Q96JY7dyC"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0rhmwOflgYrPntNuEe8chN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0rhmwOflgYrPntNuEe8chN",
+    "id" : "0rhmwOflgYrPntNuEe8chN",
+    "images" : [ {
+      "height" : 631,
+      "url" : "https://i.scdn.co/image/b998b557173cae84a9aa1dce1dd361c096de628d",
+      "width" : 640
+    }, {
+      "height" : 296,
+      "url" : "https://i.scdn.co/image/257e887a1ee8ca9a7847dccebc58975937661f8d",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/b4ee8798e8b2b9ce769eef8caceb05bc933fa103",
+      "width" : 64
+    } ],
+    "name" : "Painted From Memory",
+    "type" : "album",
+    "uri" : "spotify:album:0rhmwOflgYrPntNuEe8chN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+    "id" : "2BGRfQgtzikz1pzAD0kaEn",
+    "name" : "Elvis Costello",
+    "type" : "artist",
+    "uri" : "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/35y7CZMg7jbG8Q96JY7dyC",
+    "id" : "35y7CZMg7jbG8Q96JY7dyC",
+    "name" : "Burt Bacharach",
+    "type" : "artist",
+    "uri" : "spotify:artist:35y7CZMg7jbG8Q96JY7dyC"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 370666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMR19889261"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5zs9c4KTAdOeGKusVrI8Ba"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5zs9c4KTAdOeGKusVrI8Ba",
+  "id" : "5zs9c4KTAdOeGKusVrI8Ba",
+  "name" : "God Give Me Strength",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cb3fbb1a9efa0eada8cfaf8d8f6b7610f9c605aa?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:5zs9c4KTAdOeGKusVrI8Ba"
+}

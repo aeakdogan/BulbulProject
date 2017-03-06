@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+      "id" : "36E7oYfz3LLRto6l2WmDcD",
+      "name" : "Pulp",
+      "type" : "artist",
+      "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5E4PdEFD0vcj57UTBjwlNe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5E4PdEFD0vcj57UTBjwlNe",
+    "id" : "5E4PdEFD0vcj57UTBjwlNe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ad6c32dac0b81f807bbcef4b86554bc6bf5cf25e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0d86f555f32f8e21677ecda5d1f008597af04eaa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7619931f81a1375aaa4e23278235108109c3cd00",
+      "width" : 64
+    } ],
+    "name" : "We Love Life",
+    "type" : "album",
+    "uri" : "spotify:album:5E4PdEFD0vcj57UTBjwlNe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+    "id" : "36E7oYfz3LLRto6l2WmDcD",
+    "name" : "Pulp",
+    "type" : "artist",
+    "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 334133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN0100235"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0TryyXjaRtA0OjlZClton6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0TryyXjaRtA0OjlZClton6",
+  "id" : "0TryyXjaRtA0OjlZClton6",
+  "name" : "I Love Life",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/06fb4bf868e31ad12e6cced10f296ed13f2ec77b?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0TryyXjaRtA0OjlZClton6"
+}

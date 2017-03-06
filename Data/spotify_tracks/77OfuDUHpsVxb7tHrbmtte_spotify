@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+      "id" : "0WwSkZ7LtFUFjGjMZBMt6T",
+      "name" : "Dire Straits",
+      "type" : "artist",
+      "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ORgLm6BMFVpLGS4Q5SKMZ",
+    "id" : "0ORgLm6BMFVpLGS4Q5SKMZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ee0c9f516b4f4059c095123b995a7ac009077215",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/041cd2bd6884615b61b128978b8f5012026ccbe8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa2df48e86acf29929877885ce00626545962cb5",
+      "width" : 64
+    } ],
+    "name" : "On Every Street (Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:0ORgLm6BMFVpLGS4Q5SKMZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+    "id" : "0WwSkZ7LtFUFjGjMZBMt6T",
+    "name" : "Dire Straits",
+    "type" : "artist",
+    "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 304200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF089601052"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/77OfuDUHpsVxb7tHrbmtte"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/77OfuDUHpsVxb7tHrbmtte",
+  "id" : "77OfuDUHpsVxb7tHrbmtte",
+  "name" : "On Every Street",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4837ddacacfce5e2e3750d09df969b0303b0363b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:77OfuDUHpsVxb7tHrbmtte"
+}

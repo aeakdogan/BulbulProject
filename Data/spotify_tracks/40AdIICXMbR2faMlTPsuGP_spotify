@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6XFVoO2x9F6P1FxZy1PG4H",
+      "id" : "6XFVoO2x9F6P1FxZy1PG4H",
+      "name" : "Cæcilie Norby",
+      "type" : "artist",
+      "uri" : "spotify:artist:6XFVoO2x9F6P1FxZy1PG4H"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3EVWV5CIa0RHoE44eLsYbp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3EVWV5CIa0RHoE44eLsYbp",
+    "id" : "3EVWV5CIa0RHoE44eLsYbp",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/1ca1ed8fb3374b08825ae684eea952b08e9da762",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/563d46a286b7414bf06b1506a7e76a333d1f2ad5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7d44c525b76c8e586250f534102424764b176bd9",
+      "width" : 64
+    } ],
+    "name" : "Arabesque",
+    "type" : "album",
+    "uri" : "spotify:album:3EVWV5CIa0RHoE44eLsYbp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6XFVoO2x9F6P1FxZy1PG4H",
+    "id" : "6XFVoO2x9F6P1FxZy1PG4H",
+    "name" : "Cæcilie Norby",
+    "type" : "artist",
+    "uri" : "spotify:artist:6XFVoO2x9F6P1FxZy1PG4H"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 247706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEA891001150"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/40AdIICXMbR2faMlTPsuGP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/40AdIICXMbR2faMlTPsuGP",
+  "id" : "40AdIICXMbR2faMlTPsuGP",
+  "name" : "The Dead Princess",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2886ee10fde5406db9771c384192ed22b39dccf6?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:40AdIICXMbR2faMlTPsuGP"
+}

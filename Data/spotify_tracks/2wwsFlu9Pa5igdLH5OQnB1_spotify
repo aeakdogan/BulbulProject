@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7trvyUUXmPhi1StCNYHj4e",
+      "id" : "7trvyUUXmPhi1StCNYHj4e",
+      "name" : "Lowercase Noises",
+      "type" : "artist",
+      "uri" : "spotify:artist:7trvyUUXmPhi1StCNYHj4e"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7HVsTGihTsZtLRW8XSDor4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7HVsTGihTsZtLRW8XSDor4",
+    "id" : "7HVsTGihTsZtLRW8XSDor4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a62595a2416edab11e4366a31e4d53851e0fbebc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8bf8f95099ce62a01076701fc7996986a43b9fac",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/356b065f4e90eb3a50a5d7fa63a5ee683a396167",
+      "width" : 64
+    } ],
+    "name" : "Vivian",
+    "type" : "album",
+    "uri" : "spotify:album:7HVsTGihTsZtLRW8XSDor4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7trvyUUXmPhi1StCNYHj4e",
+    "id" : "7trvyUUXmPhi1StCNYHj4e",
+    "name" : "Lowercase Noises",
+    "type" : "artist",
+    "uri" : "spotify:artist:7trvyUUXmPhi1StCNYHj4e"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 347000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWKN1100007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2wwsFlu9Pa5igdLH5OQnB1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2wwsFlu9Pa5igdLH5OQnB1",
+  "id" : "2wwsFlu9Pa5igdLH5OQnB1",
+  "name" : "A Little Lair For A Very Small Bear",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3ad6e9666a38df4e254581e5882ea7ea2876085e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2wwsFlu9Pa5igdLH5OQnB1"
+}

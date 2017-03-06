@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1JdeDdujDbS6ZeSlkXqx3a",
+      "id" : "1JdeDdujDbS6ZeSlkXqx3a",
+      "name" : "Loreena McKennitt",
+      "type" : "artist",
+      "uri" : "spotify:artist:1JdeDdujDbS6ZeSlkXqx3a"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2WcHHCuMlmZRLpvCvtTITw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2WcHHCuMlmZRLpvCvtTITw",
+    "id" : "2WcHHCuMlmZRLpvCvtTITw",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/07b3f4a287bdc5a76e668445769bc43729d8fbc6",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/e4917dd7c3b479348af2b97b2c298519b186bf13",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4c339a00e9f17838f5f048cff4686ec853a47cac",
+      "width" : 64
+    } ],
+    "name" : "The Book Of Secrets",
+    "type" : "album",
+    "uri" : "spotify:album:2WcHHCuMlmZRLpvCvtTITw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1JdeDdujDbS6ZeSlkXqx3a",
+    "id" : "1JdeDdujDbS6ZeSlkXqx3a",
+    "name" : "Loreena McKennitt",
+    "type" : "artist",
+    "uri" : "spotify:artist:1JdeDdujDbS6ZeSlkXqx3a"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 367440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAQ119700067"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5OFXqc0YydDLSJTxEp0AjS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5OFXqc0YydDLSJTxEp0AjS",
+  "id" : "5OFXqc0YydDLSJTxEp0AjS",
+  "name" : "The Mummers' Dance",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cb1ca5a246b603bc2f3326d03d2993ddabf4578c?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5OFXqc0YydDLSJTxEp0AjS"
+}

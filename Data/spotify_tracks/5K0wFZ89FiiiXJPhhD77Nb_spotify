@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5BKsn7SCN2XmbF7apdCpRS",
+      "id" : "5BKsn7SCN2XmbF7apdCpRS",
+      "name" : "Goldfrapp",
+      "type" : "artist",
+      "uri" : "spotify:artist:5BKsn7SCN2XmbF7apdCpRS"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V"
+    },
+    "href" : "https://api.spotify.com/v1/albums/65BnZsIXnhBeBReAHAaF6V",
+    "id" : "65BnZsIXnhBeBReAHAaF6V",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/049d36eeb0803d461d7cac8739b9bf0090d6a95a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ebb3fc400f56552a0202497eff388f01a5b102b4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/29c7119ec045f3ab59f062dc3a624f3c350721c1",
+      "width" : 64
+    } ],
+    "name" : "Black Cherry",
+    "type" : "album",
+    "uri" : "spotify:album:65BnZsIXnhBeBReAHAaF6V"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5BKsn7SCN2XmbF7apdCpRS",
+    "id" : "5BKsn7SCN2XmbF7apdCpRS",
+    "name" : "Goldfrapp",
+    "type" : "artist",
+    "uri" : "spotify:artist:5BKsn7SCN2XmbF7apdCpRS"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 251080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0300032"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5K0wFZ89FiiiXJPhhD77Nb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5K0wFZ89FiiiXJPhhD77Nb",
+  "id" : "5K0wFZ89FiiiXJPhhD77Nb",
+  "name" : "Train",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/16ef1e33b0765c6e9bec0fbd3960eac0273764d2?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5K0wFZ89FiiiXJPhhD77Nb"
+}

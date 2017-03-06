@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/08Z0yhWGksNk3wceqlCeGE",
+      "id" : "08Z0yhWGksNk3wceqlCeGE",
+      "name" : "Pangaea",
+      "type" : "artist",
+      "uri" : "spotify:artist:08Z0yhWGksNk3wceqlCeGE"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6hN2Vuc2Hl6NywiorD6vvY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6hN2Vuc2Hl6NywiorD6vvY",
+    "id" : "6hN2Vuc2Hl6NywiorD6vvY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/abe44dd318fcb2bcbec7a2a625076393315489af",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2c7bf3f61f93b6b8cfa994b0c15210e3988d8704",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/130662f6d3e46221ade62356214d02ced96469d7",
+      "width" : 64
+    } ],
+    "name" : "You & I / Router",
+    "type" : "album",
+    "uri" : "spotify:album:6hN2Vuc2Hl6NywiorD6vvY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/08Z0yhWGksNk3wceqlCeGE",
+    "id" : "08Z0yhWGksNk3wceqlCeGE",
+    "name" : "Pangaea",
+    "type" : "artist",
+    "uri" : "spotify:artist:08Z0yhWGksNk3wceqlCeGE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 390288,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUMC0700014"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Ic9ROvLn2af743GSOtZIA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Ic9ROvLn2af743GSOtZIA",
+  "id" : "0Ic9ROvLn2af743GSOtZIA",
+  "name" : "Router",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cc573d7d6e368c1cd63551fa89585794783349c2?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0Ic9ROvLn2af743GSOtZIA"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+      "id" : "0k17h0D3J5VfsdmQ1iZtE9",
+      "name" : "Pink Floyd",
+      "type" : "artist",
+      "uri" : "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Dbax7G8SWrP9xyzkOvy2F",
+    "id" : "5Dbax7G8SWrP9xyzkOvy2F",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/61fbfc12c92752d2334547c00d5f13b8b7edba94",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/464f49ec36104a5939ea76cf1597a5311d91f602",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1e8320282c222089439b3b775008fde1080efde8",
+      "width" : 64
+    } ],
+    "name" : "The Wall",
+    "type" : "album",
+    "uri" : "spotify:album:5Dbax7G8SWrP9xyzkOvy2F"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+    "id" : "0k17h0D3J5VfsdmQ1iZtE9",
+    "name" : "Pink Floyd",
+    "type" : "artist",
+    "uri" : "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 334893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBN9Y1100100"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1GEOSS415bZVHNuXWlCT6b"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1GEOSS415bZVHNuXWlCT6b",
+  "id" : "1GEOSS415bZVHNuXWlCT6b",
+  "name" : "Mother",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/27e17be40ad92710ee3ba81cde4e75b05e2869ed?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1GEOSS415bZVHNuXWlCT6b"
+}

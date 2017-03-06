@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3KOHpygRuo1ruQAbEneR3t",
+      "id" : "3KOHpygRuo1ruQAbEneR3t",
+      "name" : "George FitzGerald",
+      "type" : "artist",
+      "uri" : "spotify:artist:3KOHpygRuo1ruQAbEneR3t"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/03dvMjEENTK1axZxdHaaNu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/03dvMjEENTK1axZxdHaaNu",
+    "id" : "03dvMjEENTK1axZxdHaaNu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c3ff58518dd9ea28f6f5735ac504764cf5f55e49",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ca161d39452793c70b7733626331d7df81b22d75",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f2f71681f1252be5e48c8d280bebd2e5053c31de",
+      "width" : 64
+    } ],
+    "name" : "The Let Down",
+    "type" : "album",
+    "uri" : "spotify:album:03dvMjEENTK1axZxdHaaNu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3KOHpygRuo1ruQAbEneR3t",
+    "id" : "3KOHpygRuo1ruQAbEneR3t",
+    "name" : "George FitzGerald",
+    "type" : "artist",
+    "uri" : "spotify:artist:3KOHpygRuo1ruQAbEneR3t"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 395841,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBHQT1000033"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0z5RJNxH5IvrN5cnMP0eb9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0z5RJNxH5IvrN5cnMP0eb9",
+  "id" : "0z5RJNxH5IvrN5cnMP0eb9",
+  "name" : "The Let Down",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fca44df4384ae1ea980543eb9eacdbcaad85eed0?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0z5RJNxH5IvrN5cnMP0eb9"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xYNmNkaWRqu3e5F4UXME8",
+      "id" : "5xYNmNkaWRqu3e5F4UXME8",
+      "name" : "Alfredo Olivas",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xYNmNkaWRqu3e5F4UXME8"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2fRrYR2e8LMvCyEnHSg2gY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2fRrYR2e8LMvCyEnHSg2gY",
+    "id" : "2fRrYR2e8LMvCyEnHSg2gY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/792fe0280aae7c034037340f3373ba24effe314e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7753d0632b41d6f732235513f0e3e97a7ecb28fa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9608763e5aea220c626abacb9a6c3ddc198abe8a",
+      "width" : 64
+    } ],
+    "name" : "Todo o Nada",
+    "type" : "album",
+    "uri" : "spotify:album:2fRrYR2e8LMvCyEnHSg2gY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5xYNmNkaWRqu3e5F4UXME8",
+    "id" : "5xYNmNkaWRqu3e5F4UXME8",
+    "name" : "Alfredo Olivas",
+    "type" : "artist",
+    "uri" : "spotify:artist:5xYNmNkaWRqu3e5F4UXME8"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234096,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QM7RD1600015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5GeFhL9sihA4Nef2ltQ7H2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5GeFhL9sihA4Nef2ltQ7H2",
+  "id" : "5GeFhL9sihA4Nef2ltQ7H2",
+  "name" : "Todo o Nada",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7eb3f091af9a040fe4d240208fd6e79baba8d3b0?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5GeFhL9sihA4Nef2ltQ7H2"
+}

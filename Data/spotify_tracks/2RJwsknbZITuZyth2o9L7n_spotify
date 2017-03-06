@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+      "id" : "6hhA8TKRNryM8FNzqCqdDO",
+      "name" : "Tricky",
+      "type" : "artist",
+      "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/76Zg0RE2Fin7AqBSTFFrDF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/76Zg0RE2Fin7AqBSTFFrDF",
+    "id" : "76Zg0RE2Fin7AqBSTFFrDF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/020624f87877e6b42fb5cbda7bed3ba80ddcfda3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d5652ae3636d3c944cf8ae76027306091233837c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/668a92cd6006247946cbfe8a1c7ea474fde684da",
+      "width" : 64
+    } ],
+    "name" : "Blowback",
+    "type" : "album",
+    "uri" : "spotify:album:76Zg0RE2Fin7AqBSTFFrDF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+    "id" : "6hhA8TKRNryM8FNzqCqdDO",
+    "name" : "Tricky",
+    "type" : "artist",
+    "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 216240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USHR10128504"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2RJwsknbZITuZyth2o9L7n"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2RJwsknbZITuZyth2o9L7n",
+  "id" : "2RJwsknbZITuZyth2o9L7n",
+  "name" : "Your Name",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/72a565a069ccca2f1cd145c083450d8f02718d2a?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2RJwsknbZITuZyth2o9L7n"
+}

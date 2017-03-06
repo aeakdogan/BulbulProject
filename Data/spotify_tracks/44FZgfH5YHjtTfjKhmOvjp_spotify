@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7fh7bwX9qV60tLxxsp9bTe",
+      "id" : "7fh7bwX9qV60tLxxsp9bTe",
+      "name" : "The Durutti Column",
+      "type" : "artist",
+      "uri" : "spotify:artist:7fh7bwX9qV60tLxxsp9bTe"
+    } ],
+    "available_markets" : [ "CA", "GB", "HK", "ID", "IE", "MX", "MY", "PH", "SG", "TW", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6loUyyw92WAaXM3lzyRwNj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6loUyyw92WAaXM3lzyRwNj",
+    "id" : "6loUyyw92WAaXM3lzyRwNj",
+    "images" : [ {
+      "height" : 631,
+      "url" : "https://i.scdn.co/image/7140baf15d79374dc56b2ba2277b1aae774cb5d7",
+      "width" : 640
+    }, {
+      "height" : 296,
+      "url" : "https://i.scdn.co/image/68cc4c1a9ee0343c135b53449cf8e1e35d4ead21",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/90d98ec5c6332fdc682e242f1827ff0ad60430cb",
+      "width" : 64
+    } ],
+    "name" : "Vini Reilly",
+    "type" : "album",
+    "uri" : "spotify:album:6loUyyw92WAaXM3lzyRwNj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7fh7bwX9qV60tLxxsp9bTe",
+    "id" : "7fh7bwX9qV60tLxxsp9bTe",
+    "name" : "The Durutti Column",
+    "type" : "artist",
+    "uri" : "spotify:artist:7fh7bwX9qV60tLxxsp9bTe"
+  } ],
+  "available_markets" : [ "CA", "GB", "HK", "ID", "IE", "MX", "MY", "PH", "SG", "TW", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 167266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBANQ8900004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/44FZgfH5YHjtTfjKhmOvjp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/44FZgfH5YHjtTfjKhmOvjp",
+  "id" : "44FZgfH5YHjtTfjKhmOvjp",
+  "name" : "Love No More",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b2ae9d8366b2ede91829d179df122fdcc8f7e79a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:44FZgfH5YHjtTfjKhmOvjp"
+}

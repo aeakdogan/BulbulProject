@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Bz8k8phXRsAtBB6xrIR83",
+      "id" : "5Bz8k8phXRsAtBB6xrIR83",
+      "name" : "bel canto",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Bz8k8phXRsAtBB6xrIR83"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0rvkMaQB1tkIRkYkZgjrrW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0rvkMaQB1tkIRkYkZgjrrW",
+    "id" : "0rvkMaQB1tkIRkYkZgjrrW",
+    "images" : [ {
+      "height" : 625,
+      "url" : "https://i.scdn.co/image/6c2dc53e4943b8561aaacc40cce28e5e90634f18",
+      "width" : 640
+    }, {
+      "height" : 293,
+      "url" : "https://i.scdn.co/image/fcddb7d5cb36ac180793e45fc732a0d4e676f6e5",
+      "width" : 300
+    }, {
+      "height" : 62,
+      "url" : "https://i.scdn.co/image/7ad00f384a7171ce2c978fa2cc1df6e6cd5e5abb",
+      "width" : 64
+    } ],
+    "name" : "Birds of Passage",
+    "type" : "album",
+    "uri" : "spotify:album:0rvkMaQB1tkIRkYkZgjrrW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Bz8k8phXRsAtBB6xrIR83",
+    "id" : "5Bz8k8phXRsAtBB6xrIR83",
+    "name" : "bel canto",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Bz8k8phXRsAtBB6xrIR83"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 243480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOYCA9001020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/33F4TjT41aTxzmPvLzIIAC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/33F4TjT41aTxzmPvLzIIAC",
+  "id" : "33F4TjT41aTxzmPvLzIIAC",
+  "name" : "Dewy Fields",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/75f9d9025c4144b07bcaa6a413f32d9d8c805f39?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:33F4TjT41aTxzmPvLzIIAC"
+}

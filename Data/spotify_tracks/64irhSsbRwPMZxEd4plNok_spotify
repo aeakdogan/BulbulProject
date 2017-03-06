@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1xgFexIwrf2QjbU0buCNnp",
+      "id" : "1xgFexIwrf2QjbU0buCNnp",
+      "name" : "The Breeders",
+      "type" : "artist",
+      "uri" : "spotify:artist:1xgFexIwrf2QjbU0buCNnp"
+    } ],
+    "available_markets" : [ "AR", "BR", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1HAAtnkYqSmwRRqGOYcYrE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1HAAtnkYqSmwRRqGOYcYrE",
+    "id" : "1HAAtnkYqSmwRRqGOYcYrE",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/f06adba34ac515ca4f3f2ab92721a069a4da6566",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/0f2865fb940704d66db175d61904912f8c1bc48a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0c1a70a38e91aae1f8b1efe032d6b5adee9cbb8d",
+      "width" : 64
+    } ],
+    "name" : "Title TK",
+    "type" : "album",
+    "uri" : "spotify:album:1HAAtnkYqSmwRRqGOYcYrE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1xgFexIwrf2QjbU0buCNnp",
+    "id" : "1xgFexIwrf2QjbU0buCNnp",
+    "name" : "The Breeders",
+    "type" : "artist",
+    "uri" : "spotify:artist:1xgFexIwrf2QjbU0buCNnp"
+  } ],
+  "available_markets" : [ "AR", "BR", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 295666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10901487"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/64irhSsbRwPMZxEd4plNok"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/64irhSsbRwPMZxEd4plNok",
+  "id" : "64irhSsbRwPMZxEd4plNok",
+  "name" : "Off You",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cf3f75f6b7afc746d0484d121f9c4b27296785e4?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:64irhSsbRwPMZxEd4plNok"
+}

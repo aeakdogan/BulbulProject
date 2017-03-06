@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XSKLwRyT1GttGP7fqr5o5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XSKLwRyT1GttGP7fqr5o5",
+      "id" : "1XSKLwRyT1GttGP7fqr5o5",
+      "name" : "Yaz",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XSKLwRyT1GttGP7fqr5o5"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6g7Ht3tIGuAv5SZOIDWcRq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6g7Ht3tIGuAv5SZOIDWcRq",
+    "id" : "6g7Ht3tIGuAv5SZOIDWcRq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c8c3c38d7a7a9a6729d55f6bb3c8efb9af89965e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4587d5abca98268cffd414e4c496118c5efc35c4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d2dca0c62c389101e13c4ae1d73fcb4582848bac",
+      "width" : 64
+    } ],
+    "name" : "Reconnected Live",
+    "type" : "album",
+    "uri" : "spotify:album:6g7Ht3tIGuAv5SZOIDWcRq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1G1mX30GpUJqOr1QU2eBSs",
+    "id" : "1G1mX30GpUJqOr1QU2eBSs",
+    "name" : "Yazoo",
+    "type" : "artist",
+    "uri" : "spotify:artist:1G1mX30GpUJqOr1QU2eBSs"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 214306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH1000425"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/20QFf3rJEQPIJVrDKKqeca"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/20QFf3rJEQPIJVrDKKqeca",
+  "id" : "20QFf3rJEQPIJVrDKKqeca",
+  "name" : "Bring Your Love Down (Didn't I) - Live",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/71b7baab27e5589c4c2f2d6bd762cf138637a0ef?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:20QFf3rJEQPIJVrDKKqeca"
+}

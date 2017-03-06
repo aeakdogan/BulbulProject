@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI",
+      "id" : "3nnQpaTvKb5jCQabZefACI",
+      "name" : "Jeff Buckley",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nnQpaTvKb5jCQabZefACI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/07Fr36M0hRPJrSJMFWGnvD",
+    "id" : "07Fr36M0hRPJrSJMFWGnvD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/21a1dd1ddd2176dbcd434552b76a5e7a40283529",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/09aa41579feb5fbd4d4546045cdfdfdae9d5f6d1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/577e1a945a800688e5baa7f8a2e0b4b2114ba02e",
+      "width" : 64
+    } ],
+    "name" : "Grace (Legacy Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:07Fr36M0hRPJrSJMFWGnvD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI",
+    "id" : "3nnQpaTvKb5jCQabZefACI",
+    "name" : "Jeff Buckley",
+    "type" : "artist",
+    "uri" : "spotify:artist:3nnQpaTvKb5jCQabZefACI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 279786,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19400143"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7qnEChnmqWmGGqWgK7ffqS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7qnEChnmqWmGGqWgK7ffqS",
+  "id" : "7qnEChnmqWmGGqWgK7ffqS",
+  "name" : "So Real",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bace6e744f13c35bf305ceaa47c7b46b3e075c73?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7qnEChnmqWmGGqWgK7ffqS"
+}

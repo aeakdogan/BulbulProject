@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1C2rCgyUlqHUx1Xm0KXUik"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1C2rCgyUlqHUx1Xm0KXUik",
+      "id" : "1C2rCgyUlqHUx1Xm0KXUik",
+      "name" : "Greg Haines",
+      "type" : "artist",
+      "uri" : "spotify:artist:1C2rCgyUlqHUx1Xm0KXUik"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/37dOiL07jFHaFPa9UNRxv7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/37dOiL07jFHaFPa9UNRxv7",
+    "id" : "37dOiL07jFHaFPa9UNRxv7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e84f82fe7465736923d663cd9a97d4355e4c6320",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/34efdcd2d05bfe6a53433c23af774a3fa6973e1c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/150ca1d369770a0ab7ad2d203dfc6072aab1f0ca",
+      "width" : 64
+    } ],
+    "name" : "Digressions",
+    "type" : "album",
+    "uri" : "spotify:album:37dOiL07jFHaFPa9UNRxv7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1C2rCgyUlqHUx1Xm0KXUik"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1C2rCgyUlqHUx1Xm0KXUik",
+    "id" : "1C2rCgyUlqHUx1Xm0KXUik",
+    "name" : "Greg Haines",
+    "type" : "artist",
+    "uri" : "spotify:artist:1C2rCgyUlqHUx1Xm0KXUik"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 227009,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEZ651301447"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4x2FVZuA9Kpbgxtc5M0MZo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4x2FVZuA9Kpbgxtc5M0MZo",
+  "id" : "4x2FVZuA9Kpbgxtc5M0MZo",
+  "name" : "Ernetti",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2a7ef987878f666385ba5e6ec8cf16859d34ff97?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4x2FVZuA9Kpbgxtc5M0MZo"
+}

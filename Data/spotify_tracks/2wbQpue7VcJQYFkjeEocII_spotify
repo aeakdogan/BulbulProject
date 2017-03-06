@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2rHgctQLLQqcebs4jN82z1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2rHgctQLLQqcebs4jN82z1",
+    "id" : "2rHgctQLLQqcebs4jN82z1",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/1e055b7ded4dc8e32cf309431dca00609791970d",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/8ea14251d3c8010da3e9f858966068a3e03c50b8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1b2a1a713e1ed2fd853264dabc1444297b007596",
+      "width" : 64
+    } ],
+    "name" : "Across The Universe (Original Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:2rHgctQLLQqcebs4jN82z1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/15cfE4nzURJUvrUyqsrMuF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/15cfE4nzURJUvrUyqsrMuF",
+    "id" : "15cfE4nzURJUvrUyqsrMuF",
+    "name" : "Jim Sturgess",
+    "type" : "artist",
+    "uri" : "spotify:artist:15cfE4nzURJUvrUyqsrMuF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 146573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBYQ0710003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2wbQpue7VcJQYFkjeEocII"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2wbQpue7VcJQYFkjeEocII",
+  "id" : "2wbQpue7VcJQYFkjeEocII",
+  "name" : "All My Loving - From \"Across The Universe\" Soundtrack",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a4ef8d67295adaca0509a0b3cedc56464bdfc7e8?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2wbQpue7VcJQYFkjeEocII"
+}

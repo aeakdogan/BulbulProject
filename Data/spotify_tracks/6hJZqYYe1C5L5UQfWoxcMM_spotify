@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0fauHpmSHwodVYIjTqOGHz",
+      "id" : "0fauHpmSHwodVYIjTqOGHz",
+      "name" : "Yiruma",
+      "type" : "artist",
+      "uri" : "spotify:artist:0fauHpmSHwodVYIjTqOGHz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4WLXjQsgONeJBy7sbhZPW5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4WLXjQsgONeJBy7sbhZPW5",
+      "id" : "4WLXjQsgONeJBy7sbhZPW5",
+      "name" : "PianoSista",
+      "type" : "artist",
+      "uri" : "spotify:artist:4WLXjQsgONeJBy7sbhZPW5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6IyFQbfbzB9vm148ifEErO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6IyFQbfbzB9vm148ifEErO",
+    "id" : "6IyFQbfbzB9vm148ifEErO",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/ca11ff91c76a10f305f1a9d3f94d2212b7082d29",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1d0521e1fb66137f9725b893d78075f4bdd60937",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9af246d9b8880a97d2638f69168a0993c6ce0b8f",
+      "width" : 64
+    } ],
+    "name" : "Yiruma",
+    "type" : "album",
+    "uri" : "spotify:album:6IyFQbfbzB9vm148ifEErO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0fauHpmSHwodVYIjTqOGHz",
+    "id" : "0fauHpmSHwodVYIjTqOGHz",
+    "name" : "Yiruma",
+    "type" : "artist",
+    "uri" : "spotify:artist:0fauHpmSHwodVYIjTqOGHz"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4WLXjQsgONeJBy7sbhZPW5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4WLXjQsgONeJBy7sbhZPW5",
+    "id" : "4WLXjQsgONeJBy7sbhZPW5",
+    "name" : "PianoSista",
+    "type" : "artist",
+    "uri" : "spotify:artist:4WLXjQsgONeJBy7sbhZPW5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 126900,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEPI81600115"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6hJZqYYe1C5L5UQfWoxcMM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6hJZqYYe1C5L5UQfWoxcMM",
+  "id" : "6hJZqYYe1C5L5UQfWoxcMM",
+  "name" : "Love Hurts",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d03816272f02488b876e28d6280014644edacc2a?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:6hJZqYYe1C5L5UQfWoxcMM"
+}

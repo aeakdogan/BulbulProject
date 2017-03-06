@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6YuaNIJm6LAKBvRdb8PGIt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6YuaNIJm6LAKBvRdb8PGIt",
+      "id" : "6YuaNIJm6LAKBvRdb8PGIt",
+      "name" : "Kreidler",
+      "type" : "artist",
+      "uri" : "spotify:artist:6YuaNIJm6LAKBvRdb8PGIt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/14C2pxbji3HFrVzizMfDGx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/14C2pxbji3HFrVzizMfDGx",
+    "id" : "14C2pxbji3HFrVzizMfDGx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0de9c55f89a9313cc92a13f7c8e0fb59e1a14958",
+      "width" : 636
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/aaae6dc0e18400207377ebaa3fbc1de498fb3c1c",
+      "width" : 298
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e9b1d82d6a21e17e40e063ad1c6df4d8e5f2671e",
+      "width" : 64
+    } ],
+    "name" : "Weekend",
+    "type" : "album",
+    "uri" : "spotify:album:14C2pxbji3HFrVzizMfDGx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6YuaNIJm6LAKBvRdb8PGIt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6YuaNIJm6LAKBvRdb8PGIt",
+    "id" : "6YuaNIJm6LAKBvRdb8PGIt",
+    "name" : "Kreidler",
+    "type" : "artist",
+    "uri" : "spotify:artist:6YuaNIJm6LAKBvRdb8PGIt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 457386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEG440490025"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6iwci7Hy623D7kJdW9Gth4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6iwci7Hy623D7kJdW9Gth4",
+  "id" : "6iwci7Hy623D7kJdW9Gth4",
+  "name" : "Traffic Way",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a66a94bb52a8378500faf61fe0939d064685f486?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6iwci7Hy623D7kJdW9Gth4"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN",
+      "id" : "4PDpGtF16XpqvXxsrFwQnN",
+      "name" : "Thelonious Monk",
+      "type" : "artist",
+      "uri" : "spotify:artist:4PDpGtF16XpqvXxsrFwQnN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5WuHIfyckUx0FPAG45aNFh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5WuHIfyckUx0FPAG45aNFh",
+    "id" : "5WuHIfyckUx0FPAG45aNFh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/715354bef210e4d7c6b1ee5c6a8b6333ba01acf4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7647134399e25e957d116c736411c2fa02dc1113",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3aa5e78bda8f373fe9350650c0b78877c0a248be",
+      "width" : 64
+    } ],
+    "name" : "Monk's Blues",
+    "type" : "album",
+    "uri" : "spotify:album:5WuHIfyckUx0FPAG45aNFh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN",
+    "id" : "4PDpGtF16XpqvXxsrFwQnN",
+    "name" : "Thelonious Monk",
+    "type" : "artist",
+    "uri" : "spotify:artist:4PDpGtF16XpqvXxsrFwQnN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 225626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19919956"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Dcqv22L6yxJEiRoCz0yZH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Dcqv22L6yxJEiRoCz0yZH",
+  "id" : "3Dcqv22L6yxJEiRoCz0yZH",
+  "name" : "Let's Cool One",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5f86287bc696449b5173a9e5facbbe3a25f96fbb?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3Dcqv22L6yxJEiRoCz0yZH"
+}

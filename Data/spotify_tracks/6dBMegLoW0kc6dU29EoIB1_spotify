@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AmgGrYHXqgbmZ2yKoIVzO",
+      "id" : "3AmgGrYHXqgbmZ2yKoIVzO",
+      "name" : "Warpaint",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AmgGrYHXqgbmZ2yKoIVzO"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1gXKtAtrUSnwExgSN76QiK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1gXKtAtrUSnwExgSN76QiK",
+    "id" : "1gXKtAtrUSnwExgSN76QiK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/74b4261dc41f5279b1ad153cabd0d726f3728541",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c5e0ac494110e0c8ea90c93af550e431b2ebb9ca",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b948137c17fee63af8db22e7542fd3fad0d76dd3",
+      "width" : 64
+    } ],
+    "name" : "The Fool",
+    "type" : "album",
+    "uri" : "spotify:album:1gXKtAtrUSnwExgSN76QiK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3AmgGrYHXqgbmZ2yKoIVzO",
+    "id" : "3AmgGrYHXqgbmZ2yKoIVzO",
+    "name" : "Warpaint",
+    "type" : "artist",
+    "uri" : "spotify:artist:3AmgGrYHXqgbmZ2yKoIVzO"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 353226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVZ1002880"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6dBMegLoW0kc6dU29EoIB1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6dBMegLoW0kc6dU29EoIB1",
+  "id" : "6dBMegLoW0kc6dU29EoIB1",
+  "name" : "Undertow",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a526222b82348656c9040ef33b924f1a732d9cd0?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6dBMegLoW0kc6dU29EoIB1"
+}

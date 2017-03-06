@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69lxxQvsfAIoQbB20bEPFC",
+      "id" : "69lxxQvsfAIoQbB20bEPFC",
+      "name" : "Philip Glass",
+      "type" : "artist",
+      "uri" : "spotify:artist:69lxxQvsfAIoQbB20bEPFC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0M6xcJTswOl2qvExCJhiS3",
+      "id" : "0M6xcJTswOl2qvExCJhiS3",
+      "name" : "Kronos Quartet",
+      "type" : "artist",
+      "uri" : "spotify:artist:0M6xcJTswOl2qvExCJhiS3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0CVa8Zv0TIBtFghs6wwsJW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0CVa8Zv0TIBtFghs6wwsJW",
+    "id" : "0CVa8Zv0TIBtFghs6wwsJW",
+    "images" : [ {
+      "height" : 582,
+      "url" : "https://i.scdn.co/image/8f2143c18ab9b13b1db30d74904d23e5e5b39177",
+      "width" : 640
+    }, {
+      "height" : 273,
+      "url" : "https://i.scdn.co/image/1f6a078e3daa4e8c68894475943dc7d8f14b726a",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/489ffe1e4ef2db90faabcd7af5e71c51c81c7b54",
+      "width" : 64
+    } ],
+    "name" : "Philip Glass: Dracula",
+    "type" : "album",
+    "uri" : "spotify:album:0CVa8Zv0TIBtFghs6wwsJW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/69lxxQvsfAIoQbB20bEPFC",
+    "id" : "69lxxQvsfAIoQbB20bEPFC",
+    "name" : "Philip Glass",
+    "type" : "artist",
+    "uri" : "spotify:artist:69lxxQvsfAIoQbB20bEPFC"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0M6xcJTswOl2qvExCJhiS3",
+    "id" : "0M6xcJTswOl2qvExCJhiS3",
+    "name" : "Kronos Quartet",
+    "type" : "artist",
+    "uri" : "spotify:artist:0M6xcJTswOl2qvExCJhiS3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 143866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US65R0660614"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/62lTlpgLWkGyfVyZf4etT3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/62lTlpgLWkGyfVyZf4etT3",
+  "id" : "62lTlpgLWkGyfVyZf4etT3",
+  "name" : "Lucy's Bitten",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ea2719b4669d33a465ae164f4f7cc04e2ab6fdd5?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:62lTlpgLWkGyfVyZf4etT3"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7FIoB5PHdrMZVC3q2HE5MS",
+      "id" : "7FIoB5PHdrMZVC3q2HE5MS",
+      "name" : "George Harrison",
+      "type" : "artist",
+      "uri" : "spotify:artist:7FIoB5PHdrMZVC3q2HE5MS"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1nbq8GgaVdINI3PulXvPUq",
+    "id" : "1nbq8GgaVdINI3PulXvPUq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8719d1dc11df35bab3f896dabcd5d449d4462bf8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e3623c3d72784d76ad0a75ae9e3119334da58ff5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e9df57ca02acb9e60417bf74b62d3b9a41b82a27",
+      "width" : 64
+    } ],
+    "name" : "Cloud Nine",
+    "type" : "album",
+    "uri" : "spotify:album:1nbq8GgaVdINI3PulXvPUq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7FIoB5PHdrMZVC3q2HE5MS",
+    "id" : "7FIoB5PHdrMZVC3q2HE5MS",
+    "name" : "George Harrison",
+    "type" : "artist",
+    "uri" : "spotify:artist:7FIoB5PHdrMZVC3q2HE5MS"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 234653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEXP0300054"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3OeUlriM0EZHdWleJtjoVr",
+  "id" : "3OeUlriM0EZHdWleJtjoVr",
+  "name" : "Got My Mind Set On You - 2004 Digital Remaster",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0146ab9b59ba20a186df5faff7ca1f270b0678ef?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:3OeUlriM0EZHdWleJtjoVr"
+}

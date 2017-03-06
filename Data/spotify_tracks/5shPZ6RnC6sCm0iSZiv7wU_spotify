@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+      "id" : "5a2EaR3hamoenG9rDuVn8j",
+      "name" : "Prince",
+      "type" : "artist",
+      "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/68qpubhEKJPAKgWarrqfoA",
+    "id" : "68qpubhEKJPAKgWarrqfoA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/de124ee7567ebbac336e18926728de52d898dd97",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d4dcada8dd07d784c92f82845b05bceea9d203a4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ff08a06e6f8390d4bbf42b7d422463072678d28c",
+      "width" : 64
+    } ],
+    "name" : "Controversy",
+    "type" : "album",
+    "uri" : "spotify:album:68qpubhEKJPAKgWarrqfoA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+    "id" : "5a2EaR3hamoenG9rDuVn8j",
+    "name" : "Prince",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 435333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB18100020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5shPZ6RnC6sCm0iSZiv7wU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5shPZ6RnC6sCm0iSZiv7wU",
+  "id" : "5shPZ6RnC6sCm0iSZiv7wU",
+  "name" : "Controversy",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/11edc8645e6054d10a2bd2a55d3bd4979bc52505?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5shPZ6RnC6sCm0iSZiv7wU"
+}

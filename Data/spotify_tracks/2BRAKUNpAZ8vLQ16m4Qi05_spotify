@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5lModM3s3qlPQKYjtwWuXD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5lModM3s3qlPQKYjtwWuXD",
+      "id" : "5lModM3s3qlPQKYjtwWuXD",
+      "name" : "The Duke Spirit",
+      "type" : "artist",
+      "uri" : "spotify:artist:5lModM3s3qlPQKYjtwWuXD"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6bshemq6Xab4zNifr6FmGo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6bshemq6Xab4zNifr6FmGo",
+    "id" : "6bshemq6Xab4zNifr6FmGo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bcbec62e8d3899aa4fffa19e4888cf0889300281",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e55cdfa2c71bba9728f387d9256c71ed49f6e4b2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/92b8e90a09981a2f73b85b77a7b0769669177e31",
+      "width" : 64
+    } ],
+    "name" : "Neptune",
+    "type" : "album",
+    "uri" : "spotify:album:6bshemq6Xab4zNifr6FmGo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5lModM3s3qlPQKYjtwWuXD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5lModM3s3qlPQKYjtwWuXD",
+    "id" : "5lModM3s3qlPQKYjtwWuXD",
+    "name" : "The Duke Spirit",
+    "type" : "artist",
+    "uri" : "spotify:artist:5lModM3s3qlPQKYjtwWuXD"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 160773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USM880800008"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2BRAKUNpAZ8vLQ16m4Qi05"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2BRAKUNpAZ8vLQ16m4Qi05",
+  "id" : "2BRAKUNpAZ8vLQ16m4Qi05",
+  "name" : "You Really Wake Up The Love In Me",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/09b214aca01dd67c25d10838978c68ca474d5990?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2BRAKUNpAZ8vLQ16m4Qi05"
+}

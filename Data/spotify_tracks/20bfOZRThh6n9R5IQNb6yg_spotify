@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3E3xrZtBU5ORqcmX78v5YZ",
+      "id" : "3E3xrZtBU5ORqcmX78v5YZ",
+      "name" : "The Starting Line",
+      "type" : "artist",
+      "uri" : "spotify:artist:3E3xrZtBU5ORqcmX78v5YZ"
+    } ],
+    "available_markets" : [ "AT", "BE", "CA", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IT", "LT", "LU", "NL", "NO", "PL", "PT", "SE", "SK", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2YXUW71UK8fEBWVuZa0MAY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2YXUW71UK8fEBWVuZa0MAY",
+    "id" : "2YXUW71UK8fEBWVuZa0MAY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/544686439319b4456bb7fc33c9f3a8f2d74e32f3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5e0fd7a974ca76acf88d17a55461e76d9b53a727",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/838b81591f36ce68e8ea39b578725f6b3c674d4d",
+      "width" : 64
+    } ],
+    "name" : "Direction",
+    "type" : "album",
+    "uri" : "spotify:album:2YXUW71UK8fEBWVuZa0MAY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3E3xrZtBU5ORqcmX78v5YZ",
+    "id" : "3E3xrZtBU5ORqcmX78v5YZ",
+    "name" : "The Starting Line",
+    "type" : "artist",
+    "uri" : "spotify:artist:3E3xrZtBU5ORqcmX78v5YZ"
+  } ],
+  "available_markets" : [ "AT", "BE", "CA", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IT", "LT", "LU", "NL", "NO", "PL", "PT", "SE", "SK", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI20700629"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/20bfOZRThh6n9R5IQNb6yg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/20bfOZRThh6n9R5IQNb6yg",
+  "id" : "20bfOZRThh6n9R5IQNb6yg",
+  "name" : "Direction",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6583d14742b442ed841525fac720237026c22139?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:20bfOZRThh6n9R5IQNb6yg"
+}

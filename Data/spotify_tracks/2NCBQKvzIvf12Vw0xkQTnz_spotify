@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6",
+      "id" : "6WoTvA9qinpHtSRJuldYh6",
+      "name" : "The Fall",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WoTvA9qinpHtSRJuldYh6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4fgNq8a7rBVUxPc3LEQrqv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4fgNq8a7rBVUxPc3LEQrqv",
+    "id" : "4fgNq8a7rBVUxPc3LEQrqv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2062eff9febac274043a27aa793706359d3c2162",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3b950600b93b719ee837421b330701bd1929e765",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/19052a60362a190587053bb616315516e8ed40c4",
+      "width" : 64
+    } ],
+    "name" : "Ersatz GB",
+    "type" : "album",
+    "uri" : "spotify:album:4fgNq8a7rBVUxPc3LEQrqv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6",
+    "id" : "6WoTvA9qinpHtSRJuldYh6",
+    "name" : "The Fall",
+    "type" : "artist",
+    "uri" : "spotify:artist:6WoTvA9qinpHtSRJuldYh6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 207120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBLY1102819"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2NCBQKvzIvf12Vw0xkQTnz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2NCBQKvzIvf12Vw0xkQTnz",
+  "id" : "2NCBQKvzIvf12Vw0xkQTnz",
+  "name" : "Age Of Chang",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4a669d72abf5f188a65424535f63a3500f37db87?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2NCBQKvzIvf12Vw0xkQTnz"
+}

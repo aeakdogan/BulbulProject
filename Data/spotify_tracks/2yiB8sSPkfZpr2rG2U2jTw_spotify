@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6pwHWKweuoCyx3OoFaD0Q5",
+      "id" : "6pwHWKweuoCyx3OoFaD0Q5",
+      "name" : "The Weepies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6pwHWKweuoCyx3OoFaD0Q5"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4oLNa4UPI7Hv2MC07flMT1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4oLNa4UPI7Hv2MC07flMT1",
+    "id" : "4oLNa4UPI7Hv2MC07flMT1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5ed5eabf9cbdf4e083934c51463eb4fc37577e11",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/14b82d783a2fdbfe322170222a8d6be360fadea8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa768491e6f2d42155da8c49eef69b54a2be2c34",
+      "width" : 64
+    } ],
+    "name" : "Hideaway",
+    "type" : "album",
+    "uri" : "spotify:album:4oLNa4UPI7Hv2MC07flMT1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6pwHWKweuoCyx3OoFaD0Q5",
+    "id" : "6pwHWKweuoCyx3OoFaD0Q5",
+    "name" : "The Weepies",
+    "type" : "artist",
+    "uri" : "spotify:artist:6pwHWKweuoCyx3OoFaD0Q5"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 199800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN110701909"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2yiB8sSPkfZpr2rG2U2jTw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2yiB8sSPkfZpr2rG2U2jTw",
+  "id" : "2yiB8sSPkfZpr2rG2U2jTw",
+  "name" : "Not Dead Yet",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/95e9860c11598a35ffa0e74cc092988d2a89ea75?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2yiB8sSPkfZpr2rG2U2jTw"
+}

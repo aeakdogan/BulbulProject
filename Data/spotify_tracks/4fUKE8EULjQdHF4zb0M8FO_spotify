@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+      "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+      "name" : "The Beatles",
+      "type" : "artist",
+      "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6QaVfG1pHYl1z15ZxkvVDW",
+    "id" : "6QaVfG1pHYl1z15ZxkvVDW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ec881187fe0432c8f6d208b9b4833bd411471345",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b0da4d3af09485434503aec6c83817df0c38f6ef",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/43cda56eb48cf779eff73892fa0a6699a4bb1d3b",
+      "width" : 64
+    } ],
+    "name" : "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:6QaVfG1pHYl1z15ZxkvVDW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+    "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+    "name" : "The Beatles",
+    "type" : "artist",
+    "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 122893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE0601507"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4fUKE8EULjQdHF4zb0M8FO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4fUKE8EULjQdHF4zb0M8FO",
+  "id" : "4fUKE8EULjQdHF4zb0M8FO",
+  "name" : "Sgt. Pepper's Lonely Hearts Club Band - Remastered",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ae81e104c9b55dfd0c203678d29a264801711c6?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4fUKE8EULjQdHF4zb0M8FO"
+}

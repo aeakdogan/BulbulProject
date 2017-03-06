@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d",
+      "id" : "2m62cc253Xvd9qYQ8d2X3d",
+      "name" : "The Alan Parsons Project",
+      "type" : "artist",
+      "uri" : "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4BwRwnghRxGIXaE8lUVLGk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4BwRwnghRxGIXaE8lUVLGk",
+    "id" : "4BwRwnghRxGIXaE8lUVLGk",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/32d3f436379a7d91a482291303887ad03744d60a",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/2c4b2b85dae0f199336dd49221a4aa512424a024",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4b7e8c2ced3030337b363590e239efe41ff44524",
+      "width" : 64
+    } ],
+    "name" : "The Essential Alan Parsons Project",
+    "type" : "album",
+    "uri" : "spotify:album:4BwRwnghRxGIXaE8lUVLGk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d",
+    "id" : "2m62cc253Xvd9qYQ8d2X3d",
+    "name" : "The Alan Parsons Project",
+    "type" : "artist",
+    "uri" : "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 115213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR19700018"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6D2huFRlfVB3ZYNyeLw5Hm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6D2huFRlfVB3ZYNyeLw5Hm",
+  "id" : "6D2huFRlfVB3ZYNyeLw5Hm",
+  "name" : "Sirius",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6a8ca0676e9f5c2dd6292a96bbaff8b18a20b456?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6D2huFRlfVB3ZYNyeLw5Hm"
+}

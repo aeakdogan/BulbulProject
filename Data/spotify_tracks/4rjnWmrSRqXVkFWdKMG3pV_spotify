@@ -1,0 +1,92 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+      "id" : "4NJhFmfw43RLBLjQvxDuRS",
+      "name" : "Wolfgang Amadeus Mozart",
+      "type" : "artist",
+      "uri" : "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hwPQDlJr99FzncxqZD2SU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3hwPQDlJr99FzncxqZD2SU",
+      "id" : "3hwPQDlJr99FzncxqZD2SU",
+      "name" : "René Jacobs",
+      "type" : "artist",
+      "uri" : "spotify:artist:3hwPQDlJr99FzncxqZD2SU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5HrVLavIi6qb20L6CLGoh7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5HrVLavIi6qb20L6CLGoh7",
+    "id" : "5HrVLavIi6qb20L6CLGoh7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/44324c380c95bfa5444d1eea08cc8ddc4d420dd5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3078d6664d0c2f09ab975c619c1eb645d8a5b76f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a5e679bc83e703dee7e7b7f2c7050f52ef5f4950",
+      "width" : 64
+    } ],
+    "name" : "Mozart: Le nozze di Figaro",
+    "type" : "album",
+    "uri" : "spotify:album:5HrVLavIi6qb20L6CLGoh7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+    "id" : "4NJhFmfw43RLBLjQvxDuRS",
+    "name" : "Wolfgang Amadeus Mozart",
+    "type" : "artist",
+    "uri" : "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6dxdut9Mhu7r7SM9HZB5Ob"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6dxdut9Mhu7r7SM9HZB5Ob",
+    "id" : "6dxdut9Mhu7r7SM9HZB5Ob",
+    "name" : "Concerto Köln",
+    "type" : "artist",
+    "uri" : "spotify:artist:6dxdut9Mhu7r7SM9HZB5Ob"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3hwPQDlJr99FzncxqZD2SU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3hwPQDlJr99FzncxqZD2SU",
+    "id" : "3hwPQDlJr99FzncxqZD2SU",
+    "name" : "René Jacobs",
+    "type" : "artist",
+    "uri" : "spotify:artist:3hwPQDlJr99FzncxqZD2SU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 251200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ140308010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4rjnWmrSRqXVkFWdKMG3pV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4rjnWmrSRqXVkFWdKMG3pV",
+  "id" : "4rjnWmrSRqXVkFWdKMG3pV",
+  "name" : "Le Nozze di Figaro, K. 492: Sinfonia",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2b9d298b6aaff61dc5ea47b8265092661f4b488b?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4rjnWmrSRqXVkFWdKMG3pV"
+}

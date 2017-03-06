@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44ejFPE33H5aOInxNV2BFP",
+      "id" : "44ejFPE33H5aOInxNV2BFP",
+      "name" : "Gotan Project",
+      "type" : "artist",
+      "uri" : "spotify:artist:44ejFPE33H5aOInxNV2BFP"
+    } ],
+    "available_markets" : [ "AU", "CA", "GB", "IE", "NZ", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/07lGNrljLTs4BlQaDXL8Hg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/07lGNrljLTs4BlQaDXL8Hg",
+    "id" : "07lGNrljLTs4BlQaDXL8Hg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6bd6e217ef334a0ee37f66f8785568a4f3a11586",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/300cd64dba9d73559f42c40a4109d083c887937f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c7f31dce880a095e7ebd7380845865967373f96b",
+      "width" : 64
+    } ],
+    "name" : "Lunatico",
+    "type" : "album",
+    "uri" : "spotify:album:07lGNrljLTs4BlQaDXL8Hg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/44ejFPE33H5aOInxNV2BFP",
+    "id" : "44ejFPE33H5aOInxNV2BFP",
+    "name" : "Gotan Project",
+    "type" : "artist",
+    "uri" : "spotify:artist:44ejFPE33H5aOInxNV2BFP"
+  } ],
+  "available_markets" : [ "AU", "CA", "GB", "IE", "NZ", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 260693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR99S0500019"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2wR8FToApZWCFcLp1iTJAT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2wR8FToApZWCFcLp1iTJAT",
+  "id" : "2wR8FToApZWCFcLp1iTJAT",
+  "name" : "Notas",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a2b3fe752d41ca0e4c063c46af7cb1a4fdd99445?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2wR8FToApZWCFcLp1iTJAT"
+}

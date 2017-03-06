@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cs7AEIdmEDL1QtcFFcYN2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cs7AEIdmEDL1QtcFFcYN2",
+      "id" : "2cs7AEIdmEDL1QtcFFcYN2",
+      "name" : "Triosk",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cs7AEIdmEDL1QtcFFcYN2"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Vj2mOgP8MOS0NtA8VI2ti"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Vj2mOgP8MOS0NtA8VI2ti",
+    "id" : "4Vj2mOgP8MOS0NtA8VI2ti",
+    "images" : [ {
+      "height" : 577,
+      "url" : "https://i.scdn.co/image/5328bd86e485f60f183a4769df8b0392fb0bdf8a",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/22cddd52d400b3e97804a8211d91a57b83eb9779",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/2cd1c4f0da3c43754b8c6bfaeea957e73c89ec45",
+      "width" : 64
+    } ],
+    "name" : "Moment Returns",
+    "type" : "album",
+    "uri" : "spotify:album:4Vj2mOgP8MOS0NtA8VI2ti"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2cs7AEIdmEDL1QtcFFcYN2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2cs7AEIdmEDL1QtcFFcYN2",
+    "id" : "2cs7AEIdmEDL1QtcFFcYN2",
+    "name" : "Triosk",
+    "type" : "artist",
+    "uri" : "spotify:artist:2cs7AEIdmEDL1QtcFFcYN2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 144640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCKB0400611"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6d7uaPwAz4AHffgVwBnh2R"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6d7uaPwAz4AHffgVwBnh2R",
+  "id" : "6d7uaPwAz4AHffgVwBnh2R",
+  "name" : "The Streets Are Empty",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f0e1ed36fa708de5282d55478ae3474b218c9458?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6d7uaPwAz4AHffgVwBnh2R"
+}

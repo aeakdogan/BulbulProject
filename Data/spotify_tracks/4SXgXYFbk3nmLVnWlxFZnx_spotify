@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+      "id" : "2DaxqgrOhkeH0fpeiQq2f4",
+      "name" : "Oasis",
+      "type" : "artist",
+      "uri" : "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/17ey4RhKTF2sqtr88d6Qfg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/17ey4RhKTF2sqtr88d6Qfg",
+    "id" : "17ey4RhKTF2sqtr88d6Qfg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dcb1370d1f60d1777b948376bedb70de0576aa52",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b4f6703b3672e0d8c46a90a97ebaae3f20cf0229",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/88565bee21bc1f4a3b1f4274f95659d96b8a9ded",
+      "width" : 64
+    } ],
+    "name" : "Don't Believe the Truth",
+    "type" : "album",
+    "uri" : "spotify:album:17ey4RhKTF2sqtr88d6Qfg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+    "id" : "2DaxqgrOhkeH0fpeiQq2f4",
+    "name" : "Oasis",
+    "type" : "artist",
+    "uri" : "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 219826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2P1478199"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4SXgXYFbk3nmLVnWlxFZnx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4SXgXYFbk3nmLVnWlxFZnx",
+  "id" : "4SXgXYFbk3nmLVnWlxFZnx",
+  "name" : "The Importance of Being Idle",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b2ff8da002f10888998a0acc78865f2ac403dd4c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:4SXgXYFbk3nmLVnWlxFZnx"
+}

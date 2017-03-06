@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5lModM3s3qlPQKYjtwWuXD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5lModM3s3qlPQKYjtwWuXD",
+      "id" : "5lModM3s3qlPQKYjtwWuXD",
+      "name" : "The Duke Spirit",
+      "type" : "artist",
+      "uri" : "spotify:artist:5lModM3s3qlPQKYjtwWuXD"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6bshemq6Xab4zNifr6FmGo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6bshemq6Xab4zNifr6FmGo",
+    "id" : "6bshemq6Xab4zNifr6FmGo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bcbec62e8d3899aa4fffa19e4888cf0889300281",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e55cdfa2c71bba9728f387d9256c71ed49f6e4b2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/92b8e90a09981a2f73b85b77a7b0769669177e31",
+      "width" : 64
+    } ],
+    "name" : "Neptune",
+    "type" : "album",
+    "uri" : "spotify:album:6bshemq6Xab4zNifr6FmGo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5lModM3s3qlPQKYjtwWuXD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5lModM3s3qlPQKYjtwWuXD",
+    "id" : "5lModM3s3qlPQKYjtwWuXD",
+    "name" : "The Duke Spirit",
+    "type" : "artist",
+    "uri" : "spotify:artist:5lModM3s3qlPQKYjtwWuXD"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 201893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USM880800003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ZiV3kyRWufw1XUENq2okY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ZiV3kyRWufw1XUENq2okY",
+  "id" : "2ZiV3kyRWufw1XUENq2okY",
+  "name" : "The Step And The Walk",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1a6d026189d7c956a9cd362b0d938195fd9835f8?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2ZiV3kyRWufw1XUENq2okY"
+}

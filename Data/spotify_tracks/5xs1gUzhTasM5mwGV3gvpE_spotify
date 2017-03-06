@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/71GWL6ijlpTh7oGqYlMMpM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/71GWL6ijlpTh7oGqYlMMpM",
+      "id" : "71GWL6ijlpTh7oGqYlMMpM",
+      "name" : "Thomas Fehlmann",
+      "type" : "artist",
+      "uri" : "spotify:artist:71GWL6ijlpTh7oGqYlMMpM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3lgTWDhiDDHFceBTcrkkCp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3lgTWDhiDDHFceBTcrkkCp",
+    "id" : "3lgTWDhiDDHFceBTcrkkCp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0381cfe9a1ca58237ba280b19c4e91db3309dee6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c7f331143ed3651478ea26c4e407ac593fba7e3f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cd275c9993dbab1381135d4446bbee548f41f6fd",
+      "width" : 64
+    } ],
+    "name" : "Lowflow",
+    "type" : "album",
+    "uri" : "spotify:album:3lgTWDhiDDHFceBTcrkkCp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/71GWL6ijlpTh7oGqYlMMpM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/71GWL6ijlpTh7oGqYlMMpM",
+    "id" : "71GWL6ijlpTh7oGqYlMMpM",
+    "name" : "Thomas Fehlmann",
+    "type" : "artist",
+    "uri" : "spotify:artist:71GWL6ijlpTh7oGqYlMMpM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 205413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPG20400101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5xs1gUzhTasM5mwGV3gvpE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5xs1gUzhTasM5mwGV3gvpE",
+  "id" : "5xs1gUzhTasM5mwGV3gvpE",
+  "name" : "Goldhaar",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/57f043610b34e4c93623c9d010df682c90f05a5d?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5xs1gUzhTasM5mwGV3gvpE"
+}

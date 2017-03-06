@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+      "id" : "19eLuQmk9aCobbVDHc6eek",
+      "name" : "Louis Armstrong",
+      "type" : "artist",
+      "uri" : "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/16niuq7vcf4QvnnrJO7yFc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/16niuq7vcf4QvnnrJO7yFc",
+    "id" : "16niuq7vcf4QvnnrJO7yFc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/574cc0a55b19cdcad3b4c301ae6cf1e6b8dd09a9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/05d7e7ca05f4e885e9935bc169a4a2c1fe0a30b4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b5d849e7cd8dac5038361ab964906fb25fb561ef",
+      "width" : 64
+    } ],
+    "name" : "All Time Greatest Hits",
+    "type" : "album",
+    "uri" : "spotify:album:16niuq7vcf4QvnnrJO7yFc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+    },
+    "href" : "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+    "id" : "19eLuQmk9aCobbVDHc6eek",
+    "name" : "Louis Armstrong",
+    "type" : "artist",
+    "uri" : "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 140333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC16758823"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2pp3RfqX5cb1BAnmNi4Nej"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2pp3RfqX5cb1BAnmNi4Nej",
+  "id" : "2pp3RfqX5cb1BAnmNi4Nej",
+  "name" : "What A Wonderful World - Single Version",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fdc746d8eef2755c1e6d002d150c33c563690edf?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2pp3RfqX5cb1BAnmNi4Nej"
+}

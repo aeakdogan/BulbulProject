@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7FPkZue0zzjHaOPJb4WCw3",
+      "id" : "7FPkZue0zzjHaOPJb4WCw3",
+      "name" : "The Pigeon Detectives",
+      "type" : "artist",
+      "uri" : "spotify:artist:7FPkZue0zzjHaOPJb4WCw3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3EVZWeTZ5XDe8Z1O746XP3",
+    "id" : "3EVZWeTZ5XDe8Z1O746XP3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a49425e095683d6e5ebf457e661049fb04cad47e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a5def4213ca2bbbccda20818da3fafbe8d55f42b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ee98a07ce84a0864174db887b9572de2f4d8def6",
+      "width" : 64
+    } ],
+    "name" : "Wait for Me",
+    "type" : "album",
+    "uri" : "spotify:album:3EVZWeTZ5XDe8Z1O746XP3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7FPkZue0zzjHaOPJb4WCw3",
+    "id" : "7FPkZue0zzjHaOPJb4WCw3",
+    "name" : "The Pigeon Detectives",
+    "type" : "artist",
+    "uri" : "spotify:artist:7FPkZue0zzjHaOPJb4WCw3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 116720,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBLDX0700014"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3rBpbtPBz46RazXYe1Fx5m"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3rBpbtPBz46RazXYe1Fx5m",
+  "id" : "3rBpbtPBz46RazXYe1Fx5m",
+  "name" : "Don't Know How to Say Goodbye",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3473ddfa08c884325b7e713b3c440e82bf5eb840?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3rBpbtPBz46RazXYe1Fx5m"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+      "id" : "1aSxMhuvixZ8h9dK9jIDwL",
+      "name" : "Kate Bush",
+      "type" : "artist",
+      "uri" : "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5NKTuBLCYhN0OwqFiGdXd1",
+    "id" : "5NKTuBLCYhN0OwqFiGdXd1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bb6f01b46e94e6bc8e32d8c090f94ce844acd75e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cac30ca8878b6333fb075fc29b014b5281365bfa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b45242cdf1a3fe65c9de14d90c87143149cc149a",
+      "width" : 64
+    } ],
+    "name" : "The Kick Inside",
+    "type" : "album",
+    "uri" : "spotify:album:5NKTuBLCYhN0OwqFiGdXd1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+    "id" : "1aSxMhuvixZ8h9dK9jIDwL",
+    "name" : "Kate Bush",
+    "type" : "artist",
+    "uri" : "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 205573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE7700223"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5YSI1311X8t31PBjkBG4CZ",
+  "id" : "5YSI1311X8t31PBjkBG4CZ",
+  "name" : "Wuthering Heights",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/02010fdbfa4937c9773e7c9f302b09350b1d7b61?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5YSI1311X8t31PBjkBG4CZ"
+}

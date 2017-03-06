@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6I2891HPq8zEnBEuwc5iAP",
+      "id" : "6I2891HPq8zEnBEuwc5iAP",
+      "name" : "Money Mark",
+      "type" : "artist",
+      "uri" : "spotify:artist:6I2891HPq8zEnBEuwc5iAP"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/156fI3HYjXplzGKw50EPcy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/156fI3HYjXplzGKw50EPcy",
+    "id" : "156fI3HYjXplzGKw50EPcy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/91da821e9e5974a188c863affa5874c1a76cab8c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ddeb71ae4e6b1924eb20562309ee2f3df1bb5fff",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/61fcc67e6e4220ef87fa9bd0afe32cf9d1830956",
+      "width" : 64
+    } ],
+    "name" : "Mark's Keyboard Repair",
+    "type" : "album",
+    "uri" : "spotify:album:156fI3HYjXplzGKw50EPcy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6I2891HPq8zEnBEuwc5iAP",
+    "id" : "6I2891HPq8zEnBEuwc5iAP",
+    "name" : "Money Mark",
+    "type" : "artist",
+    "uri" : "spotify:artist:6I2891HPq8zEnBEuwc5iAP"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 278333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAQH9500066"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0SV2YmPMLuS3rFxPpVfA2S"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0SV2YmPMLuS3rFxPpVfA2S",
+  "id" : "0SV2YmPMLuS3rFxPpVfA2S",
+  "name" : "The Grade",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/066ee84b7f765ed54d1f5c1a3e91b691e1617545?cid=null",
+  "track_number" : 29,
+  "type" : "track",
+  "uri" : "spotify:track:0SV2YmPMLuS3rFxPpVfA2S"
+}

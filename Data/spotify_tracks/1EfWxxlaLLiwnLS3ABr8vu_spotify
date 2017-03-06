@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zHRqvws8dVeqL8D31ponr",
+      "id" : "6zHRqvws8dVeqL8D31ponr",
+      "name" : "Tim Buckley",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zHRqvws8dVeqL8D31ponr"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1jKfTvT64lcQwA74WmkKiJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1jKfTvT64lcQwA74WmkKiJ",
+    "id" : "1jKfTvT64lcQwA74WmkKiJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f9eabf58e2f22160e56deb26131455d14cb8c853",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2c8112dcdaa0a4ac40ab05ad6bb4104aea88dd85",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/31ca30607f23358a19420840780e8a39f0e13c82",
+      "width" : 64
+    } ],
+    "name" : "Goodbye And Hello",
+    "type" : "album",
+    "uri" : "spotify:album:1jKfTvT64lcQwA74WmkKiJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6zHRqvws8dVeqL8D31ponr",
+    "id" : "6zHRqvws8dVeqL8D31ponr",
+    "name" : "Tim Buckley",
+    "type" : "artist",
+    "uri" : "spotify:artist:6zHRqvws8dVeqL8D31ponr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 208666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10180695"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1EfWxxlaLLiwnLS3ABr8vu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1EfWxxlaLLiwnLS3ABr8vu",
+  "id" : "1EfWxxlaLLiwnLS3ABr8vu",
+  "name" : "Phantasmagoria in Two",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7d3dfed935203fb9a2fde5186a4fc03a69a259b5?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:1EfWxxlaLLiwnLS3ABr8vu"
+}

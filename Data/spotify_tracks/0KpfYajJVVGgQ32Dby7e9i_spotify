@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+      "id" : "3FUY2gzHeIiaesXtOAdB7A",
+      "name" : "Train",
+      "type" : "artist",
+      "uri" : "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5lTCUyQrKcSmcw5ULkt75O"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5lTCUyQrKcSmcw5ULkt75O",
+    "id" : "5lTCUyQrKcSmcw5ULkt75O",
+    "images" : [ {
+      "height" : 559,
+      "url" : "https://i.scdn.co/image/801c1ce7bdce3180130a5dffcac07419b11fdd07",
+      "width" : 640
+    }, {
+      "height" : 262,
+      "url" : "https://i.scdn.co/image/23dcb6fd3a1ba23662e9764c9087b289e5da51e7",
+      "width" : 300
+    }, {
+      "height" : 56,
+      "url" : "https://i.scdn.co/image/103cddfad98c67f40daac20f744a85e1fef2834d",
+      "width" : 64
+    } ],
+    "name" : "Hey, Soul Sister",
+    "type" : "album",
+    "uri" : "spotify:album:5lTCUyQrKcSmcw5ULkt75O"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+    "id" : "3FUY2gzHeIiaesXtOAdB7A",
+    "name" : "Train",
+    "type" : "artist",
+    "uri" : "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 216666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10904113"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0KpfYajJVVGgQ32Dby7e9i"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0KpfYajJVVGgQ32Dby7e9i",
+  "id" : "0KpfYajJVVGgQ32Dby7e9i",
+  "name" : "Hey, Soul Sister",
+  "popularity" : 72,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b6393162ba6857ed9954230a0f2a2f1c3cab0883?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0KpfYajJVVGgQ32Dby7e9i"
+}

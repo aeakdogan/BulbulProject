@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4AQrqVz6BYwy29iMxcGtx7",
+      "id" : "4AQrqVz6BYwy29iMxcGtx7",
+      "name" : "Roosevelt",
+      "type" : "artist",
+      "uri" : "spotify:artist:4AQrqVz6BYwy29iMxcGtx7"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1cBeHdxD8n2XcWzZfaYT27"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1cBeHdxD8n2XcWzZfaYT27",
+    "id" : "1cBeHdxD8n2XcWzZfaYT27",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7a72bd52d95a0c1853adb1172ddc29340c5968f9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/478dbad0607c1c6dba03bc1d36773fd37d86d8c2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/67ba417159ea4a913bff9daff379409803f9fe67",
+      "width" : 64
+    } ],
+    "name" : "Elliot",
+    "type" : "album",
+    "uri" : "spotify:album:1cBeHdxD8n2XcWzZfaYT27"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4AQrqVz6BYwy29iMxcGtx7",
+    "id" : "4AQrqVz6BYwy29iMxcGtx7",
+    "name" : "Roosevelt",
+    "type" : "artist",
+    "uri" : "spotify:artist:4AQrqVz6BYwy29iMxcGtx7"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 236335,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBRTB1300167"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6mt7qEXUI6TywYLDRn4ZQJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6mt7qEXUI6TywYLDRn4ZQJ",
+  "id" : "6mt7qEXUI6TywYLDRn4ZQJ",
+  "name" : "Montreal",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3a3ece09bf6ba802ac352ee03d4b84f1eebdccde?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6mt7qEXUI6TywYLDRn4ZQJ"
+}

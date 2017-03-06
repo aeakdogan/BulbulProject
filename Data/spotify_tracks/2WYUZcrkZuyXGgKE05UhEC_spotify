@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Qxe8uorrQxMoMkhv0HrK3",
+      "id" : "4Qxe8uorrQxMoMkhv0HrK3",
+      "name" : "Hello Saferide",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Qxe8uorrQxMoMkhv0HrK3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/347HqBDFv4qUEXErlEkOD3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/347HqBDFv4qUEXErlEkOD3",
+    "id" : "347HqBDFv4qUEXErlEkOD3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cdc5162e418a7cce52f6d53e284d31a0dac5d9a3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8a0e422da4d87db7d488c389c1a62e48fe8ff06c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a70233ff0924fdb6e6265f23e683cde81fc3a771",
+      "width" : 64
+    } ],
+    "name" : "Introducing Hello Saferide",
+    "type" : "album",
+    "uri" : "spotify:album:347HqBDFv4qUEXErlEkOD3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4Qxe8uorrQxMoMkhv0HrK3",
+    "id" : "4Qxe8uorrQxMoMkhv0HrK3",
+    "name" : "Hello Saferide",
+    "type" : "artist",
+    "uri" : "spotify:artist:4Qxe8uorrQxMoMkhv0HrK3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 178066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEWBD0400702"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2WYUZcrkZuyXGgKE05UhEC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2WYUZcrkZuyXGgKE05UhEC",
+  "id" : "2WYUZcrkZuyXGgKE05UhEC",
+  "name" : "My Best Friend",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/283603a283d64491406532822ead5d0121177525?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2WYUZcrkZuyXGgKE05UhEC"
+}

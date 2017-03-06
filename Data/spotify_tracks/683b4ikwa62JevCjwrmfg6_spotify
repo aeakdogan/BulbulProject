@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44NX2ffIYHr6D4n7RaZF7A",
+      "id" : "44NX2ffIYHr6D4n7RaZF7A",
+      "name" : "Van Morrison",
+      "type" : "artist",
+      "uri" : "spotify:artist:44NX2ffIYHr6D4n7RaZF7A"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7diHYi0CglGJekoM3KaWBK",
+    "id" : "7diHYi0CglGJekoM3KaWBK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c32d6fed74ef5f7f2c67787cf8ca6ce667b47af5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/91b9c4ceed1e5f30961b6b5188ce127b97723a01",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ce9ce6587a7bbf4ff61107844cb9adff5ec78960",
+      "width" : 64
+    } ],
+    "name" : "Moondance (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:7diHYi0CglGJekoM3KaWBK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+    },
+    "href" : "https://api.spotify.com/v1/artists/44NX2ffIYHr6D4n7RaZF7A",
+    "id" : "44NX2ffIYHr6D4n7RaZF7A",
+    "name" : "Van Morrison",
+    "type" : "artist",
+    "uri" : "spotify:artist:44NX2ffIYHr6D4n7RaZF7A"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 274040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11302504"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/683b4ikwa62JevCjwrmfg6",
+  "id" : "683b4ikwa62JevCjwrmfg6",
+  "name" : "Moondance",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dea0ee252b37c7add7d380bb10266cc8c4c988d6?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:683b4ikwa62JevCjwrmfg6"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+      "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+      "name" : "Queen",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4fODEKBcruDGTihYHvBXBD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4fODEKBcruDGTihYHvBXBD",
+    "id" : "4fODEKBcruDGTihYHvBXBD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4914ffb4d85d2c2118cad31f4087aa94f5107108",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fb78a9f67229e7369a5c3e22c4e80a1dadf0b12f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/01cbbdee35cfaf3041b633f7fef7e86260ce1db3",
+      "width" : 64
+    } ],
+    "name" : "Made in Heaven (Deluxe Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:4fODEKBcruDGTihYHvBXBD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+    "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+    "name" : "Queen",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 324853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71103757"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/35balOkqaPZ4IrvZtG3YNg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/35balOkqaPZ4IrvZtG3YNg",
+  "id" : "35balOkqaPZ4IrvZtG3YNg",
+  "name" : "You Don't Fool Me",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/852ef558375748d2d1c0ffa142e6478473a78768?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:35balOkqaPZ4IrvZtG3YNg"
+}

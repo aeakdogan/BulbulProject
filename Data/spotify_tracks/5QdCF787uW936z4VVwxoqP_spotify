@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GWV70Reko15eV2nHCm0bM",
+      "id" : "1GWV70Reko15eV2nHCm0bM",
+      "name" : "The Blue Nile",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GWV70Reko15eV2nHCm0bM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0tN9eHZA4quuMvitShdrUC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0tN9eHZA4quuMvitShdrUC",
+    "id" : "0tN9eHZA4quuMvitShdrUC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/46f0038c4ae1aa21d73eec1ef29eff1437d427cc",
+      "width" : 639
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5ef6914ea2cab368189f59af599abb92d627e6f4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a2b42cc569de70e528b4335be38ca0e6e7481ba2",
+      "width" : 64
+    } ],
+    "name" : "Hats",
+    "type" : "album",
+    "uri" : "spotify:album:0tN9eHZA4quuMvitShdrUC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1GWV70Reko15eV2nHCm0bM",
+    "id" : "1GWV70Reko15eV2nHCm0bM",
+    "name" : "The Blue Nile",
+    "type" : "artist",
+    "uri" : "spotify:artist:1GWV70Reko15eV2nHCm0bM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 305400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA8900509"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5QdCF787uW936z4VVwxoqP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5QdCF787uW936z4VVwxoqP",
+  "id" : "5QdCF787uW936z4VVwxoqP",
+  "name" : "Over The Hillside",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aad3d7c47eac16f931716c2230bb8572e8c4b3f0?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5QdCF787uW936z4VVwxoqP"
+}

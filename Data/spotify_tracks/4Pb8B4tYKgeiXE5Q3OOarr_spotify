@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3uT7nEkZwWc2GBiqUZGoOe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3uT7nEkZwWc2GBiqUZGoOe",
+      "id" : "3uT7nEkZwWc2GBiqUZGoOe",
+      "name" : "Aqualung",
+      "type" : "artist",
+      "uri" : "spotify:artist:3uT7nEkZwWc2GBiqUZGoOe"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2w1zxP11Ec4G3fF92ErPyp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2w1zxP11Ec4G3fF92ErPyp",
+    "id" : "2w1zxP11Ec4G3fF92ErPyp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4658b810626112f36a23c320f789a6866d384455",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a87750254ae0651b3a285df7f93717c3cf3a616c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7220776ed72a5cd4fcfc848e50b9792788bfc3b6",
+      "width" : 64
+    } ],
+    "name" : "Strange & Beautiful",
+    "type" : "album",
+    "uri" : "spotify:album:2w1zxP11Ec4G3fF92ErPyp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3uT7nEkZwWc2GBiqUZGoOe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3uT7nEkZwWc2GBiqUZGoOe",
+    "id" : "3uT7nEkZwWc2GBiqUZGoOe",
+    "name" : "Aqualung",
+    "type" : "artist",
+    "uri" : "spotify:artist:3uT7nEkZwWc2GBiqUZGoOe"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 233133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10414850"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Pb8B4tYKgeiXE5Q3OOarr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Pb8B4tYKgeiXE5Q3OOarr",
+  "id" : "4Pb8B4tYKgeiXE5Q3OOarr",
+  "name" : "Good Times Gonna Come",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/298c2c2018ac29d150c190e09a63d4cc37c63510?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4Pb8B4tYKgeiXE5Q3OOarr"
+}

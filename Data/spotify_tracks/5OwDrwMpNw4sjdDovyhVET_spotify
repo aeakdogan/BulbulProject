@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ssUf5gLb1GBLxi1BhPrVt",
+      "id" : "4ssUf5gLb1GBLxi1BhPrVt",
+      "name" : "Jorge Drexler",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ssUf5gLb1GBLxi1BhPrVt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7CzMD65vBeWb6xRRK9iHgz",
+    "id" : "7CzMD65vBeWb6xRRK9iHgz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8abb9eda1bc3987ff9c9d28fa056d0a47f2e2862",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8b77528f5366a2943051408177dc981094860c40",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c20ad4b1658512daef1f1b9f660405f43678a54c",
+      "width" : 64
+    } ],
+    "name" : "12 segundos de oscuridad",
+    "type" : "album",
+    "uri" : "spotify:album:7CzMD65vBeWb6xRRK9iHgz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4ssUf5gLb1GBLxi1BhPrVt",
+    "id" : "4ssUf5gLb1GBLxi1BhPrVt",
+    "name" : "Jorge Drexler",
+    "type" : "artist",
+    "uri" : "spotify:artist:4ssUf5gLb1GBLxi1BhPrVt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 203406,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES5010600906"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5OwDrwMpNw4sjdDovyhVET"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5OwDrwMpNw4sjdDovyhVET",
+  "id" : "5OwDrwMpNw4sjdDovyhVET",
+  "name" : "Transoceanica",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cfc8fa5b2ceebdcd724af40639f7ed30d546f8a6?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5OwDrwMpNw4sjdDovyhVET"
+}

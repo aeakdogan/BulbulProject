@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kS4yz85MaZlxp2VaS3BEe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kS4yz85MaZlxp2VaS3BEe",
+      "id" : "2kS4yz85MaZlxp2VaS3BEe",
+      "name" : "Cabaret Voltaire",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kS4yz85MaZlxp2VaS3BEe"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4n5PIfdbOMCaSOpTkdWqGk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4n5PIfdbOMCaSOpTkdWqGk",
+    "id" : "4n5PIfdbOMCaSOpTkdWqGk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2c65b3bd78ad2a62407d8ef34ea78746b4e4d322",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a1196c69e8a1e1707ec0f2888f524c61eeb4b671",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/42bce0d993e7d83071f160d5beef1bf3e6a47b53",
+      "width" : 64
+    } ],
+    "name" : "Original Sound Of Sheffield",
+    "type" : "album",
+    "uri" : "spotify:album:4n5PIfdbOMCaSOpTkdWqGk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2kS4yz85MaZlxp2VaS3BEe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2kS4yz85MaZlxp2VaS3BEe",
+    "id" : "2kS4yz85MaZlxp2VaS3BEe",
+    "name" : "Cabaret Voltaire",
+    "type" : "artist",
+    "uri" : "spotify:artist:2kS4yz85MaZlxp2VaS3BEe"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 317200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0200174"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0mWMlREqkH9BFf6CtgZbOR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0mWMlREqkH9BFf6CtgZbOR",
+  "id" : "0mWMlREqkH9BFf6CtgZbOR",
+  "name" : "Obsession",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b2e5904f608465140227949d0d53fdd7d7f82e1f?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0mWMlREqkH9BFf6CtgZbOR"
+}

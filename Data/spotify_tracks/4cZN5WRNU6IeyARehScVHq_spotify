@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bcbShaqKdcyjnmv4Ix8j6",
+      "id" : "7bcbShaqKdcyjnmv4Ix8j6",
+      "name" : "St. Vincent",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bcbShaqKdcyjnmv4Ix8j6"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/338T7GIYUEuyeeHeZnSJta"
+    },
+    "href" : "https://api.spotify.com/v1/albums/338T7GIYUEuyeeHeZnSJta",
+    "id" : "338T7GIYUEuyeeHeZnSJta",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ef5ea4b26ef5ea168cf6c1780201c82643105140",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5a19b23a8aee69d805c6ae3f81f9a11f4378f0a2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7bb0461033db1e87d9ff27407aafcc476fc62e7a",
+      "width" : 64
+    } ],
+    "name" : "Marry Me",
+    "type" : "album",
+    "uri" : "spotify:album:338T7GIYUEuyeeHeZnSJta"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bcbShaqKdcyjnmv4Ix8j6",
+    "id" : "7bcbShaqKdcyjnmv4Ix8j6",
+    "name" : "St. Vincent",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bcbShaqKdcyjnmv4Ix8j6"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAZP0700023"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4cZN5WRNU6IeyARehScVHq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4cZN5WRNU6IeyARehScVHq",
+  "id" : "4cZN5WRNU6IeyARehScVHq",
+  "name" : "The Apocalypse Song",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f36f2214e93b49a99d4f76d9395287bcb1ae8e43?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4cZN5WRNU6IeyARehScVHq"
+}

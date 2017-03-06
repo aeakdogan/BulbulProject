@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+      "id" : "2cCUtGK9sDU2EoElnk0GNB",
+      "name" : "The National",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5MXOch8nt9sOQ5mvUtCWB6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5MXOch8nt9sOQ5mvUtCWB6",
+    "id" : "5MXOch8nt9sOQ5mvUtCWB6",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/966f736be323044e18b12ebc4b2fe137c742e9d0",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/657a4e91dfe4ae02f6fccc9b459b110bca5edffc",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/7b8d5394efc6f3dc8fa0feede804076cee318e52",
+      "width" : 64
+    } ],
+    "name" : "Sad Songs for Dirty Lovers",
+    "type" : "album",
+    "uri" : "spotify:album:5MXOch8nt9sOQ5mvUtCWB6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+    "id" : "2cCUtGK9sDU2EoElnk0GNB",
+    "name" : "The National",
+    "type" : "artist",
+    "uri" : "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 223826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USI4R0508243"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0VfdJ1Pm3KH6OvVeuKofM7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0VfdJ1Pm3KH6OvVeuKofM7",
+  "id" : "0VfdJ1Pm3KH6OvVeuKofM7",
+  "name" : "Patterns of Fairytales",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b87966609d44323b78c719daed22c6262f55f7ad?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0VfdJ1Pm3KH6OvVeuKofM7"
+}

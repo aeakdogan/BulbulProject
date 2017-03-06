@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2T2FygBhNFzuzjLefPpsdv",
+      "id" : "2T2FygBhNFzuzjLefPpsdv",
+      "name" : "Tulisa",
+      "type" : "artist",
+      "uri" : "spotify:artist:2T2FygBhNFzuzjLefPpsdv"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5lrgpsXZczMbQfbA5tRTDK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5lrgpsXZczMbQfbA5tRTDK",
+    "id" : "5lrgpsXZczMbQfbA5tRTDK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/763d078331f900334bea98253d6e2b42220d931e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/12dda9f3b17e1ee4a09913d7f5feb02cf6c3fbfc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c05e68b3ce70fd95023feb90e170d9c4bb90d8d",
+      "width" : 64
+    } ],
+    "name" : "Young (Remixes)",
+    "type" : "album",
+    "uri" : "spotify:album:5lrgpsXZczMbQfbA5tRTDK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2T2FygBhNFzuzjLefPpsdv",
+    "id" : "2T2FygBhNFzuzjLefPpsdv",
+    "name" : "Tulisa",
+    "type" : "artist",
+    "uri" : "spotify:artist:2T2FygBhNFzuzjLefPpsdv"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 196866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71204656"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2DqQF5eq3aUaK6kigMl9t1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2DqQF5eq3aUaK6kigMl9t1",
+  "id" : "2DqQF5eq3aUaK6kigMl9t1",
+  "name" : "Young - Gregor Salto Edit",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/30555133ff9291d16605e073c0ff5c12990f0e07?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2DqQF5eq3aUaK6kigMl9t1"
+}

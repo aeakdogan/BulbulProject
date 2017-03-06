@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3n3cUUtXyYg4y6A25kudmx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3n3cUUtXyYg4y6A25kudmx",
+      "id" : "3n3cUUtXyYg4y6A25kudmx",
+      "name" : "Neven",
+      "type" : "artist",
+      "uri" : "spotify:artist:3n3cUUtXyYg4y6A25kudmx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4pBtA8rUoRFq0RBsZggxWa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4pBtA8rUoRFq0RBsZggxWa",
+    "id" : "4pBtA8rUoRFq0RBsZggxWa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2ed91662042ada860315c2cd3b1d2a060bf701a1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c8ca99a407523bd04e6592e0fa080d59e8c75c0d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ff2418cf678d23ab8d23b4ec6d85f423cd36f680",
+      "width" : 64
+    } ],
+    "name" : "We Love Music",
+    "type" : "album",
+    "uri" : "spotify:album:4pBtA8rUoRFq0RBsZggxWa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3n3cUUtXyYg4y6A25kudmx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3n3cUUtXyYg4y6A25kudmx",
+    "id" : "3n3cUUtXyYg4y6A25kudmx",
+    "name" : "Neven",
+    "type" : "artist",
+    "uri" : "spotify:artist:3n3cUUtXyYg4y6A25kudmx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 145226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm80536573"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4XU5iOlxScYBZNqOjSPJJq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4XU5iOlxScYBZNqOjSPJJq",
+  "id" : "4XU5iOlxScYBZNqOjSPJJq",
+  "name" : "Les Brasseurs",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5984185fc4c5b55b5947f1bd2b290baf25b5286d?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4XU5iOlxScYBZNqOjSPJJq"
+}

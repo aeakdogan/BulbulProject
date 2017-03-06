@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3GHovBcEWpbnwCZDPF9GpM",
+      "id" : "3GHovBcEWpbnwCZDPF9GpM",
+      "name" : "Andrea True Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3GHovBcEWpbnwCZDPF9GpM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4xQKeiJzX2EmCXt5XdGiTN",
+    "id" : "4xQKeiJzX2EmCXt5XdGiTN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/008d812cde73163e7120e01d6ac7f234cb537044",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/93393f02de1bf629cb48679269165b89e1563c79",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/015411a17e766f3469ad3dad162c9dd8f52bdd1f",
+      "width" : 64
+    } ],
+    "name" : "More, More, More",
+    "type" : "album",
+    "uri" : "spotify:album:4xQKeiJzX2EmCXt5XdGiTN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3GHovBcEWpbnwCZDPF9GpM",
+    "id" : "3GHovBcEWpbnwCZDPF9GpM",
+    "name" : "Andrea True Connection",
+    "type" : "artist",
+    "uri" : "spotify:artist:3GHovBcEWpbnwCZDPF9GpM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 222613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA560619706"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4hepyFFOO9I7oZCNn3T2sz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4hepyFFOO9I7oZCNn3T2sz",
+  "id" : "4hepyFFOO9I7oZCNn3T2sz",
+  "name" : "More, More, More",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3dd066bb70b995d20979a0f8c550c40ee828df32?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4hepyFFOO9I7oZCNn3T2sz"
+}

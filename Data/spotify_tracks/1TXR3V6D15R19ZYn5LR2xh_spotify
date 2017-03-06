@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0PhKXBGcwWwVcXCETFd92y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0PhKXBGcwWwVcXCETFd92y",
+      "id" : "0PhKXBGcwWwVcXCETFd92y",
+      "name" : "Fossil Collective",
+      "type" : "artist",
+      "uri" : "spotify:artist:0PhKXBGcwWwVcXCETFd92y"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4uPr5lAjfPwboiORMrD7jx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4uPr5lAjfPwboiORMrD7jx",
+    "id" : "4uPr5lAjfPwboiORMrD7jx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/754cd74243586dff71a212554eaef61a10a8b3a3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9d9a7790e761dfdf0d51545d6b768631fd8f402c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/017c78142fcff47b6b9cd7bc529389dbd8322f7c",
+      "width" : 64
+    } ],
+    "name" : "Tell Where I Lie",
+    "type" : "album",
+    "uri" : "spotify:album:4uPr5lAjfPwboiORMrD7jx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0PhKXBGcwWwVcXCETFd92y"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0PhKXBGcwWwVcXCETFd92y",
+    "id" : "0PhKXBGcwWwVcXCETFd92y",
+    "name" : "Fossil Collective",
+    "type" : "artist",
+    "uri" : "spotify:artist:0PhKXBGcwWwVcXCETFd92y"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 305346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVR91349808"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1TXR3V6D15R19ZYn5LR2xh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1TXR3V6D15R19ZYn5LR2xh",
+  "id" : "1TXR3V6D15R19ZYn5LR2xh",
+  "name" : "When Frank Became and Orb",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/28902a8e332bc1f8f20483fd4c7b63c8089e9732?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1TXR3V6D15R19ZYn5LR2xh"
+}

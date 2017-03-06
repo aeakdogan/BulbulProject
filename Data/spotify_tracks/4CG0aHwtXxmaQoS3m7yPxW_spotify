@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5rX2c1zow6hCph8PnnU3kF",
+      "id" : "5rX2c1zow6hCph8PnnU3kF",
+      "name" : "Astrud Gilberto",
+      "type" : "artist",
+      "uri" : "spotify:artist:5rX2c1zow6hCph8PnnU3kF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Evx9MRtTMfEWQ4uClX6zE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Evx9MRtTMfEWQ4uClX6zE",
+    "id" : "5Evx9MRtTMfEWQ4uClX6zE",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/7126020fe29297615ffb146769be49ca736e1300",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/488d51be7ed0d63953a6751ffeba2202321db094",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ce5a5d4764fccf9760bb87684193e96b45935326",
+      "width" : 64
+    } ],
+    "name" : "The Collection",
+    "type" : "album",
+    "uri" : "spotify:album:5Evx9MRtTMfEWQ4uClX6zE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5rX2c1zow6hCph8PnnU3kF",
+    "id" : "5rX2c1zow6hCph8PnnU3kF",
+    "name" : "Astrud Gilberto",
+    "type" : "artist",
+    "uri" : "spotify:artist:5rX2c1zow6hCph8PnnU3kF"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3pO5VjZ4wOHCMBXOvbMISG",
+    "id" : "3pO5VjZ4wOHCMBXOvbMISG",
+    "name" : "Antônio Carlos Jobim",
+    "type" : "artist",
+    "uri" : "spotify:artist:3pO5VjZ4wOHCMBXOvbMISG"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7ANQxPGPaj4X9I6wSRhaO3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7ANQxPGPaj4X9I6wSRhaO3",
+    "id" : "7ANQxPGPaj4X9I6wSRhaO3",
+    "name" : "Gene Lees",
+    "type" : "artist",
+    "uri" : "spotify:artist:7ANQxPGPaj4X9I6wSRhaO3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 122773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR36500057"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4CG0aHwtXxmaQoS3m7yPxW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4CG0aHwtXxmaQoS3m7yPxW",
+  "id" : "4CG0aHwtXxmaQoS3m7yPxW",
+  "name" : "Dreamer",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3f9439e884b9e076a9fc7281ef068e2f9ba6b108?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:4CG0aHwtXxmaQoS3m7yPxW"
+}

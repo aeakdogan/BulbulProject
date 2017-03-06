@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02uPe16VFxPaiueQsPEDkE",
+      "id" : "02uPe16VFxPaiueQsPEDkE",
+      "name" : "The Album Leaf",
+      "type" : "artist",
+      "uri" : "spotify:artist:02uPe16VFxPaiueQsPEDkE"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6wXDbHLesy6zWqQawAa91d"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6wXDbHLesy6zWqQawAa91d",
+    "id" : "6wXDbHLesy6zWqQawAa91d",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d29e839d12906e304ab68e2b5c62507b28cd4430",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/61274a7d86cb4491ce4eff5390897a26e70cb68f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f07e0c8be652d5c30ae164c6aa94e714e87689da",
+      "width" : 64
+    } ],
+    "name" : "Forward / Return",
+    "type" : "album",
+    "uri" : "spotify:album:6wXDbHLesy6zWqQawAa91d"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/02uPe16VFxPaiueQsPEDkE",
+    "id" : "02uPe16VFxPaiueQsPEDkE",
+    "name" : "The Album Leaf",
+    "type" : "artist",
+    "uri" : "spotify:artist:02uPe16VFxPaiueQsPEDkE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 307946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABI1222831"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1e6EXtT1JuE4r3nJpZPnqt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1e6EXtT1JuE4r3nJpZPnqt",
+  "id" : "1e6EXtT1JuE4r3nJpZPnqt",
+  "name" : "Skylines",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3664be6702b33d2ad7ddcb2d7c5e4ece6e03d2e2?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1e6EXtT1JuE4r3nJpZPnqt"
+}

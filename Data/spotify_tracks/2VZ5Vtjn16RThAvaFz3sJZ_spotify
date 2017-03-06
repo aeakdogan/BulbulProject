@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4RVnAU35WRWra6OZ3CbbMA",
+      "id" : "4RVnAU35WRWra6OZ3CbbMA",
+      "name" : "Kylie Minogue",
+      "type" : "artist",
+      "uri" : "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3V5sFyVl69QrnHkZ8tcWnI",
+    "id" : "3V5sFyVl69QrnHkZ8tcWnI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4cd188bdb619442a3cab1592a1fd18c24c73f91b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/63d455c59d183447f0c8822bf968b068643fa7eb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/65519ba8ff5fc0246ffdf22291fa21a211d4ffb0",
+      "width" : 64
+    } ],
+    "name" : "Aphrodite",
+    "type" : "album",
+    "uri" : "spotify:album:3V5sFyVl69QrnHkZ8tcWnI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4RVnAU35WRWra6OZ3CbbMA",
+    "id" : "4RVnAU35WRWra6OZ3CbbMA",
+    "name" : "Kylie Minogue",
+    "type" : "artist",
+    "uri" : "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 219440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE1000532"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2VZ5Vtjn16RThAvaFz3sJZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2VZ5Vtjn16RThAvaFz3sJZ",
+  "id" : "2VZ5Vtjn16RThAvaFz3sJZ",
+  "name" : "Get Outta My Way",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a48c7756c4b632b2522651188a9f48e54cacbd53?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2VZ5Vtjn16RThAvaFz3sJZ"
+}

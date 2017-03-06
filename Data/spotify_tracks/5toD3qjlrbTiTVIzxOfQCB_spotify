@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3hWWpC6XAABcySpC1id9Q5",
+      "id" : "3hWWpC6XAABcySpC1id9Q5",
+      "name" : "Fredrika Stahl",
+      "type" : "artist",
+      "uri" : "spotify:artist:3hWWpC6XAABcySpC1id9Q5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/43p5dnBeVx4H2bzy0W1cGL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/43p5dnBeVx4H2bzy0W1cGL",
+    "id" : "43p5dnBeVx4H2bzy0W1cGL",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/2c28ad94a5283543fa9914c6adc79abf2167221c",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/97692b653275e7ec3e9084d008bf1c1d40382b94",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/89504bae5eb3c598de0acda78c4c4e4957c19e3d",
+      "width" : 64
+    } ],
+    "name" : "Sweep Me Away",
+    "type" : "album",
+    "uri" : "spotify:album:43p5dnBeVx4H2bzy0W1cGL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3hWWpC6XAABcySpC1id9Q5",
+    "id" : "3hWWpC6XAABcySpC1id9Q5",
+    "name" : "Fredrika Stahl",
+    "type" : "artist",
+    "uri" : "spotify:artist:3hWWpC6XAABcySpC1id9Q5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 223933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ081000075"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5toD3qjlrbTiTVIzxOfQCB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5toD3qjlrbTiTVIzxOfQCB",
+  "id" : "5toD3qjlrbTiTVIzxOfQCB",
+  "name" : "Rocket Trip to Mars",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a7826ab0b5fdafcea83005df48fe08f16ec6cb0f?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5toD3qjlrbTiTVIzxOfQCB"
+}

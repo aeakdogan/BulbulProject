@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7008bv4QLo6eziuxszbjqO",
+      "id" : "7008bv4QLo6eziuxszbjqO",
+      "name" : "Ania Dabrowska",
+      "type" : "artist",
+      "uri" : "spotify:artist:7008bv4QLo6eziuxszbjqO"
+    } ],
+    "available_markets" : [ "PL", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ekoU2UzDvBN57a1bopmMX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ekoU2UzDvBN57a1bopmMX",
+    "id" : "4ekoU2UzDvBN57a1bopmMX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d9a77ede01219fdeec023a235559db978892375f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e19c0a0ca20125fd82fdff1cb8425f5fc27f65dc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7727eb6f9f5440cbb2848b2e604ebaea44ae92ae",
+      "width" : 64
+    } ],
+    "name" : "Ania Movie",
+    "type" : "album",
+    "uri" : "spotify:album:4ekoU2UzDvBN57a1bopmMX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7008bv4QLo6eziuxszbjqO",
+    "id" : "7008bv4QLo6eziuxszbjqO",
+    "name" : "Ania Dabrowska",
+    "type" : "artist",
+    "uri" : "spotify:artist:7008bv4QLo6eziuxszbjqO"
+  } ],
+  "available_markets" : [ "PL", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 218640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "PLB381000012"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0aD9EKJWXMFLsBfnpbs4Mn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0aD9EKJWXMFLsBfnpbs4Mn",
+  "id" : "0aD9EKJWXMFLsBfnpbs4Mn",
+  "name" : "Bang Bang",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/88158c30dedaf0639817eb323803283774165a28?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0aD9EKJWXMFLsBfnpbs4Mn"
+}

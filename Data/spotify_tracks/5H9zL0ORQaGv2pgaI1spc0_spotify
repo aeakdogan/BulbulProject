@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3EgMK920cIH5aLxFnJ6zSi",
+      "id" : "3EgMK920cIH5aLxFnJ6zSi",
+      "name" : "Boris",
+      "type" : "artist",
+      "uri" : "spotify:artist:3EgMK920cIH5aLxFnJ6zSi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5UezsklPScipW64XJm7qql"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5UezsklPScipW64XJm7qql",
+      "id" : "5UezsklPScipW64XJm7qql",
+      "name" : "Merzbow",
+      "type" : "artist",
+      "uri" : "spotify:artist:5UezsklPScipW64XJm7qql"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5LdFYy9FIWKm8cgCEGdLiK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5LdFYy9FIWKm8cgCEGdLiK",
+    "id" : "5LdFYy9FIWKm8cgCEGdLiK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4461ab17e1a4cc956f2c0a29af2ac77e19df3eef",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/54aa4413a32049dafe8e3052d53278d22e27ed1c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2a71a319327b3ce700709c37b308e2bfb51ca52f",
+      "width" : 64
+    } ],
+    "name" : "Gensho",
+    "type" : "album",
+    "uri" : "spotify:album:5LdFYy9FIWKm8cgCEGdLiK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3EgMK920cIH5aLxFnJ6zSi",
+    "id" : "3EgMK920cIH5aLxFnJ6zSi",
+    "name" : "Boris",
+    "type" : "artist",
+    "uri" : "spotify:artist:3EgMK920cIH5aLxFnJ6zSi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 703106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "JPB621500077"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5H9zL0ORQaGv2pgaI1spc0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5H9zL0ORQaGv2pgaI1spc0",
+  "id" : "5H9zL0ORQaGv2pgaI1spc0",
+  "name" : "Akuma No Uta",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8932cdb6d96f509c38d41b53064f103c4b89753c?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5H9zL0ORQaGv2pgaI1spc0"
+}

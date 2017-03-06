@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5LgnVUVYlM9jqiyYMgNMMB",
+      "id" : "5LgnVUVYlM9jqiyYMgNMMB",
+      "name" : "Bob Acri",
+      "type" : "artist",
+      "uri" : "spotify:artist:5LgnVUVYlM9jqiyYMgNMMB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1HghYCAJpIIZrqad27tp1s",
+    "id" : "1HghYCAJpIIZrqad27tp1s",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/446fe9431d773e55740eeceed786a0638139f8b6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/90c3609eca6490718adb155243a1826797c48b43",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b3d75a6675dc282cf935d9bc23ab470599ba7e3e",
+      "width" : 64
+    } ],
+    "name" : "Bob Acri",
+    "type" : "album",
+    "uri" : "spotify:album:1HghYCAJpIIZrqad27tp1s"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5LgnVUVYlM9jqiyYMgNMMB",
+    "id" : "5LgnVUVYlM9jqiyYMgNMMB",
+    "name" : "Bob Acri",
+    "type" : "artist",
+    "uri" : "spotify:artist:5LgnVUVYlM9jqiyYMgNMMB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 201226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm91059426"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5YHPH0wpc5IMqNNrbN3JMm",
+  "id" : "5YHPH0wpc5IMqNNrbN3JMm",
+  "name" : "Sleep Away",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/79d0828e76b97d3647c303a3bac4d7f5859d131f?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5YHPH0wpc5IMqNNrbN3JMm"
+}

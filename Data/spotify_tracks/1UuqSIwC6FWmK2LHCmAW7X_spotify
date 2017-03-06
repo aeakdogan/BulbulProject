@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Y4MvL6mOliZEB5uTLlX9z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Y4MvL6mOliZEB5uTLlX9z",
+      "id" : "0Y4MvL6mOliZEB5uTLlX9z",
+      "name" : "Mesita",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Y4MvL6mOliZEB5uTLlX9z"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7yvxPu2k5T1HlWa5jnf1Pa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7yvxPu2k5T1HlWa5jnf1Pa",
+    "id" : "7yvxPu2k5T1HlWa5jnf1Pa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab75aa25f4d4f2ef3f57af9013a0d547cdb490f5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e515befa56f41861d0b201973d3a9eba5ef973d7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cf9746c6b1f9c2ab221ef54d462e74064845fbde",
+      "width" : 64
+    } ],
+    "name" : "The Coyote",
+    "type" : "album",
+    "uri" : "spotify:album:7yvxPu2k5T1HlWa5jnf1Pa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Y4MvL6mOliZEB5uTLlX9z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Y4MvL6mOliZEB5uTLlX9z",
+    "id" : "0Y4MvL6mOliZEB5uTLlX9z",
+    "name" : "Mesita",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Y4MvL6mOliZEB5uTLlX9z"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 196329,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABN1361365"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1UuqSIwC6FWmK2LHCmAW7X"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1UuqSIwC6FWmK2LHCmAW7X",
+  "id" : "1UuqSIwC6FWmK2LHCmAW7X",
+  "name" : "The Coyotes",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c09d87c8b433dcbb039ea55d87f3e1dfc133b1b6?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1UuqSIwC6FWmK2LHCmAW7X"
+}

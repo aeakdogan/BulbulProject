@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6ceEcvc9bKjAZ2IxVNEbZ2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6ceEcvc9bKjAZ2IxVNEbZ2",
+    "id" : "6ceEcvc9bKjAZ2IxVNEbZ2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1628a6c4afc49eb8bbcb0a2209d546ff06d75a82",
+      "width" : 619
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/430d0d6f6afc775ca917747ac7c13f65e22a6db2",
+      "width" : 290
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f9cab7932f5d32aaf28401cfd5b72d70afb5abd8",
+      "width" : 62
+    } ],
+    "name" : "Marie Antoinette (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:6ceEcvc9bKjAZ2IxVNEbZ2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6UEYawMcp2M4JFoXVOtZEq",
+    "id" : "6UEYawMcp2M4JFoXVOtZEq",
+    "name" : "Dustin O'Halloran",
+    "type" : "artist",
+    "uri" : "spotify:artist:6UEYawMcp2M4JFoXVOtZEq"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 123706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUG10600295"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1CzAc2GLQEMqKKheuuC6qK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1CzAc2GLQEMqKKheuuC6qK",
+  "id" : "1CzAc2GLQEMqKKheuuC6qK",
+  "name" : "Opus 17",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/73011cd47bdb0f8ca8b4ccb4356589d416fc5d8d?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1CzAc2GLQEMqKKheuuC6qK"
+}

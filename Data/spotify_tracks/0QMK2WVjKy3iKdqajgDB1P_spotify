@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Bd1cgCjtCI32PYvDC3ynO",
+      "id" : "3Bd1cgCjtCI32PYvDC3ynO",
+      "name" : "London Grammar",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Bd1cgCjtCI32PYvDC3ynO"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2J4dwQHk8EZKPKGhM1EzOU",
+    "id" : "2J4dwQHk8EZKPKGhM1EzOU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/27f1265d3393989beb405aa936696fe479113dce",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/25447bf7ec987e84f00b262858a9b4cac580e20c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/36808ce121657768dca71623420feb4b9aefcfb2",
+      "width" : 64
+    } ],
+    "name" : "If You Wait",
+    "type" : "album",
+    "uri" : "spotify:album:2J4dwQHk8EZKPKGhM1EzOU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Bd1cgCjtCI32PYvDC3ynO",
+    "id" : "3Bd1cgCjtCI32PYvDC3ynO",
+    "name" : "London Grammar",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Bd1cgCjtCI32PYvDC3ynO"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 265613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11304351"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0QMK2WVjKy3iKdqajgDB1P",
+  "id" : "0QMK2WVjKy3iKdqajgDB1P",
+  "name" : "Strong",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0f4f7ed5b763f6b468306d798afe8682e8e32a7e?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0QMK2WVjKy3iKdqajgDB1P"
+}

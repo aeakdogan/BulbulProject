@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+      "id" : "4I2BJf80C0skQpp1sQmA0h",
+      "name" : "Belle & Sebastian",
+      "type" : "artist",
+      "uri" : "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Va6WheZtUhpe3eGNppqDk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Va6WheZtUhpe3eGNppqDk",
+    "id" : "1Va6WheZtUhpe3eGNppqDk",
+    "images" : [ {
+      "height" : 580,
+      "url" : "https://i.scdn.co/image/1f9a2c6a34831cd0577394675cb943d28754b049",
+      "width" : 600
+    }, {
+      "height" : 290,
+      "url" : "https://i.scdn.co/image/ddba3cdfa052e12ac7bcd4b74e96fd1bcd18b925",
+      "width" : 300
+    }, {
+      "height" : 62,
+      "url" : "https://i.scdn.co/image/a7032c353949208e888ae890d69c049e76980f73",
+      "width" : 64
+    } ],
+    "name" : "Storytelling",
+    "type" : "album",
+    "uri" : "spotify:album:1Va6WheZtUhpe3eGNppqDk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+    "id" : "4I2BJf80C0skQpp1sQmA0h",
+    "name" : "Belle & Sebastian",
+    "type" : "artist",
+    "uri" : "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 181706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD0251210"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0The2dymiQL9Nhxhlcu8ox"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0The2dymiQL9Nhxhlcu8ox",
+  "id" : "0The2dymiQL9Nhxhlcu8ox",
+  "name" : "Storytelling",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e0123af6f97e13123093e97727813f8779b1efe1?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:0The2dymiQL9Nhxhlcu8ox"
+}

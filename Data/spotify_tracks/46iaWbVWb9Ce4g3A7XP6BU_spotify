@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4d53BMrRlQkrQMz5d59f2O",
+      "id" : "4d53BMrRlQkrQMz5d59f2O",
+      "name" : "Mayer Hawthorne",
+      "type" : "artist",
+      "uri" : "spotify:artist:4d53BMrRlQkrQMz5d59f2O"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ctNJzlDkmLEO3pWXeFtTB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ctNJzlDkmLEO3pWXeFtTB",
+    "id" : "0ctNJzlDkmLEO3pWXeFtTB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/70905b640f6e3809130642a11160e41c73e1633f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a8ccdca0ddaea1bde9d24c52d7d0869a19c36d58",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/428946aac2f8b88faff725e1c612ec1d539fd045",
+      "width" : 64
+    } ],
+    "name" : "Where Does This Door Go (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:0ctNJzlDkmLEO3pWXeFtTB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4d53BMrRlQkrQMz5d59f2O",
+    "id" : "4d53BMrRlQkrQMz5d59f2O",
+    "name" : "Mayer Hawthorne",
+    "type" : "artist",
+    "uri" : "spotify:artist:4d53BMrRlQkrQMz5d59f2O"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 231826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71307241"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/46iaWbVWb9Ce4g3A7XP6BU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/46iaWbVWb9Ce4g3A7XP6BU",
+  "id" : "46iaWbVWb9Ce4g3A7XP6BU",
+  "name" : "Back Seat Lover",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bec9edd5a099f0801aa3e8c0e98f1cf23d45895e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:46iaWbVWb9Ce4g3A7XP6BU"
+}

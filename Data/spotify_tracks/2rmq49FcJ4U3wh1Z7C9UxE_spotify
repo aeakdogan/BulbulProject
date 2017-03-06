@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+      "id" : "73sIBHcqh3Z3NyqHKZ7FOL",
+      "name" : "Childish Gambino",
+      "type" : "artist",
+      "uri" : "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0zi2TaQkYxfXIBvl2yTjQJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0zi2TaQkYxfXIBvl2yTjQJ",
+    "id" : "0zi2TaQkYxfXIBvl2yTjQJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c83218edbd67e80799b65c1146938b517edba92f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9898467809e9f0a8ff4be8e986d1ea04e143e11d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/710a02435d137738737b03086ebaf6b6fa193cf5",
+      "width" : 64
+    } ],
+    "name" : "Because The Internet",
+    "type" : "album",
+    "uri" : "spotify:album:0zi2TaQkYxfXIBvl2yTjQJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+    "id" : "73sIBHcqh3Z3NyqHKZ7FOL",
+    "name" : "Childish Gambino",
+    "type" : "artist",
+    "uri" : "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 180680,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USYAH1300223"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2rmq49FcJ4U3wh1Z7C9UxE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2rmq49FcJ4U3wh1Z7C9UxE",
+  "id" : "2rmq49FcJ4U3wh1Z7C9UxE",
+  "name" : "IV. Sweatpants",
+  "popularity" : 70,
+  "preview_url" : "https://p.scdn.co/mp3-preview/837601360d7e86fc718bb9ec8ba657cc02981f2f?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2rmq49FcJ4U3wh1Z7C9UxE"
+}

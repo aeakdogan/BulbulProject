@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/32TBquEaoASKq5cK1myLdm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/32TBquEaoASKq5cK1myLdm",
+    "id" : "32TBquEaoASKq5cK1myLdm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c4f9ec4a633689b3cb90a000d75d7b3581130f10",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1151e973e95e46f6fe5c5650ee01c735faf0fa1f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6feed512cfdd7e7c70ce72c570efbf46468b0a84",
+      "width" : 64
+    } ],
+    "name" : "Brownswood Bubblers Three (Gilles Peterson Presents)",
+    "type" : "album",
+    "uri" : "spotify:album:32TBquEaoASKq5cK1myLdm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1H0UYyDEET7qQDIpMWH3zi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1H0UYyDEET7qQDIpMWH3zi",
+    "id" : "1H0UYyDEET7qQDIpMWH3zi",
+    "name" : "Jukes",
+    "type" : "artist",
+    "uri" : "spotify:artist:1H0UYyDEET7qQDIpMWH3zi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 262653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEDU0700213"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7jNYQJloxdzMRUYVhzcaKI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7jNYQJloxdzMRUYVhzcaKI",
+  "id" : "7jNYQJloxdzMRUYVhzcaKI",
+  "name" : "Something Important",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/42176a4e172d6230b10d49f59d197bc41bd07813?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7jNYQJloxdzMRUYVhzcaKI"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/77awcauoOY3OEsvT4d1qiD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/77awcauoOY3OEsvT4d1qiD",
+      "id" : "77awcauoOY3OEsvT4d1qiD",
+      "name" : "Love Collection Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:77awcauoOY3OEsvT4d1qiD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/43f6ertZbZutWv2f4wCYng"
+    },
+    "href" : "https://api.spotify.com/v1/albums/43f6ertZbZutWv2f4wCYng",
+    "id" : "43f6ertZbZutWv2f4wCYng",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ca095cf7ed65d8b2755c93b02733b566d48daf6c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b3536e4b322017278b6932a0a7de7a55653df2dd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a850d7abd026131381e667443ee04cc2bddd39a8",
+      "width" : 64
+    } ],
+    "name" : "I love Amy Winehouse",
+    "type" : "album",
+    "uri" : "spotify:album:43f6ertZbZutWv2f4wCYng"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1NNc1j0ZR5IqdF7wan17k2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1NNc1j0ZR5IqdF7wan17k2",
+    "id" : "1NNc1j0ZR5IqdF7wan17k2",
+    "name" : "Made famous by Amy Winehouse",
+    "type" : "artist",
+    "uri" : "spotify:artist:1NNc1j0ZR5IqdF7wan17k2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 216453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ARG991009127"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5qis4Op4gXIld081Kff8hi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5qis4Op4gXIld081Kff8hi",
+  "id" : "5qis4Op4gXIld081Kff8hi",
+  "name" : "Do me good",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7797a2890d63b61b311457a9dc48bdee8155a366?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:5qis4Op4gXIld081Kff8hi"
+}

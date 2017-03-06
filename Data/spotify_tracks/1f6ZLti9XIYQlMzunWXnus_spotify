@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY",
+      "id" : "0LVrQUinPUBFvVD5pLqmWY",
+      "name" : "Doves",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LVrQUinPUBFvVD5pLqmWY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/33nyNThvBKPzS4NGdnWACf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/33nyNThvBKPzS4NGdnWACf",
+    "id" : "33nyNThvBKPzS4NGdnWACf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/265d0e7f31b860fe7d5ffe69f2179139dece5914",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cbe06d59d5f9f468744ba21f0b0eb74c30593c68",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ef0067e5b9484e061ab8e8a145ee338643059c20",
+      "width" : 64
+    } ],
+    "name" : "Lost Souls",
+    "type" : "album",
+    "uri" : "spotify:album:33nyNThvBKPzS4NGdnWACf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY",
+    "id" : "0LVrQUinPUBFvVD5pLqmWY",
+    "name" : "Doves",
+    "type" : "artist",
+    "uri" : "spotify:artist:0LVrQUinPUBFvVD5pLqmWY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 347400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDGG0000021"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1f6ZLti9XIYQlMzunWXnus"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1f6ZLti9XIYQlMzunWXnus",
+  "id" : "1f6ZLti9XIYQlMzunWXnus",
+  "name" : "The Man Who Told Everything",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7dc47447bd1297d7d297fa34de0a777bee27f820?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1f6ZLti9XIYQlMzunWXnus"
+}

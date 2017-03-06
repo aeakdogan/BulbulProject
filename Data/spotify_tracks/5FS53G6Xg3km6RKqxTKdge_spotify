@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Zzs4IqjV4b0yEFWqRv1si",
+      "id" : "3Zzs4IqjV4b0yEFWqRv1si",
+      "name" : "Ben Sollee",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Zzs4IqjV4b0yEFWqRv1si"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Qb0mJaUSpr4PfTgbvqGLC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Qb0mJaUSpr4PfTgbvqGLC",
+    "id" : "0Qb0mJaUSpr4PfTgbvqGLC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/26077205e0dc6636a9af6aa6cbbb10fd1361eae7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b514b2ae710914c2327e2bcfbe83c8f53dece775",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6d38bccc2265696440ee0ca0013e85503eb36321",
+      "width" : 64
+    } ],
+    "name" : "Learning to Bend",
+    "type" : "album",
+    "uri" : "spotify:album:0Qb0mJaUSpr4PfTgbvqGLC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Zzs4IqjV4b0yEFWqRv1si",
+    "id" : "3Zzs4IqjV4b0yEFWqRv1si",
+    "name" : "Ben Sollee",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Zzs4IqjV4b0yEFWqRv1si"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGAC0800021"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5FS53G6Xg3km6RKqxTKdge"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5FS53G6Xg3km6RKqxTKdge",
+  "id" : "5FS53G6Xg3km6RKqxTKdge",
+  "name" : "A Change Is Gonna Come",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ba31793db2d4d818f9432b5e7db0f581c6fad4c4?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:5FS53G6Xg3km6RKqxTKdge"
+}

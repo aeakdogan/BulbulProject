@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1oLX4H9rfNiSjEltvdYD2L"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1oLX4H9rfNiSjEltvdYD2L",
+    "id" : "1oLX4H9rfNiSjEltvdYD2L",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0a0b36216716f04791cea28bc9e1e5f9419f292c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/59a67de042773660bf96e069bcc8a2261ac4751e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d6dd89561b440a24245e1fe4eeacf25fd1db4354",
+      "width" : 64
+    } ],
+    "name" : "Coffee Songs",
+    "type" : "album",
+    "uri" : "spotify:album:1oLX4H9rfNiSjEltvdYD2L"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7hrruNuPITt3N9zLMdbjGz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7hrruNuPITt3N9zLMdbjGz",
+    "id" : "7hrruNuPITt3N9zLMdbjGz",
+    "name" : "Saint Privat",
+    "type" : "artist",
+    "uri" : "spotify:artist:7hrruNuPITt3N9zLMdbjGz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 147146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATW630501601"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6inqqBoqLVINzwv0dk69Ib"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6inqqBoqLVINzwv0dk69Ib",
+  "id" : "6inqqBoqLVINzwv0dk69Ib",
+  "name" : "Tous les jours",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b6be7b38800b11ee971dde4f51fbd93e3dd3a8dd?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:6inqqBoqLVINzwv0dk69Ib"
+}

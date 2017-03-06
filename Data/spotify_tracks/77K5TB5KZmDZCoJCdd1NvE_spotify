@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+      "id" : "5l8VQNuIg0turYE1VtM9zV",
+      "name" : "Leonard Cohen",
+      "type" : "artist",
+      "uri" : "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2Om4oR7plGGub1aYe5uB7B",
+    "id" : "2Om4oR7plGGub1aYe5uB7B",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f6607da2e9939e366875f3ed22f6f6fea98f1532",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/383019bf95a4c7a0a227e0b6a0cafbd41559d50d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4bc9c058508d4d14b96aaeaf2d23cb38c3a6a97b",
+      "width" : 64
+    } ],
+    "name" : "Songs Of Love And Hate",
+    "type" : "album",
+    "uri" : "spotify:album:2Om4oR7plGGub1aYe5uB7B"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+    "id" : "5l8VQNuIg0turYE1VtM9zV",
+    "name" : "Leonard Cohen",
+    "type" : "artist",
+    "uri" : "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 310773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19919473"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/77K5TB5KZmDZCoJCdd1NvE",
+  "id" : "77K5TB5KZmDZCoJCdd1NvE",
+  "name" : "Famous Blue Raincoat",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/85951977b0306650021f46b836b79d5c68522a75?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:77K5TB5KZmDZCoJCdd1NvE"
+}

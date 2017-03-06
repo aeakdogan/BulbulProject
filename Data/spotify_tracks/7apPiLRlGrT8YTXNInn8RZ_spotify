@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37qXWlhfRvpxmIeTKvfw8B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37qXWlhfRvpxmIeTKvfw8B",
+      "id" : "37qXWlhfRvpxmIeTKvfw8B",
+      "name" : "My Brightest Diamond",
+      "type" : "artist",
+      "uri" : "spotify:artist:37qXWlhfRvpxmIeTKvfw8B"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2MylYKFWeJ4bFnnVBJiJiY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2MylYKFWeJ4bFnnVBJiJiY",
+    "id" : "2MylYKFWeJ4bFnnVBJiJiY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/42ff1ef3a1eb35e20edb7a3a909e98b21add206e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/26b074256fc76090186a25b14de2acbb4ed509ee",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bd495b72a5e2c36bb30f82d4693e78d405a97cc6",
+      "width" : 64
+    } ],
+    "name" : "All Things Will Unwind",
+    "type" : "album",
+    "uri" : "spotify:album:2MylYKFWeJ4bFnnVBJiJiY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/37qXWlhfRvpxmIeTKvfw8B"
+    },
+    "href" : "https://api.spotify.com/v1/artists/37qXWlhfRvpxmIeTKvfw8B",
+    "id" : "37qXWlhfRvpxmIeTKvfw8B",
+    "name" : "My Brightest Diamond",
+    "type" : "artist",
+    "uri" : "spotify:artist:37qXWlhfRvpxmIeTKvfw8B"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 244506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US64G1108501"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7apPiLRlGrT8YTXNInn8RZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7apPiLRlGrT8YTXNInn8RZ",
+  "id" : "7apPiLRlGrT8YTXNInn8RZ",
+  "name" : "We Added it Up",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/72fd0233746d31a45e5c196141ab08cc896d6e24?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7apPiLRlGrT8YTXNInn8RZ"
+}

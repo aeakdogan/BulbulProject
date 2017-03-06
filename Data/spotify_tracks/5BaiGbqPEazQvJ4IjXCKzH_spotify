@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d",
+      "id" : "2m62cc253Xvd9qYQ8d2X3d",
+      "name" : "The Alan Parsons Project",
+      "type" : "artist",
+      "uri" : "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ltvv5PsmocuDZky3IzPaK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ltvv5PsmocuDZky3IzPaK",
+    "id" : "4ltvv5PsmocuDZky3IzPaK",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/bace7f1fc42377399f35ec6f8e7c3850cc1993dc",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/6f378b9a0ec7bf0c1691a32310b0bc57083cfa93",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/c7f6f321a71871fbae8b22ddbfde169ee4c0b20e",
+      "width" : 64
+    } ],
+    "name" : "Platinum & Gold Collection",
+    "type" : "album",
+    "uri" : "spotify:album:4ltvv5PsmocuDZky3IzPaK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d",
+    "id" : "2m62cc253Xvd9qYQ8d2X3d",
+    "name" : "The Alan Parsons Project",
+    "type" : "artist",
+    "uri" : "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 272560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR19700019"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5BaiGbqPEazQvJ4IjXCKzH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5BaiGbqPEazQvJ4IjXCKzH",
+  "id" : "5BaiGbqPEazQvJ4IjXCKzH",
+  "name" : "Eye in the Sky - Remastered",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/35fb7014ef34cc3767cc53112e299cbaa45785b3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5BaiGbqPEazQvJ4IjXCKzH"
+}

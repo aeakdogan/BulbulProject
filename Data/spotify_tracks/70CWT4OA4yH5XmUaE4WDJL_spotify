@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4MvDxkXBKkPcCd7s1wwmb3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4MvDxkXBKkPcCd7s1wwmb3",
+    "id" : "4MvDxkXBKkPcCd7s1wwmb3",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/a967da132e433c9144095e068a2426a6583357f7",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/f69e7d225e7cd54271da424be140b0e35c3a41c6",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/f5ee7600a24376abc6a4a7522ba4aab43fc8b802",
+      "width" : 64
+    } ],
+    "name" : "For The Masses",
+    "type" : "album",
+    "uri" : "spotify:album:4MvDxkXBKkPcCd7s1wwmb3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3grvcGPaLhfrD5CYsecr4j",
+    "id" : "3grvcGPaLhfrD5CYsecr4j",
+    "name" : "Failure",
+    "type" : "artist",
+    "uri" : "spotify:artist:3grvcGPaLhfrD5CYsecr4j"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 260426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAM10300261"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/70CWT4OA4yH5XmUaE4WDJL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/70CWT4OA4yH5XmUaE4WDJL",
+  "id" : "70CWT4OA4yH5XmUaE4WDJL",
+  "name" : "Enjoy The Silence",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/68a87611add50e011a0fcdc42eda3482f17f77d6?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:70CWT4OA4yH5XmUaE4WDJL"
+}

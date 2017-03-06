@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7HcipAIJatVGT4U6HQrnFW",
+      "id" : "7HcipAIJatVGT4U6HQrnFW",
+      "name" : "Junip",
+      "type" : "artist",
+      "uri" : "spotify:artist:7HcipAIJatVGT4U6HQrnFW"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4fsnz213jt84aF3obRP8jO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4fsnz213jt84aF3obRP8jO",
+    "id" : "4fsnz213jt84aF3obRP8jO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f25f64c7b8abbd88e24f8b35185701510a09764e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c45e87a024ddfd77ac526184a4f56d80fc53ecf2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/55d5d5afd7a293bb062d5a2219e0971e5d2c10e7",
+      "width" : 64
+    } ],
+    "name" : "Junip",
+    "type" : "album",
+    "uri" : "spotify:album:4fsnz213jt84aF3obRP8jO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7HcipAIJatVGT4U6HQrnFW",
+    "id" : "7HcipAIJatVGT4U6HQrnFW",
+    "name" : "Junip",
+    "type" : "artist",
+    "uri" : "spotify:artist:7HcipAIJatVGT4U6HQrnFW"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 339293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEWMP1300101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1t6zwEOPQUz9QIjlwZ5UGF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1t6zwEOPQUz9QIjlwZ5UGF",
+  "id" : "1t6zwEOPQUz9QIjlwZ5UGF",
+  "name" : "Line Of Fire",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/231f8133ad76fd2d42ac287b0ccfa24026dfccbd?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1t6zwEOPQUz9QIjlwZ5UGF"
+}

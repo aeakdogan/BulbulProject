@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1nneqrnKWHyupZKKJELQ5u"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1nneqrnKWHyupZKKJELQ5u",
+      "id" : "1nneqrnKWHyupZKKJELQ5u",
+      "name" : "Shawn Lane",
+      "type" : "artist",
+      "uri" : "spotify:artist:1nneqrnKWHyupZKKJELQ5u"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2WMi9bjLrIUMCvA13FgEbq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2WMi9bjLrIUMCvA13FgEbq",
+    "id" : "2WMi9bjLrIUMCvA13FgEbq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f744656b0e6d4b534f00d0e842948f100d56b7ed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/20de1dbb1d7034941b05f3414c40a25597c52fa8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7bff552c8fc730353669b298eb591f34afe335b1",
+      "width" : 64
+    } ],
+    "name" : "The Tri-Tone Fascination",
+    "type" : "album",
+    "uri" : "spotify:album:2WMi9bjLrIUMCvA13FgEbq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1nneqrnKWHyupZKKJELQ5u"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1nneqrnKWHyupZKKJELQ5u",
+    "id" : "1nneqrnKWHyupZKKJELQ5u",
+    "name" : "Shawn Lane",
+    "type" : "artist",
+    "uri" : "spotify:artist:1nneqrnKWHyupZKKJELQ5u"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 283266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm80604182"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Zbb3VG1nduVast5WDMPnU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Zbb3VG1nduVast5WDMPnU",
+  "id" : "3Zbb3VG1nduVast5WDMPnU",
+  "name" : "The Way It Has To Be",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/75882a6eb01205dcd9cd7a474f883928714dccc8?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3Zbb3VG1nduVast5WDMPnU"
+}

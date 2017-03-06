@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+      "id" : "3yY2gUcIsjMr8hjo51PoJ8",
+      "name" : "The Smiths",
+      "type" : "artist",
+      "uri" : "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6cI1XoZsOhkyrCwtuI70CN",
+    "id" : "6cI1XoZsOhkyrCwtuI70CN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d22733dd3b8efe3676a1036ed66bd704d6133af8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f2b54f97eef229fe4757a008c5caa2aff1496530",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bf81ecea9a9779c8b55e481e97dacd888757d2eb",
+      "width" : 64
+    } ],
+    "name" : "The Smiths",
+    "type" : "album",
+    "uri" : "spotify:album:6cI1XoZsOhkyrCwtuI70CN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+    "id" : "3yY2gUcIsjMr8hjo51PoJ8",
+    "name" : "The Smiths",
+    "type" : "artist",
+    "uri" : "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 162920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCRL1100240"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1FvDJ9KGxcqwv1utyPL3JZ",
+  "id" : "1FvDJ9KGxcqwv1utyPL3JZ",
+  "name" : "This Charming Man - 2011 Remastered Version",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7b2d8ac3a906ac007ae000e08342410d3e961928?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1FvDJ9KGxcqwv1utyPL3JZ"
+}

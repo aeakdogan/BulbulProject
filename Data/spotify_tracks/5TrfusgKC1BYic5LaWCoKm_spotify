@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/568ZhdwyaiCyOGJRtNYhWf",
+      "id" : "568ZhdwyaiCyOGJRtNYhWf",
+      "name" : "Deep Purple",
+      "type" : "artist",
+      "uri" : "spotify:artist:568ZhdwyaiCyOGJRtNYhWf"
+    } ],
+    "available_markets" : [ "CA", "JP", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3llL1qaL2RvtyQAthAuRFS",
+    "id" : "3llL1qaL2RvtyQAthAuRFS",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/64c4d58515ccdc4a2ec7eea7ae10b425f4a6b921",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/9a6c804f2fe0c76ed478d8d2264ba5350d44b21c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6862ddba343303dd237a05dda508c855e2c29c7d",
+      "width" : 64
+    } ],
+    "name" : "Deep Purple In Rock",
+    "type" : "album",
+    "uri" : "spotify:album:3llL1qaL2RvtyQAthAuRFS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/568ZhdwyaiCyOGJRtNYhWf",
+    "id" : "568ZhdwyaiCyOGJRtNYhWf",
+    "name" : "Deep Purple",
+    "type" : "artist",
+    "uri" : "spotify:artist:568ZhdwyaiCyOGJRtNYhWf"
+  } ],
+  "available_markets" : [ "CA", "JP", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 620373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19903563"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5TrfusgKC1BYic5LaWCoKm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5TrfusgKC1BYic5LaWCoKm",
+  "id" : "5TrfusgKC1BYic5LaWCoKm",
+  "name" : "Child In Time",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9c5b8bf85a3d429ab3b81aae97f480497eefe47e?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5TrfusgKC1BYic5LaWCoKm"
+}

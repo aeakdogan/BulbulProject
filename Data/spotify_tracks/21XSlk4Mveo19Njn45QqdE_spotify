@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78OKNrjc3BvniYTqvpOp6P",
+      "id" : "78OKNrjc3BvniYTqvpOp6P",
+      "name" : "Zola Jesus",
+      "type" : "artist",
+      "uri" : "spotify:artist:78OKNrjc3BvniYTqvpOp6P"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3iMG9taTnPrIkjFTGLvL4x"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3iMG9taTnPrIkjFTGLvL4x",
+    "id" : "3iMG9taTnPrIkjFTGLvL4x",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/136f3cdf1c85e44f19471448df80b961f6c315a1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/82514c6fc2e81891f3e04cd9f71c0f8eaff0ede6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/de4104a0b146e7cab01260515dd3f21a46b14266",
+      "width" : 64
+    } ],
+    "name" : "Taiga",
+    "type" : "album",
+    "uri" : "spotify:album:3iMG9taTnPrIkjFTGLvL4x"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+    },
+    "href" : "https://api.spotify.com/v1/artists/78OKNrjc3BvniYTqvpOp6P",
+    "id" : "78OKNrjc3BvniYTqvpOp6P",
+    "name" : "Zola Jesus",
+    "type" : "artist",
+    "uri" : "spotify:artist:78OKNrjc3BvniYTqvpOp6P"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 272229,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBR8R1301239"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/21XSlk4Mveo19Njn45QqdE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/21XSlk4Mveo19Njn45QqdE",
+  "id" : "21XSlk4Mveo19Njn45QqdE",
+  "name" : "Hunger",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2100db69a2760ccae9313ccec890ad31b8b1306e?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:21XSlk4Mveo19Njn45QqdE"
+}

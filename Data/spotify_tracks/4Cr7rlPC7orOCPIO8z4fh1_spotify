@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SwHKKNKYToC1YzWVNWAIN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SwHKKNKYToC1YzWVNWAIN",
+      "id" : "5SwHKKNKYToC1YzWVNWAIN",
+      "name" : "Tiamat",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SwHKKNKYToC1YzWVNWAIN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/44hS1lomY7jm2aPPyTai5s"
+    },
+    "href" : "https://api.spotify.com/v1/albums/44hS1lomY7jm2aPPyTai5s",
+    "id" : "44hS1lomY7jm2aPPyTai5s",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/206a64a4226619cc137b9c942ac2e21e56c75908",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/686e3451d0137f1d221ae0b0bdc89ab11861a654",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1cfea7ff7a9913770d2735383c7bb59d84c4920c",
+      "width" : 64
+    } ],
+    "name" : "Skeleton Skeletron",
+    "type" : "album",
+    "uri" : "spotify:album:44hS1lomY7jm2aPPyTai5s"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5SwHKKNKYToC1YzWVNWAIN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5SwHKKNKYToC1YzWVNWAIN",
+    "id" : "5SwHKKNKYToC1YzWVNWAIN",
+    "name" : "Tiamat",
+    "type" : "artist",
+    "uri" : "spotify:artist:5SwHKKNKYToC1YzWVNWAIN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 248533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4E40498002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Cr7rlPC7orOCPIO8z4fh1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Cr7rlPC7orOCPIO8z4fh1",
+  "id" : "4Cr7rlPC7orOCPIO8z4fh1",
+  "name" : "Brighter Than the Sun",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fcc7a12e0528161b33a0692de184e040ce9c500e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4Cr7rlPC7orOCPIO8z4fh1"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/39yJXK8vsNtRui2NQFBShp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/39yJXK8vsNtRui2NQFBShp",
+    "id" : "39yJXK8vsNtRui2NQFBShp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/221fe7a4018b934d81d6c1dda231d8cfe4cd4228",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/300dde66e05194ecf114b54c22d4b047e3fcc219",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/06de1cf55c4a768b56a92b8e87c755b64dd26a56",
+      "width" : 64
+    } ],
+    "name" : "Music From The MGM Motion Picture The World Is Not Enough",
+    "type" : "album",
+    "uri" : "spotify:album:39yJXK8vsNtRui2NQFBShp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/04tBaW21jyUfeP5iqiKBVq",
+    "id" : "04tBaW21jyUfeP5iqiKBVq",
+    "name" : "Scott Walker",
+    "type" : "artist",
+    "uri" : "spotify:artist:04tBaW21jyUfeP5iqiKBVq"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC19989383"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/10j7Vu1vtRebMj799gu2VJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/10j7Vu1vtRebMj799gu2VJ",
+  "id" : "10j7Vu1vtRebMj799gu2VJ",
+  "name" : "Only Myself To Blame - From \"The World Is Not Enough\" Soundtrack",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1e01dc29c79ecc8bec0441d5c7b24de9199495a4?cid=null",
+  "track_number" : 19,
+  "type" : "track",
+  "uri" : "spotify:track:10j7Vu1vtRebMj799gu2VJ"
+}

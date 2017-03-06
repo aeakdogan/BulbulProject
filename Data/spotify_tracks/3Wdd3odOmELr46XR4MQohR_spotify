@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq",
+      "id" : "2Hkut4rAAyrQxRdof7FVJq",
+      "name" : "Rush",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Hkut4rAAyrQxRdof7FVJq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5fwkYtHrckROAs4ALRJ2Cz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5fwkYtHrckROAs4ALRJ2Cz",
+    "id" : "5fwkYtHrckROAs4ALRJ2Cz",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/0d7b964e468e5e98477662938bc327924eadcc97",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/ccaa71c7c9b4dec95dc972b2d5594c3252ea8064",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9a8d7a518f34b611bc64670b868f777a7497d795",
+      "width" : 64
+    } ],
+    "name" : "Test For Echo",
+    "type" : "album",
+    "uri" : "spotify:album:5fwkYtHrckROAs4ALRJ2Cz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Hkut4rAAyrQxRdof7FVJq",
+    "id" : "2Hkut4rAAyrQxRdof7FVJq",
+    "name" : "Rush",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Hkut4rAAyrQxRdof7FVJq"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 343626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20401538"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Wdd3odOmELr46XR4MQohR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Wdd3odOmELr46XR4MQohR",
+  "id" : "3Wdd3odOmELr46XR4MQohR",
+  "name" : "Virtuality - Remastered",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/40dd0e1790abe6f81a702de67f7e32bbaf22a915?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:3Wdd3odOmELr46XR4MQohR"
+}

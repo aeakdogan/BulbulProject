@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp",
+      "id" : "5Wabl1lPdNOeIn0SQ5A1mp",
+      "name" : "Cocteau Twins",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E"
+    },
+    "href" : "https://api.spotify.com/v1/albums/37hHXJ7xas2Nb7Jbi8ip4E",
+    "id" : "37hHXJ7xas2Nb7Jbi8ip4E",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b82625ff4057711798302c4456bf2a9c061d3d9d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/71d45c05bfbc43b1293b2c17725c24f8e7c6552a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7c0deba7c40caa63d13c53752903199c54fc1534",
+      "width" : 64
+    } ],
+    "name" : "Heaven Or Las Vegas (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:37hHXJ7xas2Nb7Jbi8ip4E"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp",
+    "id" : "5Wabl1lPdNOeIn0SQ5A1mp",
+    "name" : "Cocteau Twins",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 298400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAFL9000039"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1bwXRScnt3k6vSyVqcKyNj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1bwXRScnt3k6vSyVqcKyNj",
+  "id" : "1bwXRScnt3k6vSyVqcKyNj",
+  "name" : "Heaven Or Las Vegas",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/42da0f790343b95f0bf2cd0795ca6e25445bcb97?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1bwXRScnt3k6vSyVqcKyNj"
+}

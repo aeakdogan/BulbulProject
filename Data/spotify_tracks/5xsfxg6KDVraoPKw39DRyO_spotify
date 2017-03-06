@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+      "id" : "2ApaG60P4r0yhBoDCGD8YG",
+      "name" : "Elliott Smith",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+    } ],
+    "available_markets" : [ "AU", "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Q5tkG2i4EfKrvCzu1SxBe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Q5tkG2i4EfKrvCzu1SxBe",
+    "id" : "4Q5tkG2i4EfKrvCzu1SxBe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6b3f3b9d6a35525fa6a2b2a5a6ff22a5ef72f93b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0c75b363fdf3378b958e0a147a677dbd49094391",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/243738a623b62175c4029f377e404dfff67905b2",
+      "width" : 64
+    } ],
+    "name" : "From A Basement On The Hill",
+    "type" : "album",
+    "uri" : "spotify:album:4Q5tkG2i4EfKrvCzu1SxBe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+    "id" : "2ApaG60P4r0yhBoDCGD8YG",
+    "name" : "Elliott Smith",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+  } ],
+  "available_markets" : [ "AU", "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 285733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USKRS1052403"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5xsfxg6KDVraoPKw39DRyO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5xsfxg6KDVraoPKw39DRyO",
+  "id" : "5xsfxg6KDVraoPKw39DRyO",
+  "name" : "Pretty (Ugly Before)",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3655e8e46ec355088c68131c70a6e524698c7fc7?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5xsfxg6KDVraoPKw39DRyO"
+}

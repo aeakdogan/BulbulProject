@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2S5hlvw4CMtMGswFtfdK15",
+      "id" : "2S5hlvw4CMtMGswFtfdK15",
+      "name" : "Royal Blood",
+      "type" : "artist",
+      "uri" : "spotify:artist:2S5hlvw4CMtMGswFtfdK15"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7DJijwZ2wqJrgLpcRMxs3G",
+    "id" : "7DJijwZ2wqJrgLpcRMxs3G",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/677b1f3ec3ca3dd72fb67cdb642fc27c34d0b3f1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1dee5fa30a895002ee2defd29af51486bcf9dd36",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3fbb1629903938121826ba667dc7f3613a2a784c",
+      "width" : 64
+    } ],
+    "name" : "Royal Blood",
+    "type" : "album",
+    "uri" : "spotify:album:7DJijwZ2wqJrgLpcRMxs3G"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2S5hlvw4CMtMGswFtfdK15",
+    "id" : "2S5hlvw4CMtMGswFtfdK15",
+    "name" : "Royal Blood",
+    "type" : "artist",
+    "uri" : "spotify:artist:2S5hlvw4CMtMGswFtfdK15"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 240572,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBAHT1400097"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2nIulsLMiP2SMTDrtxfQXX",
+  "id" : "2nIulsLMiP2SMTDrtxfQXX",
+  "name" : "Out Of The Black",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/46dd9e93f7d4fdf2d2f4dff21c5b4b35a75d4d7f?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2nIulsLMiP2SMTDrtxfQXX"
+}

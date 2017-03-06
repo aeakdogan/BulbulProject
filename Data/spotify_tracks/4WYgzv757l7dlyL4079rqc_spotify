@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0UGpMXZjVZQnOcO1j5NVCn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0UGpMXZjVZQnOcO1j5NVCn",
+    "id" : "0UGpMXZjVZQnOcO1j5NVCn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/21f38b62a97f1f612224b63011842418b30cc710",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a91ffca8e93a44086fba758435740600f49735d4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8e62c3da9be1046e35fc59d782ad930630e3ce4d",
+      "width" : 64
+    } ],
+    "name" : "Music From The O.C. Mix 4",
+    "type" : "album",
+    "uri" : "spotify:album:0UGpMXZjVZQnOcO1j5NVCn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0QldGXwclr0chJkP91RRWX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0QldGXwclr0chJkP91RRWX",
+    "id" : "0QldGXwclr0chJkP91RRWX",
+    "name" : "A.C. Newman",
+    "type" : "artist",
+    "uri" : "spotify:artist:0QldGXwclr0chJkP91RRWX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 237906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD0461503"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4WYgzv757l7dlyL4079rqc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4WYgzv757l7dlyL4079rqc",
+  "id" : "4WYgzv757l7dlyL4079rqc",
+  "name" : "On The Table",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a2807a4e54a4ce1415f96cd7637a3558ffaaa3e9?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4WYgzv757l7dlyL4079rqc"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5tJuo3Ch89ZPGFD3cOkpue"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5tJuo3Ch89ZPGFD3cOkpue",
+      "id" : "5tJuo3Ch89ZPGFD3cOkpue",
+      "name" : "Juliette Lewis",
+      "type" : "artist",
+      "uri" : "spotify:artist:5tJuo3Ch89ZPGFD3cOkpue"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0zcxclNDllHG1pBsdUqoV0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0zcxclNDllHG1pBsdUqoV0",
+    "id" : "0zcxclNDllHG1pBsdUqoV0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b10504af5736461b0caded8bf802371f9751b3e9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/83e93efb44467048d6dba00a43ea55b139915994",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c5957a645a874876b3dcfdc5e2b4783543c0006e",
+      "width" : 64
+    } ],
+    "name" : "Terra Incognita",
+    "type" : "album",
+    "uri" : "spotify:album:0zcxclNDllHG1pBsdUqoV0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5tJuo3Ch89ZPGFD3cOkpue"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5tJuo3Ch89ZPGFD3cOkpue",
+    "id" : "5tJuo3Ch89ZPGFD3cOkpue",
+    "name" : "Juliette Lewis",
+    "type" : "artist",
+    "uri" : "spotify:artist:5tJuo3Ch89ZPGFD3cOkpue"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 294093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2420914204"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/71dxWNPgAs9RUPGAsJl5iv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/71dxWNPgAs9RUPGAsJl5iv",
+  "id" : "71dxWNPgAs9RUPGAsJl5iv",
+  "name" : "Hard Lovin' Woman",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/35fd56ff2085c9034c7c6370fe157aff0213bafe?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:71dxWNPgAs9RUPGAsJl5iv"
+}

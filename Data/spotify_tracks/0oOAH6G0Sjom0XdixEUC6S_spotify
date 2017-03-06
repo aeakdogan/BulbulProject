@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jOh5Hdrc5A8nQxBf5Q6gN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jOh5Hdrc5A8nQxBf5Q6gN",
+      "id" : "3jOh5Hdrc5A8nQxBf5Q6gN",
+      "name" : "Percee P",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jOh5Hdrc5A8nQxBf5Q6gN"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7okXPBNU4yeXOHXWBveaWQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7okXPBNU4yeXOHXWBveaWQ",
+    "id" : "7okXPBNU4yeXOHXWBveaWQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a70159e272b0ce61b2fcdcd756df32704feb95ff",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/887ab3dcf43ddf02acd0c0c3dba0629393141a47",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/38cb59c411140edc0d4440cddd27fd195215152e",
+      "width" : 64
+    } ],
+    "name" : "Perseverance",
+    "type" : "album",
+    "uri" : "spotify:album:7okXPBNU4yeXOHXWBveaWQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3jOh5Hdrc5A8nQxBf5Q6gN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3jOh5Hdrc5A8nQxBf5Q6gN",
+    "id" : "3jOh5Hdrc5A8nQxBf5Q6gN",
+    "name" : "Percee P",
+    "type" : "artist",
+    "uri" : "spotify:artist:3jOh5Hdrc5A8nQxBf5Q6gN"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 223520,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "US2S70720003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0oOAH6G0Sjom0XdixEUC6S"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0oOAH6G0Sjom0XdixEUC6S",
+  "id" : "0oOAH6G0Sjom0XdixEUC6S",
+  "name" : "The Man To Praise",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/183415ca1d829c825f108a17165748e621307bbc?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0oOAH6G0Sjom0XdixEUC6S"
+}

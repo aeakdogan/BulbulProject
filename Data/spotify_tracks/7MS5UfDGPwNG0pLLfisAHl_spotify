@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3rxeQlsv0Sc2nyYaZ5W71T",
+      "id" : "3rxeQlsv0Sc2nyYaZ5W71T",
+      "name" : "Chet Baker",
+      "type" : "artist",
+      "uri" : "spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2GBrSJ4RXPASCuAPUIEWku"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2GBrSJ4RXPASCuAPUIEWku",
+    "id" : "2GBrSJ4RXPASCuAPUIEWku",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/39b33146b0acaa5e186452175bab5d6506a19118",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3c6c715355b318c8a1ef7e09788ca08160ab475e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a255f06cadc04a4645611ed9df7606ed42736195",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Chet Baker",
+    "type" : "album",
+    "uri" : "spotify:album:2GBrSJ4RXPASCuAPUIEWku"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3rxeQlsv0Sc2nyYaZ5W71T",
+    "id" : "3rxeQlsv0Sc2nyYaZ5W71T",
+    "name" : "Chet Baker",
+    "type" : "artist",
+    "uri" : "spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 182333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI85900047"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7MS5UfDGPwNG0pLLfisAHl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7MS5UfDGPwNG0pLLfisAHl",
+  "id" : "7MS5UfDGPwNG0pLLfisAHl",
+  "name" : "September Song",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/772b192dfc99c558133bd6c54834d48901642d27?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:7MS5UfDGPwNG0pLLfisAHl"
+}

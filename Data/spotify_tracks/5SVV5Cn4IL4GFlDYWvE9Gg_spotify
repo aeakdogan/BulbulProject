@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB",
+      "id" : "4STHEaNw4mPZ2tzheohgXB",
+      "name" : "Paul McCartney",
+      "type" : "artist",
+      "uri" : "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2xmH6tdnWsqZ2QxDyAJC8L"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2xmH6tdnWsqZ2QxDyAJC8L",
+    "id" : "2xmH6tdnWsqZ2QxDyAJC8L",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/433b2bfeae308920477511bf7d1c00e35a2bcf94",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cb95dc24e201ec4527fb2b21bfe690b04a47e8da",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eff3d2efc43173f4162a1670003b1bb72a0b7607",
+      "width" : 64
+    } ],
+    "name" : "Chaos And Creation In The Backyard",
+    "type" : "album",
+    "uri" : "spotify:album:2xmH6tdnWsqZ2QxDyAJC8L"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB",
+    "id" : "4STHEaNw4mPZ2tzheohgXB",
+    "name" : "Paul McCartney",
+    "type" : "artist",
+    "uri" : "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 204320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCCS0501469"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5SVV5Cn4IL4GFlDYWvE9Gg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5SVV5Cn4IL4GFlDYWvE9Gg",
+  "id" : "5SVV5Cn4IL4GFlDYWvE9Gg",
+  "name" : "Too Much Rain",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a7e072eea58242ff1a66d9d567e564a21f06b4f7?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5SVV5Cn4IL4GFlDYWvE9Gg"
+}

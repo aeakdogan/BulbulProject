@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id" : "7bu3H8JO7d0UbMoVzbo70s",
+      "name" : "The Cure",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6HhpmJekzDCRu2K64ZbWqw",
+    "id" : "6HhpmJekzDCRu2K64ZbWqw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dfbe2753b3a9da80dbe461789b0640338ebca247",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fcf8706133290fae7ada860c9f1e3db6a6133c8e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/985e45cc7765831a7de7e6bfad13e3741d1ad2cc",
+      "width" : 64
+    } ],
+    "name" : "The Head On The Door",
+    "type" : "album",
+    "uri" : "spotify:album:6HhpmJekzDCRu2K64ZbWqw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+    "id" : "7bu3H8JO7d0UbMoVzbo70s",
+    "name" : "The Cure",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 203266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10608884"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ABE6G4uQxbNtYgVrpBBPA",
+  "id" : "7ABE6G4uQxbNtYgVrpBBPA",
+  "name" : "Close To Me - Remastered",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/80e0916eb1bbfdfb72381bbe67381083e202ccb2?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:7ABE6G4uQxbNtYgVrpBBPA"
+}

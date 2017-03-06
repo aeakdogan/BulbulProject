@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6",
+      "id" : "6WoTvA9qinpHtSRJuldYh6",
+      "name" : "The Fall",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WoTvA9qinpHtSRJuldYh6"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7bUfWuMUxuEc92sEhMbCvW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7bUfWuMUxuEc92sEhMbCvW",
+    "id" : "7bUfWuMUxuEc92sEhMbCvW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1a0bb8bd3db81b6c758935c70ccfe5c1577f9156",
+      "width" : 624
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/adca3d0d6110fccc5bcc8b89a59335c7f0ae0c74",
+      "width" : 293
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7b7fe5550f8610d03e22bc8ceb83d9f0db9b942b",
+      "width" : 62
+    } ],
+    "name" : "Imperial Wax Solvent",
+    "type" : "album",
+    "uri" : "spotify:album:7bUfWuMUxuEc92sEhMbCvW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6",
+    "id" : "6WoTvA9qinpHtSRJuldYh6",
+    "name" : "The Fall",
+    "type" : "artist",
+    "uri" : "spotify:artist:6WoTvA9qinpHtSRJuldYh6"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 339066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70803139"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1bd6Idku8IoceTthiSSWEl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1bd6Idku8IoceTthiSSWEl",
+  "id" : "1bd6Idku8IoceTthiSSWEl",
+  "name" : "Strange Town",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9629db9d6cd866b6245ec45c41029cbfb90558c0?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1bd6Idku8IoceTthiSSWEl"
+}

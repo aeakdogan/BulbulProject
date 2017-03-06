@@ -1,0 +1,61 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/71Ur25Abq58vksqJINpGdx",
+      "id" : "71Ur25Abq58vksqJINpGdx",
+      "name" : "Miles Davis Quintet",
+      "type" : "artist",
+      "uri" : "spotify:artist:71Ur25Abq58vksqJINpGdx"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1mGkIZVToeCNAseve9I1nv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1mGkIZVToeCNAseve9I1nv",
+    "id" : "1mGkIZVToeCNAseve9I1nv",
+    "images" : [ {
+      "height" : 275,
+      "url" : "https://i.scdn.co/image/5aab95e53564c8347a63dba1f55fd92078abbd50",
+      "width" : 300
+    }, {
+      "height" : 59,
+      "url" : "https://i.scdn.co/image/ff34810f4ff7023622d5d2dee889c86cdbfb53d9",
+      "width" : 64
+    } ],
+    "name" : "Workin' With The Miles Davis Quintet (Limited Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:1mGkIZVToeCNAseve9I1nv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/71Ur25Abq58vksqJINpGdx",
+    "id" : "71Ur25Abq58vksqJINpGdx",
+    "name" : "Miles Davis Quintet",
+    "type" : "artist",
+    "uri" : "spotify:artist:71Ur25Abq58vksqJINpGdx"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 320426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI85900063"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0yBEvLfd3qlBMJVli8AzPh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0yBEvLfd3qlBMJVli8AzPh",
+  "id" : "0yBEvLfd3qlBMJVli8AzPh",
+  "name" : "It Never Entered My Mind",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1689ee358462d7b1be6d8b22edfc263aa87a602f?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0yBEvLfd3qlBMJVli8AzPh"
+}

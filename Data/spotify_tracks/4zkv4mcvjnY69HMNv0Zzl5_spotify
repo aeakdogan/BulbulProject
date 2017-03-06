@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iUjRVvYCsMfz7tuAQtBDI",
+      "id" : "3iUjRVvYCsMfz7tuAQtBDI",
+      "name" : "Ultravox",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iUjRVvYCsMfz7tuAQtBDI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2qglzVkWCBALdZ8JHMgJhT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2qglzVkWCBALdZ8JHMgJhT",
+    "id" : "2qglzVkWCBALdZ8JHMgJhT",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/195725c861fb4e9c5c4a1a8bf18b6534c4f748ab",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/13b0c38fad8ee173b85a8199eb2df417997e1fbd",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/762f786224e7a4611253a8b888a2bb1f4308f90f",
+      "width" : 64
+    } ],
+    "name" : "Ha! Ha! Ha! (Remastered & Expanded)",
+    "type" : "album",
+    "uri" : "spotify:album:2qglzVkWCBALdZ8JHMgJhT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iUjRVvYCsMfz7tuAQtBDI",
+    "id" : "3iUjRVvYCsMfz7tuAQtBDI",
+    "name" : "Ultravox",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iUjRVvYCsMfz7tuAQtBDI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 214306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN7700040"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4zkv4mcvjnY69HMNv0Zzl5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4zkv4mcvjnY69HMNv0Zzl5",
+  "id" : "4zkv4mcvjnY69HMNv0Zzl5",
+  "name" : "Rockwrok",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5a70247e90a90a3aba77727496c89bf6cc88aa97?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4zkv4mcvjnY69HMNv0Zzl5"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3MM8mtgFzaEJsqbjZBSsHJ",
+      "id" : "3MM8mtgFzaEJsqbjZBSsHJ",
+      "name" : "Bloc Party",
+      "type" : "artist",
+      "uri" : "spotify:artist:3MM8mtgFzaEJsqbjZBSsHJ"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ZdR2zjN6X6Wvffw8l87yl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ZdR2zjN6X6Wvffw8l87yl",
+    "id" : "0ZdR2zjN6X6Wvffw8l87yl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c7453df02694fbc44a304d21fbd3e5f5e7ebd0fb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/21e98af9b5c55f89aa6b847320cce8e9d2811ec5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c60a9265f5537c0ada8c6ff32b72df2213ff9765",
+      "width" : 64
+    } ],
+    "name" : "Intimacy",
+    "type" : "album",
+    "uri" : "spotify:album:0ZdR2zjN6X6Wvffw8l87yl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3MM8mtgFzaEJsqbjZBSsHJ",
+    "id" : "3MM8mtgFzaEJsqbjZBSsHJ",
+    "name" : "Bloc Party",
+    "type" : "artist",
+    "uri" : "spotify:artist:3MM8mtgFzaEJsqbjZBSsHJ"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 278674,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDNH0800561"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2E3hdMguyNDQswLXyUotYR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2E3hdMguyNDQswLXyUotYR",
+  "id" : "2E3hdMguyNDQswLXyUotYR",
+  "name" : "Signs",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f2cebb4bf1375c6e6e0738f081db2a3e8597e43c?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2E3hdMguyNDQswLXyUotYR"
+}

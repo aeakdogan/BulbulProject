@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+      "id" : "3CkvROUTQ6nRi9yQOcsB50",
+      "name" : "Genesis",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/70H64F7Q65tqTkRf3qxAzs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/70H64F7Q65tqTkRf3qxAzs",
+    "id" : "70H64F7Q65tqTkRf3qxAzs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bdecbaf7eecbbf39f0b7343c2779ae604b555461",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2908ab357816a5935fb8d96b59cd5ffb6ac45f72",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/164722e5711f6188d3649e32ae2b5c94d00df706",
+      "width" : 64
+    } ],
+    "name" : "R-Kive",
+    "type" : "album",
+    "uri" : "spotify:album:70H64F7Q65tqTkRf3qxAzs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+    "id" : "3CkvROUTQ6nRi9yQOcsB50",
+    "name" : "Genesis",
+    "type" : "artist",
+    "uri" : "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 315546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0701785"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Zc5B6m0ThQgXPycTlivVZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Zc5B6m0ThQgXPycTlivVZ",
+  "id" : "4Zc5B6m0ThQgXPycTlivVZ",
+  "name" : "Carpet Crawlers - New Stereo Mix",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/57ff89c95d5f0eac16753358c2ede55665ddf498?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4Zc5B6m0ThQgXPycTlivVZ"
+}

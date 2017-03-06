@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+      "id" : "5pKCCKE2ajJHZ9KAiaK11H",
+      "name" : "Rihanna",
+      "type" : "artist",
+      "uri" : "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3JSWZWeTHF4HDGt5Eozdy7",
+    "id" : "3JSWZWeTHF4HDGt5Eozdy7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0bd0f3a2fdf032314a1a5745fae4c902bf72aa66",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c17b325724979ec2d24c48dbed16f4688a0fd72b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/21739e50a36b3973931bb18c21233d635771d087",
+      "width" : 64
+    } ],
+    "name" : "Good Girl Gone Bad: Reloaded",
+    "type" : "album",
+    "uri" : "spotify:album:3JSWZWeTHF4HDGt5Eozdy7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+    "id" : "5pKCCKE2ajJHZ9KAiaK11H",
+    "name" : "Rihanna",
+    "type" : "artist",
+    "uri" : "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 213213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70735548"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6g1B0hd6rlT3xP3mERUnz8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6g1B0hd6rlT3xP3mERUnz8",
+  "id" : "6g1B0hd6rlT3xP3mERUnz8",
+  "name" : "Good Girl Gone Bad",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dbd30e6bcbe599f013a05045e4c63afbeea77608?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:6g1B0hd6rlT3xP3mERUnz8"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4HUntZg0YV0qCvRxmIhq2U",
+    "id" : "4HUntZg0YV0qCvRxmIhq2U",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/acd2e2c237ff4caa9a2354c2428ed89d0360a6d9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ccfb78bb1ed68250764fe4d0438de9e5b21dc00b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6f8508665d6c9f22ca68d2398934c9e04627473d",
+      "width" : 64
+    } ],
+    "name" : "Boogie Nights / Music From The Original Motion Picture",
+    "type" : "album",
+    "uri" : "spotify:album:4HUntZg0YV0qCvRxmIhq2U"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0dEvx7Y18jVslvbP4IksQl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0dEvx7Y18jVslvbP4IksQl",
+    "id" : "0dEvx7Y18jVslvbP4IksQl",
+    "name" : "The Chakachas",
+    "type" : "artist",
+    "uri" : "spotify:artist:0dEvx7Y18jVslvbP4IksQl"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 260706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEQO47000007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2QEhVc7hg5Z5yI8UPOSRk8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2QEhVc7hg5Z5yI8UPOSRk8",
+  "id" : "2QEhVc7hg5Z5yI8UPOSRk8",
+  "name" : "Jungle Fever",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4dba93bd9c10390625b0790568c67730beafd18c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2QEhVc7hg5Z5yI8UPOSRk8"
+}

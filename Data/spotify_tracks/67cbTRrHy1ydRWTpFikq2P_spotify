@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0bToCo5eQsykU1Q6Sluv6h"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0bToCo5eQsykU1Q6Sluv6h",
+    "id" : "0bToCo5eQsykU1Q6Sluv6h",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e588b7f2de22dea582f20613d8f2d2f6c9ea06ee",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5607b0883e291b9cf0cfe39d1d62e980f40fd1cb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f3ee094ce65ffeaec221f3ceb7cbb2d126368624",
+      "width" : 64
+    } ],
+    "name" : "New Jazz Divas",
+    "type" : "album",
+    "uri" : "spotify:album:0bToCo5eQsykU1Q6Sluv6h"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Kx7MNY7cI1ENniW7vT30N",
+    "id" : "2Kx7MNY7cI1ENniW7vT30N",
+    "name" : "Norah Jones",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Kx7MNY7cI1ENniW7vT30N"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6BXA5FDonefcAe2hg4T7K5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6BXA5FDonefcAe2hg4T7K5",
+    "id" : "6BXA5FDonefcAe2hg4T7K5",
+    "name" : "Joel Harrison",
+    "type" : "artist",
+    "uri" : "spotify:artist:6BXA5FDonefcAe2hg4T7K5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 260320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEA890300116"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/67cbTRrHy1ydRWTpFikq2P"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/67cbTRrHy1ydRWTpFikq2P",
+  "id" : "67cbTRrHy1ydRWTpFikq2P",
+  "name" : "Tennessee Waltz",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9b4305f6f319dc523bdcb278a201ea8da6915f64?cid=null",
+  "track_number" : 21,
+  "type" : "track",
+  "uri" : "spotify:track:67cbTRrHy1ydRWTpFikq2P"
+}

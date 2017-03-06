@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0gadJ2b9A4SKsB1RFkBb66",
+      "id" : "0gadJ2b9A4SKsB1RFkBb66",
+      "name" : "Passenger",
+      "type" : "artist",
+      "uri" : "spotify:artist:0gadJ2b9A4SKsB1RFkBb66"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2sRnJq6dfXdqhIflBk0ve1",
+    "id" : "2sRnJq6dfXdqhIflBk0ve1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/856cfebd0aa2af063bc794b4814253b16adbd605",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2ddb25d204958aed224c56fcf03b9a94c9fd5b6b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/38200539be272e7d085a6cdcd68ac95b5659c201",
+      "width" : 64
+    } ],
+    "name" : "All the Little Lights",
+    "type" : "album",
+    "uri" : "spotify:album:2sRnJq6dfXdqhIflBk0ve1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0gadJ2b9A4SKsB1RFkBb66",
+    "id" : "0gadJ2b9A4SKsB1RFkBb66",
+    "name" : "Passenger",
+    "type" : "artist",
+    "uri" : "spotify:artist:0gadJ2b9A4SKsB1RFkBb66"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 252733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBMQN1200012"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6GmUVqe73u5YRfUUynZK6I",
+  "id" : "6GmUVqe73u5YRfUUynZK6I",
+  "name" : "Let Her Go",
+  "popularity" : 70,
+  "preview_url" : "https://p.scdn.co/mp3-preview/043435de75e5889850d1caa8a479d5168ecf5ff3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6GmUVqe73u5YRfUUynZK6I"
+}

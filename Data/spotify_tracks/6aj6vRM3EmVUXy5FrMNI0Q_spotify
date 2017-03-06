@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3qMRvSHJpaRjGDkIeNMoGz",
+      "id" : "3qMRvSHJpaRjGDkIeNMoGz",
+      "name" : "Theo Parrish",
+      "type" : "artist",
+      "uri" : "spotify:artist:3qMRvSHJpaRjGDkIeNMoGz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2qSTysZvctuqKqon4v1xiC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2qSTysZvctuqKqon4v1xiC",
+    "id" : "2qSTysZvctuqKqon4v1xiC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b017dbe1d020e4a97605befb32daf521aef534c1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3b93cf00e0174842b5a9a48e596d2da04450cdfa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d2aecf539b696290cf2276d3edd98954a4ded254",
+      "width" : 64
+    } ],
+    "name" : "Parallel Dimensions",
+    "type" : "album",
+    "uri" : "spotify:album:2qSTysZvctuqKqon4v1xiC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3qMRvSHJpaRjGDkIeNMoGz",
+    "id" : "3qMRvSHJpaRjGDkIeNMoGz",
+    "name" : "Theo Parrish",
+    "type" : "artist",
+    "uri" : "spotify:artist:3qMRvSHJpaRjGDkIeNMoGz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 502800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUR40415102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6aj6vRM3EmVUXy5FrMNI0Q"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6aj6vRM3EmVUXy5FrMNI0Q",
+  "id" : "6aj6vRM3EmVUXy5FrMNI0Q",
+  "name" : "Anansies Dances",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2814958a158378f68e8a2be0371f5c8ab3e83d09?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6aj6vRM3EmVUXy5FrMNI0Q"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ZMwoAjeDtLJ0XRwRTgaK8",
+      "id" : "5ZMwoAjeDtLJ0XRwRTgaK8",
+      "name" : "Quantic",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ZMwoAjeDtLJ0XRwRTgaK8"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3aTXD4QsMiyg9JmQwjrIKY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3aTXD4QsMiyg9JmQwjrIKY",
+    "id" : "3aTXD4QsMiyg9JmQwjrIKY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0baa7a926912e1f51514727686c828164b5adedd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/92bb5eeecbe4aba1896caf318afd111e0f539906",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fb02553205fa176c4ba8423b1db06df61517e7d6",
+      "width" : 64
+    } ],
+    "name" : "The 5th Exotic",
+    "type" : "album",
+    "uri" : "spotify:album:3aTXD4QsMiyg9JmQwjrIKY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5ZMwoAjeDtLJ0XRwRTgaK8",
+    "id" : "5ZMwoAjeDtLJ0XRwRTgaK8",
+    "name" : "Quantic",
+    "type" : "artist",
+    "uri" : "spotify:artist:5ZMwoAjeDtLJ0XRwRTgaK8"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 393333,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBEUE0100598"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0yYq0EylkK6ZY6xu7jTRmH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0yYq0EylkK6ZY6xu7jTRmH",
+  "id" : "0yYq0EylkK6ZY6xu7jTRmH",
+  "name" : "Life in the Rain",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/09146e34a501b07e54f3881b5e66dda42c251f7c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0yYq0EylkK6ZY6xu7jTRmH"
+}

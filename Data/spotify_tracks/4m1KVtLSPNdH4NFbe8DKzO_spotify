@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+      "id" : "5pKCCKE2ajJHZ9KAiaK11H",
+      "name" : "Rihanna",
+      "type" : "artist",
+      "uri" : "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6UHhmTLl9T1scRYLmpHcDX",
+    "id" : "6UHhmTLl9T1scRYLmpHcDX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/171d92deda8718bbfe2d50ddab6aaedbfb6e1283",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ed76f8fece063e1b742dc323633c26228cd37e20",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f8801337618946dfac7a95aad018c9ec7a02ccd6",
+      "width" : 64
+    } ],
+    "name" : "Loud",
+    "type" : "album",
+    "uri" : "spotify:album:6UHhmTLl9T1scRYLmpHcDX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+    "id" : "5pKCCKE2ajJHZ9KAiaK11H",
+    "name" : "Rihanna",
+    "type" : "artist",
+    "uri" : "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 207280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71113372"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4m1KVtLSPNdH4NFbe8DKzO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4m1KVtLSPNdH4NFbe8DKzO",
+  "id" : "4m1KVtLSPNdH4NFbe8DKzO",
+  "name" : "Fading",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f2c5d438daf7850db706e9aa36930de17d524719?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4m1KVtLSPNdH4NFbe8DKzO"
+}

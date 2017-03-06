@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1rCIEwPp5OnXW0ornlSsRl",
+      "id" : "1rCIEwPp5OnXW0ornlSsRl",
+      "name" : "Metric",
+      "type" : "artist",
+      "uri" : "spotify:artist:1rCIEwPp5OnXW0ornlSsRl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Oj8FdHcV6kAiOVWfkqRaA",
+    "id" : "3Oj8FdHcV6kAiOVWfkqRaA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c4f84c3c4027a149393e2f010772d2688b3a1f27",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/93696bd2b77f39d915ee1b4544728d13f3f3af43",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/19261bbe985db1657e82afa03a37d959aad11b46",
+      "width" : 64
+    } ],
+    "name" : "Fantasies",
+    "type" : "album",
+    "uri" : "spotify:album:3Oj8FdHcV6kAiOVWfkqRaA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1rCIEwPp5OnXW0ornlSsRl",
+    "id" : "1rCIEwPp5OnXW0ornlSsRl",
+    "name" : "Metric",
+    "type" : "artist",
+    "uri" : "spotify:artist:1rCIEwPp5OnXW0ornlSsRl"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 234600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CARB70901906"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1blxMGAKo9uttR9bHsXCOV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1blxMGAKo9uttR9bHsXCOV",
+  "id" : "1blxMGAKo9uttR9bHsXCOV",
+  "name" : "Gimme Sympathy",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bade941c1f7917999c995757b26297dcaf07c97d?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1blxMGAKo9uttR9bHsXCOV"
+}

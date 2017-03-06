@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6C65D20ASusYqHGSIktfED",
+      "id" : "6C65D20ASusYqHGSIktfED",
+      "name" : "Erroll Garner",
+      "type" : "artist",
+      "uri" : "spotify:artist:6C65D20ASusYqHGSIktfED"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1cb4bE5Q1vLla4jjoNV1gS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1cb4bE5Q1vLla4jjoNV1gS",
+    "id" : "1cb4bE5Q1vLla4jjoNV1gS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7f86fd5b19b5edf85f11c12c03f039569c741ce0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8a502549dd9d1077b0bf253e131eca7c82ee4cbc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2e64974e8e2e99e00ea219fce97e1f6597018b80",
+      "width" : 64
+    } ],
+    "name" : "Ready Take One",
+    "type" : "album",
+    "uri" : "spotify:album:1cb4bE5Q1vLla4jjoNV1gS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6C65D20ASusYqHGSIktfED",
+    "id" : "6C65D20ASusYqHGSIktfED",
+    "name" : "Erroll Garner",
+    "type" : "artist",
+    "uri" : "spotify:artist:6C65D20ASusYqHGSIktfED"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 383786,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USQX91601706"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0g4OwZiTvPtkKpWVOUHm6E"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0g4OwZiTvPtkKpWVOUHm6E",
+  "id" : "0g4OwZiTvPtkKpWVOUHm6E",
+  "name" : "Caravan",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/de5fbf47aa45d0a8e09ce29cd356f98297cd0941?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0g4OwZiTvPtkKpWVOUHm6E"
+}

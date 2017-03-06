@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4hcZjqQtfkqsi0JCBWvo7f"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4hcZjqQtfkqsi0JCBWvo7f",
+    "id" : "4hcZjqQtfkqsi0JCBWvo7f",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/91c6afce2336a0fd14b30f2cccc11a2b1a7c75c4",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/81d50d8428cceb8f596a4ebd83c5542e013f9f37",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/26f7f3247cafd7d8c20201fbde8dbdd93e5d96d9",
+      "width" : 64
+    } ],
+    "name" : "The State I'm In",
+    "type" : "album",
+    "uri" : "spotify:album:4hcZjqQtfkqsi0JCBWvo7f"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/08YvZ2qzFrDSITfHLbPKMP",
+    "id" : "08YvZ2qzFrDSITfHLbPKMP",
+    "name" : "Lamb",
+    "type" : "artist",
+    "uri" : "spotify:artist:08YvZ2qzFrDSITfHLbPKMP"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 256240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF080100262"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/36GfRBnksPxzsE0OZF3lST"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/36GfRBnksPxzsE0OZF3lST",
+  "id" : "36GfRBnksPxzsE0OZF3lST",
+  "name" : "Gabriel",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/86a57994ab3532ff8a68b37014ac86118d95a1e7?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:36GfRBnksPxzsE0OZF3lST"
+}

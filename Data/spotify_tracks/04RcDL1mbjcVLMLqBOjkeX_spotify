@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+      "id" : "5BYuBzqmTXwUDw2rYkwExr",
+      "name" : "The Kills",
+      "type" : "artist",
+      "uri" : "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0PjRCiXdp6TQPXojFRB0AX",
+    "id" : "0PjRCiXdp6TQPXojFRB0AX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/10901224c79e3db4870b0c45a3dee78942e57dec",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f4d74047d1a6ff9728b50a4aa5abc83e748fdeff",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6bdc9b0e1d687336f0a7847e333ad699578dbdd7",
+      "width" : 64
+    } ],
+    "name" : "Blood Pressures",
+    "type" : "album",
+    "uri" : "spotify:album:0PjRCiXdp6TQPXojFRB0AX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5BYuBzqmTXwUDw2rYkwExr",
+    "id" : "5BYuBzqmTXwUDw2rYkwExr",
+    "name" : "The Kills",
+    "type" : "artist",
+    "uri" : "spotify:artist:5BYuBzqmTXwUDw2rYkwExr"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 248200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1100005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/04RcDL1mbjcVLMLqBOjkeX",
+  "id" : "04RcDL1mbjcVLMLqBOjkeX",
+  "name" : "Future Starts Slow",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1604c65650d9de3ac0f3640638ab2862d96eb9e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:04RcDL1mbjcVLMLqBOjkeX"
+}

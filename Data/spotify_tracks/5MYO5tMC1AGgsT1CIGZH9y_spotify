@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5N5tQ9Dx1h8Od7aRmGj7Fi",
+      "id" : "5N5tQ9Dx1h8Od7aRmGj7Fi",
+      "name" : "Bauhaus",
+      "type" : "artist",
+      "uri" : "spotify:artist:5N5tQ9Dx1h8Od7aRmGj7Fi"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/39DADpvAPMDDlZVyvZoWt5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/39DADpvAPMDDlZVyvZoWt5",
+    "id" : "39DADpvAPMDDlZVyvZoWt5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9e90c122bde2aba0d8444947e2305bf08f022ef2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fdcdda438971ad33a5dfa1cde0f8c81ee169e79e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/761c17d936f66e5e92bd163410d27f808fcb471d",
+      "width" : 64
+    } ],
+    "name" : "Burning From The Inside",
+    "type" : "album",
+    "uri" : "spotify:album:39DADpvAPMDDlZVyvZoWt5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5N5tQ9Dx1h8Od7aRmGj7Fi",
+    "id" : "5N5tQ9Dx1h8Od7aRmGj7Fi",
+    "name" : "Bauhaus",
+    "type" : "artist",
+    "uri" : "spotify:artist:5N5tQ9Dx1h8Od7aRmGj7Fi"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 568466,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0129450"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5MYO5tMC1AGgsT1CIGZH9y"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5MYO5tMC1AGgsT1CIGZH9y",
+  "id" : "5MYO5tMC1AGgsT1CIGZH9y",
+  "name" : "Burning From The Inside",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/39b0c1d81c82e18e30b59118d11396a4fc7adef9?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:5MYO5tMC1AGgsT1CIGZH9y"
+}

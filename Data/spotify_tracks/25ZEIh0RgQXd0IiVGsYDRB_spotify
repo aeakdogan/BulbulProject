@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4v1YZL83eLyemlt32wWAoA",
+      "id" : "4v1YZL83eLyemlt32wWAoA",
+      "name" : "Keren Ann",
+      "type" : "artist",
+      "uri" : "spotify:artist:4v1YZL83eLyemlt32wWAoA"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Z8BB9eAZSO34698hlSuRn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Z8BB9eAZSO34698hlSuRn",
+    "id" : "5Z8BB9eAZSO34698hlSuRn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/21dd0cdacc58719e040b2cc624d40dce765570d9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/24c7892203ea2cc87ec967d93d1697b00af9f3a2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/61d3d1f268c5c0cd698756655e33e9a815935470",
+      "width" : 64
+    } ],
+    "name" : "Keren Ann",
+    "type" : "album",
+    "uri" : "spotify:album:5Z8BB9eAZSO34698hlSuRn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4v1YZL83eLyemlt32wWAoA",
+    "id" : "4v1YZL83eLyemlt32wWAoA",
+    "name" : "Keren Ann",
+    "type" : "artist",
+    "uri" : "spotify:artist:4v1YZL83eLyemlt32wWAoA"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 283680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ110601296"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/25ZEIh0RgQXd0IiVGsYDRB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/25ZEIh0RgQXd0IiVGsYDRB",
+  "id" : "25ZEIh0RgQXd0IiVGsYDRB",
+  "name" : "Lay Your Head Down",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7dc5262872472643e131101a8431e5054222bf90?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:25ZEIh0RgQXd0IiVGsYDRB"
+}

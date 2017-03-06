@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+      "id" : "2PfBzriIMRsCXPDtSy9vg8",
+      "name" : "Rufus Wainwright",
+      "type" : "artist",
+      "uri" : "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6agP9hBwmPQWWEqt5aerMG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6agP9hBwmPQWWEqt5aerMG",
+    "id" : "6agP9hBwmPQWWEqt5aerMG",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/d01d09b8729b7bfe0ce9b3f4f0ce54f652b8ecf8",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/b30bf9136ec78159aba66a1ebeafe1e1befe4a3a",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/460ee84ed57dd3ecb6c533cd6fcdc463628aec99",
+      "width" : 64
+    } ],
+    "name" : "Want Two",
+    "type" : "album",
+    "uri" : "spotify:album:6agP9hBwmPQWWEqt5aerMG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2PfBzriIMRsCXPDtSy9vg8",
+    "id" : "2PfBzriIMRsCXPDtSy9vg8",
+    "name" : "Rufus Wainwright",
+    "type" : "artist",
+    "uri" : "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 231226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDW10400981"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/17PoOoE5Dy0p0RNVThNlAX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/17PoOoE5Dy0p0RNVThNlAX",
+  "id" : "17PoOoE5Dy0p0RNVThNlAX",
+  "name" : "The Art Teacher",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aa215855ece9fee2d82da53784fa92672a4f822d?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:17PoOoE5Dy0p0RNVThNlAX"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5HLYZEoGeL1xbEtnPctTzP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5HLYZEoGeL1xbEtnPctTzP",
+    "id" : "5HLYZEoGeL1xbEtnPctTzP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/655f1cac231bad7abcffd10d50579da8cbfaa4bb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f9ef1136623e72d66d629ceb753fa91f541fa924",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa7f167ed055ea0c8d65d94af24bc216c45ee58a",
+      "width" : 64
+    } ],
+    "name" : "The Second Wave",
+    "type" : "album",
+    "uri" : "spotify:album:5HLYZEoGeL1xbEtnPctTzP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3bs4bmq6mOzdERMzhpKIxw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3bs4bmq6mOzdERMzhpKIxw",
+    "id" : "3bs4bmq6mOzdERMzhpKIxw",
+    "name" : "Elephant vs. Bromley",
+    "type" : "artist",
+    "uri" : "spotify:artist:3bs4bmq6mOzdERMzhpKIxw"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 266103,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEZ651606929"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4KAaKNN1kXecCcDTaA9PBw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4KAaKNN1kXecCcDTaA9PBw",
+  "id" : "4KAaKNN1kXecCcDTaA9PBw",
+  "name" : "Heaven Knows",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bbbab786febd6e19ef3a0fdf24f40dc2c8d32da8?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4KAaKNN1kXecCcDTaA9PBw"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1OmdWpAh1pucAuZPzJaxIJ",
+      "id" : "1OmdWpAh1pucAuZPzJaxIJ",
+      "name" : "Calexico",
+      "type" : "artist",
+      "uri" : "spotify:artist:1OmdWpAh1pucAuZPzJaxIJ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "IS", "JP", "LI", "MC", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2jWd26LfrOlXxR3RmyXZPa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2jWd26LfrOlXxR3RmyXZPa",
+    "id" : "2jWd26LfrOlXxR3RmyXZPa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/34c5fb1fa7eff59c7e20566f0c8e37f72fdb479e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/93ac47874f3c84a3cbb8c6c5874cf8f8152485fa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0f850d63ebba791e6c5618b4c612b91b0906e95c",
+      "width" : 64
+    } ],
+    "name" : "Feast of Wire",
+    "type" : "album",
+    "uri" : "spotify:album:2jWd26LfrOlXxR3RmyXZPa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1OmdWpAh1pucAuZPzJaxIJ",
+    "id" : "1OmdWpAh1pucAuZPzJaxIJ",
+    "name" : "Calexico",
+    "type" : "artist",
+    "uri" : "spotify:artist:1OmdWpAh1pucAuZPzJaxIJ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "IS", "JP", "LI", "MC", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 277653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA4C0307802"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/51PpGlBEaZpMws4NFAt564"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/51PpGlBEaZpMws4NFAt564",
+  "id" : "51PpGlBEaZpMws4NFAt564",
+  "name" : "Quattro - World Drifts in",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6bf8e1fbdd87db407b67e2c9e5c7e5ad224fa3fa?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:51PpGlBEaZpMws4NFAt564"
+}

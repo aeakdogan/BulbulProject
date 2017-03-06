@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3faZppLa0MVUYBlyp7zDAo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3faZppLa0MVUYBlyp7zDAo",
+      "id" : "3faZppLa0MVUYBlyp7zDAo",
+      "name" : "Telekinesis",
+      "type" : "artist",
+      "uri" : "spotify:artist:3faZppLa0MVUYBlyp7zDAo"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2vZKhcxTCnB8ytm0fyy8fz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2vZKhcxTCnB8ytm0fyy8fz",
+    "id" : "2vZKhcxTCnB8ytm0fyy8fz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3329be6feeabbb4b84aaee97af743e3f7dcb5ee4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c021c608e4b8b4a2f7b3162fddd8011f6567dc84",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b35bbde7d50ea34aa5acbec460255c91f98f595a",
+      "width" : 64
+    } ],
+    "name" : "Telekinesis!",
+    "type" : "album",
+    "uri" : "spotify:album:2vZKhcxTCnB8ytm0fyy8fz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3faZppLa0MVUYBlyp7zDAo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3faZppLa0MVUYBlyp7zDAo",
+    "id" : "3faZppLa0MVUYBlyp7zDAo",
+    "name" : "Telekinesis",
+    "type" : "artist",
+    "uri" : "spotify:artist:3faZppLa0MVUYBlyp7zDAo"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 222586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG0934409"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1cSfOf7oScWJYcBJ3kmnGx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1cSfOf7oScWJYcBJ3kmnGx",
+  "id" : "1cSfOf7oScWJYcBJ3kmnGx",
+  "name" : "All Of A Sudden",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/16c80a5d022bb68ea2bb334e9b089ba6dde70c81?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1cSfOf7oScWJYcBJ3kmnGx"
+}

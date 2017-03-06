@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy",
+      "id" : "6UUrUCIZtQeOf8tC0WuzRy",
+      "name" : "Sigur Rós",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5yDruBWJMLg1wlRed4kQ1X"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5yDruBWJMLg1wlRed4kQ1X",
+    "id" : "5yDruBWJMLg1wlRed4kQ1X",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/28408861a4c1f7ef5b491c373229d573b20d93a8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f736778a90d59f48d6e4a70b761dc90cc7266b17",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c33e5262b19afc8724540369ea4233c59748e761",
+      "width" : 64
+    } ],
+    "name" : "Hvarf - Heim",
+    "type" : "album",
+    "uri" : "spotify:album:5yDruBWJMLg1wlRed4kQ1X"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy",
+    "id" : "6UUrUCIZtQeOf8tC0WuzRy",
+    "name" : "Sigur Rós",
+    "type" : "artist",
+    "uri" : "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 590480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBKEE0700012"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2tqQelfjTaq0neyxnfarwJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2tqQelfjTaq0neyxnfarwJ",
+  "id" : "2tqQelfjTaq0neyxnfarwJ",
+  "name" : "Hafsól",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/28222053b6e2561b6d73f9f2d8725670f6a80bbe?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2tqQelfjTaq0neyxnfarwJ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+      "id" : "1l9d7B8W0IHy3LqWsxP2SH",
+      "name" : "Phantogram",
+      "type" : "artist",
+      "uri" : "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2R2Cwe4kI8b2WObXZ90wOC",
+    "id" : "2R2Cwe4kI8b2WObXZ90wOC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a8aa03d95ccf9d0b5fb94262fa8e64693f70636b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2a0ca3b7db7eee0c08837e5bfa71b134df89bda4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6dbdf24d0f1bfb373f0375616fe29a4333e671ee",
+      "width" : 64
+    } ],
+    "name" : "Voices",
+    "type" : "album",
+    "uri" : "spotify:album:2R2Cwe4kI8b2WObXZ90wOC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+    "id" : "1l9d7B8W0IHy3LqWsxP2SH",
+    "name" : "Phantogram",
+    "type" : "artist",
+    "uri" : "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71312035"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2IWtloZYQDcP8Ashwx8QEF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2IWtloZYQDcP8Ashwx8QEF",
+  "id" : "2IWtloZYQDcP8Ashwx8QEF",
+  "name" : "Black Out Days",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fb5930416c398addfb3f809ed8ded26250596f91?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2IWtloZYQDcP8Ashwx8QEF"
+}

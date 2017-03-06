@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/50LCD3XERdxwjqdg9bc3CW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/50LCD3XERdxwjqdg9bc3CW",
+      "id" : "50LCD3XERdxwjqdg9bc3CW",
+      "name" : "Northstar",
+      "type" : "artist",
+      "uri" : "spotify:artist:50LCD3XERdxwjqdg9bc3CW"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1tlIzbwNpb9Mg9LsPlpjmk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1tlIzbwNpb9Mg9LsPlpjmk",
+    "id" : "1tlIzbwNpb9Mg9LsPlpjmk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f489db409c4b9e95bcf3afc1a48a3ba0029531ae",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b5b1293f25b0bc2d3429f79ab0c05d693686704c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e8d22c0abe569a29e63131b97cf0832e66a9af22",
+      "width" : 64
+    } ],
+    "name" : "Is This Thing Loaded?",
+    "type" : "album",
+    "uri" : "spotify:album:1tlIzbwNpb9Mg9LsPlpjmk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/50LCD3XERdxwjqdg9bc3CW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/50LCD3XERdxwjqdg9bc3CW",
+    "id" : "50LCD3XERdxwjqdg9bc3CW",
+    "name" : "Northstar",
+    "type" : "artist",
+    "uri" : "spotify:artist:50LCD3XERdxwjqdg9bc3CW"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 261680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US72W0510025"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5bNjixASqj766su99yT7sh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5bNjixASqj766su99yT7sh",
+  "id" : "5bNjixASqj766su99yT7sh",
+  "name" : "My Richochet",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c201c46987b19fd7b9e8ecdba46f17cc12f271c5?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5bNjixASqj766su99yT7sh"
+}

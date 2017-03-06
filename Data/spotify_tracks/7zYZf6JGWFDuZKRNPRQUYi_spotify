@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/72MdkHD2ktUGBWVusvXZba"
+      },
+      "href" : "https://api.spotify.com/v1/artists/72MdkHD2ktUGBWVusvXZba",
+      "id" : "72MdkHD2ktUGBWVusvXZba",
+      "name" : "The Island Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:72MdkHD2ktUGBWVusvXZba"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4gFhzY4BnOuKpKqyz2Gd2C"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4gFhzY4BnOuKpKqyz2Gd2C",
+    "id" : "4gFhzY4BnOuKpKqyz2Gd2C",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/154f9ef02804951f27b2f287d7abeb8e7c1da485",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c81aeb19705270875b7fb29c2ca7bde8cbe9f401",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/73809caab0743384607cf7de61f649af36dd4282",
+      "width" : 64
+    } ],
+    "name" : "Like Swimming",
+    "type" : "album",
+    "uri" : "spotify:album:4gFhzY4BnOuKpKqyz2Gd2C"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/72MdkHD2ktUGBWVusvXZba"
+    },
+    "href" : "https://api.spotify.com/v1/artists/72MdkHD2ktUGBWVusvXZba",
+    "id" : "72MdkHD2ktUGBWVusvXZba",
+    "name" : "The Island Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:72MdkHD2ktUGBWVusvXZba"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0YJL2KiHPgno06hOCIOjXD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0YJL2KiHPgno06hOCIOjXD",
+    "id" : "0YJL2KiHPgno06hOCIOjXD",
+    "name" : "Maria Due",
+    "type" : "artist",
+    "uri" : "spotify:artist:0YJL2KiHPgno06hOCIOjXD"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2XsthkoTT2iWInw1X0ncOn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2XsthkoTT2iWInw1X0ncOn",
+    "id" : "2XsthkoTT2iWInw1X0ncOn",
+    "name" : "Kjetil Møster",
+    "type" : "artist",
+    "uri" : "spotify:artist:2XsthkoTT2iWInw1X0ncOn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 333453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOFGH1553030"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7zYZf6JGWFDuZKRNPRQUYi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7zYZf6JGWFDuZKRNPRQUYi",
+  "id" : "7zYZf6JGWFDuZKRNPRQUYi",
+  "name" : "Swimming (Part 1)",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/64b59e1be8aca4330b16e440f6ac0e2b99d72732?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7zYZf6JGWFDuZKRNPRQUYi"
+}

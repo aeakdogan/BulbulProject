@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4b99uGDv75xD1n2QHuPRDN",
+      "id" : "4b99uGDv75xD1n2QHuPRDN",
+      "name" : "Jessy Lanza",
+      "type" : "artist",
+      "uri" : "spotify:artist:4b99uGDv75xD1n2QHuPRDN"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4A5j9mdBN5Tv7RilnnfQC1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4A5j9mdBN5Tv7RilnnfQC1",
+    "id" : "4A5j9mdBN5Tv7RilnnfQC1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/35953a832fbe0ecb09b2bb4a6905b7a860527bd3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/546f8821e3ebc779e401bae1b9f5804ceadeacd0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2b52fbb7d1eafc6adaa384f7f9b627d6eb430def",
+      "width" : 64
+    } ],
+    "name" : "Pull My Hair Back",
+    "type" : "album",
+    "uri" : "spotify:album:4A5j9mdBN5Tv7RilnnfQC1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4b99uGDv75xD1n2QHuPRDN",
+    "id" : "4b99uGDv75xD1n2QHuPRDN",
+    "name" : "Jessy Lanza",
+    "type" : "artist",
+    "uri" : "spotify:artist:4b99uGDv75xD1n2QHuPRDN"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 202464,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBLZC1300049"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4h9ii9BYaYSNvmaPGgVMKi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4h9ii9BYaYSNvmaPGgVMKi",
+  "id" : "4h9ii9BYaYSNvmaPGgVMKi",
+  "name" : "Giddy",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ed43d50a3c28be11f36b406c84c8a79fc469b3b7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4h9ii9BYaYSNvmaPGgVMKi"
+}

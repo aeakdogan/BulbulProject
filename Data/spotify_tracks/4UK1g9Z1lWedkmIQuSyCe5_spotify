@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+      "id" : "0WwSkZ7LtFUFjGjMZBMt6T",
+      "name" : "Dire Straits",
+      "type" : "artist",
+      "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7jvcSnCnugLcisBCNBm60s",
+    "id" : "7jvcSnCnugLcisBCNBm60s",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d24a735d8ff6ef1b39abc09a3129260a21b2e55b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7d35113059d01049aabafe431d4f2e7e64e4592f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/144e8b4157a0562c19d15d2cc2b7112b617e4285",
+      "width" : 64
+    } ],
+    "name" : "Brothers In Arms",
+    "type" : "album",
+    "uri" : "spotify:album:7jvcSnCnugLcisBCNBm60s"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+    "id" : "0WwSkZ7LtFUFjGjMZBMt6T",
+    "name" : "Dire Straits",
+    "type" : "artist",
+    "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 393866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF088500676"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4UK1g9Z1lWedkmIQuSyCe5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4UK1g9Z1lWedkmIQuSyCe5",
+  "id" : "4UK1g9Z1lWedkmIQuSyCe5",
+  "name" : "Your Latest Trick",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b642eacff1de90d9a37ec46cc2163c4dddffd0bd?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4UK1g9Z1lWedkmIQuSyCe5"
+}

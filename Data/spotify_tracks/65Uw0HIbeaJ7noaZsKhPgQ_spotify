@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7y8lzaGqtadGmtAtg2SGv4",
+      "id" : "7y8lzaGqtadGmtAtg2SGv4",
+      "name" : "Beth Ditto",
+      "type" : "artist",
+      "uri" : "spotify:artist:7y8lzaGqtadGmtAtg2SGv4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3tALUE6LjM6TyHQ1MufW6w"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3tALUE6LjM6TyHQ1MufW6w",
+    "id" : "3tALUE6LjM6TyHQ1MufW6w",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/c102c9cff7eaac4de6eed0b65bad2425bc8c64e7",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/9b6903f453a9f393ed8c994cbe1b33623418f722",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9d83545a3c4bd9b7717005be5acf3f783d1f158d",
+      "width" : 64
+    } ],
+    "name" : "EP",
+    "type" : "album",
+    "uri" : "spotify:album:3tALUE6LjM6TyHQ1MufW6w"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7y8lzaGqtadGmtAtg2SGv4",
+    "id" : "7y8lzaGqtadGmtAtg2SGv4",
+    "name" : "Beth Ditto",
+    "type" : "artist",
+    "uri" : "spotify:artist:7y8lzaGqtadGmtAtg2SGv4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 234560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11005472"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/65Uw0HIbeaJ7noaZsKhPgQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/65Uw0HIbeaJ7noaZsKhPgQ",
+  "id" : "65Uw0HIbeaJ7noaZsKhPgQ",
+  "name" : "Good Night Good Morning",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/54e8b021b6414d125cc4986e1cce318fb6bb583b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:65Uw0HIbeaJ7noaZsKhPgQ"
+}

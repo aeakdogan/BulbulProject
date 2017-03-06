@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0bRtSoJSpQdnbB3dWrWprR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0bRtSoJSpQdnbB3dWrWprR",
+      "id" : "0bRtSoJSpQdnbB3dWrWprR",
+      "name" : "The Acid",
+      "type" : "artist",
+      "uri" : "spotify:artist:0bRtSoJSpQdnbB3dWrWprR"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1cMYjuN71NCON0vlQyTgJM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1cMYjuN71NCON0vlQyTgJM",
+    "id" : "1cMYjuN71NCON0vlQyTgJM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/33e316738b8c09817b19a0f175ef7e9b27d1c28c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b6d373a591c7548b62b168694917e735141bc382",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/41e33221233d899386ac417602f036b5c1687efe",
+      "width" : 64
+    } ],
+    "name" : "Liminal",
+    "type" : "album",
+    "uri" : "spotify:album:1cMYjuN71NCON0vlQyTgJM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0bRtSoJSpQdnbB3dWrWprR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0bRtSoJSpQdnbB3dWrWprR",
+    "id" : "0bRtSoJSpQdnbB3dWrWprR",
+    "name" : "The Acid",
+    "type" : "artist",
+    "uri" : "spotify:artist:0bRtSoJSpQdnbB3dWrWprR"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 289880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBZUZ1300215"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5E0pS3sXgWdQZMKChqYXHE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5E0pS3sXgWdQZMKChqYXHE",
+  "id" : "5E0pS3sXgWdQZMKChqYXHE",
+  "name" : "Basic Instinct",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e45c3dc9eb394d516c8baa1ded2488783b523aa3?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5E0pS3sXgWdQZMKChqYXHE"
+}

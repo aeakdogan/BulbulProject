@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+      },
+      "href" : "https://api.spotify.com/v1/artists/166Dz1GX3xonSQ3Z6CQW26",
+      "id" : "166Dz1GX3xonSQ3Z6CQW26",
+      "name" : "The Rapture",
+      "type" : "artist",
+      "uri" : "spotify:artist:166Dz1GX3xonSQ3Z6CQW26"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1htTXDHC2YhVq0xTwHzaHh",
+    "id" : "1htTXDHC2YhVq0xTwHzaHh",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/2b4210b7d37f5226a4e7056a546a5166e4806f35",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/d2f15787527bf92fc3ed75fc74fd7ca0da69e9d7",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/bd1c4f39f03fd83c063001e28c7271434603da64",
+      "width" : 64
+    } ],
+    "name" : "Echoes",
+    "type" : "album",
+    "uri" : "spotify:album:1htTXDHC2YhVq0xTwHzaHh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+    },
+    "href" : "https://api.spotify.com/v1/artists/166Dz1GX3xonSQ3Z6CQW26",
+    "id" : "166Dz1GX3xonSQ3Z6CQW26",
+    "name" : "The Rapture",
+    "type" : "artist",
+    "uri" : "spotify:artist:166Dz1GX3xonSQ3Z6CQW26"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 162893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF080300282"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5pzZT3IG4TFxSlmhknYWes"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5pzZT3IG4TFxSlmhknYWes",
+  "id" : "5pzZT3IG4TFxSlmhknYWes",
+  "name" : "The Coming Of Spring",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8b0ef01b1141395af288295715785a364515d1b8?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5pzZT3IG4TFxSlmhknYWes"
+}

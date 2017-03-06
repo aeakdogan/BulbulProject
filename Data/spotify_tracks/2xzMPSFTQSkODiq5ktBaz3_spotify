@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0q8J3Yj810t5cpAYEJ7gxt",
+      "id" : "0q8J3Yj810t5cpAYEJ7gxt",
+      "name" : "Duck Sauce",
+      "type" : "artist",
+      "uri" : "spotify:artist:0q8J3Yj810t5cpAYEJ7gxt"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5AXLsvmfSmZrvCyUQMOgUm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5AXLsvmfSmZrvCyUQMOgUm",
+    "id" : "5AXLsvmfSmZrvCyUQMOgUm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d5f3ffdd22f9df194d2a97d4dffde437c214dde4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/14c77a65adad52c6c0b699f99133fa1945260c84",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/464f17f715822ab36d6cb9f9927f72675220fe82",
+      "width" : 64
+    } ],
+    "name" : "Big Bad Wolf",
+    "type" : "album",
+    "uri" : "spotify:album:5AXLsvmfSmZrvCyUQMOgUm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0q8J3Yj810t5cpAYEJ7gxt",
+    "id" : "0q8J3Yj810t5cpAYEJ7gxt",
+    "name" : "Duck Sauce",
+    "type" : "artist",
+    "uri" : "spotify:artist:0q8J3Yj810t5cpAYEJ7gxt"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 179949,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBSXS1100153"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2xzMPSFTQSkODiq5ktBaz3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2xzMPSFTQSkODiq5ktBaz3",
+  "id" : "2xzMPSFTQSkODiq5ktBaz3",
+  "name" : "Big Bad Wolf - Radio Edit",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3920993503322c5f23b0725ee647cc91b8e8b164?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2xzMPSFTQSkODiq5ktBaz3"
+}

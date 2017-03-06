@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4JS4qvlVFvhb4ABR1eqYpG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4JS4qvlVFvhb4ABR1eqYpG",
+    "id" : "4JS4qvlVFvhb4ABR1eqYpG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e36744da3998e258e096fd514ddf6884571878dc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/40452b408a9923ded1122703c4a5a9b00bc524c8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7f842acbe13c14635ce5eea5972e35dfb5c41ad2",
+      "width" : 64
+    } ],
+    "name" : "Magic",
+    "type" : "album",
+    "uri" : "spotify:album:4JS4qvlVFvhb4ABR1eqYpG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+    "id" : "3eqjTLE0HfPfh78zjh6TqT",
+    "name" : "Bruce Springsteen",
+    "type" : "artist",
+    "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 199066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10703853"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4JYyMs7TpnRXmXvRi1XhXy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4JYyMs7TpnRXmXvRi1XhXy",
+  "id" : "4JYyMs7TpnRXmXvRi1XhXy",
+  "name" : "Radio Nowhere",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0926375d81e98f2bd05523955b6efcf659d4e7eb?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4JYyMs7TpnRXmXvRi1XhXy"
+}

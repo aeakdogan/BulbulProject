@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb",
+      "id" : "1n65zfwYIj5kKEtNgxUlWb",
+      "name" : "Siouxsie and the Banshees",
+      "type" : "artist",
+      "uri" : "spotify:artist:1n65zfwYIj5kKEtNgxUlWb"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7kEqVGkLoruahp34YW16oe",
+    "id" : "7kEqVGkLoruahp34YW16oe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9858a0877fe668ec04106be3a55dfda35c553d28",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cbfbaa26b01195805619b3ce04957b59c88bc822",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e8502b64f7593e9a72ba91ec69ff1e9b74a460df",
+      "width" : 64
+    } ],
+    "name" : "Through The Looking Glass (Remastered And Expanded)",
+    "type" : "album",
+    "uri" : "spotify:album:7kEqVGkLoruahp34YW16oe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb",
+    "id" : "1n65zfwYIj5kKEtNgxUlWb",
+    "name" : "Siouxsie and the Banshees",
+    "type" : "artist",
+    "uri" : "spotify:artist:1n65zfwYIj5kKEtNgxUlWb"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 302266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF068625510"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5LISRpPG4mWNNQA4XXMDtO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5LISRpPG4mWNNQA4XXMDtO",
+  "id" : "5LISRpPG4mWNNQA4XXMDtO",
+  "name" : "Hall Of Mirrors",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b2480cffaac29b1f4cb9fbd3cd6d9582cf7027a3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5LISRpPG4mWNNQA4XXMDtO"
+}

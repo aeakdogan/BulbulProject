@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1eClJfHLoDI4rZe5HxzBFv",
+      "id" : "1eClJfHLoDI4rZe5HxzBFv",
+      "name" : "INXS",
+      "type" : "artist",
+      "uri" : "spotify:artist:1eClJfHLoDI4rZe5HxzBFv"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1U6tgUieq2uuKip6DVxM31"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1U6tgUieq2uuKip6DVxM31",
+    "id" : "1U6tgUieq2uuKip6DVxM31",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eef0d99443ef1153c8c9b761a0a1f307c3f663d2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/126ff04590f63ac45c3f83e01c933609794f5fca",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e394b2c02b807c087a39e6ffc29f8680a8557c6a",
+      "width" : 64
+    } ],
+    "name" : "Listen Like Thieves",
+    "type" : "album",
+    "uri" : "spotify:album:1U6tgUieq2uuKip6DVxM31"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1eClJfHLoDI4rZe5HxzBFv",
+    "id" : "1eClJfHLoDI4rZe5HxzBFv",
+    "name" : "INXS",
+    "type" : "artist",
+    "uri" : "spotify:artist:1eClJfHLoDI4rZe5HxzBFv"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 236160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT28600019"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6FRugAcwKEgQ3r2MkWC5Mm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6FRugAcwKEgQ3r2MkWC5Mm",
+  "id" : "6FRugAcwKEgQ3r2MkWC5Mm",
+  "name" : "Kiss The Dirt (Falling Down The Mountain)",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/feba6dec97630e1ced061a508baf27075be89e0a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6FRugAcwKEgQ3r2MkWC5Mm"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+      "id" : "6tbjWDEIzxoDsBA1FuhfPW",
+      "name" : "Madonna",
+      "type" : "artist",
+      "uri" : "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7jgBVzMVZuuhaTG5zQ0Vgk",
+    "id" : "7jgBVzMVZuuhaTG5zQ0Vgk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bcd62478e981bf637862aa6cad20439c8192f6db",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c8ebeb56e4d7dcc93b2f87f73e343a81146b85ef",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aaab9bfcb835122614dd1648dacf33f2e08eb821",
+      "width" : 64
+    } ],
+    "name" : "Hard Candy",
+    "type" : "album",
+    "uri" : "spotify:album:7jgBVzMVZuuhaTG5zQ0Vgk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+    "id" : "6tbjWDEIzxoDsBA1FuhfPW",
+    "name" : "Madonna",
+    "type" : "artist",
+    "uri" : "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 308760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10800787"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5zz0ENWEK0auDQVtkRdAY9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5zz0ENWEK0auDQVtkRdAY9",
+  "id" : "5zz0ENWEK0auDQVtkRdAY9",
+  "name" : "Devil Wouldn't Recognize You",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b5c2796ee06cbb3bbb84593ef5add2b435e0cbbe?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:5zz0ENWEK0auDQVtkRdAY9"
+}

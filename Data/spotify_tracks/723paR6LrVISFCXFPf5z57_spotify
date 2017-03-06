@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0nJaMZM8paoA5HEUTUXPqi",
+      "id" : "0nJaMZM8paoA5HEUTUXPqi",
+      "name" : "Bear's Den",
+      "type" : "artist",
+      "uri" : "spotify:artist:0nJaMZM8paoA5HEUTUXPqi"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/15z9H7eEOCtB2Xq28SDWwp",
+    "id" : "15z9H7eEOCtB2Xq28SDWwp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cb57464658f61bafede2ee036b17a99c77251201",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3eff3043672be9d3fe7ad3b1f5c7d8e25a0d3b1a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d28a611fa17e6582293b1586ca58ab67b6dd6dfb",
+      "width" : 64
+    } ],
+    "name" : "Islands",
+    "type" : "album",
+    "uri" : "spotify:album:15z9H7eEOCtB2Xq28SDWwp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0nJaMZM8paoA5HEUTUXPqi",
+    "id" : "0nJaMZM8paoA5HEUTUXPqi",
+    "name" : "Bear's Den",
+    "type" : "artist",
+    "uri" : "spotify:artist:0nJaMZM8paoA5HEUTUXPqi"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 279453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB6TW1400047"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/723paR6LrVISFCXFPf5z57"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/723paR6LrVISFCXFPf5z57",
+  "id" : "723paR6LrVISFCXFPf5z57",
+  "name" : "Above The Clouds Of Pompeii",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/17ce2ad9262399e235f25d7cb199babddb9cd140?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:723paR6LrVISFCXFPf5z57"
+}

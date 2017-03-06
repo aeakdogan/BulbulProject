@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+      "id" : "7eQZTqEMozBcuSubfu52i4",
+      "name" : "The Knife",
+      "type" : "artist",
+      "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5LT1CaivPmQBK5sS54ZQND"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5LT1CaivPmQBK5sS54ZQND",
+    "id" : "5LT1CaivPmQBK5sS54ZQND",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2e4767d375e7693a49517d05a89b09651193d81f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/025ea3cd28b55fe3af1112c8611056ca7b25b69a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8a169d441a0525df852f9d3df5af03951aed98ef",
+      "width" : 64
+    } ],
+    "name" : "The Knife",
+    "type" : "album",
+    "uri" : "spotify:album:5LT1CaivPmQBK5sS54ZQND"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+    "id" : "7eQZTqEMozBcuSubfu52i4",
+    "name" : "The Knife",
+    "type" : "artist",
+    "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 193626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEWCE0100803"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4zirCRTnT4utFyrrpqqNMG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4zirCRTnT4utFyrrpqqNMG",
+  "id" : "4zirCRTnT4utFyrrpqqNMG",
+  "name" : "Kino",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/196fc115e26e3af94e78b7b5a5042ff41eaaaa82?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4zirCRTnT4utFyrrpqqNMG"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB",
+      "id" : "3kjuyTCjPG1WMFCiyc5IuB",
+      "name" : "Arcade Fire",
+      "type" : "artist",
+      "uri" : "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7D2KOlQm1PFrMatMIBZ0OR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7D2KOlQm1PFrMatMIBZ0OR",
+    "id" : "7D2KOlQm1PFrMatMIBZ0OR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/44a511b4d6a119252d5949f021232df57f932b1d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3433d870e0fa0f4032f863f5ce6132b5b18b9917",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e8617a17a39d20dd0bce74b3383f5e391d550110",
+      "width" : 64
+    } ],
+    "name" : "Neon Bible",
+    "type" : "album",
+    "uri" : "spotify:album:7D2KOlQm1PFrMatMIBZ0OR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB",
+    "id" : "3kjuyTCjPG1WMFCiyc5IuB",
+    "name" : "Arcade Fire",
+    "type" : "artist",
+    "uri" : "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 253373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG0728501"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0IgnwEF4fuidaugeMEKUl4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0IgnwEF4fuidaugeMEKUl4",
+  "id" : "0IgnwEF4fuidaugeMEKUl4",
+  "name" : "Black Mirror",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/062ac1364f0cd430fbb87b6b666556c6fdf6272e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0IgnwEF4fuidaugeMEKUl4"
+}

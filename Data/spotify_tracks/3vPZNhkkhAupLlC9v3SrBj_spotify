@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4wo1267SJuUfHgasdlfNfc",
+      "id" : "4wo1267SJuUfHgasdlfNfc",
+      "name" : "The Raconteurs",
+      "type" : "artist",
+      "uri" : "spotify:artist:4wo1267SJuUfHgasdlfNfc"
+    } ],
+    "available_markets" : [ "CA", "JP", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4fDaiqpXlswOza10LvoZHb",
+    "id" : "4fDaiqpXlswOza10LvoZHb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f129f1715acac41fb8ffdb9ae23f89386f11d64d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cb39cbd659d860b20037179bcf9694b42e9ef691",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0b0ded17ff2a79ff1071ccf015c91d884032df62",
+      "width" : 64
+    } ],
+    "name" : "Broken Boy Soldiers",
+    "type" : "album",
+    "uri" : "spotify:album:4fDaiqpXlswOza10LvoZHb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4wo1267SJuUfHgasdlfNfc",
+    "id" : "4wo1267SJuUfHgasdlfNfc",
+    "name" : "The Raconteurs",
+    "type" : "artist",
+    "uri" : "spotify:artist:4wo1267SJuUfHgasdlfNfc"
+  } ],
+  "available_markets" : [ "CA", "JP", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 232493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVT10600073"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3vPZNhkkhAupLlC9v3SrBj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3vPZNhkkhAupLlC9v3SrBj",
+  "id" : "3vPZNhkkhAupLlC9v3SrBj",
+  "name" : "Blue Veins",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f650e5eeaf257d47bc796a548629061738a08cd5?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:3vPZNhkkhAupLlC9v3SrBj"
+}

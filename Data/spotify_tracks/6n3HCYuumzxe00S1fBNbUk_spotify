@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm",
+      "id" : "4xls23Ye9WR9yy3yYMpAMm",
+      "name" : "Little Richard",
+      "type" : "artist",
+      "uri" : "spotify:artist:4xls23Ye9WR9yy3yYMpAMm"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6WrwHm2bOjKxHvQ04bfcDD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6WrwHm2bOjKxHvQ04bfcDD",
+    "id" : "6WrwHm2bOjKxHvQ04bfcDD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7dc071def3607b952f87790491415d626fe78e4d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7712924d2a268b767d069a3d97f1a9a78c312141",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4ae1db29308eda87f32b5be1de90ea1255b00c88",
+      "width" : 64
+    } ],
+    "name" : "The Georgia Peach",
+    "type" : "album",
+    "uri" : "spotify:album:6WrwHm2bOjKxHvQ04bfcDD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm",
+    "id" : "4xls23Ye9WR9yy3yYMpAMm",
+    "name" : "Little Richard",
+    "type" : "artist",
+    "uri" : "spotify:artist:4xls23Ye9WR9yy3yYMpAMm"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 127973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSP15600009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6n3HCYuumzxe00S1fBNbUk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6n3HCYuumzxe00S1fBNbUk",
+  "id" : "6n3HCYuumzxe00S1fBNbUk",
+  "name" : "Long Tall Sally",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/238e9d3374c73b23c643ce3c37851775948de396?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6n3HCYuumzxe00S1fBNbUk"
+}

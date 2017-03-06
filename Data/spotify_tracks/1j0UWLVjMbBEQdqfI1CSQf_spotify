@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb",
+      "id" : "1n65zfwYIj5kKEtNgxUlWb",
+      "name" : "Siouxsie and the Banshees",
+      "type" : "artist",
+      "uri" : "spotify:artist:1n65zfwYIj5kKEtNgxUlWb"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4g4aSVUuOJCoW2vKhTavXp",
+    "id" : "4g4aSVUuOJCoW2vKhTavXp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a35e0d9596f63dc7060b0812e52008c73a107bca",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4575d9676e81a4a35bca2663f66d1e2694fd8fc9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2fd0ba6d0ac51f7eb79395ccfe65d3ff074774db",
+      "width" : 64
+    } ],
+    "name" : "Peepshow (Remastered And Expanded)",
+    "type" : "album",
+    "uri" : "spotify:album:4g4aSVUuOJCoW2vKhTavXp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb",
+    "id" : "1n65zfwYIj5kKEtNgxUlWb",
+    "name" : "Siouxsie and the Banshees",
+    "type" : "artist",
+    "uri" : "spotify:artist:1n65zfwYIj5kKEtNgxUlWb"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 245146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAKW8801055"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1j0UWLVjMbBEQdqfI1CSQf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1j0UWLVjMbBEQdqfI1CSQf",
+  "id" : "1j0UWLVjMbBEQdqfI1CSQf",
+  "name" : "The Killing Jar",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/19a55265895f7dd0fc168eac36cbf48205b255f8?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1j0UWLVjMbBEQdqfI1CSQf"
+}

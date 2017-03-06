@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+      "id" : "0k17h0D3J5VfsdmQ1iZtE9",
+      "name" : "Pink Floyd",
+      "type" : "artist",
+      "uri" : "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5F0IQXuHfTV7SBvZVnXERl",
+    "id" : "5F0IQXuHfTV7SBvZVnXERl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e91ab78ffbc3fd649cb769033a4958f0b2c6e93d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ce793a67bf687eb3a3f3efcfc4ab455b3fbf33f9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8bff4a598b6d0fdbe97cb5511e2f2bc7c823c8d6",
+      "width" : 64
+    } ],
+    "name" : "The Division Bell",
+    "type" : "album",
+    "uri" : "spotify:album:5F0IQXuHfTV7SBvZVnXERl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+    "id" : "0k17h0D3J5VfsdmQ1iZtE9",
+    "name" : "Pink Floyd",
+    "type" : "artist",
+    "uri" : "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 370666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBN9X1100020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0vI64OhYqTo6KYswDlx0yT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0vI64OhYqTo6KYswDlx0yT",
+  "id" : "0vI64OhYqTo6KYswDlx0yT",
+  "name" : "Keep Talking",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3613e04019982d3b15be5ddfd94415fae5bcec08?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:0vI64OhYqTo6KYswDlx0yT"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dEmNDjaVcNDfSiwkbghyM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dEmNDjaVcNDfSiwkbghyM",
+      "id" : "5dEmNDjaVcNDfSiwkbghyM",
+      "name" : "Zillertaler Haderlumpen",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dEmNDjaVcNDfSiwkbghyM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2lpc7A05pIdY3DhtAf1wIz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2lpc7A05pIdY3DhtAf1wIz",
+    "id" : "2lpc7A05pIdY3DhtAf1wIz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b194d6a00dfbbc060f04e212055097dd339ff013",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b314be0bb74d023cb949a910e3488acf01cd9071",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/537e141ed6370bdedfc5e04bdc43dd6adb7f77c7",
+      "width" : 64
+    } ],
+    "name" : "Alles ist gut",
+    "type" : "album",
+    "uri" : "spotify:album:2lpc7A05pIdY3DhtAf1wIz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5dEmNDjaVcNDfSiwkbghyM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5dEmNDjaVcNDfSiwkbghyM",
+    "id" : "5dEmNDjaVcNDfSiwkbghyM",
+    "name" : "Zillertaler Haderlumpen",
+    "type" : "artist",
+    "uri" : "spotify:artist:5dEmNDjaVcNDfSiwkbghyM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 200000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATH701523850"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5dD5cMkYiQeSng6ZJGHe1d"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5dD5cMkYiQeSng6ZJGHe1d",
+  "id" : "5dD5cMkYiQeSng6ZJGHe1d",
+  "name" : "Alles ist gut",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c8352702491394b1670bbe975ca6f4daf600a91b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5dD5cMkYiQeSng6ZJGHe1d"
+}

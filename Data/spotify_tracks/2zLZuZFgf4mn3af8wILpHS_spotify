@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5mgr0FFpvy267wKVAYg8qp",
+      "id" : "5mgr0FFpvy267wKVAYg8qp",
+      "name" : "Lit",
+      "type" : "artist",
+      "uri" : "spotify:artist:5mgr0FFpvy267wKVAYg8qp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3w5Uz3q4SJze14P60ZChsp",
+    "id" : "3w5Uz3q4SJze14P60ZChsp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/30cfe67f0ba70692cf6eb2e684f6a99c895a3116",
+      "width" : 594
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/df5c0571eb38e209fa825a87b19931090c8fd374",
+      "width" : 278
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1d431531ff89f1986d31a3a3438a33d77a4844a5",
+      "width" : 59
+    } ],
+    "name" : "A Place In The Sun",
+    "type" : "album",
+    "uri" : "spotify:album:3w5Uz3q4SJze14P60ZChsp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5mgr0FFpvy267wKVAYg8qp",
+    "id" : "5mgr0FFpvy267wKVAYg8qp",
+    "name" : "Lit",
+    "type" : "artist",
+    "uri" : "spotify:artist:5mgr0FFpvy267wKVAYg8qp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 256333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC19808385"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2zLZuZFgf4mn3af8wILpHS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2zLZuZFgf4mn3af8wILpHS",
+  "id" : "2zLZuZFgf4mn3af8wILpHS",
+  "name" : "Miserable",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f90c992c7bfd14925b56359bb30e275d2d4bd52d?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2zLZuZFgf4mn3af8wILpHS"
+}

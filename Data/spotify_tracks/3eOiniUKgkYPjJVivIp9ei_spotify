@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+      "id" : "6igfLpd8s6DBBAuwebRUuo",
+      "name" : "Josh Ritter",
+      "type" : "artist",
+      "uri" : "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/40xscsIpyzlVZTBC5cDOFH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/40xscsIpyzlVZTBC5cDOFH",
+    "id" : "40xscsIpyzlVZTBC5cDOFH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5445c78743f002a5cde9d7cefd1282defd74bfd3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d44bb4b5b38f87fd7de468c1f7f42b450a8779cb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/94390901a017d0e8eb70f0429e8bbd70ceb788d1",
+      "width" : 64
+    } ],
+    "name" : "The Historical Conquests of Josh Ritter",
+    "type" : "album",
+    "uri" : "spotify:album:40xscsIpyzlVZTBC5cDOFH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6igfLpd8s6DBBAuwebRUuo",
+    "id" : "6igfLpd8s6DBBAuwebRUuo",
+    "name" : "Josh Ritter",
+    "type" : "artist",
+    "uri" : "spotify:artist:6igfLpd8s6DBBAuwebRUuo"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 173080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA820700105"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3eOiniUKgkYPjJVivIp9ei"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3eOiniUKgkYPjJVivIp9ei",
+  "id" : "3eOiniUKgkYPjJVivIp9ei",
+  "name" : "Mind's Eye",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5b283f3e2314e2d30335bab90b9452fae28be783?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3eOiniUKgkYPjJVivIp9ei"
+}

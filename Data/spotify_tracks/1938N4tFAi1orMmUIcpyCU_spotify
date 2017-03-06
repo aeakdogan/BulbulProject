@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2xSIeswruBGxRal9sT7bnr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2xSIeswruBGxRal9sT7bnr",
+    "id" : "2xSIeswruBGxRal9sT7bnr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7bff9bea6e05097c72bb776e7342a7a26a96124a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ecb22e57cc0504a898098355871c5b3916c99890",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3278b39e6f46a6737b6d0e6f53768e621dd0d071",
+      "width" : 64
+    } ],
+    "name" : "You Don't Know - Ninja Cuts",
+    "type" : "album",
+    "uri" : "spotify:album:2xSIeswruBGxRal9sT7bnr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/32ogthv0BdaSMPml02X9YB",
+    "id" : "32ogthv0BdaSMPml02X9YB",
+    "name" : "The Cinematic Orchestra",
+    "type" : "artist",
+    "uri" : "spotify:artist:32ogthv0BdaSMPml02X9YB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 369626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCFB0700118"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1938N4tFAi1orMmUIcpyCU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1938N4tFAi1orMmUIcpyCU",
+  "id" : "1938N4tFAi1orMmUIcpyCU",
+  "name" : "Rites Of Spring (Live at Barbican)",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7bb20da2eb9b7dbe4c29bc7efab7827b5cb5e486?cid=null",
+  "track_number" : 23,
+  "type" : "track",
+  "uri" : "spotify:track:1938N4tFAi1orMmUIcpyCU"
+}

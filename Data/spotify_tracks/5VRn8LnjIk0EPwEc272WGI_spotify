@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ySYeIhqg4Rfs5tjteVMz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ySYeIhqg4Rfs5tjteVMz3",
+      "id" : "5ySYeIhqg4Rfs5tjteVMz3",
+      "name" : "Blondfire",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ySYeIhqg4Rfs5tjteVMz3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7Il1CdYcCI9RbvrWMW1wOb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7Il1CdYcCI9RbvrWMW1wOb",
+    "id" : "7Il1CdYcCI9RbvrWMW1wOb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/48e62c1f2e2a5748b83fabab7ceab10375e7431c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f303c501a24a8487ceb97c6875709fc00df0af5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c567bdcb3a7c719cfd52127cc9bd467a97d9c2cc",
+      "width" : 64
+    } ],
+    "name" : "Young Heart",
+    "type" : "album",
+    "uri" : "spotify:album:7Il1CdYcCI9RbvrWMW1wOb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5ySYeIhqg4Rfs5tjteVMz3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5ySYeIhqg4Rfs5tjteVMz3",
+    "id" : "5ySYeIhqg4Rfs5tjteVMz3",
+    "name" : "Blondfire",
+    "type" : "artist",
+    "uri" : "spotify:artist:5ySYeIhqg4Rfs5tjteVMz3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 202200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2P1392188"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5VRn8LnjIk0EPwEc272WGI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5VRn8LnjIk0EPwEc272WGI",
+  "id" : "5VRn8LnjIk0EPwEc272WGI",
+  "name" : "Where the Kids Are",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/610e91b1a7f204bd42f6bd27021314ff51c334e5?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5VRn8LnjIk0EPwEc272WGI"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+      "id" : "3pTE9iaJTkWns3mxpNQlJV",
+      "name" : "Bombay Bicycle Club",
+      "type" : "artist",
+      "uri" : "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4X0bhkSBOfcnOPyfG5Ef6a",
+    "id" : "4X0bhkSBOfcnOPyfG5Ef6a",
+    "images" : [ {
+      "height" : 633,
+      "url" : "https://i.scdn.co/image/73d65d7d599bdeb2a21e9fbce2020413019266c0",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/54c4dca68af3f1062bc73697c695bc3f6e1fa5e2",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/541e73f1863d3576613721dda6e5452c83682bb1",
+      "width" : 64
+    } ],
+    "name" : "I Had The Blues But I Shook Them Loose",
+    "type" : "album",
+    "uri" : "spotify:album:4X0bhkSBOfcnOPyfG5Ef6a"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+    "id" : "3pTE9iaJTkWns3mxpNQlJV",
+    "name" : "Bombay Bicycle Club",
+    "type" : "artist",
+    "uri" : "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 236746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70901124"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1My7ioKrN4kocpwVHdYHyL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1My7ioKrN4kocpwVHdYHyL",
+  "id" : "1My7ioKrN4kocpwVHdYHyL",
+  "name" : "Ghost",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2735073f350e73867a975e32d31c424cd1d9b7a2?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1My7ioKrN4kocpwVHdYHyL"
+}

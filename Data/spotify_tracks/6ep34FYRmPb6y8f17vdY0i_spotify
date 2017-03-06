@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Ws2otunReOa6BbwxxpCt6",
+      "id" : "4Ws2otunReOa6BbwxxpCt6",
+      "name" : "Benny Benassi",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Ws2otunReOa6BbwxxpCt6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4oMCu6hBgTy2RFh8rRMFD0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4oMCu6hBgTy2RFh8rRMFD0",
+      "id" : "4oMCu6hBgTy2RFh8rRMFD0",
+      "name" : "The Biz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4oMCu6hBgTy2RFh8rRMFD0"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2467y5gcxljWnMqbYwWxwu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2467y5gcxljWnMqbYwWxwu",
+    "id" : "2467y5gcxljWnMqbYwWxwu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0fb2c3c6242d47d63a348ea925f5c0e141a8ce2b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/58b53fe8b7a4d3165d46b2d2e49b2b100bd2e992",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f018d48309ff268bc752a47e884475d238a28729",
+      "width" : 64
+    } ],
+    "name" : "Hypnotica",
+    "type" : "album",
+    "uri" : "spotify:album:2467y5gcxljWnMqbYwWxwu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4Ws2otunReOa6BbwxxpCt6",
+    "id" : "4Ws2otunReOa6BbwxxpCt6",
+    "name" : "Benny Benassi",
+    "type" : "artist",
+    "uri" : "spotify:artist:4Ws2otunReOa6BbwxxpCt6"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 207306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUS10410055"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ep34FYRmPb6y8f17vdY0i"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ep34FYRmPb6y8f17vdY0i",
+  "id" : "6ep34FYRmPb6y8f17vdY0i",
+  "name" : "I Love My Sex",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bf86597abbaef63ebf0684978fe3aee52e34b10a?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:6ep34FYRmPb6y8f17vdY0i"
+}

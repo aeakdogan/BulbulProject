@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7wyBxBXLVLaiF2jxHCpvTe",
+      "id" : "7wyBxBXLVLaiF2jxHCpvTe",
+      "name" : "Koop",
+      "type" : "artist",
+      "uri" : "spotify:artist:7wyBxBXLVLaiF2jxHCpvTe"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7utDnqKdc3HiSx54MSaGSc",
+    "id" : "7utDnqKdc3HiSx54MSaGSc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c1545066d3e86226c78c76d97b8a749ff3be7eef",
+      "width" : 639
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/156463b05e525dfaa97fde5f6fe307ea752a4a73",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/43bd33600d66fb3912c892f34b3af283d725e0fc",
+      "width" : 64
+    } ],
+    "name" : "Koop Islands",
+    "type" : "album",
+    "uri" : "spotify:album:7utDnqKdc3HiSx54MSaGSc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7wyBxBXLVLaiF2jxHCpvTe",
+    "id" : "7wyBxBXLVLaiF2jxHCpvTe",
+    "name" : "Koop",
+    "type" : "artist",
+    "uri" : "spotify:artist:7wyBxBXLVLaiF2jxHCpvTe"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 204813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SELEI0702619"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4lUIiUXSfPb8P5dyU55g50"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4lUIiUXSfPb8P5dyU55g50",
+  "id" : "4lUIiUXSfPb8P5dyU55g50",
+  "name" : "Strange Love",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/676d4ef5a2ac82fe1f726bb7681648f0d25478fc?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4lUIiUXSfPb8P5dyU55g50"
+}

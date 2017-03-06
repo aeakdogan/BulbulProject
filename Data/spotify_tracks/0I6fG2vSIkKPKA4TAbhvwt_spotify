@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0s1ec6aPpRZ4DCj15w1EFg",
+      "id" : "0s1ec6aPpRZ4DCj15w1EFg",
+      "name" : "Dario Marianelli",
+      "type" : "artist",
+      "uri" : "spotify:artist:0s1ec6aPpRZ4DCj15w1EFg"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/79WjI9mEWIAsnUwSC6ra9D"
+    },
+    "href" : "https://api.spotify.com/v1/albums/79WjI9mEWIAsnUwSC6ra9D",
+    "id" : "79WjI9mEWIAsnUwSC6ra9D",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a06d38d00c84e13b5ccf1cfe212558b2a144815f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cd3b5425e74c3b925b588b2878fa257f27dbf6f5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/923da467f816b317ce81b5bdac0ece508588e12b",
+      "width" : 64
+    } ],
+    "name" : "The Soloist",
+    "type" : "album",
+    "uri" : "spotify:album:79WjI9mEWIAsnUwSC6ra9D"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0s1ec6aPpRZ4DCj15w1EFg",
+    "id" : "0s1ec6aPpRZ4DCj15w1EFg",
+    "name" : "Dario Marianelli",
+    "type" : "artist",
+    "uri" : "spotify:artist:0s1ec6aPpRZ4DCj15w1EFg"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 121333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70841624"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0I6fG2vSIkKPKA4TAbhvwt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0I6fG2vSIkKPKA4TAbhvwt",
+  "id" : "0I6fG2vSIkKPKA4TAbhvwt",
+  "name" : "Crazy About Beethoven",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d658e18f8026b3e9d7c81eb38367e65629271698?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0I6fG2vSIkKPKA4TAbhvwt"
+}

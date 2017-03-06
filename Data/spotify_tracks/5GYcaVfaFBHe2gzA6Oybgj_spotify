@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4he7R24eqd1EbF9kegiAK8",
+    "id" : "4he7R24eqd1EbF9kegiAK8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/964e87f80e22f2cd1545c23ee9cde663fadf049d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/73ec8855bae5e835a281355708d5c1bbc2368e31",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/492ca27bce61df6e267b066638f22b9136fc7130",
+      "width" : 64
+    } ],
+    "name" : "R&B: From Doo-Wop To Hip-Hop",
+    "type" : "album",
+    "uri" : "spotify:album:4he7R24eqd1EbF9kegiAK8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/187xgSpsFH8mMbAcoCW0zE",
+    "id" : "187xgSpsFH8mMbAcoCW0zE",
+    "name" : "Billy Paul",
+    "type" : "artist",
+    "uri" : "spotify:artist:187xgSpsFH8mMbAcoCW0zE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 285293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM17200462"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5GYcaVfaFBHe2gzA6Oybgj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5GYcaVfaFBHe2gzA6Oybgj",
+  "id" : "5GYcaVfaFBHe2gzA6Oybgj",
+  "name" : "Me and Mrs. Jones",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fb7719f5e3bf5556cae0033f8755a14ab0ba27e8?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:5GYcaVfaFBHe2gzA6Oybgj"
+}

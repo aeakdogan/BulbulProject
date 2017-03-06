@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+      "id" : "2QoU3awHVdcHS8LrZEKvSM",
+      "name" : "Wilco",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0rPtXOMN42nsLDiShvGamv",
+    "id" : "0rPtXOMN42nsLDiShvGamv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e63f9974d3e083abb62a37b5abdb5ff31e96dd7b",
+      "width" : 608
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/88ca47007788eec075c033bf411aa4ed9400e9b1",
+      "width" : 285
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/876f82208f2646307fdc4887b65ec96b32107e19",
+      "width" : 61
+    } ],
+    "name" : "Yankee Hotel Foxtrot",
+    "type" : "album",
+    "uri" : "spotify:album:0rPtXOMN42nsLDiShvGamv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+    "id" : "2QoU3awHVdcHS8LrZEKvSM",
+    "name" : "Wilco",
+    "type" : "artist",
+    "uri" : "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 418200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO10166901"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3HWxpLKnTlz6jE3Vi5dTF2",
+  "id" : "3HWxpLKnTlz6jE3Vi5dTF2",
+  "name" : "I am trying to break your heart",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5a9c2c017ae66ef1ddacd20a0b0ed8a547182811?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3HWxpLKnTlz6jE3Vi5dTF2"
+}

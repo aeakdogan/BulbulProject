@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44z1nVVXZE8d4njcQmQLWc",
+      "id" : "44z1nVVXZE8d4njcQmQLWc",
+      "name" : "Objekt",
+      "type" : "artist",
+      "uri" : "spotify:artist:44z1nVVXZE8d4njcQmQLWc"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1jgMMG6DAbkb7GVcuG2zfM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1jgMMG6DAbkb7GVcuG2zfM",
+    "id" : "1jgMMG6DAbkb7GVcuG2zfM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d2fa48dd25569719b5f0e18a895b0de94dbaac6c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d74ceaceffd82978f52ed3d4ccab37fac9edc0f0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/87781cc863ccafb9777bef85788e719e8ef0d1a7",
+      "width" : 64
+    } ],
+    "name" : "Objekt EP1",
+    "type" : "album",
+    "uri" : "spotify:album:1jgMMG6DAbkb7GVcuG2zfM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/44z1nVVXZE8d4njcQmQLWc",
+    "id" : "44z1nVVXZE8d4njcQmQLWc",
+    "name" : "Objekt",
+    "type" : "artist",
+    "uri" : "spotify:artist:44z1nVVXZE8d4njcQmQLWc"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 396213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB-QLP-11-00011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1kNucZGh5ppRMFV3IJs4vi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1kNucZGh5ppRMFV3IJs4vi",
+  "id" : "1kNucZGh5ppRMFV3IJs4vi",
+  "name" : "Tinderbox",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/148f778a8b52ac475a77ddea47041311a19c1033?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1kNucZGh5ppRMFV3IJs4vi"
+}

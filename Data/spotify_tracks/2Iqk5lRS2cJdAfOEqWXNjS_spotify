@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/22H5XKyHXkxHbty4jtBibg",
+    "id" : "22H5XKyHXkxHbty4jtBibg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/26aaee64d76be2b5f975783c6b38aad91d450861",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2b3595816b69c215d89c53f146b7b98b7cbba625",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4ba49632129ec559dcd648c81c3fb63c2de60b3f",
+      "width" : 64
+    } ],
+    "name" : "Red Dead Redemption Original Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:22H5XKyHXkxHbty4jtBibg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2CbWPZkwLi0ZAcL9dtqjWk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2CbWPZkwLi0ZAcL9dtqjWk",
+    "id" : "2CbWPZkwLi0ZAcL9dtqjWk",
+    "name" : "Ashtar Command",
+    "type" : "artist",
+    "uri" : "spotify:artist:2CbWPZkwLi0ZAcL9dtqjWk"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 255400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTCE1099968"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Iqk5lRS2cJdAfOEqWXNjS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Iqk5lRS2cJdAfOEqWXNjS",
+  "id" : "2Iqk5lRS2cJdAfOEqWXNjS",
+  "name" : "Deadman's Gun",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c80bb002488e1318505412f1a82a29f3593b416a?cid=null",
+  "track_number" : 18,
+  "type" : "track",
+  "uri" : "spotify:track:2Iqk5lRS2cJdAfOEqWXNjS"
+}

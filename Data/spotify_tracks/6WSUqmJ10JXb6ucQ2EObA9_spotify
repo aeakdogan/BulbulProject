@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7BqVdvWeMLlWkZAOGRPe0I",
+      "id" : "7BqVdvWeMLlWkZAOGRPe0I",
+      "name" : "Nurse With Wound",
+      "type" : "artist",
+      "uri" : "spotify:artist:7BqVdvWeMLlWkZAOGRPe0I"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6TrupaW9ijqBMSsC6GFaUw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6TrupaW9ijqBMSsC6GFaUw",
+    "id" : "6TrupaW9ijqBMSsC6GFaUw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f8c98d07477bdca775da4d58dcc4c14fef68c7fd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fa36902204ebe854eae8c54065098afcbdbb7568",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/de024d6a86e6abbab1b35a45e20a5991ad271281",
+      "width" : 64
+    } ],
+    "name" : "Huffin’ Rag Blues",
+    "type" : "album",
+    "uri" : "spotify:album:6TrupaW9ijqBMSsC6GFaUw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7BqVdvWeMLlWkZAOGRPe0I",
+    "id" : "7BqVdvWeMLlWkZAOGRPe0I",
+    "name" : "Nurse With Wound",
+    "type" : "artist",
+    "uri" : "spotify:artist:7BqVdvWeMLlWkZAOGRPe0I"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 351133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDB70810035"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6WSUqmJ10JXb6ucQ2EObA9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6WSUqmJ10JXb6ucQ2EObA9",
+  "id" : "6WSUqmJ10JXb6ucQ2EObA9",
+  "name" : "Ketamineaphonia",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5c9115f4120c17291965bc1d5792fdf7413dd323?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6WSUqmJ10JXb6ucQ2EObA9"
+}

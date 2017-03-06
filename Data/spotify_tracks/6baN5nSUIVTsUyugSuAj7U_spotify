@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4P70aqttdpJ9vuYFDmf7f6",
+      "id" : "4P70aqttdpJ9vuYFDmf7f6",
+      "name" : "Vangelis",
+      "type" : "artist",
+      "uri" : "spotify:artist:4P70aqttdpJ9vuYFDmf7f6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6NkuCdMz5tGmHbOXAWbtCW",
+    "id" : "6NkuCdMz5tGmHbOXAWbtCW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/91e07899b4d73c1868fe9105b6c579ac645464f8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9ab95ca14ccbc1d6eda08199801c098a6473a658",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/39afaa0fa867a878c6f0899b13262eba915d55b7",
+      "width" : 64
+    } ],
+    "name" : "Blade Runner (Music From The Original Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:6NkuCdMz5tGmHbOXAWbtCW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4P70aqttdpJ9vuYFDmf7f6",
+    "id" : "4P70aqttdpJ9vuYFDmf7f6",
+    "name" : "Vangelis",
+    "type" : "artist",
+    "uri" : "spotify:artist:4P70aqttdpJ9vuYFDmf7f6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 222373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHS0104432"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6baN5nSUIVTsUyugSuAj7U"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6baN5nSUIVTsUyugSuAj7U",
+  "id" : "6baN5nSUIVTsUyugSuAj7U",
+  "name" : "Main Titles - From \"Blade Runner\"",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/72a16630b8ee991392558b856093f21d32845dbe?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6baN5nSUIVTsUyugSuAj7U"
+}

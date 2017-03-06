@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ctkBmvz80MGyi72Ix055S",
+      "id" : "1ctkBmvz80MGyi72Ix055S",
+      "name" : "Alex Turner",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ctkBmvz80MGyi72Ix055S"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2nrjrRYf2ANHE3jsUrs0gJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2nrjrRYf2ANHE3jsUrs0gJ",
+    "id" : "2nrjrRYf2ANHE3jsUrs0gJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/afead6ce9e0e939d21feaee43768c267386c760a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9b9285d1e0b7f959805c43b60c7442c7e186413b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f4a3846908c506ed8860f0f9f3061105c985282b",
+      "width" : 64
+    } ],
+    "name" : "Submarine (original songs)",
+    "type" : "album",
+    "uri" : "spotify:album:2nrjrRYf2ANHE3jsUrs0gJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ctkBmvz80MGyi72Ix055S",
+    "id" : "1ctkBmvz80MGyi72Ix055S",
+    "name" : "Alex Turner",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ctkBmvz80MGyi72Ix055S"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 239653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1100043"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1zdKc6UvnPuoVHkr0NYyIf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1zdKc6UvnPuoVHkr0NYyIf",
+  "id" : "1zdKc6UvnPuoVHkr0NYyIf",
+  "name" : "Glass in the park",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7f90c0b38c46e3c0dcd3f6ff92985986e7fb5f9b?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1zdKc6UvnPuoVHkr0NYyIf"
+}

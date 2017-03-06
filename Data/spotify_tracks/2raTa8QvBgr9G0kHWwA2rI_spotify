@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4eDkaLQcam2cyul9Wjf1yX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4eDkaLQcam2cyul9Wjf1yX",
+      "id" : "4eDkaLQcam2cyul9Wjf1yX",
+      "name" : "Newsted",
+      "type" : "artist",
+      "uri" : "spotify:artist:4eDkaLQcam2cyul9Wjf1yX"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0fzlT6cWAO5aK5gAAsIMFd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0fzlT6cWAO5aK5gAAsIMFd",
+    "id" : "0fzlT6cWAO5aK5gAAsIMFd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b57878b1bbfd144e8aa16d12e834ee63ce2739ba",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9bfbc6d2a32d764dfee2e139a240ddd8066f284c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/81a65e62e517267c7037634044e650cae4535d9d",
+      "width" : 64
+    } ],
+    "name" : "Metal",
+    "type" : "album",
+    "uri" : "spotify:album:0fzlT6cWAO5aK5gAAsIMFd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4eDkaLQcam2cyul9Wjf1yX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4eDkaLQcam2cyul9Wjf1yX",
+    "id" : "4eDkaLQcam2cyul9Wjf1yX",
+    "name" : "Newsted",
+    "type" : "artist",
+    "uri" : "spotify:artist:4eDkaLQcam2cyul9Wjf1yX"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 316733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABK1294022"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2raTa8QvBgr9G0kHWwA2rI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2raTa8QvBgr9G0kHWwA2rI",
+  "id" : "2raTa8QvBgr9G0kHWwA2rI",
+  "name" : "Godsnake",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5a23717f6a09079f62ea00e076b238ff33964c3c?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2raTa8QvBgr9G0kHWwA2rI"
+}

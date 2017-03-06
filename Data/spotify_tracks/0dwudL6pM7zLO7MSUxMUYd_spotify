@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0qSX3s5pJnAlSsgsCne8Cz",
+      "id" : "0qSX3s5pJnAlSsgsCne8Cz",
+      "name" : "Brett Eldredge",
+      "type" : "artist",
+      "uri" : "spotify:artist:0qSX3s5pJnAlSsgsCne8Cz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/04F9PYcGWL93pkeoieTqlP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/04F9PYcGWL93pkeoieTqlP",
+    "id" : "04F9PYcGWL93pkeoieTqlP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5cbc4bad069dc03365a5787dd9941bb21a91c12b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/42a0e36bce061c1ef3ee7922b49eede80e32ce99",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f68f50a4c7c95eb4ddf36e37f0223a5eed2196e7",
+      "width" : 64
+    } ],
+    "name" : "Lose My Mind",
+    "type" : "album",
+    "uri" : "spotify:album:04F9PYcGWL93pkeoieTqlP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0qSX3s5pJnAlSsgsCne8Cz",
+    "id" : "0qSX3s5pJnAlSsgsCne8Cz",
+    "name" : "Brett Eldredge",
+    "type" : "artist",
+    "uri" : "spotify:artist:0qSX3s5pJnAlSsgsCne8Cz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 155440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT21501047"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0dwudL6pM7zLO7MSUxMUYd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0dwudL6pM7zLO7MSUxMUYd",
+  "id" : "0dwudL6pM7zLO7MSUxMUYd",
+  "name" : "Lose My Mind",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f3055d16d272bd34a32689b57ba97c82902948fe?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0dwudL6pM7zLO7MSUxMUYd"
+}

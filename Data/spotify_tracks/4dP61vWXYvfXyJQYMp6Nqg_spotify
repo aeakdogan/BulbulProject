@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+      "id" : "2DaxqgrOhkeH0fpeiQq2f4",
+      "name" : "Oasis",
+      "type" : "artist",
+      "uri" : "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5wo9p4QMUn3Yk1BcohDzPj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5wo9p4QMUn3Yk1BcohDzPj",
+    "id" : "5wo9p4QMUn3Yk1BcohDzPj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9c963e3aa7f25c60d0b6a753fc046f29d973576f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/469bbf3411e458c7a7d15f46fc27391ee49b0088",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/01325e40d18be42cf9dfd94b31bc4fe6776ce1e7",
+      "width" : 64
+    } ],
+    "name" : "Standing On The Shoulder Of Giants",
+    "type" : "album",
+    "uri" : "spotify:album:5wo9p4QMUn3Yk1BcohDzPj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+    "id" : "2DaxqgrOhkeH0fpeiQq2f4",
+    "name" : "Oasis",
+    "type" : "artist",
+    "uri" : "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 312613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBQY9902011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4dP61vWXYvfXyJQYMp6Nqg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4dP61vWXYvfXyJQYMp6Nqg",
+  "id" : "4dP61vWXYvfXyJQYMp6Nqg",
+  "name" : "Sunday Morning Call",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5b0ea75b9bbb3d6b885d61970db02049d7b84260?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4dP61vWXYvfXyJQYMp6Nqg"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49VlDIG7Dw8raSByeCKXF6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49VlDIG7Dw8raSByeCKXF6",
+      "id" : "49VlDIG7Dw8raSByeCKXF6",
+      "name" : "Robert Rodriguez",
+      "type" : "artist",
+      "uri" : "spotify:artist:49VlDIG7Dw8raSByeCKXF6"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6K45XvhCcAwrVSaER2EN4w"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6K45XvhCcAwrVSaER2EN4w",
+    "id" : "6K45XvhCcAwrVSaER2EN4w",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/be2f8bce9606bc41f286efceef359bb8e9aead6b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9009bf95ad49ed6c3292d3a3753c84baca0d4a71",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5ad72d2e553a3d1c650fcae2c27212d272d5ca95",
+      "width" : 64
+    } ],
+    "name" : "Grindhouse: Robert Rodriguez's Planet Terror (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:6K45XvhCcAwrVSaER2EN4w"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1yDbYpDeRwaDeGA8e2WRXb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1yDbYpDeRwaDeGA8e2WRXb",
+    "id" : "1yDbYpDeRwaDeGA8e2WRXb",
+    "name" : "Rose McGowan",
+    "type" : "artist",
+    "uri" : "spotify:artist:1yDbYpDeRwaDeGA8e2WRXb"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 135106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US3M50780704"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/042eZoO39Etn4W4ciZejxL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/042eZoO39Etn4W4ciZejxL",
+  "id" : "042eZoO39Etn4W4ciZejxL",
+  "name" : "You Belong To Me",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/857a8acf07cdc76661d257ba4445bf33ddae0aa6?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:042eZoO39Etn4W4ciZejxL"
+}

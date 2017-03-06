@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2wwMTLM2da1sa2JcJslf8W",
+      "id" : "2wwMTLM2da1sa2JcJslf8W",
+      "name" : "Heartless Bastards",
+      "type" : "artist",
+      "uri" : "spotify:artist:2wwMTLM2da1sa2JcJslf8W"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4g4iUbyDPTz3wCy25Tvivk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4g4iUbyDPTz3wCy25Tvivk",
+    "id" : "4g4iUbyDPTz3wCy25Tvivk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cc868f6b999f9b1d1fd9e04f27438c839c273383",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d0fcda6a929a7b7614578acd4a6a2c9ee5297d05",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0fcfc0e769ee7f7e8f92ad053831a19a00f8aefc",
+      "width" : 64
+    } ],
+    "name" : "Arrow",
+    "type" : "album",
+    "uri" : "spotify:album:4g4iUbyDPTz3wCy25Tvivk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2wwMTLM2da1sa2JcJslf8W",
+    "id" : "2wwMTLM2da1sa2JcJslf8W",
+    "name" : "Heartless Bastards",
+    "type" : "artist",
+    "uri" : "spotify:artist:2wwMTLM2da1sa2JcJslf8W"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 308066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBQU1100085"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/17ZnveSDBpG9QtL7zLJNPy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/17ZnveSDBpG9QtL7zLJNPy",
+  "id" : "17ZnveSDBpG9QtL7zLJNPy",
+  "name" : "Only For You",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/81984c5d80d74ea670e5cc033b2c71373172fa42?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:17ZnveSDBpG9QtL7zLJNPy"
+}

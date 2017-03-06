@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+      "name" : "Metallica",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1TKCBDHIWLiqjWTxomqniD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1TKCBDHIWLiqjWTxomqniD",
+    "id" : "1TKCBDHIWLiqjWTxomqniD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/93b28cf6d938563ab2ea6a130aa63a16710eb455",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cae23d1cc8526b4cae9cc223a9d302595be02b84",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/22695bfed4caddff7e41cb93954272314859158a",
+      "width" : 64
+    } ],
+    "name" : "Hardwired…To Self-Destruct (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:1TKCBDHIWLiqjWTxomqniD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+    "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+    "name" : "Metallica",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 3,
+  "duration_ms" : 350066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMKHM1600392"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0rriP85Dczj50b3bz8V912"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0rriP85Dczj50b3bz8V912",
+  "id" : "0rriP85Dczj50b3bz8V912",
+  "name" : "Remember Tomorrow",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/03be24c59d1183f13b36cff11a9d3819e90df1bd?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0rriP85Dczj50b3bz8V912"
+}

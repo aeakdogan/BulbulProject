@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DAJPl1Q9bNwPGUqL08nzG",
+      "id" : "1DAJPl1Q9bNwPGUqL08nzG",
+      "name" : "Howie B.",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DAJPl1Q9bNwPGUqL08nzG"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7idPl8FRQAS1sTw7NAlVVJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7idPl8FRQAS1sTw7NAlVVJ",
+    "id" : "7idPl8FRQAS1sTw7NAlVVJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cd61c9893f92eb0f728557804d70fac173f7c876",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/067b1d093a38ad25b7d4ea300611689f41ecb521",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/854b7426ebd90a203c9e69572889062f730154dd",
+      "width" : 64
+    } ],
+    "name" : "Snatch",
+    "type" : "album",
+    "uri" : "spotify:album:7idPl8FRQAS1sTw7NAlVVJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DAJPl1Q9bNwPGUqL08nzG",
+    "id" : "1DAJPl1Q9bNwPGUqL08nzG",
+    "name" : "Howie B.",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DAJPl1Q9bNwPGUqL08nzG"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 237693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCLG9800191"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/24HXakjZ5mVG1sgV2zPFIX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/24HXakjZ5mVG1sgV2zPFIX",
+  "id" : "24HXakjZ5mVG1sgV2zPFIX",
+  "name" : "Maniac Melody",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fc07534a2f710d7c63a8c9c0bd75ca16d15261a9?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:24HXakjZ5mVG1sgV2zPFIX"
+}

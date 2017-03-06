@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4IDoKaZIEacb3QncU8RQMp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4IDoKaZIEacb3QncU8RQMp",
+      "id" : "4IDoKaZIEacb3QncU8RQMp",
+      "name" : "I Am Kloot",
+      "type" : "artist",
+      "uri" : "spotify:artist:4IDoKaZIEacb3QncU8RQMp"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0UKTi6uD9dfPMUpParumYG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0UKTi6uD9dfPMUpParumYG",
+    "id" : "0UKTi6uD9dfPMUpParumYG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aa5f024356d297caa1c02fe20f2c540e930d003a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5b8fb43b090a687afb25a53abfaf1625b4d2e928",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6648bcb30697035446a28b917be29cb9eab61081",
+      "width" : 64
+    } ],
+    "name" : "From There To Here (Original Television Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:0UKTi6uD9dfPMUpParumYG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4IDoKaZIEacb3QncU8RQMp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4IDoKaZIEacb3QncU8RQMp",
+    "id" : "4IDoKaZIEacb3QncU8RQMp",
+    "name" : "I Am Kloot",
+    "type" : "artist",
+    "uri" : "spotify:artist:4IDoKaZIEacb3QncU8RQMp"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 244118,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBB7L1000001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0xL6MWrtisuR3vd1NULEyp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0xL6MWrtisuR3vd1NULEyp",
+  "id" : "0xL6MWrtisuR3vd1NULEyp",
+  "name" : "Northern Skies",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c6ff47c954f80afee928c338e0b7cadece9bf6a8?cid=null",
+  "track_number" : 18,
+  "type" : "track",
+  "uri" : "spotify:track:0xL6MWrtisuR3vd1NULEyp"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+      "id" : "34UhPkLbtFKRq3nmfFgejG",
+      "name" : "Mogwai",
+      "type" : "artist",
+      "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Iw07LDk43N3htQwqw1DtD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Iw07LDk43N3htQwqw1DtD",
+    "id" : "3Iw07LDk43N3htQwqw1DtD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4792c5f7d59506f5a661e52276ce15cb7537b8be",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8be145ba2957456549abd24672f947173a2b3b43",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/10de58b81ea4ee5bfbf8c43532d14cb1def84878",
+      "width" : 64
+    } ],
+    "name" : "Happy Songs for Happy People",
+    "type" : "album",
+    "uri" : "spotify:album:3Iw07LDk43N3htQwqw1DtD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+    "id" : "34UhPkLbtFKRq3nmfFgejG",
+    "name" : "Mogwai",
+    "type" : "artist",
+    "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 256093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBENL0300084"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0XKWxKy4DqjlvWGiNJoIKO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0XKWxKy4DqjlvWGiNJoIKO",
+  "id" : "0XKWxKy4DqjlvWGiNJoIKO",
+  "name" : "Hunted by a Freak",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bca1b4a364925a5a81dc329de30071036acb6833?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0XKWxKy4DqjlvWGiNJoIKO"
+}

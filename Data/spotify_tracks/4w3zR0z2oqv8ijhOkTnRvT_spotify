@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1FWybrAwiSa0zKibdLfZZr",
+      "id" : "1FWybrAwiSa0zKibdLfZZr",
+      "name" : "Blue Foundation",
+      "type" : "artist",
+      "uri" : "spotify:artist:1FWybrAwiSa0zKibdLfZZr"
+    } ],
+    "available_markets" : [ "CA", "DK", "FI", "MX", "NO", "SE", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2NjMU3A1v9h4g1ukisTykJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2NjMU3A1v9h4g1ukisTykJ",
+    "id" : "2NjMU3A1v9h4g1ukisTykJ",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/22d23536d3d0e13ade5d2a295d0c60216c59a767",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fbc183ae36ee635f27613f6a36115334a2c579cf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/75cf903d0e37dc8791cc98e31a5db9416ab261a1",
+      "width" : 64
+    } ],
+    "name" : "Eyes On Fire",
+    "type" : "album",
+    "uri" : "spotify:album:2NjMU3A1v9h4g1ukisTykJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1FWybrAwiSa0zKibdLfZZr",
+    "id" : "1FWybrAwiSa0zKibdLfZZr",
+    "name" : "Blue Foundation",
+    "type" : "artist",
+    "uri" : "spotify:artist:1FWybrAwiSa0zKibdLfZZr"
+  } ],
+  "available_markets" : [ "CA", "DK", "FI", "MX", "NO", "SE", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 302826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DKABA0700900"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4w3zR0z2oqv8ijhOkTnRvT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4w3zR0z2oqv8ijhOkTnRvT",
+  "id" : "4w3zR0z2oqv8ijhOkTnRvT",
+  "name" : "Eyes On Fire",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/229812481b332a1d62e8bfe9b3f1dfe781a95197?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4w3zR0z2oqv8ijhOkTnRvT"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+      "id" : "6PAt558ZEZl0DmdXlnjMgD",
+      "name" : "Eric Clapton",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ebyEGol0Abc7VAxYf7vEg",
+    "id" : "3ebyEGol0Abc7VAxYf7vEg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/10f4d207d46596b6df8f2f965ba2f966611ea392",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/88d7db53ec9ab9776a7d7c7a016b802837dd362d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9d642ea3ae8443ab210573eda7d56fc5b4caa652",
+      "width" : 64
+    } ],
+    "name" : "Unplugged [Deluxe]",
+    "type" : "album",
+    "uri" : "spotify:album:3ebyEGol0Abc7VAxYf7vEg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+    "id" : "6PAt558ZEZl0DmdXlnjMgD",
+    "name" : "Eric Clapton",
+    "type" : "artist",
+    "uri" : "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 289026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE11300317"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3BEZCNZSmVv30vsMNSOCri",
+  "id" : "3BEZCNZSmVv30vsMNSOCri",
+  "name" : "Layla",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0caedebc3408c21a1aaa59d0b9c2479d0ddb8b89?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:3BEZCNZSmVv30vsMNSOCri"
+}

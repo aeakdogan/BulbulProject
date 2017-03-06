@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xLZ07bX72igG3lX0Xsjni"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xLZ07bX72igG3lX0Xsjni",
+      "id" : "5xLZ07bX72igG3lX0Xsjni",
+      "name" : "Clara Luzia",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xLZ07bX72igG3lX0Xsjni"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0nwBtERIArHCkX5mxUm1cP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0nwBtERIArHCkX5mxUm1cP",
+    "id" : "0nwBtERIArHCkX5mxUm1cP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/256aa189bd194d60d7d996dd732065ad828cd4e6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d50e48b195127287a26b0f86aa87f3c421aada9c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bd0336fdbb5af80fe5f69375b8fb25a47096dde5",
+      "width" : 64
+    } ],
+    "name" : "The Ground Below",
+    "type" : "album",
+    "uri" : "spotify:album:0nwBtERIArHCkX5mxUm1cP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5xLZ07bX72igG3lX0Xsjni"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5xLZ07bX72igG3lX0Xsjni",
+    "id" : "5xLZ07bX72igG3lX0Xsjni",
+    "name" : "Clara Luzia",
+    "type" : "artist",
+    "uri" : "spotify:artist:5xLZ07bX72igG3lX0Xsjni"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 178680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATA980901004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/62mOJhatt4coPAmQiL3ubl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/62mOJhatt4coPAmQiL3ubl",
+  "id" : "62mOJhatt4coPAmQiL3ubl",
+  "name" : "These Lines",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a2ef7bbe424567997a730978250cdf21c15ff785?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:62mOJhatt4coPAmQiL3ubl"
+}

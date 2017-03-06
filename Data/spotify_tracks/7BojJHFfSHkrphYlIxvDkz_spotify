@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0qP3Irw4a8UFvXv6KQf3XM",
+      "id" : "0qP3Irw4a8UFvXv6KQf3XM",
+      "name" : "Ben Westbeech",
+      "type" : "artist",
+      "uri" : "spotify:artist:0qP3Irw4a8UFvXv6KQf3XM"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GB", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/28C6OW8b6vNYqNYslGCU0e"
+    },
+    "href" : "https://api.spotify.com/v1/albums/28C6OW8b6vNYqNYslGCU0e",
+    "id" : "28C6OW8b6vNYqNYslGCU0e",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9a62e4a48e9acd14d2e14e6cabbe663271135ec6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c77ccc219d9aa468e1bf7ae7812d742fa94ab335",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/27946dac1f59ad2349549f78d0fdc9a9d878831b",
+      "width" : 64
+    } ],
+    "name" : "Welcome to the Best Years of Your Life",
+    "type" : "album",
+    "uri" : "spotify:album:28C6OW8b6vNYqNYslGCU0e"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0qP3Irw4a8UFvXv6KQf3XM",
+    "id" : "0qP3Irw4a8UFvXv6KQf3XM",
+    "name" : "Ben Westbeech",
+    "type" : "artist",
+    "uri" : "spotify:artist:0qP3Irw4a8UFvXv6KQf3XM"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GB", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 164080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBMEF0600039"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7BojJHFfSHkrphYlIxvDkz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7BojJHFfSHkrphYlIxvDkz",
+  "id" : "7BojJHFfSHkrphYlIxvDkz",
+  "name" : "Nothing Else",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/88c3c0975576d3d015f9c9c223228e060dfb6df8?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7BojJHFfSHkrphYlIxvDkz"
+}

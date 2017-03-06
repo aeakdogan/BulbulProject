@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1uQWmt1OhuHGRKmZ2ZcL6p",
+      "id" : "1uQWmt1OhuHGRKmZ2ZcL6p",
+      "name" : "Explosions In The Sky",
+      "type" : "artist",
+      "uri" : "spotify:artist:1uQWmt1OhuHGRKmZ2ZcL6p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Il8YjuVAWkWNH2xgjFMpF",
+      "id" : "5Il8YjuVAWkWNH2xgjFMpF",
+      "name" : "Steve Jablonsky",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Il8YjuVAWkWNH2xgjFMpF"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4kJiWXbbhWw9hjqxlkAJKK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4kJiWXbbhWw9hjqxlkAJKK",
+    "id" : "4kJiWXbbhWw9hjqxlkAJKK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9c3ff18843fb81663b9d08c59cbc0d55964aa697",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ea2d678fa3821cd6a63dc4b0ff11c8e05c5d0645",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/52208d8fcb36872939bfda5e342d09659a0eea2b",
+      "width" : 64
+    } ],
+    "name" : "Lone Survivor (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:4kJiWXbbhWw9hjqxlkAJKK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1uQWmt1OhuHGRKmZ2ZcL6p",
+    "id" : "1uQWmt1OhuHGRKmZ2ZcL6p",
+    "name" : "Explosions In The Sky",
+    "type" : "artist",
+    "uri" : "spotify:artist:1uQWmt1OhuHGRKmZ2ZcL6p"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 136614,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB2H71200609"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Iqz5hnPCLQUPepDQ3A3fA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Iqz5hnPCLQUPepDQ3A3fA",
+  "id" : "4Iqz5hnPCLQUPepDQ3A3fA",
+  "name" : "Qrf En Route",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6a1e3b8dfd76e34f1fc280eb9c1fd004029446fb?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:4Iqz5hnPCLQUPepDQ3A3fA"
+}

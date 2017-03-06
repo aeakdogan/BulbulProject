@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+      "id" : "4tZwfgrHOc3mvqYlEYSvVi",
+      "name" : "Daft Punk",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7u6zL7kqpgLPISZYXNTgYk",
+    "id" : "7u6zL7kqpgLPISZYXNTgYk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5434a3f4cb2b2bae89a92c9d59a921efef1d6058",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c519b37947cd2fb32f3a7382af0d28b00fd1c3fb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/edd01594b27ffae42208f1cc8a420b3e6fbcb034",
+      "width" : 64
+    } ],
+    "name" : "Alive 2007",
+    "type" : "album",
+    "uri" : "spotify:album:7u6zL7kqpgLPISZYXNTgYk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+    "id" : "4tZwfgrHOc3mvqYlEYSvVi",
+    "name" : "Daft Punk",
+    "type" : "artist",
+    "uri" : "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 421600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDUW0700004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3n4ow4XGzwSIPxA3JHLF9p"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3n4ow4XGzwSIPxA3JHLF9p",
+  "id" : "3n4ow4XGzwSIPxA3JHLF9p",
+  "name" : "Too Long / Steam Machine",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bb029a3b48b31f515838b09ff2065dd724467527?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3n4ow4XGzwSIPxA3JHLF9p"
+}

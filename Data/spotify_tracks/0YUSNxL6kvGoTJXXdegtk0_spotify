@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3EA9hVIzKfFiQI0Kikz2wo",
+      "id" : "3EA9hVIzKfFiQI0Kikz2wo",
+      "name" : "Andrea Bocelli",
+      "type" : "artist",
+      "uri" : "spotify:artist:3EA9hVIzKfFiQI0Kikz2wo"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/37QhqwG2GFkVdlyRjvgKme"
+    },
+    "href" : "https://api.spotify.com/v1/albums/37QhqwG2GFkVdlyRjvgKme",
+    "id" : "37QhqwG2GFkVdlyRjvgKme",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5b0f757356460b51989c6b15032faad5b1020a3a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/134d5d797a9e8fb8da6e34e2c8876e14b5d73ef6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/90ada01c64ec39bc34306569afa4ab8b2dc0cf3b",
+      "width" : 64
+    } ],
+    "name" : "My Christmas (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:37QhqwG2GFkVdlyRjvgKme"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3EA9hVIzKfFiQI0Kikz2wo",
+    "id" : "3EA9hVIzKfFiQI0Kikz2wo",
+    "name" : "Andrea Bocelli",
+    "type" : "artist",
+    "uri" : "spotify:artist:3EA9hVIzKfFiQI0Kikz2wo"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 101770,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITZ040900071"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0YUSNxL6kvGoTJXXdegtk0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0YUSNxL6kvGoTJXXdegtk0",
+  "id" : "0YUSNxL6kvGoTJXXdegtk0",
+  "name" : "Caro gesu bambino",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/42a9ba38ca29c044d62dd830de3ec612d6f1d05d?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:0YUSNxL6kvGoTJXXdegtk0"
+}

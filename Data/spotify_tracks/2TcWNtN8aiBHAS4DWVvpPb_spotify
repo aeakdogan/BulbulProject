@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+      "id" : "0TkqXdyWLsssJH7okthMPQ",
+      "name" : "Jay Electronica",
+      "type" : "artist",
+      "uri" : "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3iL19fevJpmFv77QyYZp2G"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3iL19fevJpmFv77QyYZp2G",
+    "id" : "3iL19fevJpmFv77QyYZp2G",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/baa2da790cc3956af2c2eea44c5694bede2ce9e9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6a2716609079dd47a5a9e4691f69bfe6967df5ff",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e937ede7a46df212a88841329c15761efc5c756a",
+      "width" : 64
+    } ],
+    "name" : "Exhibit C",
+    "type" : "album",
+    "uri" : "spotify:album:3iL19fevJpmFv77QyYZp2G"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+    "id" : "0TkqXdyWLsssJH7okthMPQ",
+    "name" : "Jay Electronica",
+    "type" : "artist",
+    "uri" : "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 331452,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "US2Q80900083"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2TcWNtN8aiBHAS4DWVvpPb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2TcWNtN8aiBHAS4DWVvpPb",
+  "id" : "2TcWNtN8aiBHAS4DWVvpPb",
+  "name" : "Exhibit C",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/296ded14f6752f304fde75d0f804105bc7eb0a3a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2TcWNtN8aiBHAS4DWVvpPb"
+}

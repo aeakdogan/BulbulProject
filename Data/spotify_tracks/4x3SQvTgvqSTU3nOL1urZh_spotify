@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2MqhkhX4npxDZ62ObR5ELO",
+      "id" : "2MqhkhX4npxDZ62ObR5ELO",
+      "name" : "Hoobastank",
+      "type" : "artist",
+      "uri" : "spotify:artist:2MqhkhX4npxDZ62ObR5ELO"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3wwRx7Tjr2BXD9Z4yGliie"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3wwRx7Tjr2BXD9Z4yGliie",
+    "id" : "3wwRx7Tjr2BXD9Z4yGliie",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/55ec2ccc5efbc3e9131900f7ec0073cf92b270f9",
+      "width" : 631
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d53e49696597fdb11976b03cb97b8007a065c2bf",
+      "width" : 296
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/08d931758e886a2e77e1316f9e8bfa3360249506",
+      "width" : 63
+    } ],
+    "name" : "The Reason",
+    "type" : "album",
+    "uri" : "spotify:album:3wwRx7Tjr2BXD9Z4yGliie"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2MqhkhX4npxDZ62ObR5ELO",
+    "id" : "2MqhkhX4npxDZ62ObR5ELO",
+    "name" : "Hoobastank",
+    "type" : "artist",
+    "uri" : "spotify:artist:2MqhkhX4npxDZ62ObR5ELO"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 232800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR20300704"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4x3SQvTgvqSTU3nOL1urZh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4x3SQvTgvqSTU3nOL1urZh",
+  "id" : "4x3SQvTgvqSTU3nOL1urZh",
+  "name" : "The Reason",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/01acb992765814da4cbcd7080b7933aedd723b26?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4x3SQvTgvqSTU3nOL1urZh"
+}

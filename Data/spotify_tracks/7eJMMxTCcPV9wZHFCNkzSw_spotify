@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+      "id" : "2CWWgbxApjbyByxBBCvGTm",
+      "name" : "Katatonia",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/22V9O1m1RtVnUW2qcoEBSR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/22V9O1m1RtVnUW2qcoEBSR",
+    "id" : "22V9O1m1RtVnUW2qcoEBSR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/afabb13185b0b377b6454316c80ffde9ac5a4316",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5ee9797576ae246e9012fdc8f97c45acc298c3ec",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/28e6b92b1ce2f40792f777dc58bfc9188aa14e5b",
+      "width" : 64
+    } ],
+    "name" : "NightIsTheNewDay",
+    "type" : "album",
+    "uri" : "spotify:album:22V9O1m1RtVnUW2qcoEBSR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+    "id" : "2CWWgbxApjbyByxBBCvGTm",
+    "name" : "Katatonia",
+    "type" : "artist",
+    "uri" : "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 266853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCQV0900754"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7eJMMxTCcPV9wZHFCNkzSw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7eJMMxTCcPV9wZHFCNkzSw",
+  "id" : "7eJMMxTCcPV9wZHFCNkzSw",
+  "name" : "Day And Then The Shade",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a6d82a2e1d7c6614159d8e559df7e2fce3792e2b?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:7eJMMxTCcPV9wZHFCNkzSw"
+}

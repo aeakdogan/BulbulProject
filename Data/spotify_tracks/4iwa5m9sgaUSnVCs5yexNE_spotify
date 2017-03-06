@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+      "id" : "2qk9voo8llSGYcZ6xrBzKx",
+      "name" : "Kings of Leon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/45dX2VUWOryNLR0DRFNlq6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/45dX2VUWOryNLR0DRFNlq6",
+    "id" : "45dX2VUWOryNLR0DRFNlq6",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/f48d2f75a5ac7d0f4c6808b8b5414645c73ecb6a",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/27f8974797cb16267e03891cb43b548d38d6c8ad",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4ff0fd41c706332497884167cf4a487ced85f1db",
+      "width" : 64
+    } ],
+    "name" : "Aha Shake Heartbreak",
+    "type" : "album",
+    "uri" : "spotify:album:45dX2VUWOryNLR0DRFNlq6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+    "id" : "2qk9voo8llSGYcZ6xrBzKx",
+    "name" : "Kings of Leon",
+    "type" : "artist",
+    "uri" : "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 240293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC10401361"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4iwa5m9sgaUSnVCs5yexNE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4iwa5m9sgaUSnVCs5yexNE",
+  "id" : "4iwa5m9sgaUSnVCs5yexNE",
+  "name" : "Milk",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/443b80f06d4571bbdfb37ebca50f657c7f46dec4?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:4iwa5m9sgaUSnVCs5yexNE"
+}

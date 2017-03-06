@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fxk3UXHTFYET8qCT9WlBF",
+      "id" : "6fxk3UXHTFYET8qCT9WlBF",
+      "name" : "Kevin Morby",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fxk3UXHTFYET8qCT9WlBF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0DP6oSVu75inYj3jJ7tvLR",
+    "id" : "0DP6oSVu75inYj3jJ7tvLR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1c031bba851ecb8e59f004008b62708792aaf4ed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/588d06f2b19fe9755362d6fb7ac105b4e3bec8ba",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/91f63bf86b0993f15f8d41928184a55788d52863",
+      "width" : 64
+    } ],
+    "name" : "Harlem River",
+    "type" : "album",
+    "uri" : "spotify:album:0DP6oSVu75inYj3jJ7tvLR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6fxk3UXHTFYET8qCT9WlBF",
+    "id" : "6fxk3UXHTFYET8qCT9WlBF",
+    "name" : "Kevin Morby",
+    "type" : "artist",
+    "uri" : "spotify:artist:6fxk3UXHTFYET8qCT9WlBF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 555883,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2FD1310054"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0cDQyfkR7kYIBITKccaDmN",
+  "id" : "0cDQyfkR7kYIBITKccaDmN",
+  "name" : "Harlem River",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/58216506a3348baef0cea083cd099d7e8ad07681?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0cDQyfkR7kYIBITKccaDmN"
+}

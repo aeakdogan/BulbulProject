@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z",
+      "id" : "0fgYKF9Avljex0L9Wt5b8Z",
+      "name" : "Echo & the Bunnymen",
+      "type" : "artist",
+      "uri" : "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1pK2gmrnBltxeW7eQToanK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1pK2gmrnBltxeW7eQToanK",
+    "id" : "1pK2gmrnBltxeW7eQToanK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3a5c5fec1d0b51e39ee6a9d4e542cef775846c99",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/25198fff5b8b7851f5f82a35fb3bdeeb3435e682",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/694e9a82b17a57561d1518de7f0bb0e5199a514a",
+      "width" : 64
+    } ],
+    "name" : "The Fountain",
+    "type" : "album",
+    "uri" : "spotify:album:1pK2gmrnBltxeW7eQToanK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z",
+    "id" : "0fgYKF9Avljex0L9Wt5b8Z",
+    "name" : "Echo & the Bunnymen",
+    "type" : "artist",
+    "uri" : "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 251893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTCZ0961413"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/08B4rr13bX2AqXljVK0SmQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/08B4rr13bX2AqXljVK0SmQ",
+  "id" : "08B4rr13bX2AqXljVK0SmQ",
+  "name" : "Drivetime",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/43aeebec746f12669c3a205cc09bd4ca064c0b01?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:08B4rr13bX2AqXljVK0SmQ"
+}

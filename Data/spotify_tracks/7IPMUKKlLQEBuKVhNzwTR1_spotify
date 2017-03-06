@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3rTRHzFfbTk5GL3LpYZGHR",
+      "id" : "3rTRHzFfbTk5GL3LpYZGHR",
+      "name" : "Maria Mena",
+      "type" : "artist",
+      "uri" : "spotify:artist:3rTRHzFfbTk5GL3LpYZGHR"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7BWPKwScT8TShBOh91O4oz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7BWPKwScT8TShBOh91O4oz",
+    "id" : "7BWPKwScT8TShBOh91O4oz",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/ee25bba4c09f332d87cd9700f375a160b84cd539",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/46c92073c5eadc46fcf8085d57e772b5fd74f7ac",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/fdafddfae1e58630108ac7ef0ff16fce2aa02259",
+      "width" : 64
+    } ],
+    "name" : "Apparently Unaffected",
+    "type" : "album",
+    "uri" : "spotify:album:7BWPKwScT8TShBOh91O4oz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3rTRHzFfbTk5GL3LpYZGHR",
+    "id" : "3rTRHzFfbTk5GL3LpYZGHR",
+    "name" : "Maria Mena",
+    "type" : "artist",
+    "uri" : "spotify:artist:3rTRHzFfbTk5GL3LpYZGHR"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 264760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOAAC0505105"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7IPMUKKlLQEBuKVhNzwTR1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7IPMUKKlLQEBuKVhNzwTR1",
+  "id" : "7IPMUKKlLQEBuKVhNzwTR1",
+  "name" : "Just Hold Me",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d1b19707be637e09788eb96fd468c50ddd1ba097?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:7IPMUKKlLQEBuKVhNzwTR1"
+}

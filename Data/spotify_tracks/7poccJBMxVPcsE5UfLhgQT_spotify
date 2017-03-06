@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4IELX7NrLBXuw8f51cUZuM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4IELX7NrLBXuw8f51cUZuM",
+      "id" : "4IELX7NrLBXuw8f51cUZuM",
+      "name" : "Mates of State",
+      "type" : "artist",
+      "uri" : "spotify:artist:4IELX7NrLBXuw8f51cUZuM"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2xlTu56BNdjhhAyw74g2hA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2xlTu56BNdjhhAyw74g2hA",
+    "id" : "2xlTu56BNdjhhAyw74g2hA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e1eb21b3c96baa056fb349db2605ffe858b668b9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/464afb3700763a1ae3b0bd42dabf975431be696e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a2fb06e4b9e8a26fa3d6fe2fb7c99a9f6396aea3",
+      "width" : 64
+    } ],
+    "name" : "Bring It Back",
+    "type" : "album",
+    "uri" : "spotify:album:2xlTu56BNdjhhAyw74g2hA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4IELX7NrLBXuw8f51cUZuM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4IELX7NrLBXuw8f51cUZuM",
+    "id" : "4IELX7NrLBXuw8f51cUZuM",
+    "name" : "Mates of State",
+    "type" : "artist",
+    "uri" : "spotify:artist:4IELX7NrLBXuw8f51cUZuM"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 273933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBS50510497"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7poccJBMxVPcsE5UfLhgQT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7poccJBMxVPcsE5UfLhgQT",
+  "id" : "7poccJBMxVPcsE5UfLhgQT",
+  "name" : "For The Actor",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a4f60db49c3964c747964c3f5a0acf37f739f82f?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:7poccJBMxVPcsE5UfLhgQT"
+}

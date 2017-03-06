@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i",
+      "id" : "40Yq4vzPs9VNUrIBG5Jr2i",
+      "name" : "The Smashing Pumpkins",
+      "type" : "artist",
+      "uri" : "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4bPT6Q8ppaSNppk1kbEbLl",
+    "id" : "4bPT6Q8ppaSNppk1kbEbLl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5281fb40593e18fcacb40daac1d455dc1777e072",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3198d191979fcd68c221576ae6077b32159b91f4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c4d529039d2544ab0da31ae7ba2f6f695a8dee3a",
+      "width" : 64
+    } ],
+    "name" : "Mellon Collie and the Infinite Sadness (2012 - Remaster)",
+    "type" : "album",
+    "uri" : "spotify:album:4bPT6Q8ppaSNppk1kbEbLl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+    },
+    "href" : "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i",
+    "id" : "40Yq4vzPs9VNUrIBG5Jr2i",
+    "name" : "The Smashing Pumpkins",
+    "type" : "artist",
+    "uri" : "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 223920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI21200903"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/583InhqAFS5kMg3FNOBQI6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/583InhqAFS5kMg3FNOBQI6",
+  "id" : "583InhqAFS5kMg3FNOBQI6",
+  "name" : "Muzzle",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e9050e784a5b34bd9ea892fdcab59d8dfa6bfb0e?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:583InhqAFS5kMg3FNOBQI6"
+}

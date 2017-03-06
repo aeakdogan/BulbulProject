@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0z7Yuv7DuDQ5SaVn4VSlLt",
+      "id" : "0z7Yuv7DuDQ5SaVn4VSlLt",
+      "name" : "Lisa Hannigan",
+      "type" : "artist",
+      "uri" : "spotify:artist:0z7Yuv7DuDQ5SaVn4VSlLt"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4kNeABM1aNcP4uwBGzBpyW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4kNeABM1aNcP4uwBGzBpyW",
+    "id" : "4kNeABM1aNcP4uwBGzBpyW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2f1e2483e632b876824f1d8ae5ffd97d4398f2f2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a20790e885c33e63965644e3637ad8732ec6f5c1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/19507dac970867b3a39b997c2e1d7f6959642503",
+      "width" : 64
+    } ],
+    "name" : "Sea Sew",
+    "type" : "album",
+    "uri" : "spotify:album:4kNeABM1aNcP4uwBGzBpyW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0z7Yuv7DuDQ5SaVn4VSlLt",
+    "id" : "0z7Yuv7DuDQ5SaVn4VSlLt",
+    "name" : "Lisa Hannigan",
+    "type" : "artist",
+    "uri" : "spotify:artist:0z7Yuv7DuDQ5SaVn4VSlLt"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 261079,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "IEBWM0800001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1dv7mHBHAtrXuzVpzobKaT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1dv7mHBHAtrXuzVpzobKaT",
+  "id" : "1dv7mHBHAtrXuzVpzobKaT",
+  "name" : "Ocean and A Rock",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/134aeabc47b397a02b4f5aeaf175d8f51fed4ffe?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1dv7mHBHAtrXuzVpzobKaT"
+}

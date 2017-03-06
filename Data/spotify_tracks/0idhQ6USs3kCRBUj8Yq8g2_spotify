@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4P6m3WrJu8f7eB4KfaZ8sd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4P6m3WrJu8f7eB4KfaZ8sd",
+    "id" : "4P6m3WrJu8f7eB4KfaZ8sd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6ae4f1b3a1d341611d2b4ad80441cbf1da29d29d",
+      "width" : 632
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6753ea3f5f35f5c06d296c97e197e350d2041f43",
+      "width" : 296
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9042989f64030d74bf1196b52c688e83c0d83a17",
+      "width" : 63
+    } ],
+    "name" : "Shaft In Africa",
+    "type" : "album",
+    "uri" : "spotify:album:4P6m3WrJu8f7eB4KfaZ8sd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3DdDR0Pm60equUbBz5FFGK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3DdDR0Pm60equUbBz5FFGK",
+    "id" : "3DdDR0Pm60equUbBz5FFGK",
+    "name" : "Johnny Pate",
+    "type" : "artist",
+    "uri" : "spotify:artist:3DdDR0Pm60equUbBz5FFGK"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 182933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC17354938"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0idhQ6USs3kCRBUj8Yq8g2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0idhQ6USs3kCRBUj8Yq8g2",
+  "id" : "0idhQ6USs3kCRBUj8Yq8g2",
+  "name" : "El Jardia - Soundtrack",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d63e733769f7868da0493a7c78faa2fc17c567d2?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0idhQ6USs3kCRBUj8Yq8g2"
+}

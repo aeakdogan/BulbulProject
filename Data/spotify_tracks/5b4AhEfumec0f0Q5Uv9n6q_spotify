@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2aoFQUeHD1U7pL098lRsDU",
+      "id" : "2aoFQUeHD1U7pL098lRsDU",
+      "name" : "Madvillain",
+      "type" : "artist",
+      "uri" : "spotify:artist:2aoFQUeHD1U7pL098lRsDU"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/61809gZj46tFYs0g4s51nu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/61809gZj46tFYs0g4s51nu",
+    "id" : "61809gZj46tFYs0g4s51nu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/800f868fa6e19609a629046deb995c89bcaea172",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dd72eb427c5214ef5ee32368695f4ebc9f7205aa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e5f6e4cbe6d15a352038308dce446e7632baa9bf",
+      "width" : 64
+    } ],
+    "name" : "Madvillainy",
+    "type" : "album",
+    "uri" : "spotify:album:61809gZj46tFYs0g4s51nu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2aoFQUeHD1U7pL098lRsDU",
+    "id" : "2aoFQUeHD1U7pL098lRsDU",
+    "name" : "Madvillain",
+    "type" : "artist",
+    "uri" : "spotify:artist:2aoFQUeHD1U7pL098lRsDU"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 90133,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "US2S70465013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5b4AhEfumec0f0Q5Uv9n6q"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5b4AhEfumec0f0Q5Uv9n6q",
+  "id" : "5b4AhEfumec0f0Q5Uv9n6q",
+  "name" : "Operation Lifesaver aka Mint Test",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/64d474e268d311311b83665aa491c68b7255ae24?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:5b4AhEfumec0f0Q5Uv9n6q"
+}

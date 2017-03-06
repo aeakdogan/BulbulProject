@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8",
+      "id" : "0FMucZsEnCxs5pqBjHjIc8",
+      "name" : "Stan Getz",
+      "type" : "artist",
+      "uri" : "spotify:artist:0FMucZsEnCxs5pqBjHjIc8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jXfFzeP66Zy67HM2mvIIF",
+      "id" : "4jXfFzeP66Zy67HM2mvIIF",
+      "name" : "Bill Evans",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jXfFzeP66Zy67HM2mvIIF"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3urldNrCr7tihZOZUEhCiy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3urldNrCr7tihZOZUEhCiy",
+    "id" : "3urldNrCr7tihZOZUEhCiy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d059eabac1ce04b93e825b296ceacb846cb02491",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0ad2d9504ab425cc2f3f8e90c886f3f2c022fe29",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/088fd7263d1ccf483a653128255b2b76a8d5efd3",
+      "width" : 64
+    } ],
+    "name" : "Stan Getz & Bill Evans",
+    "type" : "album",
+    "uri" : "spotify:album:3urldNrCr7tihZOZUEhCiy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8",
+    "id" : "0FMucZsEnCxs5pqBjHjIc8",
+    "name" : "Stan Getz",
+    "type" : "artist",
+    "uri" : "spotify:artist:0FMucZsEnCxs5pqBjHjIc8"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4jXfFzeP66Zy67HM2mvIIF",
+    "id" : "4jXfFzeP66Zy67HM2mvIIF",
+    "name" : "Bill Evans",
+    "type" : "artist",
+    "uri" : "spotify:artist:4jXfFzeP66Zy67HM2mvIIF"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 280840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0135550"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/014G0W5NX9h1zZwEknmHVM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/014G0W5NX9h1zZwEknmHVM",
+  "id" : "014G0W5NX9h1zZwEknmHVM",
+  "name" : "But Beautiful",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c3fb1225b06dd2cc1974d7120ac30344800b42a5?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:014G0W5NX9h1zZwEknmHVM"
+}

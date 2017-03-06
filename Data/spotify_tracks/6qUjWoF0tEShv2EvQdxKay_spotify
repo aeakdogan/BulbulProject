@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EU3ei9Aim1yaX6hTJrjXE",
+      "id" : "6EU3ei9Aim1yaX6hTJrjXE",
+      "name" : "The Teenagers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EU3ei9Aim1yaX6hTJrjXE"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5pUFwCxqMKYeNewTY9j1DG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5pUFwCxqMKYeNewTY9j1DG",
+    "id" : "5pUFwCxqMKYeNewTY9j1DG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5d223382981ddba645913bf33df7947ae15631ff",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/394aeb60bde569f1e14df625a46c07ea0b56a898",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3ad39cbba75177e211bf5de797c3a9bb08b747f2",
+      "width" : 64
+    } ],
+    "name" : "Reality Check",
+    "type" : "album",
+    "uri" : "spotify:album:5pUFwCxqMKYeNewTY9j1DG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6EU3ei9Aim1yaX6hTJrjXE",
+    "id" : "6EU3ei9Aim1yaX6hTJrjXE",
+    "name" : "The Teenagers",
+    "type" : "artist",
+    "uri" : "spotify:artist:6EU3ei9Aim1yaX6hTJrjXE"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 184146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0800009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6qUjWoF0tEShv2EvQdxKay"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6qUjWoF0tEShv2EvQdxKay",
+  "id" : "6qUjWoF0tEShv2EvQdxKay",
+  "name" : "Homecoming",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6e3cf46076df9c9202811e2d783060cdb93aa242?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6qUjWoF0tEShv2EvQdxKay"
+}

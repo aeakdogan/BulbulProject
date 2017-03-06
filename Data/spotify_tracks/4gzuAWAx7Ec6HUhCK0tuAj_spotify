@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1OmdWpAh1pucAuZPzJaxIJ",
+      "id" : "1OmdWpAh1pucAuZPzJaxIJ",
+      "name" : "Calexico",
+      "type" : "artist",
+      "uri" : "spotify:artist:1OmdWpAh1pucAuZPzJaxIJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4M5nCE77Qaxayuhp3fVn4V",
+      "id" : "4M5nCE77Qaxayuhp3fVn4V",
+      "name" : "Iron & Wine",
+      "type" : "artist",
+      "uri" : "spotify:artist:4M5nCE77Qaxayuhp3fVn4V"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/02YUay44E5r92i65mjcyHe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/02YUay44E5r92i65mjcyHe",
+    "id" : "02YUay44E5r92i65mjcyHe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3e9c4a2ffc413433a56d872fa404170f74840597",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1ab0e6f519400dbc2f59f9e703aa55f2eccc59f6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e33f5bf3b1badd4ab605c675eb08da77f1f0181d",
+      "width" : 64
+    } ],
+    "name" : "In The Reins",
+    "type" : "album",
+    "uri" : "spotify:album:02YUay44E5r92i65mjcyHe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1OmdWpAh1pucAuZPzJaxIJ",
+    "id" : "1OmdWpAh1pucAuZPzJaxIJ",
+    "name" : "Calexico",
+    "type" : "artist",
+    "uri" : "spotify:artist:1OmdWpAh1pucAuZPzJaxIJ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4M5nCE77Qaxayuhp3fVn4V",
+    "id" : "4M5nCE77Qaxayuhp3fVn4V",
+    "name" : "Iron & Wine",
+    "type" : "artist",
+    "uri" : "spotify:artist:4M5nCE77Qaxayuhp3fVn4V"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 306266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAJN0502806"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4gzuAWAx7Ec6HUhCK0tuAj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4gzuAWAx7Ec6HUhCK0tuAj",
+  "id" : "4gzuAWAx7Ec6HUhCK0tuAj",
+  "name" : "Burn That Broken Bed",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e761ab3c9eb3c8ff2a086492aaf22401c11a0879?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:4gzuAWAx7Ec6HUhCK0tuAj"
+}

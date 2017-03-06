@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ZS223C6JyBfXasXxrRqOk",
+      "id" : "5ZS223C6JyBfXasXxrRqOk",
+      "name" : "Jhene Aiko",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ZS223C6JyBfXasXxrRqOk"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/73TNMu44lT0m1h1Nn6Bfiq",
+    "id" : "73TNMu44lT0m1h1Nn6Bfiq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d19a891a6272546895f3f07af1b0aecc71c4ad71",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d1dbed63e635d030ad398fdcf171d52e467b6eeb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/030aa5011d48bb24c477e85e67552d11c28ff4ab",
+      "width" : 64
+    } ],
+    "name" : "Sail Out",
+    "type" : "album",
+    "uri" : "spotify:album:73TNMu44lT0m1h1Nn6Bfiq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5ZS223C6JyBfXasXxrRqOk",
+    "id" : "5ZS223C6JyBfXasXxrRqOk",
+    "name" : "Jhene Aiko",
+    "type" : "artist",
+    "uri" : "spotify:artist:5ZS223C6JyBfXasXxrRqOk"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 254493,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM71312346"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2wBCrtJS3E3TimRZ5MElTI",
+  "id" : "2wBCrtJS3E3TimRZ5MElTI",
+  "name" : "The Worst",
+  "popularity" : 65,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b8d73a3941bf20840457e5af513451fe7842e15d?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2wBCrtJS3E3TimRZ5MElTI"
+}

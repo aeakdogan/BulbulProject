@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/331QVEZKK1yz5KhYiR2pBj",
+      "id" : "331QVEZKK1yz5KhYiR2pBj",
+      "name" : "The Wailin' Jennys",
+      "type" : "artist",
+      "uri" : "spotify:artist:331QVEZKK1yz5KhYiR2pBj"
+    } ],
+    "available_markets" : [ "AU", "GB", "NZ", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Qrpxvxj6LTfqIbKnCnQHb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Qrpxvxj6LTfqIbKnCnQHb",
+    "id" : "5Qrpxvxj6LTfqIbKnCnQHb",
+    "images" : [ {
+      "height" : 625,
+      "url" : "https://i.scdn.co/image/6b37a08b6cffd096703e0c8508f47a3852c6426a",
+      "width" : 640
+    }, {
+      "height" : 293,
+      "url" : "https://i.scdn.co/image/0f7498e8753c9cca1ef9f47eb14a528bb406dd18",
+      "width" : 300
+    }, {
+      "height" : 62,
+      "url" : "https://i.scdn.co/image/c4285fa7a9fc08f58f77a0b0b4866bfec18932ae",
+      "width" : 63
+    } ],
+    "name" : "40 Days",
+    "type" : "album",
+    "uri" : "spotify:album:5Qrpxvxj6LTfqIbKnCnQHb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/331QVEZKK1yz5KhYiR2pBj",
+    "id" : "331QVEZKK1yz5KhYiR2pBj",
+    "name" : "The Wailin' Jennys",
+    "type" : "artist",
+    "uri" : "spotify:artist:331QVEZKK1yz5KhYiR2pBj"
+  } ],
+  "available_markets" : [ "AU", "GB", "NZ", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 190253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRHR0417707"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/57BqPLE4mvQEBh53JWxgcI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/57BqPLE4mvQEBh53JWxgcI",
+  "id" : "57BqPLE4mvQEBh53JWxgcI",
+  "name" : "Old Man",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7456f061d85a510acfc81f81477591b65c1f6a0e?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:57BqPLE4mvQEBh53JWxgcI"
+}

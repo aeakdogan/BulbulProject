@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+      "id" : "12VaqyEhgwDRuFfEqbnrpz",
+      "name" : "PJ Harvey",
+      "type" : "artist",
+      "uri" : "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/08Plby1CLD0UNgChnPD8lo",
+    "id" : "08Plby1CLD0UNgChnPD8lo",
+    "images" : [ {
+      "height" : 633,
+      "url" : "https://i.scdn.co/image/ddba984d234f56a1a2c4a734b44a9df685fb9144",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/eb783cfb5c9b2c60f5b4fe4bbbce02cac40e9b4b",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/8baffb50fd4f9e2165d1cdf07ab2520e0c81cd0f",
+      "width" : 64
+    } ],
+    "name" : "Dry",
+    "type" : "album",
+    "uri" : "spotify:album:08Plby1CLD0UNgChnPD8lo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+    "id" : "12VaqyEhgwDRuFfEqbnrpz",
+    "name" : "PJ Harvey",
+    "type" : "artist",
+    "uri" : "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0124924"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Tt1WwtcQ29NJ2yrDdW6I4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Tt1WwtcQ29NJ2yrDdW6I4",
+  "id" : "5Tt1WwtcQ29NJ2yrDdW6I4",
+  "name" : "Hair",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/36acda1b5f5e1c167aaa0f6877dc017c22310183?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5Tt1WwtcQ29NJ2yrDdW6I4"
+}

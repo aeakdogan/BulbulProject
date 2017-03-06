@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/24SzTDXkdTdIkjuXaaUDaR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/24SzTDXkdTdIkjuXaaUDaR",
+      "id" : "24SzTDXkdTdIkjuXaaUDaR",
+      "name" : "Eric Fridrich",
+      "type" : "artist",
+      "uri" : "spotify:artist:24SzTDXkdTdIkjuXaaUDaR"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0sgozjEk6Uq1non4Pboqzh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0sgozjEk6Uq1non4Pboqzh",
+    "id" : "0sgozjEk6Uq1non4Pboqzh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c7647ee72a9c1ba5a1648afedb8abd51865c0dd4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f5f194d1d18495ca9ba128bdab8458b2d342a8ea",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fde2780381aa87a27f594199eaa4230f9c255106",
+      "width" : 64
+    } ],
+    "name" : "Songs by the Sea - Single",
+    "type" : "album",
+    "uri" : "spotify:album:0sgozjEk6Uq1non4Pboqzh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/24SzTDXkdTdIkjuXaaUDaR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/24SzTDXkdTdIkjuXaaUDaR",
+    "id" : "24SzTDXkdTdIkjuXaaUDaR",
+    "name" : "Eric Fridrich",
+    "type" : "artist",
+    "uri" : "spotify:artist:24SzTDXkdTdIkjuXaaUDaR"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 206837,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2P1555810"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/194VM4m28NAT306e9HkuIk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/194VM4m28NAT306e9HkuIk",
+  "id" : "194VM4m28NAT306e9HkuIk",
+  "name" : "Songs by the Sea",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/39967a9b0476de770e269e48203981f182f3831c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:194VM4m28NAT306e9HkuIk"
+}

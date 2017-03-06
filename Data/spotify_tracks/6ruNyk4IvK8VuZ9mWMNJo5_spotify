@@ -1,0 +1,101 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ozcTa5tl8qhSbhJKM60I5",
+      "id" : "2ozcTa5tl8qhSbhJKM60I5",
+      "name" : "Philippe Herreweghe",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ozcTa5tl8qhSbhJKM60I5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/17BdLN9q8RRQQqyklLwac1",
+      "id" : "17BdLN9q8RRQQqyklLwac1",
+      "name" : "Collegium Vocale Gent",
+      "type" : "artist",
+      "uri" : "spotify:artist:17BdLN9q8RRQQqyklLwac1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1C3XEupIPUifPP8v7Y0UPQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1C3XEupIPUifPP8v7Y0UPQ",
+      "id" : "1C3XEupIPUifPP8v7Y0UPQ",
+      "name" : "La Chapelle Royale",
+      "type" : "artist",
+      "uri" : "spotify:artist:1C3XEupIPUifPP8v7Y0UPQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0lVwJy9ubOOZFjwyRjLYGl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0lVwJy9ubOOZFjwyRjLYGl",
+    "id" : "0lVwJy9ubOOZFjwyRjLYGl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dde62d4ac90c46782f4d205b99b7ea9d7fcc6b45",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/95fec09a59d0141908b7c13765907949306a419d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a7c91610ce9be8dd268eb47504c7638b3f0cd9c6",
+      "width" : 64
+    } ],
+    "name" : "Fauré: Requiem",
+    "type" : "album",
+    "uri" : "spotify:album:0lVwJy9ubOOZFjwyRjLYGl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1C3sffOOvQNUwg4YIsvKqy",
+    "id" : "1C3sffOOvQNUwg4YIsvKqy",
+    "name" : "César Franck",
+    "type" : "artist",
+    "uri" : "spotify:artist:1C3sffOOvQNUwg4YIsvKqy"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ozcTa5tl8qhSbhJKM60I5",
+    "id" : "2ozcTa5tl8qhSbhJKM60I5",
+    "name" : "Philippe Herreweghe",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ozcTa5tl8qhSbhJKM60I5"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2YWNmklKbU5v9RpVsfHWbU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2YWNmklKbU5v9RpVsfHWbU",
+    "id" : "2YWNmklKbU5v9RpVsfHWbU",
+    "name" : "Orchestre des Champs-Élysées",
+    "type" : "artist",
+    "uri" : "spotify:artist:2YWNmklKbU5v9RpVsfHWbU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 588760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ140124090"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ruNyk4IvK8VuZ9mWMNJo5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ruNyk4IvK8VuZ9mWMNJo5",
+  "id" : "6ruNyk4IvK8VuZ9mWMNJo5",
+  "name" : "Symphony in D Minor: II. Allegretto",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ddec182ac5dc321f79588676c8887623a54841e6?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:6ruNyk4IvK8VuZ9mWMNJo5"
+}

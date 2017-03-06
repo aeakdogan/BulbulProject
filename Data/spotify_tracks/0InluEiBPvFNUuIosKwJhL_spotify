@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0iC8O5ABswVUFiYwM94bu3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0iC8O5ABswVUFiYwM94bu3",
+      "id" : "0iC8O5ABswVUFiYwM94bu3",
+      "name" : "Madrugada",
+      "type" : "artist",
+      "uri" : "spotify:artist:0iC8O5ABswVUFiYwM94bu3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5obQBcN5aPEveDuUcz1gqr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5obQBcN5aPEveDuUcz1gqr",
+    "id" : "5obQBcN5aPEveDuUcz1gqr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b98a9abc1dc4336b200cf1be0a9ac3007f152bb7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/276d061af2f5d0d3d9bbf1d9a3012cc201639c40",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/45b8482534ea43004f53cb5e9579d1792d16dbad",
+      "width" : 64
+    } ],
+    "name" : "Ready",
+    "type" : "album",
+    "uri" : "spotify:album:5obQBcN5aPEveDuUcz1gqr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0iC8O5ABswVUFiYwM94bu3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0iC8O5ABswVUFiYwM94bu3",
+    "id" : "0iC8O5ABswVUFiYwM94bu3",
+    "name" : "Madrugada",
+    "type" : "artist",
+    "uri" : "spotify:artist:0iC8O5ABswVUFiYwM94bu3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 170773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOAHV0202020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0InluEiBPvFNUuIosKwJhL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0InluEiBPvFNUuIosKwJhL",
+  "id" : "0InluEiBPvFNUuIosKwJhL",
+  "name" : "Ready",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c8334102e994a5dc35b19e23f2dd4bf3e27ac5f2?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0InluEiBPvFNUuIosKwJhL"
+}

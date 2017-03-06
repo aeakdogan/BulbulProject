@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5YKzmXqu3KxPoBSGIF7Yii"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5YKzmXqu3KxPoBSGIF7Yii",
+      "id" : "5YKzmXqu3KxPoBSGIF7Yii",
+      "name" : "Sybreed",
+      "type" : "artist",
+      "uri" : "spotify:artist:5YKzmXqu3KxPoBSGIF7Yii"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/66ihgg9hHaGSOQFz7Yehge"
+    },
+    "href" : "https://api.spotify.com/v1/albums/66ihgg9hHaGSOQFz7Yehge",
+    "id" : "66ihgg9hHaGSOQFz7Yehge",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f9d51f3e2c8cb544938b35cd903d89a16d0510a9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9ae1a2a89ec06ed201344df81aab98cb7b818ce5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa05d6bb4ba92040e43b0fd0a6883d4275cc36b1",
+      "width" : 64
+    } ],
+    "name" : "The Pulse Of Awakening",
+    "type" : "album",
+    "uri" : "spotify:album:66ihgg9hHaGSOQFz7Yehge"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5YKzmXqu3KxPoBSGIF7Yii"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5YKzmXqu3KxPoBSGIF7Yii",
+    "id" : "5YKzmXqu3KxPoBSGIF7Yii",
+    "name" : "Sybreed",
+    "type" : "artist",
+    "uri" : "spotify:artist:5YKzmXqu3KxPoBSGIF7Yii"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 396133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR1PP0901110"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7eUdb7QzCaMCMbIBf5xtow"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7eUdb7QzCaMCMbIBf5xtow",
+  "id" : "7eUdb7QzCaMCMbIBf5xtow",
+  "name" : "Lucifer Effect",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a8979bf49527e409cc9afaa450e0db10bd3894ea?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:7eUdb7QzCaMCMbIBf5xtow"
+}

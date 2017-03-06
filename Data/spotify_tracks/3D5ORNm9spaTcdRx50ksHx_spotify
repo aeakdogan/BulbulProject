@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tufWJzpCiAGleBt5TkmTn",
+      "id" : "3tufWJzpCiAGleBt5TkmTn",
+      "name" : "Ratt",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tufWJzpCiAGleBt5TkmTn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7CzsLoFBEMElxviJoApcAI",
+    "id" : "7CzsLoFBEMElxviJoApcAI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2d703c1ca51f2dbdd0578d4e3cd16f337b803053",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7b700b8e2490aa5f3e883b3d1c31f89610d32d3e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fda4e81d57583f8c2bca989fab4347233d3d5df2",
+      "width" : 64
+    } ],
+    "name" : "Invasion Of Your Privacy",
+    "type" : "album",
+    "uri" : "spotify:album:7CzsLoFBEMElxviJoApcAI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3tufWJzpCiAGleBt5TkmTn",
+    "id" : "3tufWJzpCiAGleBt5TkmTn",
+    "name" : "Ratt",
+    "type" : "artist",
+    "uri" : "spotify:artist:3tufWJzpCiAGleBt5TkmTn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 205560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20901943"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3D5ORNm9spaTcdRx50ksHx",
+  "id" : "3D5ORNm9spaTcdRx50ksHx",
+  "name" : "Lay It Down",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bb76fed56882a21db014e4d4e91ce09d5ead5c91?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3D5ORNm9spaTcdRx50ksHx"
+}

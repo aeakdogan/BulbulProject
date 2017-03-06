@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp",
+      "id" : "3rIZMv9rysU7JkLzEaC5Jp",
+      "name" : "Snow Patrol",
+      "type" : "artist",
+      "uri" : "spotify:artist:3rIZMv9rysU7JkLzEaC5Jp"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6fb7z9rBdrjzpBTg1R1Bwp",
+    "id" : "6fb7z9rBdrjzpBTg1R1Bwp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c562f6a3897a89da5ff81a31fe4deac2fdd3fb81",
+      "width" : 639
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/edfb94346e843dcfb563b0eeee0a8dc8859512bf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c038e1d77d89249f8888af7f06f96223f7fef03c",
+      "width" : 64
+    } ],
+    "name" : "Eyes Open",
+    "type" : "album",
+    "uri" : "spotify:album:6fb7z9rBdrjzpBTg1R1Bwp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3rIZMv9rysU7JkLzEaC5Jp",
+    "id" : "3rIZMv9rysU7JkLzEaC5Jp",
+    "name" : "Snow Patrol",
+    "type" : "artist",
+    "uri" : "spotify:artist:3rIZMv9rysU7JkLzEaC5Jp"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 197453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70600344"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6DGdgBp6NxutVUafsnUdnN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6DGdgBp6NxutVUafsnUdnN",
+  "id" : "6DGdgBp6NxutVUafsnUdnN",
+  "name" : "Hands Open",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/64b9006a495730b04cec45c6d85ad756a2f51486?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6DGdgBp6NxutVUafsnUdnN"
+}

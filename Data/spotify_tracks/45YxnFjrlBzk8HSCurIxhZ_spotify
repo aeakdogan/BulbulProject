@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6mQfAAqZGBzIfrmlZCeaYT",
+      "id" : "6mQfAAqZGBzIfrmlZCeaYT",
+      "name" : "Chaka Khan",
+      "type" : "artist",
+      "uri" : "spotify:artist:6mQfAAqZGBzIfrmlZCeaYT"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0EF12madq5IfNxLwLreQQM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0EF12madq5IfNxLwLreQQM",
+    "id" : "0EF12madq5IfNxLwLreQQM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/98f2da9e6ebf5f97b7c1684558a8cb8a916fc38d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5f3ddc6dad1f3099b18a689130f0141e412f0ba9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/89c3ecd5e2829e298afa604fc81e38684e5e80b7",
+      "width" : 64
+    } ],
+    "name" : "Greatest Hits Live",
+    "type" : "album",
+    "uri" : "spotify:album:0EF12madq5IfNxLwLreQQM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6mQfAAqZGBzIfrmlZCeaYT",
+    "id" : "6mQfAAqZGBzIfrmlZCeaYT",
+    "name" : "Chaka Khan",
+    "type" : "artist",
+    "uri" : "spotify:artist:6mQfAAqZGBzIfrmlZCeaYT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 262861,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA560739928"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/45YxnFjrlBzk8HSCurIxhZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/45YxnFjrlBzk8HSCurIxhZ",
+  "id" : "45YxnFjrlBzk8HSCurIxhZ",
+  "name" : "My Funny Valentine",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/889fda3a88a3052e62cbe1699d3b5597e3907e64?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:45YxnFjrlBzk8HSCurIxhZ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO",
+      "id" : "0X380XXQSNBYuleKzav5UO",
+      "name" : "Nine Inch Nails",
+      "type" : "artist",
+      "uri" : "spotify:artist:0X380XXQSNBYuleKzav5UO"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0hdOzMPrGJiGjX3epBP8NN",
+    "id" : "0hdOzMPrGJiGjX3epBP8NN",
+    "images" : [ {
+      "height" : 577,
+      "url" : "https://i.scdn.co/image/38d1c3fcfd1188e8fe83a8f45f4932dac29cd7c9",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/9b384a64dd950d3b5e6471c2716e8811c6078946",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/12032bb47934275d22b31b831ce8d423f358f1e6",
+      "width" : 64
+    } ],
+    "name" : "Year Zero",
+    "type" : "album",
+    "uri" : "spotify:album:0hdOzMPrGJiGjX3epBP8NN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO",
+    "id" : "0X380XXQSNBYuleKzav5UO",
+    "name" : "Nine Inch Nails",
+    "type" : "artist",
+    "uri" : "spotify:artist:0X380XXQSNBYuleKzav5UO"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 197240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70727138"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/48NRmbGX31Ww3maFeiwPhF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/48NRmbGX31Ww3maFeiwPhF",
+  "id" : "48NRmbGX31Ww3maFeiwPhF",
+  "name" : "The Great Destroyer",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/528cba7fa2433381932027d8c023929ef8bf19f0?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:48NRmbGX31Ww3maFeiwPhF"
+}

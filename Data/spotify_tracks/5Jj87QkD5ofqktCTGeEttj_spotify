@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5e5DeHuHjgcj0DbdrdYKMo",
+      "id" : "5e5DeHuHjgcj0DbdrdYKMo",
+      "name" : "Rhythm & Sound",
+      "type" : "artist",
+      "uri" : "spotify:artist:5e5DeHuHjgcj0DbdrdYKMo"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3LONU7AceS6MEstmuIyYcc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3LONU7AceS6MEstmuIyYcc",
+    "id" : "3LONU7AceS6MEstmuIyYcc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/95e3532638162401bf6674b943d22f1bbe0c7104",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7eee87e2be0c68f9e752fac1ef0b06a433466030",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e82dcad01a4f296a24480cbc5ce70b05ed009102",
+      "width" : 64
+    } ],
+    "name" : "Rhythm & Sound",
+    "type" : "album",
+    "uri" : "spotify:album:3LONU7AceS6MEstmuIyYcc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5e5DeHuHjgcj0DbdrdYKMo",
+    "id" : "5e5DeHuHjgcj0DbdrdYKMo",
+    "name" : "Rhythm & Sound",
+    "type" : "artist",
+    "uri" : "spotify:artist:5e5DeHuHjgcj0DbdrdYKMo"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 1011400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEW250100609"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Jj87QkD5ofqktCTGeEttj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Jj87QkD5ofqktCTGeEttj",
+  "id" : "5Jj87QkD5ofqktCTGeEttj",
+  "name" : "Imprint",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e795100f2d898941db4eeda0ef285fa7204d528b?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:5Jj87QkD5ofqktCTGeEttj"
+}

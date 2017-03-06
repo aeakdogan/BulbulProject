@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/48hZklIMPklae2Mssfp8Cx",
+      "id" : "48hZklIMPklae2Mssfp8Cx",
+      "name" : "Scuba",
+      "type" : "artist",
+      "uri" : "spotify:artist:48hZklIMPklae2Mssfp8Cx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0sJRfr4RBJcvOoQWXReauu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0sJRfr4RBJcvOoQWXReauu",
+    "id" : "0sJRfr4RBJcvOoQWXReauu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a90dd8c969feb17466eb3c2ef82bfb09ff437c72",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cdc839baa62cf9cb3378c15cac0a9ec823e50a15",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b16df96ce7124c6260401f558cb40d85bfbc714b",
+      "width" : 64
+    } ],
+    "name" : "Update",
+    "type" : "album",
+    "uri" : "spotify:album:0sJRfr4RBJcvOoQWXReauu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/48hZklIMPklae2Mssfp8Cx",
+    "id" : "48hZklIMPklae2Mssfp8Cx",
+    "name" : "Scuba",
+    "type" : "artist",
+    "uri" : "spotify:artist:48hZklIMPklae2Mssfp8Cx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 252754,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBHQT1200010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0XOzynqAza5ncw1O4t8aK1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0XOzynqAza5ncw1O4t8aK1",
+  "id" : "0XOzynqAza5ncw1O4t8aK1",
+  "name" : "The Hope",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/73e66ae8bd4ddfdc5693c753f2645a6370cb7933?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0XOzynqAza5ncw1O4t8aK1"
+}

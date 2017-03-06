@@ -1,0 +1,92 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Phy1x1dJ7otb3mHfiShE4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Phy1x1dJ7otb3mHfiShE4",
+    "id" : "1Phy1x1dJ7otb3mHfiShE4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b2d0f352f1cfb586ab06d10d314b424c4edbc0bf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/adbc44dd4037cbabff98ec5d8b720bffc7c28c22",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/66f54efe878af418382551359fe5bd21fd76b548",
+      "width" : 64
+    } ],
+    "name" : "50 Best Classics",
+    "type" : "album",
+    "uri" : "spotify:album:1Phy1x1dJ7otb3mHfiShE4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3MKCzCnpzw3TjUYs2v7vDA",
+    "id" : "3MKCzCnpzw3TjUYs2v7vDA",
+    "name" : "Pyotr Ilyich Tchaikovsky",
+    "type" : "artist",
+    "uri" : "spotify:artist:3MKCzCnpzw3TjUYs2v7vDA"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1A0qLQriqbzHhFlQyLeKTu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1A0qLQriqbzHhFlQyLeKTu",
+    "id" : "1A0qLQriqbzHhFlQyLeKTu",
+    "name" : "Horacio Gutiérrez",
+    "type" : "artist",
+    "uri" : "spotify:artist:1A0qLQriqbzHhFlQyLeKTu"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2tfWguHr2nj4e8KXLKciVq",
+    "id" : "2tfWguHr2nj4e8KXLKciVq",
+    "name" : "André Previn",
+    "type" : "artist",
+    "uri" : "spotify:artist:2tfWguHr2nj4e8KXLKciVq"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5yxyJsFanEAuwSM5kOuZKc",
+    "id" : "5yxyJsFanEAuwSM5kOuZKc",
+    "name" : "London Symphony Orchestra",
+    "type" : "artist",
+    "uri" : "spotify:artist:5yxyJsFanEAuwSM5kOuZKc"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 204000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYC9400647"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6CtnSIgHPJpsSN86V3lIrk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6CtnSIgHPJpsSN86V3lIrk",
+  "id" : "6CtnSIgHPJpsSN86V3lIrk",
+  "name" : "Tchaikovsky: Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto maestoso (Excerpt)",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aa906b1fa38cf40ebaaf61b726e434defd06926f?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:6CtnSIgHPJpsSN86V3lIrk"
+}

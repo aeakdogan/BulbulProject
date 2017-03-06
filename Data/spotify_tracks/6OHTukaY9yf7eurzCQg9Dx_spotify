@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3dXaa6jwM7B52GZpaJEIr5",
+      "id" : "3dXaa6jwM7B52GZpaJEIr5",
+      "name" : "Puddle Of Mudd",
+      "type" : "artist",
+      "uri" : "spotify:artist:3dXaa6jwM7B52GZpaJEIr5"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/57U1T9ROC5lsiL4XI8R4c5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/57U1T9ROC5lsiL4XI8R4c5",
+    "id" : "57U1T9ROC5lsiL4XI8R4c5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2a89513513092d1eeab6a5f7aac36abecbbe318b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bd9596e90c29aa43ea1f36359212d6be13168cf4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6a6dacfd881c074ab34b9f89d477cbfbeef5a7f2",
+      "width" : 64
+    } ],
+    "name" : "Re:(disc)overed",
+    "type" : "album",
+    "uri" : "spotify:album:57U1T9ROC5lsiL4XI8R4c5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3dXaa6jwM7B52GZpaJEIr5",
+    "id" : "3dXaa6jwM7B52GZpaJEIr5",
+    "name" : "Puddle Of Mudd",
+    "type" : "artist",
+    "uri" : "spotify:artist:3dXaa6jwM7B52GZpaJEIr5"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 305826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USME31100948"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6OHTukaY9yf7eurzCQg9Dx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6OHTukaY9yf7eurzCQg9Dx",
+  "id" : "6OHTukaY9yf7eurzCQg9Dx",
+  "name" : "Gimme Shelter",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/203f8ecf738842ab8e303f7ab1b8c80c2e54720f?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6OHTukaY9yf7eurzCQg9Dx"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0QrowybipCKUDnq5y10PD2",
+      "id" : "0QrowybipCKUDnq5y10PD2",
+      "name" : "Amos Lee",
+      "type" : "artist",
+      "uri" : "spotify:artist:0QrowybipCKUDnq5y10PD2"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0hPXaSKyujqCej452raazD",
+    "id" : "0hPXaSKyujqCej452raazD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f75aeeb3b5259d0c57006ec2d2c7793f7141e73c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7a62ffd2cc714c244217aa93bb5b38bf7a966523",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5e92bb074108ae3f8e6dcbce955d61122f986c32",
+      "width" : 64
+    } ],
+    "name" : "Amos Lee",
+    "type" : "album",
+    "uri" : "spotify:album:0hPXaSKyujqCej452raazD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0QrowybipCKUDnq5y10PD2",
+    "id" : "0QrowybipCKUDnq5y10PD2",
+    "name" : "Amos Lee",
+    "type" : "artist",
+    "uri" : "spotify:artist:0QrowybipCKUDnq5y10PD2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 255053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN20400569"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1aauOIvm1eaLxf8cizgw30"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1aauOIvm1eaLxf8cizgw30",
+  "id" : "1aauOIvm1eaLxf8cizgw30",
+  "name" : "Seen It All Before",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/44fac0aaac4ade157f5d35b6a760f3f73dac034f?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1aauOIvm1eaLxf8cizgw30"
+}

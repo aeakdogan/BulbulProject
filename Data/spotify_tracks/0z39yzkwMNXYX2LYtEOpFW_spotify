@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44TGR1CzjKBxSHsSEy7bi9",
+      "id" : "44TGR1CzjKBxSHsSEy7bi9",
+      "name" : "Woodkid",
+      "type" : "artist",
+      "uri" : "spotify:artist:44TGR1CzjKBxSHsSEy7bi9"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7oRzNo0PkoRJlvI9Eocyf2",
+    "id" : "7oRzNo0PkoRJlvI9Eocyf2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bf1857acfeea8448476d723e0852f118e865056e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8eb024ad082780d6d054ed8d71539fa711501a40",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/76a10482b9bf68f4b98c893d6c5f49d987480c04",
+      "width" : 64
+    } ],
+    "name" : "The Golden Age",
+    "type" : "album",
+    "uri" : "spotify:album:7oRzNo0PkoRJlvI9Eocyf2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/44TGR1CzjKBxSHsSEy7bi9",
+    "id" : "44TGR1CzjKBxSHsSEy7bi9",
+    "name" : "Woodkid",
+    "type" : "artist",
+    "uri" : "spotify:artist:44TGR1CzjKBxSHsSEy7bi9"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 230160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR4DI1200210"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0z39yzkwMNXYX2LYtEOpFW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0z39yzkwMNXYX2LYtEOpFW",
+  "id" : "0z39yzkwMNXYX2LYtEOpFW",
+  "name" : "I Love You",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c3f8cd0c64617f24e12f6aa69a22158a20227d93?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0z39yzkwMNXYX2LYtEOpFW"
+}

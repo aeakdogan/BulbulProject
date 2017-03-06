@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11zG3SH7tJ36wYmCJ2oWyB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/11zG3SH7tJ36wYmCJ2oWyB",
+      "id" : "11zG3SH7tJ36wYmCJ2oWyB",
+      "name" : "Covenant",
+      "type" : "artist",
+      "uri" : "spotify:artist:11zG3SH7tJ36wYmCJ2oWyB"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/62Y8iWVxKPvvCGLdbDd11x"
+    },
+    "href" : "https://api.spotify.com/v1/albums/62Y8iWVxKPvvCGLdbDd11x",
+    "id" : "62Y8iWVxKPvvCGLdbDd11x",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/465f0a41e22a32940782b39f9ec0a983c013773d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5c5520e73ebd18a6d9bc386155bec0ee7cd260de",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bd0a27f54e8bc03bbe5be6b18a2fa126c56abed7",
+      "width" : 64
+    } ],
+    "name" : "United States Of Mind",
+    "type" : "album",
+    "uri" : "spotify:album:62Y8iWVxKPvvCGLdbDd11x"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/11zG3SH7tJ36wYmCJ2oWyB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/11zG3SH7tJ36wYmCJ2oWyB",
+    "id" : "11zG3SH7tJ36wYmCJ2oWyB",
+    "name" : "Covenant",
+    "type" : "artist",
+    "uri" : "spotify:artist:11zG3SH7tJ36wYmCJ2oWyB"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 351333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US57M0516101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6p4ERQrrTzsreil7ggsuy4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6p4ERQrrTzsreil7ggsuy4",
+  "id" : "6p4ERQrrTzsreil7ggsuy4",
+  "name" : "Like Tears In Rain",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a9f327cbf70e335f427ef1930b7cfe059737b3c5?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6p4ERQrrTzsreil7ggsuy4"
+}

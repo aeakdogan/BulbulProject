@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/79pL93bVDKh0DJrSfSZfgz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/79pL93bVDKh0DJrSfSZfgz",
+      "id" : "79pL93bVDKh0DJrSfSZfgz",
+      "name" : "Moth Equals",
+      "type" : "artist",
+      "uri" : "spotify:artist:79pL93bVDKh0DJrSfSZfgz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/544BO9hdRfQ7OBpJH84rgc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/544BO9hdRfQ7OBpJH84rgc",
+    "id" : "544BO9hdRfQ7OBpJH84rgc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/db1b8837576bb3ff9e6a4f3a7e5767165889e112",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e011f6913fd5a4937e4892b8eac0d400fed35c2c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/298d0d92ba5c6e0355aec05b321df7702dc22a6a",
+      "width" : 64
+    } ],
+    "name" : "Sick Puppy",
+    "type" : "album",
+    "uri" : "spotify:album:544BO9hdRfQ7OBpJH84rgc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/79pL93bVDKh0DJrSfSZfgz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/79pL93bVDKh0DJrSfSZfgz",
+    "id" : "79pL93bVDKh0DJrSfSZfgz",
+    "name" : "Moth Equals",
+    "type" : "artist",
+    "uri" : "spotify:artist:79pL93bVDKh0DJrSfSZfgz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 480000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QM4DW1625124"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2jIYFXCUlyvR7YVbypzcJT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2jIYFXCUlyvR7YVbypzcJT",
+  "id" : "2jIYFXCUlyvR7YVbypzcJT",
+  "name" : "Swimming in the Drink",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3dae591a4d4dad89a8b52529554dde4eaccb79be?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2jIYFXCUlyvR7YVbypzcJT"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4QviryaneolcRmDB57SLco",
+    "id" : "4QviryaneolcRmDB57SLco",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/648c13120a167b1827584679477ec5735298826d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5c3f6f6debbae4b90511ebb0be5df604b892a2ff",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/160ce2ff046934f6d25f57b550ba403c48e3268d",
+      "width" : 64
+    } ],
+    "name" : "The Rocky Horror Picture Show - Original Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:4QviryaneolcRmDB57SLco"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5upLeyz8OjRZcbFuXOF59B",
+    "id" : "5upLeyz8OjRZcbFuXOF59B",
+    "name" : "Tim Curry",
+    "type" : "artist",
+    "uri" : "spotify:artist:5upLeyz8OjRZcbFuXOF59B"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 132572,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA560853994"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2IagoLk8psP7RQ89QYSdVo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2IagoLk8psP7RQ89QYSdVo",
+  "id" : "2IagoLk8psP7RQ89QYSdVo",
+  "name" : "I Can Make You A Man",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/40d58b9673881beb0e78abc9463755784d01a39c?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2IagoLk8psP7RQ89QYSdVo"
+}

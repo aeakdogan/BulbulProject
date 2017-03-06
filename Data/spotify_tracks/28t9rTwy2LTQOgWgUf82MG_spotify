@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74lTWE4DqbFU3Vn8z4uH72",
+      "id" : "74lTWE4DqbFU3Vn8z4uH72",
+      "name" : "Lakeside",
+      "type" : "artist",
+      "uri" : "spotify:artist:74lTWE4DqbFU3Vn8z4uH72"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6ApChpIo1Er0VGwqcUzXIW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6ApChpIo1Er0VGwqcUzXIW",
+    "id" : "6ApChpIo1Er0VGwqcUzXIW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/27c4832aff0676e3d0d912464a00233e67951b7c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/63f909b25b438f7762a7d79fae8f606dba72549f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6416f9b7990b7e968cb84db68a5a1d74dbce7536",
+      "width" : 64
+    } ],
+    "name" : "Lakeside: Greatest Hits",
+    "type" : "album",
+    "uri" : "spotify:album:6ApChpIo1Er0VGwqcUzXIW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72"
+    },
+    "href" : "https://api.spotify.com/v1/artists/74lTWE4DqbFU3Vn8z4uH72",
+    "id" : "74lTWE4DqbFU3Vn8z4uH72",
+    "name" : "Lakeside",
+    "type" : "artist",
+    "uri" : "spotify:artist:74lTWE4DqbFU3Vn8z4uH72"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 376240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAU117901169"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/28t9rTwy2LTQOgWgUf82MG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/28t9rTwy2LTQOgWgUf82MG",
+  "id" : "28t9rTwy2LTQOgWgUf82MG",
+  "name" : "Pull My Strings",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/75b23ed91d2931b6ecbf3db8b01a78a2edb9dbd9?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:28t9rTwy2LTQOgWgUf82MG"
+}

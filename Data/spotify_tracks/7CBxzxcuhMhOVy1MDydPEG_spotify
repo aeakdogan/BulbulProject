@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HCdPZB0ypEcpDo4T55sMi",
+      "id" : "1HCdPZB0ypEcpDo4T55sMi",
+      "name" : "Hanni El Khatib",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HCdPZB0ypEcpDo4T55sMi"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6On2r1MEcQHLRuyo75wX39"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6On2r1MEcQHLRuyo75wX39",
+    "id" : "6On2r1MEcQHLRuyo75wX39",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b0948082e6de32209d26b1662aadecea8e9cab18",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c4acae0fb83a60a26b0a7407840ad9aa2e05dd7d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9ed463e838bb4f6934c93ab3c26f9c6f4bf00834",
+      "width" : 64
+    } ],
+    "name" : "Will The Guns Come Out",
+    "type" : "album",
+    "uri" : "spotify:album:6On2r1MEcQHLRuyo75wX39"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1HCdPZB0ypEcpDo4T55sMi",
+    "id" : "1HCdPZB0ypEcpDo4T55sMi",
+    "name" : "Hanni El Khatib",
+    "type" : "artist",
+    "uri" : "spotify:artist:1HCdPZB0ypEcpDo4T55sMi"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 208026,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USD8D2004004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7CBxzxcuhMhOVy1MDydPEG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7CBxzxcuhMhOVy1MDydPEG",
+  "id" : "7CBxzxcuhMhOVy1MDydPEG",
+  "name" : "Dead Wrong",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6d5e8072ce25bb18402729379d843bf96b0c431b?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7CBxzxcuhMhOVy1MDydPEG"
+}

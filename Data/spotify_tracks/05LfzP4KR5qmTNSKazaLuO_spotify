@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi",
+      "id" : "6ogn9necmbUdCppmNnGOdi",
+      "name" : "Alanis Morissette",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ogn9necmbUdCppmNnGOdi"
+    } ],
+    "available_markets" : [ "AD", "BG", "CY", "CZ", "EE", "ES", "HU", "IS", "LI", "LT", "LV", "MC", "MT", "PL", "SK", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/09AwlP99cHfKVNKv4FC8VW",
+    "id" : "09AwlP99cHfKVNKv4FC8VW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/33872fc98ba23e3a1287bd870110c5401e1ca68c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b0c329409e5ded65c1863090a69f437144ed0297",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/05fefa950aef1e28c7195f77bfedab0b207078a0",
+      "width" : 64
+    } ],
+    "name" : "Jagged Little Pill",
+    "type" : "album",
+    "uri" : "spotify:album:09AwlP99cHfKVNKv4FC8VW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi",
+    "id" : "6ogn9necmbUdCppmNnGOdi",
+    "name" : "Alanis Morissette",
+    "type" : "artist",
+    "uri" : "spotify:artist:6ogn9necmbUdCppmNnGOdi"
+  } ],
+  "available_markets" : [ "AD", "BG", "CY", "CZ", "EE", "ES", "HU", "IS", "LI", "LT", "LV", "MC", "MT", "PL", "SK", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 187893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMV29900092"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/05LfzP4KR5qmTNSKazaLuO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/05LfzP4KR5qmTNSKazaLuO",
+  "id" : "05LfzP4KR5qmTNSKazaLuO",
+  "name" : "Perfect",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0371faa3a6def5448436f55a4edff7c68acf44ed?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:05LfzP4KR5qmTNSKazaLuO"
+}

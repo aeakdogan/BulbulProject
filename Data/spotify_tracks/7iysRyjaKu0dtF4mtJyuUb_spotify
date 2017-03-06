@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74gcBzlQza1bSfob90yRhR",
+      "id" : "74gcBzlQza1bSfob90yRhR",
+      "name" : "City and Colour",
+      "type" : "artist",
+      "uri" : "spotify:artist:74gcBzlQza1bSfob90yRhR"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7eWaTmmMl5zwrIYjngu24h"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7eWaTmmMl5zwrIYjngu24h",
+    "id" : "7eWaTmmMl5zwrIYjngu24h",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0d35a4ab21d5b790bdecd36c91449922273c090f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a7efa39c5c554b6cfbedb804057fef402947a8df",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/941119e7d2a3419c33afe52ae1052dc8011be3ec",
+      "width" : 64
+    } ],
+    "name" : "The Hurry And The Harm (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:7eWaTmmMl5zwrIYjngu24h"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/74gcBzlQza1bSfob90yRhR",
+    "id" : "74gcBzlQza1bSfob90yRhR",
+    "name" : "City and Colour",
+    "type" : "artist",
+    "uri" : "spotify:artist:74gcBzlQza1bSfob90yRhR"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 263266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CADE70901159"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7iysRyjaKu0dtF4mtJyuUb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7iysRyjaKu0dtF4mtJyuUb",
+  "id" : "7iysRyjaKu0dtF4mtJyuUb",
+  "name" : "The Hurry And The Harm",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/300bd91c944bdd690b54c7a6b3ee4e4d5dd69c09?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7iysRyjaKu0dtF4mtJyuUb"
+}

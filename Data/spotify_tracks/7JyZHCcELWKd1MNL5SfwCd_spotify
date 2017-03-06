@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1q24xIsAD7JZuVkTLR9TJy",
+      "id" : "1q24xIsAD7JZuVkTLR9TJy",
+      "name" : "Brigitte Bardot",
+      "type" : "artist",
+      "uri" : "spotify:artist:1q24xIsAD7JZuVkTLR9TJy"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7zBRw7aeKzugZ5bkFtcSID"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7zBRw7aeKzugZ5bkFtcSID",
+    "id" : "7zBRw7aeKzugZ5bkFtcSID",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/d41de5ac5055d56e9f28311bdfebc4a1cded82f6",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/1ff989d898d06912bfc33b4ce65caf7b51f099f8",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/15ba596cdb839532f644223c00e1c9b51de17880",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Bardot",
+    "type" : "album",
+    "uri" : "spotify:album:7zBRw7aeKzugZ5bkFtcSID"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1q24xIsAD7JZuVkTLR9TJy",
+    "id" : "1q24xIsAD7JZuVkTLR9TJy",
+    "name" : "Brigitte Bardot",
+    "type" : "artist",
+    "uri" : "spotify:artist:1q24xIsAD7JZuVkTLR9TJy"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 97573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ036401890"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7JyZHCcELWKd1MNL5SfwCd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7JyZHCcELWKd1MNL5SfwCd",
+  "id" : "7JyZHCcELWKd1MNL5SfwCd",
+  "name" : "Ciel de lit",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/48509e5b81f1f4c7c21a2038e3f4a1765206cef3?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:7JyZHCcELWKd1MNL5SfwCd"
+}

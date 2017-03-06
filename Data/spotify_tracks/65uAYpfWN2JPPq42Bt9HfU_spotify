@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lBam1B1t8wpnH7pJHWnj6",
+      "id" : "6lBam1B1t8wpnH7pJHWnj6",
+      "name" : "Gavin Rossdale",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lBam1B1t8wpnH7pJHWnj6"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/318SnTmLD23XDtu5Ms0MgT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/318SnTmLD23XDtu5Ms0MgT",
+    "id" : "318SnTmLD23XDtu5Ms0MgT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0576d12727b9c06e8b7b29f85289499feefa4ddb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/88a5a7a68316fb685c08f89db00475eb3bddff96",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c7589d580c30ea0b577d9bb207ce56679c711e4",
+      "width" : 64
+    } ],
+    "name" : "Wanderlust",
+    "type" : "album",
+    "uri" : "spotify:album:318SnTmLD23XDtu5Ms0MgT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6lBam1B1t8wpnH7pJHWnj6",
+    "id" : "6lBam1B1t8wpnH7pJHWnj6",
+    "name" : "Gavin Rossdale",
+    "type" : "artist",
+    "uri" : "spotify:artist:6lBam1B1t8wpnH7pJHWnj6"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 296133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USKO11101056"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/65uAYpfWN2JPPq42Bt9HfU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/65uAYpfWN2JPPq42Bt9HfU",
+  "id" : "65uAYpfWN2JPPq42Bt9HfU",
+  "name" : "Future World",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4822abc2bed19fff5384636a40764d7b8392a029?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:65uAYpfWN2JPPq42Bt9HfU"
+}

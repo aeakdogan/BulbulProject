@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC",
+      "id" : "5krkohEVJYw0qoB5VWwxaC",
+      "name" : "The Black Crowes",
+      "type" : "artist",
+      "uri" : "spotify:artist:5krkohEVJYw0qoB5VWwxaC"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/24HiWfZUNmTVQ5K1EJgnGJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/24HiWfZUNmTVQ5K1EJgnGJ",
+    "id" : "24HiWfZUNmTVQ5K1EJgnGJ",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/9567cd8a74ae3169a6bbef3ef7289c54019f6764",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/b7fca0fd63e93e5ab849aabe1284bb151fe7a7b3",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/b4acb4d70e7e3a80d426637c5c7201fc68bd0ad4",
+      "width" : 64
+    } ],
+    "name" : "Greatest Hits 1990-1999: A Tribute To A Work In Progress...",
+    "type" : "album",
+    "uri" : "spotify:album:24HiWfZUNmTVQ5K1EJgnGJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC",
+    "id" : "5krkohEVJYw0qoB5VWwxaC",
+    "name" : "The Black Crowes",
+    "type" : "artist",
+    "uri" : "spotify:artist:5krkohEVJYw0qoB5VWwxaC"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 274026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19000339"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5BxeyZpeEHaFzlhefhWkqd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5BxeyZpeEHaFzlhefhWkqd",
+  "id" : "5BxeyZpeEHaFzlhefhWkqd",
+  "name" : "Jealous Again",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/13213fbc712a2f97f4c5c26981cba82bc24f68c1?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5BxeyZpeEHaFzlhefhWkqd"
+}

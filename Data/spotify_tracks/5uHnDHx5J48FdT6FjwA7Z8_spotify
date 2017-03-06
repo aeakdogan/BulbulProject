@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5B6nt2q83Zxyz7FACDzRsU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5B6nt2q83Zxyz7FACDzRsU",
+    "id" : "5B6nt2q83Zxyz7FACDzRsU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/db91ce655428076f06c8738d04280585fca31144",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/69924beacceabc701ca58611412d799bd31d19d7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eb097396dbf84ff2c6f8a98062d7a918c7f67a57",
+      "width" : 64
+    } ],
+    "name" : "The Beach (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:5B6nt2q83Zxyz7FACDzRsU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5TDVKqW9uhqGjwwwKGuma4",
+    "id" : "5TDVKqW9uhqGjwwwKGuma4",
+    "name" : "All Saints",
+    "type" : "artist",
+    "uri" : "spotify:artist:5TDVKqW9uhqGjwwwKGuma4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 268746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAP0000001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5uHnDHx5J48FdT6FjwA7Z8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5uHnDHx5J48FdT6FjwA7Z8",
+  "id" : "5uHnDHx5J48FdT6FjwA7Z8",
+  "name" : "Pure Shores",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fc85b5f71fb0415b048a110e30be8d4f793e5835?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5uHnDHx5J48FdT6FjwA7Z8"
+}

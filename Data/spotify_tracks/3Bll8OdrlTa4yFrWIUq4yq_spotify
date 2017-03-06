@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jLcgJjDGmW0HmvbSf6lEI",
+      "id" : "4jLcgJjDGmW0HmvbSf6lEI",
+      "name" : "How To Dress Well",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jLcgJjDGmW0HmvbSf6lEI"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0BihdZOSMlgMios28Smkqb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0BihdZOSMlgMios28Smkqb",
+    "id" : "0BihdZOSMlgMios28Smkqb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5882477f635d9162e5a8eb690fa8f47e61dd2611",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4a169aa1cb71f6195174d97f5b660c80ccbbb30c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/09c9008d14a9040598765151b97069ed5b39e63e",
+      "width" : 64
+    } ],
+    "name" : "Total Loss",
+    "type" : "album",
+    "uri" : "spotify:album:0BihdZOSMlgMios28Smkqb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4jLcgJjDGmW0HmvbSf6lEI",
+    "id" : "4jLcgJjDGmW0HmvbSf6lEI",
+    "name" : "How To Dress Well",
+    "type" : "artist",
+    "uri" : "spotify:artist:4jLcgJjDGmW0HmvbSf6lEI"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 218093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CA47K1202502"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Bll8OdrlTa4yFrWIUq4yq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Bll8OdrlTa4yFrWIUq4yq",
+  "id" : "3Bll8OdrlTa4yFrWIUq4yq",
+  "name" : "Cold Nites",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/386d96bd69b19755ea27d4184d411351d99439ce?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3Bll8OdrlTa4yFrWIUq4yq"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+      "id" : "6kACVPfCOnqzgfEF5ryl0x",
+      "name" : "Johnny Cash",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2BlL4Gv2DLPu8p58Wcmlm9",
+    "id" : "2BlL4Gv2DLPu8p58Wcmlm9",
+    "images" : [ {
+      "height" : 638,
+      "url" : "https://i.scdn.co/image/caa334a497de0d0c321a28f4861f79d42ce4f9e9",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/d63eff952713141283ade1f3d185deed4916ed80",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e44622c420dce0d24d78203048c1fc96e1649480",
+      "width" : 64
+    } ],
+    "name" : "American IV: The Man Comes Around",
+    "type" : "album",
+    "uri" : "spotify:album:2BlL4Gv2DLPu8p58Wcmlm9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+    "id" : "6kACVPfCOnqzgfEF5ryl0x",
+    "name" : "Johnny Cash",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 266733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDJ20200643"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Jq9rsqmRtqcVKtzP9dnxZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Jq9rsqmRtqcVKtzP9dnxZ",
+  "id" : "3Jq9rsqmRtqcVKtzP9dnxZ",
+  "name" : "The Man Comes Around",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ed3bbe1330301b027be9d6cc1f8990b952ce7450?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3Jq9rsqmRtqcVKtzP9dnxZ"
+}

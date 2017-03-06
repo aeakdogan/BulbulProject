@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+      "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+      "name" : "Feist",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7bTdGfczXffzzNE9ssJj4Z",
+    "id" : "7bTdGfczXffzzNE9ssJj4Z",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/6c570e89a7f2a64b82a2d80eb488655e3fde873e",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/098f66f96594a8160041e6ae261981237e7a52e2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fd3a73ae5ee0420d270d15a9abc7491e4be58ff0",
+      "width" : 64
+    } ],
+    "name" : "The Reminder",
+    "type" : "album",
+    "uri" : "spotify:album:7bTdGfczXffzzNE9ssJj4Z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+    "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+    "name" : "Feist",
+    "type" : "artist",
+    "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 183666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRUM70600217"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2CzWeyC9zlDpIOZPUUKrBW",
+  "id" : "2CzWeyC9zlDpIOZPUUKrBW",
+  "name" : "1234",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/69285ed704c2dcca363ad72d0faad46d67e6c7db?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2CzWeyC9zlDpIOZPUUKrBW"
+}

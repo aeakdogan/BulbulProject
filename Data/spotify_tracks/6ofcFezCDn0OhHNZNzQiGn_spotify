@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DsdDxHs1zAwOgWDPgNS7l",
+      "id" : "1DsdDxHs1zAwOgWDPgNS7l",
+      "name" : "Dredg",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DsdDxHs1zAwOgWDPgNS7l"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0At7NC4DsQi0GSvrRDNn1E"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0At7NC4DsQi0GSvrRDNn1E",
+    "id" : "0At7NC4DsQi0GSvrRDNn1E",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a854c87e0e54387ad205c0ba074a300cabb32e0a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/536ca091116cba5b01cb94ac22a6ed6d7dff5dda",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5fcc111559ab713558d4c02ae1a045e5630fcbd6",
+      "width" : 64
+    } ],
+    "name" : "Leitmotif",
+    "type" : "album",
+    "uri" : "spotify:album:0At7NC4DsQi0GSvrRDNn1E"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DsdDxHs1zAwOgWDPgNS7l",
+    "id" : "1DsdDxHs1zAwOgWDPgNS7l",
+    "name" : "Dredg",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DsdDxHs1zAwOgWDPgNS7l"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 263466,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCAAX1153798"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ofcFezCDn0OhHNZNzQiGn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ofcFezCDn0OhHNZNzQiGn",
+  "id" : "6ofcFezCDn0OhHNZNzQiGn",
+  "name" : "Symbol Song",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c256d224aac99a2df0ec7c8edf4db56192bf4176?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6ofcFezCDn0OhHNZNzQiGn"
+}

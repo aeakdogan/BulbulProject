@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6IlOclSCHgJ9Aix6QEktkO",
+      "id" : "6IlOclSCHgJ9Aix6QEktkO",
+      "name" : "Brainstorm",
+      "type" : "artist",
+      "uri" : "spotify:artist:6IlOclSCHgJ9Aix6QEktkO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4VQxYtBkfG63oJTvSAezPZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4VQxYtBkfG63oJTvSAezPZ",
+    "id" : "4VQxYtBkfG63oJTvSAezPZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0575643a78e42a73c42bdfe79dbd9804c8879f96",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/184f21499704959229f344bc64978649f6865d6b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9c09f97cf8d850b464776c1c2d666ac5fd19b4f6",
+      "width" : 64
+    } ],
+    "name" : "Liquid Monster",
+    "type" : "album",
+    "uri" : "spotify:album:4VQxYtBkfG63oJTvSAezPZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6IlOclSCHgJ9Aix6QEktkO",
+    "id" : "6IlOclSCHgJ9Aix6QEktkO",
+    "name" : "Brainstorm",
+    "type" : "artist",
+    "uri" : "spotify:artist:6IlOclSCHgJ9Aix6QEktkO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 319800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMBR0501237"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1v7LL1JF5qiCxjZMODsx2Y"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1v7LL1JF5qiCxjZMODsx2Y",
+  "id" : "1v7LL1JF5qiCxjZMODsx2Y",
+  "name" : "Mask of Life",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0db8d03e7216492264ff163021301b5938750831?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1v7LL1JF5qiCxjZMODsx2Y"
+}

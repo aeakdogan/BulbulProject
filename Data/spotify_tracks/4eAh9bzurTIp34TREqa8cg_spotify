@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH",
+      "id" : "6Ghvu1VvMGScGpOUJBAHNH",
+      "name" : "Deftones",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3hBCkMqaYnCmJciEUKqyfC",
+    "id" : "3hBCkMqaYnCmJciEUKqyfC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/273903eb0272c6f7167a19a662c2e28c4dbfaea1",
+      "width" : 633
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/90b9bfc14894c30f1c6b2e41f68fcdd729196f28",
+      "width" : 297
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3dac22b8f8cde26f92fadb56bdda5e1c930762ba",
+      "width" : 63
+    } ],
+    "name" : "B-Sides & Rarities",
+    "type" : "album",
+    "uri" : "spotify:album:3hBCkMqaYnCmJciEUKqyfC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH",
+    "id" : "6Ghvu1VvMGScGpOUJBAHNH",
+    "name" : "Deftones",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 380640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMV20500180"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4eAh9bzurTIp34TREqa8cg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4eAh9bzurTIp34TREqa8cg",
+  "id" : "4eAh9bzurTIp34TREqa8cg",
+  "name" : "Simple Man",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d30a893f33a57e86f6760c5360ba93a430e587d6?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4eAh9bzurTIp34TREqa8cg"
+}

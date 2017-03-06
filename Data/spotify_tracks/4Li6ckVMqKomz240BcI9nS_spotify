@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2g8J4iI5qyYFMVHcpMcSsS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2g8J4iI5qyYFMVHcpMcSsS",
+      "id" : "2g8J4iI5qyYFMVHcpMcSsS",
+      "name" : "Bernard Wright",
+      "type" : "artist",
+      "uri" : "spotify:artist:2g8J4iI5qyYFMVHcpMcSsS"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0h9jz3jxtiA0zeuV066MTk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0h9jz3jxtiA0zeuV066MTk",
+    "id" : "0h9jz3jxtiA0zeuV066MTk",
+    "images" : [ {
+      "height" : 627,
+      "url" : "https://i.scdn.co/image/5c7f4e7e80476aa439b9b9e3aa05f9093ac26edd",
+      "width" : 640
+    }, {
+      "height" : 294,
+      "url" : "https://i.scdn.co/image/b96c5d65ba5a3ddae1194b9b2a30d67b044b9e42",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/e0bfc4c8002324bb2165cbf8bdb1b249e89cd8e9",
+      "width" : 64
+    } ],
+    "name" : "'Nard",
+    "type" : "album",
+    "uri" : "spotify:album:0h9jz3jxtiA0zeuV066MTk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2g8J4iI5qyYFMVHcpMcSsS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2g8J4iI5qyYFMVHcpMcSsS",
+    "id" : "2g8J4iI5qyYFMVHcpMcSsS",
+    "name" : "Bernard Wright",
+    "type" : "artist",
+    "uri" : "spotify:artist:2g8J4iI5qyYFMVHcpMcSsS"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 251880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR11000195"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Li6ckVMqKomz240BcI9nS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Li6ckVMqKomz240BcI9nS",
+  "id" : "4Li6ckVMqKomz240BcI9nS",
+  "name" : "Firebolt Hustle",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1bfae9c90350766c6c0a302e864d0e4097c787d?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4Li6ckVMqKomz240BcI9nS"
+}

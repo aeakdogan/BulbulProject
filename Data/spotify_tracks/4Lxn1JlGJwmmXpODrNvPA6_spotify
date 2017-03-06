@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/17Mb968quDHpjCkIyq30QV",
+      "id" : "17Mb968quDHpjCkIyq30QV",
+      "name" : "Hatebreed",
+      "type" : "artist",
+      "uri" : "spotify:artist:17Mb968quDHpjCkIyq30QV"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2UPZ06izR1OtTX80U30AfG",
+    "id" : "2UPZ06izR1OtTX80U30AfG",
+    "images" : [ {
+      "height" : 638,
+      "url" : "https://i.scdn.co/image/70ca455d80f68d87e4737ebd90324990b1a03a35",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/84d3aec20b2b44758ae30eec458d0b453da2ea09",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e49002bb2b493142ec789ece38808631e29fe345",
+      "width" : 64
+    } ],
+    "name" : "Perseverance",
+    "type" : "album",
+    "uri" : "spotify:album:2UPZ06izR1OtTX80U30AfG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/17Mb968quDHpjCkIyq30QV",
+    "id" : "17Mb968quDHpjCkIyq30QV",
+    "name" : "Hatebreed",
+    "type" : "artist",
+    "uri" : "spotify:artist:17Mb968quDHpjCkIyq30QV"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 178666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUR10111255"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Lxn1JlGJwmmXpODrNvPA6",
+  "id" : "4Lxn1JlGJwmmXpODrNvPA6",
+  "name" : "I Will Be Heard",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5194913dcc78e63d4ae4082042aff99845f4c632?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4Lxn1JlGJwmmXpODrNvPA6"
+}

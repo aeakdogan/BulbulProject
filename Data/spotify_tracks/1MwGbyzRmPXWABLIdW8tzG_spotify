@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp",
+      "id" : "5Wabl1lPdNOeIn0SQ5A1mp",
+      "name" : "Cocteau Twins",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5N2tixSCaFkwdtJIG0jQmi",
+    "id" : "5N2tixSCaFkwdtJIG0jQmi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b4eb0eaac9d99e1b850bc5190af7524a78cb3997",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5ab08d90d9dc56fd549d91e10959fb69624af8aa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4ab6a81351d148839816a616cb3770603b9f60bd",
+      "width" : 64
+    } ],
+    "name" : "Treasure",
+    "type" : "album",
+    "uri" : "spotify:album:5N2tixSCaFkwdtJIG0jQmi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp",
+    "id" : "5Wabl1lPdNOeIn0SQ5A1mp",
+    "name" : "Cocteau Twins",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 223573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAFL8400054"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1MwGbyzRmPXWABLIdW8tzG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1MwGbyzRmPXWABLIdW8tzG",
+  "id" : "1MwGbyzRmPXWABLIdW8tzG",
+  "name" : "Lorelei",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bd11276c309545d830d8a6dc658389d05bacf42e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1MwGbyzRmPXWABLIdW8tzG"
+}

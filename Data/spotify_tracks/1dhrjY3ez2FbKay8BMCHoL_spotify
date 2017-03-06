@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+      "id" : "2AsusXITU8P25dlRNhcAbG",
+      "name" : "Gotye",
+      "type" : "artist",
+      "uri" : "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1HjSyGjmLNjRAKgT9t1cna",
+    "id" : "1HjSyGjmLNjRAKgT9t1cna",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0c75da9ff305bc3b992812c3e63dc90d8767fceb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e4ddd16bdf0c0c4b0873f52215c09167420e403f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/75cf4369bdecd68245adf14471caafd95814a286",
+      "width" : 64
+    } ],
+    "name" : "Making Mirrors",
+    "type" : "album",
+    "uri" : "spotify:album:1HjSyGjmLNjRAKgT9t1cna"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+    "id" : "2AsusXITU8P25dlRNhcAbG",
+    "name" : "Gotye",
+    "type" : "artist",
+    "uri" : "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 198653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUZS21100049"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1dhrjY3ez2FbKay8BMCHoL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1dhrjY3ez2FbKay8BMCHoL",
+  "id" : "1dhrjY3ez2FbKay8BMCHoL",
+  "name" : "Bronte",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c375a1912409f238a95d743a9168a2ed1bf90fb4?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:1dhrjY3ez2FbKay8BMCHoL"
+}

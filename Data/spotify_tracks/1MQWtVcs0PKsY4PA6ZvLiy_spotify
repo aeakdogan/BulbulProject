@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD",
+      "id" : "5m8H6zSadhu1j9Yi04VLqD",
+      "name" : "Sly & The Family Stone",
+      "type" : "artist",
+      "uri" : "spotify:artist:5m8H6zSadhu1j9Yi04VLqD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2j9rvROPPJGn3xaRztD1rX",
+    "id" : "2j9rvROPPJGn3xaRztD1rX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/22fc6f544cddb143cf5faa368cb9688e83f418d9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d9ba9686748b190a5b23c99b089434a842dac855",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b00c6ba11a019d350b966688da5461d39bae2170",
+      "width" : 64
+    } ],
+    "name" : "Dance To The Music",
+    "type" : "album",
+    "uri" : "spotify:album:2j9rvROPPJGn3xaRztD1rX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD",
+    "id" : "5m8H6zSadhu1j9Yi04VLqD",
+    "name" : "Sly & The Family Stone",
+    "type" : "artist",
+    "uri" : "spotify:artist:5m8H6zSadhu1j9Yi04VLqD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 179426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19602683"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1MQWtVcs0PKsY4PA6ZvLiy",
+  "id" : "1MQWtVcs0PKsY4PA6ZvLiy",
+  "name" : "Dance to the Music",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/286bb87c816fcb6142cef99f446e3c0f8ff8dea7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1MQWtVcs0PKsY4PA6ZvLiy"
+}

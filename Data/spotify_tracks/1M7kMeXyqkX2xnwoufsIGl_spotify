@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+      "id" : "5nPOO9iTcrs9k6yFffPxjH",
+      "name" : "Röyksopp",
+      "type" : "artist",
+      "uri" : "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3j9uZWz5cXmabLTJxkgkp1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3j9uZWz5cXmabLTJxkgkp1",
+    "id" : "3j9uZWz5cXmabLTJxkgkp1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2f7e91bd3c06afc161577813fbb114fc7872e4f1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/005d0251a79954b70b1a43d03350cf5b3bb45899",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/987ab8e5df9ec60872bd3d131820198cb5615d53",
+      "width" : 64
+    } ],
+    "name" : "The Girl And The Robot",
+    "type" : "album",
+    "uri" : "spotify:album:3j9uZWz5cXmabLTJxkgkp1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+    "id" : "5nPOO9iTcrs9k6yFffPxjH",
+    "name" : "Röyksopp",
+    "type" : "artist",
+    "uri" : "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ110900819"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1M7kMeXyqkX2xnwoufsIGl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1M7kMeXyqkX2xnwoufsIGl",
+  "id" : "1M7kMeXyqkX2xnwoufsIGl",
+  "name" : "The Girl And The Robot - Chateau Marmont Remix",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/be1dcfe2c9c435fa885795f2a8bc751e43e6c1cb?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1M7kMeXyqkX2xnwoufsIGl"
+}

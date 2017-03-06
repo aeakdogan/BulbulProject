@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6w9ED7WnjSscMaY2RCVOHh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6w9ED7WnjSscMaY2RCVOHh",
+      "id" : "6w9ED7WnjSscMaY2RCVOHh",
+      "name" : "Shy Child",
+      "type" : "artist",
+      "uri" : "spotify:artist:6w9ED7WnjSscMaY2RCVOHh"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6IrJmLFnYDml8OTQutIOju"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6IrJmLFnYDml8OTQutIOju",
+    "id" : "6IrJmLFnYDml8OTQutIOju",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/101748abe47f22daf1b145db4e8e4378611ea652",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7b153404d8e06582768a7b34e63e7f637fed016b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/611e13dc0a521aee452ea504cc327b9d77fab032",
+      "width" : 64
+    } ],
+    "name" : "Noise Won't Stop",
+    "type" : "album",
+    "uri" : "spotify:album:6IrJmLFnYDml8OTQutIOju"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6w9ED7WnjSscMaY2RCVOHh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6w9ED7WnjSscMaY2RCVOHh",
+    "id" : "6w9ED7WnjSscMaY2RCVOHh",
+    "name" : "Shy Child",
+    "type" : "artist",
+    "uri" : "spotify:artist:6w9ED7WnjSscMaY2RCVOHh"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USKRS0849410"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7jjrS3ZLO7pKVP8iW0oGbd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7jjrS3ZLO7pKVP8iW0oGbd",
+  "id" : "7jjrS3ZLO7pKVP8iW0oGbd",
+  "name" : "Summer",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7a02b617a9c64ef7e84e1e766f583dd2d90efc20?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:7jjrS3ZLO7pKVP8iW0oGbd"
+}

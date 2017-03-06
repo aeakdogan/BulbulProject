@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2hgP9Ap2tc10R5jrQaEpMT",
+      "id" : "2hgP9Ap2tc10R5jrQaEpMT",
+      "name" : "Charles Aznavour",
+      "type" : "artist",
+      "uri" : "spotify:artist:2hgP9Ap2tc10R5jrQaEpMT"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GB", "GT", "HN", "IE", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/60p5I1qnx2xoHKnPLi24H6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/60p5I1qnx2xoHKnPLi24H6",
+    "id" : "60p5I1qnx2xoHKnPLi24H6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1030b286a292a276c88b533970ad2b00a5ce08ed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4fe8b8817e9b7811d0591abc5d5271f434cce3c8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aeaea45d6726d39eb7bd3c4d1ae124c057ae9eef",
+      "width" : 64
+    } ],
+    "name" : "Best of 40 chansons",
+    "type" : "album",
+    "uri" : "spotify:album:60p5I1qnx2xoHKnPLi24H6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2hgP9Ap2tc10R5jrQaEpMT",
+    "id" : "2hgP9Ap2tc10R5jrQaEpMT",
+    "name" : "Charles Aznavour",
+    "type" : "artist",
+    "uri" : "spotify:artist:2hgP9Ap2tc10R5jrQaEpMT"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GB", "GT", "HN", "IE", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 142653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ116400590"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6az95TnTBmLIbDdzOAhxfM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6az95TnTBmLIbDdzOAhxfM",
+  "id" : "6az95TnTBmLIbDdzOAhxfM",
+  "name" : "Le palais de nos chimères",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b8c3f205f8c441f91bfdc5e15f6ca5dd08a20e0e?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6az95TnTBmLIbDdzOAhxfM"
+}

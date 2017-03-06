@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
+      "id" : "6J7biCazzYhU3gM9j1wfid",
+      "name" : "Jamiroquai",
+      "type" : "artist",
+      "uri" : "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7uG6DZHTBiDlrSXA43WpMb",
+    "id" : "7uG6DZHTBiDlrSXA43WpMb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a509b6257490252bf0c5caa663ac7f484d4f331c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f8a04bfe35b71d9ca430b28906789868f1a41911",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/34abc335db9261364d2400570774d2dfc128c207",
+      "width" : 64
+    } ],
+    "name" : "Dynamite",
+    "type" : "album",
+    "uri" : "spotify:album:7uG6DZHTBiDlrSXA43WpMb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
+    "id" : "6J7biCazzYhU3gM9j1wfid",
+    "name" : "Jamiroquai",
+    "type" : "artist",
+    "uri" : "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 301733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBN0500503"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/320jemn3T0wyKW1sxzLz7f"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/320jemn3T0wyKW1sxzLz7f",
+  "id" : "320jemn3T0wyKW1sxzLz7f",
+  "name" : "Time Won't Wait",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cc7d8ac13ba7d9cb0ff8139647c91019487302f5?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:320jemn3T0wyKW1sxzLz7f"
+}

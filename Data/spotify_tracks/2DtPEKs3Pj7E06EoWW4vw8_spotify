@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1AZ30JnvQU1pbX6sbRE0Yn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1AZ30JnvQU1pbX6sbRE0Yn",
+      "id" : "1AZ30JnvQU1pbX6sbRE0Yn",
+      "name" : "Poets of the Fall",
+      "type" : "artist",
+      "uri" : "spotify:artist:1AZ30JnvQU1pbX6sbRE0Yn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4X31KgSWm7phaB0kAKKzgs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4X31KgSWm7phaB0kAKKzgs",
+    "id" : "4X31KgSWm7phaB0kAKKzgs",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/f6e37eb22c1e8d4d8fbac6089646e6bd23dcf8da",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fe87e58ad1ff0fdca1db345d68fde480ef962298",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b1061bc5cda00c9f762e95a1c3f6585ce4f521f4",
+      "width" : 64
+    } ],
+    "name" : "Carnival of Rust",
+    "type" : "album",
+    "uri" : "spotify:album:4X31KgSWm7phaB0kAKKzgs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1AZ30JnvQU1pbX6sbRE0Yn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1AZ30JnvQU1pbX6sbRE0Yn",
+    "id" : "1AZ30JnvQU1pbX6sbRE0Yn",
+    "name" : "Poets of the Fall",
+    "type" : "artist",
+    "uri" : "spotify:artist:1AZ30JnvQU1pbX6sbRE0Yn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 262946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FIP9F0600011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2DtPEKs3Pj7E06EoWW4vw8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2DtPEKs3Pj7E06EoWW4vw8",
+  "id" : "2DtPEKs3Pj7E06EoWW4vw8",
+  "name" : "Carnival of Rust",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dbf1484c97a243c29b71e23c398a6f3b63404e93?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2DtPEKs3Pj7E06EoWW4vw8"
+}

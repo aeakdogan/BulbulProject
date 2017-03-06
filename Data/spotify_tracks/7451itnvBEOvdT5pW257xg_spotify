@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pQN0GB0fNEEOfQCaWotsY",
+      "id" : "4pQN0GB0fNEEOfQCaWotsY",
+      "name" : "Helloween",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pQN0GB0fNEEOfQCaWotsY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2UHFdmz05GmEY0J0ZbuMBp",
+    "id" : "2UHFdmz05GmEY0J0ZbuMBp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3464abea74d2ab78fa205bfce2a68b5f159b0df2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5070bb94ad8e89fcd8318ce4b22f3065f2ab6490",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/34b50c0d96cdeedf2440bbc365ac90ec1796d4e9",
+      "width" : 64
+    } ],
+    "name" : "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:2UHFdmz05GmEY0J0ZbuMBp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4pQN0GB0fNEEOfQCaWotsY",
+    "id" : "4pQN0GB0fNEEOfQCaWotsY",
+    "name" : "Helloween",
+    "type" : "artist",
+    "uri" : "spotify:artist:4pQN0GB0fNEEOfQCaWotsY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 240586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJE0509129"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7451itnvBEOvdT5pW257xg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7451itnvBEOvdT5pW257xg",
+  "id" : "7451itnvBEOvdT5pW257xg",
+  "name" : "A Little Time",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9224b9c6efeee1226e9b0d653ab028a290569727?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7451itnvBEOvdT5pW257xg"
+}

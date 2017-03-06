@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ApBh0VSoxRjjT3kFQZrpz",
+      "id" : "1ApBh0VSoxRjjT3kFQZrpz",
+      "name" : "Flotsam & Jetsam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ApBh0VSoxRjjT3kFQZrpz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/14hiNTA0x8lnkeq5bngMzF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/14hiNTA0x8lnkeq5bngMzF",
+    "id" : "14hiNTA0x8lnkeq5bngMzF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e75113ed58c648371b2fc1a56f0f9a7470517d82",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/de9974051871b457461bec35c14ddbfddc699f6a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/02becbffbf1ac2993e226ebe2b134fd70f86e077",
+      "width" : 64
+    } ],
+    "name" : "My God",
+    "type" : "album",
+    "uri" : "spotify:album:14hiNTA0x8lnkeq5bngMzF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ApBh0VSoxRjjT3kFQZrpz",
+    "id" : "1ApBh0VSoxRjjT3kFQZrpz",
+    "name" : "Flotsam & Jetsam",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ApBh0VSoxRjjT3kFQZrpz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 227400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMBR0400369"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6a5xoZrWFMPVN37hXXKGWN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6a5xoZrWFMPVN37hXXKGWN",
+  "id" : "6a5xoZrWFMPVN37hXXKGWN",
+  "name" : "Camera Eye",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b47bbeb4e57c828ef75ac01b3300f377b005d1f0?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6a5xoZrWFMPVN37hXXKGWN"
+}

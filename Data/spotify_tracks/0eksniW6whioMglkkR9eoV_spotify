@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ZWvN9FEfdTea1SEHjpTNi",
+      "id" : "4ZWvN9FEfdTea1SEHjpTNi",
+      "name" : "Pinback",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ZWvN9FEfdTea1SEHjpTNi"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7huheuCQpn4l6OHK9sEyzo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7huheuCQpn4l6OHK9sEyzo",
+    "id" : "7huheuCQpn4l6OHK9sEyzo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bf209cc9bd607207acb73f9a94c2fee7fa6fc98e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a7a168493bda2503478e954f1b9d01b0a351719e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c920493b96492203677ff26235b9cfcd65ed65f8",
+      "width" : 64
+    } ],
+    "name" : "Some Voices",
+    "type" : "album",
+    "uri" : "spotify:album:7huheuCQpn4l6OHK9sEyzo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4ZWvN9FEfdTea1SEHjpTNi",
+    "id" : "4ZWvN9FEfdTea1SEHjpTNi",
+    "name" : "Pinback",
+    "type" : "artist",
+    "uri" : "spotify:artist:4ZWvN9FEfdTea1SEHjpTNi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 437520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2K70310184"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0eksniW6whioMglkkR9eoV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0eksniW6whioMglkkR9eoV",
+  "id" : "0eksniW6whioMglkkR9eoV",
+  "name" : "June",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c6e1def1d6ac85517a0039608c2d9a4453aed04e?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0eksniW6whioMglkkR9eoV"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1OYQ8FaGjBFrENUZ1RLvMG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1OYQ8FaGjBFrENUZ1RLvMG",
+      "id" : "1OYQ8FaGjBFrENUZ1RLvMG",
+      "name" : "The Long Blondes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1OYQ8FaGjBFrENUZ1RLvMG"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0PsH7ENWtMROkHjHwqSDgH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0PsH7ENWtMROkHjHwqSDgH",
+    "id" : "0PsH7ENWtMROkHjHwqSDgH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dcdbf61bfa980b0854e29dd63945abf894541bfa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/07eaa23e735eb66f832ec3c407f3b1327c2ca723",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5e17947420ff3506b4b8822a995dfe1f3c96d342",
+      "width" : 64
+    } ],
+    "name" : "Someone To Drive You Home (Standard Version)",
+    "type" : "album",
+    "uri" : "spotify:album:0PsH7ENWtMROkHjHwqSDgH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1OYQ8FaGjBFrENUZ1RLvMG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1OYQ8FaGjBFrENUZ1RLvMG",
+    "id" : "1OYQ8FaGjBFrENUZ1RLvMG",
+    "name" : "The Long Blondes",
+    "type" : "artist",
+    "uri" : "spotify:artist:1OYQ8FaGjBFrENUZ1RLvMG"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 310346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVZ0601696"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/34YVqIBDxEpo1rVk5uA0Ea"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/34YVqIBDxEpo1rVk5uA0Ea",
+  "id" : "34YVqIBDxEpo1rVk5uA0Ea",
+  "name" : "Giddy Stratospheres",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4fc5bc1290a901d03f2dbb1bce22306db7869128?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:34YVqIBDxEpo1rVk5uA0Ea"
+}

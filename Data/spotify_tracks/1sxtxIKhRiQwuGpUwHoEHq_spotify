@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+      "id" : "6PAt558ZEZl0DmdXlnjMgD",
+      "name" : "Eric Clapton",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/64hcdH7h8noDQg9Zr5COkc",
+    "id" : "64hcdH7h8noDQg9Zr5COkc",
+    "images" : [ {
+      "height" : 627,
+      "url" : "https://i.scdn.co/image/4a65ca14184eb7df5e161fdc773ff9bff0646b53",
+      "width" : 640
+    }, {
+      "height" : 294,
+      "url" : "https://i.scdn.co/image/3d72cc53aa85c3692273d943663c9cd1e634a42e",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/cc6ab4d9b25e3f2f9530fa3d43db40800427bf7a",
+      "width" : 64
+    } ],
+    "name" : "The Cream Of Clapton",
+    "type" : "album",
+    "uri" : "spotify:album:64hcdH7h8noDQg9Zr5COkc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/74oJ4qxwOZvX6oSsu1DGnw",
+    "id" : "74oJ4qxwOZvX6oSsu1DGnw",
+    "name" : "Cream",
+    "type" : "artist",
+    "uri" : "spotify:artist:74oJ4qxwOZvX6oSsu1DGnw"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 255600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBA076800010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1sxtxIKhRiQwuGpUwHoEHq",
+  "id" : "1sxtxIKhRiQwuGpUwHoEHq",
+  "name" : "Crossroads",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d74b62d96693a571defc7d30e9be40f6249e9754?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1sxtxIKhRiQwuGpUwHoEHq"
+}

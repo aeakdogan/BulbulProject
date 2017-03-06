@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3JulrApLVT81sb2HkfwMks",
+      "id" : "3JulrApLVT81sb2HkfwMks",
+      "name" : "John Martyn",
+      "type" : "artist",
+      "uri" : "spotify:artist:3JulrApLVT81sb2HkfwMks"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0h1ruavpzNOYbjwg5oC0fg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0h1ruavpzNOYbjwg5oC0fg",
+    "id" : "0h1ruavpzNOYbjwg5oC0fg",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/3a0a6c0784d683fdc1b11c8be680077088f271f6",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/8634a44482649bce1c54dc85e703dfe89fbc01a7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/77974be1b96cbde045f626292d56cb8c83e71679",
+      "width" : 64
+    } ],
+    "name" : "Bless The Weather",
+    "type" : "album",
+    "uri" : "spotify:album:0h1ruavpzNOYbjwg5oC0fg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3JulrApLVT81sb2HkfwMks",
+    "id" : "3JulrApLVT81sb2HkfwMks",
+    "name" : "John Martyn",
+    "type" : "artist",
+    "uri" : "spotify:artist:3JulrApLVT81sb2HkfwMks"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 157760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN7100040"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1KrR8XY1bJjXFDNo0jKFVV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1KrR8XY1bJjXFDNo0jKFVV",
+  "id" : "1KrR8XY1bJjXFDNo0jKFVV",
+  "name" : "Back Down The River",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0ed8ec69cdeee636791c17c76afded5f6a33e66f?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1KrR8XY1bJjXFDNo0jKFVV"
+}

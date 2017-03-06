@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2aeccL0hsJAfsP56dRdrBI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2aeccL0hsJAfsP56dRdrBI",
+      "id" : "2aeccL0hsJAfsP56dRdrBI",
+      "name" : "Lungfish",
+      "type" : "artist",
+      "uri" : "spotify:artist:2aeccL0hsJAfsP56dRdrBI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1H9efSvsEyEDk1z0pr2aNu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1H9efSvsEyEDk1z0pr2aNu",
+    "id" : "1H9efSvsEyEDk1z0pr2aNu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b2423f820334fd900e4f99d9344c2a2bcaefca14",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4d1b94c001ef4b458807e8dee58737d82473596c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ec6144a2437eae1124ffa02aa5f8152b761f259b",
+      "width" : 64
+    } ],
+    "name" : "Love Is Love",
+    "type" : "album",
+    "uri" : "spotify:album:1H9efSvsEyEDk1z0pr2aNu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2aeccL0hsJAfsP56dRdrBI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2aeccL0hsJAfsP56dRdrBI",
+    "id" : "2aeccL0hsJAfsP56dRdrBI",
+    "name" : "Lungfish",
+    "type" : "artist",
+    "uri" : "spotify:artist:2aeccL0hsJAfsP56dRdrBI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 186400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US35U0413701"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6SpPU9JU6gSgL7ALa7Wh8S"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6SpPU9JU6gSgL7ALa7Wh8S",
+  "id" : "6SpPU9JU6gSgL7ALa7Wh8S",
+  "name" : "Love Is Love",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b4823ff50639d5f8c7a5645bbca80c8b8983e559?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6SpPU9JU6gSgL7ALa7Wh8S"
+}

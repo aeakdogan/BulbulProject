@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+      "id" : "6mdiAmATAx73kdxrNrnlao",
+      "name" : "Iron Maiden",
+      "type" : "artist",
+      "uri" : "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7Fu5RydhgnK4BfJI9I7DvN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7Fu5RydhgnK4BfJI9I7DvN",
+    "id" : "7Fu5RydhgnK4BfJI9I7DvN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/584be0b5f4ccf3070b5631fba985e9e98c819d28",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f6c3fca2e900b71025b0c51ffca0786ec5bc915d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eb41615641d5d83152b350c77e13288290e25bae",
+      "width" : 64
+    } ],
+    "name" : "From Fear to Eternity: The Best of 1990-2010",
+    "type" : "album",
+    "uri" : "spotify:album:7Fu5RydhgnK4BfJI9I7DvN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+    "id" : "6mdiAmATAx73kdxrNrnlao",
+    "name" : "Iron Maiden",
+    "type" : "artist",
+    "uri" : "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 517173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCHB0310303"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1PSseRXcDPBPqsnlfeoipN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1PSseRXcDPBPqsnlfeoipN",
+  "id" : "1PSseRXcDPBPqsnlfeoipN",
+  "name" : "Dance Of Death",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e1095213f76e274fab361d5e79aed54fd58a82a8?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1PSseRXcDPBPqsnlfeoipN"
+}

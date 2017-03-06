@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5iFyVnPvgc3b4bduxnqn6l",
+      "id" : "5iFyVnPvgc3b4bduxnqn6l",
+      "name" : "Bo Saris",
+      "type" : "artist",
+      "uri" : "spotify:artist:5iFyVnPvgc3b4bduxnqn6l"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1WqNE71FGlu13V2bH5PViU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1WqNE71FGlu13V2bH5PViU",
+    "id" : "1WqNE71FGlu13V2bH5PViU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7d9ab8f888597c03e8042b338b4042c434e6a71c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6a17527fbf2a5939ca24e58dd2e03a489d649920",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e03669224fb257bc5e468e2c51d359aeea0e6147",
+      "width" : 64
+    } ],
+    "name" : "The Addict",
+    "type" : "album",
+    "uri" : "spotify:album:1WqNE71FGlu13V2bH5PViU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5iFyVnPvgc3b4bduxnqn6l",
+    "id" : "5iFyVnPvgc3b4bduxnqn6l",
+    "name" : "Bo Saris",
+    "type" : "artist",
+    "uri" : "spotify:artist:5iFyVnPvgc3b4bduxnqn6l"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71301877"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7Giw7ANbu1u0pD46wRgdTz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7Giw7ANbu1u0pD46wRgdTz",
+  "id" : "7Giw7ANbu1u0pD46wRgdTz",
+  "name" : "The Addict",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4956687a979548c26a24579498d9a76bfc147f44?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7Giw7ANbu1u0pD46wRgdTz"
+}

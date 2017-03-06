@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5NCKpzuowtihcIrIHFjKbJ",
+      "id" : "5NCKpzuowtihcIrIHFjKbJ",
+      "name" : "Nitin Sawhney",
+      "type" : "artist",
+      "uri" : "spotify:artist:5NCKpzuowtihcIrIHFjKbJ"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5MOGugiNoZ9uLU0EG8PGju"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5MOGugiNoZ9uLU0EG8PGju",
+    "id" : "5MOGugiNoZ9uLU0EG8PGju",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9caa0ea6720753a45264cdebffdcbd0a0755de7b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5c3a2a82620399f38ca82c82a7f30d84988fe355",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9b9213083f1fb0a0fc7f62f9978b136aa074963a",
+      "width" : 64
+    } ],
+    "name" : "Prophesy",
+    "type" : "album",
+    "uri" : "spotify:album:5MOGugiNoZ9uLU0EG8PGju"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5NCKpzuowtihcIrIHFjKbJ",
+    "id" : "5NCKpzuowtihcIrIHFjKbJ",
+    "name" : "Nitin Sawhney",
+    "type" : "artist",
+    "uri" : "spotify:artist:5NCKpzuowtihcIrIHFjKbJ"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 285346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBLK0100040"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4LVtTsvnEY5Y45Csrz6cjG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4LVtTsvnEY5Y45Csrz6cjG",
+  "id" : "4LVtTsvnEY5Y45Csrz6cjG",
+  "name" : "Sunset",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/959fba2398706b8548de544d019992867c3e0f10?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4LVtTsvnEY5Y45Csrz6cjG"
+}

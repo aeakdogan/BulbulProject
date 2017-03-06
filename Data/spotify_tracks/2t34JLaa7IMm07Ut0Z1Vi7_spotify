@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L",
+      "id" : "2TI7qyDE0QfyOlnbtfDo7L",
+      "name" : "Dave Matthews Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:2TI7qyDE0QfyOlnbtfDo7L"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1D5z8QDWSmYm6MwrtLINYY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1D5z8QDWSmYm6MwrtLINYY",
+    "id" : "1D5z8QDWSmYm6MwrtLINYY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d29a3b98914ad103ab79c3fd72a4017a1869acd9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4a5a9f37f23846e70662ce0d9b9a2c5306dea22e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/706044fce3646036e5f19ff349eca4391f2ab703",
+      "width" : 64
+    } ],
+    "name" : "Busted Stuff",
+    "type" : "album",
+    "uri" : "spotify:album:1D5z8QDWSmYm6MwrtLINYY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2TI7qyDE0QfyOlnbtfDo7L",
+    "id" : "2TI7qyDE0QfyOlnbtfDo7L",
+    "name" : "Dave Matthews Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:2TI7qyDE0QfyOlnbtfDo7L"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 304493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC10200369"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2t34JLaa7IMm07Ut0Z1Vi7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2t34JLaa7IMm07Ut0Z1Vi7",
+  "id" : "2t34JLaa7IMm07Ut0Z1Vi7",
+  "name" : "Big Eyed Fish",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7a5beda860f6e7a7a0a89679e88ec898ecbc2a89?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2t34JLaa7IMm07Ut0Z1Vi7"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Y7tXHSEejGu1vQ9bwDdXW",
+      "id" : "4Y7tXHSEejGu1vQ9bwDdXW",
+      "name" : "Fatboy Slim",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Y7tXHSEejGu1vQ9bwDdXW"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Y4bIqSYLUyyLO0ZxIGpst",
+    "id" : "3Y4bIqSYLUyyLO0ZxIGpst",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/16290a4be69d051411d061144f4bc1ed9035f2f5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e6532179067569777404c5b4624114af0d3cc441",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/89eb11d62336d481e197db9a866648879a15c2eb",
+      "width" : 64
+    } ],
+    "name" : "Halfway Between The Gutter And The Stars",
+    "type" : "album",
+    "uri" : "spotify:album:3Y4bIqSYLUyyLO0ZxIGpst"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4Y7tXHSEejGu1vQ9bwDdXW",
+    "id" : "4Y7tXHSEejGu1vQ9bwDdXW",
+    "name" : "Fatboy Slim",
+    "type" : "artist",
+    "uri" : "spotify:artist:4Y7tXHSEejGu1vQ9bwDdXW"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 223520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBMQ0000112"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7zrcNlGoGQeiY51cJfHR0u"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7zrcNlGoGQeiY51cJfHR0u",
+  "id" : "7zrcNlGoGQeiY51cJfHR0u",
+  "name" : "Talking Bout My Baby",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0450128eed66f2f5bdccf2edf11061f7a00e603d?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7zrcNlGoGQeiY51cJfHR0u"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1rAv1GhTQ2rmG94p9lU3rB",
+      "id" : "1rAv1GhTQ2rmG94p9lU3rB",
+      "name" : "Julian Casablancas",
+      "type" : "artist",
+      "uri" : "spotify:artist:1rAv1GhTQ2rmG94p9lU3rB"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6IN7WBkcwRA1o87hVFaCa3",
+    "id" : "6IN7WBkcwRA1o87hVFaCa3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aecb3cc480500a3af18d42f29bc4b88eb6ac3ff2",
+      "width" : 630
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c2c9f9c52190e0261da8afddb453bf629805d8b9",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/633351b6e36fea565f5d66a50d808eeb512ec72e",
+      "width" : 63
+    } ],
+    "name" : "Phrazes For The Young",
+    "type" : "album",
+    "uri" : "spotify:album:6IN7WBkcwRA1o87hVFaCa3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1rAv1GhTQ2rmG94p9lU3rB",
+    "id" : "1rAv1GhTQ2rmG94p9lU3rB",
+    "name" : "Julian Casablancas",
+    "type" : "artist",
+    "uri" : "spotify:artist:1rAv1GhTQ2rmG94p9lU3rB"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 320653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC10900514"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1eSNIUtkDHVOMSBpE1aOcq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1eSNIUtkDHVOMSBpE1aOcq",
+  "id" : "1eSNIUtkDHVOMSBpE1aOcq",
+  "name" : "Glass",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b61bda80c563980282930433df4fff501410d14b?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:1eSNIUtkDHVOMSBpE1aOcq"
+}

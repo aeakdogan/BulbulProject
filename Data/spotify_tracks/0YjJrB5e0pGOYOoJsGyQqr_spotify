@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH",
+      "id" : "7Lf3LOZp3U3u2f6cWMd3AH",
+      "name" : "Paul Weller",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7AvcVBynPo1QaGjfzNTpZs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7AvcVBynPo1QaGjfzNTpZs",
+    "id" : "7AvcVBynPo1QaGjfzNTpZs",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/2244380941f7c85c76c7aeaacbb017787170e210",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/8e28b3fabc63d5f7db9149268d4c083be535041b",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/524d6a8a32a7914e0e016664ca38db6a00a78ba7",
+      "width" : 64
+    } ],
+    "name" : "Wild Wood",
+    "type" : "album",
+    "uri" : "spotify:album:7AvcVBynPo1QaGjfzNTpZs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH",
+    "id" : "7Lf3LOZp3U3u2f6cWMd3AH",
+    "name" : "Paul Weller",
+    "type" : "artist",
+    "uri" : "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 110733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAQT9400013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0YjJrB5e0pGOYOoJsGyQqr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0YjJrB5e0pGOYOoJsGyQqr",
+  "id" : "0YjJrB5e0pGOYOoJsGyQqr",
+  "name" : "Holy Man - Reprise",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b5743be4937662c96fecce8263e5a585b3c25617?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:0YjJrB5e0pGOYOoJsGyQqr"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR",
+      "id" : "2P560DaOMNDUACoH8ZhOCR",
+      "name" : "The Jam",
+      "type" : "artist",
+      "uri" : "spotify:artist:2P560DaOMNDUACoH8ZhOCR"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4DkUmnDgrkBTk1RGLCTZcb",
+    "id" : "4DkUmnDgrkBTk1RGLCTZcb",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/ce4484c6a8ae7f62ed22b03c483a2d3c04196ef0",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/7c1b3d47aa13bd3a349d04eecd8deae8510a1e17",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/57bb6ab98008331989c145afd2bd1ac1641284b8",
+      "width" : 64
+    } ],
+    "name" : "Sound Affects (Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:4DkUmnDgrkBTk1RGLCTZcb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2P560DaOMNDUACoH8ZhOCR",
+    "id" : "2P560DaOMNDUACoH8ZhOCR",
+    "name" : "The Jam",
+    "type" : "artist",
+    "uri" : "spotify:artist:2P560DaOMNDUACoH8ZhOCR"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 232400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAKW8001009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/34J7pHXlChQTRu44JHWntb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/34J7pHXlChQTRu44JHWntb",
+  "id" : "34J7pHXlChQTRu44JHWntb",
+  "name" : "Dream Time",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/141774f7621e16b0880253bae2f9ca043fb1fedc?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:34J7pHXlChQTRu44JHWntb"
+}

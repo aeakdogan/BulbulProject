@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+      "name" : "Metallica",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4kwN2OnnrwY2ZBcm379Ahn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4kwN2OnnrwY2ZBcm379Ahn",
+    "id" : "4kwN2OnnrwY2ZBcm379Ahn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7fae0641ade1a4f16fd964f69f9c773d9dc74c32",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d52b53e1f0dd70bc2e4bb655b40c1cf13728cb70",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b6f2278351df85a60f41d65e96f3502ea9215191",
+      "width" : 64
+    } ],
+    "name" : "St. Anger",
+    "type" : "album",
+    "uri" : "spotify:album:4kwN2OnnrwY2ZBcm379Ahn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+    "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+    "name" : "Metallica",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 313933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10340437"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5zmbojPlEp4de0HOrw6Ncv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5zmbojPlEp4de0HOrw6Ncv",
+  "id" : "5zmbojPlEp4de0HOrw6Ncv",
+  "name" : "Purify",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aa1a386952ed4edeb89c928cd8f9d8b49d26feb9?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:5zmbojPlEp4de0HOrw6Ncv"
+}

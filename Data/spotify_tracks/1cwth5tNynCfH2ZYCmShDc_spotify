@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/23xJQJM7peht77DF6YNEoq",
+      "id" : "23xJQJM7peht77DF6YNEoq",
+      "name" : "Model",
+      "type" : "artist",
+      "uri" : "spotify:artist:23xJQJM7peht77DF6YNEoq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7tF0MZQNVA3pRwwcwN4obL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7tF0MZQNVA3pRwwcwN4obL",
+    "id" : "7tF0MZQNVA3pRwwcwN4obL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/09d5715020d61c42dbe2808f5c52ed8340fe906d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f2a88d6dec69c38ed690c59a4107d4f28d105079",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d139599dfcc06431d982ea7d533f3d222443d907",
+      "width" : 64
+    } ],
+    "name" : "Diğer Masallar",
+    "type" : "album",
+    "uri" : "spotify:album:7tF0MZQNVA3pRwwcwN4obL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/23xJQJM7peht77DF6YNEoq",
+    "id" : "23xJQJM7peht77DF6YNEoq",
+    "name" : "Model",
+    "type" : "artist",
+    "uri" : "spotify:artist:23xJQJM7peht77DF6YNEoq"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 255346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR9491100005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1cwth5tNynCfH2ZYCmShDc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1cwth5tNynCfH2ZYCmShDc",
+  "id" : "1cwth5tNynCfH2ZYCmShDc",
+  "name" : "Pembe Mezarlık",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/651d0905903b431128ab74fd9100d7ed73b55b08?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1cwth5tNynCfH2ZYCmShDc"
+}

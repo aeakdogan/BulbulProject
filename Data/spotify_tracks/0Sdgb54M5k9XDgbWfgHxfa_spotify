@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1IjPJum5sJ6iSr3mBsSYJk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1IjPJum5sJ6iSr3mBsSYJk",
+      "id" : "1IjPJum5sJ6iSr3mBsSYJk",
+      "name" : "Client",
+      "type" : "artist",
+      "uri" : "spotify:artist:1IjPJum5sJ6iSr3mBsSYJk"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2df2wQHB8Tj7DHqsVgZgAN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2df2wQHB8Tj7DHqsVgZgAN",
+    "id" : "2df2wQHB8Tj7DHqsVgZgAN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/07da35345dfc6d13a6dfd9b03e8977f1c976e1ca",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6dc14d14c8923c8c14fdcb28b213b5efb7689e58",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1699090af596f966c1176ff01e6148e8794a7298",
+      "width" : 64
+    } ],
+    "name" : "Client",
+    "type" : "album",
+    "uri" : "spotify:album:2df2wQHB8Tj7DHqsVgZgAN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1IjPJum5sJ6iSr3mBsSYJk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1IjPJum5sJ6iSr3mBsSYJk",
+    "id" : "1IjPJum5sJ6iSr3mBsSYJk",
+    "name" : "Client",
+    "type" : "artist",
+    "uri" : "spotify:artist:1IjPJum5sJ6iSr3mBsSYJk"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 232586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0300278"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Sdgb54M5k9XDgbWfgHxfa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Sdgb54M5k9XDgbWfgHxfa",
+  "id" : "0Sdgb54M5k9XDgbWfgHxfa",
+  "name" : "Price Of Love",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b84afa95a986413a6b49fb8f138dc63f269fd21e?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0Sdgb54M5k9XDgbWfgHxfa"
+}

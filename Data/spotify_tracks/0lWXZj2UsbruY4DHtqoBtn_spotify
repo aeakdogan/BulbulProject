@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02uPe16VFxPaiueQsPEDkE",
+      "id" : "02uPe16VFxPaiueQsPEDkE",
+      "name" : "The Album Leaf",
+      "type" : "artist",
+      "uri" : "spotify:artist:02uPe16VFxPaiueQsPEDkE"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1pFrCdJfefM5UgijeacUpB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1pFrCdJfefM5UgijeacUpB",
+    "id" : "1pFrCdJfefM5UgijeacUpB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cd21849a21032172c104f2fa143b235129454398",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/93b291fe9a83b558df8a68ae2236992f0e541053",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/be38d706cd006d2aa62d2c7e9fc0ba936ac179e3",
+      "width" : 64
+    } ],
+    "name" : "Into The Blue Again",
+    "type" : "album",
+    "uri" : "spotify:album:1pFrCdJfefM5UgijeacUpB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/02uPe16VFxPaiueQsPEDkE",
+    "id" : "02uPe16VFxPaiueQsPEDkE",
+    "name" : "The Album Leaf",
+    "type" : "artist",
+    "uri" : "spotify:artist:02uPe16VFxPaiueQsPEDkE"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 307200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB0670802"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0lWXZj2UsbruY4DHtqoBtn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0lWXZj2UsbruY4DHtqoBtn",
+  "id" : "0lWXZj2UsbruY4DHtqoBtn",
+  "name" : "Always For You",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f2a295ca94cead2b2f74d5b4e3fcfcfea60e3a70?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0lWXZj2UsbruY4DHtqoBtn"
+}

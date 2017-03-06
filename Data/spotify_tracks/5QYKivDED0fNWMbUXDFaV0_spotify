@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57xdnSVt4ahJCIXYLieQ25",
+      "id" : "57xdnSVt4ahJCIXYLieQ25",
+      "name" : "The Troggs",
+      "type" : "artist",
+      "uri" : "spotify:artist:57xdnSVt4ahJCIXYLieQ25"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/49fQLQILwTBx2wGj1iE5xM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/49fQLQILwTBx2wGj1iE5xM",
+    "id" : "49fQLQILwTBx2wGj1iE5xM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0ed652ccede519d5048b03062999549bcf10b995",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5837ec871df457f8298b424a3f5aae4b52077eae",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c151fcf24fb34936f85033d540c7d0f1318f222d",
+      "width" : 64
+    } ],
+    "name" : "Early Recordings",
+    "type" : "album",
+    "uri" : "spotify:album:49fQLQILwTBx2wGj1iE5xM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
+    },
+    "href" : "https://api.spotify.com/v1/artists/57xdnSVt4ahJCIXYLieQ25",
+    "id" : "57xdnSVt4ahJCIXYLieQ25",
+    "name" : "The Troggs",
+    "type" : "artist",
+    "uri" : "spotify:artist:57xdnSVt4ahJCIXYLieQ25"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 133996,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRP621490500"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5QYKivDED0fNWMbUXDFaV0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5QYKivDED0fNWMbUXDFaV0",
+  "id" : "5QYKivDED0fNWMbUXDFaV0",
+  "name" : "I Just Sing",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/048f740887cc639642c75d5a362917b05c8de97a?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5QYKivDED0fNWMbUXDFaV0"
+}

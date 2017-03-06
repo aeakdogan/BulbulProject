@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/72ktMty33X1LsIzHdRr0U5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/72ktMty33X1LsIzHdRr0U5",
+      "id" : "72ktMty33X1LsIzHdRr0U5",
+      "name" : "Tom Scott",
+      "type" : "artist",
+      "uri" : "spotify:artist:72ktMty33X1LsIzHdRr0U5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "CA", "CH", "CL", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HK", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NL", "NO", "NZ", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1gCpJwlF8TitsUrWU2bNkf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1gCpJwlF8TitsUrWU2bNkf",
+    "id" : "1gCpJwlF8TitsUrWU2bNkf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/88ead45c989b30fc3e8e6fd65c3b9cbd78131c7b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/de965d98e5604a031e2d4a553d66126afcace960",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/618634e59d21c15c20db5dcafdae8ca438d33b60",
+      "width" : 64
+    } ],
+    "name" : "Tom Scott And The L.A. Express",
+    "type" : "album",
+    "uri" : "spotify:album:1gCpJwlF8TitsUrWU2bNkf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/72ktMty33X1LsIzHdRr0U5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/72ktMty33X1LsIzHdRr0U5",
+    "id" : "72ktMty33X1LsIzHdRr0U5",
+    "name" : "Tom Scott",
+    "type" : "artist",
+    "uri" : "spotify:artist:72ktMty33X1LsIzHdRr0U5"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 272333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10303741"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4pKaT7HhbCqWE69PdcAAk5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4pKaT7HhbCqWE69PdcAAk5",
+  "id" : "4pKaT7HhbCqWE69PdcAAk5",
+  "name" : "Sneakin' In the Back",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c9d64484a95f0b93d4a53429a674f73a2f40bb41?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4pKaT7HhbCqWE69PdcAAk5"
+}

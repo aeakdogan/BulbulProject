@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ak6DLKHtpR6TEEnmcorKA",
+      "id" : "0Ak6DLKHtpR6TEEnmcorKA",
+      "name" : "The Vaccines",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ak6DLKHtpR6TEEnmcorKA"
+    } ],
+    "available_markets" : [ "JP", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5BLZlz2ujARzae0RLIqkZ5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5BLZlz2ujARzae0RLIqkZ5",
+    "id" : "5BLZlz2ujARzae0RLIqkZ5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5c877981b9bc799bc6d6589f14f62b33bae10d91",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7c4ff921111162bcc0199656f3793c8d2393c56e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f33238920a1dac996d1aba7cd07aaec0560ad33b",
+      "width" : 64
+    } ],
+    "name" : "Come Of Age",
+    "type" : "album",
+    "uri" : "spotify:album:5BLZlz2ujARzae0RLIqkZ5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Ak6DLKHtpR6TEEnmcorKA",
+    "id" : "0Ak6DLKHtpR6TEEnmcorKA",
+    "name" : "The Vaccines",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Ak6DLKHtpR6TEEnmcorKA"
+  } ],
+  "available_markets" : [ "JP", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 172333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL1200828"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4JRHhJnrox77lbpKraKBJ3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4JRHhJnrox77lbpKraKBJ3",
+  "id" : "4JRHhJnrox77lbpKraKBJ3",
+  "name" : "I Wish I Was A Girl",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f5b373d283899a4c7c872f292a72d6665c5d24c1?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:4JRHhJnrox77lbpKraKBJ3"
+}

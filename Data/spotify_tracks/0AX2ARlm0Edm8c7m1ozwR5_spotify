@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Z4CzYz9ieK8q9XiVMPkW5",
+      "id" : "0Z4CzYz9ieK8q9XiVMPkW5",
+      "name" : "The Bar-Kays",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Z4CzYz9ieK8q9XiVMPkW5"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1tkJee1tqO24sispgtrudB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1tkJee1tqO24sispgtrudB",
+    "id" : "1tkJee1tqO24sispgtrudB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/29e225f24d221acc5868f391f4297b11df15496e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2ce02e9d298e42ee8a72a460f25f087c103e6a2b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ec3ef7bb0f4d893696e615a99719fde293bafa27",
+      "width" : 64
+    } ],
+    "name" : "Ballad Collection",
+    "type" : "album",
+    "uri" : "spotify:album:1tkJee1tqO24sispgtrudB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Z4CzYz9ieK8q9XiVMPkW5",
+    "id" : "0Z4CzYz9ieK8q9XiVMPkW5",
+    "name" : "The Bar-Kays",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Z4CzYz9ieK8q9XiVMPkW5"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 177866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMR17887018"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0AX2ARlm0Edm8c7m1ozwR5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0AX2ARlm0Edm8c7m1ozwR5",
+  "id" : "0AX2ARlm0Edm8c7m1ozwR5",
+  "name" : "Angel Eyes",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/70336f4dfa3b787bfa1fae64343c019f7b17fc40?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0AX2ARlm0Edm8c7m1ozwR5"
+}

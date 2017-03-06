@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bHm3B3jJju0q9FUdOgp3b",
+      "id" : "7bHm3B3jJju0q9FUdOgp3b",
+      "name" : "Blockhead",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bHm3B3jJju0q9FUdOgp3b"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4i0QEXwMps7KIuVq5PBckJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4i0QEXwMps7KIuVq5PBckJ",
+    "id" : "4i0QEXwMps7KIuVq5PBckJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e91895811391b25f3a0ba5778bfc6ae5d8cd8f80",
+      "width" : 637
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c4c4baacfb7d607c90cd131235dbafdc08ccef76",
+      "width" : 299
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0840e962aa15796113ea5b1d2ced72d3477d4336",
+      "width" : 64
+    } ],
+    "name" : "The Music Scene",
+    "type" : "album",
+    "uri" : "spotify:album:4i0QEXwMps7KIuVq5PBckJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bHm3B3jJju0q9FUdOgp3b",
+    "id" : "7bHm3B3jJju0q9FUdOgp3b",
+    "name" : "Blockhead",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bHm3B3jJju0q9FUdOgp3b"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 278533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCFB0902607"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4S1UYhmET5BhBTpFo43KVd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4S1UYhmET5BhBTpFo43KVd",
+  "id" : "4S1UYhmET5BhBTpFo43KVd",
+  "name" : "Tricky Turtle",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/80b73a4d49be2ec7d169ee1bdfd1cb7c8254848c?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4S1UYhmET5BhBTpFo43KVd"
+}

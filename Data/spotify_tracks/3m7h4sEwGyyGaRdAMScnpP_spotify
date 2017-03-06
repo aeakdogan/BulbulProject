@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/13CMfEeq8AC6ryGOPODqE1",
+      "id" : "13CMfEeq8AC6ryGOPODqE1",
+      "name" : "A Winged Victory for the Sullen",
+      "type" : "artist",
+      "uri" : "spotify:artist:13CMfEeq8AC6ryGOPODqE1"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/332R7lmKFcPMVrvkptRM8E"
+    },
+    "href" : "https://api.spotify.com/v1/albums/332R7lmKFcPMVrvkptRM8E",
+    "id" : "332R7lmKFcPMVrvkptRM8E",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2a35ac93205f5f08a5143bf406690dca8ce2a8d4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/777f8ff194692d03015179b9481b80270316d134",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5e0871f3f392bdb35e7e478ee04e7ea2b94ba770",
+      "width" : 64
+    } ],
+    "name" : "Atomos VII",
+    "type" : "album",
+    "uri" : "spotify:album:332R7lmKFcPMVrvkptRM8E"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/13CMfEeq8AC6ryGOPODqE1",
+    "id" : "13CMfEeq8AC6ryGOPODqE1",
+    "name" : "A Winged Victory for the Sullen",
+    "type" : "artist",
+    "uri" : "spotify:artist:13CMfEeq8AC6ryGOPODqE1"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 788742,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNCB1418803"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3m7h4sEwGyyGaRdAMScnpP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3m7h4sEwGyyGaRdAMScnpP",
+  "id" : "3m7h4sEwGyyGaRdAMScnpP",
+  "name" : "Atomos VII (Greenhouse Re-Interpretation)",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8dd86f56adb383acb2b77b692eed96dbb7326c27?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3m7h4sEwGyyGaRdAMScnpP"
+}

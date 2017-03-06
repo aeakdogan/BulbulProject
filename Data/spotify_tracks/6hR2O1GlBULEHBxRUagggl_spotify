@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+      "id" : "0YC192cP3KPCRWx8zr8MfZ",
+      "name" : "Hans Zimmer",
+      "type" : "artist",
+      "uri" : "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7CuJ2PHqrlYMbJ2j1JttXO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7CuJ2PHqrlYMbJ2j1JttXO",
+    "id" : "7CuJ2PHqrlYMbJ2j1JttXO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2db70832156d2b183a7c4a8fbfef883cf65abc86",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3a3bb422bb89ddd10e50bb629077e571e7e43900",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f8f9537f7323db59f186e25e882addf7d6a990ef",
+      "width" : 64
+    } ],
+    "name" : "Sherlock Holmes: Original Motion Picture Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:7CuJ2PHqrlYMbJ2j1JttXO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+    "id" : "0YC192cP3KPCRWx8zr8MfZ",
+    "name" : "Hans Zimmer",
+    "type" : "artist",
+    "uri" : "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 404893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNLR0900300"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6hR2O1GlBULEHBxRUagggl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6hR2O1GlBULEHBxRUagggl",
+  "id" : "6hR2O1GlBULEHBxRUagggl",
+  "name" : "Catatonic",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e639cfd79f4a1ddddcfabdf693d643c887a81e85?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:6hR2O1GlBULEHBxRUagggl"
+}

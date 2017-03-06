@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/293zczrfYafIItmnmM3coR",
+      "id" : "293zczrfYafIItmnmM3coR",
+      "name" : "Chuck Berry",
+      "type" : "artist",
+      "uri" : "spotify:artist:293zczrfYafIItmnmM3coR"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4xI4tbdrUh2VBXjaIwRXgq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4xI4tbdrUh2VBXjaIwRXgq",
+    "id" : "4xI4tbdrUh2VBXjaIwRXgq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/79942e6df253bd46a572e40d83839691d40cb9e5",
+      "width" : 572
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4a4063303350319fa4704958ca6856d049d89a10",
+      "width" : 268
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/172e9f6e063b11003090f12220d68d91d3dcbad9",
+      "width" : 57
+    } ],
+    "name" : "Johnny B. Goode/His Complete `50s Chess Recordings",
+    "type" : "album",
+    "uri" : "spotify:album:4xI4tbdrUh2VBXjaIwRXgq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/293zczrfYafIItmnmM3coR",
+    "id" : "293zczrfYafIItmnmM3coR",
+    "name" : "Chuck Berry",
+    "type" : "artist",
+    "uri" : "spotify:artist:293zczrfYafIItmnmM3coR"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 159426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC15819963"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3HMrMZ56giBGJYcCMSRijs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3HMrMZ56giBGJYcCMSRijs",
+  "id" : "3HMrMZ56giBGJYcCMSRijs",
+  "name" : "Johnny B. Goode",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/83048219def7a55edd0c2dd7478a87d099c2ad41?cid=null",
+  "track_number" : 21,
+  "type" : "track",
+  "uri" : "spotify:track:3HMrMZ56giBGJYcCMSRijs"
+}

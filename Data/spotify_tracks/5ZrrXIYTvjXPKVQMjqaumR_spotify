@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+      "id" : "57dN52uHvrHOxijzpIgu3E",
+      "name" : "Ratatat",
+      "type" : "artist",
+      "uri" : "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2n5wpk7KaHpp3mgUYqpF4f"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2n5wpk7KaHpp3mgUYqpF4f",
+    "id" : "2n5wpk7KaHpp3mgUYqpF4f",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3485f87c131c7587568b15ba3a6d97b07cd144e4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7baf4f16311a7126fda51539d918a30dd4d13a6f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5dea6615c5a3d24495f28b39a53903af9cc458ad",
+      "width" : 64
+    } ],
+    "name" : "Classics",
+    "type" : "album",
+    "uri" : "spotify:album:2n5wpk7KaHpp3mgUYqpF4f"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+    },
+    "href" : "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
+    "id" : "57dN52uHvrHOxijzpIgu3E",
+    "name" : "Ratatat",
+    "type" : "artist",
+    "uri" : "spotify:artist:57dN52uHvrHOxijzpIgu3E"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 226533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0600074"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5ZrrXIYTvjXPKVQMjqaumR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5ZrrXIYTvjXPKVQMjqaumR",
+  "id" : "5ZrrXIYTvjXPKVQMjqaumR",
+  "name" : "Loud Pipes",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5849558be3e21acb1a5f0a2e942ad764a8e70abc?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5ZrrXIYTvjXPKVQMjqaumR"
+}

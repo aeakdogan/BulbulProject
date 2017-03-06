@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+      "id" : "2wOqMjp9TyABvtHdOSOTUS",
+      "name" : "Ludwig van Beethoven",
+      "type" : "artist",
+      "uri" : "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LYCuV8d6rylb6zjv2k03l",
+      "id" : "4LYCuV8d6rylb6zjv2k03l",
+      "name" : "Paul Lewis",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LYCuV8d6rylb6zjv2k03l"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4bNwPPpk01D8pVV9IFSBde"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4bNwPPpk01D8pVV9IFSBde",
+    "id" : "4bNwPPpk01D8pVV9IFSBde",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c2658dfce99fa8762dc97bb79113982d44bcda08",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f083b2f9bba789b09bdacf4208cee2620af3bcf5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/71e3f2344e2a72cce3a340c2586073536f9a0055",
+      "width" : 64
+    } ],
+    "name" : "Beethoven: Piano Sonatas, Vol.3",
+    "type" : "album",
+    "uri" : "spotify:album:4bNwPPpk01D8pVV9IFSBde"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2wOqMjp9TyABvtHdOSOTUS",
+    "id" : "2wOqMjp9TyABvtHdOSOTUS",
+    "name" : "Ludwig van Beethoven",
+    "type" : "artist",
+    "uri" : "spotify:artist:2wOqMjp9TyABvtHdOSOTUS"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4LYCuV8d6rylb6zjv2k03l",
+    "id" : "4LYCuV8d6rylb6zjv2k03l",
+    "name" : "Paul Lewis",
+    "type" : "artist",
+    "uri" : "spotify:artist:4LYCuV8d6rylb6zjv2k03l"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 3,
+  "duration_ms" : 315426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ140632090"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3DNRdudZ2SstnDCVKFdXxG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3DNRdudZ2SstnDCVKFdXxG",
+  "id" : "3DNRdudZ2SstnDCVKFdXxG",
+  "name" : "Sonata No. 14 \"Moonlight\" in C-Sharp Minor\", Op. 27 No. 2: I. Adagio sostenuto",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7c2b7bbe98f908c395f2c7517760707a20bac794?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3DNRdudZ2SstnDCVKFdXxG"
+}

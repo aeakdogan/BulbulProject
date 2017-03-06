@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn",
+      "id" : "4pejUc4iciQfgdX6OKulQn",
+      "name" : "Queens of the Stone Age",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pejUc4iciQfgdX6OKulQn"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/64SL0QEXxulD2QgwJmJbUL",
+    "id" : "64SL0QEXxulD2QgwJmJbUL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9e62dcf271490edb98edce7c8c58c53c773fe183",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8b1223306373ac3f31b6a909470832f2e079e938",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fd382989e49108d0a45a9f587bd6173bac2baaa4",
+      "width" : 64
+    } ],
+    "name" : "Era Vulgaris",
+    "type" : "album",
+    "uri" : "spotify:album:64SL0QEXxulD2QgwJmJbUL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn",
+    "id" : "4pejUc4iciQfgdX6OKulQn",
+    "name" : "Queens of the Stone Age",
+    "type" : "artist",
+    "uri" : "spotify:artist:4pejUc4iciQfgdX6OKulQn"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 214066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70732853"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/63wsuMhok6GgcBRd2strGk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/63wsuMhok6GgcBRd2strGk",
+  "id" : "63wsuMhok6GgcBRd2strGk",
+  "name" : "3's & 7's",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/10a86bff1b558c85b166f0ffd372edb813b6d734?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:63wsuMhok6GgcBRd2strGk"
+}

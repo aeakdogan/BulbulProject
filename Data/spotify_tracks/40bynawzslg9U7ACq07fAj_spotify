@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+      "id" : "2DaxqgrOhkeH0fpeiQq2f4",
+      "name" : "Oasis",
+      "type" : "artist",
+      "uri" : "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6ozp33PI3p9AdddB6ZL3xQ",
+    "id" : "6ozp33PI3p9AdddB6ZL3xQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a1eccc5f4b2158ed8c021ca5aaec245c87f300eb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3885c812346ca60f4a3439899431e49455ce444b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/98b8d385a185478f16ef42d672f787c641426421",
+      "width" : 64
+    } ],
+    "name" : "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
+    "type" : "album",
+    "uri" : "spotify:album:6ozp33PI3p9AdddB6ZL3xQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+    "id" : "2DaxqgrOhkeH0fpeiQq2f4",
+    "name" : "Oasis",
+    "type" : "artist",
+    "uri" : "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 448438,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBQCP1400118"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/40bynawzslg9U7ACq07fAj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/40bynawzslg9U7ACq07fAj",
+  "id" : "40bynawzslg9U7ACq07fAj",
+  "name" : "Champagne Supernova - Remastered",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b0e51bb5e0dde22415bfe90bdd9f4ceeb6921cab?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:40bynawzslg9U7ACq07fAj"
+}

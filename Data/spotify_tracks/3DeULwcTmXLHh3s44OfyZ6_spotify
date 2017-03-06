@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36KsCCwgI0Dep97yVJWmkK",
+      "id" : "36KsCCwgI0Dep97yVJWmkK",
+      "name" : "Monsieur Periné",
+      "type" : "artist",
+      "uri" : "spotify:artist:36KsCCwgI0Dep97yVJWmkK"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0HLPr4c2d1vlhIA3yOZqtS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0HLPr4c2d1vlhIA3yOZqtS",
+    "id" : "0HLPr4c2d1vlhIA3yOZqtS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c8410deebf4e56a1a97e9c2d7d82256af350579f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/53e6af8b28d64b52fcd21035e1044f67b89f4a3e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/76d51f1ba602167e7f5a0cdd4cc6cc93877c7dab",
+      "width" : 64
+    } ],
+    "name" : "Hecho a Mano",
+    "type" : "album",
+    "uri" : "spotify:album:0HLPr4c2d1vlhIA3yOZqtS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36KsCCwgI0Dep97yVJWmkK",
+    "id" : "36KsCCwgI0Dep97yVJWmkK",
+    "name" : "Monsieur Periné",
+    "type" : "artist",
+    "uri" : "spotify:artist:36KsCCwgI0Dep97yVJWmkK"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 166053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABH1224549"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3DeULwcTmXLHh3s44OfyZ6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3DeULwcTmXLHh3s44OfyZ6",
+  "id" : "3DeULwcTmXLHh3s44OfyZ6",
+  "name" : "La Tienda De Sombreros",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2b0e047b1d8d18559d99ea1dc7996c5e2ec27fd5?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3DeULwcTmXLHh3s44OfyZ6"
+}

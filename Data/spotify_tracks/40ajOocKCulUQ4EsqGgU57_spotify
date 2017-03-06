@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3rxIQc9kWT6Ueg4BhnOwRK",
+      "id" : "3rxIQc9kWT6Ueg4BhnOwRK",
+      "name" : "Quincy Jones",
+      "type" : "artist",
+      "uri" : "spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7IDq3nYy4yEhd2ob3ydXOu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7IDq3nYy4yEhd2ob3ydXOu",
+    "id" : "7IDq3nYy4yEhd2ob3ydXOu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a5a5567a8ac1bf432cbfe7b2e4f7578aed54c885",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/699d2d483f3d899144387e5833e1845b0ec7a40c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a505d075ee55c38fa13418e426f803505edd9429",
+      "width" : 64
+    } ],
+    "name" : "The Dude",
+    "type" : "album",
+    "uri" : "spotify:album:7IDq3nYy4yEhd2ob3ydXOu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3rxIQc9kWT6Ueg4BhnOwRK",
+    "id" : "3rxIQc9kWT6Ueg4BhnOwRK",
+    "name" : "Quincy Jones",
+    "type" : "artist",
+    "uri" : "spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 386360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0129202"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/40ajOocKCulUQ4EsqGgU57"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/40ajOocKCulUQ4EsqGgU57",
+  "id" : "40ajOocKCulUQ4EsqGgU57",
+  "name" : "Ai No Corrida",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/52414134ded31eccbb8b265238195221a4dc4134?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:40ajOocKCulUQ4EsqGgU57"
+}

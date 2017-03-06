@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3dmSPhg0tdao8ePj4pySJ5",
+      "id" : "3dmSPhg0tdao8ePj4pySJ5",
+      "name" : "Tindersticks",
+      "type" : "artist",
+      "uri" : "spotify:artist:3dmSPhg0tdao8ePj4pySJ5"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0USkDdSuvjiVDbjmmiNm0n"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0USkDdSuvjiVDbjmmiNm0n",
+    "id" : "0USkDdSuvjiVDbjmmiNm0n",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/7e4e47b2b8d26f35f9152688ad0603eb1ed4d5f3",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/7dd9f161ae0d8b35d46835dbbdbef1676e0a6778",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5dd583044ba170b8610b3d2b5693be1fcc0d27c9",
+      "width" : 64
+    } ],
+    "name" : "Curtains",
+    "type" : "album",
+    "uri" : "spotify:album:0USkDdSuvjiVDbjmmiNm0n"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3dmSPhg0tdao8ePj4pySJ5",
+    "id" : "3dmSPhg0tdao8ePj4pySJ5",
+    "name" : "Tindersticks",
+    "type" : "artist",
+    "uri" : "spotify:artist:3dmSPhg0tdao8ePj4pySJ5"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 243600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAUP9700022"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5gVbN2LMhsaK2ua4b95qwY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5gVbN2LMhsaK2ua4b95qwY",
+  "id" : "5gVbN2LMhsaK2ua4b95qwY",
+  "name" : "Bathtime",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f7496456b5c49bc1e6676d046a4383a0b0df1feb?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:5gVbN2LMhsaK2ua4b95qwY"
+}

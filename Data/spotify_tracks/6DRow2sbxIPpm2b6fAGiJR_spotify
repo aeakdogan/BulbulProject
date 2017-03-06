@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HGTHrRQkw0BtevSo1jucU",
+      "id" : "1HGTHrRQkw0BtevSo1jucU",
+      "name" : "Richard Ashcroft",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HGTHrRQkw0BtevSo1jucU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5aihrSmYHiOoJzvHklR68i"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5aihrSmYHiOoJzvHklR68i",
+    "id" : "5aihrSmYHiOoJzvHklR68i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/04a89679d5c6c40e47f9e2c4bbb47545fc728eee",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ec6343f1f2a9093b928e31ac93b3f64547353fcd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2a7281d68e71447379c4cd191c947588c5c2e466",
+      "width" : 64
+    } ],
+    "name" : "Keys To The World",
+    "type" : "album",
+    "uri" : "spotify:album:5aihrSmYHiOoJzvHklR68i"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1HGTHrRQkw0BtevSo1jucU",
+    "id" : "1HGTHrRQkw0BtevSo1jucU",
+    "name" : "Richard Ashcroft",
+    "type" : "artist",
+    "uri" : "spotify:artist:1HGTHrRQkw0BtevSo1jucU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 282520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0500774"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6DRow2sbxIPpm2b6fAGiJR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6DRow2sbxIPpm2b6fAGiJR",
+  "id" : "6DRow2sbxIPpm2b6fAGiJR",
+  "name" : "Keys To The World",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fed682a3f000bbd8bab4d25559ad39c3dba7c92a?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6DRow2sbxIPpm2b6fAGiJR"
+}

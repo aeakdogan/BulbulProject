@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo",
+      "id" : "01C9OoXDvCKkGcf735Tcfo",
+      "name" : "Serge Gainsbourg",
+      "type" : "artist",
+      "uri" : "spotify:artist:01C9OoXDvCKkGcf735Tcfo"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0SywgxMeOlmVNDa2IXAa3G"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0SywgxMeOlmVNDa2IXAa3G",
+    "id" : "0SywgxMeOlmVNDa2IXAa3G",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6439880dd4dfb6d8aae701a12ad09f9de1ae5f66",
+      "width" : 628
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d44faac24e4e89aad620931380784f42d8a640bc",
+      "width" : 294
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5e0ae01338b8dbf5b1bf417a66fb1e86ed50d4d8",
+      "width" : 63
+    } ],
+    "name" : "Monsieur Gainsbourg Originals",
+    "type" : "album",
+    "uri" : "spotify:album:0SywgxMeOlmVNDa2IXAa3G"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo",
+    "id" : "01C9OoXDvCKkGcf735Tcfo",
+    "name" : "Serge Gainsbourg",
+    "type" : "artist",
+    "uri" : "spotify:artist:01C9OoXDvCKkGcf735Tcfo"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ037300730"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Q5xiE5Njk3wYxGKzhXD9i"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Q5xiE5Njk3wYxGKzhXD9i",
+  "id" : "2Q5xiE5Njk3wYxGKzhXD9i",
+  "name" : "Je suis venu te dire que je m'en vais",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bc74ee6fb3e50027d52e2590b8d770ecc56a3fbf?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2Q5xiE5Njk3wYxGKzhXD9i"
+}

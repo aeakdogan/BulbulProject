@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ",
+      "id" : "1P6U1dCeHxPui5pIrGmndZ",
+      "name" : "Air",
+      "type" : "artist",
+      "uri" : "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2WNI378JH55k63eXBHbjbI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2WNI378JH55k63eXBHbjbI",
+    "id" : "2WNI378JH55k63eXBHbjbI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e4d1c1a73e71d970939e9488c6163376fe1b4940",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e5d2e2bf3b10fce6ba078a9f9724219c70081659",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c00c1afcfb36425c0cc1eb5e81dc1918fcc01797",
+      "width" : 64
+    } ],
+    "name" : "10 000 Hz Legend",
+    "type" : "album",
+    "uri" : "spotify:album:2WNI378JH55k63eXBHbjbI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ",
+    "id" : "1P6U1dCeHxPui5pIrGmndZ",
+    "name" : "Air",
+    "type" : "artist",
+    "uri" : "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 378760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRS630100007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2NVHxR89RDACrAPpckPfkN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2NVHxR89RDACrAPpckPfkN",
+  "id" : "2NVHxR89RDACrAPpckPfkN",
+  "name" : "Sex Born Poison",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/477ceee82d3e90ed67bab36016d1c9d75c2dabff?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2NVHxR89RDACrAPpckPfkN"
+}

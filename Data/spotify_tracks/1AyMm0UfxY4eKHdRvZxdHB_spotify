@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/27IuDZNaLuEtupD8QZftiZ",
+      "id" : "27IuDZNaLuEtupD8QZftiZ",
+      "name" : "Ian van Dahl",
+      "type" : "artist",
+      "uri" : "spotify:artist:27IuDZNaLuEtupD8QZftiZ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/07XQCT3I5AU3XPQzYOcPbQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/07XQCT3I5AU3XPQzYOcPbQ",
+    "id" : "07XQCT3I5AU3XPQzYOcPbQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4080bf09ad7098f12014b2b6d89d6ff7e4470e39",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9e515cb94f5d112449bd6ebbe91ade985f0406e3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e8e77a67afede06e9e4b8ea985e66dd4f6926343",
+      "width" : 64
+    } ],
+    "name" : "Castles In The Sky",
+    "type" : "album",
+    "uri" : "spotify:album:07XQCT3I5AU3XPQzYOcPbQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/27IuDZNaLuEtupD8QZftiZ",
+    "id" : "27IuDZNaLuEtupD8QZftiZ",
+    "name" : "Ian van Dahl",
+    "type" : "artist",
+    "uri" : "spotify:artist:27IuDZNaLuEtupD8QZftiZ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y"
+    },
+    "href" : "https://api.spotify.com/v1/artists/28Y5nsvbE8IdoUAGNgCk0Y",
+    "id" : "28Y5nsvbE8IdoUAGNgCk0Y",
+    "name" : "Marsha",
+    "type" : "artist",
+    "uri" : "spotify:artist:28Y5nsvbE8IdoUAGNgCk0Y"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEZ460000020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1AyMm0UfxY4eKHdRvZxdHB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1AyMm0UfxY4eKHdRvZxdHB",
+  "id" : "1AyMm0UfxY4eKHdRvZxdHB",
+  "name" : "Castles In The Sky (featuring Marsha)",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1206ebeae911be5be8b09a259a1f15c59dfaf811?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1AyMm0UfxY4eKHdRvZxdHB"
+}

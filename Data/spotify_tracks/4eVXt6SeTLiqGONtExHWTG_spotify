@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3bg5rmICvmA8dmYVAdKGYH",
+      "id" : "3bg5rmICvmA8dmYVAdKGYH",
+      "name" : "Actress",
+      "type" : "artist",
+      "uri" : "spotify:artist:3bg5rmICvmA8dmYVAdKGYH"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1iw1gr9TPYhIwmgoLPcRRG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1iw1gr9TPYhIwmgoLPcRRG",
+    "id" : "1iw1gr9TPYhIwmgoLPcRRG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8580fab00f13512f02cd93acc9d2190e17b973bb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/58e7ca29a3b6ed9b9a3a4c7e8586f33d33818828",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ba66310a7ca9173593c9e048e8b410b5ea475056",
+      "width" : 64
+    } ],
+    "name" : "R.I.P.",
+    "type" : "album",
+    "uri" : "spotify:album:1iw1gr9TPYhIwmgoLPcRRG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3bg5rmICvmA8dmYVAdKGYH",
+    "id" : "3bg5rmICvmA8dmYVAdKGYH",
+    "name" : "Actress",
+    "type" : "artist",
+    "uri" : "spotify:artist:3bg5rmICvmA8dmYVAdKGYH"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 76773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEZ651203732"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4eVXt6SeTLiqGONtExHWTG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4eVXt6SeTLiqGONtExHWTG",
+  "id" : "4eVXt6SeTLiqGONtExHWTG",
+  "name" : "R.I.P.",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8571a08662a8d9e60556a5c733f59b6b59597771?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4eVXt6SeTLiqGONtExHWTG"
+}

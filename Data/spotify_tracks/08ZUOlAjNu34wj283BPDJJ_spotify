@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+      "id" : "7rN3Agir6FaZNfhf5V7mfN",
+      "name" : "John Frusciante",
+      "type" : "artist",
+      "uri" : "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7BYMJZFCYuGKi2jblMhyxg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7BYMJZFCYuGKi2jblMhyxg",
+    "id" : "7BYMJZFCYuGKi2jblMhyxg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/edc3bd2d34cf43688c0f51c446a9b50f9ef45016",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5a0b23a327196ee22fdccdaac99178f3591295b4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8cdfe5161508bb1224ec781649f16e68019b12cb",
+      "width" : 64
+    } ],
+    "name" : "Shadows Collide With People",
+    "type" : "album",
+    "uri" : "spotify:album:7BYMJZFCYuGKi2jblMhyxg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+    "id" : "7rN3Agir6FaZNfhf5V7mfN",
+    "name" : "John Frusciante",
+    "type" : "artist",
+    "uri" : "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 374800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10303064"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/08ZUOlAjNu34wj283BPDJJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/08ZUOlAjNu34wj283BPDJJ",
+  "id" : "08ZUOlAjNu34wj283BPDJJ",
+  "name" : "Carvel",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/827a9db54a66ff419c329065770a1492a3ce25f7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:08ZUOlAjNu34wj283BPDJJ"
+}

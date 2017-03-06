@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+      "id" : "3SONlwqLIP2GtaMh9pLYe5",
+      "name" : "Bill Frisell",
+      "type" : "artist",
+      "uri" : "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1ueFFIHSmbmmi6gkNbo8BJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1ueFFIHSmbmmi6gkNbo8BJ",
+    "id" : "1ueFFIHSmbmmi6gkNbo8BJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bb2c37218c720f87279c6129b3e7875e974e6346",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/39014633575b1d04ef09a217a7aee2b584b1ef18",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1986e99224a035147ebbcf8b18a74a6aa7d374ab",
+      "width" : 64
+    } ],
+    "name" : "Guitar in the Space Age",
+    "type" : "album",
+    "uri" : "spotify:album:1ueFFIHSmbmmi6gkNbo8BJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3SONlwqLIP2GtaMh9pLYe5",
+    "id" : "3SONlwqLIP2GtaMh9pLYe5",
+    "name" : "Bill Frisell",
+    "type" : "artist",
+    "uri" : "spotify:artist:3SONlwqLIP2GtaMh9pLYe5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 426173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USQX91400705"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5PBP5VRLIf2XfLedZr1suU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5PBP5VRLIf2XfLedZr1suU",
+  "id" : "5PBP5VRLIf2XfLedZr1suU",
+  "name" : "Pipeline",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b033773644ce5c2b8ab516bdb795e4bb412c522c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5PBP5VRLIf2XfLedZr1suU"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3EgMK920cIH5aLxFnJ6zSi",
+      "id" : "3EgMK920cIH5aLxFnJ6zSi",
+      "name" : "Boris",
+      "type" : "artist",
+      "uri" : "spotify:artist:3EgMK920cIH5aLxFnJ6zSi"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/37tK1Wr16htoSPQAuu3mFE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/37tK1Wr16htoSPQAuu3mFE",
+    "id" : "37tK1Wr16htoSPQAuu3mFE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d4b067164e479727c955075d2fdae96772a9fb3a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/28395aba23b8dd69aafce1df48c42893102869c7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a42d5519c3feeab5ed96d0106cdceaecb111e23c",
+      "width" : 64
+    } ],
+    "name" : "Noise",
+    "type" : "album",
+    "uri" : "spotify:album:37tK1Wr16htoSPQAuu3mFE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3EgMK920cIH5aLxFnJ6zSi",
+    "id" : "3EgMK920cIH5aLxFnJ6zSi",
+    "name" : "Boris",
+    "type" : "artist",
+    "uri" : "spotify:artist:3EgMK920cIH5aLxFnJ6zSi"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 399866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "JPB621400140"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5li8oW4fZglS5tUDt3IiDO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5li8oW4fZglS5tUDt3IiDO",
+  "id" : "5li8oW4fZglS5tUDt3IiDO",
+  "name" : "Melody",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/da9911a66a28ada7ae50be9d109582fb51ccf2f1?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5li8oW4fZglS5tUDt3IiDO"
+}

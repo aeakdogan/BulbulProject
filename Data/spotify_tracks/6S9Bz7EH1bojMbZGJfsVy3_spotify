@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2mwwr35EpwPi9QQ5OLgj7S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2mwwr35EpwPi9QQ5OLgj7S",
+      "id" : "2mwwr35EpwPi9QQ5OLgj7S",
+      "name" : "Miss Kenichi",
+      "type" : "artist",
+      "uri" : "spotify:artist:2mwwr35EpwPi9QQ5OLgj7S"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/638EG9frhYvv7FFzZKAKgZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/638EG9frhYvv7FFzZKAKgZ",
+    "id" : "638EG9frhYvv7FFzZKAKgZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/65e36cef047c9e6d6c9f0b388080dc036a002f8c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e9c075f86f00bdfefde66d5975d48f19f3a6852d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/afe68b7ecda0571bd89df25aa1b1cb7562bcc1c8",
+      "width" : 64
+    } ],
+    "name" : "The Trail",
+    "type" : "album",
+    "uri" : "spotify:album:638EG9frhYvv7FFzZKAKgZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2mwwr35EpwPi9QQ5OLgj7S"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2mwwr35EpwPi9QQ5OLgj7S",
+    "id" : "2mwwr35EpwPi9QQ5OLgj7S",
+    "name" : "Miss Kenichi",
+    "type" : "artist",
+    "uri" : "spotify:artist:2mwwr35EpwPi9QQ5OLgj7S"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 300680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEAH11300401"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6S9Bz7EH1bojMbZGJfsVy3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6S9Bz7EH1bojMbZGJfsVy3",
+  "id" : "6S9Bz7EH1bojMbZGJfsVy3",
+  "name" : "Who Are You",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c0b5a21e4943b6aa33738e190d3525ac83410758?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6S9Bz7EH1bojMbZGJfsVy3"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KyUat70qaniuiZq63HzFZ",
+      "id" : "6KyUat70qaniuiZq63HzFZ",
+      "name" : "Pink Martini",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KyUat70qaniuiZq63HzFZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1CnJN11E1gTsB1TOLZEjEN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1CnJN11E1gTsB1TOLZEjEN",
+    "id" : "1CnJN11E1gTsB1TOLZEjEN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6e790b6f298fe70f67fb2669a28f46e3044675ea",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/33e48bc695b1f89295e5a903c309f5d78dd71cb7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b8316bac1492f63d7a9e101058d505b9cd48f88d",
+      "width" : 64
+    } ],
+    "name" : "Sympathique",
+    "type" : "album",
+    "uri" : "spotify:album:1CnJN11E1gTsB1TOLZEjEN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6KyUat70qaniuiZq63HzFZ",
+    "id" : "6KyUat70qaniuiZq63HzFZ",
+    "name" : "Pink Martini",
+    "type" : "artist",
+    "uri" : "spotify:artist:6KyUat70qaniuiZq63HzFZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 339160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USHNZ0400005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1pY3GeAx7xwSlvZkXcLBkZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1pY3GeAx7xwSlvZkXcLBkZ",
+  "id" : "1pY3GeAx7xwSlvZkXcLBkZ",
+  "name" : "La Soledad",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3d9502a4d98aee228e92d92048f1adb8897be43a?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1pY3GeAx7xwSlvZkXcLBkZ"
+}

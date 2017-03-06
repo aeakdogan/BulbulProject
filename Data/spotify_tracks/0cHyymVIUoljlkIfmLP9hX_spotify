@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4k1ELeJKT1ISyDv8JivPpB",
+      "id" : "4k1ELeJKT1ISyDv8JivPpB",
+      "name" : "The Prodigy",
+      "type" : "artist",
+      "uri" : "spotify:artist:4k1ELeJKT1ISyDv8JivPpB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2ifoxQ6Ex0wbg52XCPYkvh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2ifoxQ6Ex0wbg52XCPYkvh",
+    "id" : "2ifoxQ6Ex0wbg52XCPYkvh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ffa7031b9eab41302fbb0e5fa1bb76297c8ea091",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3270de08217c1a932c3916ae3fc855b1da392dbf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eaba5201a1b6504abc919e7e749bd4494366fe96",
+      "width" : 64
+    } ],
+    "name" : "Experience : Expanded",
+    "type" : "album",
+    "uri" : "spotify:album:2ifoxQ6Ex0wbg52XCPYkvh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4k1ELeJKT1ISyDv8JivPpB",
+    "id" : "4k1ELeJKT1ISyDv8JivPpB",
+    "name" : "The Prodigy",
+    "type" : "artist",
+    "uri" : "spotify:artist:4k1ELeJKT1ISyDv8JivPpB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 252133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS9200023"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0cHyymVIUoljlkIfmLP9hX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0cHyymVIUoljlkIfmLP9hX",
+  "id" : "0cHyymVIUoljlkIfmLP9hX",
+  "name" : "Music Reach - 1/2/3/4",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2944a10d643a13bff4498b8433ac63e94cccce70?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0cHyymVIUoljlkIfmLP9hX"
+}

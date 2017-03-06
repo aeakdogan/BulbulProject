@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1O3ZOjqFLEnbpZexcRjocn",
+      "id" : "1O3ZOjqFLEnbpZexcRjocn",
+      "name" : "RJD2",
+      "type" : "artist",
+      "uri" : "spotify:artist:1O3ZOjqFLEnbpZexcRjocn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7DmNwRBDJRUEFUlk3oa2Aj",
+    "id" : "7DmNwRBDJRUEFUlk3oa2Aj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4bb862270fbef9bd21978d2c97f28b9375ea5219",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dbac0285cba02481c085ee0ef9b56a0d1b2a7182",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5d81e4e47c27223853b2328186120158a4b48400",
+      "width" : 64
+    } ],
+    "name" : "Deadringer: Deluxe",
+    "type" : "album",
+    "uri" : "spotify:album:7DmNwRBDJRUEFUlk3oa2Aj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1O3ZOjqFLEnbpZexcRjocn",
+    "id" : "1O3ZOjqFLEnbpZexcRjocn",
+    "name" : "RJD2",
+    "type" : "artist",
+    "uri" : "spotify:artist:1O3ZOjqFLEnbpZexcRjocn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 317933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA4T0403506"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Nn2Dj7OQsGL6pgQ9iIzPp",
+  "id" : "5Nn2Dj7OQsGL6pgQ9iIzPp",
+  "name" : "Ghostwriter",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d079b16eb0cae5c54fe3f76df0219c72a2f1e173?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5Nn2Dj7OQsGL6pgQ9iIzPp"
+}

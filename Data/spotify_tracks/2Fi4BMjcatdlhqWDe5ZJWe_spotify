@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25TUFIkK2VpEjl6GnzrcEp",
+      "id" : "25TUFIkK2VpEjl6GnzrcEp",
+      "name" : "Dauwd",
+      "type" : "artist",
+      "uri" : "spotify:artist:25TUFIkK2VpEjl6GnzrcEp"
+    } ],
+    "available_markets" : [ "CA", "DO", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3FND6DpDA79Fox7bv8LvRC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3FND6DpDA79Fox7bv8LvRC",
+    "id" : "3FND6DpDA79Fox7bv8LvRC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/72ec0155e13c58e14a3f57561b67d81a84f0b886",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3ffc2c21f896aa455ae0eed657b03cefda4d2c72",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0f0d141b786a980e21fb9ee0f3e1af48d51e273c",
+      "width" : 64
+    } ],
+    "name" : "Heat Division",
+    "type" : "album",
+    "uri" : "spotify:album:3FND6DpDA79Fox7bv8LvRC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/25TUFIkK2VpEjl6GnzrcEp",
+    "id" : "25TUFIkK2VpEjl6GnzrcEp",
+    "name" : "Dauwd",
+    "type" : "artist",
+    "uri" : "spotify:artist:25TUFIkK2VpEjl6GnzrcEp"
+  } ],
+  "available_markets" : [ "CA", "DO", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 373461,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB9SC1000068"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Fi4BMjcatdlhqWDe5ZJWe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Fi4BMjcatdlhqWDe5ZJWe",
+  "id" : "2Fi4BMjcatdlhqWDe5ZJWe",
+  "name" : "Silverse",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f02c0b68c8e0cf4676b740c4f3dc4a9504fa0e48?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2Fi4BMjcatdlhqWDe5ZJWe"
+}

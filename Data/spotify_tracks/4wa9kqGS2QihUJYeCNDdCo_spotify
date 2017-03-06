@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55XX7sgmxtVFNJnHrQMXh5",
+      "id" : "55XX7sgmxtVFNJnHrQMXh5",
+      "name" : "The Legendary Pink Dots",
+      "type" : "artist",
+      "uri" : "spotify:artist:55XX7sgmxtVFNJnHrQMXh5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4JIs8fvvujGkjy5ieyYOYG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4JIs8fvvujGkjy5ieyYOYG",
+    "id" : "4JIs8fvvujGkjy5ieyYOYG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/baac28eb0dfc5354aafcf220340707ab5fa0c1d5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bcbc6cf92c47b347adeb4565f5703d554370efa7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5bc2a7b82a5c08a41f751e124955d09be869e621",
+      "width" : 64
+    } ],
+    "name" : "Maria Dimension",
+    "type" : "album",
+    "uri" : "spotify:album:4JIs8fvvujGkjy5ieyYOYG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/55XX7sgmxtVFNJnHrQMXh5",
+    "id" : "55XX7sgmxtVFNJnHrQMXh5",
+    "name" : "The Legendary Pink Dots",
+    "type" : "artist",
+    "uri" : "spotify:artist:55XX7sgmxtVFNJnHrQMXh5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 220160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USI4R0403011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4wa9kqGS2QihUJYeCNDdCo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4wa9kqGS2QihUJYeCNDdCo",
+  "id" : "4wa9kqGS2QihUJYeCNDdCo",
+  "name" : "Expresso Noir",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7f240dc34bf7fb5f403b0e0c72804f98bb362102?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:4wa9kqGS2QihUJYeCNDdCo"
+}

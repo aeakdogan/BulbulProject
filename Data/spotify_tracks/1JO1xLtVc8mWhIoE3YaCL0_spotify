@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2VIoWte1HPDbZ2WqHd2La7",
+      "id" : "2VIoWte1HPDbZ2WqHd2La7",
+      "name" : "The Turtles",
+      "type" : "artist",
+      "uri" : "spotify:artist:2VIoWte1HPDbZ2WqHd2La7"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2pMxs38Y5A0mmHrcu3twvB",
+    "id" : "2pMxs38Y5A0mmHrcu3twvB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8ae7fe5096842b06dce51eebb383057b73c971d4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/08019229b53670b2788599e9adcf8d1e7f035711",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cb8284a5108938ef74ea4fd352ada3ebe884ba00",
+      "width" : 64
+    } ],
+    "name" : "Happy Together",
+    "type" : "album",
+    "uri" : "spotify:album:2pMxs38Y5A0mmHrcu3twvB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2VIoWte1HPDbZ2WqHd2La7",
+    "id" : "2VIoWte1HPDbZ2WqHd2La7",
+    "name" : "The Turtles",
+    "type" : "artist",
+    "uri" : "spotify:artist:2VIoWte1HPDbZ2WqHd2La7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 176293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA560587940"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1JO1xLtVc8mWhIoE3YaCL0",
+  "id" : "1JO1xLtVc8mWhIoE3YaCL0",
+  "name" : "Happy Together",
+  "popularity" : 67,
+  "preview_url" : "https://p.scdn.co/mp3-preview/be70befd16aac0ed18e1bab29513f5d84188415c?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1JO1xLtVc8mWhIoE3YaCL0"
+}

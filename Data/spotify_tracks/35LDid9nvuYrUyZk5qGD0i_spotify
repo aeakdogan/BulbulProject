@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14",
+      "id" : "0hEurMDQu99nJRq8pTxO14",
+      "name" : "John Mayer",
+      "type" : "artist",
+      "uri" : "spotify:artist:0hEurMDQu99nJRq8pTxO14"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Xsprdt1q9rOzTic7b9zYM",
+    "id" : "1Xsprdt1q9rOzTic7b9zYM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d9cedc03fcc8430a4d2db3c32a6cea2cde6bd737",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a5ca4d5029cb72802e7ee01f0e538bf8e2f612b5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f1c5143cef3c8fe4b42f85766626515a2e45798f",
+      "width" : 64
+    } ],
+    "name" : "Continuum",
+    "type" : "album",
+    "uri" : "spotify:album:1Xsprdt1q9rOzTic7b9zYM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14",
+    "id" : "0hEurMDQu99nJRq8pTxO14",
+    "name" : "John Mayer",
+    "type" : "artist",
+    "uri" : "spotify:artist:0hEurMDQu99nJRq8pTxO14"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 242333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10603627"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/35LDid9nvuYrUyZk5qGD0i"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/35LDid9nvuYrUyZk5qGD0i",
+  "id" : "35LDid9nvuYrUyZk5qGD0i",
+  "name" : "Belief",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5c9f72dd0da5988046acf9c78ca65ff7072e5b9b?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:35LDid9nvuYrUyZk5qGD0i"
+}

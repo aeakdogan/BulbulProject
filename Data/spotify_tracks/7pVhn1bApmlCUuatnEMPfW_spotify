@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6VaJKyOj3YbruD3P2T0k48"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6VaJKyOj3YbruD3P2T0k48",
+      "id" : "6VaJKyOj3YbruD3P2T0k48",
+      "name" : "Petru Guelfucci",
+      "type" : "artist",
+      "uri" : "spotify:artist:6VaJKyOj3YbruD3P2T0k48"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6lDr9NNbhnY0TN7dCCKtxR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6lDr9NNbhnY0TN7dCCKtxR",
+    "id" : "6lDr9NNbhnY0TN7dCCKtxR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9e5a6914f8bc819da31a83cbfdc800288b38692f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/83cab4cb343febb8d9fe9d5dfce180e3e480e11d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6e14ff48931fb14a7ff8b879315b4f81b432911a",
+      "width" : 64
+    } ],
+    "name" : "Corsica",
+    "type" : "album",
+    "uri" : "spotify:album:6lDr9NNbhnY0TN7dCCKtxR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6VaJKyOj3YbruD3P2T0k48"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6VaJKyOj3YbruD3P2T0k48",
+    "id" : "6VaJKyOj3YbruD3P2T0k48",
+    "name" : "Petru Guelfucci",
+    "type" : "artist",
+    "uri" : "spotify:artist:6VaJKyOj3YbruD3P2T0k48"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 300973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V80025393"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7pVhn1bApmlCUuatnEMPfW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7pVhn1bApmlCUuatnEMPfW",
+  "id" : "7pVhn1bApmlCUuatnEMPfW",
+  "name" : "Corsica",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9c78e02f7ddd5aa3297d14e8e2e2807db498edbf?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7pVhn1bApmlCUuatnEMPfW"
+}

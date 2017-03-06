@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7sgWBYtJpblXpJl2lU5WVs",
+      "id" : "7sgWBYtJpblXpJl2lU5WVs",
+      "name" : "Electric Guest",
+      "type" : "artist",
+      "uri" : "spotify:artist:7sgWBYtJpblXpJl2lU5WVs"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6AbrLabiBsj3yzk5H2g1al",
+    "id" : "6AbrLabiBsj3yzk5H2g1al",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cdee6c063cb9367a390fd5c51ca045857e8c06d6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/342ec9668b45599fd7cb31ff0d29ea03ac538f60",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/acf718d6a1211c17e0eeea3ed0c0a7ee0b22d859",
+      "width" : 64
+    } ],
+    "name" : "Mondo",
+    "type" : "album",
+    "uri" : "spotify:album:6AbrLabiBsj3yzk5H2g1al"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7sgWBYtJpblXpJl2lU5WVs",
+    "id" : "7sgWBYtJpblXpJl2lU5WVs",
+    "name" : "Electric Guest",
+    "type" : "artist",
+    "uri" : "spotify:artist:7sgWBYtJpblXpJl2lU5WVs"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 175773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCJ81100776"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1tzPSule9WZ9B8SujHv8fp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1tzPSule9WZ9B8SujHv8fp",
+  "id" : "1tzPSule9WZ9B8SujHv8fp",
+  "name" : "This Head I Hold",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/390bbf80013658ad3399093bae54ecb9b6c2d1a2?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1tzPSule9WZ9B8SujHv8fp"
+}

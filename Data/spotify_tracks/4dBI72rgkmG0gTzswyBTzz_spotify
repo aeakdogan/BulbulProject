@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44NX2ffIYHr6D4n7RaZF7A",
+      "id" : "44NX2ffIYHr6D4n7RaZF7A",
+      "name" : "Van Morrison",
+      "type" : "artist",
+      "uri" : "spotify:artist:44NX2ffIYHr6D4n7RaZF7A"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4pG3bKkbmReDt5QTDn3JDz",
+    "id" : "4pG3bKkbmReDt5QTDn3JDz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/627935ff26aeb026188ab0454c206fa1c63f6355",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9fc3431c2ef9733e42e2338e465aa85fa909412b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/991fb127329464021d96ed1f91f7b5619a82a62f",
+      "width" : 64
+    } ],
+    "name" : "Astral Weeks",
+    "type" : "album",
+    "uri" : "spotify:album:4pG3bKkbmReDt5QTDn3JDz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+    },
+    "href" : "https://api.spotify.com/v1/artists/44NX2ffIYHr6D4n7RaZF7A",
+    "id" : "44NX2ffIYHr6D4n7RaZF7A",
+    "name" : "Van Morrison",
+    "type" : "artist",
+    "uri" : "spotify:artist:44NX2ffIYHr6D4n7RaZF7A"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 265546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19901649"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4dBI72rgkmG0gTzswyBTzz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4dBI72rgkmG0gTzswyBTzz",
+  "id" : "4dBI72rgkmG0gTzswyBTzz",
+  "name" : "Sweet Thing",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e9f8683c04b8767e62a1c8f6920d2f602615457d?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4dBI72rgkmG0gTzswyBTzz"
+}

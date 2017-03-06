@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ICflSq6ZgYAIrm2CTkfVP",
+      "id" : "3ICflSq6ZgYAIrm2CTkfVP",
+      "name" : "The Animals",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ICflSq6ZgYAIrm2CTkfVP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2JUuWcZ0zEM9CU6zU3lNAL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2JUuWcZ0zEM9CU6zU3lNAL",
+    "id" : "2JUuWcZ0zEM9CU6zU3lNAL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/baa52fb6125ef011e8e0cd0b70803773f84b5eea",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dfa519aaf10358011379408b06de2fa964d4419b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f512546bf0223932719a37eca711e9c42a03a059",
+      "width" : 64
+    } ],
+    "name" : "Before We Were so Rudely Interrupted",
+    "type" : "album",
+    "uri" : "spotify:album:2JUuWcZ0zEM9CU6zU3lNAL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3ICflSq6ZgYAIrm2CTkfVP",
+    "id" : "3ICflSq6ZgYAIrm2CTkfVP",
+    "name" : "The Animals",
+    "type" : "artist",
+    "uri" : "spotify:artist:3ICflSq6ZgYAIrm2CTkfVP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 145026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABO1307669"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6plffEM6YrVZISsR5lTP0W"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6plffEM6YrVZISsR5lTP0W",
+  "id" : "6plffEM6YrVZISsR5lTP0W",
+  "name" : "Fire on the Sun",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/528491b3f7ab8af4d65c3c3c88ba88b9a34e5c64?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6plffEM6YrVZISsR5lTP0W"
+}

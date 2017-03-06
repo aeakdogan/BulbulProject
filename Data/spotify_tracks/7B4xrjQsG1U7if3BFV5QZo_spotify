@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti",
+      "id" : "6hk7Yq1DU9QcCCrz9uc0Ti",
+      "name" : "Kimbra",
+      "type" : "artist",
+      "uri" : "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4J46FW6Xw3T1AqkhGOYUoe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4J46FW6Xw3T1AqkhGOYUoe",
+    "id" : "4J46FW6Xw3T1AqkhGOYUoe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e59b81d416a9e923ced7540a01c31cf5032602db",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f4c80afeb91d11bcf8776f5209bfb0dd1c57548a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b2a5c1afa5825e5fda961ddffedc0caef2c6064f",
+      "width" : 64
+    } ],
+    "name" : "Vows",
+    "type" : "album",
+    "uri" : "spotify:album:4J46FW6Xw3T1AqkhGOYUoe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti",
+    "id" : "6hk7Yq1DU9QcCCrz9uc0Ti",
+    "name" : "Kimbra",
+    "type" : "artist",
+    "uri" : "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 262240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11200654"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7B4xrjQsG1U7if3BFV5QZo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7B4xrjQsG1U7if3BFV5QZo",
+  "id" : "7B4xrjQsG1U7if3BFV5QZo",
+  "name" : "Something In The Way You Are",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ef498220968cb014995659ed0d33efb9599e6f2b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7B4xrjQsG1U7if3BFV5QZo"
+}

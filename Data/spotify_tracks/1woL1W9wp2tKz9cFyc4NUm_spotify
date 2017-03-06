@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+      "id" : "3dRfiJ2650SZu6GbydcHNb",
+      "name" : "John Williams",
+      "type" : "artist",
+      "uri" : "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7DDls7RWrCLvZgTVCJgfcq",
+    "id" : "7DDls7RWrCLvZgTVCJgfcq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ff3165976744f9fb7e3d7ed66280ceffacc1910d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/43e6b863987fb45c917bdec7f43511f725c7f5bf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/719d1759d0045a390c8e518adc2880fdd09807d3",
+      "width" : 64
+    } ],
+    "name" : "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:7DDls7RWrCLvZgTVCJgfcq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3dRfiJ2650SZu6GbydcHNb",
+    "id" : "3dRfiJ2650SZu6GbydcHNb",
+    "name" : "John Williams",
+    "type" : "artist",
+    "uri" : "spotify:artist:3dRfiJ2650SZu6GbydcHNb"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 97226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20400714"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1woL1W9wp2tKz9cFyc4NUm",
+  "id" : "1woL1W9wp2tKz9cFyc4NUm",
+  "name" : "Double Trouble",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ee21e9ee47b605073d9de6c3f57ba96bed83bc8?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1woL1W9wp2tKz9cFyc4NUm"
+}

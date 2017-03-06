@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4N8BwYTEC6XqykGvXXlmfv",
+      "id" : "4N8BwYTEC6XqykGvXXlmfv",
+      "name" : "George Benson",
+      "type" : "artist",
+      "uri" : "spotify:artist:4N8BwYTEC6XqykGvXXlmfv"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2kSQnTLbO7fevT5zOaM6Hv",
+    "id" : "2kSQnTLbO7fevT5zOaM6Hv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e41a8646ffd3c5875950c04d28336be232077c45",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c9be2f0a70c4d9a34401c3656de641c9eb958929",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2299fd9e5c895e9df495ff0028367da0d4b3e8c7",
+      "width" : 64
+    } ],
+    "name" : "The Ultimate Collection",
+    "type" : "album",
+    "uri" : "spotify:album:2kSQnTLbO7fevT5zOaM6Hv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4N8BwYTEC6XqykGvXXlmfv",
+    "id" : "4N8BwYTEC6XqykGvXXlmfv",
+    "name" : "George Benson",
+    "type" : "artist",
+    "uri" : "spotify:artist:4N8BwYTEC6XqykGvXXlmfv"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 213306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11500205"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3GrykbUdjOnxgC7SYgkrEC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3GrykbUdjOnxgC7SYgkrEC",
+  "id" : "3GrykbUdjOnxgC7SYgkrEC",
+  "name" : "Shiver",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dc283ddc60faf8e2e3f64c00413f2bf926570640?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3GrykbUdjOnxgC7SYgkrEC"
+}

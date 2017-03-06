@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1WudHeuEN3d18SXVos95mc",
+      "id" : "1WudHeuEN3d18SXVos95mc",
+      "name" : "Do Make Say Think",
+      "type" : "artist",
+      "uri" : "spotify:artist:1WudHeuEN3d18SXVos95mc"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2z3jZ1OKoE2iCZrIZsehHz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2z3jZ1OKoE2iCZrIZsehHz",
+    "id" : "2z3jZ1OKoE2iCZrIZsehHz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/854e4032b5f4516f50a47b3dfbc29ce1148aba33",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7495225ce857084e84c6b6d818ada6c55ce51743",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9b6ccede14f23870a361432edd4951dd5926ce61",
+      "width" : 64
+    } ],
+    "name" : "You, You're A History In Rust",
+    "type" : "album",
+    "uri" : "spotify:album:2z3jZ1OKoE2iCZrIZsehHz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1WudHeuEN3d18SXVos95mc",
+    "id" : "1WudHeuEN3d18SXVos95mc",
+    "name" : "Do Make Say Think",
+    "type" : "artist",
+    "uri" : "spotify:artist:1WudHeuEN3d18SXVos95mc"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 216760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CACQ20704506"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0nGj4M2ti7sTIPXU5exaxD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0nGj4M2ti7sTIPXU5exaxD",
+  "id" : "0nGj4M2ti7sTIPXU5exaxD",
+  "name" : "You, You're Awesome",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/eb624e76b6bb514568cdc08d50634600f5d6b4e1?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0nGj4M2ti7sTIPXU5exaxD"
+}

@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+      "id" : "3AA28KZvwAUcZuOKwyblJQ",
+      "name" : "Gorillaz",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2dIGnmEIy1WZIcZCFSj6i8",
+    "id" : "2dIGnmEIy1WZIcZCFSj6i8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/94c124dd9812e03e8d21de9a05bbee08ad60ed91",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3d11b22022312540d8f220996d8a565251c9672a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/70e4398607be7672358e3b6277b622853e8a079e",
+      "width" : 64
+    } ],
+    "name" : "Plastic Beach",
+    "type" : "album",
+    "uri" : "spotify:album:2dIGnmEIy1WZIcZCFSj6i8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+    "id" : "3AA28KZvwAUcZuOKwyblJQ",
+    "name" : "Gorillaz",
+    "type" : "artist",
+    "uri" : "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+    "id" : "7hJcb9fa4alzcOq3EaNPoG",
+    "name" : "Snoop Dogg",
+    "type" : "artist",
+    "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4wvPcMJk7L9Rbw9Qh4kBeH",
+    "id" : "4wvPcMJk7L9Rbw9Qh4kBeH",
+    "name" : "Hypnotic Brass Ensemble",
+    "type" : "artist",
+    "uri" : "spotify:artist:4wvPcMJk7L9Rbw9Qh4kBeH"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 215506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE1000004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/46WOptLnXUtH3LOyYvmMO1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/46WOptLnXUtH3LOyYvmMO1",
+  "id" : "46WOptLnXUtH3LOyYvmMO1",
+  "name" : "Welcome To The World of The Plastic Beach (feat. Snoop Dogg and Hypnotic Brass Ensemble)",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2331ec3d616c9f5a606e2e0a98c66192a3bfe153?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:46WOptLnXUtH3LOyYvmMO1"
+}

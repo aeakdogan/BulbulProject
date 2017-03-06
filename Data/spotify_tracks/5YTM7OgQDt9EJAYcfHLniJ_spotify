@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4v5x3Oo3UjQ9YmF3hRAip5",
+    "id" : "4v5x3Oo3UjQ9YmF3hRAip5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8fb152d19c7a8b1377058c5ca516ad2a8aca6c0f",
+      "width" : 634
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2b7267c1b772a7c8e7a05c10c638e87f8201726e",
+      "width" : 297
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dca3574cadb7ef81fce0322808321942fa25496a",
+      "width" : 63
+    } ],
+    "name" : "Midnight Marauders",
+    "type" : "album",
+    "uri" : "spotify:album:4v5x3Oo3UjQ9YmF3hRAip5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+    "id" : "09hVIj6vWgoCDtT03h8ZCa",
+    "name" : "A Tribe Called Quest",
+    "type" : "artist",
+    "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 226440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJI10300405"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5YTM7OgQDt9EJAYcfHLniJ",
+  "id" : "5YTM7OgQDt9EJAYcfHLniJ",
+  "name" : "Award Tour",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/091602d4440f4d4f3485a7124827096ab064db31?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5YTM7OgQDt9EJAYcfHLniJ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/11TlWPqyDFLHGccTFQhcc6",
+      "id" : "11TlWPqyDFLHGccTFQhcc6",
+      "name" : "College",
+      "type" : "artist",
+      "uri" : "spotify:artist:11TlWPqyDFLHGccTFQhcc6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4tr2VX5i1VIh7QvPAVgVRb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4tr2VX5i1VIh7QvPAVgVRb",
+    "id" : "4tr2VX5i1VIh7QvPAVgVRb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f2f725066a286fdcb1126276a253dae5913ab21b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/128bbb0aeaa7aa887cf9802cdff626258c1fcafe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/08836e2c6d088506c31de18f8b2180df628b1bda",
+      "width" : 64
+    } ],
+    "name" : "Heritage",
+    "type" : "album",
+    "uri" : "spotify:album:4tr2VX5i1VIh7QvPAVgVRb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/11TlWPqyDFLHGccTFQhcc6",
+    "id" : "11TlWPqyDFLHGccTFQhcc6",
+    "name" : "College",
+    "type" : "artist",
+    "uri" : "spotify:artist:11TlWPqyDFLHGccTFQhcc6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 144954,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V81621104"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6pPQ6KlmQ4ic92UT8lQagW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6pPQ6KlmQ4ic92UT8lQagW",
+  "id" : "6pPQ6KlmQ4ic92UT8lQagW",
+  "name" : "Frontière",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/79b278fbca1faeaa106b777c2c59b0e1636a7112?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6pPQ6KlmQ4ic92UT8lQagW"
+}

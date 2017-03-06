@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/01UiJrY48IXhhPHIVUQpGw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/01UiJrY48IXhhPHIVUQpGw",
+      "id" : "01UiJrY48IXhhPHIVUQpGw",
+      "name" : "Party Supplies",
+      "type" : "artist",
+      "uri" : "spotify:artist:01UiJrY48IXhhPHIVUQpGw"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0dqYlzRZrYwEWo2SCqC743"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0dqYlzRZrYwEWo2SCqC743",
+    "id" : "0dqYlzRZrYwEWo2SCqC743",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/018f9648773de5e3ed4ebb864a10a4f6e8838bc8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/224d3041145ab1c772521829f0f9bfeb11fec2c9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f540969240fcda13cf1abd82c84e6ba0398b4861",
+      "width" : 64
+    } ],
+    "name" : "Tough Love",
+    "type" : "album",
+    "uri" : "spotify:album:0dqYlzRZrYwEWo2SCqC743"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/01UiJrY48IXhhPHIVUQpGw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/01UiJrY48IXhhPHIVUQpGw",
+    "id" : "01UiJrY48IXhhPHIVUQpGw",
+    "name" : "Party Supplies",
+    "type" : "artist",
+    "uri" : "spotify:artist:01UiJrY48IXhhPHIVUQpGw"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 249959,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMSDU1300236"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/51okIzF4cW3N2SChCiYRXW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/51okIzF4cW3N2SChCiYRXW",
+  "id" : "51okIzF4cW3N2SChCiYRXW",
+  "name" : "Love Song",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f0959a94b0f3c7902de1b3a9b90038a86a6d39c4?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:51okIzF4cW3N2SChCiYRXW"
+}

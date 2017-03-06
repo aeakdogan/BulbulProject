@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0TJB3EE2efClsYIDQ8V2Jk",
+      "id" : "0TJB3EE2efClsYIDQ8V2Jk",
+      "name" : "Elbow",
+      "type" : "artist",
+      "uri" : "spotify:artist:0TJB3EE2efClsYIDQ8V2Jk"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/39R6u9Sm7gPl7TgUUYigJI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/39R6u9Sm7gPl7TgUUYigJI",
+    "id" : "39R6u9Sm7gPl7TgUUYigJI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4e3310e09bf73ec99763416afa0abba760409f99",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b6373645be0e7da6ca3cc82f613d00a044622b85",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/adeef0a535af8bffc45bbc0ebd1d5981d3d5d685",
+      "width" : 64
+    } ],
+    "name" : "The Take Off And Landing Of Everything",
+    "type" : "album",
+    "uri" : "spotify:album:39R6u9Sm7gPl7TgUUYigJI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0TJB3EE2efClsYIDQ8V2Jk",
+    "id" : "0TJB3EE2efClsYIDQ8V2Jk",
+    "name" : "Elbow",
+    "type" : "artist",
+    "uri" : "spotify:artist:0TJB3EE2efClsYIDQ8V2Jk"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 433826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71308472"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1zDnLZrh5yR7rOzHQpF8zR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1zDnLZrh5yR7rOzHQpF8zR",
+  "id" : "1zDnLZrh5yR7rOzHQpF8zR",
+  "name" : "This Blue World",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d877e57141701721f00d48d83614e6b504b863b7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1zDnLZrh5yR7rOzHQpF8zR"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4NgfOZCL9Ml67xzM0xzIvC",
+      "id" : "4NgfOZCL9Ml67xzM0xzIvC",
+      "name" : "Janis Joplin",
+      "type" : "artist",
+      "uri" : "spotify:artist:4NgfOZCL9Ml67xzM0xzIvC"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/19hplTy1akI7ypHeZnXx00"
+    },
+    "href" : "https://api.spotify.com/v1/albums/19hplTy1akI7ypHeZnXx00",
+    "id" : "19hplTy1akI7ypHeZnXx00",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4168c2e9d1bbe8c8e12b3a46dd9a19f844d38221",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/da361450e7954a9db8ff054d70f604863643d394",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4ccb669810072c0df8ad1e1cafb8b5da4ab8b03a",
+      "width" : 64
+    } ],
+    "name" : "Farewell Song",
+    "type" : "album",
+    "uri" : "spotify:album:19hplTy1akI7ypHeZnXx00"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4NgfOZCL9Ml67xzM0xzIvC",
+    "id" : "4NgfOZCL9Ml67xzM0xzIvC",
+    "name" : "Janis Joplin",
+    "type" : "artist",
+    "uri" : "spotify:artist:4NgfOZCL9Ml67xzM0xzIvC"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 184266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19919545"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2g4zxggyax2ABxVM4jRF39"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2g4zxggyax2ABxVM4jRF39",
+  "id" : "2g4zxggyax2ABxVM4jRF39",
+  "name" : "One Night Stand",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/83a08473404cbfb3b03cd5697615ebf9a034fc1a?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2g4zxggyax2ABxVM4jRF39"
+}

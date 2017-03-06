@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZdExG4ySeqy04z4DwAXgI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZdExG4ySeqy04z4DwAXgI",
+      "id" : "1ZdExG4ySeqy04z4DwAXgI",
+      "name" : "S",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZdExG4ySeqy04z4DwAXgI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/76kmiMgijjM8Q6aMxl876g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/76kmiMgijjM8Q6aMxl876g",
+    "id" : "76kmiMgijjM8Q6aMxl876g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/533c7c5524fd43343a7aec07903f93febe3edb64",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6cba8d86b20afca081d7c3a6eab40e64d05bc9bc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c0caf36786bbd320ceecaab92b778410a1e98387",
+      "width" : 64
+    } ],
+    "name" : "im not as good at it as you",
+    "type" : "album",
+    "uri" : "spotify:album:76kmiMgijjM8Q6aMxl876g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ZdExG4ySeqy04z4DwAXgI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ZdExG4ySeqy04z4DwAXgI",
+    "id" : "1ZdExG4ySeqy04z4DwAXgI",
+    "name" : "S",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ZdExG4ySeqy04z4DwAXgI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 218106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "LUP041010001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6Nqn8GuAJjbmZjXa1b69xG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6Nqn8GuAJjbmZjXa1b69xG",
+  "id" : "6Nqn8GuAJjbmZjXa1b69xG",
+  "name" : "wait",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1042ac842f0cc8a2eae2e53438a6aa975645487?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6Nqn8GuAJjbmZjXa1b69xG"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2wPDbhaGXCqROrVmwDdCrK",
+      "id" : "2wPDbhaGXCqROrVmwDdCrK",
+      "name" : "Oneohtrix Point Never",
+      "type" : "artist",
+      "uri" : "spotify:artist:2wPDbhaGXCqROrVmwDdCrK"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1DtXzewBvv5vZBnl3ZmJqo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1DtXzewBvv5vZBnl3ZmJqo",
+    "id" : "1DtXzewBvv5vZBnl3ZmJqo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a5653e4055454eb287bff6da4be9e2769fca791c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/973022007147bfbcea18f292c7564d87631aeba9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a77c0a487ca19a128fab8689fd29d7b712a86268",
+      "width" : 64
+    } ],
+    "name" : "Replica",
+    "type" : "album",
+    "uri" : "spotify:album:1DtXzewBvv5vZBnl3ZmJqo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2wPDbhaGXCqROrVmwDdCrK",
+    "id" : "2wPDbhaGXCqROrVmwDdCrK",
+    "name" : "Oneohtrix Point Never",
+    "type" : "artist",
+    "uri" : "spotify:artist:2wPDbhaGXCqROrVmwDdCrK"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 190416,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMV8L1181003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5KXSZjxPDUHJUGfVExhOEh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5KXSZjxPDUHJUGfVExhOEh",
+  "id" : "5KXSZjxPDUHJUGfVExhOEh",
+  "name" : "Sleep Dealer",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/eebc8a20e6fb9d60178f3782e71c200703c2a8ef?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5KXSZjxPDUHJUGfVExhOEh"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5juOkIIy18sFw9L30syt1Z",
+      "id" : "5juOkIIy18sFw9L30syt1Z",
+      "name" : "Washed Out",
+      "type" : "artist",
+      "uri" : "spotify:artist:5juOkIIy18sFw9L30syt1Z"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1NTLKANenV7OuwDi37QUhQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1NTLKANenV7OuwDi37QUhQ",
+    "id" : "1NTLKANenV7OuwDi37QUhQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/99cb7892224f960a6b34245b2cb8906962a140bc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4d1072c53bc878506c20acca247a30f0d95ec00a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/896f521db70a973a543fa7523994176f757bd790",
+      "width" : 64
+    } ],
+    "name" : "Paracosm",
+    "type" : "album",
+    "uri" : "spotify:album:1NTLKANenV7OuwDi37QUhQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5juOkIIy18sFw9L30syt1Z",
+    "id" : "5juOkIIy18sFw9L30syt1Z",
+    "name" : "Washed Out",
+    "type" : "artist",
+    "uri" : "spotify:artist:5juOkIIy18sFw9L30syt1Z"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 326853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB1305505"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5EZceOJRK3pfGp1uEbRsfk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5EZceOJRK3pfGp1uEbRsfk",
+  "id" : "5EZceOJRK3pfGp1uEbRsfk",
+  "name" : "All I Know",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1e05544a03dc92811948836b9f1e3ce89bb35550?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5EZceOJRK3pfGp1uEbRsfk"
+}

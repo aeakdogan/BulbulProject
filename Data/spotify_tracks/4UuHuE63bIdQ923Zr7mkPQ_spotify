@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+      "id" : "5aIqB5nVVvmFsvSdExz408",
+      "name" : "Johann Sebastian Bach",
+      "type" : "artist",
+      "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/13dkPjqmbcchm8cXjEJQeP",
+      "id" : "13dkPjqmbcchm8cXjEJQeP",
+      "name" : "Glenn Gould",
+      "type" : "artist",
+      "uri" : "spotify:artist:13dkPjqmbcchm8cXjEJQeP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/20ethwi62B10TqVmmpurNh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/20ethwi62B10TqVmmpurNh",
+    "id" : "20ethwi62B10TqVmmpurNh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a84d349b203bc84f94b42659dbd4648a1b6eb2b9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9fddda2e92c4fc74e0077472c4463914b4f24e5e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/22ca897fb6d89b32311e93fe8ad295d3546ba18c",
+      "width" : 64
+    } ],
+    "name" : "Bach: The French Suites Nos. 1-4, BWV 812-815 - Gould Remastered",
+    "type" : "album",
+    "uri" : "spotify:album:20ethwi62B10TqVmmpurNh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5aIqB5nVVvmFsvSdExz408",
+    "id" : "5aIqB5nVVvmFsvSdExz408",
+    "name" : "Johann Sebastian Bach",
+    "type" : "artist",
+    "uri" : "spotify:artist:5aIqB5nVVvmFsvSdExz408"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/13dkPjqmbcchm8cXjEJQeP",
+    "id" : "13dkPjqmbcchm8cXjEJQeP",
+    "name" : "Glenn Gould",
+    "type" : "artist",
+    "uri" : "spotify:artist:13dkPjqmbcchm8cXjEJQeP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 135626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11410537"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4UuHuE63bIdQ923Zr7mkPQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4UuHuE63bIdQ923Zr7mkPQ",
+  "id" : "4UuHuE63bIdQ923Zr7mkPQ",
+  "name" : "French Suite No. 2 in C Minor, BWV 813: III. Sarabande - Remastered",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8cadd800fe211e8be009b48369d5a0063fc5f402?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:4UuHuE63bIdQ923Zr7mkPQ"
+}

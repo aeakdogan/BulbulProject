@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lmde7T1WJPFwv1eR6melP",
+      "id" : "7lmde7T1WJPFwv1eR6melP",
+      "name" : "Superchunk",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lmde7T1WJPFwv1eR6melP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2QDF1e1678GgUhjDEQFVkI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2QDF1e1678GgUhjDEQFVkI",
+    "id" : "2QDF1e1678GgUhjDEQFVkI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8ebf39df8591b483c1226ba2fe37d0a8c9f42298",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1a8e9ae16076cc5d0609dfa2cc2fc2aaac0a2ed5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9b654555496ec51e9c38db700f44037124391601",
+      "width" : 64
+    } ],
+    "name" : "\"This Summer\" B/W \"Cruel Summer\"",
+    "type" : "album",
+    "uri" : "spotify:album:2QDF1e1678GgUhjDEQFVkI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7lmde7T1WJPFwv1eR6melP",
+    "id" : "7lmde7T1WJPFwv1eR6melP",
+    "name" : "Superchunk",
+    "type" : "artist",
+    "uri" : "spotify:artist:7lmde7T1WJPFwv1eR6melP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 196170,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG1244901"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5seLpQSes91bp8Tm00BhPm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5seLpQSes91bp8Tm00BhPm",
+  "id" : "5seLpQSes91bp8Tm00BhPm",
+  "name" : "This Summer",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/924405de2147975e2d45782f7e92ce33e0250940?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5seLpQSes91bp8Tm00BhPm"
+}

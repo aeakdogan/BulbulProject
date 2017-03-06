@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+      "id" : "7eQZTqEMozBcuSubfu52i4",
+      "name" : "The Knife",
+      "type" : "artist",
+      "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2xsmS7sSEtbTYv73akrN6i"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2xsmS7sSEtbTYv73akrN6i",
+    "id" : "2xsmS7sSEtbTYv73akrN6i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/577c37b72fb9812141a696aba673a37d5187bb0e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/121992d756c21341666907a4ff04a0def6c742b3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c0660289b10c198c0b7193795d6059701d7af6c",
+      "width" : 64
+    } ],
+    "name" : "Tomorrow In A Year",
+    "type" : "album",
+    "uri" : "spotify:album:2xsmS7sSEtbTYv73akrN6i"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+    "id" : "7eQZTqEMozBcuSubfu52i4",
+    "name" : "The Knife",
+    "type" : "artist",
+    "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 403053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEWCE1000107"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2qPK8i9pqBUfk7migvXZ1u"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2qPK8i9pqBUfk7migvXZ1u",
+  "id" : "2qPK8i9pqBUfk7migvXZ1u",
+  "name" : "Variation Of Birds",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/03235301e073d858014e787a8e891535f8e105d2?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2qPK8i9pqBUfk7migvXZ1u"
+}

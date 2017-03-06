@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/11zHPjHnZN0ACA50rSnTcy",
+      "id" : "11zHPjHnZN0ACA50rSnTcy",
+      "name" : "Nada Surf",
+      "type" : "artist",
+      "uri" : "spotify:artist:11zHPjHnZN0ACA50rSnTcy"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5agiaJoQQjJBjmnzSXc7Pp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5agiaJoQQjJBjmnzSXc7Pp",
+    "id" : "5agiaJoQQjJBjmnzSXc7Pp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6a24d7abdca155b9240d0bb73dff035566723328",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b261e79b69a9b62582d6f7f39c1eca6361b29bcb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/349218337f0930e77f44e150063a7a3e1ddfd2fc",
+      "width" : 64
+    } ],
+    "name" : "Let Go",
+    "type" : "album",
+    "uri" : "spotify:album:5agiaJoQQjJBjmnzSXc7Pp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/11zHPjHnZN0ACA50rSnTcy",
+    "id" : "11zHPjHnZN0ACA50rSnTcy",
+    "name" : "Nada Surf",
+    "type" : "artist",
+    "uri" : "spotify:artist:11zHPjHnZN0ACA50rSnTcy"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 399133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBS50310266"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4B7Q47G27NF0oKFbUnvS3V"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4B7Q47G27NF0oKFbUnvS3V",
+  "id" : "4B7Q47G27NF0oKFbUnvS3V",
+  "name" : "Paper Boats",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/17bcc339902fb1eb7eacb5df7e6d4db771aa48de?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:4B7Q47G27NF0oKFbUnvS3V"
+}

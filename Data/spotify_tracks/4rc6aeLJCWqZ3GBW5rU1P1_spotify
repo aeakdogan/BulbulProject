@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59pWgeY26Q6yJy37QvJflh",
+      "id" : "59pWgeY26Q6yJy37QvJflh",
+      "name" : "Sleigh Bells",
+      "type" : "artist",
+      "uri" : "spotify:artist:59pWgeY26Q6yJy37QvJflh"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4TQDU2C2TcvDQGeFs4UgGT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4TQDU2C2TcvDQGeFs4UgGT",
+    "id" : "4TQDU2C2TcvDQGeFs4UgGT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ed59311a3f0cd60c2efd8b09a41096d841dd8ec3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/09e631ac14d857ead7f4c575667bf04e9644922d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/396bc6e35998d59c44bf74c222aa2a03f5b8c694",
+      "width" : 64
+    } ],
+    "name" : "Treats",
+    "type" : "album",
+    "uri" : "spotify:album:4TQDU2C2TcvDQGeFs4UgGT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/59pWgeY26Q6yJy37QvJflh",
+    "id" : "59pWgeY26Q6yJy37QvJflh",
+    "name" : "Sleigh Bells",
+    "type" : "artist",
+    "uri" : "spotify:artist:59pWgeY26Q6yJy37QvJflh"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 229893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USQE91000035"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4rc6aeLJCWqZ3GBW5rU1P1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4rc6aeLJCWqZ3GBW5rU1P1",
+  "id" : "4rc6aeLJCWqZ3GBW5rU1P1",
+  "name" : "Rill Rill",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2339aaf765cf5a9a413cff382ed4b40260f88d21?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4rc6aeLJCWqZ3GBW5rU1P1"
+}

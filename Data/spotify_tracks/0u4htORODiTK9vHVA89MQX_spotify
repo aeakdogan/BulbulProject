@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1tqZaCwM57UFKjWoYwMLrw",
+      "id" : "1tqZaCwM57UFKjWoYwMLrw",
+      "name" : "The Cardigans",
+      "type" : "artist",
+      "uri" : "spotify:artist:1tqZaCwM57UFKjWoYwMLrw"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0YI7QPNUGq8NTB6Nd8nWfd",
+    "id" : "0YI7QPNUGq8NTB6Nd8nWfd",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/e608d99eeeb9db3d80024dd5d64cff143f83b8c8",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/a0a1239cdf0376f29d8ae261a09228b7a93301a5",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/cdff822bde9b0592d5af7a94f43b5084284769db",
+      "width" : 64
+    } ],
+    "name" : "First Band On The Moon",
+    "type" : "album",
+    "uri" : "spotify:album:0YI7QPNUGq8NTB6Nd8nWfd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1tqZaCwM57UFKjWoYwMLrw",
+    "id" : "1tqZaCwM57UFKjWoYwMLrw",
+    "name" : "The Cardigans",
+    "type" : "artist",
+    "uri" : "spotify:artist:1tqZaCwM57UFKjWoYwMLrw"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 193893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEBKB9629380"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0u4htORODiTK9vHVA89MQX",
+  "id" : "0u4htORODiTK9vHVA89MQX",
+  "name" : "Lovefool - Radio Edit",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/509a3f9f69d9bf781f4790e13038bfc171dd4d09?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0u4htORODiTK9vHVA89MQX"
+}

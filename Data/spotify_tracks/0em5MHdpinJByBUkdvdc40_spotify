@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2wFzaVmHfeDG8yNaAs7lYr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2wFzaVmHfeDG8yNaAs7lYr",
+    "id" : "2wFzaVmHfeDG8yNaAs7lYr",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/8e64050339c146e9ee30bf5743d0c91f9314ec3d",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/a02d4cfbe81c0834820fbc800985059ef0f3bc47",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/95921021bba36676e8acaac43fdc7fdf64fd4f9a",
+      "width" : 64
+    } ],
+    "name" : "Disco Gold",
+    "type" : "album",
+    "uri" : "spotify:album:2wFzaVmHfeDG8yNaAs7lYr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3FxBwdg0z5WkLdlAbe7GHq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3FxBwdg0z5WkLdlAbe7GHq",
+    "id" : "3FxBwdg0z5WkLdlAbe7GHq",
+    "name" : "The Ritchie Family",
+    "type" : "artist",
+    "uri" : "spotify:artist:3FxBwdg0z5WkLdlAbe7GHq"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 310333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR20500381"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0em5MHdpinJByBUkdvdc40"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0em5MHdpinJByBUkdvdc40",
+  "id" : "0em5MHdpinJByBUkdvdc40",
+  "name" : "Brazil",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e74041f94c4aa62f717280bbff47dcf865293105?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0em5MHdpinJByBUkdvdc40"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02da1vDJ2hWqfK7aJL6SJm",
+      "id" : "02da1vDJ2hWqfK7aJL6SJm",
+      "name" : "Soul Asylum",
+      "type" : "artist",
+      "uri" : "spotify:artist:02da1vDJ2hWqfK7aJL6SJm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "SE", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3EFhsxrJoH3yE3r8bHheE6",
+    "id" : "3EFhsxrJoH3yE3r8bHheE6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/070aac01a996e419a8b8c87e9b59c5bf330d2f32",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/96167bb1daa9248f0addbd38d12f27a4d9dd487e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dfd251fab387352c77ca74710be4dbfcee3c19bd",
+      "width" : 64
+    } ],
+    "name" : "Grave Dancers Union",
+    "type" : "album",
+    "uri" : "spotify:album:3EFhsxrJoH3yE3r8bHheE6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/02da1vDJ2hWqfK7aJL6SJm",
+    "id" : "02da1vDJ2hWqfK7aJL6SJm",
+    "name" : "Soul Asylum",
+    "type" : "artist",
+    "uri" : "spotify:artist:02da1vDJ2hWqfK7aJL6SJm"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "SE", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 265866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19200235"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3TW48DvQ7ChwY1Yy1tkMaP",
+  "id" : "3TW48DvQ7ChwY1Yy1tkMaP",
+  "name" : "Runaway Train",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b7955ead5c4952e490595c31be111a3febf568a8?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3TW48DvQ7ChwY1Yy1tkMaP"
+}

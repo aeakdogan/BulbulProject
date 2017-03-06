@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2PCUhxD40qlMqsKHjTZD2e",
+      "id" : "2PCUhxD40qlMqsKHjTZD2e",
+      "name" : "Parachute",
+      "type" : "artist",
+      "uri" : "spotify:artist:2PCUhxD40qlMqsKHjTZD2e"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1xUlpEzwUautb4HYaVazLh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1xUlpEzwUautb4HYaVazLh",
+    "id" : "1xUlpEzwUautb4HYaVazLh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/28cf585eda740456fc22f31411ef835221667445",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5dbab0c95f8f653dc5563b9c487776df4284f525",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4fb3606fad2f3eba63be73538b9aea70f75a61c7",
+      "width" : 64
+    } ],
+    "name" : "Losing Sleep",
+    "type" : "album",
+    "uri" : "spotify:album:1xUlpEzwUautb4HYaVazLh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2PCUhxD40qlMqsKHjTZD2e",
+    "id" : "2PCUhxD40qlMqsKHjTZD2e",
+    "name" : "Parachute",
+    "type" : "artist",
+    "uri" : "spotify:artist:2PCUhxD40qlMqsKHjTZD2e"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 146066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70964234"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Dz5WpEWA0vhnMmEPYiZ2y"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Dz5WpEWA0vhnMmEPYiZ2y",
+  "id" : "2Dz5WpEWA0vhnMmEPYiZ2y",
+  "name" : "She Is Love",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9858fb252ea96249fa32ea62c33a0938b28d3846?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2Dz5WpEWA0vhnMmEPYiZ2y"
+}

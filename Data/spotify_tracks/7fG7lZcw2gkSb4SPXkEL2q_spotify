@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0TYvluyvV1Es8lTHiBfnAn",
+      "id" : "0TYvluyvV1Es8lTHiBfnAn",
+      "name" : "Tosca",
+      "type" : "artist",
+      "uri" : "spotify:artist:0TYvluyvV1Es8lTHiBfnAn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6uImmHfHsjufYQ9f4SAbSA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6uImmHfHsjufYQ9f4SAbSA",
+    "id" : "6uImmHfHsjufYQ9f4SAbSA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9e32bdec375abf950b59ec9606e3161455f6931c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ae4fc4d04d7629019ec456c00d22d311ca7afb48",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e7026eaebf909dad744bfd76c909c25655e1647d",
+      "width" : 64
+    } ],
+    "name" : "No Hassle",
+    "type" : "album",
+    "uri" : "spotify:album:6uImmHfHsjufYQ9f4SAbSA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0TYvluyvV1Es8lTHiBfnAn",
+    "id" : "0TYvluyvV1Es8lTHiBfnAn",
+    "name" : "Tosca",
+    "type" : "artist",
+    "uri" : "spotify:artist:0TYvluyvV1Es8lTHiBfnAn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 307680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEG930900803"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7fG7lZcw2gkSb4SPXkEL2q"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7fG7lZcw2gkSb4SPXkEL2q",
+  "id" : "7fG7lZcw2gkSb4SPXkEL2q",
+  "name" : "Rosa",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/867cde02aaf5b2dd848f17a306a902208036e977?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:7fG7lZcw2gkSb4SPXkEL2q"
+}

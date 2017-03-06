@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xTk3EK5T9UzudENVvu9YB",
+      "id" : "6xTk3EK5T9UzudENVvu9YB",
+      "name" : "Rancid",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xTk3EK5T9UzudENVvu9YB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7eP4TXdwO68vnivfDxs6fg",
+    "id" : "7eP4TXdwO68vnivfDxs6fg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/da14d50fd9f6e01522ca2ff5400a690ce03d1cc9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5e72c07adcd15649f49250e21cf555cdb225388a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/921c4a415cabc4ec41b86f646d3d3ace6cc3e360",
+      "width" : 64
+    } ],
+    "name" : "Indestructible",
+    "type" : "album",
+    "uri" : "spotify:album:7eP4TXdwO68vnivfDxs6fg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6xTk3EK5T9UzudENVvu9YB",
+    "id" : "6xTk3EK5T9UzudENVvu9YB",
+    "name" : "Rancid",
+    "type" : "artist",
+    "uri" : "spotify:artist:6xTk3EK5T9UzudENVvu9YB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 223227,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10301489"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3pdHJCTk85ls2SGGXIJ7XH",
+  "id" : "3pdHJCTk85ls2SGGXIJ7XH",
+  "name" : "Fall Back Down",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ba3e535bd62e1045a5d781cd40b74d7307cd1ba5?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3pdHJCTk85ls2SGGXIJ7XH"
+}

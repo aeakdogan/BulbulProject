@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+      "id" : "3yY2gUcIsjMr8hjo51PoJ8",
+      "name" : "The Smiths",
+      "type" : "artist",
+      "uri" : "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Y0p2XCgRRIjna91aQE8q7",
+    "id" : "5Y0p2XCgRRIjna91aQE8q7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b7fac1b9cf9f01e5cf66d3bfde7cffa1c9e0c234",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/df20f7f7b4c8bf3e11fb043125a9b94d6a61967b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b4b8a45dac1224691290c91148674ef7877ae398",
+      "width" : 64
+    } ],
+    "name" : "The Queen Is Dead",
+    "type" : "album",
+    "uri" : "spotify:album:5Y0p2XCgRRIjna91aQE8q7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+    "id" : "3yY2gUcIsjMr8hjo51PoJ8",
+    "name" : "The Smiths",
+    "type" : "artist",
+    "uri" : "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 244586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCRL1100054"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0WQiDwKJclirSYG9v5tayI",
+  "id" : "0WQiDwKJclirSYG9v5tayI",
+  "name" : "There Is A Light That Never Goes Out - 2011 Remastered Version",
+  "popularity" : 65,
+  "preview_url" : "https://p.scdn.co/mp3-preview/839d38dbf04ca2ff858eb03d0442358ffb393adb?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:0WQiDwKJclirSYG9v5tayI"
+}

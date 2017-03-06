@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+      "id" : "2DaxqgrOhkeH0fpeiQq2f4",
+      "name" : "Oasis",
+      "type" : "artist",
+      "uri" : "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Esiu8FNzQ8lgZWy6p0DXD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Esiu8FNzQ8lgZWy6p0DXD",
+    "id" : "1Esiu8FNzQ8lgZWy6p0DXD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3c7360296223c9e1361d7eec75ac8cdb4e47b7d9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/23dec0ef17fda2d41389d3d2eb3708eb9eb0b71a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/42efbd1401598b05a9c0b2f2b8239323955b7f3e",
+      "width" : 64
+    } ],
+    "name" : "Heathen Chemistry",
+    "type" : "album",
+    "uri" : "spotify:album:1Esiu8FNzQ8lgZWy6p0DXD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+    "id" : "2DaxqgrOhkeH0fpeiQq2f4",
+    "name" : "Oasis",
+    "type" : "artist",
+    "uri" : "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 291786,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBQY0202061"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6g2B1UPIuUPw3Dm7UQ3hsm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6g2B1UPIuUPw3Dm7UQ3hsm",
+  "id" : "6g2B1UPIuUPw3Dm7UQ3hsm",
+  "name" : "Force Of Nature",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/23ef0e9fc9f044b4bd5c2d40968376d342c861a3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6g2B1UPIuUPw3Dm7UQ3hsm"
+}

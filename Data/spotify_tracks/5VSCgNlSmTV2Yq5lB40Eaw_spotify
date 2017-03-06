@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34v5MVKeQnIo0CWYMbbrPf",
+      "id" : "34v5MVKeQnIo0CWYMbbrPf",
+      "name" : "John Newman",
+      "type" : "artist",
+      "uri" : "spotify:artist:34v5MVKeQnIo0CWYMbbrPf"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7ybleSrN0ZT3bci5WZ6puk",
+    "id" : "7ybleSrN0ZT3bci5WZ6puk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f1ede7e1bc61142bc2b567ddcfbb35b57ba63299",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1c9167ede9f85f81c8d64c28961a36c61332ac61",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5c42af708406d35b3394f11735173855fb9f8a0c",
+      "width" : 64
+    } ],
+    "name" : "Tribute",
+    "type" : "album",
+    "uri" : "spotify:album:7ybleSrN0ZT3bci5WZ6puk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/34v5MVKeQnIo0CWYMbbrPf",
+    "id" : "34v5MVKeQnIo0CWYMbbrPf",
+    "name" : "John Newman",
+    "type" : "artist",
+    "uri" : "spotify:artist:34v5MVKeQnIo0CWYMbbrPf"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 239894,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71301538"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5VSCgNlSmTV2Yq5lB40Eaw",
+  "id" : "5VSCgNlSmTV2Yq5lB40Eaw",
+  "name" : "Love Me Again",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/576c89d24e993655ea2f2c02c8a7d6d2d7c8be1b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5VSCgNlSmTV2Yq5lB40Eaw"
+}

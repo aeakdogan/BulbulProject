@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6bWxFw65IEJzBYjx3SxUXd",
+      "id" : "6bWxFw65IEJzBYjx3SxUXd",
+      "name" : "Morcheeba",
+      "type" : "artist",
+      "uri" : "spotify:artist:6bWxFw65IEJzBYjx3SxUXd"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2EvCOC7gloF27DCkI6TZLV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2EvCOC7gloF27DCkI6TZLV",
+    "id" : "2EvCOC7gloF27DCkI6TZLV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b58412f31ade8c53b79ec7add21b5803cf6321ab",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d2b6231504af0430f4903d5fbc7dd19cb432ae8f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/17e729449139752ac8129619601b7421d5149611",
+      "width" : 64
+    } ],
+    "name" : "Blood Like Lemonade",
+    "type" : "album",
+    "uri" : "spotify:album:2EvCOC7gloF27DCkI6TZLV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6bWxFw65IEJzBYjx3SxUXd",
+    "id" : "6bWxFw65IEJzBYjx3SxUXd",
+    "name" : "Morcheeba",
+    "type" : "artist",
+    "uri" : "spotify:artist:6bWxFw65IEJzBYjx3SxUXd"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 310280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEP011000031"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2LDa1AIqKp7o8XxftoUxtt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2LDa1AIqKp7o8XxftoUxtt",
+  "id" : "2LDa1AIqKp7o8XxftoUxtt",
+  "name" : "Crimson",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/198b9407e7cfdde32c69c1149f7111a85b5be41c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2LDa1AIqKp7o8XxftoUxtt"
+}

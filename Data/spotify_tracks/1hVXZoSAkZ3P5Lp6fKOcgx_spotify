@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3kUKwTJdH8FuWzF8p6Dg9E",
+      "id" : "3kUKwTJdH8FuWzF8p6Dg9E",
+      "name" : "Dave Brubeck",
+      "type" : "artist",
+      "uri" : "spotify:artist:3kUKwTJdH8FuWzF8p6Dg9E"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2FpXNwmewH9F2bytZMevuS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2FpXNwmewH9F2bytZMevuS",
+    "id" : "2FpXNwmewH9F2bytZMevuS",
+    "images" : [ {
+      "height" : 581,
+      "url" : "https://i.scdn.co/image/22a64a3ddad4c05a6c12986df2f36d81560b4ec6",
+      "width" : 640
+    }, {
+      "height" : 272,
+      "url" : "https://i.scdn.co/image/1232a6097aa435d2fbf7b70359f2be2f9c55ac30",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/eee6c22ebf63484b995d7c48ca1bb8d0ad62b44c",
+      "width" : 64
+    } ],
+    "name" : "Time Out",
+    "type" : "album",
+    "uri" : "spotify:album:2FpXNwmewH9F2bytZMevuS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+    "id" : "4iRZAbYvBqnxrbs6K25aJ7",
+    "name" : "The Dave Brubeck Quartet",
+    "type" : "artist",
+    "uri" : "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 324680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM15900108"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1hVXZoSAkZ3P5Lp6fKOcgx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1hVXZoSAkZ3P5Lp6fKOcgx",
+  "id" : "1hVXZoSAkZ3P5Lp6fKOcgx",
+  "name" : "Take Five",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/99bae512e6ab63be080febf8ac6d123dc59ee308?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1hVXZoSAkZ3P5Lp6fKOcgx"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+      "id" : "5a2EaR3hamoenG9rDuVn8j",
+      "name" : "Prince",
+      "type" : "artist",
+      "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/03JxJZCOK54jmkrhlDczlA",
+    "id" : "03JxJZCOK54jmkrhlDczlA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6b85a0ccba273fbdedb6f69aaaccc920b2ea73b6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/573c40fe80bf1471780b7eb0650c16441d2c8c18",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8e6cf6040836b69a47662db43ae24d8cf9882845",
+      "width" : 64
+    } ],
+    "name" : "[Love Symbol]",
+    "type" : "album",
+    "uri" : "spotify:album:03JxJZCOK54jmkrhlDczlA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+    "id" : "5a2EaR3hamoenG9rDuVn8j",
+    "name" : "Prince",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 398333,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USWB19900586"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/20qyckJrLZQGQmNb5OmpkJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/20qyckJrLZQGQmNb5OmpkJ",
+  "id" : "20qyckJrLZQGQmNb5OmpkJ",
+  "name" : "My Name Is Prince",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/16da28705323660c17a150e57c4ae058ad0a0515?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:20qyckJrLZQGQmNb5OmpkJ"
+}

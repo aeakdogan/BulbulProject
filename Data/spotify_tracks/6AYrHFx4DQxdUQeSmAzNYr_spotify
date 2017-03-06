@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6XZYAWJLL8UIbxAqjKj3cg",
+      "id" : "6XZYAWJLL8UIbxAqjKj3cg",
+      "name" : "SOHN",
+      "type" : "artist",
+      "uri" : "spotify:artist:6XZYAWJLL8UIbxAqjKj3cg"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6xGF4UA9pQweZI5yUBFlRq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6xGF4UA9pQweZI5yUBFlRq",
+    "id" : "6xGF4UA9pQweZI5yUBFlRq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/54084e7cf91ca6a714a6ecacd6e2e5aea98afcfb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5090572d29719c72e11be1a167c2fa2d9ea1d0cc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0ecdf3531e7c29bd0503616a2dd7a63c1c5645da",
+      "width" : 64
+    } ],
+    "name" : "Tremors",
+    "type" : "album",
+    "uri" : "spotify:album:6xGF4UA9pQweZI5yUBFlRq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6XZYAWJLL8UIbxAqjKj3cg",
+    "id" : "6XZYAWJLL8UIbxAqjKj3cg",
+    "name" : "SOHN",
+    "type" : "artist",
+    "uri" : "spotify:artist:6XZYAWJLL8UIbxAqjKj3cg"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 197977,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAFL1400006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6AYrHFx4DQxdUQeSmAzNYr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6AYrHFx4DQxdUQeSmAzNYr",
+  "id" : "6AYrHFx4DQxdUQeSmAzNYr",
+  "name" : "Artifice",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/954fa3e113c58e95ae41e65d3d6fbf1601f68305?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6AYrHFx4DQxdUQeSmAzNYr"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6GwNGuDRNbx5XwoHQA3QiD",
+      "id" : "6GwNGuDRNbx5XwoHQA3QiD",
+      "name" : "Twin Forks",
+      "type" : "artist",
+      "uri" : "spotify:artist:6GwNGuDRNbx5XwoHQA3QiD"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6WU9Z2HcsYNL3ImMBzZNow"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6WU9Z2HcsYNL3ImMBzZNow",
+    "id" : "6WU9Z2HcsYNL3ImMBzZNow",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/77911237c751f791caab380c1b23afeb850b6f9c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3f7a1ec51dd3fa665994ceebf3263145159a0cd2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/404f9faf3787d7cf52982d41f33d467c4cc8a9d0",
+      "width" : 64
+    } ],
+    "name" : "Twin Forks",
+    "type" : "album",
+    "uri" : "spotify:album:6WU9Z2HcsYNL3ImMBzZNow"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6GwNGuDRNbx5XwoHQA3QiD",
+    "id" : "6GwNGuDRNbx5XwoHQA3QiD",
+    "name" : "Twin Forks",
+    "type" : "artist",
+    "uri" : "spotify:artist:6GwNGuDRNbx5XwoHQA3QiD"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 170960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CADE70901293"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5gHR34g8eZzmDWKYmVw0Ye"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5gHR34g8eZzmDWKYmVw0Ye",
+  "id" : "5gHR34g8eZzmDWKYmVw0Ye",
+  "name" : "Back To You",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/973d344b4c0722aabbdfa2de67e67fbe0099c37a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5gHR34g8eZzmDWKYmVw0Ye"
+}

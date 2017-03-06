@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XzHxDFTNywDd5ReMhgxkg",
+      "id" : "2XzHxDFTNywDd5ReMhgxkg",
+      "name" : "The Whispers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XzHxDFTNywDd5ReMhgxkg"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4hD3PnmikBZEIfVRqfGWZj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4hD3PnmikBZEIfVRqfGWZj",
+    "id" : "4hD3PnmikBZEIfVRqfGWZj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d655735ee222ad4b88d410ca572fd482db9d7ef9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d8701c2d452ff2efc02d3aaec7720396b6b9a3b4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7cb6aa5663613b1e706cd1e65585ea6ee423d8e4",
+      "width" : 64
+    } ],
+    "name" : "The Beat Goes On Live In Baltimore",
+    "type" : "album",
+    "uri" : "spotify:album:4hD3PnmikBZEIfVRqfGWZj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2XzHxDFTNywDd5ReMhgxkg",
+    "id" : "2XzHxDFTNywDd5ReMhgxkg",
+    "name" : "The Whispers",
+    "type" : "artist",
+    "uri" : "spotify:artist:2XzHxDFTNywDd5ReMhgxkg"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 290521,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA371130765"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5N81bA60zDOCoBTDawMrIg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5N81bA60zDOCoBTDawMrIg",
+  "id" : "5N81bA60zDOCoBTDawMrIg",
+  "name" : "And The Beat Goes On",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/449e2a108a99b5c42583240106ba8eff4c753b6e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5N81bA60zDOCoBTDawMrIg"
+}

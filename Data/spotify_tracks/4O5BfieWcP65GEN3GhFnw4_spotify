@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44mVqYPHmFgrDJxv6CWrOo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44mVqYPHmFgrDJxv6CWrOo",
+      "id" : "44mVqYPHmFgrDJxv6CWrOo",
+      "name" : "Frankie Rose",
+      "type" : "artist",
+      "uri" : "spotify:artist:44mVqYPHmFgrDJxv6CWrOo"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5CNErZtXw51BJlh9HTpqEA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5CNErZtXw51BJlh9HTpqEA",
+    "id" : "5CNErZtXw51BJlh9HTpqEA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/882de468db09550f2e770f33e90c5333d8eec5fc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/883b4313cafe26917ad04fbd7ff5cb59df89342c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b9577b98d253305ddee515ad1b54265acf11b8a0",
+      "width" : 64
+    } ],
+    "name" : "Interstellar",
+    "type" : "album",
+    "uri" : "spotify:album:5CNErZtXw51BJlh9HTpqEA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/44mVqYPHmFgrDJxv6CWrOo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/44mVqYPHmFgrDJxv6CWrOo",
+    "id" : "44mVqYPHmFgrDJxv6CWrOo",
+    "name" : "Frankie Rose",
+    "type" : "artist",
+    "uri" : "spotify:artist:44mVqYPHmFgrDJxv6CWrOo"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 154626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4TA1200009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4O5BfieWcP65GEN3GhFnw4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4O5BfieWcP65GEN3GhFnw4",
+  "id" : "4O5BfieWcP65GEN3GhFnw4",
+  "name" : "Night Swim",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fd306def378bd965562cb967b25a968347943c83?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4O5BfieWcP65GEN3GhFnw4"
+}

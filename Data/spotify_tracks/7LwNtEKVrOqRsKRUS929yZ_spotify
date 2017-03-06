@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5uTJLo3c4ZHpH8oEwGxYUN",
+      "id" : "5uTJLo3c4ZHpH8oEwGxYUN",
+      "name" : "Lower Dens",
+      "type" : "artist",
+      "uri" : "spotify:artist:5uTJLo3c4ZHpH8oEwGxYUN"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/090RPfXU8lQNCmPXww1q5D"
+    },
+    "href" : "https://api.spotify.com/v1/albums/090RPfXU8lQNCmPXww1q5D",
+    "id" : "090RPfXU8lQNCmPXww1q5D",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e6d2305728a05c9c1e7ea82bbd8fd4ee94f67fde",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4763ada4af050405ffd7ab3f03208d20bea2e55c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ee84a7b7b7b08a514db65324c1bf07eae9540985",
+      "width" : 64
+    } ],
+    "name" : "Nootropics",
+    "type" : "album",
+    "uri" : "spotify:album:090RPfXU8lQNCmPXww1q5D"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5uTJLo3c4ZHpH8oEwGxYUN",
+    "id" : "5uTJLo3c4ZHpH8oEwGxYUN",
+    "name" : "Lower Dens",
+    "type" : "artist",
+    "uri" : "spotify:artist:5uTJLo3c4ZHpH8oEwGxYUN"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 307731,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1100741"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7LwNtEKVrOqRsKRUS929yZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7LwNtEKVrOqRsKRUS929yZ",
+  "id" : "7LwNtEKVrOqRsKRUS929yZ",
+  "name" : "Brains",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/eea39802f2b9a6ad75c36d708de2085ff3f4c214?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7LwNtEKVrOqRsKRUS929yZ"
+}

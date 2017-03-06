@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+      "id" : "3iOvXCl6edW5Um0fXEBRXy",
+      "name" : "The xx",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4fUxANSrGWQlRtF2kpxo6g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4fUxANSrGWQlRtF2kpxo6g",
+    "id" : "4fUxANSrGWQlRtF2kpxo6g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bb23e24317c7d046588b75c0a74a885be261d9c4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f1d4d40e3b7f89857ad25dcc49ae26828babe480",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1303576c956b424f9976264d8aeae70893f28f3c",
+      "width" : 64
+    } ],
+    "name" : "Fiction",
+    "type" : "album",
+    "uri" : "spotify:album:4fUxANSrGWQlRtF2kpxo6g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+    "id" : "3iOvXCl6edW5Um0fXEBRXy",
+    "name" : "The xx",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 325968,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS1300042"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/33NysMbc4naLtmQyODcZxo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/33NysMbc4naLtmQyODcZxo",
+  "id" : "33NysMbc4naLtmQyODcZxo",
+  "name" : "Together",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1ac6f3d18afb2ae80597f6c59dad0d1515c9ccf8?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:33NysMbc4naLtmQyODcZxo"
+}

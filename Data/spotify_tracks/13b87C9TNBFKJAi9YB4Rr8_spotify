@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+      "id" : "7MSUfLeTdDEoZiJPDSBXgi",
+      "name" : "Brian Eno",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6lU1MDxi3TqhKnYNQm555u",
+    "id" : "6lU1MDxi3TqhKnYNQm555u",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/70096cfb0f885fbed8c52887d9bd06dc3c88430c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/78d380a211a1a5c94d6c84a5488bb4ff6d7883f4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d6a47ae57ed4cc4ac3bcaa83d37097bd25b7ee01",
+      "width" : 64
+    } ],
+    "name" : "Before And After Science",
+    "type" : "album",
+    "uri" : "spotify:album:6lU1MDxi3TqhKnYNQm555u"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+    "id" : "7MSUfLeTdDEoZiJPDSBXgi",
+    "name" : "Brian Eno",
+    "type" : "artist",
+    "uri" : "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 183493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0400095"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/13b87C9TNBFKJAi9YB4Rr8",
+  "id" : "13b87C9TNBFKJAi9YB4Rr8",
+  "name" : "By This River - 2004 Digital Remaster",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fc38dfd945a302b10d34e851686e3b32849f190e?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:13b87C9TNBFKJAi9YB4Rr8"
+}

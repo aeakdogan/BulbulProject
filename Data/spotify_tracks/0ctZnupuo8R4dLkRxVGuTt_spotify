@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7nXyULtoL8k7wP9l6kg8Ef",
+      "id" : "7nXyULtoL8k7wP9l6kg8Ef",
+      "name" : "Madeleine Peyroux",
+      "type" : "artist",
+      "uri" : "spotify:artist:7nXyULtoL8k7wP9l6kg8Ef"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2m48UEq0QRrMktakzn7zgL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2m48UEq0QRrMktakzn7zgL",
+    "id" : "2m48UEq0QRrMktakzn7zgL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f3ab0cc9a0b2826d27f870d3a13a70181a61d0a6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3d7d9cc003309ebacc87b8bcf9d4690376eaa3e0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/33833a823586fe133c02591b66b3bc90e2cfa002",
+      "width" : 64
+    } ],
+    "name" : "Half The Perfect World",
+    "type" : "album",
+    "uri" : "spotify:album:2m48UEq0QRrMktakzn7zgL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7nXyULtoL8k7wP9l6kg8Ef",
+    "id" : "7nXyULtoL8k7wP9l6kg8Ef",
+    "name" : "Madeleine Peyroux",
+    "type" : "artist",
+    "uri" : "spotify:artist:7nXyULtoL8k7wP9l6kg8Ef"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRO20625202"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ctZnupuo8R4dLkRxVGuTt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ctZnupuo8R4dLkRxVGuTt",
+  "id" : "0ctZnupuo8R4dLkRxVGuTt",
+  "name" : "The Summer Wind",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/448ed58bd0f5149cfefa2db847611c2db53c5299?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0ctZnupuo8R4dLkRxVGuTt"
+}

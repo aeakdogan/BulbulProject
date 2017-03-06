@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0DoRa03IPuPzfAlD8aMgn9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0DoRa03IPuPzfAlD8aMgn9",
+      "id" : "0DoRa03IPuPzfAlD8aMgn9",
+      "name" : "Quiet Village",
+      "type" : "artist",
+      "uri" : "spotify:artist:0DoRa03IPuPzfAlD8aMgn9"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/49vkVbaSa295Y8LiqaA6go"
+    },
+    "href" : "https://api.spotify.com/v1/albums/49vkVbaSa295Y8LiqaA6go",
+    "id" : "49vkVbaSa295Y8LiqaA6go",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9b5dee859ba7351789628104fea7731d5d45ed1c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0c3361a7073635fe286c8a2d2ccb5ed59a7796d9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2c7e8e5d68da21aa9475738cec97806542e5ac1c",
+      "width" : 64
+    } ],
+    "name" : "Silent Movie",
+    "type" : "album",
+    "uri" : "spotify:album:49vkVbaSa295Y8LiqaA6go"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0DoRa03IPuPzfAlD8aMgn9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0DoRa03IPuPzfAlD8aMgn9",
+    "id" : "0DoRa03IPuPzfAlD8aMgn9",
+    "name" : "Quiet Village",
+    "type" : "artist",
+    "uri" : "spotify:artist:0DoRa03IPuPzfAlD8aMgn9"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 260000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEG930800707"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/17RzCXT6P5FpcmZSOSeU5w"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/17RzCXT6P5FpcmZSOSeU5w",
+  "id" : "17RzCXT6P5FpcmZSOSeU5w",
+  "name" : "Free Rider",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7e8450314d940137bb9e62d87f275f9f651f2fb4?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:17RzCXT6P5FpcmZSOSeU5w"
+}

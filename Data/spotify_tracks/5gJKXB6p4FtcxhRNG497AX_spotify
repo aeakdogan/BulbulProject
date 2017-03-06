@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM",
+      "id" : "7x83XhcMbOTl1UdYsPTuZM",
+      "name" : "Tom Waits",
+      "type" : "artist",
+      "uri" : "spotify:artist:7x83XhcMbOTl1UdYsPTuZM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ENah6iWByAVrxQS7uiF87"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ENah6iWByAVrxQS7uiF87",
+    "id" : "4ENah6iWByAVrxQS7uiF87",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8e653240017bbb3fba7313dfa4a887cc06a4a238",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5116c712e893a4be042eb07c368ff002ca84339b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fd5cd807acbfd66e76c5977ccfc656d63cfb6271",
+      "width" : 64
+    } ],
+    "name" : "Closing Time",
+    "type" : "album",
+    "uri" : "spotify:album:4ENah6iWByAVrxQS7uiF87"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM",
+    "id" : "7x83XhcMbOTl1UdYsPTuZM",
+    "name" : "Tom Waits",
+    "type" : "artist",
+    "uri" : "spotify:artist:7x83XhcMbOTl1UdYsPTuZM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 185640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10801097"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5gJKXB6p4FtcxhRNG497AX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5gJKXB6p4FtcxhRNG497AX",
+  "id" : "5gJKXB6p4FtcxhRNG497AX",
+  "name" : "Ice Cream Man",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ee81ac48464b449e90c8db95682e5a061a0100cd?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:5gJKXB6p4FtcxhRNG497AX"
+}

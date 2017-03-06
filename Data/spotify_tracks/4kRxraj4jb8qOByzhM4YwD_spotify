@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+      "id" : "0oSGxfWSnnOXhD2fKuz2Gy",
+      "name" : "David Bowie",
+      "type" : "artist",
+      "uri" : "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Oqi3Mm316FRX5H9mHjF0b"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Oqi3Mm316FRX5H9mHjF0b",
+    "id" : "0Oqi3Mm316FRX5H9mHjF0b",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/52bfdb137df31491d6e973264e1eff1c381ba98b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f778b73ad49b66474971ea88bb53566372f020fc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/af7c44576d122b592e44717fe900f1004031a316",
+      "width" : 64
+    } ],
+    "name" : "Low",
+    "type" : "album",
+    "uri" : "spotify:album:0Oqi3Mm316FRX5H9mHjF0b"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+    "id" : "0oSGxfWSnnOXhD2fKuz2Gy",
+    "name" : "David Bowie",
+    "type" : "artist",
+    "uri" : "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 176973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJT19900119"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4kRxraj4jb8qOByzhM4YwD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4kRxraj4jb8qOByzhM4YwD",
+  "id" : "4kRxraj4jb8qOByzhM4YwD",
+  "name" : "Be My Wife - 1999 Remastered Version",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1dcc3afefad5aa043029f2ac9eb268078a495d62?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:4kRxraj4jb8qOByzhM4YwD"
+}

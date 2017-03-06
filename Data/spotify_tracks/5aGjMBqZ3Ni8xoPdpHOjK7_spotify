@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1OVhxcft9d7zP1RUrvf3t6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1OVhxcft9d7zP1RUrvf3t6",
+      "id" : "1OVhxcft9d7zP1RUrvf3t6",
+      "name" : "A Camp",
+      "type" : "artist",
+      "uri" : "spotify:artist:1OVhxcft9d7zP1RUrvf3t6"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7dvMX8nMwDEzKDAJAtXSwX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7dvMX8nMwDEzKDAJAtXSwX",
+    "id" : "7dvMX8nMwDEzKDAJAtXSwX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/70362551a952b1166eebcaaca318761152a05adc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c33f442929c9a5801b7e6e6b26c67d27a40385ac",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c08f6ce1acd24492fa7b73447d8e5ee7a087393a",
+      "width" : 64
+    } ],
+    "name" : "Colonia",
+    "type" : "album",
+    "uri" : "spotify:album:7dvMX8nMwDEzKDAJAtXSwX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1OVhxcft9d7zP1RUrvf3t6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1OVhxcft9d7zP1RUrvf3t6",
+    "id" : "1OVhxcft9d7zP1RUrvf3t6",
+    "name" : "A Camp",
+    "type" : "artist",
+    "uri" : "spotify:artist:1OVhxcft9d7zP1RUrvf3t6"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 184586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEYMH0800102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5aGjMBqZ3Ni8xoPdpHOjK7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5aGjMBqZ3Ni8xoPdpHOjK7",
+  "id" : "5aGjMBqZ3Ni8xoPdpHOjK7",
+  "name" : "Stronger Than Jesus",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/687f6597327d7a62957b34aaf273c1586a7aecea?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5aGjMBqZ3Ni8xoPdpHOjK7"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6JhsZANOSVD2dnJt1ZHr3z",
+      "id" : "6JhsZANOSVD2dnJt1ZHr3z",
+      "name" : "Tony Spinner",
+      "type" : "artist",
+      "uri" : "spotify:artist:6JhsZANOSVD2dnJt1ZHr3z"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1NGrtPLYUBjDEpfguARNe3",
+    "id" : "1NGrtPLYUBjDEpfguARNe3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6ab5812b9c9749257866d8cf9145a7492091e644",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/663c07a1a304a8d88cf1ea31623b27e13b78e0d3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0dc88e63d85201108e179b102779b5d49754d3a4",
+      "width" : 64
+    } ],
+    "name" : "Earth Music for Aliens",
+    "type" : "album",
+    "uri" : "spotify:album:1NGrtPLYUBjDEpfguARNe3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6JhsZANOSVD2dnJt1ZHr3z",
+    "id" : "6JhsZANOSVD2dnJt1ZHr3z",
+    "name" : "Tony Spinner",
+    "type" : "artist",
+    "uri" : "spotify:artist:6JhsZANOSVD2dnJt1ZHr3z"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 302640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm91374646"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4gRRWu6UKWASIQzzOzkXUx",
+  "id" : "4gRRWu6UKWASIQzzOzkXUx",
+  "name" : "The Answer",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/50006cdcb53b6e79f5f075e9d3d5fada79cdb5e2?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4gRRWu6UKWASIQzzOzkXUx"
+}

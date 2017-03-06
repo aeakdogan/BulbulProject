@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SP6T04F8Ic9oftMVfdKkp",
+      "id" : "5SP6T04F8Ic9oftMVfdKkp",
+      "name" : "King Creosote",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SP6T04F8Ic9oftMVfdKkp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+      "id" : "7yxi31szvlbwvKq9dYOmFI",
+      "name" : "Jon Hopkins",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2kxOK2w5uZ7apc2WHYSZSL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2kxOK2w5uZ7apc2WHYSZSL",
+    "id" : "2kxOK2w5uZ7apc2WHYSZSL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/118d374fbddaa49366d15a22a029b4a7c2e0c18b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dc78d895ebbdbdc035189b56065372cc0ea8c481",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4fe94c1a0cd9a4033f75b3442d8b50df5b9c59b6",
+      "width" : 64
+    } ],
+    "name" : "Diamond Mine Jubilee Edition",
+    "type" : "album",
+    "uri" : "spotify:album:2kxOK2w5uZ7apc2WHYSZSL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5SP6T04F8Ic9oftMVfdKkp",
+    "id" : "5SP6T04F8Ic9oftMVfdKkp",
+    "name" : "King Creosote",
+    "type" : "artist",
+    "uri" : "spotify:artist:5SP6T04F8Ic9oftMVfdKkp"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+    "id" : "7yxi31szvlbwvKq9dYOmFI",
+    "name" : "Jon Hopkins",
+    "type" : "artist",
+    "uri" : "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 176733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1100719"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4czpQViifmqvSnGtBY0aJf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4czpQViifmqvSnGtBY0aJf",
+  "id" : "4czpQViifmqvSnGtBY0aJf",
+  "name" : "Missionary",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4ea08941008f6c1fcb063238135683fdc4239729?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:4czpQViifmqvSnGtBY0aJf"
+}

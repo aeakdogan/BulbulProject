@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3yEqgEvatASNm30zZR3ZHl",
+      "id" : "3yEqgEvatASNm30zZR3ZHl",
+      "name" : "Smith Westerns",
+      "type" : "artist",
+      "uri" : "spotify:artist:3yEqgEvatASNm30zZR3ZHl"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Y0J0u2IwzEcfH6EvsI5AS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Y0J0u2IwzEcfH6EvsI5AS",
+    "id" : "1Y0J0u2IwzEcfH6EvsI5AS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/49d61eca5db3f94471cc90c1b86d07e447d96838",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2e1d7c314243bc9d17ad8dcc0cf3b866fbd32a93",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1f8370248e3c3727b4aeaedc3809d4eb9d4fa368",
+      "width" : 64
+    } ],
+    "name" : "Soft Will",
+    "type" : "album",
+    "uri" : "spotify:album:1Y0J0u2IwzEcfH6EvsI5AS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3yEqgEvatASNm30zZR3ZHl",
+    "id" : "3yEqgEvatASNm30zZR3ZHl",
+    "name" : "Smith Westerns",
+    "type" : "artist",
+    "uri" : "spotify:artist:3yEqgEvatASNm30zZR3ZHl"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 240493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USQE91200285"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/11umm7K1uVhXYvKK3Tpsa8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/11umm7K1uVhXYvKK3Tpsa8",
+  "id" : "11umm7K1uVhXYvKK3Tpsa8",
+  "name" : "Varsity",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ff296cab4adee01c715c666e760fdb809cfa5cef?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:11umm7K1uVhXYvKK3Tpsa8"
+}

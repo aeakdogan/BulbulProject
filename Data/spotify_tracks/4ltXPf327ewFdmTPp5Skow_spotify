@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RxjSLIz5osqOhGarH9lFV",
+      "id" : "3RxjSLIz5osqOhGarH9lFV",
+      "name" : "Priestess",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RxjSLIz5osqOhGarH9lFV"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7xKeRnOx2c7Ul0rkQcEzD2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7xKeRnOx2c7Ul0rkQcEzD2",
+    "id" : "7xKeRnOx2c7Ul0rkQcEzD2",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/daaa5083313275613d98dc0266d903935438c0d9",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/a6a0eebff365aa2b32159a4acc1494b47917df1f",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/7d052ef51e04d96232d75a0f647f745c604a539a",
+      "width" : 64
+    } ],
+    "name" : "Hello Master",
+    "type" : "album",
+    "uri" : "spotify:album:7xKeRnOx2c7Ul0rkQcEzD2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3RxjSLIz5osqOhGarH9lFV",
+    "id" : "3RxjSLIz5osqOhGarH9lFV",
+    "name" : "Priestess",
+    "type" : "artist",
+    "uri" : "spotify:artist:3RxjSLIz5osqOhGarH9lFV"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 185800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC10600136"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4ltXPf327ewFdmTPp5Skow"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4ltXPf327ewFdmTPp5Skow",
+  "id" : "4ltXPf327ewFdmTPp5Skow",
+  "name" : "Lay Down",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e4692ee830ff3f464b07923ce75023582cbe556d?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4ltXPf327ewFdmTPp5Skow"
+}

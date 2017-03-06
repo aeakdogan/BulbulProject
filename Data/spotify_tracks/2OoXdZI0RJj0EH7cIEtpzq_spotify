@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BnNG7QQQDTNd43ozx5y13"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5BnNG7QQQDTNd43ozx5y13",
+      "id" : "5BnNG7QQQDTNd43ozx5y13",
+      "name" : "Blackmore's Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:5BnNG7QQQDTNd43ozx5y13"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5IRUV9iNYqeyi0E8GECIsL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5IRUV9iNYqeyi0E8GECIsL",
+    "id" : "5IRUV9iNYqeyi0E8GECIsL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/87abcb41faf5a4c99eb9fbf3fb8aae4ca20f9d50",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ae85a3a700d1c5c3a312b3346aa969931d5e8037",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/430de2ecaa5c37292bd42212a580c0faa4b2469a",
+      "width" : 64
+    } ],
+    "name" : "Shadow of the Moon",
+    "type" : "album",
+    "uri" : "spotify:album:5IRUV9iNYqeyi0E8GECIsL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5BnNG7QQQDTNd43ozx5y13"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5BnNG7QQQDTNd43ozx5y13",
+    "id" : "5BnNG7QQQDTNd43ozx5y13",
+    "name" : "Blackmore's Night",
+    "type" : "artist",
+    "uri" : "spotify:artist:5BnNG7QQQDTNd43ozx5y13"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 239066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEZ901000275"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2OoXdZI0RJj0EH7cIEtpzq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2OoXdZI0RJj0EH7cIEtpzq",
+  "id" : "2OoXdZI0RJj0EH7cIEtpzq",
+  "name" : "Play Minstrel Play",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1f2b19221be50410fee699743ce6a12d784dad8d?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2OoXdZI0RJj0EH7cIEtpzq"
+}

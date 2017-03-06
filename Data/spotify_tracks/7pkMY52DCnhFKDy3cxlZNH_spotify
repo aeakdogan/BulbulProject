@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/11zHPjHnZN0ACA50rSnTcy",
+      "id" : "11zHPjHnZN0ACA50rSnTcy",
+      "name" : "Nada Surf",
+      "type" : "artist",
+      "uri" : "spotify:artist:11zHPjHnZN0ACA50rSnTcy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2wOGHVmIgLQltkg38bGsVL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2wOGHVmIgLQltkg38bGsVL",
+    "id" : "2wOGHVmIgLQltkg38bGsVL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/81146f2cbcde4f24d29dc7d816798eb84af56994",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/46c13ab2ef318edb47cbd22372e1ec4127373d2b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f1808f7ef46793391b281fd4fc019a4688d424b1",
+      "width" : 64
+    } ],
+    "name" : "The Proximity Effect",
+    "type" : "album",
+    "uri" : "spotify:album:2wOGHVmIgLQltkg38bGsVL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/11zHPjHnZN0ACA50rSnTcy",
+    "id" : "11zHPjHnZN0ACA50rSnTcy",
+    "name" : "Nada Surf",
+    "type" : "artist",
+    "uri" : "spotify:artist:11zHPjHnZN0ACA50rSnTcy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 330800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNS20275014"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7pkMY52DCnhFKDy3cxlZNH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7pkMY52DCnhFKDy3cxlZNH",
+  "id" : "7pkMY52DCnhFKDy3cxlZNH",
+  "name" : "Robot",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/02f96092ee4deff134526fbb558783bca7d8db37?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:7pkMY52DCnhFKDy3cxlZNH"
+}

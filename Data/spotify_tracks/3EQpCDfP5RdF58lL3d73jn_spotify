@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1LZEQNv7sE11VDY3SdxQeN",
+      "id" : "1LZEQNv7sE11VDY3SdxQeN",
+      "name" : "Bee Gees",
+      "type" : "artist",
+      "uri" : "spotify:artist:1LZEQNv7sE11VDY3SdxQeN"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/48OJLskzMgO7PvumRPNamS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/48OJLskzMgO7PvumRPNamS",
+    "id" : "48OJLskzMgO7PvumRPNamS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/af773d6d91ca19b3cbfa4387d27cbe0d13fb68f6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/22122d69aab431e97ddcdc65fc3e9edb9beb74ed",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6118d526ec98fad73784f4781cb0df2e45d13315",
+      "width" : 64
+    } ],
+    "name" : "Love Songs",
+    "type" : "album",
+    "uri" : "spotify:album:48OJLskzMgO7PvumRPNamS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1LZEQNv7sE11VDY3SdxQeN",
+    "id" : "1LZEQNv7sE11VDY3SdxQeN",
+    "name" : "Bee Gees",
+    "type" : "artist",
+    "uri" : "spotify:artist:1LZEQNv7sE11VDY3SdxQeN"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 196213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAKW7701041"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3EQpCDfP5RdF58lL3d73jn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3EQpCDfP5RdF58lL3d73jn",
+  "id" : "3EQpCDfP5RdF58lL3d73jn",
+  "name" : "More Than A Woman",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d05b4c3f735918a2f7123484107333064df5ba33?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:3EQpCDfP5RdF58lL3d73jn"
+}

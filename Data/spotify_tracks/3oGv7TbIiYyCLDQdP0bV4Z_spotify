@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59sabZEdH1o4BqCUzXGmd7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59sabZEdH1o4BqCUzXGmd7",
+      "id" : "59sabZEdH1o4BqCUzXGmd7",
+      "name" : "Ida",
+      "type" : "artist",
+      "uri" : "spotify:artist:59sabZEdH1o4BqCUzXGmd7"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3vvBPZbyWLDQndCodXzv1S"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3vvBPZbyWLDQndCodXzv1S",
+    "id" : "3vvBPZbyWLDQndCodXzv1S",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1cb52d5867a2ae8c3f3dda7e9030ffa1080e1da9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/62b10ecd018f8937969cb2a4a940a52c3fc97a26",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fe8045dd23a1137ebe0b098345feb07f4aee1935",
+      "width" : 64
+    } ],
+    "name" : "Ten Small Paces",
+    "type" : "album",
+    "uri" : "spotify:album:3vvBPZbyWLDQndCodXzv1S"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/59sabZEdH1o4BqCUzXGmd7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/59sabZEdH1o4BqCUzXGmd7",
+    "id" : "59sabZEdH1o4BqCUzXGmd7",
+    "name" : "Ida",
+    "type" : "artist",
+    "uri" : "spotify:artist:59sabZEdH1o4BqCUzXGmd7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 120306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USZ960810115"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3oGv7TbIiYyCLDQdP0bV4Z"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3oGv7TbIiYyCLDQdP0bV4Z",
+  "id" : "3oGv7TbIiYyCLDQdP0bV4Z",
+  "name" : "Everybody Knows This Is Nowhere",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bee5e5891d6fd040f078e10883ead7d62eedeca4?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3oGv7TbIiYyCLDQdP0bV4Z"
+}

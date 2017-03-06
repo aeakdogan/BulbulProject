@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1hzfo8twXdOegF3xireCYs",
+      "id" : "1hzfo8twXdOegF3xireCYs",
+      "name" : "Milky Chance",
+      "type" : "artist",
+      "uri" : "spotify:artist:1hzfo8twXdOegF3xireCYs"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5D20ZzsNB377xbshIFP9Nb",
+    "id" : "5D20ZzsNB377xbshIFP9Nb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b24ac33b2cf2eb196c120a09350e03478c09b996",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/176928a380f09c1c6ffd8fd1c78a64464a72688f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/94f53a29f24be199d96ae79913cbea58c1b40732",
+      "width" : 64
+    } ],
+    "name" : "Sadnecessary",
+    "type" : "album",
+    "uri" : "spotify:album:5D20ZzsNB377xbshIFP9Nb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1hzfo8twXdOegF3xireCYs",
+    "id" : "1hzfo8twXdOegF3xireCYs",
+    "name" : "Milky Chance",
+    "type" : "artist",
+    "uri" : "spotify:artist:1hzfo8twXdOegF3xireCYs"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 313684,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEL211300741"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6vECYJHxYmm3Ydt3fF01pE",
+  "id" : "6vECYJHxYmm3Ydt3fF01pE",
+  "name" : "Stolen Dance",
+  "popularity" : 66,
+  "preview_url" : "https://p.scdn.co/mp3-preview/884d858cd4f9e7e849c29027aaf907c512b50053?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:6vECYJHxYmm3Ydt3fF01pE"
+}

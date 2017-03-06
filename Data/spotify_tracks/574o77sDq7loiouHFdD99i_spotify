@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5HEPCLqqPuNXNbLvvlh135"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5HEPCLqqPuNXNbLvvlh135",
+    "id" : "5HEPCLqqPuNXNbLvvlh135",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1abd92659077776b24960945074feb653956aa9c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6e22a0b024211c189f460ddbf88c55ddb367708f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7cde4e0fa25fd5c29b02e9e09c3ebfca4bb75c43",
+      "width" : 64
+    } ],
+    "name" : "Queer As Folk: The Fourth Season",
+    "type" : "album",
+    "uri" : "spotify:album:5HEPCLqqPuNXNbLvvlh135"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5W6O8zuRvmo0hQ2gvqHPAO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5W6O8zuRvmo0hQ2gvqHPAO",
+    "id" : "5W6O8zuRvmo0hQ2gvqHPAO",
+    "name" : "Black",
+    "type" : "artist",
+    "uri" : "spotify:artist:5W6O8zuRvmo0hQ2gvqHPAO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 285906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTB10401351"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/574o77sDq7loiouHFdD99i"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/574o77sDq7loiouHFdD99i",
+  "id" : "574o77sDq7loiouHFdD99i",
+  "name" : "Wonderful Life",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/06dd1243563737c7c8139cc1f58ad4aa325ec947?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:574o77sDq7loiouHFdD99i"
+}

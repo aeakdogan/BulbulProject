@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+      "id" : "3OsRAKCvk37zwYcnzRf5XF",
+      "name" : "Moby",
+      "type" : "artist",
+      "uri" : "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5RBFmzAGIc3KBTAwP7Oe6H"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5RBFmzAGIc3KBTAwP7Oe6H",
+    "id" : "5RBFmzAGIc3KBTAwP7Oe6H",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2f9dbccfba4902689bc806acec0bbec029ad6e87",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b56be884c7962a414f568612b93da0ff6ba9db6a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bd62e348004237e335291bec33458f02a5431f94",
+      "width" : 64
+    } ],
+    "name" : "Wait for Me (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:5RBFmzAGIc3KBTAwP7Oe6H"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+    "id" : "3OsRAKCvk37zwYcnzRf5XF",
+    "name" : "Moby",
+    "type" : "artist",
+    "uri" : "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB3AD0910007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/65vwf9LJ27bvvCaC6Jk3qM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/65vwf9LJ27bvvCaC6Jk3qM",
+  "id" : "65vwf9LJ27bvvCaC6Jk3qM",
+  "name" : "Mistake",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cd5cda6de024dc2d1623899846c8aeaab28afe50?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:65vwf9LJ27bvvCaC6Jk3qM"
+}

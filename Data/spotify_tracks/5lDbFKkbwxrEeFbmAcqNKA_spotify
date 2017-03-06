@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6gkDliCmUDH44P9S44ZswH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6gkDliCmUDH44P9S44ZswH",
+      "id" : "6gkDliCmUDH44P9S44ZswH",
+      "name" : "Dazadi izpilditaji",
+      "type" : "artist",
+      "uri" : "spotify:artist:6gkDliCmUDH44P9S44ZswH"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4pfducVF6UL0vgRqKGB2BQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4pfducVF6UL0vgRqKGB2BQ",
+    "id" : "4pfducVF6UL0vgRqKGB2BQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/45a939dc0c1bb6de0e4c0ac6cf76ff9f8f416b9e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/231e5702500ee6528efb2436a9d612253b4df6ef",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/61cf6be005c9e38cbfecea24677bb5ba1079b4e4",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Latvia",
+    "type" : "album",
+    "uri" : "spotify:album:4pfducVF6UL0vgRqKGB2BQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5kj0186KjQyHiLMK2OFJ3z",
+    "id" : "5kj0186KjQyHiLMK2OFJ3z",
+    "name" : "Brainstorm",
+    "type" : "artist",
+    "uri" : "spotify:artist:5kj0186KjQyHiLMK2OFJ3z"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 240280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "LVA100100032"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5lDbFKkbwxrEeFbmAcqNKA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5lDbFKkbwxrEeFbmAcqNKA",
+  "id" : "5lDbFKkbwxrEeFbmAcqNKA",
+  "name" : "Maybe",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3cce500ad6bdedbd1e75ba1dad5b355a13eb45f4?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5lDbFKkbwxrEeFbmAcqNKA"
+}

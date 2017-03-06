@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt",
+      "id" : "3Rj0tDHoX7C5NFq5DKIpHt",
+      "name" : "Stereolab",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Jf6cUSFXhYajnzXBb7WAb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Jf6cUSFXhYajnzXBb7WAb",
+    "id" : "6Jf6cUSFXhYajnzXBb7WAb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/55d4089e891a2ba79b3121bb47e4dbf65eb5a280",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0ccaac9983be4a167aa7c9dfff9310ec18f6d6c8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4eede1798a5da5353df98c6e13885ab35d9fe643",
+      "width" : 64
+    } ],
+    "name" : "Dots And Loops",
+    "type" : "album",
+    "uri" : "spotify:album:6Jf6cUSFXhYajnzXBb7WAb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt",
+    "id" : "3Rj0tDHoX7C5NFq5DKIpHt",
+    "name" : "Stereolab",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 269360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE19792077"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6hCvq8KtiszUWhlqBRyOU7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6hCvq8KtiszUWhlqBRyOU7",
+  "id" : "6hCvq8KtiszUWhlqBRyOU7",
+  "name" : "Miss Modular",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/78ce278de16ccc4933e62af1a0e41746119139a5?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6hCvq8KtiszUWhlqBRyOU7"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37W8SKV5Vc8lcGtdyWCA5m",
+      "id" : "37W8SKV5Vc8lcGtdyWCA5m",
+      "name" : "Gary Allan",
+      "type" : "artist",
+      "uri" : "spotify:artist:37W8SKV5Vc8lcGtdyWCA5m"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4xBILuasKLadf6hitvo5mG",
+    "id" : "4xBILuasKLadf6hitvo5mG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/93b216092a03633f0778fa1ff15779d6cb8417db",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fb1166accf6d1ca35c1dff65c273b1aa33bbe620",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/916e032224675b899ed69fc4e53e44d72e90bcd8",
+      "width" : 64
+    } ],
+    "name" : "See If I Care",
+    "type" : "album",
+    "uri" : "spotify:album:4xBILuasKLadf6hitvo5mG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+    },
+    "href" : "https://api.spotify.com/v1/artists/37W8SKV5Vc8lcGtdyWCA5m",
+    "id" : "37W8SKV5Vc8lcGtdyWCA5m",
+    "name" : "Gary Allan",
+    "type" : "artist",
+    "uri" : "spotify:artist:37W8SKV5Vc8lcGtdyWCA5m"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 265800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMCN0300066"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0PD211kSLtAZ76OSHtMOnJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0PD211kSLtAZ76OSHtMOnJ",
+  "id" : "0PD211kSLtAZ76OSHtMOnJ",
+  "name" : "Songs About Rain",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/be3fe02808d28d97fd3ac1ebcf6007c6aaa0c814?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0PD211kSLtAZ76OSHtMOnJ"
+}

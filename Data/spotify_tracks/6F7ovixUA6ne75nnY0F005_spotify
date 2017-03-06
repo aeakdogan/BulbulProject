@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6i1hHzVl3ZQbdrGuQEmC2S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6i1hHzVl3ZQbdrGuQEmC2S",
+      "id" : "6i1hHzVl3ZQbdrGuQEmC2S",
+      "name" : "Dupont",
+      "type" : "artist",
+      "uri" : "spotify:artist:6i1hHzVl3ZQbdrGuQEmC2S"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4q06uSYHeV6WpGvBLnqmO2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4q06uSYHeV6WpGvBLnqmO2",
+    "id" : "4q06uSYHeV6WpGvBLnqmO2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3688bba03c26cd2bcaccea0d3a7f1e036d0b5c86",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0e55f5556dab55547cfb25b40938508692c890cb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/08ece3feb19ecb8d56861a7a9666bd57629cec83",
+      "width" : 64
+    } ],
+    "name" : "Ukraina",
+    "type" : "album",
+    "uri" : "spotify:album:4q06uSYHeV6WpGvBLnqmO2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6i1hHzVl3ZQbdrGuQEmC2S"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6i1hHzVl3ZQbdrGuQEmC2S",
+    "id" : "6i1hHzVl3ZQbdrGuQEmC2S",
+    "name" : "Dupont",
+    "type" : "artist",
+    "uri" : "spotify:artist:6i1hHzVl3ZQbdrGuQEmC2S"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 268400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEBL60504285"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6F7ovixUA6ne75nnY0F005"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6F7ovixUA6ne75nnY0F005",
+  "id" : "6F7ovixUA6ne75nnY0F005",
+  "name" : "On straight lines",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f0deedd9a6bb94d97a3530bc2276bb9ea9d64621?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6F7ovixUA6ne75nnY0F005"
+}

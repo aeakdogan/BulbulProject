@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh",
+      "id" : "3bUwxJgNakzYKkqAVgZLlh",
+      "name" : "Travis",
+      "type" : "artist",
+      "uri" : "spotify:artist:3bUwxJgNakzYKkqAVgZLlh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7hQC4HcPu49Sz9WyorpZ9r"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7hQC4HcPu49Sz9WyorpZ9r",
+    "id" : "7hQC4HcPu49Sz9WyorpZ9r",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4bb22877cf123f31776dfbd27e256505e8cf5cdb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c594a17ae8803003acdfa075717a31388b0de090",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d4f0997b95bca7e32b388c5ea01243712dacdac9",
+      "width" : 64
+    } ],
+    "name" : "The Invisible Band",
+    "type" : "album",
+    "uri" : "spotify:album:7hQC4HcPu49Sz9WyorpZ9r"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh",
+    "id" : "3bUwxJgNakzYKkqAVgZLlh",
+    "name" : "Travis",
+    "type" : "artist",
+    "uri" : "spotify:artist:3bUwxJgNakzYKkqAVgZLlh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPF0100545"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4uYLzK3SCSnakT1JW8wDrI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4uYLzK3SCSnakT1JW8wDrI",
+  "id" : "4uYLzK3SCSnakT1JW8wDrI",
+  "name" : "Afterglow",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c82e3ff40aabda0424c1fd79930333b1ee3e67ee?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:4uYLzK3SCSnakT1JW8wDrI"
+}

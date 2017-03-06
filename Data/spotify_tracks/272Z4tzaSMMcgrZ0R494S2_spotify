@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+      "id" : "0vYkHhJ48Bs3jWcvZXvOrP",
+      "name" : "Patti Smith",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7xg7u99lilTCPbaRfnYuy6",
+    "id" : "7xg7u99lilTCPbaRfnYuy6",
+    "images" : [ {
+      "height" : 575,
+      "url" : "https://i.scdn.co/image/11d3fe0e7dfdaeabc410ee5a0cd0ebeb3e8f5cb2",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/23795dc2e26f86f9b86f808392dfadfec4a6f9bf",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/a6856003a8db6b255b347ee2edd208b5b44b80d0",
+      "width" : 64
+    } ],
+    "name" : "Horses",
+    "type" : "album",
+    "uri" : "spotify:album:7xg7u99lilTCPbaRfnYuy6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+    "id" : "0vYkHhJ48Bs3jWcvZXvOrP",
+    "name" : "Patti Smith",
+    "type" : "artist",
+    "uri" : "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 354320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR19600008"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/272Z4tzaSMMcgrZ0R494S2",
+  "id" : "272Z4tzaSMMcgrZ0R494S2",
+  "name" : "Gloria: In Excelsis Deo",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/125f0a05a20eda95d9e6875c857f7ccde43dc4da?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:272Z4tzaSMMcgrZ0R494S2"
+}

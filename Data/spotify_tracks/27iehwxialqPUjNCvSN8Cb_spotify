@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ecbvwhuhiEAWOLHlRXpqD",
+      "id" : "0ecbvwhuhiEAWOLHlRXpqD",
+      "name" : "STEELHEART",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ecbvwhuhiEAWOLHlRXpqD"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3jUqHgt6rAFx1D7Ck6Q5hw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3jUqHgt6rAFx1D7Ck6Q5hw",
+    "id" : "3jUqHgt6rAFx1D7Ck6Q5hw",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/5f5a96e7abe31f7801209b693e0cccff668be507",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/9d8eb7a51c8aaba7f90dac3d207250b0ff775eb5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5893c631a7b0d99325e148047791aed10cfc517f",
+      "width" : 64
+    } ],
+    "name" : "Steelheart",
+    "type" : "album",
+    "uri" : "spotify:album:3jUqHgt6rAFx1D7Ck6Q5hw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ecbvwhuhiEAWOLHlRXpqD",
+    "id" : "0ecbvwhuhiEAWOLHlRXpqD",
+    "name" : "STEELHEART",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ecbvwhuhiEAWOLHlRXpqD"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 323866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC18930638"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/27iehwxialqPUjNCvSN8Cb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/27iehwxialqPUjNCvSN8Cb",
+  "id" : "27iehwxialqPUjNCvSN8Cb",
+  "name" : "Gimme Gimme",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0c3307b1c7be27cbfbd2bfa6961504292af1b28a?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:27iehwxialqPUjNCvSN8Cb"
+}

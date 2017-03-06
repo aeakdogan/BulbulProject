@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sfUgwUTFjy1SNF2uWOcPp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6sfUgwUTFjy1SNF2uWOcPp",
+      "id" : "6sfUgwUTFjy1SNF2uWOcPp",
+      "name" : "Kate Miller-Heidke",
+      "type" : "artist",
+      "uri" : "spotify:artist:6sfUgwUTFjy1SNF2uWOcPp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3BmRJwEkL2MN8FXwzlXdJB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3BmRJwEkL2MN8FXwzlXdJB",
+    "id" : "3BmRJwEkL2MN8FXwzlXdJB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2c416e52523b31ecb68100d835696c7c6f734c94",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ef1ed83a633654e11c4fa5738bee68d4f95d4d5f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4e67e5d153aafbfb929371ebb7458696c34b9b2c",
+      "width" : 64
+    } ],
+    "name" : "Nightflight",
+    "type" : "album",
+    "uri" : "spotify:album:3BmRJwEkL2MN8FXwzlXdJB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6sfUgwUTFjy1SNF2uWOcPp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6sfUgwUTFjy1SNF2uWOcPp",
+    "id" : "6sfUgwUTFjy1SNF2uWOcPp",
+    "name" : "Kate Miller-Heidke",
+    "type" : "artist",
+    "uri" : "spotify:artist:6sfUgwUTFjy1SNF2uWOcPp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 234586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUBM01200052"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/536YzEwf77mNcYsrWjtjci"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/536YzEwf77mNcYsrWjtjci",
+  "id" : "536YzEwf77mNcYsrWjtjci",
+  "name" : "Sarah",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a9e1a03a7f9446e23134b32a3ae976fbdc27f050?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:536YzEwf77mNcYsrWjtjci"
+}

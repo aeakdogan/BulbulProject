@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KydPQPUUoTNhmiHKOg5Er",
+      "id" : "0KydPQPUUoTNhmiHKOg5Er",
+      "name" : "Neon Indian",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KydPQPUUoTNhmiHKOg5Er"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4DM9H8BlhRv4ecFM7NBcVo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4DM9H8BlhRv4ecFM7NBcVo",
+    "id" : "4DM9H8BlhRv4ecFM7NBcVo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7c6576d60df84191f8df2b3327ec3a4dd1cc206d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2b0cf94c0e646682a982ef84a204f7c5bbd661ef",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/85b0fd113a3dff30a371fd485c8e79533e542279",
+      "width" : 64
+    } ],
+    "name" : "Psychic Chasms",
+    "type" : "album",
+    "uri" : "spotify:album:4DM9H8BlhRv4ecFM7NBcVo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0KydPQPUUoTNhmiHKOg5Er",
+    "id" : "0KydPQPUUoTNhmiHKOg5Er",
+    "name" : "Neon Indian",
+    "type" : "artist",
+    "uri" : "spotify:artist:0KydPQPUUoTNhmiHKOg5Er"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 55693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4HB1000012"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0jyp94Ms4U5iBs1vazj6Ee"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0jyp94Ms4U5iBs1vazj6Ee",
+  "id" : "0jyp94Ms4U5iBs1vazj6Ee",
+  "name" : "7000 - Reprise",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e258830aadb395111624b5757fe23b6c52545174?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:0jyp94Ms4U5iBs1vazj6Ee"
+}

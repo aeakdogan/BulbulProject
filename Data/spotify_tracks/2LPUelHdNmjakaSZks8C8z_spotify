@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4l1cKWYW591xnwEGxpUg3J",
+      "id" : "4l1cKWYW591xnwEGxpUg3J",
+      "name" : "Miike Snow",
+      "type" : "artist",
+      "uri" : "spotify:artist:4l1cKWYW591xnwEGxpUg3J"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/60qoUhwjHanuH4uO7ik4r5",
+    "id" : "60qoUhwjHanuH4uO7ik4r5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c2e18dbe2cda513657d7019ad89b7189a08d08fe",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cacb09c5c0a3d939f0c5fac4c906bf7237558bdf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d4becd1067b6f138a966c663c3be7c0703bb001e",
+      "width" : 64
+    } ],
+    "name" : "Miike Snow (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:60qoUhwjHanuH4uO7ik4r5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4l1cKWYW591xnwEGxpUg3J",
+    "id" : "4l1cKWYW591xnwEGxpUg3J",
+    "name" : "Miike Snow",
+    "type" : "artist",
+    "uri" : "spotify:artist:4l1cKWYW591xnwEGxpUg3J"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCJ80900300"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2LPUelHdNmjakaSZks8C8z"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2LPUelHdNmjakaSZks8C8z",
+  "id" : "2LPUelHdNmjakaSZks8C8z",
+  "name" : "Plastic Jungle",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6ea8a2e4a75023c6e3fcd147a6f5c214d66d90fb?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2LPUelHdNmjakaSZks8C8z"
+}

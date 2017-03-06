@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1OwarW4LEHnoep20ixRA0y",
+      "id" : "1OwarW4LEHnoep20ixRA0y",
+      "name" : "Robert Plant",
+      "type" : "artist",
+      "uri" : "spotify:artist:1OwarW4LEHnoep20ixRA0y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5J6L7N6B4nI1M5cwa29mQG",
+      "id" : "5J6L7N6B4nI1M5cwa29mQG",
+      "name" : "Alison Krauss",
+      "type" : "artist",
+      "uri" : "spotify:artist:5J6L7N6B4nI1M5cwa29mQG"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
+    },
+    "href" : "https://api.spotify.com/v1/albums/54GfJ3ZEY2b6PKmvETmj1n",
+    "id" : "54GfJ3ZEY2b6PKmvETmj1n",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/798889b2215fef68954e21f48104d64b2e2f057a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fbf96bcc42a2a93fe08aa72bebffd657a4029468",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7eb7dd723c4541e356c531ebda23ae3a57433b1f",
+      "width" : 64
+    } ],
+    "name" : "Raising Sand",
+    "type" : "album",
+    "uri" : "spotify:album:54GfJ3ZEY2b6PKmvETmj1n"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1OwarW4LEHnoep20ixRA0y",
+    "id" : "1OwarW4LEHnoep20ixRA0y",
+    "name" : "Robert Plant",
+    "type" : "artist",
+    "uri" : "spotify:artist:1OwarW4LEHnoep20ixRA0y"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5J6L7N6B4nI1M5cwa29mQG",
+    "id" : "5J6L7N6B4nI1M5cwa29mQG",
+    "name" : "Alison Krauss",
+    "type" : "artist",
+    "uri" : "spotify:artist:5J6L7N6B4nI1M5cwa29mQG"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 205373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRO20707503"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/00nOWzG082dVONjO5rW609"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/00nOWzG082dVONjO5rW609",
+  "id" : "00nOWzG082dVONjO5rW609",
+  "name" : "Sister Rosetta Goes Before Us",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ffb565464a941c5ccdcb81a0f7d5eb2bcac77429?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:00nOWzG082dVONjO5rW609"
+}

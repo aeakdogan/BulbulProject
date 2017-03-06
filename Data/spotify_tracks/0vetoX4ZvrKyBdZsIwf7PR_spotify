@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/46Ce0QmI1mE2bl5VQ4P9N8",
+      "id" : "46Ce0QmI1mE2bl5VQ4P9N8",
+      "name" : "Lapalux",
+      "type" : "artist",
+      "uri" : "spotify:artist:46Ce0QmI1mE2bl5VQ4P9N8"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ySjEe8w4YTQkpuIcyOd41"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ySjEe8w4YTQkpuIcyOd41",
+    "id" : "3ySjEe8w4YTQkpuIcyOd41",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9c8bc485044e65a85a668f098c911303c4b32f29",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9792d21135715bb812bf62eec42e01426cda6740",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7b2d1e61532f85d3a51b2d95a6433665a21b9d72",
+      "width" : 64
+    } ],
+    "name" : "Some Other Time EP",
+    "type" : "album",
+    "uri" : "spotify:album:3ySjEe8w4YTQkpuIcyOd41"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/46Ce0QmI1mE2bl5VQ4P9N8",
+    "id" : "46Ce0QmI1mE2bl5VQ4P9N8",
+    "name" : "Lapalux",
+    "type" : "artist",
+    "uri" : "spotify:artist:46Ce0QmI1mE2bl5VQ4P9N8"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 259044,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US25X1084185"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0vetoX4ZvrKyBdZsIwf7PR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0vetoX4ZvrKyBdZsIwf7PR",
+  "id" : "0vetoX4ZvrKyBdZsIwf7PR",
+  "name" : "Close Call / Chop Cuts",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f1143ecd8a71add607501eb7e6b71cdc9baf83b0?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0vetoX4ZvrKyBdZsIwf7PR"
+}

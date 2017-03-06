@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+      "id" : "6olE6TJLqED3rqDCT0FyPh",
+      "name" : "Nirvana",
+      "type" : "artist",
+      "uri" : "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1TjncssmpzxUYTZic79o7T"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1TjncssmpzxUYTZic79o7T",
+    "id" : "1TjncssmpzxUYTZic79o7T",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d82b2956f3e7c7f60d9cb2451d61140c13f8fece",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5bea48f790a1d5a22da274b382275560edffd1e4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/abbf7414e2cc39048b5f1093187501b167bda2e1",
+      "width" : 64
+    } ],
+    "name" : "Bleach",
+    "type" : "album",
+    "uri" : "spotify:album:1TjncssmpzxUYTZic79o7T"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+    "id" : "6olE6TJLqED3rqDCT0FyPh",
+    "name" : "Nirvana",
+    "type" : "artist",
+    "uri" : "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 168160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB0983403"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0zeqKbySjKbfW5jyl3PMsW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0zeqKbySjKbfW5jyl3PMsW",
+  "id" : "0zeqKbySjKbfW5jyl3PMsW",
+  "name" : "About A Girl",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2aa08257c591d4f4b24fb447829c72ad55573e15?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0zeqKbySjKbfW5jyl3PMsW"
+}

@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+      "id" : "3VEG6gxFIMfl4Cdog26avS",
+      "name" : "Bill Evans Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5aFr2jz6wdFPxylfq3MdtX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5aFr2jz6wdFPxylfq3MdtX",
+    "id" : "5aFr2jz6wdFPxylfq3MdtX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/74850827dea8e9616da5e6f56e6c6c502190b91d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d9611c00d302dab9a18ad3bcf37e16a060a99002",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d81b5217276699df10ffb18e340d4ce7e73ffe6f",
+      "width" : 64
+    } ],
+    "name" : "The Very Best Of The Bill Evans Trio",
+    "type" : "album",
+    "uri" : "spotify:album:5aFr2jz6wdFPxylfq3MdtX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4jXfFzeP66Zy67HM2mvIIF",
+    "id" : "4jXfFzeP66Zy67HM2mvIIF",
+    "name" : "Bill Evans",
+    "type" : "artist",
+    "uri" : "spotify:artist:4jXfFzeP66Zy67HM2mvIIF"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4g7uUySyORXh2KgDEhgxXa",
+    "id" : "4g7uUySyORXh2KgDEhgxXa",
+    "name" : "Scott LaFaro",
+    "type" : "artist",
+    "uri" : "spotify:artist:4g7uUySyORXh2KgDEhgxXa"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4VIPZJwfn4EGbJxYVHJ0WX",
+    "id" : "4VIPZJwfn4EGbJxYVHJ0WX",
+    "name" : "Paul Motian",
+    "type" : "artist",
+    "uri" : "spotify:artist:4VIPZJwfn4EGbJxYVHJ0WX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 276720,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R0720033"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Ici8QJY9dGETKzkxQbtLv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Ici8QJY9dGETKzkxQbtLv",
+  "id" : "5Ici8QJY9dGETKzkxQbtLv",
+  "name" : "What Is This Thing Called Love",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/203055f5c3e4159b5d7645a256a890389c141e2c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5Ici8QJY9dGETKzkxQbtLv"
+}

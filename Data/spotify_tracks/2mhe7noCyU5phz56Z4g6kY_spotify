@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PBv8t9YTLggA9ZMwpeoqj",
+      "id" : "6PBv8t9YTLggA9ZMwpeoqj",
+      "name" : "Joan As Police Woman",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PBv8t9YTLggA9ZMwpeoqj"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3LIa4zoisw8vO0zvqecved"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3LIa4zoisw8vO0zvqecved",
+    "id" : "3LIa4zoisw8vO0zvqecved",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1f6390b8f41e4e47b086518e444dce0a02ada366",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/eb0ed2d50e90ba707f77b48d3f4ff6aadb5893c9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/256686b23afb2cb88c9e4888e7b2ccb5bd050d36",
+      "width" : 64
+    } ],
+    "name" : "Real Life",
+    "type" : "album",
+    "uri" : "spotify:album:3LIa4zoisw8vO0zvqecved"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6PBv8t9YTLggA9ZMwpeoqj",
+    "id" : "6PBv8t9YTLggA9ZMwpeoqj",
+    "name" : "Joan As Police Woman",
+    "type" : "artist",
+    "uri" : "spotify:artist:6PBv8t9YTLggA9ZMwpeoqj"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 186253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USF690601007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2mhe7noCyU5phz56Z4g6kY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2mhe7noCyU5phz56Z4g6kY",
+  "id" : "2mhe7noCyU5phz56Z4g6kY",
+  "name" : "Christobel",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/21022966b105acf92a6cbe488d16f49a90a3d302?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2mhe7noCyU5phz56Z4g6kY"
+}

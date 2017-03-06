@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3cEuRQQlV0kLTlczivHCkl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3cEuRQQlV0kLTlczivHCkl",
+      "id" : "3cEuRQQlV0kLTlczivHCkl",
+      "name" : "Amber",
+      "type" : "artist",
+      "uri" : "spotify:artist:3cEuRQQlV0kLTlczivHCkl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6yXcfI04NmMe7tpzYSG1q0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6yXcfI04NmMe7tpzYSG1q0",
+    "id" : "6yXcfI04NmMe7tpzYSG1q0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e9109008fde1b21ec8b4d58eaaea4daf209ded8c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/965658f5b96dd98efe7b25ab9c940f236cdce931",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/252a91a384c9ca829d6f36157df46d2af878be49",
+      "width" : 64
+    } ],
+    "name" : "This Is Your Night",
+    "type" : "album",
+    "uri" : "spotify:album:6yXcfI04NmMe7tpzYSG1q0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3cEuRQQlV0kLTlczivHCkl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3cEuRQQlV0kLTlczivHCkl",
+    "id" : "3cEuRQQlV0kLTlczivHCkl",
+    "name" : "Amber",
+    "type" : "artist",
+    "uri" : "spotify:artist:3cEuRQQlV0kLTlczivHCkl"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 238160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTB10300582"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/051AN65NTPxmHJ5D14qiXc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/051AN65NTPxmHJ5D14qiXc",
+  "id" : "051AN65NTPxmHJ5D14qiXc",
+  "name" : "This Is Your Night",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/58a13b361849dda3e6b2d363710b358765312ba4?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:051AN65NTPxmHJ5D14qiXc"
+}

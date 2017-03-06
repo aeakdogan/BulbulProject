@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN",
+      "id" : "5WUlDfRSoLAfcVSX1WnrxN",
+      "name" : "Sia",
+      "type" : "artist",
+      "uri" : "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5LLfszqKA9xMdnqMKyn11i"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5LLfszqKA9xMdnqMKyn11i",
+    "id" : "5LLfszqKA9xMdnqMKyn11i",
+    "images" : [ {
+      "height" : 580,
+      "url" : "https://i.scdn.co/image/f6bb38b8b2bd5498490d259a3524a747230d632b",
+      "width" : 640
+    }, {
+      "height" : 272,
+      "url" : "https://i.scdn.co/image/662d492552bb02c5e541fa66adc008adef9c9b16",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/6aecaa730c4ddfc7e16a9d158c749fe3908ccecb",
+      "width" : 64
+    } ],
+    "name" : "Some People Have REAL Problems",
+    "type" : "album",
+    "uri" : "spotify:album:5LLfszqKA9xMdnqMKyn11i"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN",
+    "id" : "5WUlDfRSoLAfcVSX1WnrxN",
+    "name" : "Sia",
+    "type" : "artist",
+    "uri" : "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 160240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBPNH0700005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/49ktlIACFCNIbUlcQvdMb7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/49ktlIACFCNIbUlcQvdMb7",
+  "id" : "49ktlIACFCNIbUlcQvdMb7",
+  "name" : "The Girl You Lost To Cocaine",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3c40a00795ec80824bc44df1a3a784d3868475dd?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:49ktlIACFCNIbUlcQvdMb7"
+}

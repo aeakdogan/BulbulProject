@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BnNG7QQQDTNd43ozx5y13"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5BnNG7QQQDTNd43ozx5y13",
+      "id" : "5BnNG7QQQDTNd43ozx5y13",
+      "name" : "Blackmore's Night",
+      "type" : "artist",
+      "uri" : "spotify:artist:5BnNG7QQQDTNd43ozx5y13"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/23R6krt6Qd1DN1VrBUbJOk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/23R6krt6Qd1DN1VrBUbJOk",
+    "id" : "23R6krt6Qd1DN1VrBUbJOk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/805c4f42fcaa20de7885038dabfa06178517adfb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5808154de44a1a1a6460e07dcf47c36cfcf1fa92",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8fa8686484ddcaf6214562ba56a8499a7452d5cf",
+      "width" : 64
+    } ],
+    "name" : "Dancer and the Moon",
+    "type" : "album",
+    "uri" : "spotify:album:23R6krt6Qd1DN1VrBUbJOk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5BnNG7QQQDTNd43ozx5y13"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5BnNG7QQQDTNd43ozx5y13",
+    "id" : "5BnNG7QQQDTNd43ozx5y13",
+    "name" : "Blackmore's Night",
+    "type" : "artist",
+    "uri" : "spotify:artist:5BnNG7QQQDTNd43ozx5y13"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITG271300303"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3athmPTdx2LtuESmQPMJGu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3athmPTdx2LtuESmQPMJGu",
+  "id" : "3athmPTdx2LtuESmQPMJGu",
+  "name" : "I Think It's Going to Rain Today",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/12b556ed9852afd70a88044aeb2e1fcd94b042ce?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3athmPTdx2LtuESmQPMJGu"
+}

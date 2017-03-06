@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+      "id" : "1DFr97A9HnbV3SKTJFu62M",
+      "name" : "Motörhead",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6XGslZ4PGyUszfMRiChYwW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6XGslZ4PGyUszfMRiChYwW",
+    "id" : "6XGslZ4PGyUszfMRiChYwW",
+    "images" : [ {
+      "height" : 579,
+      "url" : "https://i.scdn.co/image/0eec56c470164e9a19253c06fd31e2b74050624b",
+      "width" : 640
+    }, {
+      "height" : 272,
+      "url" : "https://i.scdn.co/image/19a52edb553f1e3e0e0a8fc9d7595c0564715777",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/86c212babd5e77de077ec7f744251bfe861acea4",
+      "width" : 64
+    } ],
+    "name" : "Better Motorhead Than Dead - Live at Hammersmith",
+    "type" : "album",
+    "uri" : "spotify:album:6XGslZ4PGyUszfMRiChYwW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+    "id" : "1DFr97A9HnbV3SKTJFu62M",
+    "name" : "Motörhead",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 194853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEA450711380"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ksPSF8UmQxaKat1ZY1NN9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ksPSF8UmQxaKat1ZY1NN9",
+  "id" : "7ksPSF8UmQxaKat1ZY1NN9",
+  "name" : "(We are) the road crew (live)",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1b3612b3ba9a0b659a53baa2069fd997281dc6e6?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7ksPSF8UmQxaKat1ZY1NN9"
+}

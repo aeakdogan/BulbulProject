@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84",
+      "id" : "2cGwlqi3k18jFpUyTrsR84",
+      "name" : "The Verve",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cGwlqi3k18jFpUyTrsR84"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Gk7Gayj5Ba0vj12DW2PMB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Gk7Gayj5Ba0vj12DW2PMB",
+    "id" : "6Gk7Gayj5Ba0vj12DW2PMB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f4f840b54550992a00aef7b2abfe77c27769f399",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0d151a0a2f58dc073a86a98bd832a7d5c37b5f01",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8114f471c16f5e444a0fd8747bd208a06853468a",
+      "width" : 64
+    } ],
+    "name" : "Forth",
+    "type" : "album",
+    "uri" : "spotify:album:6Gk7Gayj5Ba0vj12DW2PMB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84",
+    "id" : "2cGwlqi3k18jFpUyTrsR84",
+    "name" : "The Verve",
+    "type" : "artist",
+    "uri" : "spotify:artist:2cGwlqi3k18jFpUyTrsR84"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 337240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USME30800922"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3D9wAQV9hdv0jx8BoJu2A4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3D9wAQV9hdv0jx8BoJu2A4",
+  "id" : "3D9wAQV9hdv0jx8BoJu2A4",
+  "name" : "Rather Be",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/219a697feb633c11c1a30ba51067ab1996502daf?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3D9wAQV9hdv0jx8BoJu2A4"
+}

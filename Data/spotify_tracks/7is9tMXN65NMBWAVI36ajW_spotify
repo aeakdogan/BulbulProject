@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7giUHu5pv6YTZgSkxxCcgh",
+      "id" : "7giUHu5pv6YTZgSkxxCcgh",
+      "name" : "Edward Sharpe & The Magnetic Zeros",
+      "type" : "artist",
+      "uri" : "spotify:artist:7giUHu5pv6YTZgSkxxCcgh"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6WucLv9SLrpr5Z8y6hDWpQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6WucLv9SLrpr5Z8y6hDWpQ",
+    "id" : "6WucLv9SLrpr5Z8y6hDWpQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f5aaebdfe526b7d3a13ad5eba0ba8dd511a5f1b4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ae1d5c093f80740ba86eef6b1186039107024770",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e7f11971ba35435022d1ac48e35fd5da35e6fc27",
+      "width" : 64
+    } ],
+    "name" : "Here",
+    "type" : "album",
+    "uri" : "spotify:album:6WucLv9SLrpr5Z8y6hDWpQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7giUHu5pv6YTZgSkxxCcgh",
+    "id" : "7giUHu5pv6YTZgSkxxCcgh",
+    "name" : "Edward Sharpe & The Magnetic Zeros",
+    "type" : "artist",
+    "uri" : "spotify:artist:7giUHu5pv6YTZgSkxxCcgh"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 259079,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVR91273501"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7is9tMXN65NMBWAVI36ajW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7is9tMXN65NMBWAVI36ajW",
+  "id" : "7is9tMXN65NMBWAVI36ajW",
+  "name" : "Man On Fire",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/af13c0f34e16884632cd7b329291033f68db3ab7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7is9tMXN65NMBWAVI36ajW"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+      },
+      "href" : "https://api.spotify.com/v1/artists/00sazWvoTLOqg5MFwC68Um",
+      "id" : "00sazWvoTLOqg5MFwC68Um",
+      "name" : "Yann Tiersen",
+      "type" : "artist",
+      "uri" : "spotify:artist:00sazWvoTLOqg5MFwC68Um"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3BcD2xtdIIb6ZykZnuzOAs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3BcD2xtdIIb6ZykZnuzOAs",
+    "id" : "3BcD2xtdIIb6ZykZnuzOAs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8ee9286e9e66682b56f0518c147057fe03e86e9d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/27f7f9fba23eb6957f96ef9500224ce703bb76a4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cd495257515a40e5e670cf437e86fcc1b6c04cd8",
+      "width" : 64
+    } ],
+    "name" : "Amélie (Original Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:3BcD2xtdIIb6ZykZnuzOAs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+    },
+    "href" : "https://api.spotify.com/v1/artists/00sazWvoTLOqg5MFwC68Um",
+    "id" : "00sazWvoTLOqg5MFwC68Um",
+    "name" : "Yann Tiersen",
+    "type" : "artist",
+    "uri" : "spotify:artist:00sazWvoTLOqg5MFwC68Um"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 267733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR91U0100004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1EohJlc8s4Ib1S8UBMh3qE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1EohJlc8s4Ib1S8UBMh3qE",
+  "id" : "1EohJlc8s4Ib1S8UBMh3qE",
+  "name" : "Le moulin",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7685c0c59e46eebe0a1691678d0a1d9dd4286f65?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1EohJlc8s4Ib1S8UBMh3qE"
+}

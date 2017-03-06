@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc",
+      "id" : "4DFhHyjvGYa9wxdHUjtDkc",
+      "name" : "A Perfect Circle",
+      "type" : "artist",
+      "uri" : "spotify:artist:4DFhHyjvGYa9wxdHUjtDkc"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0GeWd0yUKXHbCXVag1mJvO",
+    "id" : "0GeWd0yUKXHbCXVag1mJvO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d8fdd97e456756fd1ab7cd9bdc55915df739431e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e3822cd77767d2f9c86cdddd9dfc8bf16b5e7c02",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/343ed9a06d20423acfd1418d2c9b3c58302771f8",
+      "width" : 64
+    } ],
+    "name" : "Mer De Noms",
+    "type" : "album",
+    "uri" : "spotify:album:0GeWd0yUKXHbCXVag1mJvO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4DFhHyjvGYa9wxdHUjtDkc",
+    "id" : "4DFhHyjvGYa9wxdHUjtDkc",
+    "name" : "A Perfect Circle",
+    "type" : "artist",
+    "uri" : "spotify:artist:4DFhHyjvGYa9wxdHUjtDkc"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 288360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI20000048"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6YUKAH1icwkA3U7fVp3amo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6YUKAH1icwkA3U7fVp3amo",
+  "id" : "6YUKAH1icwkA3U7fVp3amo",
+  "name" : "Orestes",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4619d79858bd9ee361ef7d8d8d3cf9ecfd8a3ae0?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6YUKAH1icwkA3U7fVp3amo"
+}

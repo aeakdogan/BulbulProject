@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2vI9KFm0fwSfPrpEgOeIbq",
+      "id" : "2vI9KFm0fwSfPrpEgOeIbq",
+      "name" : "Brad Mehldau",
+      "type" : "artist",
+      "uri" : "spotify:artist:2vI9KFm0fwSfPrpEgOeIbq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7i4wN3UGvFhr663Hpjgscx",
+    "id" : "7i4wN3UGvFhr663Hpjgscx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/158cf5e57eba9aa58b1d050b448465c027c12c25",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/261f358d7e29a1a5cf10ad3f96ae56f4c348932f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ac7d70904d8082910db48f02a7177f21aea7a8dc",
+      "width" : 64
+    } ],
+    "name" : "Largo",
+    "type" : "album",
+    "uri" : "spotify:album:7i4wN3UGvFhr663Hpjgscx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2vI9KFm0fwSfPrpEgOeIbq",
+    "id" : "2vI9KFm0fwSfPrpEgOeIbq",
+    "name" : "Brad Mehldau",
+    "type" : "artist",
+    "uri" : "spotify:artist:2vI9KFm0fwSfPrpEgOeIbq"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 282026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10201070"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5hw8qcSJnmWmSrr9jwwMc4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5hw8qcSJnmWmSrr9jwwMc4",
+  "id" : "5hw8qcSJnmWmSrr9jwwMc4",
+  "name" : "Sabbath",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0ac0c4cc7fe6a0b3f133edec32eadb376d588f02?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5hw8qcSJnmWmSrr9jwwMc4"
+}

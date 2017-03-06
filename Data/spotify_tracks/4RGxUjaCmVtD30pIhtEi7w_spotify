@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG",
+      "id" : "6vLlQYujOujIrm7zAKzEdG",
+      "name" : "Donovan",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vLlQYujOujIrm7zAKzEdG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2ULhVPvdhT7RREnqRWM06G",
+    "id" : "2ULhVPvdhT7RREnqRWM06G",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/58b4de7954d113227570b9810cc9977e589dd453",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d37520af2a2644239ca108237c923821a4322d5b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e68c69a09572d173b0aa95f71e29f67bb50e971d",
+      "width" : 64
+    } ],
+    "name" : "Sunshine Superman",
+    "type" : "album",
+    "uri" : "spotify:album:2ULhVPvdhT7RREnqRWM06G"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG",
+    "id" : "6vLlQYujOujIrm7zAKzEdG",
+    "name" : "Donovan",
+    "type" : "artist",
+    "uri" : "spotify:artist:6vLlQYujOujIrm7zAKzEdG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 195000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19805194"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4RGxUjaCmVtD30pIhtEi7w",
+  "id" : "4RGxUjaCmVtD30pIhtEi7w",
+  "name" : "Sunshine Superman",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/586ffe08e101ff33632f33bd1cee7ecf69295f7c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4RGxUjaCmVtD30pIhtEi7w"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3kUKwTJdH8FuWzF8p6Dg9E",
+      "id" : "3kUKwTJdH8FuWzF8p6Dg9E",
+      "name" : "Dave Brubeck",
+      "type" : "artist",
+      "uri" : "spotify:artist:3kUKwTJdH8FuWzF8p6Dg9E"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5LiPzuR79DTTmyROUm2luC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5LiPzuR79DTTmyROUm2luC",
+    "id" : "5LiPzuR79DTTmyROUm2luC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f799bcc415992ac2e4bad8eae2c84f97636734f6",
+      "width" : 639
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8151117aaa9b7b45a344d71e1a79487287ba9377",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/04ef480aa6a51d09598b9a0ae13b48a3a1d1feed",
+      "width" : 64
+    } ],
+    "name" : "On Time",
+    "type" : "album",
+    "uri" : "spotify:album:5LiPzuR79DTTmyROUm2luC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3kUKwTJdH8FuWzF8p6Dg9E",
+    "id" : "3kUKwTJdH8FuWzF8p6Dg9E",
+    "name" : "Dave Brubeck",
+    "type" : "artist",
+    "uri" : "spotify:artist:3kUKwTJdH8FuWzF8p6Dg9E"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 323066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM16600282"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5p6me2mwQrGfH30eExHn6v"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5p6me2mwQrGfH30eExHn6v",
+  "id" : "5p6me2mwQrGfH30eExHn6v",
+  "name" : "Take Five",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7582281fdf2ef5ba3daa6640336666b9d5f1ccbb?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5p6me2mwQrGfH30eExHn6v"
+}

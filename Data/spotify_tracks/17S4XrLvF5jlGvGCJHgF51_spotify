@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tX2TplrkIP4v05BNC903e",
+      "id" : "4tX2TplrkIP4v05BNC903e",
+      "name" : "Tom Petty and the Heartbreakers",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tX2TplrkIP4v05BNC903e"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/42G5ULkCRRl3crJMlg6eKd",
+    "id" : "42G5ULkCRRl3crJMlg6eKd",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/1098212bca1cb2e86dc20d2362c2e3ac6b2e6059",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/93a5dc42af6faeb399ba44767241bd57f40121ed",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fcf8d99bc7560c1bf2f49f5debc080d374de0c59",
+      "width" : 64
+    } ],
+    "name" : "Into The Great Wide Open",
+    "type" : "album",
+    "uri" : "spotify:album:42G5ULkCRRl3crJMlg6eKd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4tX2TplrkIP4v05BNC903e",
+    "id" : "4tX2TplrkIP4v05BNC903e",
+    "name" : "Tom Petty and the Heartbreakers",
+    "type" : "artist",
+    "uri" : "spotify:artist:4tX2TplrkIP4v05BNC903e"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 242106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC19135647"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/17S4XrLvF5jlGvGCJHgF51",
+  "id" : "17S4XrLvF5jlGvGCJHgF51",
+  "name" : "Learning To Fly",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7cbd28743f3e1f20a3bbf013dd782f55854919b6?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:17S4XrLvF5jlGvGCJHgF51"
+}

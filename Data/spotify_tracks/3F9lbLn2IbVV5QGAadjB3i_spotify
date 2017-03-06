@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+      "id" : "12VaqyEhgwDRuFfEqbnrpz",
+      "name" : "PJ Harvey",
+      "type" : "artist",
+      "uri" : "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/08Plby1CLD0UNgChnPD8lo",
+    "id" : "08Plby1CLD0UNgChnPD8lo",
+    "images" : [ {
+      "height" : 633,
+      "url" : "https://i.scdn.co/image/ddba984d234f56a1a2c4a734b44a9df685fb9144",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/eb783cfb5c9b2c60f5b4fe4bbbce02cac40e9b4b",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/8baffb50fd4f9e2165d1cdf07ab2520e0c81cd0f",
+      "width" : 64
+    } ],
+    "name" : "Dry",
+    "type" : "album",
+    "uri" : "spotify:album:08Plby1CLD0UNgChnPD8lo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+    "id" : "12VaqyEhgwDRuFfEqbnrpz",
+    "name" : "PJ Harvey",
+    "type" : "artist",
+    "uri" : "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 291266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0124922"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3F9lbLn2IbVV5QGAadjB3i"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3F9lbLn2IbVV5QGAadjB3i",
+  "id" : "3F9lbLn2IbVV5QGAadjB3i",
+  "name" : "Happy And Bleeding",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1086bf0c48424f50be14a293a8053e5e62d63b14?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3F9lbLn2IbVV5QGAadjB3i"
+}

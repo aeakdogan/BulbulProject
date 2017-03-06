@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kO6zjt4a1OIqxOERhliEX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2kO6zjt4a1OIqxOERhliEX",
+      "id" : "2kO6zjt4a1OIqxOERhliEX",
+      "name" : "The Gathering",
+      "type" : "artist",
+      "uri" : "spotify:artist:2kO6zjt4a1OIqxOERhliEX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6ZV7usQFahcHzj9X8Cf6Ut"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6ZV7usQFahcHzj9X8Cf6Ut",
+    "id" : "6ZV7usQFahcHzj9X8Cf6Ut",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/822584631d479482e9be1ae81360eeb9942477e5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/841af33655c9364287377130793f1952c32b12dc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6eaaeeff053bc1982069db70690ca934d559c2bb",
+      "width" : 64
+    } ],
+    "name" : "Souvenirs",
+    "type" : "album",
+    "uri" : "spotify:album:6ZV7usQFahcHzj9X8Cf6Ut"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2kO6zjt4a1OIqxOERhliEX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2kO6zjt4a1OIqxOERhliEX",
+    "id" : "2kO6zjt4a1OIqxOERhliEX",
+    "name" : "The Gathering",
+    "type" : "artist",
+    "uri" : "spotify:artist:2kO6zjt4a1OIqxOERhliEX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 308933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLF600300026"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3QMBz3pUUoUGHulZYmOqAg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3QMBz3pUUoUGHulZYmOqAg",
+  "id" : "3QMBz3pUUoUGHulZYmOqAg",
+  "name" : "You Learn About It",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/60545224f9b7350bb27489979931ef207e7eb03f?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3QMBz3pUUoUGHulZYmOqAg"
+}

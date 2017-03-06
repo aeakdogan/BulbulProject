@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+      },
+      "href" : "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+      "id" : "053q0ukIDRgzwTr4vNSwab",
+      "name" : "Grimes",
+      "type" : "artist",
+      "uri" : "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/48a7rOjTzpD1zzJAteeveE",
+    "id" : "48a7rOjTzpD1zzJAteeveE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/24ab06ced713c1a56f34a6636bb4ef59e913816f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3074a8a63cd7022ad08dbe7bb4f07df3f7f00e30",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/400f8cc9663f3816d57e341a280be967e3f0168a",
+      "width" : 64
+    } ],
+    "name" : "Visions",
+    "type" : "album",
+    "uri" : "spotify:album:48a7rOjTzpD1zzJAteeveE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+    },
+    "href" : "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+    "id" : "053q0ukIDRgzwTr4vNSwab",
+    "name" : "Grimes",
+    "type" : "artist",
+    "uri" : "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 251266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CA21O1200003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4P6n0udLAnmCNXVcobYbsK",
+  "id" : "4P6n0udLAnmCNXVcobYbsK",
+  "name" : "Oblivion",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ba51f6ada1aad97df883b9691b9880bf526218d5?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4P6n0udLAnmCNXVcobYbsK"
+}

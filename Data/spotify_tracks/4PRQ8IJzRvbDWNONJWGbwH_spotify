@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Bd1cgCjtCI32PYvDC3ynO",
+      "id" : "3Bd1cgCjtCI32PYvDC3ynO",
+      "name" : "London Grammar",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Bd1cgCjtCI32PYvDC3ynO"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2J4dwQHk8EZKPKGhM1EzOU",
+    "id" : "2J4dwQHk8EZKPKGhM1EzOU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/27f1265d3393989beb405aa936696fe479113dce",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/25447bf7ec987e84f00b262858a9b4cac580e20c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/36808ce121657768dca71623420feb4b9aefcfb2",
+      "width" : 64
+    } ],
+    "name" : "If You Wait",
+    "type" : "album",
+    "uri" : "spotify:album:2J4dwQHk8EZKPKGhM1EzOU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Bd1cgCjtCI32PYvDC3ynO",
+    "id" : "3Bd1cgCjtCI32PYvDC3ynO",
+    "name" : "London Grammar",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Bd1cgCjtCI32PYvDC3ynO"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 270426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11304352"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4PRQ8IJzRvbDWNONJWGbwH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4PRQ8IJzRvbDWNONJWGbwH",
+  "id" : "4PRQ8IJzRvbDWNONJWGbwH",
+  "name" : "Nightcall",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/41158cb878e2ca4734267f8aaf19675ed1894979?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4PRQ8IJzRvbDWNONJWGbwH"
+}

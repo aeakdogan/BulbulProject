@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5nCi3BB41mBaMH9gfr6Su0",
+      "id" : "5nCi3BB41mBaMH9gfr6Su0",
+      "name" : "fun.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5nCi3BB41mBaMH9gfr6Su0"
+    } ],
+    "available_markets" : [ "AT", "AU", "BG", "CH", "CZ", "DE", "DK", "EE", "FI", "HU", "IS", "LT", "LV", "NO", "NZ", "PL", "SE", "SK", "TR", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7iycyHwOW2plljYIK6I1Zo",
+    "id" : "7iycyHwOW2plljYIK6I1Zo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/45aa3c0ca065d0eebe79193cc6f9753b3d415e9f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4307a3209869518dfe3122d3ec8176d3b2d3cab9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6ccb9de053487386b41091e61516612c4a2beb16",
+      "width" : 64
+    } ],
+    "name" : "Some Nights (Spotify Exclusive)",
+    "type" : "album",
+    "uri" : "spotify:album:7iycyHwOW2plljYIK6I1Zo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5nCi3BB41mBaMH9gfr6Su0",
+    "id" : "5nCi3BB41mBaMH9gfr6Su0",
+    "name" : "fun.",
+    "type" : "artist",
+    "uri" : "spotify:artist:5nCi3BB41mBaMH9gfr6Su0"
+  } ],
+  "available_markets" : [ "AT", "AU", "BG", "CH", "CZ", "DE", "DK", "EE", "FI", "HU", "IS", "LT", "LV", "NO", "NZ", "PL", "SE", "SK", "TR", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 277040,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USAT21104050"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6t6oULCRS6hnI7rm0h5gwl",
+  "id" : "6t6oULCRS6hnI7rm0h5gwl",
+  "name" : "Some Nights",
+  "popularity" : 67,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ffc0e31e3685cae5ed9b05c2a506da3f3e9ee2ab?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6t6oULCRS6hnI7rm0h5gwl"
+}

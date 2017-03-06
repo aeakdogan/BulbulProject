@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GLtl8uqKmnyCWxHmw9tL4",
+      "id" : "1GLtl8uqKmnyCWxHmw9tL4",
+      "name" : "The Kooks",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GLtl8uqKmnyCWxHmw9tL4"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4MhInH4XT7ReDV5fCZjaSz",
+    "id" : "4MhInH4XT7ReDV5fCZjaSz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/057c152fc5e80241b680b54cf78ad078eba920a5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f035f24ebf7ff01e3184dcf3ad5be0bb4559548f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/61cf1c30787be61510036fa2b3c33ce6c23c7c7e",
+      "width" : 64
+    } ],
+    "name" : "Inside In / Inside Out",
+    "type" : "album",
+    "uri" : "spotify:album:4MhInH4XT7ReDV5fCZjaSz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1GLtl8uqKmnyCWxHmw9tL4",
+    "id" : "1GLtl8uqKmnyCWxHmw9tL4",
+    "name" : "The Kooks",
+    "type" : "artist",
+    "uri" : "spotify:artist:1GLtl8uqKmnyCWxHmw9tL4"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 169306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0500835"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2SGBEDwsOAOAHrrdAd304i",
+  "id" : "2SGBEDwsOAOAHrrdAd304i",
+  "name" : "She Moves In Her Own Way",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e89773992bfa39ce65f2f323056c8f57b690b5e5?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2SGBEDwsOAOAHrrdAd304i"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CkUfRn4aQ5tEOQYEnXRAU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CkUfRn4aQ5tEOQYEnXRAU",
+      "id" : "7CkUfRn4aQ5tEOQYEnXRAU",
+      "name" : "The National Bank",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CkUfRn4aQ5tEOQYEnXRAU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2PtZgnXX8t3tJj6t0sIdQr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2PtZgnXX8t3tJj6t0sIdQr",
+    "id" : "2PtZgnXX8t3tJj6t0sIdQr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/385333a714c69ccecc1ed599556484066adb987f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8c8e5ab528b1c4831a5f0a90bdda1815c2856850",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b8b29dba726ec9246b01826ae15e786352850615",
+      "width" : 64
+    } ],
+    "name" : "The National Bank",
+    "type" : "album",
+    "uri" : "spotify:album:2PtZgnXX8t3tJj6t0sIdQr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7CkUfRn4aQ5tEOQYEnXRAU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7CkUfRn4aQ5tEOQYEnXRAU",
+    "id" : "7CkUfRn4aQ5tEOQYEnXRAU",
+    "name" : "The National Bank",
+    "type" : "artist",
+    "uri" : "spotify:artist:7CkUfRn4aQ5tEOQYEnXRAU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 269146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOAMM0400231"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/79rIVTkYVXQ1apsgmQVqCW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/79rIVTkYVXQ1apsgmQVqCW",
+  "id" : "79rIVTkYVXQ1apsgmQVqCW",
+  "name" : "Tolerate",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/015e5193fe13ae0139940d9eb10e0dc937d1e25a?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:79rIVTkYVXQ1apsgmQVqCW"
+}

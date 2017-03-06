@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7tmMPdOmFvdRvbj2aWoiRi",
+      "id" : "7tmMPdOmFvdRvbj2aWoiRi",
+      "name" : "Jovanotti",
+      "type" : "artist",
+      "uri" : "spotify:artist:7tmMPdOmFvdRvbj2aWoiRi"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7u8aAYprJucEFRmH2l6tJJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7u8aAYprJucEFRmH2l6tJJ",
+    "id" : "7u8aAYprJucEFRmH2l6tJJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fede768e4de0a0793c115277d3b20203f2308f5f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/568ccab767abfeef3bc2878eaf742ed00d1f92da",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/117eb8b0f04e2758530c42fdd295488b367ab2fa",
+      "width" : 64
+    } ],
+    "name" : "Ora (Deluxe Version)",
+    "type" : "album",
+    "uri" : "spotify:album:7u8aAYprJucEFRmH2l6tJJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7tmMPdOmFvdRvbj2aWoiRi",
+    "id" : "7tmMPdOmFvdRvbj2aWoiRi",
+    "name" : "Jovanotti",
+    "type" : "artist",
+    "uri" : "spotify:artist:7tmMPdOmFvdRvbj2aWoiRi"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 213226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITUM71003417"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4BenDOqr4Feas8CiWtRyzf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4BenDOqr4Feas8CiWtRyzf",
+  "id" : "4BenDOqr4Feas8CiWtRyzf",
+  "name" : "Le Tasche Piene Di Sassi",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6b33eb51cac931774c93a2a9e45513cd3bab6f28?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4BenDOqr4Feas8CiWtRyzf"
+}

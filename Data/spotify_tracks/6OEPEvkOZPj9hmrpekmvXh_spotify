@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6pwHWKweuoCyx3OoFaD0Q5",
+      "id" : "6pwHWKweuoCyx3OoFaD0Q5",
+      "name" : "The Weepies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6pwHWKweuoCyx3OoFaD0Q5"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4oLNa4UPI7Hv2MC07flMT1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4oLNa4UPI7Hv2MC07flMT1",
+    "id" : "4oLNa4UPI7Hv2MC07flMT1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5ed5eabf9cbdf4e083934c51463eb4fc37577e11",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/14b82d783a2fdbfe322170222a8d6be360fadea8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa768491e6f2d42155da8c49eef69b54a2be2c34",
+      "width" : 64
+    } ],
+    "name" : "Hideaway",
+    "type" : "album",
+    "uri" : "spotify:album:4oLNa4UPI7Hv2MC07flMT1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6pwHWKweuoCyx3OoFaD0Q5",
+    "id" : "6pwHWKweuoCyx3OoFaD0Q5",
+    "name" : "The Weepies",
+    "type" : "artist",
+    "uri" : "spotify:artist:6pwHWKweuoCyx3OoFaD0Q5"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 213053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN110701907"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6OEPEvkOZPj9hmrpekmvXh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6OEPEvkOZPj9hmrpekmvXh",
+  "id" : "6OEPEvkOZPj9hmrpekmvXh",
+  "name" : "Little Bird",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4020540ec4684073bb3d16995150d95645a3a78d?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6OEPEvkOZPj9hmrpekmvXh"
+}

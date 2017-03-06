@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/359LKbZWLk6u3IpyNE2CQG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/359LKbZWLk6u3IpyNE2CQG",
+      "id" : "359LKbZWLk6u3IpyNE2CQG",
+      "name" : "Roberto Cacciapaglia",
+      "type" : "artist",
+      "uri" : "spotify:artist:359LKbZWLk6u3IpyNE2CQG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6VGNgAU2hDX74Uk73m1a7R"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6VGNgAU2hDX74Uk73m1a7R",
+    "id" : "6VGNgAU2hDX74Uk73m1a7R",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5b14d50eff0888ee78102215987f61e3320fc1a8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a033899f0156b89a136df4ade3b8ec06c34b6c2f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e861c1872313ee1a602fd722ba600a7d8c5fe6cd",
+      "width" : 64
+    } ],
+    "name" : "Quarto tempo (Fourth Time)",
+    "type" : "album",
+    "uri" : "spotify:album:6VGNgAU2hDX74Uk73m1a7R"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/359LKbZWLk6u3IpyNE2CQG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/359LKbZWLk6u3IpyNE2CQG",
+    "id" : "359LKbZWLk6u3IpyNE2CQG",
+    "name" : "Roberto Cacciapaglia",
+    "type" : "artist",
+    "uri" : "spotify:artist:359LKbZWLk6u3IpyNE2CQG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 249906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEBL60983950"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5KvCYaQd8L7FRbblf1r5Rx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5KvCYaQd8L7FRbblf1r5Rx",
+  "id" : "5KvCYaQd8L7FRbblf1r5Rx",
+  "name" : "Tema celeste",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3a95e168d7ac5aa7b33ec83acb33897dab855ad6?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5KvCYaQd8L7FRbblf1r5Rx"
+}

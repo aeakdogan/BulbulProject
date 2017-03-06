@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+      "id" : "2qk9voo8llSGYcZ6xrBzKx",
+      "name" : "Kings of Leon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5CZR6ljD0x9fTiS4mh9wMp",
+    "id" : "5CZR6ljD0x9fTiS4mh9wMp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8efb25315084d6a01748deb0af455fa154775bda",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/59ff6142022da17161182da92d3886587b2c26f0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cc3d842c527d67607a27f19363c25813ca78ff01",
+      "width" : 64
+    } ],
+    "name" : "Only By The Night",
+    "type" : "album",
+    "uri" : "spotify:album:5CZR6ljD0x9fTiS4mh9wMp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+    "id" : "2qk9voo8llSGYcZ6xrBzKx",
+    "name" : "Kings of Leon",
+    "type" : "artist",
+    "uri" : "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 237480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC10800298"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1O8d2pWtBclzuY3FctBPVa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1O8d2pWtBclzuY3FctBPVa",
+  "id" : "1O8d2pWtBclzuY3FctBPVa",
+  "name" : "Closer",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0de48bbcaa975692e7b284bc650561317ee33570?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1O8d2pWtBclzuY3FctBPVa"
+}

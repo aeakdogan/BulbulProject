@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+      "id" : "3koiLjNrgRTNbOwViDipeA",
+      "name" : "Marvin Gaye",
+      "type" : "artist",
+      "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ocIMWOUAdfgk0PZhFyFcM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ocIMWOUAdfgk0PZhFyFcM",
+    "id" : "3ocIMWOUAdfgk0PZhFyFcM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b443361e1247b6c2e26128a7e8ee5809aa4b7357",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f7254981bc0c2da2c65a2a04fe7e5d428fd44b9b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/972909c764b99e01d195a4a45dc941f103f37028",
+      "width" : 64
+    } ],
+    "name" : "Anthology: The Best Of Marvin Gaye",
+    "type" : "album",
+    "uri" : "spotify:album:3ocIMWOUAdfgk0PZhFyFcM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+    "id" : "3koiLjNrgRTNbOwViDipeA",
+    "name" : "Marvin Gaye",
+    "type" : "artist",
+    "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 193493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO16800265"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4tMxTsEPybFSX1dq7BOC4K"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4tMxTsEPybFSX1dq7BOC4K",
+  "id" : "4tMxTsEPybFSX1dq7BOC4K",
+  "name" : "I Heard It Through The Grapevine - Single Version (Mono)",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/af5f0ce75b9fcebc120eed6abed0f9972ecc1161?cid=null",
+  "track_number" : 25,
+  "type" : "track",
+  "uri" : "spotify:track:4tMxTsEPybFSX1dq7BOC4K"
+}

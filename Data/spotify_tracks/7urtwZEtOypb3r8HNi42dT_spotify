@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jTtGLk1mGFMY5lQOvJYUj",
+      "id" : "5jTtGLk1mGFMY5lQOvJYUj",
+      "name" : "bôa",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jTtGLk1mGFMY5lQOvJYUj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4FuDtiC4q9CrL1bVMunIHE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4FuDtiC4q9CrL1bVMunIHE",
+    "id" : "4FuDtiC4q9CrL1bVMunIHE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/63d8e62c4de9b2498957708b7d8d43c3a8810418",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/224daaa97e8a771cfa33c7bfb2104e09801fdbdd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a2a6145a82387823aec5c03386672775baebffd2",
+      "width" : 64
+    } ],
+    "name" : "Twilight",
+    "type" : "album",
+    "uri" : "spotify:album:4FuDtiC4q9CrL1bVMunIHE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5jTtGLk1mGFMY5lQOvJYUj",
+    "id" : "5jTtGLk1mGFMY5lQOvJYUj",
+    "name" : "bôa",
+    "type" : "artist",
+    "uri" : "spotify:artist:5jTtGLk1mGFMY5lQOvJYUj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 203600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "uscgj0659337"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7urtwZEtOypb3r8HNi42dT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7urtwZEtOypb3r8HNi42dT",
+  "id" : "7urtwZEtOypb3r8HNi42dT",
+  "name" : "Duvet",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9cb30b3050ff15ff4228509da7cfeafa4f1f7092?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7urtwZEtOypb3r8HNi42dT"
+}

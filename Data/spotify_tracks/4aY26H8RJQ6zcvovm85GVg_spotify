@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ILwJ5zliBLMsRARQJjOMp",
+      "id" : "1ILwJ5zliBLMsRARQJjOMp",
+      "name" : "Aim",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ILwJ5zliBLMsRARQJjOMp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6N5ST7D8lhiW1I5YfPDE5R",
+    "id" : "6N5ST7D8lhiW1I5YfPDE5R",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2cb6bc0117f208dd4cd3434e64e9935436892a9c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e510f4bf73bc673c628430b959b731e91b4bb24b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b10797e61b815b630a1462d4a1d8eb526b86dd2f",
+      "width" : 64
+    } ],
+    "name" : "Cold Water Music",
+    "type" : "album",
+    "uri" : "spotify:album:6N5ST7D8lhiW1I5YfPDE5R"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ILwJ5zliBLMsRARQJjOMp",
+    "id" : "1ILwJ5zliBLMsRARQJjOMp",
+    "name" : "Aim",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ILwJ5zliBLMsRARQJjOMp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 344360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBKNX0700049"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4aY26H8RJQ6zcvovm85GVg",
+  "id" : "4aY26H8RJQ6zcvovm85GVg",
+  "name" : "Cold Water Music",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d1f32983b5399ba3ff2a61181bb94e24a80affcf?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4aY26H8RJQ6zcvovm85GVg"
+}

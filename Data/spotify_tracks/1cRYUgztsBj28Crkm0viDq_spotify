@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5lYcr7Yue9FUB7MJDBtTJx",
+      "id" : "5lYcr7Yue9FUB7MJDBtTJx",
+      "name" : "Azymuth",
+      "type" : "artist",
+      "uri" : "spotify:artist:5lYcr7Yue9FUB7MJDBtTJx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Bc3Vi6eMdJKEGN3haOTGF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Bc3Vi6eMdJKEGN3haOTGF",
+    "id" : "4Bc3Vi6eMdJKEGN3haOTGF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1fa29a9e1efd783c918239496cf0d88d835eeb5c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/18ef11fb057748903f847d72775510d36204e440",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c0d0a86efcfab544a4a02b77eaeb8f904387674",
+      "width" : 64
+    } ],
+    "name" : "Light As A Feather",
+    "type" : "album",
+    "uri" : "spotify:album:4Bc3Vi6eMdJKEGN3haOTGF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5lYcr7Yue9FUB7MJDBtTJx",
+    "id" : "5lYcr7Yue9FUB7MJDBtTJx",
+    "name" : "Azymuth",
+    "type" : "artist",
+    "uri" : "spotify:artist:5lYcr7Yue9FUB7MJDBtTJx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 573693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEA740220204"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1cRYUgztsBj28Crkm0viDq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1cRYUgztsBj28Crkm0viDq",
+  "id" : "1cRYUgztsBj28Crkm0viDq",
+  "name" : "Jazz Carnival",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/53a0588f408b606363721278b922286a94270281?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1cRYUgztsBj28Crkm0viDq"
+}

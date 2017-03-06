@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1FN2EhfMWlevXfjp5WpEPn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1FN2EhfMWlevXfjp5WpEPn",
+      "id" : "1FN2EhfMWlevXfjp5WpEPn",
+      "name" : "Laura Veirs and Saltbreakers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1FN2EhfMWlevXfjp5WpEPn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5VoWcY96khsjng1zcxQUxh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5VoWcY96khsjng1zcxQUxh",
+    "id" : "5VoWcY96khsjng1zcxQUxh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dd296ead17b9e854926795849927504e0bfcc6bb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8bfa54137d16c17ea1e1b6a58e5dd2365a285ad5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f2c4ad6b0a34b23fa6519257ce716f4ce2161623",
+      "width" : 64
+    } ],
+    "name" : "Saltbreakers",
+    "type" : "album",
+    "uri" : "spotify:album:5VoWcY96khsjng1zcxQUxh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1FN2EhfMWlevXfjp5WpEPn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1FN2EhfMWlevXfjp5WpEPn",
+    "id" : "1FN2EhfMWlevXfjp5WpEPn",
+    "name" : "Laura Veirs and Saltbreakers",
+    "type" : "artist",
+    "uri" : "spotify:artist:1FN2EhfMWlevXfjp5WpEPn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 276200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO10600998"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4NBQoF6arDxGU2X9Vdx20s"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4NBQoF6arDxGU2X9Vdx20s",
+  "id" : "4NBQoF6arDxGU2X9Vdx20s",
+  "name" : "Drink Deep",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2384dc5bb00dab7c9f6053ecdc978d27b04b18b7?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4NBQoF6arDxGU2X9Vdx20s"
+}

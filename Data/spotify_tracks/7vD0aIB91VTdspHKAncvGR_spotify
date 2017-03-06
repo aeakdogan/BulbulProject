@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xUf6j4upBrXZPg6AI4MRK",
+      "id" : "5xUf6j4upBrXZPg6AI4MRK",
+      "name" : "Soundgarden",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xUf6j4upBrXZPg6AI4MRK"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Cpmgfv2YLtBN368ZbBxGY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Cpmgfv2YLtBN368ZbBxGY",
+    "id" : "0Cpmgfv2YLtBN368ZbBxGY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0c9291fc9f6e39e49e0303d411267ff6831b0999",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/44477f13a90021ec174d52468664382f098241fe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/40e507261cccce1aeac08404cc1b896a23b02aec",
+      "width" : 64
+    } ],
+    "name" : "Echo Of Miles: Scattered Tracks Across The Path",
+    "type" : "album",
+    "uri" : "spotify:album:0Cpmgfv2YLtBN368ZbBxGY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5xUf6j4upBrXZPg6AI4MRK",
+    "id" : "5xUf6j4upBrXZPg6AI4MRK",
+    "name" : "Soundgarden",
+    "type" : "artist",
+    "uri" : "spotify:artist:5xUf6j4upBrXZPg6AI4MRK"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 340426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUG11401660"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7vD0aIB91VTdspHKAncvGR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7vD0aIB91VTdspHKAncvGR",
+  "id" : "7vD0aIB91VTdspHKAncvGR",
+  "name" : "Toy Box",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a31e70c02fcc5463dcfa77a3f9d4031cfe66cfe3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7vD0aIB91VTdspHKAncvGR"
+}

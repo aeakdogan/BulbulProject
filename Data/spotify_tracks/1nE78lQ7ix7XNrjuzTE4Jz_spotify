@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+      "id" : "3IYUhFvPQItj6xySrBmZkd",
+      "name" : "Creedence Clearwater Revival",
+      "type" : "artist",
+      "uri" : "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/04CGA9H5xjYGnGMB8cLYRv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/04CGA9H5xjYGnGMB8cLYRv",
+    "id" : "04CGA9H5xjYGnGMB8cLYRv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5986624dd8f3ab435f5f5b1976b97d479bfd5a52",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c4e33d994623c59a3d6cdb15598359f4d95bf3b1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5bf567c024412424499886bf51583d97dcaec2a0",
+      "width" : 64
+    } ],
+    "name" : "Bayou Country (40th Anniversary Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:04CGA9H5xjYGnGMB8cLYRv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+    "id" : "3IYUhFvPQItj6xySrBmZkd",
+    "name" : "Creedence Clearwater Revival",
+    "type" : "artist",
+    "uri" : "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 315200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R0817589"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1nE78lQ7ix7XNrjuzTE4Jz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1nE78lQ7ix7XNrjuzTE4Jz",
+  "id" : "1nE78lQ7ix7XNrjuzTE4Jz",
+  "name" : "Born On The Bayou",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f85bd4de7349c6e525755119c3c506d248458e8a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1nE78lQ7ix7XNrjuzTE4Jz"
+}

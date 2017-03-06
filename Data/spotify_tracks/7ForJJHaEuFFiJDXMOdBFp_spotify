@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GLtl8uqKmnyCWxHmw9tL4",
+      "id" : "1GLtl8uqKmnyCWxHmw9tL4",
+      "name" : "The Kooks",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GLtl8uqKmnyCWxHmw9tL4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2HfdqVaLccOvzfsHej9A8g",
+    "id" : "2HfdqVaLccOvzfsHej9A8g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/896fb138d928f5bf07d1efa5f1fda61fee177222",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/141937566f03f8b23a0e9da0f8745f7563e31637",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3768e042a59e28001fffb4361342c527610a53d0",
+      "width" : 64
+    } ],
+    "name" : "Junk Of The Heart",
+    "type" : "album",
+    "uri" : "spotify:album:2HfdqVaLccOvzfsHej9A8g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1GLtl8uqKmnyCWxHmw9tL4",
+    "id" : "1GLtl8uqKmnyCWxHmw9tL4",
+    "name" : "The Kooks",
+    "type" : "artist",
+    "uri" : "spotify:artist:1GLtl8uqKmnyCWxHmw9tL4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 160826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA1100207"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ForJJHaEuFFiJDXMOdBFp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ForJJHaEuFFiJDXMOdBFp",
+  "id" : "7ForJJHaEuFFiJDXMOdBFp",
+  "name" : "Mr. Nice Guy",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/89252197b31a32c234dac7e8f726b7e8c0fb4fad?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:7ForJJHaEuFFiJDXMOdBFp"
+}

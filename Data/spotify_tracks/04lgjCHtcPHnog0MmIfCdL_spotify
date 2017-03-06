@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5E2rtn57BM2WPjwak4kGd5",
+      "id" : "5E2rtn57BM2WPjwak4kGd5",
+      "name" : "At The Drive-In",
+      "type" : "artist",
+      "uri" : "spotify:artist:5E2rtn57BM2WPjwak4kGd5"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "EC", "JP", "MX", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3fpwDgOHVqI2q4PuG4SKGL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3fpwDgOHVqI2q4PuG4SKGL",
+    "id" : "3fpwDgOHVqI2q4PuG4SKGL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/550f67bab8fa435c4210e2a31e914b7d97cd8e53",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7d50626f3713d3d70472ef4d26dfeb5bd60c782d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9554a7180b129061901a4a222565cadaeddfe38e",
+      "width" : 64
+    } ],
+    "name" : "Relationship Of Command",
+    "type" : "album",
+    "uri" : "spotify:album:3fpwDgOHVqI2q4PuG4SKGL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5E2rtn57BM2WPjwak4kGd5",
+    "id" : "5E2rtn57BM2WPjwak4kGd5",
+    "name" : "At The Drive-In",
+    "type" : "artist",
+    "uri" : "spotify:artist:5E2rtn57BM2WPjwak4kGd5"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "EC", "JP", "MX", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 207159,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US5260507004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/04lgjCHtcPHnog0MmIfCdL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/04lgjCHtcPHnog0MmIfCdL",
+  "id" : "04lgjCHtcPHnog0MmIfCdL",
+  "name" : "Sleepwalk Capsules",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b3cfd371a279e22b84f163bc8b30449a612cbe5e?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:04lgjCHtcPHnog0MmIfCdL"
+}

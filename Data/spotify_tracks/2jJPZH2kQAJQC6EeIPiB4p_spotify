@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+      "id" : "1DFr97A9HnbV3SKTJFu62M",
+      "name" : "Motörhead",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4FtDA9DU28D7cn1E1TmB3v"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4FtDA9DU28D7cn1E1TmB3v",
+    "id" : "4FtDA9DU28D7cn1E1TmB3v",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/97f51ad6ce0b18f28d02d987cce3bc64409ad5f0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8896517ce407af4fa2275b3a4d3fbee8b5626b5c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4aba05265165123a7859f11c50f7f92e3b8713be",
+      "width" : 64
+    } ],
+    "name" : "Motorhead",
+    "type" : "album",
+    "uri" : "spotify:album:4FtDA9DU28D7cn1E1TmB3v"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+    "id" : "1DFr97A9HnbV3SKTJFu62M",
+    "name" : "Motörhead",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 156973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBHN0100116"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2jJPZH2kQAJQC6EeIPiB4p"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2jJPZH2kQAJQC6EeIPiB4p",
+  "id" : "2jJPZH2kQAJQC6EeIPiB4p",
+  "name" : "White Line Fever",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5df3fbd6e191ada57375a92589d887970d9a4a5b?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2jJPZH2kQAJQC6EeIPiB4p"
+}

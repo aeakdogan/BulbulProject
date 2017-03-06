@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/602DnpaSXJB4b9DZrvxbDc",
+      "id" : "602DnpaSXJB4b9DZrvxbDc",
+      "name" : "Peggy Lee",
+      "type" : "artist",
+      "uri" : "spotify:artist:602DnpaSXJB4b9DZrvxbDc"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2tcpvSmBNYJEwVylN2YzK4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2tcpvSmBNYJEwVylN2YzK4",
+    "id" : "2tcpvSmBNYJEwVylN2YzK4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6c8b93f25ebe2acef42230709506ad0673daf88c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/af37e6b4c4fc08a5fbcb1c2dddfb6bbd64fec8ac",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a46259933260d3d83d5c446163e13915fbd8d8e7",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Miss Peggy Lee",
+    "type" : "album",
+    "uri" : "spotify:album:2tcpvSmBNYJEwVylN2YzK4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/602DnpaSXJB4b9DZrvxbDc",
+    "id" : "602DnpaSXJB4b9DZrvxbDc",
+    "name" : "Peggy Lee",
+    "type" : "artist",
+    "uri" : "spotify:artist:602DnpaSXJB4b9DZrvxbDc"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 130306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA29700365"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5uMHpuz47G4bvO5to0Bjm6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5uMHpuz47G4bvO5to0Bjm6",
+  "id" : "5uMHpuz47G4bvO5to0Bjm6",
+  "name" : "I'm A Woman - Digitally Remastered",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e3ecd36881f1fd2713246fdbf0d05aa7a3ce8834?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:5uMHpuz47G4bvO5to0Bjm6"
+}

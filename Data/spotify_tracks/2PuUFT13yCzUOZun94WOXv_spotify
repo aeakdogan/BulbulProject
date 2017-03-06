@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou",
+      "id" : "2pdvghEHZJtgSXZ7cvNLou",
+      "name" : "Crosby, Stills & Nash",
+      "type" : "artist",
+      "uri" : "spotify:artist:2pdvghEHZJtgSXZ7cvNLou"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6vUWpE8qciYHOhf7mgaGny",
+    "id" : "6vUWpE8qciYHOhf7mgaGny",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/849bb6611510bc5676b2df4614a27ca4bb987829",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/602faa5699d71f35670dec8862abf9904f0055f5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/90c90629c109f364b2d41a4b3ff11db69ebdecd6",
+      "width" : 64
+    } ],
+    "name" : "Crosby, Stills & Nash [with Bonus Tracks]",
+    "type" : "album",
+    "uri" : "spotify:album:6vUWpE8qciYHOhf7mgaGny"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2pdvghEHZJtgSXZ7cvNLou",
+    "id" : "2pdvghEHZJtgSXZ7cvNLou",
+    "name" : "Crosby, Stills & Nash",
+    "type" : "artist",
+    "uri" : "spotify:artist:2pdvghEHZJtgSXZ7cvNLou"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 444053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20506555"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2PuUFT13yCzUOZun94WOXv",
+  "id" : "2PuUFT13yCzUOZun94WOXv",
+  "name" : "Suite: Judy Blue Eyes - Remastered",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/30ba15226c66cf93d7026dfd3971736b2d3bc6cc?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2PuUFT13yCzUOZun94WOXv"
+}

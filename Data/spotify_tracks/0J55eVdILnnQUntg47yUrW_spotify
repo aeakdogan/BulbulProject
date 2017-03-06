@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ot21Sy0MDkbgacGh22omF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ot21Sy0MDkbgacGh22omF",
+      "id" : "0Ot21Sy0MDkbgacGh22omF",
+      "name" : "Vikter Duplaix",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ot21Sy0MDkbgacGh22omF"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1tnSKWsuOcAVDB2urivHYn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1tnSKWsuOcAVDB2urivHYn",
+    "id" : "1tnSKWsuOcAVDB2urivHYn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c8ecb38b1d27c96ea1941f6c4a0fdc63e5cdd595",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e24774ec19bb26e13ed29a6b44fd385c3641692c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0471a6d365be227099f12a84c6481ec55640ad5f",
+      "width" : 64
+    } ],
+    "name" : "International Affairs",
+    "type" : "album",
+    "uri" : "spotify:album:1tnSKWsuOcAVDB2urivHYn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Ot21Sy0MDkbgacGh22omF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Ot21Sy0MDkbgacGh22omF",
+    "id" : "0Ot21Sy0MDkbgacGh22omF",
+    "name" : "Vikter Duplaix",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Ot21Sy0MDkbgacGh22omF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 126893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USHR10220143"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0J55eVdILnnQUntg47yUrW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0J55eVdILnnQUntg47yUrW",
+  "id" : "0J55eVdILnnQUntg47yUrW",
+  "name" : "Departure",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8ea289c661ca3daea62f56d95bdbd22b3ff0f778?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0J55eVdILnnQUntg47yUrW"
+}

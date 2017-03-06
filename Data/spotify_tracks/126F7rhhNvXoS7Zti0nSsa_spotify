@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KMLfCXYb3Dhf1hLpu8cVd",
+      "id" : "0KMLfCXYb3Dhf1hLpu8cVd",
+      "name" : "Midnight Star",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KMLfCXYb3Dhf1hLpu8cVd"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6KcBhAUglJiHohRz5pKX5Y"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6KcBhAUglJiHohRz5pKX5Y",
+    "id" : "6KcBhAUglJiHohRz5pKX5Y",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/47fb86164bacb5f325ea1a68784bfa8310009471",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c718de710e607128abc8ae1d1bb455c944886f63",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6ab44998a1969a89c41a706554f4413d01240075",
+      "width" : 64
+    } ],
+    "name" : "Freak-A-Zoid / No Parking - Single (On The Dance Floor)",
+    "type" : "album",
+    "uri" : "spotify:album:6KcBhAUglJiHohRz5pKX5Y"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0KMLfCXYb3Dhf1hLpu8cVd",
+    "id" : "0KMLfCXYb3Dhf1hLpu8cVd",
+    "name" : "Midnight Star",
+    "type" : "artist",
+    "uri" : "spotify:artist:0KMLfCXYb3Dhf1hLpu8cVd"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 484333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAU118313558"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/126F7rhhNvXoS7Zti0nSsa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/126F7rhhNvXoS7Zti0nSsa",
+  "id" : "126F7rhhNvXoS7Zti0nSsa",
+  "name" : "Freak-A-Zoid",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5741abec318556e5908a9281aa8acd2f9c13e1be?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:126F7rhhNvXoS7Zti0nSsa"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3j1xCJdBMCl6wYQXurz2tb",
+    "id" : "3j1xCJdBMCl6wYQXurz2tb",
+    "images" : [ {
+      "height" : 631,
+      "url" : "https://i.scdn.co/image/4348f7c07133af97ed70e4242db044e831a935cd",
+      "width" : 640
+    }, {
+      "height" : 296,
+      "url" : "https://i.scdn.co/image/319487468298bca3c55e2dcfe669aceab2eacf80",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/824893094916f19482b78ba2bccd4426b175dbf9",
+      "width" : 64
+    } ],
+    "name" : "Vol.2 ... Hard Knock Life",
+    "type" : "album",
+    "uri" : "spotify:album:3j1xCJdBMCl6wYQXurz2tb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+    "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+    "name" : "JAY Z",
+    "type" : "artist",
+    "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238466,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USRL19800886"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Tl0HJvynZtKdSUMKbFVVX",
+  "id" : "5Tl0HJvynZtKdSUMKbFVVX",
+  "name" : "Hard Knock Life (Ghetto Anthem)",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/25dc83c45aeb11b7c43e20f2db8e61faa0dbc281?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5Tl0HJvynZtKdSUMKbFVVX"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5hAhrnb0Ch4ODwWu4tsbpi",
+      "id" : "5hAhrnb0Ch4ODwWu4tsbpi",
+      "name" : "Yo La Tengo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5hAhrnb0Ch4ODwWu4tsbpi"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3TlSSVWAeW4TB2FkVZ94dI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3TlSSVWAeW4TB2FkVZ94dI",
+    "id" : "3TlSSVWAeW4TB2FkVZ94dI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a2315bd72db3b448b799cf1e288bde12b1e85eed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/99877c27bb4cfc68e3f6482611b2b23a69522675",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4e66169dde60eb47171181d1cf335616bdaf2230",
+      "width" : 64
+    } ],
+    "name" : "Stuff Like That There",
+    "type" : "album",
+    "uri" : "spotify:album:3TlSSVWAeW4TB2FkVZ94dI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5hAhrnb0Ch4ODwWu4tsbpi",
+    "id" : "5hAhrnb0Ch4ODwWu4tsbpi",
+    "name" : "Yo La Tengo",
+    "type" : "artist",
+    "uri" : "spotify:artist:5hAhrnb0Ch4ODwWu4tsbpi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 198133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD1506535"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3tDq320jCqAo1oUv2pKhUL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3tDq320jCqAo1oUv2pKhUL",
+  "id" : "3tDq320jCqAo1oUv2pKhUL",
+  "name" : "All Your Secrets",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6f7b129887fab8037b7dca91f9808371daf4d351?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3tDq320jCqAo1oUv2pKhUL"
+}

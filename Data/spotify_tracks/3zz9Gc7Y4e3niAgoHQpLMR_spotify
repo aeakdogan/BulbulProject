@@ -1,0 +1,92 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3fuOw5vDRkCjnYIFFb37T7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3fuOw5vDRkCjnYIFFb37T7",
+      "id" : "3fuOw5vDRkCjnYIFFb37T7",
+      "name" : "Volkan Akmehmet",
+      "type" : "artist",
+      "uri" : "spotify:artist:3fuOw5vDRkCjnYIFFb37T7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2NPoerbywZjgYqjsbbDZpJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2NPoerbywZjgYqjsbbDZpJ",
+      "id" : "2NPoerbywZjgYqjsbbDZpJ",
+      "name" : "İnanç Şanver",
+      "type" : "artist",
+      "uri" : "spotify:artist:2NPoerbywZjgYqjsbbDZpJ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0N1HsUN9JAC6xvzIawWo7C"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0N1HsUN9JAC6xvzIawWo7C",
+    "id" : "0N1HsUN9JAC6xvzIawWo7C",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ae255cbc92bc7b69239d85bdf61321a8f4c3002a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5de0587dfda3370fd29c48288082a8f06bd852d1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7209d3cbb0d16a14439a956b041cb83731ac8b34",
+      "width" : 64
+    } ],
+    "name" : "Kiraz Mevsimi (Orjinal Soundtrack 2)",
+    "type" : "album",
+    "uri" : "spotify:album:0N1HsUN9JAC6xvzIawWo7C"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3fuOw5vDRkCjnYIFFb37T7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3fuOw5vDRkCjnYIFFb37T7",
+    "id" : "3fuOw5vDRkCjnYIFFb37T7",
+    "name" : "Volkan Akmehmet",
+    "type" : "artist",
+    "uri" : "spotify:artist:3fuOw5vDRkCjnYIFFb37T7"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2NPoerbywZjgYqjsbbDZpJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2NPoerbywZjgYqjsbbDZpJ",
+    "id" : "2NPoerbywZjgYqjsbbDZpJ",
+    "name" : "İnanç Şanver",
+    "type" : "artist",
+    "uri" : "spotify:artist:2NPoerbywZjgYqjsbbDZpJ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/51thzHEzVUCpcT7XIMPwGS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/51thzHEzVUCpcT7XIMPwGS",
+    "id" : "51thzHEzVUCpcT7XIMPwGS",
+    "name" : "Aras Aydın",
+    "type" : "artist",
+    "uri" : "spotify:artist:51thzHEzVUCpcT7XIMPwGS"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 216000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR0601500078"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3zz9Gc7Y4e3niAgoHQpLMR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3zz9Gc7Y4e3niAgoHQpLMR",
+  "id" : "3zz9Gc7Y4e3niAgoHQpLMR",
+  "name" : "Raslantı",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1904045730562737cdeb36248d593bee0a703dbf?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3zz9Gc7Y4e3niAgoHQpLMR"
+}

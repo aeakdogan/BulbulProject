@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL",
+      "id" : "3g2kUQ6tHLLbmkV7T4GPtL",
+      "name" : "Fiona Apple",
+      "type" : "artist",
+      "uri" : "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5gVBXH8MT6zfdRkjp7qT18",
+    "id" : "5gVBXH8MT6zfdRkjp7qT18",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1f64f1c195f8ef072f1afbef8cb35d26feb0e36e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/def1b9ec893546e3ad950802a30a60211a0f568e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dc46be9c68409b7573e00028ad9376d8b297d754",
+      "width" : 64
+    } ],
+    "name" : "Tidal",
+    "type" : "album",
+    "uri" : "spotify:album:5gVBXH8MT6zfdRkjp7qT18"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL",
+    "id" : "3g2kUQ6tHLLbmkV7T4GPtL",
+    "name" : "Fiona Apple",
+    "type" : "artist",
+    "uri" : "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 234706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19600945"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6cVxGzo7214XabSXFGasNl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6cVxGzo7214XabSXFGasNl",
+  "id" : "6cVxGzo7214XabSXFGasNl",
+  "name" : "Sullen Girl",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2de989c221b5bc8b6463097a92e7bc576d51c700?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6cVxGzo7214XabSXFGasNl"
+}

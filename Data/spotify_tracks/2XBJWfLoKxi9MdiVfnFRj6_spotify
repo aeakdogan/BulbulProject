@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+      "id" : "2o5jDhtHVPhrJdv3cEQ99Z",
+      "name" : "Tiësto",
+      "type" : "artist",
+      "uri" : "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/037aDC2s8EK3508d0cbNcs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/037aDC2s8EK3508d0cbNcs",
+    "id" : "037aDC2s8EK3508d0cbNcs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/39b64dafbe43ee1e039d057ae629c249b23c0f9e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a7d134bc49cff30a3f4a9dd45a151fdd86adcc62",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0cbd48ee12aa26b2f089cdb7250e4670ff36a7be",
+      "width" : 64
+    } ],
+    "name" : "Just Be",
+    "type" : "album",
+    "uri" : "spotify:album:037aDC2s8EK3508d0cbNcs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+    "id" : "2o5jDhtHVPhrJdv3cEQ99Z",
+    "name" : "Tiësto",
+    "type" : "artist",
+    "uri" : "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DyigTtTVmsh5HHfxOFyS6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DyigTtTVmsh5HHfxOFyS6",
+    "id" : "1DyigTtTVmsh5HHfxOFyS6",
+    "name" : "Kristy Hawksha",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DyigTtTVmsh5HHfxOFyS6"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 519813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLE710480329"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2XBJWfLoKxi9MdiVfnFRj6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2XBJWfLoKxi9MdiVfnFRj6",
+  "id" : "2XBJWfLoKxi9MdiVfnFRj6",
+  "name" : "Just Be (feat. Kristy Hawksha)",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/331bb237bb4b66bd54f84abe47696730389b95b6?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2XBJWfLoKxi9MdiVfnFRj6"
+}

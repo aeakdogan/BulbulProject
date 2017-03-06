@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SJad7TSSzjdRBJHV9rt8d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SJad7TSSzjdRBJHV9rt8d",
+      "id" : "5SJad7TSSzjdRBJHV9rt8d",
+      "name" : "The Broken Circle Breakdown Bluegrass Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SJad7TSSzjdRBJHV9rt8d"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6ZAMBVFqOXYFMlqXRjxCdp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6ZAMBVFqOXYFMlqXRjxCdp",
+    "id" : "6ZAMBVFqOXYFMlqXRjxCdp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/419d0f725cf4fc71e9d698347f71eee897f3d5d9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1cf3a3e65781c19eb67400a7d995d19e72def98b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/27d032b632e5a75976d6b8f3f101dd371aee0d2e",
+      "width" : 64
+    } ],
+    "name" : "The Broken Circle Breakdown (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:6ZAMBVFqOXYFMlqXRjxCdp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5SJad7TSSzjdRBJHV9rt8d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5SJad7TSSzjdRBJHV9rt8d",
+    "id" : "5SJad7TSSzjdRBJHV9rt8d",
+    "name" : "The Broken Circle Breakdown Bluegrass Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:5SJad7TSSzjdRBJHV9rt8d"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 261120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEUM71200340"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3SYXYXcMXnCDaA1HaZ4S0R"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3SYXYXcMXnCDaA1HaZ4S0R",
+  "id" : "3SYXYXcMXnCDaA1HaZ4S0R",
+  "name" : "The Boy Who Wouldn't Hoe Corn",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5d1b3b7c4c47b3d7547e31208c8986f3a5d0caa7?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3SYXYXcMXnCDaA1HaZ4S0R"
+}

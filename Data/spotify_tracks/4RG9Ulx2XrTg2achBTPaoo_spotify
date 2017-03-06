@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67YNiSqhrx1P8oPvIIvbP5",
+      "id" : "67YNiSqhrx1P8oPvIIvbP5",
+      "name" : "The Lightning Seeds",
+      "type" : "artist",
+      "uri" : "spotify:artist:67YNiSqhrx1P8oPvIIvbP5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2aPTNYJ6MjDj7UvIHnJs26",
+    "id" : "2aPTNYJ6MjDj7UvIHnJs26",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d1a1e1935cc3138708edc1ffd7846c622699f414",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/03d03fefa96363850d959fe79fafd8f477c43b65",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/59b3d910bd66d5667dd32863454bad51840584da",
+      "width" : 64
+    } ],
+    "name" : "Jollification",
+    "type" : "album",
+    "uri" : "spotify:album:2aPTNYJ6MjDj7UvIHnJs26"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/67YNiSqhrx1P8oPvIIvbP5",
+    "id" : "67YNiSqhrx1P8oPvIIvbP5",
+    "name" : "The Lightning Seeds",
+    "type" : "artist",
+    "uri" : "spotify:artist:67YNiSqhrx1P8oPvIIvbP5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 259666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBM9402001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4RG9Ulx2XrTg2achBTPaoo",
+  "id" : "4RG9Ulx2XrTg2achBTPaoo",
+  "name" : "Lucky You",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dbd4cc3c14c795ea79a2b9fdf75a700ee58113eb?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4RG9Ulx2XrTg2achBTPaoo"
+}

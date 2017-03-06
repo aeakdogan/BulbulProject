@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5gFPi3KWXEwA9bLEO47Ow0",
+      "id" : "5gFPi3KWXEwA9bLEO47Ow0",
+      "name" : "Sıla",
+      "type" : "artist",
+      "uri" : "spotify:artist:5gFPi3KWXEwA9bLEO47Ow0"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2LxgYDLWJmmr5timdxfEcp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2LxgYDLWJmmr5timdxfEcp",
+    "id" : "2LxgYDLWJmmr5timdxfEcp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c593cd5b874b80de59223a212825d14e20fef794",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/de127eb0f08e99ebe2390bdc81559869bea6ca69",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a541618bcddc27c96c011a4a0b0c22af373565d7",
+      "width" : 64
+    } ],
+    "name" : "Yeni Ay",
+    "type" : "album",
+    "uri" : "spotify:album:2LxgYDLWJmmr5timdxfEcp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5gFPi3KWXEwA9bLEO47Ow0",
+    "id" : "5gFPi3KWXEwA9bLEO47Ow0",
+    "name" : "Sıla",
+    "type" : "artist",
+    "uri" : "spotify:artist:5gFPi3KWXEwA9bLEO47Ow0"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 273960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TRA161400004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0HwTlcLe4mtAO26E53Hf6K"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0HwTlcLe4mtAO26E53Hf6K",
+  "id" : "0HwTlcLe4mtAO26E53Hf6K",
+  "name" : "Yabancı",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0e3cf43b7860c24169f0dc3f4c4fbed3dd59adcb?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0HwTlcLe4mtAO26E53Hf6K"
+}

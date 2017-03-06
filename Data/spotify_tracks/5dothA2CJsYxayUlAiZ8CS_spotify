@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7ipwKkmiV2Ga9NWgGqvJnZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7ipwKkmiV2Ga9NWgGqvJnZ",
+    "id" : "7ipwKkmiV2Ga9NWgGqvJnZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d956a8f330eda7377dc17290fd1d7165d498ab26",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7659a3283dd0e8150323bacebabe417238b8bfd1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/efebe4950d0e1eec2803f320f78b4788119c2908",
+      "width" : 64
+    } ],
+    "name" : "Miami Funk Volume 3",
+    "type" : "album",
+    "uri" : "spotify:album:7ipwKkmiV2Ga9NWgGqvJnZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/79pI3MBnTBaSXB4k79OtO4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/79pI3MBnTBaSXB4k79OtO4",
+    "id" : "79pI3MBnTBaSXB4k79OtO4",
+    "name" : "All The People",
+    "type" : "artist",
+    "uri" : "spotify:artist:79pI3MBnTBaSXB4k79OtO4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 136640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBEN0852501"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5dothA2CJsYxayUlAiZ8CS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5dothA2CJsYxayUlAiZ8CS",
+  "id" : "5dothA2CJsYxayUlAiZ8CS",
+  "name" : "Cramp Your Style",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/afed0ca827af38316426b61a3d356c58521935bc?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5dothA2CJsYxayUlAiZ8CS"
+}

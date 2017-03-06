@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/321q9p7PELvzcFAWxml7VX",
+    "id" : "321q9p7PELvzcFAWxml7VX",
+    "images" : [ {
+      "height" : 633,
+      "url" : "https://i.scdn.co/image/1169f993401b665a51e3479d822097a15e924f5d",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/665854dc54fde991b4f33ebc5d4f3d208429e91e",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/e671e0250d9210d2da4593013fb837a5c034e09d",
+      "width" : 64
+    } ],
+    "name" : "Uprising",
+    "type" : "album",
+    "uri" : "spotify:album:321q9p7PELvzcFAWxml7VX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+    "id" : "2QsynagSdAqZj3U9HgDzjD",
+    "name" : "Bob Marley & The Wailers",
+    "type" : "artist",
+    "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 233560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR28000018"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/26PwuMotZqcczKLHi4Htz3",
+  "id" : "26PwuMotZqcczKLHi4Htz3",
+  "name" : "Redemption Song",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a32ee7472a940e21d2dfb0ceefa3e6aa7a67e1aa?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:26PwuMotZqcczKLHi4Htz3"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/23NIwARd4vPbxt3wwNnJ6k",
+      "id" : "23NIwARd4vPbxt3wwNnJ6k",
+      "name" : "Parquet Courts",
+      "type" : "artist",
+      "uri" : "spotify:artist:23NIwARd4vPbxt3wwNnJ6k"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/198JgCiP5oHBycAKedKHRm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/198JgCiP5oHBycAKedKHRm",
+    "id" : "198JgCiP5oHBycAKedKHRm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f5a5c4ab679fabedaa124aab941b2c5a843eb3ac",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a01ea79c6d5fadbb28364baf5d3678ec079c1d57",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d5e69a63cd749974cd67bf30d0aff283c15ae62b",
+      "width" : 64
+    } ],
+    "name" : "Light Up Gold + Tally All The Things That You Broke",
+    "type" : "album",
+    "uri" : "spotify:album:198JgCiP5oHBycAKedKHRm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
+    },
+    "href" : "https://api.spotify.com/v1/artists/23NIwARd4vPbxt3wwNnJ6k",
+    "id" : "23NIwARd4vPbxt3wwNnJ6k",
+    "name" : "Parquet Courts",
+    "type" : "artist",
+    "uri" : "spotify:artist:23NIwARd4vPbxt3wwNnJ6k"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 164520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGYG0600715"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7lW6kGMERd2RNwJGbrJFiC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7lW6kGMERd2RNwJGbrJFiC",
+  "id" : "7lW6kGMERd2RNwJGbrJFiC",
+  "name" : "Picture Of Health",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f58fc7dc55c6e039a068c4df30f06b4b7ff8e3a6?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:7lW6kGMERd2RNwJGbrJFiC"
+}

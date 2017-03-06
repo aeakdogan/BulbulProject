@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+      "id" : "7oPftvlwr6VrsViSDV7fJY",
+      "name" : "Green Day",
+      "type" : "artist",
+      "uri" : "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5dN7F9DV0Qg1XRdIgW8rke",
+    "id" : "5dN7F9DV0Qg1XRdIgW8rke",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2027dbfec96249cdc12ff804738898afce24a7a5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/11cfd8520763b38b9362be2f10e15b68777322f9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a1982d961375042cc4b0543235f4d02ad60f3077",
+      "width" : 64
+    } ],
+    "name" : "American Idiot",
+    "type" : "album",
+    "uri" : "spotify:album:5dN7F9DV0Qg1XRdIgW8rke"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+    "id" : "7oPftvlwr6VrsViSDV7fJY",
+    "name" : "Green Day",
+    "type" : "artist",
+    "uri" : "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 493400,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USRE10401218"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0MsrWnxQZxPAcov7c74sSo",
+  "id" : "0MsrWnxQZxPAcov7c74sSo",
+  "name" : "Holiday/Boulevard Of Broken Dreams",
+  "popularity" : 68,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0cbb527cde1477c39d3fdbf58ddc574d5559c2dc?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0MsrWnxQZxPAcov7c74sSo"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+      },
+      "href" : "https://api.spotify.com/v1/artists/11wRdbnoYqRddKBrpHt4Ue",
+      "id" : "11wRdbnoYqRddKBrpHt4Ue",
+      "name" : "Kasabian",
+      "type" : "artist",
+      "uri" : "spotify:artist:11wRdbnoYqRddKBrpHt4Ue"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6lox5NV29L4QQmLuAvBXuP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6lox5NV29L4QQmLuAvBXuP",
+    "id" : "6lox5NV29L4QQmLuAvBXuP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9765c955016b03f180f011fb47fc664ff8e1d534",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1ba93651d350279d5f2d35db2b8f6f727771ef79",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4b3fdd388728d9c03b25196fdc03700b899700e7",
+      "width" : 64
+    } ],
+    "name" : "Velociraptor!",
+    "type" : "album",
+    "uri" : "spotify:album:6lox5NV29L4QQmLuAvBXuP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+    },
+    "href" : "https://api.spotify.com/v1/artists/11wRdbnoYqRddKBrpHt4Ue",
+    "id" : "11wRdbnoYqRddKBrpHt4Ue",
+    "name" : "Kasabian",
+    "type" : "artist",
+    "uri" : "spotify:artist:11wRdbnoYqRddKBrpHt4Ue"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 284186,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL1100563"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1SsDbcjGHregkNfEjogXpm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1SsDbcjGHregkNfEjogXpm",
+  "id" : "1SsDbcjGHregkNfEjogXpm",
+  "name" : "Re-Wired",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fc52dda2fefd747cc7a945d7dec84b634a4d15f8?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1SsDbcjGHregkNfEjogXpm"
+}

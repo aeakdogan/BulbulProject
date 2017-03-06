@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6e9wIFWhBPHLE9bXK8gtBI",
+      "id" : "6e9wIFWhBPHLE9bXK8gtBI",
+      "name" : "Editors",
+      "type" : "artist",
+      "uri" : "spotify:artist:6e9wIFWhBPHLE9bXK8gtBI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5mOCGoOUkvSj2VaUynGpER"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5mOCGoOUkvSj2VaUynGpER",
+    "id" : "5mOCGoOUkvSj2VaUynGpER",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3f2743fc5f3117dde516e255fe46a8c1d7c10e24",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a136c471bc5f478b67e6b26945c6528587ed3ef6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/454aaba08f534a0c60710d4376614c36011fbaa5",
+      "width" : 64
+    } ],
+    "name" : "The Weight of Your Love",
+    "type" : "album",
+    "uri" : "spotify:album:5mOCGoOUkvSj2VaUynGpER"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6e9wIFWhBPHLE9bXK8gtBI",
+    "id" : "6e9wIFWhBPHLE9bXK8gtBI",
+    "name" : "Editors",
+    "type" : "artist",
+    "uri" : "spotify:artist:6e9wIFWhBPHLE9bXK8gtBI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 256853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBENL1300890"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Rcn0lRKO2UGp8TkIUiJJ6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Rcn0lRKO2UGp8TkIUiJJ6",
+  "id" : "0Rcn0lRKO2UGp8TkIUiJJ6",
+  "name" : "Sugar",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a9ee3e54f02f47870224f926d0a38001b864e671?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0Rcn0lRKO2UGp8TkIUiJJ6"
+}

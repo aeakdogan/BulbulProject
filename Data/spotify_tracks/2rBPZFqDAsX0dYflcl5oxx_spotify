@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7n1EM42Fseebd9H2p8eWWS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7n1EM42Fseebd9H2p8eWWS",
+      "id" : "7n1EM42Fseebd9H2p8eWWS",
+      "name" : "New Model Army",
+      "type" : "artist",
+      "uri" : "spotify:artist:7n1EM42Fseebd9H2p8eWWS"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6sZ1pl4jPzC8MGEo5AnBfS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6sZ1pl4jPzC8MGEo5AnBfS",
+    "id" : "6sZ1pl4jPzC8MGEo5AnBfS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/910e596fdc79b0b3254f0e3d63345db825e018cf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1363c877d56bd37b9a656d060a9fa7e5a861a45f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/16317372b65bf9620b99b1a5f7ea66ac227727cd",
+      "width" : 64
+    } ],
+    "name" : "...& Nobody Else",
+    "type" : "album",
+    "uri" : "spotify:album:6sZ1pl4jPzC8MGEo5AnBfS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7n1EM42Fseebd9H2p8eWWS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7n1EM42Fseebd9H2p8eWWS",
+    "id" : "7n1EM42Fseebd9H2p8eWWS",
+    "name" : "New Model Army",
+    "type" : "artist",
+    "uri" : "spotify:artist:7n1EM42Fseebd9H2p8eWWS"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 244600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2B9923025"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2rBPZFqDAsX0dYflcl5oxx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2rBPZFqDAsX0dYflcl5oxx",
+  "id" : "2rBPZFqDAsX0dYflcl5oxx",
+  "name" : "Modern Times",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/415ba395545c7ae4cb941c772d3b52137356c142?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:2rBPZFqDAsX0dYflcl5oxx"
+}

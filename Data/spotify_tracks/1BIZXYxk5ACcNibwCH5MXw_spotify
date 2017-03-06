@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp",
+      "id" : "6O4EGCCb6DoIiR6B1QCQgp",
+      "name" : "Toro y Moi",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O4EGCCb6DoIiR6B1QCQgp"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0nLWjKrjr21sdTZHb4Qdyq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0nLWjKrjr21sdTZHb4Qdyq",
+    "id" : "0nLWjKrjr21sdTZHb4Qdyq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7b64e5a8b6fff00210719ce433624fd0ca7c75c1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a335528df7ac613e0e42ac7b5d7c255c489bb270",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0bc16a3aef0614ca201d6f424bf626af10ecac54",
+      "width" : 64
+    } ],
+    "name" : "Freaking Out",
+    "type" : "album",
+    "uri" : "spotify:album:0nLWjKrjr21sdTZHb4Qdyq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp",
+    "id" : "6O4EGCCb6DoIiR6B1QCQgp",
+    "name" : "Toro y Moi",
+    "type" : "artist",
+    "uri" : "spotify:artist:6O4EGCCb6DoIiR6B1QCQgp"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US22N1106804"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1BIZXYxk5ACcNibwCH5MXw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1BIZXYxk5ACcNibwCH5MXw",
+  "id" : "1BIZXYxk5ACcNibwCH5MXw",
+  "name" : "Saturday Love",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7a686d08fbd3dcc8f740d462d019b5c092147087?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1BIZXYxk5ACcNibwCH5MXw"
+}

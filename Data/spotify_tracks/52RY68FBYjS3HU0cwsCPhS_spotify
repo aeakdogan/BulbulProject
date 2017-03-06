@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4RVnAU35WRWra6OZ3CbbMA",
+      "id" : "4RVnAU35WRWra6OZ3CbbMA",
+      "name" : "Kylie Minogue",
+      "type" : "artist",
+      "uri" : "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6b0MLxWIcw8R8PJYi1v1Tg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6b0MLxWIcw8R8PJYi1v1Tg",
+    "id" : "6b0MLxWIcw8R8PJYi1v1Tg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/16fe3d5ada7c7ac21ffc5709fcac90f199c17e6b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/85e558e14a3d228537fc059144d72153b7412d1f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a599a59abd745368506bc7526ab40b2e8a3b7b83",
+      "width" : 64
+    } ],
+    "name" : "Greatest Hits 87 - 97",
+    "type" : "album",
+    "uri" : "spotify:album:6b0MLxWIcw8R8PJYi1v1Tg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4RVnAU35WRWra6OZ3CbbMA",
+    "id" : "4RVnAU35WRWra6OZ3CbbMA",
+    "name" : "Kylie Minogue",
+    "type" : "artist",
+    "uri" : "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 265853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL9400209"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/52RY68FBYjS3HU0cwsCPhS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/52RY68FBYjS3HU0cwsCPhS",
+  "id" : "52RY68FBYjS3HU0cwsCPhS",
+  "name" : "Confide In Me - Radio Mix",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/057384acd3c9b6b52e405946ec473b0b612346b9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:52RY68FBYjS3HU0cwsCPhS"
+}

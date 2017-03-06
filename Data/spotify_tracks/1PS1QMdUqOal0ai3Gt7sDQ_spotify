@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ll74bqtkcXlKE7wwkMq4g",
+    "id" : "5ll74bqtkcXlKE7wwkMq4g",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/92db1dda6ed503723c89c3cf03369c908b1393a3",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/63103ad4573aa721bbc175b49d8c83e2a145e662",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0fb0c80656cbb4bf088b5a29bbb0e04c2a3143e5",
+      "width" : 64
+    } ],
+    "name" : "Late Registration",
+    "type" : "album",
+    "uri" : "spotify:album:5ll74bqtkcXlKE7wwkMq4g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+    "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+    "name" : "Kanye West",
+    "type" : "artist",
+    "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7LnaAXbDVIL75IVPnndf7w",
+    "id" : "7LnaAXbDVIL75IVPnndf7w",
+    "name" : "Jamie Foxx",
+    "type" : "artist",
+    "uri" : "spotify:artist:7LnaAXbDVIL75IVPnndf7w"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 207626,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM70500143"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1PS1QMdUqOal0ai3Gt7sDQ",
+  "id" : "1PS1QMdUqOal0ai3Gt7sDQ",
+  "name" : "Gold Digger",
+  "popularity" : 71,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3bd3a1480d92528e716c0dad8191526d01384a76?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1PS1QMdUqOal0ai3Gt7sDQ"
+}

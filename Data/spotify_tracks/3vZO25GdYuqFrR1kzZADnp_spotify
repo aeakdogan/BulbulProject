@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY",
+      "id" : "2WKdxPFRD7IqZvlIAvhMgY",
+      "name" : "Fugees",
+      "type" : "artist",
+      "uri" : "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY"
+    } ],
+    "available_markets" : [ "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/18XFe4CPBgVezXkxZP6rTb",
+    "id" : "18XFe4CPBgVezXkxZP6rTb",
+    "images" : [ {
+      "height" : 639,
+      "url" : "https://i.scdn.co/image/2974e44277c172cf1f16e3b6666c9baa52e3480e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/680bb9f5e0dfc7ccf749dbee0c04dba68b018302",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7d55f3df787f073c377f3dc94f23bd7dbbfea396",
+      "width" : 64
+    } ],
+    "name" : "The Score",
+    "type" : "album",
+    "uri" : "spotify:album:18XFe4CPBgVezXkxZP6rTb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2WKdxPFRD7IqZvlIAvhMgY",
+    "id" : "2WKdxPFRD7IqZvlIAvhMgY",
+    "name" : "Fugees",
+    "type" : "artist",
+    "uri" : "spotify:artist:2WKdxPFRD7IqZvlIAvhMgY"
+  } ],
+  "available_markets" : [ "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 226986,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USSM19600051"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3vZO25GdYuqFrR1kzZADnp",
+  "id" : "3vZO25GdYuqFrR1kzZADnp",
+  "name" : "Ready or Not",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5aa69b04801987249c152d4572185bd908908eae?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3vZO25GdYuqFrR1kzZADnp"
+}

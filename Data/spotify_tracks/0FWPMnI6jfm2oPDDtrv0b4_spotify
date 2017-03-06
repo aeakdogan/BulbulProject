@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7Ee70qz2ZCoRzjIYWujWnX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7Ee70qz2ZCoRzjIYWujWnX",
+    "id" : "7Ee70qz2ZCoRzjIYWujWnX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/580036e4899cb46411ebf98db647aabc0e5aba28",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fc0795a290f30c15db0f947b2d1046956c05bf7a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9a312755c6ea8f7d52ebfd9496fe76b77b845cac",
+      "width" : 64
+    } ],
+    "name" : "Rock Essentials",
+    "type" : "album",
+    "uri" : "spotify:album:7Ee70qz2ZCoRzjIYWujWnX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3L6UEvPrH9ENXU94fYxNlT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3L6UEvPrH9ENXU94fYxNlT",
+    "id" : "3L6UEvPrH9ENXU94fYxNlT",
+    "name" : "The Tornadoes",
+    "type" : "artist",
+    "uri" : "spotify:artist:3L6UEvPrH9ENXU94fYxNlT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 146080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLRD51438286"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0FWPMnI6jfm2oPDDtrv0b4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0FWPMnI6jfm2oPDDtrv0b4",
+  "id" : "0FWPMnI6jfm2oPDDtrv0b4",
+  "name" : "Bustin' Surfboards",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/829261564cc1794ae95ccd35c86531efa3270ea2?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:0FWPMnI6jfm2oPDDtrv0b4"
+}

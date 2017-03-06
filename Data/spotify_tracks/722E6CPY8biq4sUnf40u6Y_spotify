@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7JLwBH0X2G8tgHceqvOu5B",
+      "id" : "7JLwBH0X2G8tgHceqvOu5B",
+      "name" : "Timmy Thomas",
+      "type" : "artist",
+      "uri" : "spotify:artist:7JLwBH0X2G8tgHceqvOu5B"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0HN6yWzRIaLKPnSFdeBtAO",
+    "id" : "0HN6yWzRIaLKPnSFdeBtAO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d48a1e23111debe145c509b64f46d06ea937f1c9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/385b24375e663405ec1825703f3aa1a5fb1854dc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a989b345d8206da3140feeb2c40d40a41e493f26",
+      "width" : 64
+    } ],
+    "name" : "Why Can't We Live Together",
+    "type" : "album",
+    "uri" : "spotify:album:0HN6yWzRIaLKPnSFdeBtAO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7JLwBH0X2G8tgHceqvOu5B",
+    "id" : "7JLwBH0X2G8tgHceqvOu5B",
+    "name" : "Timmy Thomas",
+    "type" : "artist",
+    "uri" : "spotify:artist:7JLwBH0X2G8tgHceqvOu5B"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 277973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRH10125815"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/722E6CPY8biq4sUnf40u6Y",
+  "id" : "722E6CPY8biq4sUnf40u6Y",
+  "name" : "Why Can't We Live Together",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/610da5a0f68329ea383544bf141ff02827cb0619?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:722E6CPY8biq4sUnf40u6Y"
+}

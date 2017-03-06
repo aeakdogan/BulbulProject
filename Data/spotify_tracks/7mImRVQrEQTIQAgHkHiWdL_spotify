@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6",
+      "id" : "6WoTvA9qinpHtSRJuldYh6",
+      "name" : "The Fall",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WoTvA9qinpHtSRJuldYh6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4fgNq8a7rBVUxPc3LEQrqv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4fgNq8a7rBVUxPc3LEQrqv",
+    "id" : "4fgNq8a7rBVUxPc3LEQrqv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2062eff9febac274043a27aa793706359d3c2162",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3b950600b93b719ee837421b330701bd1929e765",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/19052a60362a190587053bb616315516e8ed40c4",
+      "width" : 64
+    } ],
+    "name" : "Ersatz GB",
+    "type" : "album",
+    "uri" : "spotify:album:4fgNq8a7rBVUxPc3LEQrqv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6",
+    "id" : "6WoTvA9qinpHtSRJuldYh6",
+    "name" : "The Fall",
+    "type" : "artist",
+    "uri" : "spotify:artist:6WoTvA9qinpHtSRJuldYh6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 362253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBLY1102812"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7mImRVQrEQTIQAgHkHiWdL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7mImRVQrEQTIQAgHkHiWdL",
+  "id" : "7mImRVQrEQTIQAgHkHiWdL",
+  "name" : "Nate Will Not Return",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/475306602f4e90d88fe2a169800b74c7fc28b255?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7mImRVQrEQTIQAgHkHiWdL"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kUglM25Mvn6Uy7EDXsT1n",
+      "id" : "6kUglM25Mvn6Uy7EDXsT1n",
+      "name" : "Thomas Dybdahl",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kUglM25Mvn6Uy7EDXsT1n"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1oHswW20ebXFSOPrArSDOd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1oHswW20ebXFSOPrArSDOd",
+    "id" : "1oHswW20ebXFSOPrArSDOd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ba921975878ca78f866a999cfc99123e9091f8c2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1a8586be3f986bcdf45445b90014f8bfd6524c64",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5405d45f0260d01a69946e8922cbbc79177dc1d6",
+      "width" : 64
+    } ],
+    "name" : "One Day You'll Dance For Me, New York City",
+    "type" : "album",
+    "uri" : "spotify:album:1oHswW20ebXFSOPrArSDOd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kUglM25Mvn6Uy7EDXsT1n",
+    "id" : "6kUglM25Mvn6Uy7EDXsT1n",
+    "name" : "Thomas Dybdahl",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kUglM25Mvn6Uy7EDXsT1n"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 226220,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NOBHG0433020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5aa2WbbhiOQiqV8A1evAMh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5aa2WbbhiOQiqV8A1evAMh",
+  "id" : "5aa2WbbhiOQiqV8A1evAMh",
+  "name" : "If We Want It, It's Right",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/db833420cbbafadf5b15bb277787d9387a69e937?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5aa2WbbhiOQiqV8A1evAMh"
+}

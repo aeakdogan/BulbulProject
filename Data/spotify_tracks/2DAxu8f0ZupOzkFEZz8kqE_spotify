@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4RVnAU35WRWra6OZ3CbbMA",
+      "id" : "4RVnAU35WRWra6OZ3CbbMA",
+      "name" : "Kylie Minogue",
+      "type" : "artist",
+      "uri" : "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/49Wlbfa4PgIdDpiQUqcl4d"
+    },
+    "href" : "https://api.spotify.com/v1/albums/49Wlbfa4PgIdDpiQUqcl4d",
+    "id" : "49Wlbfa4PgIdDpiQUqcl4d",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eeec18d9adc6c09d0d5955f0e8332ed49ff4f46e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b3cd905f6dd4a4dfc026c7a4b4f253e360045797",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3fce33e59c569075a028fda817e27033c1d7db84",
+      "width" : 64
+    } ],
+    "name" : "Body Language",
+    "type" : "album",
+    "uri" : "spotify:album:49Wlbfa4PgIdDpiQUqcl4d"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4RVnAU35WRWra6OZ3CbbMA",
+    "id" : "4RVnAU35WRWra6OZ3CbbMA",
+    "name" : "Kylie Minogue",
+    "type" : "artist",
+    "uri" : "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 194346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE0302232"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2DAxu8f0ZupOzkFEZz8kqE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2DAxu8f0ZupOzkFEZz8kqE",
+  "id" : "2DAxu8f0ZupOzkFEZz8kqE",
+  "name" : "Slow",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9d2d778c34bb9decdee5f0d47c276da71865722f?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2DAxu8f0ZupOzkFEZz8kqE"
+}

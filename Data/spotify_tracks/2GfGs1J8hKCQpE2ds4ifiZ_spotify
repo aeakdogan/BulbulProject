@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ",
+      "id" : "5LfGQac0EIXyAN8aUwmNAQ",
+      "name" : "The Offspring",
+      "type" : "artist",
+      "uri" : "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ"
+    } ],
+    "available_markets" : [ "GB", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1o2LY3O2uyPvdwq7uTpgOa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1o2LY3O2uyPvdwq7uTpgOa",
+    "id" : "1o2LY3O2uyPvdwq7uTpgOa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c3491a66365f5ab9b6729cfaced05fee06e30a93",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a3d61fa264db28f06b90edf378d3d4339ff18f64",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a016e1435e19ded0377588dec9f2d849eec15332",
+      "width" : 64
+    } ],
+    "name" : "Smash",
+    "type" : "album",
+    "uri" : "spotify:album:1o2LY3O2uyPvdwq7uTpgOa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ",
+    "id" : "5LfGQac0EIXyAN8aUwmNAQ",
+    "name" : "The Offspring",
+    "type" : "artist",
+    "uri" : "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ"
+  } ],
+  "available_markets" : [ "GB", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 132133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP40710211"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2GfGs1J8hKCQpE2ds4ifiZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2GfGs1J8hKCQpE2ds4ifiZ",
+  "id" : "2GfGs1J8hKCQpE2ds4ifiZ",
+  "name" : "What Happened to You?",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/062ad6e3a39ff30bbe90bdc71ea4c1e604404cea?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2GfGs1J8hKCQpE2ds4ifiZ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2iKhiHxzHrGCmFlTxCPUOl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2iKhiHxzHrGCmFlTxCPUOl",
+      "id" : "2iKhiHxzHrGCmFlTxCPUOl",
+      "name" : "B. Fleischmann",
+      "type" : "artist",
+      "uri" : "spotify:artist:2iKhiHxzHrGCmFlTxCPUOl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5z3wxa3ClBp3N4dsjUcpAS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5z3wxa3ClBp3N4dsjUcpAS",
+    "id" : "5z3wxa3ClBp3N4dsjUcpAS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/01f4913fa40c2c1331ff78453b2346d5303a5314",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fe80077ac58457aba217d31b15cd4df33a01765d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/98900641e48d356e20170e0ad512b1756dfdf5a6",
+      "width" : 64
+    } ],
+    "name" : "The Humbucking Coil",
+    "type" : "album",
+    "uri" : "spotify:album:5z3wxa3ClBp3N4dsjUcpAS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2iKhiHxzHrGCmFlTxCPUOl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2iKhiHxzHrGCmFlTxCPUOl",
+    "id" : "2iKhiHxzHrGCmFlTxCPUOl",
+    "name" : "B. Fleischmann",
+    "type" : "artist",
+    "uri" : "spotify:artist:2iKhiHxzHrGCmFlTxCPUOl"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 428866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX260606301"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2kQ4zlRlNatwhsNsJYCC99"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2kQ4zlRlNatwhsNsJYCC99",
+  "id" : "2kQ4zlRlNatwhsNsJYCC99",
+  "name" : "Broken Monitors",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1c82df9303abe1287b1b12b7285e14d0e4858695?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2kQ4zlRlNatwhsNsJYCC99"
+}

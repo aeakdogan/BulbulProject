@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vkJFCwstOoJO7yQ4lTtLK",
+      "id" : "1vkJFCwstOoJO7yQ4lTtLK",
+      "name" : "Paris Hilton",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vkJFCwstOoJO7yQ4lTtLK"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3jWfBkl247fFkyJprhd5qs",
+    "id" : "3jWfBkl247fFkyJprhd5qs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/922d379233d4d822f4c28396635a7be68970d238",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d3fb63691ec375b72356df2430ccbc5ba88dda47",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ed43900dc10f8384207442aaecfc5f7693940bc2",
+      "width" : 64
+    } ],
+    "name" : "Paris (U.S. Standard Version)",
+    "type" : "album",
+    "uri" : "spotify:album:3jWfBkl247fFkyJprhd5qs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1vkJFCwstOoJO7yQ4lTtLK",
+    "id" : "1vkJFCwstOoJO7yQ4lTtLK",
+    "name" : "Paris Hilton",
+    "type" : "artist",
+    "uri" : "spotify:artist:1vkJFCwstOoJO7yQ4lTtLK"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 236600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10602450"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/71V89tJj9CboDyzncO6ZN2",
+  "id" : "71V89tJj9CboDyzncO6ZN2",
+  "name" : "Stars Are Blind",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0e3119b6800b38b8eaedf58b3c23a59eb6b70c6a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:71V89tJj9CboDyzncO6ZN2"
+}

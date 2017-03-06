@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB",
+      "id" : "4STHEaNw4mPZ2tzheohgXB",
+      "name" : "Paul McCartney",
+      "type" : "artist",
+      "uri" : "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3sFhA6G1N0gG1pszb6kk1m",
+      "id" : "3sFhA6G1N0gG1pszb6kk1m",
+      "name" : "Wings",
+      "type" : "artist",
+      "uri" : "spotify:artist:3sFhA6G1N0gG1pszb6kk1m"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/257oomaawruFknt5wYCPDh",
+    "id" : "257oomaawruFknt5wYCPDh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a7ae3955240bac82813a95af2479da22e0bb9dc8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b5d8fdb774a9dbd59c30fa17199f276c880ce9df",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b192fc0de8e7dd843162c7913fce736f2644bd2a",
+      "width" : 64
+    } ],
+    "name" : "Band On The Run",
+    "type" : "album",
+    "uri" : "spotify:album:257oomaawruFknt5wYCPDh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB",
+    "id" : "4STHEaNw4mPZ2tzheohgXB",
+    "name" : "Paul McCartney",
+    "type" : "artist",
+    "uri" : "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3sFhA6G1N0gG1pszb6kk1m",
+    "id" : "3sFhA6G1N0gG1pszb6kk1m",
+    "name" : "Wings",
+    "type" : "artist",
+    "uri" : "spotify:artist:3sFhA6G1N0gG1pszb6kk1m"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 248360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCCS1000005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4D40ZlFAWsvX7lua1Kablh",
+  "id" : "4D40ZlFAWsvX7lua1Kablh",
+  "name" : "Jet - Remastered 2010",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6b4a4f8d1e41b4803ce2ada143b334b946e5eb3c?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4D40ZlFAWsvX7lua1Kablh"
+}

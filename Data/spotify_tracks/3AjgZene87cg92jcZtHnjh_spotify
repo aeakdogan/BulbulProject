@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+      "id" : "6mdiAmATAx73kdxrNrnlao",
+      "name" : "Iron Maiden",
+      "type" : "artist",
+      "uri" : "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4gkAgukp3eTlsdN2gDbcsn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4gkAgukp3eTlsdN2gDbcsn",
+    "id" : "4gkAgukp3eTlsdN2gDbcsn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/714ae344b1098fd1ec2f3d23875b5f75e5e4e09a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9467e538b7f84786146d3ab00e5d900ae9257694",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8c19fc57e1604ca120a4023fcad242728e76ee05",
+      "width" : 64
+    } ],
+    "name" : "Fear of the Dark",
+    "type" : "album",
+    "uri" : "spotify:album:4gkAgukp3eTlsdN2gDbcsn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+    "id" : "6mdiAmATAx73kdxrNrnlao",
+    "name" : "Iron Maiden",
+    "type" : "artist",
+    "uri" : "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 350546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCHB9810016"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3AjgZene87cg92jcZtHnjh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3AjgZene87cg92jcZtHnjh",
+  "id" : "3AjgZene87cg92jcZtHnjh",
+  "name" : "Wasting Love - 1998 Remastered Version",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/366e984f64dd099b198febcfb98b63504a8ec6ad?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3AjgZene87cg92jcZtHnjh"
+}

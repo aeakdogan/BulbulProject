@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EVpmkEwrLYEg6jIsiPMIb",
+      "id" : "4EVpmkEwrLYEg6jIsiPMIb",
+      "name" : "Fleet Foxes",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EVpmkEwrLYEg6jIsiPMIb"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2CBfjDdstyhyfOaNqLPOwg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2CBfjDdstyhyfOaNqLPOwg",
+    "id" : "2CBfjDdstyhyfOaNqLPOwg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/860ab836522e7aeee64c124d334f379718ac477c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/27ebbe5b1466df0d650ac9d2bb13e57ea6a521bb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/105a9e097e47eb79458a421fb9570fcc627256c6",
+      "width" : 64
+    } ],
+    "name" : "Sun Giant",
+    "type" : "album",
+    "uri" : "spotify:album:2CBfjDdstyhyfOaNqLPOwg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4EVpmkEwrLYEg6jIsiPMIb",
+    "id" : "4EVpmkEwrLYEg6jIsiPMIb",
+    "name" : "Fleet Foxes",
+    "type" : "artist",
+    "uri" : "spotify:artist:4EVpmkEwrLYEg6jIsiPMIb"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 275306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB0878104"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/18ycL9Q5zLDeY9M2Lr3Ozw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/18ycL9Q5zLDeY9M2Lr3Ozw",
+  "id" : "18ycL9Q5zLDeY9M2Lr3Ozw",
+  "name" : "Mykonos",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/59d13bdb35fb5db6d305fa97d68e8750c924f1af?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:18ycL9Q5zLDeY9M2Lr3Ozw"
+}

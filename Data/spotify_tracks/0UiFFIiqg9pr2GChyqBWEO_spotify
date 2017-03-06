@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2qwPVMQzybhS2jopA0wMy7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2qwPVMQzybhS2jopA0wMy7",
+    "id" : "2qwPVMQzybhS2jopA0wMy7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/db4aa338af83883f99133b95564fee4a12850e4f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/efb3a7c9d69842022039b9baebf07ef4e21e7494",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8b189037510ee99532a16a05ace245ec57ffa947",
+      "width" : 64
+    } ],
+    "name" : "Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:2qwPVMQzybhS2jopA0wMy7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+    "id" : "5y2Xq6xcjJb2jVM54GHK3t",
+    "name" : "John Legend",
+    "type" : "artist",
+    "uri" : "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+  } ],
+  "available_markets" : [ ],
+  "disc_number" : 1,
+  "duration_ms" : 228653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11206788"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0UiFFIiqg9pr2GChyqBWEO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0UiFFIiqg9pr2GChyqBWEO",
+  "id" : "0UiFFIiqg9pr2GChyqBWEO",
+  "name" : "Who Did That To You?",
+  "popularity" : 0,
+  "preview_url" : null,
+  "track_number" : 18,
+  "type" : "track",
+  "uri" : "spotify:track:0UiFFIiqg9pr2GChyqBWEO"
+}

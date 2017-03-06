@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2wlTl7AyP0icYtAsmPylw6",
+      "id" : "2wlTl7AyP0icYtAsmPylw6",
+      "name" : "Blue States",
+      "type" : "artist",
+      "uri" : "spotify:artist:2wlTl7AyP0icYtAsmPylw6"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5NszETxp61oTQTVTNpX0gO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5NszETxp61oTQTVTNpX0gO",
+    "id" : "5NszETxp61oTQTVTNpX0gO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0e9f4452238cedbfb39fb0fcdf8cc4517414109e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e5a32789b4a42d9009d2bbf13a3c1208d3cb305",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/863df784a1e44ad857e661bd442d2050c6a0d575",
+      "width" : 64
+    } ],
+    "name" : "Man Mountain",
+    "type" : "album",
+    "uri" : "spotify:album:5NszETxp61oTQTVTNpX0gO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2wlTl7AyP0icYtAsmPylw6",
+    "id" : "2wlTl7AyP0icYtAsmPylw6",
+    "name" : "Blue States",
+    "type" : "artist",
+    "uri" : "spotify:artist:2wlTl7AyP0icYtAsmPylw6"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 259973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0200471"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0m3ofiAli2UjKvL8a8b8gP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0m3ofiAli2UjKvL8a8b8gP",
+  "id" : "0m3ofiAli2UjKvL8a8b8gP",
+  "name" : "Adrift",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7b7e234f59d7e3f41c62d6baecdb96657316d7a2?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:0m3ofiAli2UjKvL8a8b8gP"
+}

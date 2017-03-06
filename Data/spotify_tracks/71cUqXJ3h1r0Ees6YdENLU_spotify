@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39vA9YljbnOApXKniLWBZv",
+      "id" : "39vA9YljbnOApXKniLWBZv",
+      "name" : "Sylvan Esso",
+      "type" : "artist",
+      "uri" : "spotify:artist:39vA9YljbnOApXKniLWBZv"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Abelpx4c3FzhTOZP3ZIvS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Abelpx4c3FzhTOZP3ZIvS",
+    "id" : "5Abelpx4c3FzhTOZP3ZIvS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3fe606ee0c0bd62492628687b83b63c4d0d6bcf6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/88be4047c38b48db5e19f26e1052dc82ec418d67",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1be4850355a36dba6ee38bb11d7e915f2bac3a84",
+      "width" : 64
+    } ],
+    "name" : "Sylvan Esso",
+    "type" : "album",
+    "uri" : "spotify:album:5Abelpx4c3FzhTOZP3ZIvS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/39vA9YljbnOApXKniLWBZv",
+    "id" : "39vA9YljbnOApXKniLWBZv",
+    "name" : "Sylvan Esso",
+    "type" : "artist",
+    "uri" : "spotify:artist:39vA9YljbnOApXKniLWBZv"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 269693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBQU1400001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/71cUqXJ3h1r0Ees6YdENLU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/71cUqXJ3h1r0Ees6YdENLU",
+  "id" : "71cUqXJ3h1r0Ees6YdENLU",
+  "name" : "Coffee",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aad9438fecf5f06a54f80befc99f75e47fd48a0c?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:71cUqXJ3h1r0Ees6YdENLU"
+}

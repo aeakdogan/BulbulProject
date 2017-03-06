@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2EsL7l54h5MZm34uFVsRQi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2EsL7l54h5MZm34uFVsRQi",
+      "id" : "2EsL7l54h5MZm34uFVsRQi",
+      "name" : "Kap Bambino",
+      "type" : "artist",
+      "uri" : "spotify:artist:2EsL7l54h5MZm34uFVsRQi"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/58Tlchs2lnmTYGSBexcpsn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/58Tlchs2lnmTYGSBexcpsn",
+    "id" : "58Tlchs2lnmTYGSBexcpsn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/96e4a032b8859560446fa497145b2ee641fd3e8d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/470fb0dafa6394cb90d15f386492885b53344f4c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/befdf69d8b09281986e8fcef1f2e33ebfa410d2e",
+      "width" : 64
+    } ],
+    "name" : "Blacklist",
+    "type" : "album",
+    "uri" : "spotify:album:58Tlchs2lnmTYGSBexcpsn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2EsL7l54h5MZm34uFVsRQi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2EsL7l54h5MZm34uFVsRQi",
+    "id" : "2EsL7l54h5MZm34uFVsRQi",
+    "name" : "Kap Bambino",
+    "type" : "artist",
+    "uri" : "spotify:artist:2EsL7l54h5MZm34uFVsRQi"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 205680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6P10900040"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2B0mfxfAy63HSSOevPKByX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2B0mfxfAy63HSSOevPKByX",
+  "id" : "2B0mfxfAy63HSSOevPKByX",
+  "name" : "Dead Lazers",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4c37bb2405fcc73b5cddd930f551d09994cf6905?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2B0mfxfAy63HSSOevPKByX"
+}

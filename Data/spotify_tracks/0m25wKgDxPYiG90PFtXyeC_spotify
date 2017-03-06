@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2E6Roj0oQnJIm2BeXwDica"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2E6Roj0oQnJIm2BeXwDica",
+      "id" : "2E6Roj0oQnJIm2BeXwDica",
+      "name" : "Graham Nash",
+      "type" : "artist",
+      "uri" : "spotify:artist:2E6Roj0oQnJIm2BeXwDica"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/12PhXovGwVbz4XUPc0OV88"
+    },
+    "href" : "https://api.spotify.com/v1/albums/12PhXovGwVbz4XUPc0OV88",
+    "id" : "12PhXovGwVbz4XUPc0OV88",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bd7f2a869b0fdef800cec90aca6b90f2dc585353",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ecb1146c4eb0aa652c581c79299f1c41f9cf0819",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a89a4405838054fcfb71f6cc4408a1863b704cca",
+      "width" : 64
+    } ],
+    "name" : "Wild Tales",
+    "type" : "album",
+    "uri" : "spotify:album:12PhXovGwVbz4XUPc0OV88"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2E6Roj0oQnJIm2BeXwDica"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2E6Roj0oQnJIm2BeXwDica",
+    "id" : "2E6Roj0oQnJIm2BeXwDica",
+    "name" : "Graham Nash",
+    "type" : "artist",
+    "uri" : "spotify:artist:2E6Roj0oQnJIm2BeXwDica"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 193693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20000084"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0m25wKgDxPYiG90PFtXyeC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0m25wKgDxPYiG90PFtXyeC",
+  "id" : "0m25wKgDxPYiG90PFtXyeC",
+  "name" : "Prison Song",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/115296f321e6032a76fee98a8bb8ad4d22bb7a20?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0m25wKgDxPYiG90PFtXyeC"
+}

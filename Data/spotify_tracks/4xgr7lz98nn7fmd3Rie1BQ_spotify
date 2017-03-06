@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+      "id" : "0SCbttzoZTnLFebDYmAWCm",
+      "name" : "Glee Cast",
+      "type" : "artist",
+      "uri" : "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "CA", "DK", "GB", "IE", "IS", "IT", "JP", "MT", "NO", "NZ", "PH", "PY", "SE", "SG", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5K2lqUwpSHseCoCfBcvlcV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5K2lqUwpSHseCoCfBcvlcV",
+    "id" : "5K2lqUwpSHseCoCfBcvlcV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/26bbd4e05058197c68b395751a0554b40631bdda",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/45078e9d7fbda9c807ad6671844976f9f3d65cd6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/72af3c027554c270fc673271f6f33b0e8fc3e8dc",
+      "width" : 64
+    } ],
+    "name" : "The Quarterback",
+    "type" : "album",
+    "uri" : "spotify:album:5K2lqUwpSHseCoCfBcvlcV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+    "id" : "0SCbttzoZTnLFebDYmAWCm",
+    "name" : "Glee Cast",
+    "type" : "artist",
+    "uri" : "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "CA", "DK", "GB", "IE", "IS", "IT", "JP", "MT", "NO", "NZ", "PH", "PY", "SE", "SG", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 225506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USQX91302067"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4xgr7lz98nn7fmd3Rie1BQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4xgr7lz98nn7fmd3Rie1BQ",
+  "id" : "4xgr7lz98nn7fmd3Rie1BQ",
+  "name" : "I'll Stand By You (Glee Cast Version)",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bd9744a64441e58f974e0d60bb266cfba1a04c47?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4xgr7lz98nn7fmd3Rie1BQ"
+}

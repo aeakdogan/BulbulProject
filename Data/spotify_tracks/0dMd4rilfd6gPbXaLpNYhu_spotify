@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5jgI8Eminx9MmLBontDWq8",
+    "id" : "5jgI8Eminx9MmLBontDWq8",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/22d572f30398d3881b6f6f77edd4ecc59d24497d",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/27bb4381466d46d93676e5385aa3ea4ad5c2e08c",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/ac01b3b264c69890060158faaa1d3c96202988d2",
+      "width" : 64
+    } ],
+    "name" : "Innervisions",
+    "type" : "album",
+    "uri" : "spotify:album:5jgI8Eminx9MmLBontDWq8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+    "id" : "7guDJrEfX3qb6FEbdPA5qi",
+    "name" : "Stevie Wonder",
+    "type" : "artist",
+    "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 222600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO17382652"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0dMd4rilfd6gPbXaLpNYhu",
+  "id" : "0dMd4rilfd6gPbXaLpNYhu",
+  "name" : "Higher Ground",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c2c57c229740048c9e35e2f1318a73d048de637c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0dMd4rilfd6gPbXaLpNYhu"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+      "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+      "name" : "Queen",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2LC6PPb29hs8rkPHBjUVXJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2LC6PPb29hs8rkPHBjUVXJ",
+    "id" : "2LC6PPb29hs8rkPHBjUVXJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/253bc2b564226602a163125a9751d97d601a334d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3643b14a4b0d4f1d90392c08de7a193bd617ce60",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/687a93688ddbede5059635990d2303ce7ebba252",
+      "width" : 64
+    } ],
+    "name" : "Innuendo (Deluxe Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:2LC6PPb29hs8rkPHBjUVXJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+    "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+    "name" : "Queen",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 214560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71106218"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2RK8K8hNdmg6j33WhmHe8m"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2RK8K8hNdmg6j33WhmHe8m",
+  "id" : "2RK8K8hNdmg6j33WhmHe8m",
+  "name" : "Delilah",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/51b229c107b4939d5c29beab38fc4feb35baad78?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2RK8K8hNdmg6j33WhmHe8m"
+}

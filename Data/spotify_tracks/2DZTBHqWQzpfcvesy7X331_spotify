@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0K1q0nXQ8is36PzOKAMbNe",
+      "id" : "0K1q0nXQ8is36PzOKAMbNe",
+      "name" : "Spoon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0K1q0nXQ8is36PzOKAMbNe"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3VfwgheyI86T9yto1b1M5H"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3VfwgheyI86T9yto1b1M5H",
+    "id" : "3VfwgheyI86T9yto1b1M5H",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b2aed144adf622a526c0cf900b213935e9955bdc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6c0ea8df4b1137b3dfff97badb69410cb83db25d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0337b38269e3d3bede5ef2197abaf49d5ced411d",
+      "width" : 64
+    } ],
+    "name" : "Gimme Fiction (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:3VfwgheyI86T9yto1b1M5H"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0K1q0nXQ8is36PzOKAMbNe",
+    "id" : "0K1q0nXQ8is36PzOKAMbNe",
+    "name" : "Spoon",
+    "type" : "artist",
+    "uri" : "spotify:artist:0K1q0nXQ8is36PzOKAMbNe"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 235560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG1556507"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2DZTBHqWQzpfcvesy7X331"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2DZTBHqWQzpfcvesy7X331",
+  "id" : "2DZTBHqWQzpfcvesy7X331",
+  "name" : "I Summon You",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a44589cbb3f7597993af9dc2f8f2ba01f3d1a642?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2DZTBHqWQzpfcvesy7X331"
+}

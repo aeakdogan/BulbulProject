@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+      "id" : "1aSxMhuvixZ8h9dK9jIDwL",
+      "name" : "Kate Bush",
+      "type" : "artist",
+      "uri" : "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1sFrZZRJfBb3QHfcIgaRUP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1sFrZZRJfBb3QHfcIgaRUP",
+    "id" : "1sFrZZRJfBb3QHfcIgaRUP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b5f059b2a0502e970872f21bbed4f60711e93795",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7a752c4001bf89187fa6b62ddb07d96974d54492",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e70f241ec04a000b2278c9cd5ced11550abcc2e8",
+      "width" : 64
+    } ],
+    "name" : "50 Words For Snow",
+    "type" : "album",
+    "uri" : "spotify:album:1sFrZZRJfBb3QHfcIgaRUP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+    "id" : "1aSxMhuvixZ8h9dK9jIDwL",
+    "name" : "Kate Bush",
+    "type" : "artist",
+    "uri" : "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 586693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCNR1100027"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4kBGp54LVQFBbsvOJ41eHd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4kBGp54LVQFBbsvOJ41eHd",
+  "id" : "4kBGp54LVQFBbsvOJ41eHd",
+  "name" : "Snowflake",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/60261db390474ec2df854bc73376e728b945f3fd?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4kBGp54LVQFBbsvOJ41eHd"
+}

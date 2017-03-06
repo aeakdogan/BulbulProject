@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ff2p3LnR6V7m6BinwhNaQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ff2p3LnR6V7m6BinwhNaQ",
+    "id" : "3ff2p3LnR6V7m6BinwhNaQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aa5b579c2da0dba06b5597127644d3d46f254cdb",
+      "width" : 629
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/eb36afa5a4aec96d69b93e0206b53e1233149de7",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ef18139a899f170ac5f25aa462aa514d1479e288",
+      "width" : 63
+    } ],
+    "name" : "The College Dropout (Explicit)",
+    "type" : "album",
+    "uri" : "spotify:album:3ff2p3LnR6V7m6BinwhNaQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+    "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+    "name" : "Kanye West",
+    "type" : "artist",
+    "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 221226,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USDJ20400086"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3KUpGMnZL76I9E7FoWV1re"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3KUpGMnZL76I9E7FoWV1re",
+  "id" : "3KUpGMnZL76I9E7FoWV1re",
+  "name" : "Through The Wire",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/85280dd02e4dbbbf722d1b213b5b64aca6455b49?cid=null",
+  "track_number" : 19,
+  "type" : "track",
+  "uri" : "spotify:track:3KUpGMnZL76I9E7FoWV1re"
+}

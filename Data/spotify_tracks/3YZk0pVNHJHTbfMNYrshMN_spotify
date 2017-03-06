@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+      "id" : "7eQZTqEMozBcuSubfu52i4",
+      "name" : "The Knife",
+      "type" : "artist",
+      "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6rdNbdV3T4muFFFSjGdOj9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6rdNbdV3T4muFFFSjGdOj9",
+    "id" : "6rdNbdV3T4muFFFSjGdOj9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4ff9c5c93b86d53d75e7584c718ca176fe659f25",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7eb63eccc75cd8e0737f2d862af5633e589530b2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3d9ef032537e9e7b35d79fe047e941459fe7ecdd",
+      "width" : 64
+    } ],
+    "name" : "Silent Shout",
+    "type" : "album",
+    "uri" : "spotify:album:6rdNbdV3T4muFFFSjGdOj9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+    "id" : "7eQZTqEMozBcuSubfu52i4",
+    "name" : "The Knife",
+    "type" : "artist",
+    "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 195506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEWCE0600211"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3YZk0pVNHJHTbfMNYrshMN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3YZk0pVNHJHTbfMNYrshMN",
+  "id" : "3YZk0pVNHJHTbfMNYrshMN",
+  "name" : "Still Light",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9693d8c519869784531916648d2770e591ff93dd?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:3YZk0pVNHJHTbfMNYrshMN"
+}

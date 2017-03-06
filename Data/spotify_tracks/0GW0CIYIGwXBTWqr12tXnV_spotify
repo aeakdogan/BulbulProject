@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2GOfAZEwmCpwPhX7kjMJYN",
+      "id" : "2GOfAZEwmCpwPhX7kjMJYN",
+      "name" : "John Vanderslice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2GOfAZEwmCpwPhX7kjMJYN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Gh6K0UEcgEEmNtBPGpowd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Gh6K0UEcgEEmNtBPGpowd",
+    "id" : "1Gh6K0UEcgEEmNtBPGpowd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/60b9a91ccb0a12aa76e600bfc8c9753c2ce908fe",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a51f725719154ecee436c12cc15280a2689e06ca",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/139fcb9082aa58485d02e7b49b7e2ff9796215fc",
+      "width" : 64
+    } ],
+    "name" : "Pixel Revolt",
+    "type" : "album",
+    "uri" : "spotify:album:1Gh6K0UEcgEEmNtBPGpowd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2GOfAZEwmCpwPhX7kjMJYN",
+    "id" : "2GOfAZEwmCpwPhX7kjMJYN",
+    "name" : "John Vanderslice",
+    "type" : "artist",
+    "uri" : "spotify:artist:2GOfAZEwmCpwPhX7kjMJYN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 284173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBS50510417"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0GW0CIYIGwXBTWqr12tXnV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0GW0CIYIGwXBTWqr12tXnV",
+  "id" : "0GW0CIYIGwXBTWqr12tXnV",
+  "name" : "Plymouth Rock",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cab587910121adf30c951d58a2e4d3647300d7d7?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0GW0CIYIGwXBTWqr12tXnV"
+}

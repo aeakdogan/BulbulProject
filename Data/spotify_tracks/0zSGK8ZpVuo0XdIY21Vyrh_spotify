@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6urkHDoIVO1WO8vNIwcJmM",
+      "id" : "6urkHDoIVO1WO8vNIwcJmM",
+      "name" : "Die Antwoord",
+      "type" : "artist",
+      "uri" : "spotify:artist:6urkHDoIVO1WO8vNIwcJmM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2ixDAaSvXUpGKat8hMA07G"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2ixDAaSvXUpGKat8hMA07G",
+    "id" : "2ixDAaSvXUpGKat8hMA07G",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/40bc052c4892ce13d7299ad5c88e8d50b1a4adea",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c290ceb3055a9bd2cea8d3df809ca457de977b63",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/416bdc5b13f0964b7b58c7fe2d736e57ad681431",
+      "width" : 64
+    } ],
+    "name" : "Donker Mag",
+    "type" : "album",
+    "uri" : "spotify:album:2ixDAaSvXUpGKat8hMA07G"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6urkHDoIVO1WO8vNIwcJmM",
+    "id" : "6urkHDoIVO1WO8vNIwcJmM",
+    "name" : "Die Antwoord",
+    "type" : "artist",
+    "uri" : "spotify:artist:6urkHDoIVO1WO8vNIwcJmM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 213607,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBWWP1400365"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0zSGK8ZpVuo0XdIY21Vyrh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0zSGK8ZpVuo0XdIY21Vyrh",
+  "id" : "0zSGK8ZpVuo0XdIY21Vyrh",
+  "name" : "Ugly Boy",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f4010133d0e4732e2c8591ff0864b12929008faa?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0zSGK8ZpVuo0XdIY21Vyrh"
+}

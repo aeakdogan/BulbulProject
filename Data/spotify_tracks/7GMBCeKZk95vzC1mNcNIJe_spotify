@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60CBjmRpwr02JwAd3Ho25U",
+      "id" : "60CBjmRpwr02JwAd3Ho25U",
+      "name" : "Codeine",
+      "type" : "artist",
+      "uri" : "spotify:artist:60CBjmRpwr02JwAd3Ho25U"
+    } ],
+    "available_markets" : [ "CA", "JP", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2rRveyqKJk5Y8mCU4Pk0Kz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2rRveyqKJk5Y8mCU4Pk0Kz",
+    "id" : "2rRveyqKJk5Y8mCU4Pk0Kz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/90d3a43f3cd67753f2e905db3e8e257091e59b1e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b7b608f1f944f93d8820b1c537daed5367eff084",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6c1cede60d58cd5ac6975937980c1fb7cbe9cd7b",
+      "width" : 64
+    } ],
+    "name" : "Frigid Stars",
+    "type" : "album",
+    "uri" : "spotify:album:2rRveyqKJk5Y8mCU4Pk0Kz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U"
+    },
+    "href" : "https://api.spotify.com/v1/artists/60CBjmRpwr02JwAd3Ho25U",
+    "id" : "60CBjmRpwr02JwAd3Ho25U",
+    "name" : "Codeine",
+    "type" : "artist",
+    "uri" : "spotify:artist:60CBjmRpwr02JwAd3Ho25U"
+  } ],
+  "available_markets" : [ "CA", "JP", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB0310111"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7GMBCeKZk95vzC1mNcNIJe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7GMBCeKZk95vzC1mNcNIJe",
+  "id" : "7GMBCeKZk95vzC1mNcNIJe",
+  "name" : "Cave-in",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8a21356b95b235c6b16bcfa0d7b201e7759d2a2a?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:7GMBCeKZk95vzC1mNcNIJe"
+}

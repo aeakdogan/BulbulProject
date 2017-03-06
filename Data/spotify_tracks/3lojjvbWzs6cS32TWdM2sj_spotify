@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Q0gMZJNIebNFFaJeonc11",
+      "id" : "6Q0gMZJNIebNFFaJeonc11",
+      "name" : "Holy Fuck",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Q0gMZJNIebNFFaJeonc11"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1BStiBF6YFDPgGuNPh5rhi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1BStiBF6YFDPgGuNPh5rhi",
+    "id" : "1BStiBF6YFDPgGuNPh5rhi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a2e7853474a4d08a96448194156a3175945e23c7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3b7f8002f57c6444b2c20e830930df67e838f690",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d497f1284a71b86c4dfdce1012bd2a2e4d68b8d2",
+      "width" : 64
+    } ],
+    "name" : "Latin",
+    "type" : "album",
+    "uri" : "spotify:album:1BStiBF6YFDPgGuNPh5rhi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Q0gMZJNIebNFFaJeonc11",
+    "id" : "6Q0gMZJNIebNFFaJeonc11",
+    "name" : "Holy Fuck",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Q0gMZJNIebNFFaJeonc11"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 289106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0900256"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3lojjvbWzs6cS32TWdM2sj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3lojjvbWzs6cS32TWdM2sj",
+  "id" : "3lojjvbWzs6cS32TWdM2sj",
+  "name" : "Latin America",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1cd5b539509a032df62d546ca579d77c73a27fb1?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3lojjvbWzs6cS32TWdM2sj"
+}

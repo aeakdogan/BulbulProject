@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+      "id" : "2h93pZq0e7k5yf4dywlkpM",
+      "name" : "Frank Ocean",
+      "type" : "artist",
+      "uri" : "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3RYdEXhGHojkTILUdtnRVJ",
+    "id" : "3RYdEXhGHojkTILUdtnRVJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d9928adb5d1f478a9ef0d63a64d47fc17da1ef40",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a3402dfb7122b2b5f0c5bb411363de8299cd1f80",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f66e696c49949e30be38ac9d90ad0c071c56eb5c",
+      "width" : 64
+    } ],
+    "name" : "Novacane",
+    "type" : "album",
+    "uri" : "spotify:album:3RYdEXhGHojkTILUdtnRVJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+    "id" : "2h93pZq0e7k5yf4dywlkpM",
+    "name" : "Frank Ocean",
+    "type" : "artist",
+    "uri" : "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 302346,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM71107257"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4osgfFTICMkcGbbigdsa53",
+  "id" : "4osgfFTICMkcGbbigdsa53",
+  "name" : "Novacane",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/783201c03afa92372fe98ae16cd085dd741f1043?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4osgfFTICMkcGbbigdsa53"
+}

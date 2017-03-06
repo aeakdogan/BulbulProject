@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0A9p7WNA1VwxVyrjx92Z9F",
+      "id" : "0A9p7WNA1VwxVyrjx92Z9F",
+      "name" : "Abbey Lincoln",
+      "type" : "artist",
+      "uri" : "spotify:artist:0A9p7WNA1VwxVyrjx92Z9F"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5XJWkSkIJteqIqWmj0dGIC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5XJWkSkIJteqIqWmj0dGIC",
+    "id" : "5XJWkSkIJteqIqWmj0dGIC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/487fee82524c3da9296ac3dc87122e5d465f1e5c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/23aa1434d2bcdfaa413b2e8471587376f05cad66",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/46e0a4443152efe7b91d877e598bb93b2b1ede6b",
+      "width" : 64
+    } ],
+    "name" : "African Lady",
+    "type" : "album",
+    "uri" : "spotify:album:5XJWkSkIJteqIqWmj0dGIC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0A9p7WNA1VwxVyrjx92Z9F",
+    "id" : "0A9p7WNA1VwxVyrjx92Z9F",
+    "name" : "Abbey Lincoln",
+    "type" : "artist",
+    "uri" : "spotify:artist:0A9p7WNA1VwxVyrjx92Z9F"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 326026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USV291484016"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3g5SQMVG0gsbcJJMPCVVL7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3g5SQMVG0gsbcJJMPCVVL7",
+  "id" : "3g5SQMVG0gsbcJJMPCVVL7",
+  "name" : "Straight Ahead",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/db774d38fc1742d8f6d3baeabda2c1bd2375ee56?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3g5SQMVG0gsbcJJMPCVVL7"
+}

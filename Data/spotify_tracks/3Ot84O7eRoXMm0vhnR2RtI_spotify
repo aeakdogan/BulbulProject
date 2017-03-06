@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7oBJEgh7PQKJuxXb1lUEKA",
+      "id" : "7oBJEgh7PQKJuxXb1lUEKA",
+      "name" : "The Wiseguys",
+      "type" : "artist",
+      "uri" : "spotify:artist:7oBJEgh7PQKJuxXb1lUEKA"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/38h1uQfj1c3PM0HIQhgfgc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/38h1uQfj1c3PM0HIQhgfgc",
+    "id" : "38h1uQfj1c3PM0HIQhgfgc",
+    "images" : [ {
+      "height" : 608,
+      "url" : "https://i.scdn.co/image/a41bccf0656ce252c5b82d7cdf83cc2ba4b3bfee",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4d4cdc22b25fc9477220e2408dab7c5046452764",
+      "width" : 296
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ca49ecdc37470cd4caeaa425bafd44f29c0efe68",
+      "width" : 63
+    } ],
+    "name" : "Executive Suite",
+    "type" : "album",
+    "uri" : "spotify:album:38h1uQfj1c3PM0HIQhgfgc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7oBJEgh7PQKJuxXb1lUEKA",
+    "id" : "7oBJEgh7PQKJuxXb1lUEKA",
+    "name" : "The Wiseguys",
+    "type" : "artist",
+    "uri" : "spotify:artist:7oBJEgh7PQKJuxXb1lUEKA"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 390600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCFC9500035"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Ot84O7eRoXMm0vhnR2RtI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Ot84O7eRoXMm0vhnR2RtI",
+  "id" : "3Ot84O7eRoXMm0vhnR2RtI",
+  "name" : "Too Easy",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/09f7d2a01cc338667a9d7187642b8e0f636dbf9e?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:3Ot84O7eRoXMm0vhnR2RtI"
+}

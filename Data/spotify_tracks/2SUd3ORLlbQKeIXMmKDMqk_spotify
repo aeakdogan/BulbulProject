@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+      "id" : "2CIMQHirSU0MQqyYHq0eOx",
+      "name" : "deadmau5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/77lJ42P4qgi7HJTOjMmcBp",
+    "id" : "77lJ42P4qgi7HJTOjMmcBp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/10fe03b16911c69a2a6186b8096603d6e1916626",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/948ea5f525d4cd618c71d134041dac86bc980e65",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/45281412a1aee94a499238e00d62d66aca321800",
+      "width" : 64
+    } ],
+    "name" : "stuff i used to do",
+    "type" : "album",
+    "uri" : "spotify:album:77lJ42P4qgi7HJTOjMmcBp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2CIMQHirSU0MQqyYHq0eOx",
+    "id" : "2CIMQHirSU0MQqyYHq0eOx",
+    "name" : "deadmau5",
+    "type" : "artist",
+    "uri" : "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 250000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBTDG1301237"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2SUd3ORLlbQKeIXMmKDMqk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2SUd3ORLlbQKeIXMmKDMqk",
+  "id" : "2SUd3ORLlbQKeIXMmKDMqk",
+  "name" : "Support",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/05f86b23b48956992a7a3d780c3bd8d9cf3b6e6b?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:2SUd3ORLlbQKeIXMmKDMqk"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/06Iig2bqY8mv98B1c9Iyo8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/06Iig2bqY8mv98B1c9Iyo8",
+      "id" : "06Iig2bqY8mv98B1c9Iyo8",
+      "name" : "The Mary Onettes",
+      "type" : "artist",
+      "uri" : "spotify:artist:06Iig2bqY8mv98B1c9Iyo8"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4s5tdvvaVAvupfT5oEjeyw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4s5tdvvaVAvupfT5oEjeyw",
+    "id" : "4s5tdvvaVAvupfT5oEjeyw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7ebec7e7ae5e00276c230bca110dc90a19f2c9b8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/17d0e31942ff931e3b33f7f525e218ee4f87f3f6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ff2761ce6157e792a358b4ea24582950e59ba5d4",
+      "width" : 64
+    } ],
+    "name" : "Void",
+    "type" : "album",
+    "uri" : "spotify:album:4s5tdvvaVAvupfT5oEjeyw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/06Iig2bqY8mv98B1c9Iyo8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/06Iig2bqY8mv98B1c9Iyo8",
+    "id" : "06Iig2bqY8mv98B1c9Iyo8",
+    "name" : "The Mary Onettes",
+    "type" : "artist",
+    "uri" : "spotify:artist:06Iig2bqY8mv98B1c9Iyo8"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 255106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEVMM0701012"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6DlAqNBXTPZscxU2nnjsii"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6DlAqNBXTPZscxU2nnjsii",
+  "id" : "6DlAqNBXTPZscxU2nnjsii",
+  "name" : "Translate",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7a6940dddc994738aec42aba4a4d6209b0490fb5?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6DlAqNBXTPZscxU2nnjsii"
+}

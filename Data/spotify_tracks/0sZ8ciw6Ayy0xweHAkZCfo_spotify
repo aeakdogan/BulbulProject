@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1xowRVWzOSg2hcOOP4Y2jN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1xowRVWzOSg2hcOOP4Y2jN",
+      "id" : "1xowRVWzOSg2hcOOP4Y2jN",
+      "name" : "Styrofoam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1xowRVWzOSg2hcOOP4Y2jN"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ozeB73XjVWAGuln7lOHuN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ozeB73XjVWAGuln7lOHuN",
+    "id" : "5ozeB73XjVWAGuln7lOHuN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/58adf9d91d3de3f3584aa357e481d19b1a718b62",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2e6f8232753358d345cf223961038820d600d65f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/21cd9eee91ef5d529b9cedb40d8126e31e5e7a95",
+      "width" : 64
+    } ],
+    "name" : "The Point_Misser",
+    "type" : "album",
+    "uri" : "spotify:album:5ozeB73XjVWAGuln7lOHuN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1xowRVWzOSg2hcOOP4Y2jN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1xowRVWzOSg2hcOOP4Y2jN",
+    "id" : "1xowRVWzOSg2hcOOP4Y2jN",
+    "name" : "Styrofoam",
+    "type" : "artist",
+    "uri" : "spotify:artist:1xowRVWzOSg2hcOOP4Y2jN"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 151013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX260001001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0sZ8ciw6Ayy0xweHAkZCfo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0sZ8ciw6Ayy0xweHAkZCfo",
+  "id" : "0sZ8ciw6Ayy0xweHAkZCfo",
+  "name" : "The Sign that Points One Way",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/70b488de137bc709e047763887ea3daf199f07a0?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0sZ8ciw6Ayy0xweHAkZCfo"
+}

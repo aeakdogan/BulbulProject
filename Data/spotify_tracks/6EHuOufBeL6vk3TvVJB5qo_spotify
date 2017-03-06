@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+      "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+      "name" : "The Beatles",
+      "type" : "artist",
+      "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3KzAvEXcqJKBF97HrXwlgf",
+    "id" : "3KzAvEXcqJKBF97HrXwlgf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1e6c3774deb8c44852ac169e03ce3f7a37c936af",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/aec67ae3a374ecf851665ad5cadccc0ac42c0ae8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f038b690d8e3a98aea1397010b838e464f38fa79",
+      "width" : 64
+    } ],
+    "name" : "Please Please Me (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:3KzAvEXcqJKBF97HrXwlgf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+    "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+    "name" : "The Beatles",
+    "type" : "artist",
+    "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 120853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE0601416"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6EHuOufBeL6vk3TvVJB5qo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6EHuOufBeL6vk3TvVJB5qo",
+  "id" : "6EHuOufBeL6vk3TvVJB5qo",
+  "name" : "Please Please Me - Remastered",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c7974d03d8cd26de7ba9d4357c0b1ba422c296c5?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6EHuOufBeL6vk3TvVJB5qo"
+}

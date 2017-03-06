@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0C5uwKeCiK6GJEEK5eUuwe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0C5uwKeCiK6GJEEK5eUuwe",
+    "id" : "0C5uwKeCiK6GJEEK5eUuwe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0b8085dd4465a3a0fab796853bed39791943719d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/819a88757006268a70d68cc78dad8d4bb155ea71",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d506c98c3120c8ca06f7b9dcacd783ca9d6efb0",
+      "width" : 64
+    } ],
+    "name" : "Eccentric Soul: The Capsoul Label",
+    "type" : "album",
+    "uri" : "spotify:album:0C5uwKeCiK6GJEEK5eUuwe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2VF421Sz9nBUdNzwqSTp7z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2VF421Sz9nBUdNzwqSTp7z",
+    "id" : "2VF421Sz9nBUdNzwqSTp7z",
+    "name" : "Marion Black",
+    "type" : "artist",
+    "uri" : "spotify:artist:2VF421Sz9nBUdNzwqSTp7z"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 138266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCW60400102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2J4huunxGQHxthTn3O776r"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2J4huunxGQHxthTn3O776r",
+  "id" : "2J4huunxGQHxthTn3O776r",
+  "name" : "Who Knows",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6d8426d99999a66ddde9b9d2218a036e54dc7af0?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2J4huunxGQHxthTn3O776r"
+}

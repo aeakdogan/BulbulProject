@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jXfFzeP66Zy67HM2mvIIF",
+      "id" : "4jXfFzeP66Zy67HM2mvIIF",
+      "name" : "Bill Evans",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jXfFzeP66Zy67HM2mvIIF"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/37Aevjp3ZRrGx3rxwpWW5A"
+    },
+    "href" : "https://api.spotify.com/v1/albums/37Aevjp3ZRrGx3rxwpWW5A",
+    "id" : "37Aevjp3ZRrGx3rxwpWW5A",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/90b5e3ad19c9036ea02a41fcdf857e873540832e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/35f55e222d54dd4ffee00505ed39442c92dbebac",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6fb65c117cf939e285bd497411a82360b015e78d",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Bill Evans (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:37Aevjp3ZRrGx3rxwpWW5A"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+    "id" : "3VEG6gxFIMfl4Cdog26avS",
+    "name" : "Bill Evans Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 323706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI86000056"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6v4bLnc8i6knh4bDqljjCH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6v4bLnc8i6knh4bDqljjCH",
+  "id" : "6v4bLnc8i6knh4bDqljjCH",
+  "name" : "Blue In Green - Take 3",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b5f2bf1e80d460f1d8b8eb0b165ca589084a97db?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6v4bLnc8i6knh4bDqljjCH"
+}

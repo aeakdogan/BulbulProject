@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3C20zCOVCXIb9xr0Z6wcCG",
+    "id" : "3C20zCOVCXIb9xr0Z6wcCG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ac21d82d24685777879bee2f5b9a9701f37529d3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c582583ea5aa570842d5406eea6191719bdb7b40",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/610df629c6c168f7d701957462c0ccef465b229d",
+      "width" : 64
+    } ],
+    "name" : "80 Totally 80s Hits",
+    "type" : "album",
+    "uri" : "spotify:album:3C20zCOVCXIb9xr0Z6wcCG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6MrHEQVD40SO8XWTBNELkl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6MrHEQVD40SO8XWTBNELkl",
+    "id" : "6MrHEQVD40SO8XWTBNELkl",
+    "name" : "Freur",
+    "type" : "artist",
+    "uri" : "spotify:artist:6MrHEQVD40SO8XWTBNELkl"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 243200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBN8300004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/59RDnYdcA0lPc912glG98X"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/59RDnYdcA0lPc912glG98X",
+  "id" : "59RDnYdcA0lPc912glG98X",
+  "name" : "Doot Doot",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b11e7e8211b8a53a2ffd68fbbf2ec8b964130d5f?cid=null",
+  "track_number" : 78,
+  "type" : "track",
+  "uri" : "spotify:track:59RDnYdcA0lPc912glG98X"
+}

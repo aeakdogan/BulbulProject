@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4frXpPxQQZwbCu3eTGnZEw",
+      "id" : "4frXpPxQQZwbCu3eTGnZEw",
+      "name" : "Thundercat",
+      "type" : "artist",
+      "uri" : "spotify:artist:4frXpPxQQZwbCu3eTGnZEw"
+    } ],
+    "available_markets" : [ "AR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2VqG7ApXegtCBvHBQqj1Eo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2VqG7ApXegtCBvHBQqj1Eo",
+    "id" : "2VqG7ApXegtCBvHBQqj1Eo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/71b97d3d15ce982ef61c1f7ced2b60fc0b76b5af",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/38f6181086d330eb89e8b0d25080a716f250ffde",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6145a8ded413683ddac0c08b8474366479924f32",
+      "width" : 64
+    } ],
+    "name" : "The Golden Age of Apocalypse",
+    "type" : "album",
+    "uri" : "spotify:album:2VqG7ApXegtCBvHBQqj1Eo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4frXpPxQQZwbCu3eTGnZEw",
+    "id" : "4frXpPxQQZwbCu3eTGnZEw",
+    "name" : "Thundercat",
+    "type" : "artist",
+    "uri" : "spotify:artist:4frXpPxQQZwbCu3eTGnZEw"
+  } ],
+  "available_markets" : [ "AR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 215359,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US25X1083024"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/79KPl9hg2nJ3IPnxPQKR6w"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/79KPl9hg2nJ3IPnxPQKR6w",
+  "id" : "79KPl9hg2nJ3IPnxPQKR6w",
+  "name" : "For Love I Come",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/273825d526e49d4e82e86231e527fbb9f56735be?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:79KPl9hg2nJ3IPnxPQKR6w"
+}

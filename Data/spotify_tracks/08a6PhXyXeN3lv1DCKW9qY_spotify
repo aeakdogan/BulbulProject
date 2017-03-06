@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0K1q0nXQ8is36PzOKAMbNe",
+      "id" : "0K1q0nXQ8is36PzOKAMbNe",
+      "name" : "Spoon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0K1q0nXQ8is36PzOKAMbNe"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
+    },
+    "href" : "https://api.spotify.com/v1/albums/55TZx6GWm1hlEbRgkGRjma",
+    "id" : "55TZx6GWm1hlEbRgkGRjma",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/73aea6933ca08cdbc1d389a2e2c676027fe67e71",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/412b32c3b65ad06995a7aac490c2c0d3b0fed713",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7f9ff5cdd4270501d7ce575315433fccda2261cf",
+      "width" : 64
+    } ],
+    "name" : "They Want My Soul",
+    "type" : "album",
+    "uri" : "spotify:album:55TZx6GWm1hlEbRgkGRjma"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0K1q0nXQ8is36PzOKAMbNe",
+    "id" : "0K1q0nXQ8is36PzOKAMbNe",
+    "name" : "Spoon",
+    "type" : "artist",
+    "uri" : "spotify:artist:0K1q0nXQ8is36PzOKAMbNe"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 212653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUG11400503"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/08a6PhXyXeN3lv1DCKW9qY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/08a6PhXyXeN3lv1DCKW9qY",
+  "id" : "08a6PhXyXeN3lv1DCKW9qY",
+  "name" : "Do You",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1861ea6971955f6f1990bfcc013d40888438b00?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:08a6PhXyXeN3lv1DCKW9qY"
+}

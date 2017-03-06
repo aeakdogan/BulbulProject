@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3hJv5p2HwekJysNB2NDnEC",
+      "id" : "3hJv5p2HwekJysNB2NDnEC",
+      "name" : "André Rieu",
+      "type" : "artist",
+      "uri" : "spotify:artist:3hJv5p2HwekJysNB2NDnEC"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5JMD3RJJylHGTHiceT9AcH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5JMD3RJJylHGTHiceT9AcH",
+    "id" : "5JMD3RJJylHGTHiceT9AcH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6fbf60aae3bef225b64687c9cef5722a03827e1f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/563193ab3979ee22d4b2ea5f7ddcb1ab227b2624",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7ae7c975749f9f0fa9887b83d80d2eedc168552f",
+      "width" : 64
+    } ],
+    "name" : "Forever Vienna",
+    "type" : "album",
+    "uri" : "spotify:album:5JMD3RJJylHGTHiceT9AcH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3hJv5p2HwekJysNB2NDnEC",
+    "id" : "3hJv5p2HwekJysNB2NDnEC",
+    "name" : "André Rieu",
+    "type" : "artist",
+    "uri" : "spotify:artist:3hJv5p2HwekJysNB2NDnEC"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 203240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEUM70805623"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0gY5dDY1G050b9BEmwfdIh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0gY5dDY1G050b9BEmwfdIh",
+  "id" : "0gY5dDY1G050b9BEmwfdIh",
+  "name" : "Strauss Party",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8b2bd79e9eeeb49b11d544562d98bf01c1520be8?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0gY5dDY1G050b9BEmwfdIh"
+}

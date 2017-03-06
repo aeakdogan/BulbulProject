@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2hGh5VOeeqimQFxqXvfCUf",
+      "id" : "2hGh5VOeeqimQFxqXvfCUf",
+      "name" : "John Coltrane",
+      "type" : "artist",
+      "uri" : "spotify:artist:2hGh5VOeeqimQFxqXvfCUf"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/24Dsi3qwXQBCerTLWdr1tq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/24Dsi3qwXQBCerTLWdr1tq",
+    "id" : "24Dsi3qwXQBCerTLWdr1tq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e423ad8e520980b5537ad97b702a3de44a126dd1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0510db8851b833dacf030ee353dbbe1fd6c3a10d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1bb7d91cdeb5f39b0734c02641c6727c61dfea6a",
+      "width" : 64
+    } ],
+    "name" : "The Paris Concert",
+    "type" : "album",
+    "uri" : "spotify:album:24Dsi3qwXQBCerTLWdr1tq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2hGh5VOeeqimQFxqXvfCUf",
+    "id" : "2hGh5VOeeqimQFxqXvfCUf",
+    "name" : "John Coltrane",
+    "type" : "artist",
+    "uri" : "spotify:artist:2hGh5VOeeqimQFxqXvfCUf"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 298533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI87900035"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5CRmy6U563LBdW1wwWpjRR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5CRmy6U563LBdW1wwWpjRR",
+  "id" : "5CRmy6U563LBdW1wwWpjRR",
+  "name" : "Ev'ry Time We Say Goodbye - Live",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a818f24e2b26b5b3a414ec247932388eab9d970d?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5CRmy6U563LBdW1wwWpjRR"
+}

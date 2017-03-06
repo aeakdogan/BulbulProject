@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6odcotWv2xd7NP7RrGBS5b",
+    "id" : "6odcotWv2xd7NP7RrGBS5b",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4bc0a622c461295aa635e9a8f47e4fd8083cdc29",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/702a26a30c121ea16bb3da04dcf40e1708a8fcb9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ce999e7bc88ff538b68da21378c80091d615cf0c",
+      "width" : 64
+    } ],
+    "name" : "100 Hits of the '90s",
+    "type" : "album",
+    "uri" : "spotify:album:6odcotWv2xd7NP7RrGBS5b"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5T4UKHhr4HGIC0VzdZQtAE",
+    "id" : "5T4UKHhr4HGIC0VzdZQtAE",
+    "name" : "Faithless",
+    "type" : "artist",
+    "uri" : "spotify:artist:5T4UKHhr4HGIC0VzdZQtAE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 213546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBXH9600001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7gWc0QEt2hoIkMv3XxPY1T",
+  "id" : "7gWc0QEt2hoIkMv3XxPY1T",
+  "name" : "Insomnia - Radio Edit",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6389cdf6cb9e952538a8a51b28e3cb93d4004dfd?cid=null",
+  "track_number" : 83,
+  "type" : "track",
+  "uri" : "spotify:track:7gWc0QEt2hoIkMv3XxPY1T"
+}

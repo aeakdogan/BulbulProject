@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3qwxSif06Qwzykdln8ZGfG",
+      "id" : "3qwxSif06Qwzykdln8ZGfG",
+      "name" : "Wax Tailor",
+      "type" : "artist",
+      "uri" : "spotify:artist:3qwxSif06Qwzykdln8ZGfG"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7dzxM6pI8umSkVqv1yY9qZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7dzxM6pI8umSkVqv1yY9qZ",
+    "id" : "7dzxM6pI8umSkVqv1yY9qZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/acb9442800897130849fdd2b9a614b3d4284448b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/17fb5af03fe3d1137dd7ce178e1e6ff85c59f30d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0eb8913a6c8aae488014fd08fe373c85803f48da",
+      "width" : 64
+    } ],
+    "name" : "Tales of the Forgotten Melodies",
+    "type" : "album",
+    "uri" : "spotify:album:7dzxM6pI8umSkVqv1yY9qZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3qwxSif06Qwzykdln8ZGfG",
+    "id" : "3qwxSif06Qwzykdln8ZGfG",
+    "name" : "Wax Tailor",
+    "type" : "artist",
+    "uri" : "spotify:artist:3qwxSif06Qwzykdln8ZGfG"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 264133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US48G0600212"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2voGUW8AoSPcx0LLZ5E1FF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2voGUW8AoSPcx0LLZ5E1FF",
+  "id" : "2voGUW8AoSPcx0LLZ5E1FF",
+  "name" : "Our Dance (feat. Charlotte Savary)",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aee3c666088019b0ff1737cf1ce81ab27ab6b380?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:2voGUW8AoSPcx0LLZ5E1FF"
+}

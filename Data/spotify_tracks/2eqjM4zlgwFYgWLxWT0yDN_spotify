@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+      "id" : "2CWWgbxApjbyByxBBCvGTm",
+      "name" : "Katatonia",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Et638DCuizRuZhbSEefEc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Et638DCuizRuZhbSEefEc",
+    "id" : "6Et638DCuizRuZhbSEefEc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6cd415ae9b5d713eca235980e1931539ceb90259",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b60140a9a8ecc403977ac6f275fa855e0abbf16b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bf5405ca71e2b0fcbf1b271ff09feda74a3d01aa",
+      "width" : 64
+    } ],
+    "name" : "Discouraged Ones",
+    "type" : "album",
+    "uri" : "spotify:album:6Et638DCuizRuZhbSEefEc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+    "id" : "2CWWgbxApjbyByxBBCvGTm",
+    "name" : "Katatonia",
+    "type" : "artist",
+    "uri" : "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 277280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCQV0700017"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2eqjM4zlgwFYgWLxWT0yDN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2eqjM4zlgwFYgWLxWT0yDN",
+  "id" : "2eqjM4zlgwFYgWLxWT0yDN",
+  "name" : "Deadhouse",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/befc63236d7b416a31a9e77e915806cb1203ff43?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2eqjM4zlgwFYgWLxWT0yDN"
+}

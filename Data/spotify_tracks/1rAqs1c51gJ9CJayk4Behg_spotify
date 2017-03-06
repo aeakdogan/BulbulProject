@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4OpHsZuhfJMU9PZ3zkyUQX",
+      "id" : "4OpHsZuhfJMU9PZ3zkyUQX",
+      "name" : "Watain",
+      "type" : "artist",
+      "uri" : "spotify:artist:4OpHsZuhfJMU9PZ3zkyUQX"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2z6f3UO5OVgP99A4DWByO3",
+    "id" : "2z6f3UO5OVgP99A4DWByO3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/55b1d441886d47aaa630e4c20807076697404e42",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1bb6eb9096658a9af1d3fa7ef0f6b3f4dd618f09",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/25577831af7dd2e13f0ec934c5f5d9138155edda",
+      "width" : 64
+    } ],
+    "name" : "Sworn to the Dark",
+    "type" : "album",
+    "uri" : "spotify:album:2z6f3UO5OVgP99A4DWByO3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4OpHsZuhfJMU9PZ3zkyUQX",
+    "id" : "4OpHsZuhfJMU9PZ3zkyUQX",
+    "name" : "Watain",
+    "type" : "artist",
+    "uri" : "spotify:artist:4OpHsZuhfJMU9PZ3zkyUQX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 497080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR33T0714811"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1rAqs1c51gJ9CJayk4Behg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1rAqs1c51gJ9CJayk4Behg",
+  "id" : "1rAqs1c51gJ9CJayk4Behg",
+  "name" : "Stellarvore",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b3a5b24ed05b6cabc59d0579ffb27c35adbe043e?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:1rAqs1c51gJ9CJayk4Behg"
+}

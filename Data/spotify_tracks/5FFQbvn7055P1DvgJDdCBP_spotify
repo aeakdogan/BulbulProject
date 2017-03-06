@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+      "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+      "name" : "Feist",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7bTdGfczXffzzNE9ssJj4Z",
+    "id" : "7bTdGfczXffzzNE9ssJj4Z",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/6c570e89a7f2a64b82a2d80eb488655e3fde873e",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/098f66f96594a8160041e6ae261981237e7a52e2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fd3a73ae5ee0420d270d15a9abc7491e4be58ff0",
+      "width" : 64
+    } ],
+    "name" : "The Reminder",
+    "type" : "album",
+    "uri" : "spotify:album:7bTdGfczXffzzNE9ssJj4Z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+    "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+    "name" : "Feist",
+    "type" : "artist",
+    "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 228360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRUM70600211"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5FFQbvn7055P1DvgJDdCBP",
+  "id" : "5FFQbvn7055P1DvgJDdCBP",
+  "name" : "My Moon My Man",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dd7a964a1a0da3c90c0fad6279a00f2ec2dbbd0e?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5FFQbvn7055P1DvgJDdCBP"
+}

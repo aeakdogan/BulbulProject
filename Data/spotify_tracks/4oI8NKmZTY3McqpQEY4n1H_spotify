@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4COaejzYuUUYQT6sOHLMPX",
+      "id" : "4COaejzYuUUYQT6sOHLMPX",
+      "name" : "Tomáš Dvořák",
+      "type" : "artist",
+      "uri" : "spotify:artist:4COaejzYuUUYQT6sOHLMPX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/52PLNrXUMtPUZwcueV75J1",
+    "id" : "52PLNrXUMtPUZwcueV75J1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/43e70e40dcf69c9bcb81fd7363cf36e86e423943",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/28167d457cdf2875d4dbddb149592d8be795c19f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f06cbd63fd1e84a1e1fadb593a3f93407837dc7b",
+      "width" : 64
+    } ],
+    "name" : "Machinarium Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:52PLNrXUMtPUZwcueV75J1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4COaejzYuUUYQT6sOHLMPX",
+    "id" : "4COaejzYuUUYQT6sOHLMPX",
+    "name" : "Tomáš Dvořák",
+    "type" : "artist",
+    "uri" : "spotify:artist:4COaejzYuUUYQT6sOHLMPX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 196973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CZG961000007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4oI8NKmZTY3McqpQEY4n1H"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4oI8NKmZTY3McqpQEY4n1H",
+  "id" : "4oI8NKmZTY3McqpQEY4n1H",
+  "name" : "Mr. Handagote",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/051b1aa1b7dd89e05a79b4e95a6c0bc3ef79de58?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4oI8NKmZTY3McqpQEY4n1H"
+}

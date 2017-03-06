@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6l40OFJhuTbHQ9V12evc9K",
+      "id" : "6l40OFJhuTbHQ9V12evc9K",
+      "name" : "Gerry Mulligan",
+      "type" : "artist",
+      "uri" : "spotify:artist:6l40OFJhuTbHQ9V12evc9K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3rxeQlsv0Sc2nyYaZ5W71T",
+      "id" : "3rxeQlsv0Sc2nyYaZ5W71T",
+      "name" : "Chet Baker",
+      "type" : "artist",
+      "uri" : "spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7r5zWHLMNah1gedwI4S9AA",
+    "id" : "7r5zWHLMNah1gedwI4S9AA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d7ae7590cde1178536b933d0d8fec39f3ec8122c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a588ef848dbe66356d73b391901339936f22390c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/455681e196a3c047459aa58b5fe4c4a710d957d8",
+      "width" : 64
+    } ],
+    "name" : "The Original Quartet With Chet Baker",
+    "type" : "album",
+    "uri" : "spotify:album:7r5zWHLMNah1gedwI4S9AA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6l40OFJhuTbHQ9V12evc9K",
+    "id" : "6l40OFJhuTbHQ9V12evc9K",
+    "name" : "Gerry Mulligan",
+    "type" : "artist",
+    "uri" : "spotify:artist:6l40OFJhuTbHQ9V12evc9K"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3rxeQlsv0Sc2nyYaZ5W71T",
+    "id" : "3rxeQlsv0Sc2nyYaZ5W71T",
+    "name" : "Chet Baker",
+    "type" : "artist",
+    "uri" : "spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 173533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN29800186"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/01CduTFtqyVHYpL3hb27Bf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/01CduTFtqyVHYpL3hb27Bf",
+  "id" : "01CduTFtqyVHYpL3hb27Bf",
+  "name" : "The Nearness Of You - 1998 Digital Remaster",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ceaa86896358a97c6d1d2edef766ac4b179450e6?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:01CduTFtqyVHYpL3hb27Bf"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+      "id" : "3pTE9iaJTkWns3mxpNQlJV",
+      "name" : "Bombay Bicycle Club",
+      "type" : "artist",
+      "uri" : "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1LoSmhQ4yAdRpD0WPm9pLt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1LoSmhQ4yAdRpD0WPm9pLt",
+    "id" : "1LoSmhQ4yAdRpD0WPm9pLt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c084b5e2b89a7e5776795a5b3b74a3109d271b76",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/61e0f9bd2551402e94af827a2e47beb51bd55e67",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c06ef69bd519de4dedaf3aacf7a92bd831077d6e",
+      "width" : 64
+    } ],
+    "name" : "So Long, See You Tomorrow",
+    "type" : "album",
+    "uri" : "spotify:album:1LoSmhQ4yAdRpD0WPm9pLt"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+    "id" : "3pTE9iaJTkWns3mxpNQlJV",
+    "name" : "Bombay Bicycle Club",
+    "type" : "artist",
+    "uri" : "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 274653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVR91316404"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5v5MCXx0Brc51AhbLHBYJG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5v5MCXx0Brc51AhbLHBYJG",
+  "id" : "5v5MCXx0Brc51AhbLHBYJG",
+  "name" : "Home By Now",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7c5e27a647221ada572cf32a75b53ef778a0fef7?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5v5MCXx0Brc51AhbLHBYJG"
+}

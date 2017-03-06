@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5vBKu1igxFo6g1sHADkIdg",
+      "id" : "5vBKu1igxFo6g1sHADkIdg",
+      "name" : "Kate Nash",
+      "type" : "artist",
+      "uri" : "spotify:artist:5vBKu1igxFo6g1sHADkIdg"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/16Ho6rdm0dykhskSWn6az8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/16Ho6rdm0dykhskSWn6az8",
+    "id" : "16Ho6rdm0dykhskSWn6az8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5ae617d28324b831c5b36dbb070e0a6839c0f242",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/941c734181d66d2ea0593d5578e65aff4b3ec291",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4802692c5a819f12d5bbc76a616a955d587eb51a",
+      "width" : 64
+    } ],
+    "name" : "My Best Friend Is You",
+    "type" : "album",
+    "uri" : "spotify:album:16Ho6rdm0dykhskSWn6az8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5vBKu1igxFo6g1sHADkIdg",
+    "id" : "5vBKu1igxFo6g1sHADkIdg",
+    "name" : "Kate Nash",
+    "type" : "artist",
+    "uri" : "spotify:artist:5vBKu1igxFo6g1sHADkIdg"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 221320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70916594"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Z3e6jNaaJTOcLKFIGHoL0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Z3e6jNaaJTOcLKFIGHoL0",
+  "id" : "0Z3e6jNaaJTOcLKFIGHoL0",
+  "name" : "Kiss That Grrrl",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ebae53ce2865869ddc67696dd1942a3acb8bb79b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0Z3e6jNaaJTOcLKFIGHoL0"
+}

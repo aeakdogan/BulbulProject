@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1EtE0iSY6iFlN9L9c53ETy",
+      "id" : "1EtE0iSY6iFlN9L9c53ETy",
+      "name" : "Michel Legrand",
+      "type" : "artist",
+      "uri" : "spotify:artist:1EtE0iSY6iFlN9L9c53ETy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5AxoXya8Sdhthrn2pQ1t3z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5AxoXya8Sdhthrn2pQ1t3z",
+    "id" : "5AxoXya8Sdhthrn2pQ1t3z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e011cfab4d328c788899a54ebb352d7ae5ea6d35",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5b644333a5454b127e080df0ee09f6abcb0d0190",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/34a4df312176f7073696d9f436995660ae4a3ddf",
+      "width" : 64
+    } ],
+    "name" : "Jazz in Paris (Piano)",
+    "type" : "album",
+    "uri" : "spotify:album:5AxoXya8Sdhthrn2pQ1t3z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1EtE0iSY6iFlN9L9c53ETy",
+    "id" : "1EtE0iSY6iFlN9L9c53ETy",
+    "name" : "Michel Legrand",
+    "type" : "artist",
+    "uri" : "spotify:artist:1EtE0iSY6iFlN9L9c53ETy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 212636,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V81407992"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0wr9R9seinlepTHLJmcD4z"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0wr9R9seinlepTHLJmcD4z",
+  "id" : "0wr9R9seinlepTHLJmcD4z",
+  "name" : "Paris in the Spring",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/62a1d5b2a9b31fc867b66d361d26c93d45cba9f9?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0wr9R9seinlepTHLJmcD4z"
+}

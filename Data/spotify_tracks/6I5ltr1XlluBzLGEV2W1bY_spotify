@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+      "id" : "12VaqyEhgwDRuFfEqbnrpz",
+      "name" : "PJ Harvey",
+      "type" : "artist",
+      "uri" : "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2fDJpBJhtloxzUENHlU9JB",
+    "id" : "2fDJpBJhtloxzUENHlU9JB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d2d59c10174822ecc5e73fa0eeee919ba23e09d3",
+      "width" : 639
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6f4642b872d393dc91cad457c0309c171a75ad5b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/37735cd3ba330fc16d345bac4bb227329ac877c1",
+      "width" : 64
+    } ],
+    "name" : "Rid Of Me",
+    "type" : "album",
+    "uri" : "spotify:album:2fDJpBJhtloxzUENHlU9JB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+    "id" : "12VaqyEhgwDRuFfEqbnrpz",
+    "name" : "PJ Harvey",
+    "type" : "artist",
+    "uri" : "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 266333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN9300104"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6I5ltr1XlluBzLGEV2W1bY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6I5ltr1XlluBzLGEV2W1bY",
+  "id" : "6I5ltr1XlluBzLGEV2W1bY",
+  "name" : "Ecstasy",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b435a5365d5c416403c1f942fa4c05dee4942c3b?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:6I5ltr1XlluBzLGEV2W1bY"
+}

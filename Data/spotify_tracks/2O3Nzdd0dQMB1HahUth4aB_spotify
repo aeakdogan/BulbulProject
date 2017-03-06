@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/46CuxapoPjUfIOiXdNq7qM",
+      "id" : "46CuxapoPjUfIOiXdNq7qM",
+      "name" : "Oh Land",
+      "type" : "artist",
+      "uri" : "spotify:artist:46CuxapoPjUfIOiXdNq7qM"
+    } ],
+    "available_markets" : [ "AD", "AT", "CA", "CH", "DE", "FR", "LI", "MC", "MX", "PL", "SE", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ZViAZBx7M4vleeGgaNSMI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ZViAZBx7M4vleeGgaNSMI",
+    "id" : "4ZViAZBx7M4vleeGgaNSMI",
+    "images" : [ {
+      "height" : 575,
+      "url" : "https://i.scdn.co/image/622fc0829fdbb00d300513f79dc191e192a12bf8",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/eb588c4771142898868ad77858d908244174a778",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/63384156723f821041baa2c8a8e0dcf58e34d46e",
+      "width" : 64
+    } ],
+    "name" : "Oh Land",
+    "type" : "album",
+    "uri" : "spotify:album:4ZViAZBx7M4vleeGgaNSMI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/46CuxapoPjUfIOiXdNq7qM",
+    "id" : "46CuxapoPjUfIOiXdNq7qM",
+    "name" : "Oh Land",
+    "type" : "artist",
+    "uri" : "spotify:artist:46CuxapoPjUfIOiXdNq7qM"
+  } ],
+  "available_markets" : [ "AD", "AT", "CA", "CH", "DE", "FR", "LI", "MC", "MX", "PL", "SE", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 170293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11100154"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2O3Nzdd0dQMB1HahUth4aB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2O3Nzdd0dQMB1HahUth4aB",
+  "id" : "2O3Nzdd0dQMB1HahUth4aB",
+  "name" : "Voodoo",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7df18d6580986d178d2e6701953eefac128553f6?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2O3Nzdd0dQMB1HahUth4aB"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6mKqFxGMS5TGDZI3XkT5Rt",
+      "id" : "6mKqFxGMS5TGDZI3XkT5Rt",
+      "name" : "Angel Olsen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6mKqFxGMS5TGDZI3XkT5Rt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2CQY5a9aqLxICQjFfsMIOf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2CQY5a9aqLxICQjFfsMIOf",
+    "id" : "2CQY5a9aqLxICQjFfsMIOf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0339d9d61c6146b6e9c086dcdec71e86cf4e236f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6c33f0e7968d6d173ce3315aeb19072153eeadbe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2a5e37252d4b0563b5a71a17c186646bbe4a2b12",
+      "width" : 64
+    } ],
+    "name" : "Half Way Home",
+    "type" : "album",
+    "uri" : "spotify:album:2CQY5a9aqLxICQjFfsMIOf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6mKqFxGMS5TGDZI3XkT5Rt",
+    "id" : "6mKqFxGMS5TGDZI3XkT5Rt",
+    "name" : "Angel Olsen",
+    "type" : "artist",
+    "uri" : "spotify:artist:6mKqFxGMS5TGDZI3XkT5Rt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 217788,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2P1228792"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5AKMXbvcCec4AddAZskCkq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5AKMXbvcCec4AddAZskCkq",
+  "id" : "5AKMXbvcCec4AddAZskCkq",
+  "name" : "Acrobat",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1fced2f148f6cb9513c0a77342974819cb7d3a66?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5AKMXbvcCec4AddAZskCkq"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0O98jlCaPzvsoei6U5jfEL",
+      "id" : "0O98jlCaPzvsoei6U5jfEL",
+      "name" : "Damon Albarn",
+      "type" : "artist",
+      "uri" : "spotify:artist:0O98jlCaPzvsoei6U5jfEL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5SzhltQSSi1HUMi5cveZIZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5SzhltQSSi1HUMi5cveZIZ",
+    "id" : "5SzhltQSSi1HUMi5cveZIZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/833d2b45ee407be24de4ec72edda2a81c7a081ae",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8d96240a7122d86977636d7a219bc62a27a6753e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d084b373168b8f9de1d0eb40006c751c73f8953",
+      "width" : 64
+    } ],
+    "name" : "Everyday Robots",
+    "type" : "album",
+    "uri" : "spotify:album:5SzhltQSSi1HUMi5cveZIZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0O98jlCaPzvsoei6U5jfEL",
+    "id" : "0O98jlCaPzvsoei6U5jfEL",
+    "name" : "Damon Albarn",
+    "type" : "artist",
+    "uri" : "spotify:artist:0O98jlCaPzvsoei6U5jfEL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 239496,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE1301601"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2dLL8ikM6GXMhKX39c12zN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2dLL8ikM6GXMhKX39c12zN",
+  "id" : "2dLL8ikM6GXMhKX39c12zN",
+  "name" : "Everyday Robots",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/20bde3d159f206250eac4b71accbe0b230038506?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2dLL8ikM6GXMhKX39c12zN"
+}

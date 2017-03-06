@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id" : "7bu3H8JO7d0UbMoVzbo70s",
+      "name" : "The Cure",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7qtRliQvQBu5v6LTi3gNDD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7qtRliQvQBu5v6LTi3gNDD",
+    "id" : "7qtRliQvQBu5v6LTi3gNDD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d692e153fd1c928e98a1493100481ff94283c50f",
+      "width" : 633
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3719dcd63017f264f44205ea234d46133621240f",
+      "width" : 297
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e86a60656f03d4f39b30e3112705552df77ac8b8",
+      "width" : 63
+    } ],
+    "name" : "Kiss Me Kiss Me Kiss Me",
+    "type" : "album",
+    "uri" : "spotify:album:7qtRliQvQBu5v6LTi3gNDD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+    "id" : "7bu3H8JO7d0UbMoVzbo70s",
+    "name" : "The Cure",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 292520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10608896"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/717QIXfxQT6WNgsJkWuOxy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/717QIXfxQT6WNgsJkWuOxy",
+  "id" : "717QIXfxQT6WNgsJkWuOxy",
+  "name" : "If Only Tonight We Could Sleep (2006 Remastered LP Version)",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/287f73a0b392def6417d582e78af44847eeba5a5?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:717QIXfxQT6WNgsJkWuOxy"
+}

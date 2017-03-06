@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2RhgnQNC74QoBlaUvT4MEe",
+      "id" : "2RhgnQNC74QoBlaUvT4MEe",
+      "name" : "The Growlers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2RhgnQNC74QoBlaUvT4MEe"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "JP", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0b7iiX6rAdsggW5ERuLWB7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0b7iiX6rAdsggW5ERuLWB7",
+    "id" : "0b7iiX6rAdsggW5ERuLWB7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/12f844b98fd8bc20ad16d2c83fdcfb7751787ea8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c6c758d870f7acbbea075ddf55d547b5ff7a1935",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/053d452277c79d269352cd7bbdb860814da10784",
+      "width" : 64
+    } ],
+    "name" : "Chinese Fountain",
+    "type" : "album",
+    "uri" : "spotify:album:0b7iiX6rAdsggW5ERuLWB7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2RhgnQNC74QoBlaUvT4MEe",
+    "id" : "2RhgnQNC74QoBlaUvT4MEe",
+    "name" : "The Growlers",
+    "type" : "artist",
+    "uri" : "spotify:artist:2RhgnQNC74QoBlaUvT4MEe"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "JP", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 284586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USER81404410"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6L8Ic6HJHrAqwObG3wuaLT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6L8Ic6HJHrAqwObG3wuaLT",
+  "id" : "6L8Ic6HJHrAqwObG3wuaLT",
+  "name" : "Rare Hearts",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9c9c32d72e0c0ea58eaf23da81acc236f3b53dc4?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:6L8Ic6HJHrAqwObG3wuaLT"
+}

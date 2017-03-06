@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YSHzNXSLbulx7H5UTZcoo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2YSHzNXSLbulx7H5UTZcoo",
+      "id" : "2YSHzNXSLbulx7H5UTZcoo",
+      "name" : "Koldbrann",
+      "type" : "artist",
+      "uri" : "spotify:artist:2YSHzNXSLbulx7H5UTZcoo"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3t67EoIaWNiXzixWvdnkTS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3t67EoIaWNiXzixWvdnkTS",
+    "id" : "3t67EoIaWNiXzixWvdnkTS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5f8fda0f8e58b165510e90651a66f2e426160b7e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9e9bdef4dfa30ba79b10d9d5e79f4e886465c589",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b5a123e86214cfe6b5c6e6cfe21001920bc061ab",
+      "width" : 64
+    } ],
+    "name" : "Stigma: På kant med livet",
+    "type" : "album",
+    "uri" : "spotify:album:3t67EoIaWNiXzixWvdnkTS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2YSHzNXSLbulx7H5UTZcoo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2YSHzNXSLbulx7H5UTZcoo",
+    "id" : "2YSHzNXSLbulx7H5UTZcoo",
+    "name" : "Koldbrann",
+    "type" : "artist",
+    "uri" : "spotify:artist:2YSHzNXSLbulx7H5UTZcoo"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 429331,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR33T1383204"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3o4N5IDAfoTOQ8oRH9EuQ9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3o4N5IDAfoTOQ8oRH9EuQ9",
+  "id" : "3o4N5IDAfoTOQ8oRH9EuQ9",
+  "name" : "Avmaktens Isolat",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/12370fc210127674083a343ee434fb78352f7fee?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3o4N5IDAfoTOQ8oRH9EuQ9"
+}

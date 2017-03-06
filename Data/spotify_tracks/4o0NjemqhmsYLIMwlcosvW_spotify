@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0OdUWJ0sBjDrqHygGUXeCF",
+      "id" : "0OdUWJ0sBjDrqHygGUXeCF",
+      "name" : "Band of Horses",
+      "type" : "artist",
+      "uri" : "spotify:artist:0OdUWJ0sBjDrqHygGUXeCF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5uMfshtC2Jwqui0NUyUYIL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5uMfshtC2Jwqui0NUyUYIL",
+    "id" : "5uMfshtC2Jwqui0NUyUYIL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/07fbaee837dda8295adeabc456b4e9af944c9ae0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ecb1247ccee42c5f90b57b709506cb065bafa4d7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3d3277e25634fcac1900740ee46d1f4aaa71118f",
+      "width" : 64
+    } ],
+    "name" : "Everything All The Time",
+    "type" : "album",
+    "uri" : "spotify:album:5uMfshtC2Jwqui0NUyUYIL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0OdUWJ0sBjDrqHygGUXeCF",
+    "id" : "0OdUWJ0sBjDrqHygGUXeCF",
+    "name" : "Band of Horses",
+    "type" : "artist",
+    "uri" : "spotify:artist:0OdUWJ0sBjDrqHygGUXeCF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 321146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB0669004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4o0NjemqhmsYLIMwlcosvW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4o0NjemqhmsYLIMwlcosvW",
+  "id" : "4o0NjemqhmsYLIMwlcosvW",
+  "name" : "The Funeral",
+  "popularity" : 68,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ec0526b1578ca7bb8a753640a78a331c4116360b?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4o0NjemqhmsYLIMwlcosvW"
+}

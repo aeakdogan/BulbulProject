@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+      "id" : "3IYUhFvPQItj6xySrBmZkd",
+      "name" : "Creedence Clearwater Revival",
+      "type" : "artist",
+      "uri" : "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/77Ufm02YB5qgT72qrBFt8P"
+    },
+    "href" : "https://api.spotify.com/v1/albums/77Ufm02YB5qgT72qrBFt8P",
+    "id" : "77Ufm02YB5qgT72qrBFt8P",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b0cfd0cd267aa467ec8292682cced422c715dad5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1d906836209991aef2fda554c6572905281782df",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/85b76321dae195e4bbb32b6f45d3740240e9b4c5",
+      "width" : 64
+    } ],
+    "name" : "Pendulum (40th Anniversary Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:77Ufm02YB5qgT72qrBFt8P"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3IYUhFvPQItj6xySrBmZkd",
+    "id" : "3IYUhFvPQItj6xySrBmZkd",
+    "name" : "Creedence Clearwater Revival",
+    "type" : "artist",
+    "uri" : "spotify:artist:3IYUhFvPQItj6xySrBmZkd"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 160133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R0817643"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4JuJ9ewGWWGy0U3URuXOSI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4JuJ9ewGWWGy0U3URuXOSI",
+  "id" : "4JuJ9ewGWWGy0U3URuXOSI",
+  "name" : "Have You Ever Seen The Rain?",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/00bef872c88c6ea00f47cb0427a93b3373cb3077?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4JuJ9ewGWWGy0U3URuXOSI"
+}

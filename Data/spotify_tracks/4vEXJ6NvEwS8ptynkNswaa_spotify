@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+      "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+      "name" : "Queen",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Q9NOisnaTULM5CZD4rIgZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Q9NOisnaTULM5CZD4rIgZ",
+    "id" : "1Q9NOisnaTULM5CZD4rIgZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6fb624149047efcc8ab09a920e58750b5d503f10",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/622b72a639157786783cffaccfcea7b306051225",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/308fb88d95bee69d2c0d9734431119ba481464a3",
+      "width" : 64
+    } ],
+    "name" : "Queen 40 Limited Edition Collector's Box Set",
+    "type" : "album",
+    "uri" : "spotify:album:1Q9NOisnaTULM5CZD4rIgZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+    "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+    "name" : "Queen",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 7,
+  "duration_ms" : 170800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71029609"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4vEXJ6NvEwS8ptynkNswaa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4vEXJ6NvEwS8ptynkNswaa",
+  "id" : "4vEXJ6NvEwS8ptynkNswaa",
+  "name" : "You're My Best Friend - Remastered 2011",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/80b421aaab4b3cc821a6af67723186558dd75696?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4vEXJ6NvEwS8ptynkNswaa"
+}

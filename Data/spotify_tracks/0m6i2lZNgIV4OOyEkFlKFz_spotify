@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+      "id" : "3koiLjNrgRTNbOwViDipeA",
+      "name" : "Marvin Gaye",
+      "type" : "artist",
+      "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0EM4Q0JUVZ8FNqmT5CI2E7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0EM4Q0JUVZ8FNqmT5CI2E7",
+    "id" : "0EM4Q0JUVZ8FNqmT5CI2E7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c42be76c0aef6ede3d0e843a9d997d2e750981cd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/af62ab3a0747f8399ade6682d0140278739cf867",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6eef840e43053a88f5728ebd5cbe20df3b44697f",
+      "width" : 64
+    } ],
+    "name" : "I Want You",
+    "type" : "album",
+    "uri" : "spotify:album:0EM4Q0JUVZ8FNqmT5CI2E7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+    "id" : "3koiLjNrgRTNbOwViDipeA",
+    "name" : "Marvin Gaye",
+    "type" : "artist",
+    "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 279733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO17600050"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0m6i2lZNgIV4OOyEkFlKFz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0m6i2lZNgIV4OOyEkFlKFz",
+  "id" : "0m6i2lZNgIV4OOyEkFlKFz",
+  "name" : "After The Dance - Vocal",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/27210d5a4671e79839ee54fd39572ef0f2c163e9?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0m6i2lZNgIV4OOyEkFlKFz"
+}

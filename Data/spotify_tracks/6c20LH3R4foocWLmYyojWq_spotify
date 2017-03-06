@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+      "id" : "2y8Jo9CKhJvtfeKOsYzRdT",
+      "name" : "Rod Stewart",
+      "type" : "artist",
+      "uri" : "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3fa5cl6Nplripk1h9z1SFv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3fa5cl6Nplripk1h9z1SFv",
+    "id" : "3fa5cl6Nplripk1h9z1SFv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/394e74355a1c27ff41ea47ba0c25190cc663fe96",
+      "width" : 632
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e4e6ba39c623ae9ab647f2fc8586dfd23daaabd5",
+      "width" : 296
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/98bf4e67a1c64fc0ca0a9a3e7e805061d523de7b",
+      "width" : 63
+    } ],
+    "name" : "Every Picture Tells A Story",
+    "type" : "album",
+    "uri" : "spotify:album:3fa5cl6Nplripk1h9z1SFv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2y8Jo9CKhJvtfeKOsYzRdT",
+    "id" : "2y8Jo9CKhJvtfeKOsYzRdT",
+    "name" : "Rod Stewart",
+    "type" : "artist",
+    "uri" : "spotify:artist:2y8Jo9CKhJvtfeKOsYzRdT"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 350266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUMG9900646"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6c20LH3R4foocWLmYyojWq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6c20LH3R4foocWLmYyojWq",
+  "id" : "6c20LH3R4foocWLmYyojWq",
+  "name" : "Maggie May",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9e3adb72c2b7625b9e0292cfb8d8ada7105abd2d?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6c20LH3R4foocWLmYyojWq"
+}

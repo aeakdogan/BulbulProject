@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kDMoHTcBICPILP2aclPWZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kDMoHTcBICPILP2aclPWZ",
+      "id" : "6kDMoHTcBICPILP2aclPWZ",
+      "name" : "Mew",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kDMoHTcBICPILP2aclPWZ"
+    } ],
+    "available_markets" : [ "AD", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "EE", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "NO", "PL", "PT", "SE", "SK", "TR", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0CUfteeG6R9RogZKJwvg4Z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0CUfteeG6R9RogZKJwvg4Z",
+    "id" : "0CUfteeG6R9RogZKJwvg4Z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a869e203338424608676199df1bcf958b2d41585",
+      "width" : 627
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a26e78a032ace66707292c2a1936c7f05d9ae106",
+      "width" : 294
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/390eb1dc4fb0573d270f12869f1eb03c25895f46",
+      "width" : 63
+    } ],
+    "name" : "Eggs Are Funny",
+    "type" : "album",
+    "uri" : "spotify:album:0CUfteeG6R9RogZKJwvg4Z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kDMoHTcBICPILP2aclPWZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kDMoHTcBICPILP2aclPWZ",
+    "id" : "6kDMoHTcBICPILP2aclPWZ",
+    "name" : "Mew",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kDMoHTcBICPILP2aclPWZ"
+  } ],
+  "available_markets" : [ "AD", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "EE", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "NO", "PL", "PT", "SE", "SK", "TR", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 530546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBM0202165"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4neF4tMNds9Nz1EZ2Rduln"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4neF4tMNds9Nz1EZ2Rduln",
+  "id" : "4neF4tMNds9Nz1EZ2Rduln",
+  "name" : "Comforting Sounds",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/85a354a0f288f7f3d298fb77ae5acab5547ae901?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:4neF4tMNds9Nz1EZ2Rduln"
+}

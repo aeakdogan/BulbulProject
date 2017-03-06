@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+      "id" : "3FUY2gzHeIiaesXtOAdB7A",
+      "name" : "Train",
+      "type" : "artist",
+      "uri" : "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6j6Zgm7vzAZegr48UppFVT",
+    "id" : "6j6Zgm7vzAZegr48UppFVT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1ec11d65250e4b38ea7f5d90870d2c9bd6d13074",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/37d3862cbb327579cfc2b0df0343e070ecd5e5ad",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bd8de1d87cb8cbedd89435ee74effa22b38fce82",
+      "width" : 64
+    } ],
+    "name" : "Drops Of Jupiter",
+    "type" : "album",
+    "uri" : "spotify:album:6j6Zgm7vzAZegr48UppFVT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A",
+    "id" : "3FUY2gzHeIiaesXtOAdB7A",
+    "name" : "Train",
+    "type" : "artist",
+    "uri" : "spotify:artist:3FUY2gzHeIiaesXtOAdB7A"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 259933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10019751"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2hKdd3qO7cWr2Jo0Bcs0MA",
+  "id" : "2hKdd3qO7cWr2Jo0Bcs0MA",
+  "name" : "Drops of Jupiter",
+  "popularity" : 72,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dd63090aa1fc20e712ec34f0240d25557101ba79?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2hKdd3qO7cWr2Jo0Bcs0MA"
+}

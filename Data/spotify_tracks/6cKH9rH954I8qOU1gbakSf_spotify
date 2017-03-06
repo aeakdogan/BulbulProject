@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/11TplWqOPQBTmg2eiSLt1m",
+      "id" : "11TplWqOPQBTmg2eiSLt1m",
+      "name" : "Tiziano Ferro",
+      "type" : "artist",
+      "uri" : "spotify:artist:11TplWqOPQBTmg2eiSLt1m"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2mPb3y5qZhe9TeO7icY3T8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2mPb3y5qZhe9TeO7icY3T8",
+    "id" : "2mPb3y5qZhe9TeO7icY3T8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cbf014c1acc30e420f048e84a7ffce2937b99e75",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a58ea7d027ee0d49eb9bc566163c741fe53e7161",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/74ba8b1614ba1e70906889682380e2592396fa70",
+      "width" : 64
+    } ],
+    "name" : "TZN -The Best Of Tiziano Ferro",
+    "type" : "album",
+    "uri" : "spotify:album:2mPb3y5qZhe9TeO7icY3T8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+    },
+    "href" : "https://api.spotify.com/v1/artists/11TplWqOPQBTmg2eiSLt1m",
+    "id" : "11TplWqOPQBTmg2eiSLt1m",
+    "name" : "Tiziano Ferro",
+    "type" : "artist",
+    "uri" : "spotify:artist:11TplWqOPQBTmg2eiSLt1m"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 212413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLEZ40800001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6cKH9rH954I8qOU1gbakSf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6cKH9rH954I8qOU1gbakSf",
+  "id" : "6cKH9rH954I8qOU1gbakSf",
+  "name" : "Alla Mia Età",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/60e1a8a97eb37b15cdefb80965257003741f4fec?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:6cKH9rH954I8qOU1gbakSf"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g8Jqb5JMfv92eB2r0awTN",
+      "id" : "6g8Jqb5JMfv92eB2r0awTN",
+      "name" : "Arab Strap",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g8Jqb5JMfv92eB2r0awTN"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7EPg7ViX41MJPagOjqXjwn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7EPg7ViX41MJPagOjqXjwn",
+    "id" : "7EPg7ViX41MJPagOjqXjwn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8761432bb834d0be079f300955733c9df4d104c4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b1010fd6ad3f96d94e127a54c93dac9f819091d4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/26634913427d83810596216848dc34a278885739",
+      "width" : 64
+    } ],
+    "name" : "Philophobia",
+    "type" : "album",
+    "uri" : "spotify:album:7EPg7ViX41MJPagOjqXjwn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6g8Jqb5JMfv92eB2r0awTN",
+    "id" : "6g8Jqb5JMfv92eB2r0awTN",
+    "name" : "Arab Strap",
+    "type" : "artist",
+    "uri" : "spotify:artist:6g8Jqb5JMfv92eB2r0awTN"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 387600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCGR9840004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4vxsj0J9qNCclCweMf8RXQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4vxsj0J9qNCclCweMf8RXQ",
+  "id" : "4vxsj0J9qNCclCweMf8RXQ",
+  "name" : "New Birds",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/020c2169b118a1cbdd7be94e1e054982b07d44cb?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4vxsj0J9qNCclCweMf8RXQ"
+}

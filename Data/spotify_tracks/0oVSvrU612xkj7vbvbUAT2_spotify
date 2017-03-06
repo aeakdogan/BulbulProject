@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/50OBIvFZb1J8Cz5hyyHJdj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/50OBIvFZb1J8Cz5hyyHJdj",
+    "id" : "50OBIvFZb1J8Cz5hyyHJdj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c0f9c523b809633ed24707a9dc0ebb8878022e53",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f2850732596d1f05da73ffbe82d0ed2ce6b9cd1f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9884def1a5aac72639e60005cf8a6e6e1a8ec738",
+      "width" : 64
+    } ],
+    "name" : "Greatest Hits",
+    "type" : "album",
+    "uri" : "spotify:album:50OBIvFZb1J8Cz5hyyHJdj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+    "id" : "3eqjTLE0HfPfh78zjh6TqT",
+    "name" : "Bruce Springsteen",
+    "type" : "artist",
+    "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 195293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19303834"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0oVSvrU612xkj7vbvbUAT2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0oVSvrU612xkj7vbvbUAT2",
+  "id" : "0oVSvrU612xkj7vbvbUAT2",
+  "name" : "Streets of Philadelphia",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e2b73351e51958a8626ab30158677fb9f4906a46?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:0oVSvrU612xkj7vbvbUAT2"
+}

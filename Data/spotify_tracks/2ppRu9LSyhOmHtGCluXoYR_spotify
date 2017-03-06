@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4C6aTpsTzZASFFVwa7uhfL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4C6aTpsTzZASFFVwa7uhfL",
+      "id" : "4C6aTpsTzZASFFVwa7uhfL",
+      "name" : "Saturday Looks Good To Me",
+      "type" : "artist",
+      "uri" : "spotify:artist:4C6aTpsTzZASFFVwa7uhfL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4TcGoTS0cE0JygUM7H583y"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4TcGoTS0cE0JygUM7H583y",
+    "id" : "4TcGoTS0cE0JygUM7H583y",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5b03c075dd7b6970bd1c5882991e70a494498399",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ffe2c131e650adc1256f86c92c6eaa32dee47b42",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/24d21154ad9037c99993f31cd19980f08882c819",
+      "width" : 64
+    } ],
+    "name" : "Fill Up the Room",
+    "type" : "album",
+    "uri" : "spotify:album:4TcGoTS0cE0JygUM7H583y"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4C6aTpsTzZASFFVwa7uhfL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4C6aTpsTzZASFFVwa7uhfL",
+    "id" : "4C6aTpsTzZASFFVwa7uhfL",
+    "name" : "Saturday Looks Good To Me",
+    "type" : "artist",
+    "uri" : "spotify:artist:4C6aTpsTzZASFFVwa7uhfL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 325346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USK110718206"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ppRu9LSyhOmHtGCluXoYR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ppRu9LSyhOmHtGCluXoYR",
+  "id" : "2ppRu9LSyhOmHtGCluXoYR",
+  "name" : "Money In the Afterlife",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/85c92901ac1ed495eb70c4563a0af59ddb4f2b94?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2ppRu9LSyhOmHtGCluXoYR"
+}

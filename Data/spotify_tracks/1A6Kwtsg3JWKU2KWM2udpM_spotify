@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5",
+      "id" : "6i6WlGzQtXtz7GcC5H5st5",
+      "name" : "10cc",
+      "type" : "artist",
+      "uri" : "spotify:artist:6i6WlGzQtXtz7GcC5H5st5"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0NdAeRKEfxR075pjL5Ecjl",
+    "id" : "0NdAeRKEfxR075pjL5Ecjl",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/62a5303731398a4526a8f7a85fe113a4ff27cc64",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/817cff8e02a41e841a038770c0516a9e4e7aa2ce",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/590a18764caa289f31e981e4e5b8d016c1db2185",
+      "width" : 64
+    } ],
+    "name" : "20th Century Masters: The Millennium Collection: Best Of 10CC",
+    "type" : "album",
+    "uri" : "spotify:album:0NdAeRKEfxR075pjL5Ecjl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6i6WlGzQtXtz7GcC5H5st5",
+    "id" : "6i6WlGzQtXtz7GcC5H5st5",
+    "name" : "10cc",
+    "type" : "artist",
+    "uri" : "spotify:artist:6i6WlGzQtXtz7GcC5H5st5"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 368226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF087500001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1A6Kwtsg3JWKU2KWM2udpM",
+  "id" : "1A6Kwtsg3JWKU2KWM2udpM",
+  "name" : "I'm Not In Love",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/48973743d8c823115000c4d4212e5a7802ec33d9?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1A6Kwtsg3JWKU2KWM2udpM"
+}

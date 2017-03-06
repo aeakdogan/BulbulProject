@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/31GFg2x20JkksUlQxN9BMe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/31GFg2x20JkksUlQxN9BMe",
+      "id" : "31GFg2x20JkksUlQxN9BMe",
+      "name" : "Monkey3",
+      "type" : "artist",
+      "uri" : "spotify:artist:31GFg2x20JkksUlQxN9BMe"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1AjSIOFGyTKfZDxctvHGCl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1AjSIOFGyTKfZDxctvHGCl",
+    "id" : "1AjSIOFGyTKfZDxctvHGCl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2b77e541bf09dddc675c1ae6c4107140652fc771",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3edcafd337ff751c1eee66e2d5d56cc90fa9d026",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/408d340328ad5879a344cc44e1b1ede5e4f08770",
+      "width" : 64
+    } ],
+    "name" : "The 5th Sun",
+    "type" : "album",
+    "uri" : "spotify:album:1AjSIOFGyTKfZDxctvHGCl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/31GFg2x20JkksUlQxN9BMe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/31GFg2x20JkksUlQxN9BMe",
+    "id" : "31GFg2x20JkksUlQxN9BMe",
+    "name" : "Monkey3",
+    "type" : "artist",
+    "uri" : "spotify:artist:31GFg2x20JkksUlQxN9BMe"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 880869,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATN261349901"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1ahicTmLOCvCQ7HRDgEqoL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1ahicTmLOCvCQ7HRDgEqoL",
+  "id" : "1ahicTmLOCvCQ7HRDgEqoL",
+  "name" : "Icarus",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4dc5995bc5d90aa62607531212c4ec3937f8303e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1ahicTmLOCvCQ7HRDgEqoL"
+}

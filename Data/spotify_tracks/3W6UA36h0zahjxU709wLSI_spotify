@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3uT7nEkZwWc2GBiqUZGoOe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3uT7nEkZwWc2GBiqUZGoOe",
+      "id" : "3uT7nEkZwWc2GBiqUZGoOe",
+      "name" : "Aqualung",
+      "type" : "artist",
+      "uri" : "spotify:artist:3uT7nEkZwWc2GBiqUZGoOe"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2w1zxP11Ec4G3fF92ErPyp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2w1zxP11Ec4G3fF92ErPyp",
+    "id" : "2w1zxP11Ec4G3fF92ErPyp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4658b810626112f36a23c320f789a6866d384455",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a87750254ae0651b3a285df7f93717c3cf3a616c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7220776ed72a5cd4fcfc848e50b9792788bfc3b6",
+      "width" : 64
+    } ],
+    "name" : "Strange & Beautiful",
+    "type" : "album",
+    "uri" : "spotify:album:2w1zxP11Ec4G3fF92ErPyp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3uT7nEkZwWc2GBiqUZGoOe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3uT7nEkZwWc2GBiqUZGoOe",
+    "id" : "3uT7nEkZwWc2GBiqUZGoOe",
+    "name" : "Aqualung",
+    "type" : "artist",
+    "uri" : "spotify:artist:3uT7nEkZwWc2GBiqUZGoOe"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 241360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10414851"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3W6UA36h0zahjxU709wLSI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3W6UA36h0zahjxU709wLSI",
+  "id" : "3W6UA36h0zahjxU709wLSI",
+  "name" : "Brighter Than Sunshine",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4390455f17ebad1ee20cf4f8bf665e218eb23e06?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3W6UA36h0zahjxU709wLSI"
+}

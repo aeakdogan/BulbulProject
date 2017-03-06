@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39iHRO9MH9To3gjW7wqaW1",
+      "id" : "39iHRO9MH9To3gjW7wqaW1",
+      "name" : "Lalo Schifrin",
+      "type" : "artist",
+      "uri" : "spotify:artist:39iHRO9MH9To3gjW7wqaW1"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4BzVnUzQTDqPpDmX78K5DS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4BzVnUzQTDqPpDmX78K5DS",
+    "id" : "4BzVnUzQTDqPpDmX78K5DS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/28135873ad4dc3ac73a08458a35a02dfa65a748c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5b6dabb5194c58876c51f31d37f4bec41f43f63b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bb68ee3689fded956b65acb9135944d5c7db14c4",
+      "width" : 64
+    } ],
+    "name" : "Black Widow (Bonus Track Version)",
+    "type" : "album",
+    "uri" : "spotify:album:4BzVnUzQTDqPpDmX78K5DS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/39iHRO9MH9To3gjW7wqaW1",
+    "id" : "39iHRO9MH9To3gjW7wqaW1",
+    "name" : "Lalo Schifrin",
+    "type" : "artist",
+    "uri" : "spotify:artist:39iHRO9MH9To3gjW7wqaW1"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 361506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM17600133"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0422JjTDbL43vslze9YTit"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0422JjTDbL43vslze9YTit",
+  "id" : "0422JjTDbL43vslze9YTit",
+  "name" : "Jaws",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/264c705b63d2bb3078f17516225c4ada134719b9?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0422JjTDbL43vslze9YTit"
+}

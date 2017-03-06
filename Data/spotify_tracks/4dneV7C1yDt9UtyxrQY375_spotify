@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id" : "7bu3H8JO7d0UbMoVzbo70s",
+      "name" : "The Cure",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7gPql7GFpBMOxeO80vMMsC",
+    "id" : "7gPql7GFpBMOxeO80vMMsC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6b2399139aeccbe60efdb954e99340fb7ae5416f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/712875a727f2183e48c3f4e124d3f68b28ed8028",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3e0e326aae4b0ab6d7a595870f21fd3c17e39c78",
+      "width" : 64
+    } ],
+    "name" : "Three Imaginary Boys [Deluxe Edition]",
+    "type" : "album",
+    "uri" : "spotify:album:7gPql7GFpBMOxeO80vMMsC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+    "id" : "7bu3H8JO7d0UbMoVzbo70s",
+    "name" : "The Cure",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 157533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10413404"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4dneV7C1yDt9UtyxrQY375",
+  "id" : "4dneV7C1yDt9UtyxrQY375",
+  "name" : "Boys Don't Cry [Single Version]",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cc6ee76410bd3ff12869a79e05e47e0fe467bee7?cid=null",
+  "track_number" : 29,
+  "type" : "track",
+  "uri" : "spotify:track:4dneV7C1yDt9UtyxrQY375"
+}

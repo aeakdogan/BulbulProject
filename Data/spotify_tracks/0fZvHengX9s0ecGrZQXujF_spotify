@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/568ZhdwyaiCyOGJRtNYhWf",
+      "id" : "568ZhdwyaiCyOGJRtNYhWf",
+      "name" : "Deep Purple",
+      "type" : "artist",
+      "uri" : "spotify:artist:568ZhdwyaiCyOGJRtNYhWf"
+    } ],
+    "available_markets" : [ "CA", "JP", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2J8z3SoDEazEDZIvouXph4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2J8z3SoDEazEDZIvouXph4",
+    "id" : "2J8z3SoDEazEDZIvouXph4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d0a53ef653af802168a75db7ab421911d56ce20f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c27360e836c5bad4e9d09e8b2ea859d1f45593b6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a8e3abdcd52da75c89fab728a51cb503d56c61d8",
+      "width" : 64
+    } ],
+    "name" : "Rhino Hi-Five: Deep Purple",
+    "type" : "album",
+    "uri" : "spotify:album:2J8z3SoDEazEDZIvouXph4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/568ZhdwyaiCyOGJRtNYhWf",
+    "id" : "568ZhdwyaiCyOGJRtNYhWf",
+    "name" : "Deep Purple",
+    "type" : "artist",
+    "uri" : "spotify:artist:568ZhdwyaiCyOGJRtNYhWf"
+  } ],
+  "available_markets" : [ "CA", "JP", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 207466,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19903559"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0fZvHengX9s0ecGrZQXujF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0fZvHengX9s0ecGrZQXujF",
+  "id" : "0fZvHengX9s0ecGrZQXujF",
+  "name" : "Black Night",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/64ef526745f1a6b86aa8a07c75553adc2ac3882f?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0fZvHengX9s0ecGrZQXujF"
+}

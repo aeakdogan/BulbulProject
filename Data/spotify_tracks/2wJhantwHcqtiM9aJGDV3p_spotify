@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2DoQBgPsB9AdmWpIa2hUSz",
+      "id" : "2DoQBgPsB9AdmWpIa2hUSz",
+      "name" : "Fennesz",
+      "type" : "artist",
+      "uri" : "spotify:artist:2DoQBgPsB9AdmWpIa2hUSz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ndYL76BaiwMAFdrpZsM5C"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ndYL76BaiwMAFdrpZsM5C",
+      "id" : "6ndYL76BaiwMAFdrpZsM5C",
+      "name" : "Main",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ndYL76BaiwMAFdrpZsM5C"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4EzzZ7SW4ZpupXGJDQkclL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4EzzZ7SW4ZpupXGJDQkclL",
+    "id" : "4EzzZ7SW4ZpupXGJDQkclL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e33af9feec323a800611c7816143f49d4aa5dca7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b2ba32609689a951216a8f6506005b28d2a84bde",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d5a7419ee338490805279f5fac6f32c915fa24f1",
+      "width" : 64
+    } ],
+    "name" : "Split Series #15",
+    "type" : "album",
+    "uri" : "spotify:album:4EzzZ7SW4ZpupXGJDQkclL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2DoQBgPsB9AdmWpIa2hUSz",
+    "id" : "2DoQBgPsB9AdmWpIa2hUSz",
+    "name" : "Fennesz",
+    "type" : "artist",
+    "uri" : "spotify:artist:2DoQBgPsB9AdmWpIa2hUSz"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 181480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDCA0901488"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2wJhantwHcqtiM9aJGDV3p"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2wJhantwHcqtiM9aJGDV3p",
+  "id" : "2wJhantwHcqtiM9aJGDV3p",
+  "name" : "47 Blues",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/09957ee07d827045dbc34b28febaf1d36ed528ef?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2wJhantwHcqtiM9aJGDV3p"
+}

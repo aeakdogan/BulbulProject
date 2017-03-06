@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw",
+      "id" : "3X0tJzVYoWlfjLYI0Ridsw",
+      "name" : "Suzanne Vega",
+      "type" : "artist",
+      "uri" : "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0akO8YvhZ9VKqN2I7gBSxX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0akO8YvhZ9VKqN2I7gBSxX",
+    "id" : "0akO8YvhZ9VKqN2I7gBSxX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1fbf681121e9ed83d0dcbfc8a3e25096bb9f483e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3457f3d9d9c2055e59388fabdda568b2a8d25fce",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5fbfb62a3b57a605e81bf3f96cb15c58a47f35d7",
+      "width" : 64
+    } ],
+    "name" : "Close-Up, Vol. 2: People & Places",
+    "type" : "album",
+    "uri" : "spotify:album:0akO8YvhZ9VKqN2I7gBSxX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw",
+    "id" : "3X0tJzVYoWlfjLYI0Ridsw",
+    "name" : "Suzanne Vega",
+    "type" : "artist",
+    "uri" : "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 301306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA6W1025210"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5HRc4tAtYihjUA5BMLNz0V"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5HRc4tAtYihjUA5BMLNz0V",
+  "id" : "5HRc4tAtYihjUA5BMLNz0V",
+  "name" : "Ironbound/Fancy Poultry",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fd07c9d170536b2c2a1e658447fbe794612d7838?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:5HRc4tAtYihjUA5BMLNz0V"
+}

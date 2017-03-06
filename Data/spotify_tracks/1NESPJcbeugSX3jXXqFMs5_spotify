@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rWh48V4824rLBdMja6sO8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5rWh48V4824rLBdMja6sO8",
+      "id" : "5rWh48V4824rLBdMja6sO8",
+      "name" : "Strike Anywhere",
+      "type" : "artist",
+      "uri" : "spotify:artist:5rWh48V4824rLBdMja6sO8"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4YMOOAm4urO7C6U27qgSvA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4YMOOAm4urO7C6U27qgSvA",
+    "id" : "4YMOOAm4urO7C6U27qgSvA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3e13ff1425f63c4a24aabe39c39bc8c250065547",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/07aa3f57043de6d6643d2b63ff4f946090935dec",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/60053ae2379a0640c87be07e3cc41e4e3de3ea84",
+      "width" : 64
+    } ],
+    "name" : "Dead FM",
+    "type" : "album",
+    "uri" : "spotify:album:4YMOOAm4urO7C6U27qgSvA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5rWh48V4824rLBdMja6sO8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5rWh48V4824rLBdMja6sO8",
+    "id" : "5rWh48V4824rLBdMja6sO8",
+    "name" : "Strike Anywhere",
+    "type" : "artist",
+    "uri" : "spotify:artist:5rWh48V4824rLBdMja6sO8"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 125733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFW40670612"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1NESPJcbeugSX3jXXqFMs5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1NESPJcbeugSX3jXXqFMs5",
+  "id" : "1NESPJcbeugSX3jXXqFMs5",
+  "name" : "Iron Trees",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/00dae6771d7fb98e99797c6c3ff01e7ee49798e4?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:1NESPJcbeugSX3jXXqFMs5"
+}

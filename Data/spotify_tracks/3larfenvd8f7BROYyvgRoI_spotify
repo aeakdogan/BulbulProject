@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1OmdWpAh1pucAuZPzJaxIJ",
+      "id" : "1OmdWpAh1pucAuZPzJaxIJ",
+      "name" : "Calexico",
+      "type" : "artist",
+      "uri" : "spotify:artist:1OmdWpAh1pucAuZPzJaxIJ"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HN", "ID", "MX", "NI", "PA", "PE", "PH", "PY", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4KAtAtRKgOyUARjLurQ46w"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4KAtAtRKgOyUARjLurQ46w",
+    "id" : "4KAtAtRKgOyUARjLurQ46w",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/482bb63d7253b25adde65abfca29b43fe99ddbed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bba57362e5dd9ccb5cf5da177dfca4a02d917384",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bd2b7e08692138927490822c4b538c97739b07af",
+      "width" : 64
+    } ],
+    "name" : "Algiers (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:4KAtAtRKgOyUARjLurQ46w"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1OmdWpAh1pucAuZPzJaxIJ",
+    "id" : "1OmdWpAh1pucAuZPzJaxIJ",
+    "name" : "Calexico",
+    "type" : "artist",
+    "uri" : "spotify:artist:1OmdWpAh1pucAuZPzJaxIJ"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HN", "ID", "MX", "NI", "PA", "PE", "PH", "PY", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 233200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP41226005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3larfenvd8f7BROYyvgRoI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3larfenvd8f7BROYyvgRoI",
+  "id" : "3larfenvd8f7BROYyvgRoI",
+  "name" : "Para",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7388e0ab4c8ee65cf281aa1e1d4e9e2291d8fe24?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3larfenvd8f7BROYyvgRoI"
+}

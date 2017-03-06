@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6RZUqkomCmb8zCRqc9eznB",
+      "id" : "6RZUqkomCmb8zCRqc9eznB",
+      "name" : "Placebo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6RZUqkomCmb8zCRqc9eznB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2cDDG5rnwEgjNL8Q0cO9Zd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2cDDG5rnwEgjNL8Q0cO9Zd",
+    "id" : "2cDDG5rnwEgjNL8Q0cO9Zd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4c6018671d59dcfb5e7f4bf43f9e4fbefc1652d0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e52867d8912176821310d19d5696590951f8f62a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4afec4b730f59471de5657a8918dcfa8fab8b5ce",
+      "width" : 64
+    } ],
+    "name" : "Without You I'm Nothing",
+    "type" : "album",
+    "uri" : "spotify:album:2cDDG5rnwEgjNL8Q0cO9Zd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6RZUqkomCmb8zCRqc9eznB",
+    "id" : "6RZUqkomCmb8zCRqc9eznB",
+    "name" : "Placebo",
+    "type" : "artist",
+    "uri" : "spotify:artist:6RZUqkomCmb8zCRqc9eznB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 345266,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBAAA9820461"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2t8aD5qhFkocYhbyEvDBT1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2t8aD5qhFkocYhbyEvDBT1",
+  "id" : "2t8aD5qhFkocYhbyEvDBT1",
+  "name" : "My Sweet Prince",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/af41f30f59bc76ef61e19d7aaa9b91ca3809814b?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2t8aD5qhFkocYhbyEvDBT1"
+}

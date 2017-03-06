@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KyCXNSa7ZMb5LydfKbLG3",
+      "id" : "0KyCXNSa7ZMb5LydfKbLG3",
+      "name" : "David Lee Roth",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KyCXNSa7ZMb5LydfKbLG3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Ali88C44gQdI065upsgKU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Ali88C44gQdI065upsgKU",
+    "id" : "0Ali88C44gQdI065upsgKU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c28ed92c287dc16fa86e87f074a050f422d63dcb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a4fdcf617a1fdcdd4b5484a04a5d4959a1a2174c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/26a7d8557742baf97db11a3fb63e79fdad36500f",
+      "width" : 64
+    } ],
+    "name" : "Eat 'Em And Smile",
+    "type" : "album",
+    "uri" : "spotify:album:0Ali88C44gQdI065upsgKU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0KyCXNSa7ZMb5LydfKbLG3",
+    "id" : "0KyCXNSa7ZMb5LydfKbLG3",
+    "name" : "David Lee Roth",
+    "type" : "artist",
+    "uri" : "spotify:artist:0KyCXNSa7ZMb5LydfKbLG3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 228453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10101440"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Fh5nmTu6TEk0ze8QAU7og",
+  "id" : "5Fh5nmTu6TEk0ze8QAU7og",
+  "name" : "Yankee Rose",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4605a436d2a96394a4836344ee346365312022e7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5Fh5nmTu6TEk0ze8QAU7og"
+}

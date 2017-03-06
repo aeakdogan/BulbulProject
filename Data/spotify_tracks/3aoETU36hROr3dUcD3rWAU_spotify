@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mRvHwLGMJPY1Cb5p7BS2W"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mRvHwLGMJPY1Cb5p7BS2W",
+      "id" : "3mRvHwLGMJPY1Cb5p7BS2W",
+      "name" : "Joker / 2000F & J Kamata",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mRvHwLGMJPY1Cb5p7BS2W"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1PWFYlLILwnVNfPgS10h0h"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1PWFYlLILwnVNfPgS10h0h",
+    "id" : "1PWFYlLILwnVNfPgS10h0h",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/75d6dd7f69d49d8faf3cf13aff501aad40913b61",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a61858f20becbddb0043e879ddb77b431421af96",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8e67fe7b25af9d22487a6eeb9db2a60be52a98e8",
+      "width" : 64
+    } ],
+    "name" : "Digidesign / You Don't Know What Love Is",
+    "type" : "album",
+    "uri" : "spotify:album:1PWFYlLILwnVNfPgS10h0h"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6gR09SyPqnY8gSd7Ls2TDK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6gR09SyPqnY8gSd7Ls2TDK",
+    "id" : "6gR09SyPqnY8gSd7Ls2TDK",
+    "name" : "2000F & J Kamata",
+    "type" : "artist",
+    "uri" : "spotify:artist:6gR09SyPqnY8gSd7Ls2TDK"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 346600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBLZC0900002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3aoETU36hROr3dUcD3rWAU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3aoETU36hROr3dUcD3rWAU",
+  "id" : "3aoETU36hROr3dUcD3rWAU",
+  "name" : "You Dont Know What Love Is",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6bd344082f074f6936e0d389d927e11da8f1e80b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3aoETU36hROr3dUcD3rWAU"
+}

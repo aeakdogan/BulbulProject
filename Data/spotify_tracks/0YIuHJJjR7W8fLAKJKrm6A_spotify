@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+      "id" : "3OsRAKCvk37zwYcnzRf5XF",
+      "name" : "Moby",
+      "type" : "artist",
+      "uri" : "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5RBFmzAGIc3KBTAwP7Oe6H"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5RBFmzAGIc3KBTAwP7Oe6H",
+    "id" : "5RBFmzAGIc3KBTAwP7Oe6H",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2f9dbccfba4902689bc806acec0bbec029ad6e87",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b56be884c7962a414f568612b93da0ff6ba9db6a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bd62e348004237e335291bec33458f02a5431f94",
+      "width" : 64
+    } ],
+    "name" : "Wait for Me (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:5RBFmzAGIc3KBTAwP7Oe6H"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+    "id" : "3OsRAKCvk37zwYcnzRf5XF",
+    "name" : "Moby",
+    "type" : "artist",
+    "uri" : "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 195546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB3AD0910003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0YIuHJJjR7W8fLAKJKrm6A"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0YIuHJJjR7W8fLAKJKrm6A",
+  "id" : "0YIuHJJjR7W8fLAKJKrm6A",
+  "name" : "Shot In the Back of the Head",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f20f0dca23ae679e35f4d93601d8b8d2f7ec641f?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0YIuHJJjR7W8fLAKJKrm6A"
+}

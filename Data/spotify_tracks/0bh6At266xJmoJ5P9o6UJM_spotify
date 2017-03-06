@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a",
+      "id" : "3hE8S8ohRErocpkY7uJW4a",
+      "name" : "Within Temptation",
+      "type" : "artist",
+      "uri" : "spotify:artist:3hE8S8ohRErocpkY7uJW4a"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7BVYAnGLAZF7SFYYl4Zh8t"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7BVYAnGLAZF7SFYYl4Zh8t",
+    "id" : "7BVYAnGLAZF7SFYYl4Zh8t",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/76505543ef48fec95f5141df9f7c9c6eea856934",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/8f9d9bf8b26d45fd99a60da03deb211e843d1950",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/99b92f5a37a7a553ddc491e326e9ea9600449e54",
+      "width" : 64
+    } ],
+    "name" : "The Heart Of Everything",
+    "type" : "album",
+    "uri" : "spotify:album:7BVYAnGLAZF7SFYYl4Zh8t"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3hE8S8ohRErocpkY7uJW4a",
+    "id" : "3hE8S8ohRErocpkY7uJW4a",
+    "name" : "Within Temptation",
+    "type" : "artist",
+    "uri" : "spotify:artist:3hE8S8ohRErocpkY7uJW4a"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 256626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLR260600015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0bh6At266xJmoJ5P9o6UJM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0bh6At266xJmoJ5P9o6UJM",
+  "id" : "0bh6At266xJmoJ5P9o6UJM",
+  "name" : "Our Solemn Hour",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c9b4e7d20989b95faf5e1a3f1dfa6b5b16084fca?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0bh6At266xJmoJ5P9o6UJM"
+}

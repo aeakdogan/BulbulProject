@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+      "id" : "12Chz98pHFMPJEknJQMWvI",
+      "name" : "Muse",
+      "type" : "artist",
+      "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3KuXEGcqLcnEYWnn3OEGy0",
+    "id" : "3KuXEGcqLcnEYWnn3OEGy0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/59fbbabeecaade686c44c99e5d1102130556bba1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ca0f14d8190f1cfc7183884a65af00ccd3e2301e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/44b74728e87b87c44f91f505758cad882573d7ea",
+      "width" : 64
+    } ],
+    "name" : "The 2nd Law",
+    "type" : "album",
+    "uri" : "spotify:album:3KuXEGcqLcnEYWnn3OEGy0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+    "id" : "12Chz98pHFMPJEknJQMWvI",
+    "name" : "Muse",
+    "type" : "artist",
+    "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 184200,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBAHT1200391"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1tjHKKI0r82IB5KL29whHs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1tjHKKI0r82IB5KL29whHs",
+  "id" : "1tjHKKI0r82IB5KL29whHs",
+  "name" : "Panic Station",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/843ccc65871c883e914fe36f14e46c82c7c35ed7?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1tjHKKI0r82IB5KL29whHs"
+}

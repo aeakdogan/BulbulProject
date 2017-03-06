@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw",
+      "id" : "07XSN3sPlIlB2L2XNcTwJw",
+      "name" : "KISS",
+      "type" : "artist",
+      "uri" : "spotify:artist:07XSN3sPlIlB2L2XNcTwJw"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0NjpmoajQlllfKH9FaNliD",
+    "id" : "0NjpmoajQlllfKH9FaNliD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1a152b5a1b70ee75cadfba410b090af9c4af9675",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d89813fa5676a3b57f5d7acacf92936c4b9a5e23",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8c6a98e42316f1cc7a87966dd321e1f82b0aaa8a",
+      "width" : 64
+    } ],
+    "name" : "Kiss (Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:0NjpmoajQlllfKH9FaNliD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/07XSN3sPlIlB2L2XNcTwJw",
+    "id" : "07XSN3sPlIlB2L2XNcTwJw",
+    "name" : "KISS",
+    "type" : "artist",
+    "uri" : "spotify:artist:07XSN3sPlIlB2L2XNcTwJw"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 192333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR37409126"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0UCg6lnG2MXpuEpf8Pk1MV",
+  "id" : "0UCg6lnG2MXpuEpf8Pk1MV",
+  "name" : "Strutter",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7f8bfc92d583da4de4936af72d9ec6d1ca2e143f?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0UCg6lnG2MXpuEpf8Pk1MV"
+}

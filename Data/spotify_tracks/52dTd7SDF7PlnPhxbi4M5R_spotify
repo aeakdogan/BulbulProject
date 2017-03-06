@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1o4xLcugkCtDDOw7POAMha",
+      "id" : "1o4xLcugkCtDDOw7POAMha",
+      "name" : "The Notwist",
+      "type" : "artist",
+      "uri" : "spotify:artist:1o4xLcugkCtDDOw7POAMha"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/24OT0db2LqWkhFTfr9zxPU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/24OT0db2LqWkhFTfr9zxPU",
+    "id" : "24OT0db2LqWkhFTfr9zxPU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7d875fdc0739f4887382040e62ca09d98eb0364c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/106273ad0e40e39a921ace44c7a4658ebec798ce",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/60d2ea52014a13c42f3f84704061d4bc2abdf869",
+      "width" : 64
+    } ],
+    "name" : "Superheroes, Ghostvillains & Stuff (Live)",
+    "type" : "album",
+    "uri" : "spotify:album:24OT0db2LqWkhFTfr9zxPU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1o4xLcugkCtDDOw7POAMha",
+    "id" : "1o4xLcugkCtDDOw7POAMha",
+    "name" : "The Notwist",
+    "type" : "artist",
+    "uri" : "spotify:artist:1o4xLcugkCtDDOw7POAMha"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245977,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEZ750500332"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/52dTd7SDF7PlnPhxbi4M5R"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/52dTd7SDF7PlnPhxbi4M5R",
+  "id" : "52dTd7SDF7PlnPhxbi4M5R",
+  "name" : "Pick Up the Phone - Live",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/50337853158b1450c058f8d58fbe28f59cb88555?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:52dTd7SDF7PlnPhxbi4M5R"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3KuiajCUJzq47n2LGvtkFj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3KuiajCUJzq47n2LGvtkFj",
+      "id" : "3KuiajCUJzq47n2LGvtkFj",
+      "name" : "Vernon Burch",
+      "type" : "artist",
+      "uri" : "spotify:artist:3KuiajCUJzq47n2LGvtkFj"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1q1jZJmTpjgABbPbo5wzGn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1q1jZJmTpjgABbPbo5wzGn",
+    "id" : "1q1jZJmTpjgABbPbo5wzGn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/549829dfa2c837058fab6e342e4ba23d8f826092",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d2ee3cfe949a9632b3822e9db6ff114bbda695e5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fda8ae6067a0f7763577b81d155e5f2d8aaeb799",
+      "width" : 64
+    } ],
+    "name" : "Get Up",
+    "type" : "album",
+    "uri" : "spotify:album:1q1jZJmTpjgABbPbo5wzGn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3KuiajCUJzq47n2LGvtkFj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3KuiajCUJzq47n2LGvtkFj",
+    "id" : "3KuiajCUJzq47n2LGvtkFj",
+    "name" : "Vernon Burch",
+    "type" : "artist",
+    "uri" : "spotify:artist:3KuiajCUJzq47n2LGvtkFj"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 373533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71601574"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4TFLjF10Qfg6Uz6CADEZDB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4TFLjF10Qfg6Uz6CADEZDB",
+  "id" : "4TFLjF10Qfg6Uz6CADEZDB",
+  "name" : "Never Can Find The Way (Hot Love)",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f75d2c19bf70486fb93b79e2d4ebbf88c76bb8e9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4TFLjF10Qfg6Uz6CADEZDB"
+}

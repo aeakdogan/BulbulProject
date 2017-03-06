@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+      "id" : "3koiLjNrgRTNbOwViDipeA",
+      "name" : "Marvin Gaye",
+      "type" : "artist",
+      "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2inNwSLauhkASzQ9RFrH5E"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2inNwSLauhkASzQ9RFrH5E",
+    "id" : "2inNwSLauhkASzQ9RFrH5E",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f4c4b83f77ba710bbe8f0f0c757872ebd4186248",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c9f66aaf16febdfb917ffab2f9f5aa991ce49e12",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9d57f8a770943ff3ddcb82bb0cadbe4d0a763622",
+      "width" : 64
+    } ],
+    "name" : "In Our Lifetime? Expanded Love Man Edition",
+    "type" : "album",
+    "uri" : "spotify:album:2inNwSLauhkASzQ9RFrH5E"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+    "id" : "3koiLjNrgRTNbOwViDipeA",
+    "name" : "Marvin Gaye",
+    "type" : "artist",
+    "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 291320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO18100002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3luNim8HvHpEvKoyvTgKVN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3luNim8HvHpEvKoyvTgKVN",
+  "id" : "3luNim8HvHpEvKoyvTgKVN",
+  "name" : "Praise",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/983242676ce9cb9be427fa5cddd573215a6d7cbd?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3luNim8HvHpEvKoyvTgKVN"
+}

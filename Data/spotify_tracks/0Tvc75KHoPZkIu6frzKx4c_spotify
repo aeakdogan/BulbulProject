@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5KIrQe9pb7tn8y775PsoAP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5KIrQe9pb7tn8y775PsoAP",
+      "id" : "5KIrQe9pb7tn8y775PsoAP",
+      "name" : "The Apples In Stereo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5KIrQe9pb7tn8y775PsoAP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6K21N4rJ8kvMGQhf4otQFD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6K21N4rJ8kvMGQhf4otQFD",
+    "id" : "6K21N4rJ8kvMGQhf4otQFD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fb88cd641814d2fe99ce0d87c4ff320e35bb1d3b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7044e253bb496c3aa48148d50f2e9eedc47f51f3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7bc5f88fe1242be1a1de1933ea3cfa3ef2a0406b",
+      "width" : 64
+    } ],
+    "name" : "#1 Hits Explosion",
+    "type" : "album",
+    "uri" : "spotify:album:6K21N4rJ8kvMGQhf4otQFD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5KIrQe9pb7tn8y775PsoAP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5KIrQe9pb7tn8y775PsoAP",
+    "id" : "5KIrQe9pb7tn8y775PsoAP",
+    "name" : "The Apples In Stereo",
+    "type" : "artist",
+    "uri" : "spotify:artist:5KIrQe9pb7tn8y775PsoAP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 205760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSLX0910120"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Tvc75KHoPZkIu6frzKx4c"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Tvc75KHoPZkIu6frzKx4c",
+  "id" : "0Tvc75KHoPZkIu6frzKx4c",
+  "name" : "Same Old Drag",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6f985205e9664de8d1651b792221b06da33a7983?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0Tvc75KHoPZkIu6frzKx4c"
+}

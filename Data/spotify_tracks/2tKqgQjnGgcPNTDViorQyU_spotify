@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xT0arvCDupDU1YYy0BNv9",
+      "id" : "7xT0arvCDupDU1YYy0BNv9",
+      "name" : "Orchestra Baobab",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xT0arvCDupDU1YYy0BNv9"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2BHnjJOJuuwg5JGMgsEsND"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2BHnjJOJuuwg5JGMgsEsND",
+    "id" : "2BHnjJOJuuwg5JGMgsEsND",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/115b7f492e22425b3e7c9978c0504ef0a808920e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/56b516555d90d5b6bd4fb3c880fdb10ebbd31f9f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/414789a6eb816c15ad113b860dda18ce759e7eab",
+      "width" : 64
+    } ],
+    "name" : "Pirates Choice",
+    "type" : "album",
+    "uri" : "spotify:album:2BHnjJOJuuwg5JGMgsEsND"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7xT0arvCDupDU1YYy0BNv9",
+    "id" : "7xT0arvCDupDU1YYy0BNv9",
+    "name" : "Orchestra Baobab",
+    "type" : "artist",
+    "uri" : "spotify:artist:7xT0arvCDupDU1YYy0BNv9"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 523453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBGU0163001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2tKqgQjnGgcPNTDViorQyU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2tKqgQjnGgcPNTDViorQyU",
+  "id" : "2tKqgQjnGgcPNTDViorQyU",
+  "name" : "Utrus Horas",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0701bbb93cb09521b323d6e37506eddec2ea8f0f?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2tKqgQjnGgcPNTDViorQyU"
+}

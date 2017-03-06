@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3FIFlkBCqeOewVa9hiNgwq",
+      "id" : "3FIFlkBCqeOewVa9hiNgwq",
+      "name" : "Federico Aubele",
+      "type" : "artist",
+      "uri" : "spotify:artist:3FIFlkBCqeOewVa9hiNgwq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4CIaS88EQ6j26qOigblqSH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4CIaS88EQ6j26qOigblqSH",
+    "id" : "4CIaS88EQ6j26qOigblqSH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d99b6e3e194ca11e9d8fe8ae8dfca771483ed080",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e0a0a8ef6ea90ad90a75d46172f120bb2597308b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a424e72346bce494a062ba1e9f9dd7534ce00aa5",
+      "width" : 64
+    } ],
+    "name" : "Panamericana",
+    "type" : "album",
+    "uri" : "spotify:album:4CIaS88EQ6j26qOigblqSH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3FIFlkBCqeOewVa9hiNgwq",
+    "id" : "3FIFlkBCqeOewVa9hiNgwq",
+    "name" : "Federico Aubele",
+    "type" : "artist",
+    "uri" : "spotify:artist:3FIFlkBCqeOewVa9hiNgwq"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 204853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USESL0711701"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0N4Ssv5JdlQdVddzULdQ8l"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0N4Ssv5JdlQdVddzULdQ8l",
+  "id" : "0N4Ssv5JdlQdVddzULdQ8l",
+  "name" : "La Esquina",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d147e570badd746f295e07c0f8dc6d18c2a6e078?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0N4Ssv5JdlQdVddzULdQ8l"
+}

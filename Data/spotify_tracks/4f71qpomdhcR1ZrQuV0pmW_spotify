@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Bv5btxNbwbt79fcjw9DAg",
+      "id" : "3Bv5btxNbwbt79fcjw9DAg",
+      "name" : "Ulcerate",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Bv5btxNbwbt79fcjw9DAg"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/478Px1irXROQF5tleOq5WG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/478Px1irXROQF5tleOq5WG",
+    "id" : "478Px1irXROQF5tleOq5WG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5ad124cdfd68af31d4640da2bd26eec2250bafdf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/192b195055745fe308cf1bffd81963bbee3c6cdb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7113cc970cb0fa9eb1e78e8ff58ed6f4d9d9db29",
+      "width" : 64
+    } ],
+    "name" : "The Destroyers Of All",
+    "type" : "album",
+    "uri" : "spotify:album:478Px1irXROQF5tleOq5WG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Bv5btxNbwbt79fcjw9DAg",
+    "id" : "3Bv5btxNbwbt79fcjw9DAg",
+    "name" : "Ulcerate",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Bv5btxNbwbt79fcjw9DAg"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 453972,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRMX1500020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4f71qpomdhcR1ZrQuV0pmW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4f71qpomdhcR1ZrQuV0pmW",
+  "id" : "4f71qpomdhcR1ZrQuV0pmW",
+  "name" : "Burning Skies",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/39bfe8a890e7ff1201e44335b39b69dfffe9fd98?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4f71qpomdhcR1ZrQuV0pmW"
+}

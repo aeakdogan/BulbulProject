@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo",
+      "id" : "35U9lQaRWSQISxQAB94Meo",
+      "name" : "America",
+      "type" : "artist",
+      "uri" : "spotify:artist:35U9lQaRWSQISxQAB94Meo"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7eqBAR9pblivMBOI70q2um",
+    "id" : "7eqBAR9pblivMBOI70q2um",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/413b2b6f4398ff5c17a1f70743723d0b2388f695",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f9304905ec724e0bcef4a49e40c589f8029efd4a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/565ec033c4f4ce9dd4cccd716403b37a51b571a2",
+      "width" : 64
+    } ],
+    "name" : "Homecoming",
+    "type" : "album",
+    "uri" : "spotify:album:7eqBAR9pblivMBOI70q2um"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/35U9lQaRWSQISxQAB94Meo",
+    "id" : "35U9lQaRWSQISxQAB94Meo",
+    "name" : "America",
+    "type" : "artist",
+    "uri" : "spotify:artist:35U9lQaRWSQISxQAB94Meo"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 211386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19901795"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4IU1RL4BKvFyXtbTwaHAvW",
+  "id" : "4IU1RL4BKvFyXtbTwaHAvW",
+  "name" : "Ventura Highway",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1dbcc6d5eef4864f7a50d59128099455d4c21e2e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4IU1RL4BKvFyXtbTwaHAvW"
+}

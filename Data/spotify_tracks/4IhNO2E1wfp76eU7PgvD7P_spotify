@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44ejFPE33H5aOInxNV2BFP",
+      "id" : "44ejFPE33H5aOInxNV2BFP",
+      "name" : "Gotan Project",
+      "type" : "artist",
+      "uri" : "spotify:artist:44ejFPE33H5aOInxNV2BFP"
+    } ],
+    "available_markets" : [ "AU", "CA", "GB", "IE", "NZ", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4dg2JEml0yoBDyh6OHVpfl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4dg2JEml0yoBDyh6OHVpfl",
+    "id" : "4dg2JEml0yoBDyh6OHVpfl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b6a7139b24161be10afd71a7f8186a4ecf1b5457",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c7f1a28f2c48d945fcc42ed8527f3e28d29b03a1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ccae3f1522dbb43ff90c1824961e5c32095d7980",
+      "width" : 64
+    } ],
+    "name" : "La Revancha Del Tango",
+    "type" : "album",
+    "uri" : "spotify:album:4dg2JEml0yoBDyh6OHVpfl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/44ejFPE33H5aOInxNV2BFP",
+    "id" : "44ejFPE33H5aOInxNV2BFP",
+    "name" : "Gotan Project",
+    "type" : "artist",
+    "uri" : "spotify:artist:44ejFPE33H5aOInxNV2BFP"
+  } ],
+  "available_markets" : [ "AU", "CA", "GB", "IE", "NZ", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 315826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR99S0000009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4IhNO2E1wfp76eU7PgvD7P"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4IhNO2E1wfp76eU7PgvD7P",
+  "id" : "4IhNO2E1wfp76eU7PgvD7P",
+  "name" : "Queremos Paz",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/edc262ef681b3b5ef2b12c089be1acf579751558?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4IhNO2E1wfp76eU7PgvD7P"
+}

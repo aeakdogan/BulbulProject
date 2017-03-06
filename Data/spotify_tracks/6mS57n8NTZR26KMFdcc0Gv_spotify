@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3QrpmDKMmvcSUTHH8xED93",
+      "id" : "3QrpmDKMmvcSUTHH8xED93",
+      "name" : "Kult",
+      "type" : "artist",
+      "uri" : "spotify:artist:3QrpmDKMmvcSUTHH8xED93"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/67ldXUuB1tBnbV2rhkuNor"
+    },
+    "href" : "https://api.spotify.com/v1/albums/67ldXUuB1tBnbV2rhkuNor",
+    "id" : "67ldXUuB1tBnbV2rhkuNor",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cd18292391ac3af7c4669fe18f6311e3ab2b6e12",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/935fdee084fed8ca9f728248da8f774e0f7b1f05",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/362775778269d0a582bea01039e2d91d24899583",
+      "width" : 64
+    } ],
+    "name" : "Hurra",
+    "type" : "album",
+    "uri" : "spotify:album:67ldXUuB1tBnbV2rhkuNor"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3QrpmDKMmvcSUTHH8xED93",
+    "id" : "3QrpmDKMmvcSUTHH8xED93",
+    "name" : "Kult",
+    "type" : "artist",
+    "uri" : "spotify:artist:3QrpmDKMmvcSUTHH8xED93"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 311626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "PLE781200251"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6mS57n8NTZR26KMFdcc0Gv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6mS57n8NTZR26KMFdcc0Gv",
+  "id" : "6mS57n8NTZR26KMFdcc0Gv",
+  "name" : "Maria ma syna",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/469f4ac1dc1a31ef2f3a2ff5389a788ca572b417?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6mS57n8NTZR26KMFdcc0Gv"
+}

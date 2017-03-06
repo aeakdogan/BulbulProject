@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39oSLGo3HkaeYXzUEGgAGQ",
+      "id" : "39oSLGo3HkaeYXzUEGgAGQ",
+      "name" : "EMF",
+      "type" : "artist",
+      "uri" : "spotify:artist:39oSLGo3HkaeYXzUEGgAGQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1gz9vDJJKfd3NkhzbAtiBs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1gz9vDJJKfd3NkhzbAtiBs",
+    "id" : "1gz9vDJJKfd3NkhzbAtiBs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/03b30827aeee8b786ce0b404510fb2127b13b528",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/102c0bdc99f89a3744020d86de6c4e10ba5bdc5b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ed2a5ed13d2d4623c3d21c889c602c852328748c",
+      "width" : 64
+    } ],
+    "name" : "Schubert Dip",
+    "type" : "album",
+    "uri" : "spotify:album:1gz9vDJJKfd3NkhzbAtiBs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/39oSLGo3HkaeYXzUEGgAGQ",
+    "id" : "39oSLGo3HkaeYXzUEGgAGQ",
+    "name" : "EMF",
+    "type" : "artist",
+    "uri" : "spotify:artist:39oSLGo3HkaeYXzUEGgAGQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 209813,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBAYE9000089"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ENmkocNNewTRbuNd6WJpR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ENmkocNNewTRbuNd6WJpR",
+  "id" : "2ENmkocNNewTRbuNd6WJpR",
+  "name" : "Unbelievable",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/100923e4697ba0166202b319e90ad1b79aeaff5e?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2ENmkocNNewTRbuNd6WJpR"
+}

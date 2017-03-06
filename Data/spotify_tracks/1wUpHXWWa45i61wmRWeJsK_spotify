@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BxAFJvyhPEhLEeBZ6XEDe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3BxAFJvyhPEhLEeBZ6XEDe",
+      "id" : "3BxAFJvyhPEhLEeBZ6XEDe",
+      "name" : "Sir Charles Jones",
+      "type" : "artist",
+      "uri" : "spotify:artist:3BxAFJvyhPEhLEeBZ6XEDe"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7rEU6ow2WhvGWQr7HyTzKE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7rEU6ow2WhvGWQr7HyTzKE",
+    "id" : "7rEU6ow2WhvGWQr7HyTzKE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5be12d6afba769d6cd75028dc817ab8537033f45",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a8dca26f2e014ec834eee4b1ae764f739c5f0adb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/55a700907e89aa542df3d5e2b43ea37322187c36",
+      "width" : 64
+    } ],
+    "name" : "The Best of Sir Charles Jones - For Your Love",
+    "type" : "album",
+    "uri" : "spotify:album:7rEU6ow2WhvGWQr7HyTzKE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3BxAFJvyhPEhLEeBZ6XEDe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3BxAFJvyhPEhLEeBZ6XEDe",
+    "id" : "3BxAFJvyhPEhLEeBZ6XEDe",
+    "name" : "Sir Charles Jones",
+    "type" : "artist",
+    "uri" : "spotify:artist:3BxAFJvyhPEhLEeBZ6XEDe"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 240266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US3U50711111"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1wUpHXWWa45i61wmRWeJsK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1wUpHXWWa45i61wmRWeJsK",
+  "id" : "1wUpHXWWa45i61wmRWeJsK",
+  "name" : "For Your Love",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8a44e6aa4d525977b06f2faeeff61d340108955c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1wUpHXWWa45i61wmRWeJsK"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0gOsZcHl7H3ewXVIEnWFZX",
+      "id" : "0gOsZcHl7H3ewXVIEnWFZX",
+      "name" : "Camille",
+      "type" : "artist",
+      "uri" : "spotify:artist:0gOsZcHl7H3ewXVIEnWFZX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4EK30NAWk6C0UBfVxogbrf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4EK30NAWk6C0UBfVxogbrf",
+    "id" : "4EK30NAWk6C0UBfVxogbrf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/617d0a951df8a7e9c9f4aefa7875b2de633f425d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8b06fc0819e46f89a17712009505aec86f067c78",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3032ac055ebd7ded5d99867f2006298823eaf0ec",
+      "width" : 64
+    } ],
+    "name" : "Music Hole",
+    "type" : "album",
+    "uri" : "spotify:album:4EK30NAWk6C0UBfVxogbrf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0gOsZcHl7H3ewXVIEnWFZX",
+    "id" : "0gOsZcHl7H3ewXVIEnWFZX",
+    "name" : "Camille",
+    "type" : "artist",
+    "uri" : "spotify:artist:0gOsZcHl7H3ewXVIEnWFZX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 223160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ110702673"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/10zC3KzSbF9c3n6eTrtcz0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/10zC3KzSbF9c3n6eTrtcz0",
+  "id" : "10zC3KzSbF9c3n6eTrtcz0",
+  "name" : "Canards sauvages",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fceb2aff9c084581792c296ddf7e7a7b55a93007?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:10zC3KzSbF9c3n6eTrtcz0"
+}

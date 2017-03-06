@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6A43Djmhbe9100UwnI7epV",
+      "id" : "6A43Djmhbe9100UwnI7epV",
+      "name" : "Cake",
+      "type" : "artist",
+      "uri" : "spotify:artist:6A43Djmhbe9100UwnI7epV"
+    } ],
+    "available_markets" : [ "AD", "AR", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/57lJNxlrPSin9SySEnerNb",
+    "id" : "57lJNxlrPSin9SySEnerNb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/35e72a90de5b5cfc6a2c9b98bb218ed22c7a264f",
+      "width" : 634
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7f23e4a99aed5a44732bbf0b9811e2bab6ace85e",
+      "width" : 297
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/174683af531aecb86a4b4eb8d8451c02f0105582",
+      "width" : 63
+    } ],
+    "name" : "Fashion Nugget",
+    "type" : "album",
+    "uri" : "spotify:album:57lJNxlrPSin9SySEnerNb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6A43Djmhbe9100UwnI7epV",
+    "id" : "6A43Djmhbe9100UwnI7epV",
+    "name" : "Cake",
+    "type" : "artist",
+    "uri" : "spotify:artist:6A43Djmhbe9100UwnI7epV"
+  } ],
+  "available_markets" : [ "AD", "AR", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 179653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA19686701"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0xMEF2WiqKWTIG7Krjungw",
+  "id" : "0xMEF2WiqKWTIG7Krjungw",
+  "name" : "The Distance",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cce7b2be031e4b66652d15793ae1985b197ebb5c?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0xMEF2WiqKWTIG7Krjungw"
+}

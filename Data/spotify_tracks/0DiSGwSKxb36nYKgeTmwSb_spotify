@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X",
+      "id" : "6FXMGgJwohJLUSr5nVlf9X",
+      "name" : "Massive Attack",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FXMGgJwohJLUSr5nVlf9X"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2vaxBHlgV2U0lSzICyfose"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2vaxBHlgV2U0lSzICyfose",
+    "id" : "2vaxBHlgV2U0lSzICyfose",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8e0a938cd4463666b3026bc2b1205074d257b9bc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cae15b7adb334c64632d3a45c11bf53e4c98d7a4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3e47b87d41e1e9933d556065cd93fe67012e3e85",
+      "width" : 64
+    } ],
+    "name" : "Unleashed OST",
+    "type" : "album",
+    "uri" : "spotify:album:2vaxBHlgV2U0lSzICyfose"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6GoO4TqgCpjGUu5ZZg1Sgu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6GoO4TqgCpjGUu5ZZg1Sgu",
+    "id" : "6GoO4TqgCpjGUu5ZZg1Sgu",
+    "name" : "Thea",
+    "type" : "artist",
+    "uri" : "spotify:artist:6GoO4TqgCpjGUu5ZZg1Sgu"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 208920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB01A0800908"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0DiSGwSKxb36nYKgeTmwSb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0DiSGwSKxb36nYKgeTmwSb",
+  "id" : "0DiSGwSKxb36nYKgeTmwSb",
+  "name" : "Baby Boy",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4ec58d253665598c7c1d4f1fff05db87dc33236e?cid=null",
+  "track_number" : 22,
+  "type" : "track",
+  "uri" : "spotify:track:0DiSGwSKxb36nYKgeTmwSb"
+}

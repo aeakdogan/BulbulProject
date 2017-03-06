@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+      "id" : "2BGRfQgtzikz1pzAD0kaEn",
+      "name" : "Elvis Costello",
+      "type" : "artist",
+      "uri" : "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ydDN9dDjtwauLG2vLVpsw",
+    "id" : "5ydDN9dDjtwauLG2vLVpsw",
+    "images" : [ {
+      "height" : 575,
+      "url" : "https://i.scdn.co/image/07a3091a0004ced2d4e4146ffe972bbc31b3ebf2",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/5bc7a433c6c3a5139faeebaafb665723c5eb342a",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/b179a41023f1d8b45b01f006c9987b00b4998263",
+      "width" : 64
+    } ],
+    "name" : "The Best Of The First 10 Years",
+    "type" : "album",
+    "uri" : "spotify:album:5ydDN9dDjtwauLG2vLVpsw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2BGRfQgtzikz1pzAD0kaEn",
+    "id" : "2BGRfQgtzikz1pzAD0kaEn",
+    "name" : "Elvis Costello",
+    "type" : "artist",
+    "uri" : "spotify:artist:2BGRfQgtzikz1pzAD0kaEn"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 168720,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBASQ7700007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6EtRQmz6VU9DAS7RbI6uNn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6EtRQmz6VU9DAS7RbI6uNn",
+  "id" : "6EtRQmz6VU9DAS7RbI6uNn",
+  "name" : "(The Angels Wanna Wear My) Red Shoes",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1b25e830d6cd8c0e8a26d1eaa4e7f777882271e5?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6EtRQmz6VU9DAS7RbI6uNn"
+}

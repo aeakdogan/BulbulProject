@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6YWQMSvUJqlk0HMB7vxTDK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6YWQMSvUJqlk0HMB7vxTDK",
+      "id" : "6YWQMSvUJqlk0HMB7vxTDK",
+      "name" : "Seafood",
+      "type" : "artist",
+      "uri" : "spotify:artist:6YWQMSvUJqlk0HMB7vxTDK"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1ZonIyctEcDyjjCMpLStTG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1ZonIyctEcDyjjCMpLStTG",
+    "id" : "1ZonIyctEcDyjjCMpLStTG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ad37aea380d529471846d435a88fce5a4e1801df",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bf04c754e83a8bff6618a22e14ac89fc5eb23183",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e662ac9d509e1b669c334b5150a0340caf93bc59",
+      "width" : 64
+    } ],
+    "name" : "Good Reason",
+    "type" : "album",
+    "uri" : "spotify:album:1ZonIyctEcDyjjCMpLStTG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6YWQMSvUJqlk0HMB7vxTDK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6YWQMSvUJqlk0HMB7vxTDK",
+    "id" : "6YWQMSvUJqlk0HMB7vxTDK",
+    "name" : "Seafood",
+    "type" : "artist",
+    "uri" : "spotify:artist:6YWQMSvUJqlk0HMB7vxTDK"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 162160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEJ0400009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/78ACWF3Ldp6f5mV4DSuOOU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/78ACWF3Ldp6f5mV4DSuOOU",
+  "id" : "78ACWF3Ldp6f5mV4DSuOOU",
+  "name" : "Good Reason",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/54379933e5e432f73f814ff1129e19e508ad830a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:78ACWF3Ldp6f5mV4DSuOOU"
+}

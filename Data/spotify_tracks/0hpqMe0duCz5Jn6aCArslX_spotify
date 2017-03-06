@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+      },
+      "href" : "https://api.spotify.com/v1/artists/17dXLKGh9AKpooAvGaVt34",
+      "id" : "17dXLKGh9AKpooAvGaVt34",
+      "name" : "Junior Murvin",
+      "type" : "artist",
+      "uri" : "spotify:artist:17dXLKGh9AKpooAvGaVt34"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12CNljuN6DW9e5x61FS03b",
+      "id" : "12CNljuN6DW9e5x61FS03b",
+      "name" : "The Upsetters",
+      "type" : "artist",
+      "uri" : "spotify:artist:12CNljuN6DW9e5x61FS03b"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/39cpdO2aJkhqr2gmqHLw1N"
+    },
+    "href" : "https://api.spotify.com/v1/albums/39cpdO2aJkhqr2gmqHLw1N",
+    "id" : "39cpdO2aJkhqr2gmqHLw1N",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aa4ca69c728aac63dd8721ab5256374aff2f3e00",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ef9d8d995030db4166b03a1024d48ea26e1ac48c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/937b8d96ae261be0c6350cbed66ed5cffc06b81b",
+      "width" : 64
+    } ],
+    "name" : "Police and Thieves",
+    "type" : "album",
+    "uri" : "spotify:album:39cpdO2aJkhqr2gmqHLw1N"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12CNljuN6DW9e5x61FS03b",
+    "id" : "12CNljuN6DW9e5x61FS03b",
+    "name" : "The Upsetters",
+    "type" : "artist",
+    "uri" : "spotify:artist:12CNljuN6DW9e5x61FS03b"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 198573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAPA7600053"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0hpqMe0duCz5Jn6aCArslX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0hpqMe0duCz5Jn6aCArslX",
+  "id" : "0hpqMe0duCz5Jn6aCArslX",
+  "name" : "Grumblin' Dub",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f63161276c6be3ed109fc87c9422e5ed1108b85a?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0hpqMe0duCz5Jn6aCArslX"
+}

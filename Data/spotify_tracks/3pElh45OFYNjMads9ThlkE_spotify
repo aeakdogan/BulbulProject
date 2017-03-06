@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+      "id" : "67ea9eGLXYMsO2eYQRui3w",
+      "name" : "The Who",
+      "type" : "artist",
+      "uri" : "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0cCLT06rVJA0Fgs9CSmGUG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0cCLT06rVJA0Fgs9CSmGUG",
+    "id" : "0cCLT06rVJA0Fgs9CSmGUG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bcfb3c6e27ad45e81287868dfd0e748248e19258",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9134a69adc7d0fbefa91c1b1f60392c40d13e2fb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/20e3d41c5ce48214dee2e83e576cc6f5c0e55c74",
+      "width" : 64
+    } ],
+    "name" : "Anyway Anyhow Anywhere",
+    "type" : "album",
+    "uri" : "spotify:album:0cCLT06rVJA0Fgs9CSmGUG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+    },
+    "href" : "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
+    "id" : "67ea9eGLXYMsO2eYQRui3w",
+    "name" : "The Who",
+    "type" : "artist",
+    "uri" : "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 163973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71406124"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3pElh45OFYNjMads9ThlkE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3pElh45OFYNjMads9ThlkE",
+  "id" : "3pElh45OFYNjMads9ThlkE",
+  "name" : "Anyway Anyhow Anywhere",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6cba044217d3e463df894f8ca9ea48f34fe23aea?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3pElh45OFYNjMads9ThlkE"
+}

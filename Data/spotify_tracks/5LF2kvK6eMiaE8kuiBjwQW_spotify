@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fHETUBbKmdmgybtFOFQuc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fHETUBbKmdmgybtFOFQuc",
+      "id" : "6fHETUBbKmdmgybtFOFQuc",
+      "name" : "Dirty Pretty Things",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fHETUBbKmdmgybtFOFQuc"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/64Vp0cw4uz50AHM3Doffdm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/64Vp0cw4uz50AHM3Doffdm",
+    "id" : "64Vp0cw4uz50AHM3Doffdm",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/b878549de1a0c0bb26ef2efcb619a51743303893",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/ce237c61dd6321c9ff93f62b85a6bcca68bba09f",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/c22ec2bb026a7cb72d2956dc9f90ffeb03131899",
+      "width" : 64
+    } ],
+    "name" : "Waterloo To Anywhere (US Version)",
+    "type" : "album",
+    "uri" : "spotify:album:64Vp0cw4uz50AHM3Doffdm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6fHETUBbKmdmgybtFOFQuc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6fHETUBbKmdmgybtFOFQuc",
+    "id" : "6fHETUBbKmdmgybtFOFQuc",
+    "name" : "Dirty Pretty Things",
+    "type" : "artist",
+    "uri" : "spotify:artist:6fHETUBbKmdmgybtFOFQuc"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 113826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70600938"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5LF2kvK6eMiaE8kuiBjwQW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5LF2kvK6eMiaE8kuiBjwQW",
+  "id" : "5LF2kvK6eMiaE8kuiBjwQW",
+  "name" : "You Fucking Love It",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0208760cb82f914a8331513130f0307e09285a77?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:5LF2kvK6eMiaE8kuiBjwQW"
+}

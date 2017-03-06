@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY",
+      "id" : "6ZLTlhejhndI4Rh53vYhrY",
+      "name" : "Ozzy Osbourne",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ZLTlhejhndI4Rh53vYhrY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6olpeE5qTK6hkzN8PhwEBM",
+    "id" : "6olpeE5qTK6hkzN8PhwEBM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/52f1414318621fe05eebea3dad5f9993685d5f1c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6f878a187e112e93769feb481bbb6ac5f8269d7d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/87ff2ce04a482c029087e561d4a71f559b1e18d4",
+      "width" : 64
+    } ],
+    "name" : "Down To Earth",
+    "type" : "album",
+    "uri" : "spotify:album:6olpeE5qTK6hkzN8PhwEBM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY",
+    "id" : "6ZLTlhejhndI4Rh53vYhrY",
+    "name" : "Ozzy Osbourne",
+    "type" : "artist",
+    "uri" : "spotify:artist:6ZLTlhejhndI4Rh53vYhrY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 284973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10110213"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/78PKCefXwDLbl4FVO1Pjzh",
+  "id" : "78PKCefXwDLbl4FVO1Pjzh",
+  "name" : "Dreamer",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/72ac8b64fcdda0f05d14d77fba020bec8c9099b7?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:78PKCefXwDLbl4FVO1Pjzh"
+}

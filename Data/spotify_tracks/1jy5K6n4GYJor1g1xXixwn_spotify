@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FsVA4kCeWeuzhll2D8HtT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FsVA4kCeWeuzhll2D8HtT",
+      "id" : "2FsVA4kCeWeuzhll2D8HtT",
+      "name" : "Recoil",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FsVA4kCeWeuzhll2D8HtT"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3rQwnS2yQ53upNGzwdifQf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3rQwnS2yQ53upNGzwdifQf",
+    "id" : "3rQwnS2yQ53upNGzwdifQf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/95545c7faee1f3ed06275c0586b62d74c14d3d92",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e196f23c1d76fa13f3f33446b54597a83e53f1b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0e1e65fec04832f7159f097b38855f6580b83c74",
+      "width" : 64
+    } ],
+    "name" : "Liquid (Bonus Track Version)",
+    "type" : "album",
+    "uri" : "spotify:album:3rQwnS2yQ53upNGzwdifQf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2FsVA4kCeWeuzhll2D8HtT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2FsVA4kCeWeuzhll2D8HtT",
+    "id" : "2FsVA4kCeWeuzhll2D8HtT",
+    "name" : "Recoil",
+    "type" : "artist",
+    "uri" : "spotify:artist:2FsVA4kCeWeuzhll2D8HtT"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 433000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH9900459"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1jy5K6n4GYJor1g1xXixwn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1jy5K6n4GYJor1g1xXixwn",
+  "id" : "1jy5K6n4GYJor1g1xXixwn",
+  "name" : "Vertigen",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c51157f8fb0138c942f754683abf0c7d6d417024?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:1jy5K6n4GYJor1g1xXixwn"
+}

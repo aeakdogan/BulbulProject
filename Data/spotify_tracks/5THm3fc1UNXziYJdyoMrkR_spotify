@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0hItVPjwJLVZrFqOyIsxPf",
+      "id" : "0hItVPjwJLVZrFqOyIsxPf",
+      "name" : "Judy Garland",
+      "type" : "artist",
+      "uri" : "spotify:artist:0hItVPjwJLVZrFqOyIsxPf"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7pFXcMnaibsNbu0QClMhvl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7pFXcMnaibsNbu0QClMhvl",
+    "id" : "7pFXcMnaibsNbu0QClMhvl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/79dd780e1334f338fb492eb3fb343b2b18fe0179",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b32466116d83b861893d22ce921f85e1409397a7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4090fcbf3fa090b59f32e19d15b92b38290eb341",
+      "width" : 64
+    } ],
+    "name" : "That Old Feeling - Classic Ballads from the Judy Garland Show",
+    "type" : "album",
+    "uri" : "spotify:album:7pFXcMnaibsNbu0QClMhvl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0hItVPjwJLVZrFqOyIsxPf",
+    "id" : "0hItVPjwJLVZrFqOyIsxPf",
+    "name" : "Judy Garland",
+    "type" : "artist",
+    "uri" : "spotify:artist:0hItVPjwJLVZrFqOyIsxPf"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 225773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSJ10500241"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5THm3fc1UNXziYJdyoMrkR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5THm3fc1UNXziYJdyoMrkR",
+  "id" : "5THm3fc1UNXziYJdyoMrkR",
+  "name" : "Shenandoah",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7d43b930c3a325ac287b39a9d5a67791fbcd07a6?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5THm3fc1UNXziYJdyoMrkR"
+}

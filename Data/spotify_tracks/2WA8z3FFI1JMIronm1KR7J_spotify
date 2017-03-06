@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q9eHzvlqNeRK43CWfHHJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q9eHzvlqNeRK43CWfHHJQ",
+      "id" : "3q9eHzvlqNeRK43CWfHHJQ",
+      "name" : "Husky Rescue",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q9eHzvlqNeRK43CWfHHJQ"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3zf1IUJ8STA20gJ5mFk3Gr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3zf1IUJ8STA20gJ5mFk3Gr",
+    "id" : "3zf1IUJ8STA20gJ5mFk3Gr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e55e10500af59630b4f38ca86819db0f5c4bfe16",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4d57c338a2b90acee34cd4a5cdabaa7d62e6cb3f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9ad9a69fe75820b81dc16ddb496a7a395e602daa",
+      "width" : 64
+    } ],
+    "name" : "Ghost Is Not Real",
+    "type" : "album",
+    "uri" : "spotify:album:3zf1IUJ8STA20gJ5mFk3Gr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3q9eHzvlqNeRK43CWfHHJQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3q9eHzvlqNeRK43CWfHHJQ",
+    "id" : "3q9eHzvlqNeRK43CWfHHJQ",
+    "name" : "Husky Rescue",
+    "type" : "artist",
+    "uri" : "spotify:artist:3q9eHzvlqNeRK43CWfHHJQ"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 288826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCFV0600032"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2WA8z3FFI1JMIronm1KR7J"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2WA8z3FFI1JMIronm1KR7J",
+  "id" : "2WA8z3FFI1JMIronm1KR7J",
+  "name" : "Diamonds In The Sky",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2ac52227a4b8ac81fd2d5c0c5857cccfddf2a3b3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2WA8z3FFI1JMIronm1KR7J"
+}

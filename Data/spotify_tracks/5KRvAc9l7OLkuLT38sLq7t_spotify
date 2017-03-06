@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0augulkuXFx1qPfb590w2C",
+      "id" : "0augulkuXFx1qPfb590w2C",
+      "name" : "Roy Buchanan",
+      "type" : "artist",
+      "uri" : "spotify:artist:0augulkuXFx1qPfb590w2C"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7oF8RQiAtU38XpIv2zmBhc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7oF8RQiAtU38XpIv2zmBhc",
+    "id" : "7oF8RQiAtU38XpIv2zmBhc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a516d40dff7dfa394094e887a081aa0a20f9b3f0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dc481c8901617a28777b9493c882a1c1800efe9c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/08a1b143aa86e08e4e7e2d605aa9a25434ec767c",
+      "width" : 64
+    } ],
+    "name" : "Second Album",
+    "type" : "album",
+    "uri" : "spotify:album:7oF8RQiAtU38XpIv2zmBhc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0augulkuXFx1qPfb590w2C",
+    "id" : "0augulkuXFx1qPfb590w2C",
+    "name" : "Roy Buchanan",
+    "type" : "artist",
+    "uri" : "spotify:artist:0augulkuXFx1qPfb590w2C"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 190266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR37387055"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5KRvAc9l7OLkuLT38sLq7t"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5KRvAc9l7OLkuLT38sLq7t",
+  "id" : "5KRvAc9l7OLkuLT38sLq7t",
+  "name" : "Filthy Teddy",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5de7c75f9e2433db924d8d3db8651c4b8ca06527?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5KRvAc9l7OLkuLT38sLq7t"
+}

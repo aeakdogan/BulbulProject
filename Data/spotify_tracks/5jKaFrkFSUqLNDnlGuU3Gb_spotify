@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6is2U7I1jlI8PjxNZOHIMV",
+      "id" : "6is2U7I1jlI8PjxNZOHIMV",
+      "name" : "DeBarge",
+      "type" : "artist",
+      "uri" : "spotify:artist:6is2U7I1jlI8PjxNZOHIMV"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2i9C6I8kbnGsbiQjJqr7Tp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2i9C6I8kbnGsbiQjJqr7Tp",
+    "id" : "2i9C6I8kbnGsbiQjJqr7Tp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/80616a495b89bc5c3f4d97c23ca8a3c87cf1a4f9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/834cbf639f04c86ae53ada46bdf4d95feda26855",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ff39ce10b4302ef51087e091da9e163b2a17040d",
+      "width" : 64
+    } ],
+    "name" : "In A Special Way",
+    "type" : "album",
+    "uri" : "spotify:album:2i9C6I8kbnGsbiQjJqr7Tp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6is2U7I1jlI8PjxNZOHIMV",
+    "id" : "6is2U7I1jlI8PjxNZOHIMV",
+    "name" : "DeBarge",
+    "type" : "artist",
+    "uri" : "spotify:artist:6is2U7I1jlI8PjxNZOHIMV"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 259493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO18382660"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5jKaFrkFSUqLNDnlGuU3Gb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5jKaFrkFSUqLNDnlGuU3Gb",
+  "id" : "5jKaFrkFSUqLNDnlGuU3Gb",
+  "name" : "Time Will Reveal",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5d112bbb5575d1568e5c6596ec46b9b8092be6e9?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5jKaFrkFSUqLNDnlGuU3Gb"
+}

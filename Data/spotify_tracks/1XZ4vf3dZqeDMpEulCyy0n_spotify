@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60JLFYv4wEqsdgRSs8VGqs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60JLFYv4wEqsdgRSs8VGqs",
+      "id" : "60JLFYv4wEqsdgRSs8VGqs",
+      "name" : "Erland & The Carnival",
+      "type" : "artist",
+      "uri" : "spotify:artist:60JLFYv4wEqsdgRSs8VGqs"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2TW7ADj610Bp0DPWS9vDpZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2TW7ADj610Bp0DPWS9vDpZ",
+    "id" : "2TW7ADj610Bp0DPWS9vDpZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8c7cfe4824ed37a9cda4e3eec1738f41aa22078d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9a4d53e7b28d832dadfe2f72eeffabd034745c86",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f7479c6c00c0775db11108a0ef06be3723a32fea",
+      "width" : 64
+    } ],
+    "name" : "Trouble in Mind - EP",
+    "type" : "album",
+    "uri" : "spotify:album:2TW7ADj610Bp0DPWS9vDpZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/60JLFYv4wEqsdgRSs8VGqs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/60JLFYv4wEqsdgRSs8VGqs",
+    "id" : "60JLFYv4wEqsdgRSs8VGqs",
+    "name" : "Erland & The Carnival",
+    "type" : "artist",
+    "uri" : "spotify:artist:60JLFYv4wEqsdgRSs8VGqs"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 253453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USY1R1002601"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1XZ4vf3dZqeDMpEulCyy0n"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1XZ4vf3dZqeDMpEulCyy0n",
+  "id" : "1XZ4vf3dZqeDMpEulCyy0n",
+  "name" : "Trouble In Mind",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/553651d771d0c69736657aeb478a76b00420a189?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1XZ4vf3dZqeDMpEulCyy0n"
+}

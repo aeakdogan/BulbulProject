@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/16yhRy4s9QvQEWMB9PrZC4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/16yhRy4s9QvQEWMB9PrZC4",
+    "id" : "16yhRy4s9QvQEWMB9PrZC4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/144a4bac6bd4f9563150a9199cb54d845cd1420a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a64b6baee2829ff96d70bb6fdb2a5541bcf54d98",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/32f3f0638e915293c85f61ea8431e1adfab5b142",
+      "width" : 64
+    } ],
+    "name" : "Orhan Gencebay ile Bir Ömür, Vol.1",
+    "type" : "album",
+    "uri" : "spotify:album:16yhRy4s9QvQEWMB9PrZC4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6RTC1abMgBC7Krg6qJQHJh",
+    "id" : "6RTC1abMgBC7Krg6qJQHJh",
+    "name" : "Duman",
+    "type" : "artist",
+    "uri" : "spotify:artist:6RTC1abMgBC7Krg6qJQHJh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 280114,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR0391200225"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0bTV1eMQO1HvYjzOZOv1e4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0bTV1eMQO1HvYjzOZOv1e4",
+  "id" : "0bTV1eMQO1HvYjzOZOv1e4",
+  "name" : "Gönül",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e3719ab320f7bebd75910a5a9f3b7382a5f503a1?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0bTV1eMQO1HvYjzOZOv1e4"
+}

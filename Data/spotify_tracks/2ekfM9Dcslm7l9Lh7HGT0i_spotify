@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yzxX2DI9LFK8VFTyW2zZ8",
+      "id" : "2yzxX2DI9LFK8VFTyW2zZ8",
+      "name" : "Joe Satriani",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yzxX2DI9LFK8VFTyW2zZ8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4SFG7APMZeeM97ixKPoQuk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4SFG7APMZeeM97ixKPoQuk",
+    "id" : "4SFG7APMZeeM97ixKPoQuk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/666697fb96418ec6410f2844fdb35d92621ceb9b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f1872be04a88148e678b9ffe34f01ea1bd1e1c92",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/57e0555b62543bf77e40b4cd5d97560a22f5963d",
+      "width" : 64
+    } ],
+    "name" : "Surfing With The Alien",
+    "type" : "album",
+    "uri" : "spotify:album:4SFG7APMZeeM97ixKPoQuk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2yzxX2DI9LFK8VFTyW2zZ8",
+    "id" : "2yzxX2DI9LFK8VFTyW2zZ8",
+    "name" : "Joe Satriani",
+    "type" : "artist",
+    "uri" : "spotify:artist:2yzxX2DI9LFK8VFTyW2zZ8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 266386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM18700084"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ekfM9Dcslm7l9Lh7HGT0i"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ekfM9Dcslm7l9Lh7HGT0i",
+  "id" : "2ekfM9Dcslm7l9Lh7HGT0i",
+  "name" : "Surfing with the Alien",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7b7fba9bd32be85f2466b185d6427f83491d2b83?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2ekfM9Dcslm7l9Lh7HGT0i"
+}

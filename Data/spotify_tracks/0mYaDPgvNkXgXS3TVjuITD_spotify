@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6",
+      "id" : "5UqTO8smerMvxHYA5xsXb6",
+      "name" : "Sonic Youth",
+      "type" : "artist",
+      "uri" : "spotify:artist:5UqTO8smerMvxHYA5xsXb6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Bf5U1Zw9gsJh6bWaM2VY2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Bf5U1Zw9gsJh6bWaM2VY2",
+    "id" : "5Bf5U1Zw9gsJh6bWaM2VY2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4a664451b17f33a1304e4f7615c013eff56cad4a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/272979b25f33962b87a002afb76a0946c2c81cd8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0b39326fecc84cfc0ba3f4f12d1e54363aad07cc",
+      "width" : 64
+    } ],
+    "name" : "Evol",
+    "type" : "album",
+    "uri" : "spotify:album:5Bf5U1Zw9gsJh6bWaM2VY2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6",
+    "id" : "5UqTO8smerMvxHYA5xsXb6",
+    "name" : "Sonic Youth",
+    "type" : "artist",
+    "uri" : "spotify:artist:5UqTO8smerMvxHYA5xsXb6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 212400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF19951302"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0mYaDPgvNkXgXS3TVjuITD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0mYaDPgvNkXgXS3TVjuITD",
+  "id" : "0mYaDPgvNkXgXS3TVjuITD",
+  "name" : "Shadow of a Doubt",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ca055a668a6ad488d0e4278f146a46b0d723154e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0mYaDPgvNkXgXS3TVjuITD"
+}

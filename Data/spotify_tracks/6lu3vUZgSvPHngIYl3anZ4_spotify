@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6jOz2B9qeID4dLP1o8bFGf",
+      "id" : "6jOz2B9qeID4dLP1o8bFGf",
+      "name" : "Crazy P",
+      "type" : "artist",
+      "uri" : "spotify:artist:6jOz2B9qeID4dLP1o8bFGf"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2aomNViLJKsTf3MVwEsPOQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2aomNViLJKsTf3MVwEsPOQ",
+    "id" : "2aomNViLJKsTf3MVwEsPOQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d620c9eb7ed0560ba5267f6607a483cda1395040",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8e905f12d96daf57f3c988a2acfb386094f5a06b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/74a2fb021c4c77d5cc4eaa5b169a7d555453eb7a",
+      "width" : 64
+    } ],
+    "name" : "Remixed",
+    "type" : "album",
+    "uri" : "spotify:album:2aomNViLJKsTf3MVwEsPOQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6jOz2B9qeID4dLP1o8bFGf",
+    "id" : "6jOz2B9qeID4dLP1o8bFGf",
+    "name" : "Crazy P",
+    "type" : "artist",
+    "uri" : "spotify:artist:6jOz2B9qeID4dLP1o8bFGf"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 580363,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEWY0900073"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6lu3vUZgSvPHngIYl3anZ4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6lu3vUZgSvPHngIYl3anZ4",
+  "id" : "6lu3vUZgSvPHngIYl3anZ4",
+  "name" : "Never Gonna Reach Me - Hot Toddy Remix",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d70bb5b2521c11e19af9e77fdf7b5590ed934f6d?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6lu3vUZgSvPHngIYl3anZ4"
+}

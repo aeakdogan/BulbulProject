@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1xgFexIwrf2QjbU0buCNnp",
+      "id" : "1xgFexIwrf2QjbU0buCNnp",
+      "name" : "The Breeders",
+      "type" : "artist",
+      "uri" : "spotify:artist:1xgFexIwrf2QjbU0buCNnp"
+    } ],
+    "available_markets" : [ "AR", "BR", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2yg43md1L9Ti9ysWYqhDji"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2yg43md1L9Ti9ysWYqhDji",
+    "id" : "2yg43md1L9Ti9ysWYqhDji",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d27bec83d024ddfad747e7aba88402b6a817ef58",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9dfe9f17f9f16e5404af8ffa64ef67ddf18adb6b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7c5996625d63d574322b42c0b444dcc7daa3dcbb",
+      "width" : 64
+    } ],
+    "name" : "Last Splash",
+    "type" : "album",
+    "uri" : "spotify:album:2yg43md1L9Ti9ysWYqhDji"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1xgFexIwrf2QjbU0buCNnp",
+    "id" : "1xgFexIwrf2QjbU0buCNnp",
+    "name" : "The Breeders",
+    "type" : "artist",
+    "uri" : "spotify:artist:1xgFexIwrf2QjbU0buCNnp"
+  } ],
+  "available_markets" : [ "AR", "BR", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 215573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10001298"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/51m0PrZokFZNk5b5xptyzC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/51m0PrZokFZNk5b5xptyzC",
+  "id" : "51m0PrZokFZNk5b5xptyzC",
+  "name" : "Cannonball",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a71af1a9531f75e23edc1aacb05d3470135f1302?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:51m0PrZokFZNk5b5xptyzC"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3SZr5Pco2oqKFORCP3WNj9",
+    "id" : "3SZr5Pco2oqKFORCP3WNj9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/01bb4663dcfa3b8b4fd405ef493dfe447805aa57",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/af440b4e0d8d22cb46b3723164281dfb70cdb4f5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab51387d467672b4e24625d1ad4e57b3f8d3a2ab",
+      "width" : 64
+    } ],
+    "name" : "Graduation",
+    "type" : "album",
+    "uri" : "spotify:album:3SZr5Pco2oqKFORCP3WNj9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+    "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+    "name" : "Kanye West",
+    "type" : "artist",
+    "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 237506,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM70749095"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ua0Go4NN4Td7l0Zre6Ce3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ua0Go4NN4Td7l0Zre6Ce3",
+  "id" : "0ua0Go4NN4Td7l0Zre6Ce3",
+  "name" : "Flashing Lights",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/577c60f4185776d5a81c5b9e4102baf0d6d05a65?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:0ua0Go4NN4Td7l0Zre6Ce3"
+}

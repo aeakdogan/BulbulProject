@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+      "id" : "6v8FB84lnmJs434UJf2Mrm",
+      "name" : "Neil Young",
+      "type" : "artist",
+      "uri" : "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0oi7g8NUnlLh5tJvg2y5e3",
+      "id" : "0oi7g8NUnlLh5tJvg2y5e3",
+      "name" : "Crazy Horse",
+      "type" : "artist",
+      "uri" : "spotify:artist:0oi7g8NUnlLh5tJvg2y5e3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/70Yl2w1p00whfnC7fj94ox"
+    },
+    "href" : "https://api.spotify.com/v1/albums/70Yl2w1p00whfnC7fj94ox",
+    "id" : "70Yl2w1p00whfnC7fj94ox",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e149fb2a57003ab105ddbed512779fa45d262202",
+      "width" : 628
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/836fab05eb492d00a54aec17e904a6c95fffeb1a",
+      "width" : 294
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/081165693a1bf4d95e6b9bbd89b965cc32c4d1b8",
+      "width" : 63
+    } ],
+    "name" : "Everybody Knows This Is Nowhere",
+    "type" : "album",
+    "uri" : "spotify:album:70Yl2w1p00whfnC7fj94ox"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+    "id" : "6v8FB84lnmJs434UJf2Mrm",
+    "name" : "Neil Young",
+    "type" : "artist",
+    "uri" : "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0oi7g8NUnlLh5tJvg2y5e3",
+    "id" : "0oi7g8NUnlLh5tJvg2y5e3",
+    "name" : "Crazy Horse",
+    "type" : "artist",
+    "uri" : "spotify:artist:0oi7g8NUnlLh5tJvg2y5e3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 180360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE10900229"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4gRfV6SEd0cTqeR9ksrbIs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4gRfV6SEd0cTqeR9ksrbIs",
+  "id" : "4gRfV6SEd0cTqeR9ksrbIs",
+  "name" : "Cinnamon Girl",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/44a5e250ef3893109fcc49985f97018f2cac7cea?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4gRfV6SEd0cTqeR9ksrbIs"
+}

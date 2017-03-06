@@ -1,0 +1,92 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69a1b61a56mJlx8iAUMBsY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69a1b61a56mJlx8iAUMBsY",
+      "id" : "69a1b61a56mJlx8iAUMBsY",
+      "name" : "Kurt Weill",
+      "type" : "artist",
+      "uri" : "spotify:artist:69a1b61a56mJlx8iAUMBsY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7DbmkhVKGV7UiwrbegHL9t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7DbmkhVKGV7UiwrbegHL9t",
+      "id" : "7DbmkhVKGV7UiwrbegHL9t",
+      "name" : "Ute Lemper",
+      "type" : "artist",
+      "uri" : "spotify:artist:7DbmkhVKGV7UiwrbegHL9t"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/76kaGt4L6of7Avp0uXAVhk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/76kaGt4L6of7Avp0uXAVhk",
+    "id" : "76kaGt4L6of7Avp0uXAVhk",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/bcde3548360fc6fb129be32d69eaa9133e3fd01e",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/158c8e94f3f5c09934b21489114f707b1125642f",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/79c4b9219429cdb5e3a66893adec1619eb527369",
+      "width" : 64
+    } ],
+    "name" : "Weill: Ute Lemper sings Kurt Weill",
+    "type" : "album",
+    "uri" : "spotify:album:76kaGt4L6of7Avp0uXAVhk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/69a1b61a56mJlx8iAUMBsY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/69a1b61a56mJlx8iAUMBsY",
+    "id" : "69a1b61a56mJlx8iAUMBsY",
+    "name" : "Kurt Weill",
+    "type" : "artist",
+    "uri" : "spotify:artist:69a1b61a56mJlx8iAUMBsY"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7DbmkhVKGV7UiwrbegHL9t"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7DbmkhVKGV7UiwrbegHL9t",
+    "id" : "7DbmkhVKGV7UiwrbegHL9t",
+    "name" : "Ute Lemper",
+    "type" : "artist",
+    "uri" : "spotify:artist:7DbmkhVKGV7UiwrbegHL9t"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/42wH9QNmc5RYZXaJa4i8M5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/42wH9QNmc5RYZXaJa4i8M5",
+    "id" : "42wH9QNmc5RYZXaJa4i8M5",
+    "name" : "Kai Rautenberg",
+    "type" : "artist",
+    "uri" : "spotify:artist:42wH9QNmc5RYZXaJa4i8M5"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 222000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF078810160"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3nvVwXKdrK87TR9ERuMbB3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3nvVwXKdrK87TR9ERuMbB3",
+  "id" : "3nvVwXKdrK87TR9ERuMbB3",
+  "name" : "Nannas Lied",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1ed49909112d22a9aaaa01ffaceecdb7727e32c4?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:3nvVwXKdrK87TR9ERuMbB3"
+}

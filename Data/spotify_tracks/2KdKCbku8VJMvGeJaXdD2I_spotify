@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Vh4H5yxqnzIBfCAws53Hb",
+    "id" : "5Vh4H5yxqnzIBfCAws53Hb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d619924782fa26f443bf93bcc6c1bfd953ca2dba",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7e1f8bc78b1f8e19e190c6809835f64b5c540373",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9f5a1ae8c57516015bb1ecde2a2257ea4a97b214",
+      "width" : 64
+    } ],
+    "name" : "Boogie Nights #2 / Music From The Original Motion Picture",
+    "type" : "album",
+    "uri" : "spotify:album:5Vh4H5yxqnzIBfCAws53Hb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3EPScT793Qw5hkf8tvVpRV",
+    "id" : "3EPScT793Qw5hkf8tvVpRV",
+    "name" : "Sniff 'n' The Tears",
+    "type" : "artist",
+    "uri" : "spotify:artist:3EPScT793Qw5hkf8tvVpRV"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 240493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNPD0800054"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2KdKCbku8VJMvGeJaXdD2I"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2KdKCbku8VJMvGeJaXdD2I",
+  "id" : "2KdKCbku8VJMvGeJaXdD2I",
+  "name" : "Driver's Seat",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9ba412192e4f24170c1d28dcc4abb7a7aba8d859?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2KdKCbku8VJMvGeJaXdD2I"
+}

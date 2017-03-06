@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/221Rd0FvVxMx7eCbWqjiKd",
+      "id" : "221Rd0FvVxMx7eCbWqjiKd",
+      "name" : "Satyricon",
+      "type" : "artist",
+      "uri" : "spotify:artist:221Rd0FvVxMx7eCbWqjiKd"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4WIN9QJxmZNbJolrHBFHaB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4WIN9QJxmZNbJolrHBFHaB",
+    "id" : "4WIN9QJxmZNbJolrHBFHaB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8519caf276be76ef7b2b554ce9b7b938d13a3651",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fb3e6766f3f81b38152de329deca2383ba1ae153",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/655ee4b7dffef8f20dc9ad0f80304dd5609285e3",
+      "width" : 64
+    } ],
+    "name" : "The Age Of Nero",
+    "type" : "album",
+    "uri" : "spotify:album:4WIN9QJxmZNbJolrHBFHaB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/221Rd0FvVxMx7eCbWqjiKd",
+    "id" : "221Rd0FvVxMx7eCbWqjiKd",
+    "name" : "Satyricon",
+    "type" : "artist",
+    "uri" : "spotify:artist:221Rd0FvVxMx7eCbWqjiKd"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 425546,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "NOKAS0801100"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7Gax6M34foo3Af6NF2d8E6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7Gax6M34foo3Af6NF2d8E6",
+  "id" : "7Gax6M34foo3Af6NF2d8E6",
+  "name" : "Die By My Hand",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ac0b2a13288810d372b7c9a36daec134580d4ec1?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7Gax6M34foo3Af6NF2d8E6"
+}

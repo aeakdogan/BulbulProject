@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2ySVkM6LaRl6bSdgVzFQ0u"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2ySVkM6LaRl6bSdgVzFQ0u",
+    "id" : "2ySVkM6LaRl6bSdgVzFQ0u",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c393e1f000dffd83679a62523ba972330bbfd195",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c56e0b5b7fcf4817ccdef9690aa7ae23f85a84d1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3eaa45332bbf092f788e91fbd8a85dda417c105d",
+      "width" : 64
+    } ],
+    "name" : "Please, Please, Please: A Tribute to The Smiths",
+    "type" : "album",
+    "uri" : "spotify:album:2ySVkM6LaRl6bSdgVzFQ0u"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/53qqj1ih4yfPRgUYtEJjVR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/53qqj1ih4yfPRgUYtEJjVR",
+    "id" : "53qqj1ih4yfPRgUYtEJjVR",
+    "name" : "Sara Lov",
+    "type" : "artist",
+    "uri" : "spotify:artist:53qqj1ih4yfPRgUYtEJjVR"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 229120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USF461100011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7zwTR2EPzdKWibOUGKz7ha"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7zwTR2EPzdKWibOUGKz7ha",
+  "id" : "7zwTR2EPzdKWibOUGKz7ha",
+  "name" : "Well I Wonder",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/55e1b5e83db1144c305198790496130d1c4976ec?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:7zwTR2EPzdKWibOUGKz7ha"
+}

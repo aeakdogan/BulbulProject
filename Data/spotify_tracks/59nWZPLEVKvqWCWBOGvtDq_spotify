@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4k1ELeJKT1ISyDv8JivPpB",
+      "id" : "4k1ELeJKT1ISyDv8JivPpB",
+      "name" : "The Prodigy",
+      "type" : "artist",
+      "uri" : "spotify:artist:4k1ELeJKT1ISyDv8JivPpB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5yYm9zDjRUAJuKguy5fALB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5yYm9zDjRUAJuKguy5fALB",
+    "id" : "5yYm9zDjRUAJuKguy5fALB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e6097389a75e91f0d7415b2990ead6f2e1dc13c5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9defab54685081001313a8dca17268f5f79dfc89",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f203dcb1bfbf1112fd40e3299000bed3b0618a9e",
+      "width" : 64
+    } ],
+    "name" : "What Evil Lurks",
+    "type" : "album",
+    "uri" : "spotify:album:5yYm9zDjRUAJuKguy5fALB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4k1ELeJKT1ISyDv8JivPpB",
+    "id" : "4k1ELeJKT1ISyDv8JivPpB",
+    "name" : "The Prodigy",
+    "type" : "artist",
+    "uri" : "spotify:artist:4k1ELeJKT1ISyDv8JivPpB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 307560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS9100022"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/59nWZPLEVKvqWCWBOGvtDq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/59nWZPLEVKvqWCWBOGvtDq",
+  "id" : "59nWZPLEVKvqWCWBOGvtDq",
+  "name" : "Android",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/53a5e2e64ea00cd7b544578bf4b6ad6b5e834be5?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:59nWZPLEVKvqWCWBOGvtDq"
+}

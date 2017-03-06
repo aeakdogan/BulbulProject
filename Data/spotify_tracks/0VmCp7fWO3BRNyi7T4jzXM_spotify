@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1c0wlIJWID8ghPnKsqJDSu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1c0wlIJWID8ghPnKsqJDSu",
+      "id" : "1c0wlIJWID8ghPnKsqJDSu",
+      "name" : "Air",
+      "type" : "artist",
+      "uri" : "spotify:artist:1c0wlIJWID8ghPnKsqJDSu"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/29crbSTMm3tTlGnWzxk14r"
+    },
+    "href" : "https://api.spotify.com/v1/albums/29crbSTMm3tTlGnWzxk14r",
+    "id" : "29crbSTMm3tTlGnWzxk14r",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e42c6171aec69363a7978048ea202cb17d5dc590",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1c004bf06c2999586c472e2aadd248ecf2ee9bc6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/36486dccc2c94b3fb7706678f026128109858109",
+      "width" : 64
+    } ],
+    "name" : "Late Night Tales: Air (Sampler)",
+    "type" : "album",
+    "uri" : "spotify:album:29crbSTMm3tTlGnWzxk14r"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5KhxNyOhS1yQ6afBu4qbjs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5KhxNyOhS1yQ6afBu4qbjs",
+    "id" : "5KhxNyOhS1yQ6afBu4qbjs",
+    "name" : "Jeff Alexander",
+    "type" : "artist",
+    "uri" : "spotify:artist:5KhxNyOhS1yQ6afBu4qbjs"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 174805,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB5EM1001016"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0VmCp7fWO3BRNyi7T4jzXM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0VmCp7fWO3BRNyi7T4jzXM",
+  "id" : "0VmCp7fWO3BRNyi7T4jzXM",
+  "name" : "Come Wander with Me",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6ea0a419f76df769efc0bdb56690d3d170fd237f?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0VmCp7fWO3BRNyi7T4jzXM"
+}

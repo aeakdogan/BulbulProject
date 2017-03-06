@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2iuqXpyyC67z6S2pq2m0gV",
+      "id" : "2iuqXpyyC67z6S2pq2m0gV",
+      "name" : "Basia Bulat",
+      "type" : "artist",
+      "uri" : "spotify:artist:2iuqXpyyC67z6S2pq2m0gV"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3QF8mwjOebSxBKTdg9zPDL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3QF8mwjOebSxBKTdg9zPDL",
+    "id" : "3QF8mwjOebSxBKTdg9zPDL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/814ef0a171007c3ed50e9efcf481a59d0d0d403d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5c7fc5b03975a010422d5a6553820aee36c0a40a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d78ca19d835ff899ae5a0f566e6cad00429e808a",
+      "width" : 64
+    } ],
+    "name" : "Oh, My Darling (US Standard Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:3QF8mwjOebSxBKTdg9zPDL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2iuqXpyyC67z6S2pq2m0gV",
+    "id" : "2iuqXpyyC67z6S2pq2m0gV",
+    "name" : "Basia Bulat",
+    "type" : "artist",
+    "uri" : "spotify:artist:2iuqXpyyC67z6S2pq2m0gV"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 191186,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVZ0701809"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2qgyT8HD6BqoA1AVPMAWX5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2qgyT8HD6BqoA1AVPMAWX5",
+  "id" : "2qgyT8HD6BqoA1AVPMAWX5",
+  "name" : "Snakes And Ladders",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0a7b93d5f99c552c525e054fb74a8f1ca5d39299?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2qgyT8HD6BqoA1AVPMAWX5"
+}

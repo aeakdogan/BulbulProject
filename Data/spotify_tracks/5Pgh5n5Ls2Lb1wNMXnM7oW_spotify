@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0gOsZcHl7H3ewXVIEnWFZX",
+      "id" : "0gOsZcHl7H3ewXVIEnWFZX",
+      "name" : "Camille",
+      "type" : "artist",
+      "uri" : "spotify:artist:0gOsZcHl7H3ewXVIEnWFZX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5xsOgTp8jHugOGwtWc50xu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5xsOgTp8jHugOGwtWc50xu",
+    "id" : "5xsOgTp8jHugOGwtWc50xu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/75165ba603eb19aab53e6a92c1dcbadb700981d0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8102f0d937c6ab95a52e9e1b9a8af85b5bbc64aa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6e9c8b8829fddde198178cf67567c86b129cfbff",
+      "width" : 64
+    } ],
+    "name" : "Le Fil",
+    "type" : "album",
+    "uri" : "spotify:album:5xsOgTp8jHugOGwtWc50xu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0gOsZcHl7H3ewXVIEnWFZX",
+    "id" : "0gOsZcHl7H3ewXVIEnWFZX",
+    "name" : "Camille",
+    "type" : "artist",
+    "uri" : "spotify:artist:0gOsZcHl7H3ewXVIEnWFZX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 148746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRS630400062"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Pgh5n5Ls2Lb1wNMXnM7oW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Pgh5n5Ls2Lb1wNMXnM7oW",
+  "id" : "5Pgh5n5Ls2Lb1wNMXnM7oW",
+  "name" : "Senza",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/31d04e1c34cba85ae5d972a22b01709a28e9cd37?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5Pgh5n5Ls2Lb1wNMXnM7oW"
+}

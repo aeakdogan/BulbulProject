@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3IKV7o6WPphDB7cCWXaG3E",
+      "id" : "3IKV7o6WPphDB7cCWXaG3E",
+      "name" : "Isaac Hayes",
+      "type" : "artist",
+      "uri" : "spotify:artist:3IKV7o6WPphDB7cCWXaG3E"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5HAXYSqdNjjbvoFrXwtrBw",
+    "id" : "5HAXYSqdNjjbvoFrXwtrBw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/198c808ab7645ab9322abd305708c6d626915e0a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6857fa6f712204d198b6d28a21e381072bcf18c3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/18e2dc244da45b923306e2187b28af0069ed5f27",
+      "width" : 64
+    } ],
+    "name" : "Shaft (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:5HAXYSqdNjjbvoFrXwtrBw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3IKV7o6WPphDB7cCWXaG3E",
+    "id" : "3IKV7o6WPphDB7cCWXaG3E",
+    "name" : "Isaac Hayes",
+    "type" : "artist",
+    "uri" : "spotify:artist:3IKV7o6WPphDB7cCWXaG3E"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 198080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R0920523"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7FaewmxbN68w4BbEWkQMJe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7FaewmxbN68w4BbEWkQMJe",
+  "id" : "7FaewmxbN68w4BbEWkQMJe",
+  "name" : "Ellie's Love Theme - Album - Remastered",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/535bcf150816dfa54c99defd6f9ca5d3067c861c?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7FaewmxbN68w4BbEWkQMJe"
+}

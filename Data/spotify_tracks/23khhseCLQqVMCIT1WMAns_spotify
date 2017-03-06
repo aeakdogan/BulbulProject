@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+      "id" : "4gzpq5DPGxSnKTe4SA8HAU",
+      "name" : "Coldplay",
+      "type" : "artist",
+      "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2G4AUqfwxcV1UdQjm2ouYr",
+    "id" : "2G4AUqfwxcV1UdQjm2ouYr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6218fc701d5c6e66c200f29b57fc4cd5f979313f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/29ce98b4349b72c2778d2f82823159b06f98f8bc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4af48c1b31d3e2a2f6304226bb2e258e38541dbb",
+      "width" : 64
+    } ],
+    "name" : "Ghost Stories",
+    "type" : "album",
+    "uri" : "spotify:album:2G4AUqfwxcV1UdQjm2ouYr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+    "id" : "4gzpq5DPGxSnKTe4SA8HAU",
+    "name" : "Coldplay",
+    "type" : "artist",
+    "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 285014,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE1400206"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/23khhseCLQqVMCIT1WMAns",
+  "id" : "23khhseCLQqVMCIT1WMAns",
+  "name" : "Magic",
+  "popularity" : 69,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4bbc6c3a61b175ca895e0f5a2ab79804f290b263?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:23khhseCLQqVMCIT1WMAns"
+}

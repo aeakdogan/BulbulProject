@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6e6GkaF6uiSEFuTrlvDJUF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6e6GkaF6uiSEFuTrlvDJUF",
+      "id" : "6e6GkaF6uiSEFuTrlvDJUF",
+      "name" : "The Twilight Sad",
+      "type" : "artist",
+      "uri" : "spotify:artist:6e6GkaF6uiSEFuTrlvDJUF"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1oGWmWFaWh0HJ1yTw1OSCV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1oGWmWFaWh0HJ1yTw1OSCV",
+    "id" : "1oGWmWFaWh0HJ1yTw1OSCV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/99a3c4f6d0a0c6d4456f35ae8bb7d21c7775318a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ef1f78e77b9acc90b0bd4b68b14595a65fd11ef8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a55d7bd867529262953cced7f0eb22ff1a2e1113",
+      "width" : 64
+    } ],
+    "name" : "Forget the Night Ahead",
+    "type" : "album",
+    "uri" : "spotify:album:1oGWmWFaWh0HJ1yTw1OSCV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6e6GkaF6uiSEFuTrlvDJUF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6e6GkaF6uiSEFuTrlvDJUF",
+    "id" : "6e6GkaF6uiSEFuTrlvDJUF",
+    "name" : "The Twilight Sad",
+    "type" : "artist",
+    "uri" : "spotify:artist:6e6GkaF6uiSEFuTrlvDJUF"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 298013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDCA0901392"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1UF7rA6Be3iMF3dvvp8mRK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1UF7rA6Be3iMF3dvvp8mRK",
+  "id" : "1UF7rA6Be3iMF3dvvp8mRK",
+  "name" : "Reflection of the Television",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9266291e3c949c74735de76c88fb73be24993084?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1UF7rA6Be3iMF3dvvp8mRK"
+}

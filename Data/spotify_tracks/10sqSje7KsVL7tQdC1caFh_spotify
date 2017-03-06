@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7w3PQ5symjpCqshjaLvFzA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7w3PQ5symjpCqshjaLvFzA",
+      "id" : "7w3PQ5symjpCqshjaLvFzA",
+      "name" : "Alabina",
+      "type" : "artist",
+      "uri" : "spotify:artist:7w3PQ5symjpCqshjaLvFzA"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1c63xo416gGFrmEhzdNofJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1c63xo416gGFrmEhzdNofJ",
+    "id" : "1c63xo416gGFrmEhzdNofJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a66a073b5ba1f109ef22e36e2c25be996176b11b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/271fed64b1e6f44fdf2ff9b3ff81992a7b5f95d3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c81ede21a4edbab5a247d26543947c6ab692e796",
+      "width" : 64
+    } ],
+    "name" : "Sahara",
+    "type" : "album",
+    "uri" : "spotify:album:1c63xo416gGFrmEhzdNofJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7w3PQ5symjpCqshjaLvFzA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7w3PQ5symjpCqshjaLvFzA",
+    "id" : "7w3PQ5symjpCqshjaLvFzA",
+    "name" : "Alabina",
+    "type" : "artist",
+    "uri" : "spotify:artist:7w3PQ5symjpCqshjaLvFzA"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR03F9800300"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/10sqSje7KsVL7tQdC1caFh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/10sqSje7KsVL7tQdC1caFh",
+  "id" : "10sqSje7KsVL7tQdC1caFh",
+  "name" : "Ya Mama, Tu M'as Tant Donne",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d86356748cbb47100983618164b2be2b3710d93e?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:10sqSje7KsVL7tQdC1caFh"
+}

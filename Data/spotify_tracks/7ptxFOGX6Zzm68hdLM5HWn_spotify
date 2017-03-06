@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Q776wzj2mrtXrNu3iH6nk",
+      "id" : "1Q776wzj2mrtXrNu3iH6nk",
+      "name" : "Archive",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Q776wzj2mrtXrNu3iH6nk"
+    } ],
+    "available_markets" : [ "AU", "CA", "GB", "IE", "JP", "MX", "NZ", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6TX9I4kDhqvkoUvYXNmtrA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6TX9I4kDhqvkoUvYXNmtrA",
+    "id" : "6TX9I4kDhqvkoUvYXNmtrA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7296e479dc74cdb8a602b4708fe33e0e68781c2b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ec893a28f9faaf0de32c56f178f338e9f5f45973",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/60c60d39ec97fd8aa3384bab1af98214fd7ad926",
+      "width" : 64
+    } ],
+    "name" : "Controlling Crowds (Parts I-III)",
+    "type" : "album",
+    "uri" : "spotify:album:6TX9I4kDhqvkoUvYXNmtrA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Q776wzj2mrtXrNu3iH6nk",
+    "id" : "1Q776wzj2mrtXrNu3iH6nk",
+    "name" : "Archive",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Q776wzj2mrtXrNu3iH6nk"
+  } ],
+  "available_markets" : [ "AU", "CA", "GB", "IE", "JP", "MX", "NZ", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 353573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEYA0800112"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ptxFOGX6Zzm68hdLM5HWn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ptxFOGX6Zzm68hdLM5HWn",
+  "id" : "7ptxFOGX6Zzm68hdLM5HWn",
+  "name" : "Bullets",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4f28f03c8383de1d54f98e80b130805a7df90a36?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7ptxFOGX6Zzm68hdLM5HWn"
+}

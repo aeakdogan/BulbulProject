@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE",
+      "id" : "2jzc5TC5TVFLXQlBNiIUzE",
+      "name" : "a-ha",
+      "type" : "artist",
+      "uri" : "spotify:artist:2jzc5TC5TVFLXQlBNiIUzE"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/21F9tlwzdMLinAy1DIrtqw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/21F9tlwzdMLinAy1DIrtqw",
+    "id" : "21F9tlwzdMLinAy1DIrtqw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2080db48570d9ca236f18fcd67f9198ef716ab3c",
+      "width" : 637
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8766abf1d1e0919ea94261342bba462f05690cd4",
+      "width" : 299
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e782333d0cddb4ba8f169253942924ba9d978b36",
+      "width" : 64
+    } ],
+    "name" : "East Of The Sun West Of The Moon",
+    "type" : "album",
+    "uri" : "spotify:album:21F9tlwzdMLinAy1DIrtqw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2jzc5TC5TVFLXQlBNiIUzE",
+    "id" : "2jzc5TC5TVFLXQlBNiIUzE",
+    "name" : "a-ha",
+    "type" : "artist",
+    "uri" : "spotify:artist:2jzc5TC5TVFLXQlBNiIUzE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 179240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10107607"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4ImMYuAuWr1zVzC1XgRW33"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4ImMYuAuWr1zVzC1XgRW33",
+  "id" : "4ImMYuAuWr1zVzC1XgRW33",
+  "name" : "Early Morning",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a438f8f6c7303ec6f574d2a3f1e9c21410c71ddb?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4ImMYuAuWr1zVzC1XgRW33"
+}

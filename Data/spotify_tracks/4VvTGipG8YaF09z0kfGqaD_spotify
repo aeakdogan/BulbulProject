@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04aQfpx1U1WQEJkrvGs4ig",
+      "id" : "04aQfpx1U1WQEJkrvGs4ig",
+      "name" : "Dalida",
+      "type" : "artist",
+      "uri" : "spotify:artist:04aQfpx1U1WQEJkrvGs4ig"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4NFg1VigQEZRrtlE45UL5H",
+    "id" : "4NFg1VigQEZRrtlE45UL5H",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/ec4221faaa35a3f127ac1e5230c51071885fdb43",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/f3c0ecb59124938acbbe3a5bee00f3e3d1045123",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/bd64d2e68a6baea2f6ca81b47dc19fd27f4ae585",
+      "width" : 64
+    } ],
+    "name" : "40 Succes En Or",
+    "type" : "album",
+    "uri" : "spotify:album:4NFg1VigQEZRrtlE45UL5H"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+    },
+    "href" : "https://api.spotify.com/v1/artists/04aQfpx1U1WQEJkrvGs4ig",
+    "id" : "04aQfpx1U1WQEJkrvGs4ig",
+    "name" : "Dalida",
+    "type" : "artist",
+    "uri" : "spotify:artist:04aQfpx1U1WQEJkrvGs4ig"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2e1aRMKieswINolf49MzQ8",
+    "id" : "2e1aRMKieswINolf49MzQ8",
+    "name" : "Alain Delon",
+    "type" : "artist",
+    "uri" : "spotify:artist:2e1aRMKieswINolf49MzQ8"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 245666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ017301510"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4VvTGipG8YaF09z0kfGqaD",
+  "id" : "4VvTGipG8YaF09z0kfGqaD",
+  "name" : "Paroles paroles",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2007b0aa6a93d90557ecde0545025e10a5f75bac?cid=null",
+  "track_number" : 18,
+  "type" : "track",
+  "uri" : "spotify:track:4VvTGipG8YaF09z0kfGqaD"
+}

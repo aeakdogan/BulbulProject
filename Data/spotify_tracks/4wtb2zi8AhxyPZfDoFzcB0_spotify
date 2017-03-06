@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4gIdjgLlvgEOz7MexDZzpM",
+      "id" : "4gIdjgLlvgEOz7MexDZzpM",
+      "name" : "Status Quo",
+      "type" : "artist",
+      "uri" : "spotify:artist:4gIdjgLlvgEOz7MexDZzpM"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2MGcNhLwJ48my2dHEVypW8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2MGcNhLwJ48my2dHEVypW8",
+    "id" : "2MGcNhLwJ48my2dHEVypW8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3cef7a0127c062ff7f1bb1f1e28b60c5cf95284f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a2e9389f76028a7f88b17f42e807bb63aec895d0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/35b30fced2ef6b2a4b3f696755db7b6e19b105ed",
+      "width" : 64
+    } ],
+    "name" : "Ten Best",
+    "type" : "album",
+    "uri" : "spotify:album:2MGcNhLwJ48my2dHEVypW8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4gIdjgLlvgEOz7MexDZzpM",
+    "id" : "4gIdjgLlvgEOz7MexDZzpM",
+    "name" : "Status Quo",
+    "type" : "artist",
+    "uri" : "spotify:artist:4gIdjgLlvgEOz7MexDZzpM"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 234493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBLFP1542744"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4wtb2zi8AhxyPZfDoFzcB0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4wtb2zi8AhxyPZfDoFzcB0",
+  "id" : "4wtb2zi8AhxyPZfDoFzcB0",
+  "name" : "In The Army Now",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fe2cc65f843c0a06caf792ff2b70117a4035b286?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4wtb2zi8AhxyPZfDoFzcB0"
+}

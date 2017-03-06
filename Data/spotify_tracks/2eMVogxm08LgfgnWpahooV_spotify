@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14",
+      "id" : "0hEurMDQu99nJRq8pTxO14",
+      "name" : "John Mayer",
+      "type" : "artist",
+      "uri" : "spotify:artist:0hEurMDQu99nJRq8pTxO14"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6WivmTXugLZLmAWnZhlz7g",
+    "id" : "6WivmTXugLZLmAWnZhlz7g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/431b95063028599f2e885b0f9f3b1753cccba59a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3a0f75c4f1dbe53778cc656f8e52e84ed7f63caa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/169bf4de214218e6856473fbd3738afa960b6d0f",
+      "width" : 64
+    } ],
+    "name" : "Heavier Things",
+    "type" : "album",
+    "uri" : "spotify:album:6WivmTXugLZLmAWnZhlz7g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14",
+    "id" : "0hEurMDQu99nJRq8pTxO14",
+    "name" : "John Mayer",
+    "type" : "artist",
+    "uri" : "spotify:artist:0hEurMDQu99nJRq8pTxO14"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 306333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10310153"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2eMVogxm08LgfgnWpahooV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2eMVogxm08LgfgnWpahooV",
+  "id" : "2eMVogxm08LgfgnWpahooV",
+  "name" : "Split Screen Sadness",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/75c18a19e260d74292ee9bcf75dfdf10775713c6?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2eMVogxm08LgfgnWpahooV"
+}

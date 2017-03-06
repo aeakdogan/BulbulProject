@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+      },
+      "href" : "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+      "id" : "67hb7towEyKvt5Z8Bx306c",
+      "name" : "Empire of the Sun",
+      "type" : "artist",
+      "uri" : "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1olQuvonXXUEourYrj6daN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1olQuvonXXUEourYrj6daN",
+    "id" : "1olQuvonXXUEourYrj6daN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/face587ddabd64a05686e1d1568a326563cd2b3d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f304348e54acc70abb472a03fd535f0538598a4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8cd17e548fbc776e3922ad744c5955694424c938",
+      "width" : 64
+    } ],
+    "name" : "Ice On The Dune",
+    "type" : "album",
+    "uri" : "spotify:album:1olQuvonXXUEourYrj6daN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+    },
+    "href" : "https://api.spotify.com/v1/artists/67hb7towEyKvt5Z8Bx306c",
+    "id" : "67hb7towEyKvt5Z8Bx306c",
+    "name" : "Empire of the Sun",
+    "type" : "artist",
+    "uri" : "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 225910,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUEI11300008"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3h7ETIv6aOQZnI8FqnlA9L"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3h7ETIv6aOQZnI8FqnlA9L",
+  "id" : "3h7ETIv6aOQZnI8FqnlA9L",
+  "name" : "Awakening",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7d7ae7d1e265ca5bc85a9c9b826e03dcc140a495?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3h7ETIv6aOQZnI8FqnlA9L"
+}

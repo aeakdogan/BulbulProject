@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5wbIWUzTPuTxTyG6ouQKqz",
+      "id" : "5wbIWUzTPuTxTyG6ouQKqz",
+      "name" : "Phish",
+      "type" : "artist",
+      "uri" : "spotify:artist:5wbIWUzTPuTxTyG6ouQKqz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/420MDayNDxht0GcPwnBv1d"
+    },
+    "href" : "https://api.spotify.com/v1/albums/420MDayNDxht0GcPwnBv1d",
+    "id" : "420MDayNDxht0GcPwnBv1d",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/82fcd836db8a4a6544f028642deb5e67c0602f84",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a5a861e19fe779b0fb0823b6d07db80e74fb0dfa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f18a68c8245bf9ed4aed499f6d298235a6118cc0",
+      "width" : 64
+    } ],
+    "name" : "The Story Of The Ghost",
+    "type" : "album",
+    "uri" : "spotify:album:420MDayNDxht0GcPwnBv1d"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5wbIWUzTPuTxTyG6ouQKqz",
+    "id" : "5wbIWUzTPuTxTyG6ouQKqz",
+    "name" : "Phish",
+    "type" : "artist",
+    "uri" : "spotify:artist:5wbIWUzTPuTxTyG6ouQKqz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 232133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10900996"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6XOTK2aW5gnRZDRefdqipY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6XOTK2aW5gnRZDRefdqipY",
+  "id" : "6XOTK2aW5gnRZDRefdqipY",
+  "name" : "Ghost",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/006fd5704d80b93264d677bc01445fccdd36957c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6XOTK2aW5gnRZDRefdqipY"
+}

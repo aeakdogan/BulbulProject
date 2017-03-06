@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2p0UyoPfYfI76PCStuXfOP",
+      "id" : "2p0UyoPfYfI76PCStuXfOP",
+      "name" : "Franz Schubert",
+      "type" : "artist",
+      "uri" : "spotify:artist:2p0UyoPfYfI76PCStuXfOP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AT", "CH", "DE", "HK", "ID", "MY", "PH", "SG", "TW", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6aiHt9bg6rFOg8iUJaygi7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6aiHt9bg6rFOg8iUJaygi7",
+    "id" : "6aiHt9bg6rFOg8iUJaygi7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/040193afe13a965b94bb96db5621bb6dc6b43972",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/db0e5bffde9c0a2620fa996f34e377389a35a1fc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5612ff75cd9d2e7f0619ecd094f710d1f338bbe8",
+      "width" : 64
+    } ],
+    "name" : "The Classical Guide to Schubert",
+    "type" : "album",
+    "uri" : "spotify:album:6aiHt9bg6rFOg8iUJaygi7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2p0UyoPfYfI76PCStuXfOP",
+    "id" : "2p0UyoPfYfI76PCStuXfOP",
+    "name" : "Franz Schubert",
+    "type" : "artist",
+    "uri" : "spotify:artist:2p0UyoPfYfI76PCStuXfOP"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/24fwyM31DLDqYOPvQ0jFFr",
+    "id" : "24fwyM31DLDqYOPvQ0jFFr",
+    "name" : "Barbara Bonney",
+    "type" : "artist",
+    "uri" : "spotify:artist:24fwyM31DLDqYOPvQ0jFFr"
+  } ],
+  "available_markets" : [ "AT", "CH", "DE", "HK", "ID", "MY", "PH", "SG", "TW", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 381760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEA809417300"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4XwxYi87EyBtUbHR5rbLEv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4XwxYi87EyBtUbHR5rbLEv",
+  "id" : "4XwxYi87EyBtUbHR5rbLEv",
+  "name" : "Schubert: Ellens Gesang III, D. 839, Op. 52: No. 6 Ave Maria",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/231ca09d9296a4e1a28efb5ec9a1cd96b54e808f?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:4XwxYi87EyBtUbHR5rbLEv"
+}

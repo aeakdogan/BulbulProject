@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+      "id" : "00FQb4jTyendYWaN8pK0wa",
+      "name" : "Lana Del Rey",
+      "type" : "artist",
+      "uri" : "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5PW8nAtvf2HV8RYZFd4IrX",
+    "id" : "5PW8nAtvf2HV8RYZFd4IrX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8d94671b235deefae167c13dd658e8f0ea1d2402",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/34d220e676923f06dcb162cf568a50310fa0dcd5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b67a06f05e6db28386b3e793e7f9ccabc6c64db9",
+      "width" : 64
+    } ],
+    "name" : "Born To Die - The Paradise Edition",
+    "type" : "album",
+    "uri" : "spotify:album:5PW8nAtvf2HV8RYZFd4IrX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+    "id" : "00FQb4jTyendYWaN8pK0wa",
+    "name" : "Lana Del Rey",
+    "type" : "artist",
+    "uri" : "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 321053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71205885"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4np1UPhRvjBfYC4f3CaLtI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4np1UPhRvjBfYC4f3CaLtI",
+  "id" : "4np1UPhRvjBfYC4f3CaLtI",
+  "name" : "Yayo",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bdb6e7ca0ebb687692d13821c47270097cf6cd63?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4np1UPhRvjBfYC4f3CaLtI"
+}

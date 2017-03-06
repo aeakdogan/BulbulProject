@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xLSa7l4IV1gsQfhAMvl0U",
+      "id" : "5xLSa7l4IV1gsQfhAMvl0U",
+      "name" : "B.B. King",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xLSa7l4IV1gsQfhAMvl0U"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1sI9KyMC7Hh57D6SxaSwtM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1sI9KyMC7Hh57D6SxaSwtM",
+    "id" : "1sI9KyMC7Hh57D6SxaSwtM",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/6ec9a3f769b95225a180decbf28d7fd8d47a45e0",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/cc1c0a58909003dc3301f83c3028019f2dd0f6e9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b2fed1b2d0dd4a887114a132812ab0a39da927d5",
+      "width" : 64
+    } ],
+    "name" : "20th Century Masters: The Millennium Collection: Best Of B.B. King",
+    "type" : "album",
+    "uri" : "spotify:album:1sI9KyMC7Hh57D6SxaSwtM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5xLSa7l4IV1gsQfhAMvl0U",
+    "id" : "5xLSa7l4IV1gsQfhAMvl0U",
+    "name" : "B.B. King",
+    "type" : "artist",
+    "uri" : "spotify:artist:5xLSa7l4IV1gsQfhAMvl0U"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 196760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC17152935"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3mRPhRdSMvpTWijKgMZ23B"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3mRPhRdSMvpTWijKgMZ23B",
+  "id" : "3mRPhRdSMvpTWijKgMZ23B",
+  "name" : "Ain't Nobody Home - Single Version",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4068094561d16f0bdddee3f9dd3ffcb70e86fa59?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3mRPhRdSMvpTWijKgMZ23B"
+}
