@@ -1,0 +1,12 @@
+./neo4j-import --into bulbul.db \
+                --id-type string \
+               --multiline-fields=true \
+                --skip-duplicate-nodes=true \
+         --nodes:Album /home/burak/Documents/SeniorProject/BulbulProject/BulbulProject/Data/albums.csv \
+         --nodes:Artist /home/burak/Documents/SeniorProject/BulbulProject/BulbulProject/Data/artists.csv \
+         --nodes:Tag /home/burak/Documents/SeniorProject/BulbulProject/BulbulProject/Data/tags.csv \
+         --nodes:Track /home/burak/Documents/SeniorProject/BulbulProject/BulbulProject/Data/tracks.csv \
+         --relationships:BY /home/burak/Documents/SeniorProject/BulbulProject/BulbulProject/Data/album-artist.csv \
+         --relationships:BY /home/burak/Documents/SeniorProject/BulbulProject/BulbulProject/Data/track-artist.csv \
+         --relationships:HAS /home/burak/Documents/SeniorProject/BulbulProject/BulbulProject/Data/album-track.csv \
+         --relationships:TAGGED /home/burak/Documents/SeniorProject/BulbulProject/BulbulProject/Data/artist-tags.csv
