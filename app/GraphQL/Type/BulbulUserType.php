@@ -25,8 +25,8 @@ class BulbulUserType extends GraphQLType
                 'type' => Type::nonNull(GraphQL::type('Playlist')),
                 'description' => 'The last active playlist of user'
             ],
-            'followedSongs' => [
-                'type' => Type::listOf(GraphQL::type('Song')),
+            'followedTracks' => [
+                'type' => Type::listOf(GraphQL::type('Track')),
                 'description' => 'The followed songs of user'
             ],
             'followedArtists' => [
@@ -37,8 +37,8 @@ class BulbulUserType extends GraphQLType
                 'type' => Type::listOf(GraphQL::type('Playlist')),
                 'description' => 'The followed playlists of user'
             ],
-            'listenedSongs' => [
-                'type' => Type::listOf(GraphQL::type('Song')),
+            'listenedTracks' => [
+                'type' => Type::listOf(GraphQL::type('Track')),
                 'description' => 'The listened songs of user'
             ],
             'listenedPlaylists' => [

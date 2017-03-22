@@ -10,8 +10,8 @@ class Playlist extends Model
     protected $label = 'Playlist';
     protected $fillable = ['id', 'name'];
 
-    public function songs(){
-        return $this->hasMany('App\Song', 'HAS');
+    public function tracks(){
+        return $this->hasMany('App\Track', 'HAS');
     }
 
     public function creator(){

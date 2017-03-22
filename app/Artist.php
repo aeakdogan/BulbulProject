@@ -13,12 +13,17 @@ class Artist extends Model
 
     public function albums()
     {
-        return $this->hasMany('App\Album', 'BY');
+        return $this->belongsToMany('App\Album', 'BY');
     }
 
-    public function songs()
+    public function tracks()
     {
-        return $this->hasMany('App\Song','BY');
+        return $this->belongsToMany('App\Track','BY');
+    }
+
+    public function tags()
+    {
+        return $this->hasMany('App\Tag', 'TAGGED');
     }
 
 }

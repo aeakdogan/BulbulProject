@@ -5,7 +5,7 @@ namespace App\GraphQL\Type;
 use GraphQL;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Type as GraphQLType;
-
+use App\GraphQL\Fields\TracksField;
 
 class PlaylistType extends GraphQLType
 {
@@ -21,10 +21,7 @@ class PlaylistType extends GraphQLType
                 'type' => Type::nonNull(Type::string()),
                 'description' => 'The name of playlist'
             ],
-            'songs' => [
-                'type' => Type::listOf(GraphQL::type('Song')),
-                'description' => 'Songs of playlist'
-            ],
+            'tracks' => TracksField::class,
             'followers' => [
                 'type' => Type::listOf(GraphQL::type('BulbulUser')),
                 'description' => 'Followers of playlist'

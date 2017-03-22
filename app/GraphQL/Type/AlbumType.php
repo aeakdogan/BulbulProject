@@ -5,6 +5,7 @@ namespace App\GraphQL\Type;
 use GraphQL;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Type as GraphQLType;
+use App\GraphQL\Fields\TracksField;
 
 
 class AlbumType extends GraphQLType
@@ -21,18 +22,19 @@ class AlbumType extends GraphQLType
                 'type' => Type::nonNull(Type::string()),
                 'description' => 'The name of album'
             ],
-            'year' => [
-                'type' => Type::int(),
-                'description' => 'The year of album'
-            ],
-            'coverPhotoUrl' => [
+            'mbid' => [
                 'type' => Type::string(),
-                'description' => 'The url of cover photo'
+                'description' => 'The mbid of album'
             ],
-            'songs' => [
-                'type' => Type::listOf(GraphQL::type('Song')),
-                'description' => 'Songs of album'
+            'image' => [
+                'type' => Type::string(),
+                'description' => 'The url of album image'
             ],
+            'lastfm_url' => [
+                'type' => Type::string(),
+                'description' => 'The lastfm url of album'
+            ],
+            'tracks' => TracksField::class,
             'artists' => [
                 'type' => Type::listOf(GraphQL::type('Artist')),
                 'description' => 'Artists of album'

@@ -4,13 +4,13 @@ namespace App\GraphQL\Query;
 use GraphQL;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Query;
-use App\BulbulUser;
+use App\Track;
 
-class BulbulUserQuery extends Query
+class TrackQuery extends Query
 {
     public function type()
     {
-        return Type::listOf(GraphQL::type('BulbulUser'));
+        return Type::listOf(GraphQL::type('Track'));
     }
 
     public function args()
@@ -27,13 +27,13 @@ class BulbulUserQuery extends Query
     {
 
         if (isset($args['id'])) {
-            return BulbulUser::where('id', $args['id'])->get();
+            return Track::where('id', $args['id'])->get();
         } else if (isset($args['ids'])) {
-            return BulbulUser::findMany($args['ids']);
+            return Track::findMany($args['ids']);
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
-            $skip = isset($args['skip']) ? $args['skip'] : 100;
-            return BulbulUser::take($limit)->skip($skip)->get();
+            $skip = isset($args['skip']) ? $args['skip'] : 0 ;
+            return Track::take($limit)->skip($skip)->get();
         }
     }
 

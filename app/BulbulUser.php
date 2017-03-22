@@ -19,8 +19,8 @@ class BulbulUser extends Model
         return $this->hasMany('App\Album', 'FOLLOWS');
     }
 
-    public function followedSongs(){
-        return $this->hasMany('App\Song', 'FOLLOWS');
+    public function followedTracks(){
+        return $this->hasMany('App\Track', 'FOLLOWS');
     }
 
     public function followedArtists(){
@@ -31,8 +31,8 @@ class BulbulUser extends Model
         return $this->hasMany('App\Playlist', 'FOLLOWS');
     }
 
-    public function listenedSongs(){
-        return $this->hasMany('App\Song','LISTENS');
+    public function listenedTracks(){
+        return $this->hasMany('App\Track','LISTENS');
     }
 
     public function listenedPlaylists(){

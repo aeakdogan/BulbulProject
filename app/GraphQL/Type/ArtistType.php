@@ -5,6 +5,7 @@ namespace App\GraphQL\Type;
 use GraphQL;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Type as GraphQLType;
+use App\GraphQL\Fields\TracksField;
 
 
 class ArtistType extends GraphQLType
@@ -21,13 +22,42 @@ class ArtistType extends GraphQLType
                 'type' => Type::nonNull(Type::string()),
                 'description' => 'The name of artist'
             ],
-            'songs' => [
-                'type' => Type::listOf(GraphQL::type('Song')),
-                'description' => 'Songs of artist'
-            ],
+            'tracks' => TracksField::class,
             'albums' => [
                 'type' => Type::listOf(GraphQL::type('Album')),
                 'description' => 'Albums of artist'
+            ],
+            'tags'=>[
+                'type' => Type::listOf(GraphQL::type('Tag')),
+                'description' => 'Tags of artist'
+            ],
+            'image' => [
+                'type' => Type::string(),
+                'description' => 'The url of album image'
+            ],
+            'biography_text' => [
+                'type' => Type::string(),
+                'description' => 'The biography of artist'
+            ],
+            'lastfm_url' => [
+                'type' => Type::string(),
+                'description' => 'The lastfm url of artist'
+            ],
+            'mbid' => [
+                'type' => Type::string(),
+                'description' => 'The mbid of artist'
+            ],
+            'listener_count' => [
+                'type' => Type::int(),
+                'description' => 'The listener count of artist'
+            ],
+            'play_count' => [
+                'type' => Type::int(),
+                'description' => 'The play count of artist'
+            ],
+            'biography_url' => [
+                'type' => Type::string(),
+                'description' => 'The url of artist biography'
             ],
         ];
     }

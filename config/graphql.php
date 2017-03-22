@@ -91,10 +91,12 @@ return [
     'schemas' => [
         'default' => [
             'query' => [
-                'songs' => 'App\GraphQL\Query\SongQuery',
+                'tracks' => 'App\GraphQL\Query\TrackQuery',
                 'albums' => 'App\GraphQL\Query\AlbumQuery',
                 'artists' => 'App\GraphQL\Query\ArtistsQuery',
                 'playlists' => 'App\GraphQL\Query\PlaylistQuery',
+                'users' => 'App\GraphQL\Query\BulbulUserQuery',
+                'tags' => 'App\GraphQL\Query\TagQuery',
             ],
             'mutation' => [
 
@@ -118,11 +120,12 @@ return [
     // ]
     //
     'types' => [
-        'Song'=>'App\GraphQL\Type\SongType',
+        'Track'=>'App\GraphQL\Type\TrackType',
         'Album'=>'App\GraphQL\Type\AlbumType',
         'Artist'=>'App\GraphQL\Type\ArtistType',
         'Playlist'=>'App\GraphQL\Type\PlaylistType',
         'BulbulUser'=>'App\GraphQL\Type\BulbulUserType',
+        'Tag'=>'App\GraphQL\Type\TagType',
     ],
 
     // This callable will received every Error objects for each errors GraphQL catch.
