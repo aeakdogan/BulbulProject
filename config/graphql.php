@@ -99,7 +99,7 @@ return [
                 'tags' => 'App\GraphQL\Query\TagQuery',
             ],
             'mutation' => [
-
+                'addTagToArtist' => 'App\GraphQL\Mutation\AddTagToArtistMutation'
             ]
         ]
     ],
