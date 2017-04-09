@@ -30,6 +30,16 @@ public class Song {
         this.artists = new ArrayList<Artist>();
     }
 
+    public Song(int id, String name, int photoId, float rating, String spotifyTrackId) {
+        this.id = id;
+        this.name = name;
+        this.photoId = photoId;
+        this.rating = rating;
+        this.albums = new ArrayList<Album>();
+        this.artists = new ArrayList<Artist>();
+        this.spotifyUrl = "spotify:track:"+spotifyTrackId;
+    }
+
     public int getId() {
         return id;
     }
