@@ -32,7 +32,7 @@ class BulbulUserQuery extends Query
             return BulbulUser::findMany($args['ids']);
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
-            $skip = isset($args['skip']) ? $args['skip'] : 100;
+            $skip = isset($args['skip']) ? $args['skip'] : 0;
             return BulbulUser::take($limit)->skip($skip)->get();
         }
     }

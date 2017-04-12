@@ -32,7 +32,7 @@ class TagQuery extends Query
             return Tag::findMany($args['ids']);
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
-            $skip = isset($args['skip']) ? $args['skip'] : 100;
+            $skip = isset($args['skip']) ? $args['skip'] : 0;
             return Tag::take($limit)->skip($skip)->get();
         }
     }

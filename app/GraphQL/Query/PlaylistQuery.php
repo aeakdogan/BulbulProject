@@ -32,7 +32,7 @@ class PlaylistQuery extends Query
             return Playlist::findMany($args['ids']);
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
-            $skip = isset($args['skip']) ? $args['skip'] : 100;
+            $skip = isset($args['skip']) ? $args['skip'] : 0;
             return Playlist::take($limit)->skip($skip)->get();
         }
     }
