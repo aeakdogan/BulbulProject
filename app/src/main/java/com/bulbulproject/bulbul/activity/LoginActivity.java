@@ -3,7 +3,9 @@ package com.bulbulproject.bulbul.activity;
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.annotation.TargetApi;
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
@@ -16,25 +18,22 @@ import android.view.inputmethod.EditorInfo;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.apollographql.android.ApolloCall;
+import com.apollographql.android.api.graphql.Response;
+import com.bulbulproject.AuthenticationQuery;
+import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
+
+import javax.annotation.Nonnull;
 
 /**
  * A login screen that offers login via email/password.
  */
 public class LoginActivity extends AppCompatActivity {
 
-    /**
-     * A dummy authentication store containing known user names and passwords.
-     * TODO: remove after connecting to a real authentication system.
-     */
-    private static final String[] DUMMY_CREDENTIALS = new String[]{
-            "foo@example.com:hello", "bar@example.com:world"
-    };
-    /**
-     * Keep track of the login task to ensure we can cancel it if requested.
-     */
-    private UserLoginTask mAuthTask = null;
+    private SharedPreferences sharedPref;
 
     // UI references.
     private TextView registerView;
@@ -47,6 +46,13 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+        sharedPref = getApplicationContext().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE);
+
+        if(sharedPref.contains("AUTH_TOKEN")){
+            Intent intent = new Intent(getApplicationContext(), SpotifyConnectionActivity.class);
+            startActivity(intent);
+        }
+
         // Set up the login form.
         mEmailView = (EditText) findViewById(R.id.email);
 
@@ -89,9 +95,6 @@ public class LoginActivity extends AppCompatActivity {
      * errors are presented and no actual login attempt is made.
      */
     private void attemptLogin() {
-        if (mAuthTask != null) {
-            return;
-        }
 
         // Reset errors.
         mEmailView.setError(null);
@@ -130,8 +133,47 @@ public class LoginActivity extends AppCompatActivity {
             // Show a progress spinner, and kick off a background task to
             // perform the user login attempt.
             showProgress(true);
-            mAuthTask = new UserLoginTask(email, password);
-            mAuthTask.execute((Void) null);
+            ((App) getApplication()).apolloClient().newCall(
+                    AuthenticationQuery.builder()
+                            .email(email)
+                            .password(password)
+                            .build()).enqueue(new ApolloCall.Callback<AuthenticationQuery.Data>() {
+                @Override
+                public void onResponse(@Nonnull Response<AuthenticationQuery.Data> response) {
+                    if(response.errors().isEmpty() && response.data().authentication().length() >0) {
+                        SharedPreferences.Editor editor = sharedPref.edit();
+                        editor.putString("AUTH_TOKEN", response.data().authentication());
+                        editor.apply();
+
+                        Intent intent = new Intent(getApplicationContext(), SpotifyConnectionActivity.class);
+                        startActivity(intent);
+                    }
+                    else{
+                        runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                mPasswordView.setError(getString(R.string.error_incorrect_password_email));
+                                mPasswordView.requestFocus();
+                                mEmailView.setError(getString(R.string.error_incorrect_password_email));
+                                showProgress(false);
+                            }
+                        });
+
+                    }
+                }
+
+                @Override
+                public void onFailure(@Nonnull Throwable t) {
+                    final String text = t.getMessage();
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            Toast.makeText(LoginActivity.this, text, Toast.LENGTH_SHORT).show();
+                            showProgress(false);
+                        }
+                    });
+                }
+            });
         }
     }
 
@@ -178,67 +220,6 @@ public class LoginActivity extends AppCompatActivity {
             // and hide the relevant UI components.
             mProgressView.setVisibility(show ? View.VISIBLE : View.GONE);
             mLoginFormView.setVisibility(show ? View.GONE : View.VISIBLE);
-        }
-    }
-
-    /**
-     * Represents an asynchronous login/registration task used to authenticate
-     * the user.
-     */
-    public class UserLoginTask extends AsyncTask<Void, Void, Integer> {
-
-        private final String mEmail;
-        private final String mPassword;
-
-        UserLoginTask(String email, String password) {
-            mEmail = email;
-            mPassword = password;
-        }
-
-        @Override
-        protected Integer doInBackground(Void... params) {
-            // TODO: attempt authentication against a network service.
-
-            try {
-                // Simulate network access.
-                Thread.sleep(1000);
-            } catch (InterruptedException e) {
-                return 0;
-            }
-
-            for (String credential : DUMMY_CREDENTIALS) {
-                String[] pieces = credential.split(":");
-                if (pieces[0].equals(mEmail)) {
-                    // Account exists, return true if the password matches.
-                    return (pieces[1].equals(mPassword)) ? 1 : 0;
-                }
-            }
-            return 2;
-        }
-
-        @Override
-        protected void onPostExecute(final Integer result) {
-            mAuthTask = null;
-            showProgress(false);
-
-            if (result == 1) {
-                //finish();
-                Intent intent = new Intent(getApplicationContext(), SpotifyConnectionActivity.class);
-                startActivity(intent);
-            } else if (result == 0){
-                mPasswordView.setError(getString(R.string.error_incorrect_password));
-                mPasswordView.requestFocus();
-            }
-            else{
-                mEmailView.setError(getString(R.string.error_no_email_account));
-                mEmailView.requestFocus();
-            }
-        }
-
-        @Override
-        protected void onCancelled() {
-            mAuthTask = null;
-            showProgress(false);
         }
     }
 }

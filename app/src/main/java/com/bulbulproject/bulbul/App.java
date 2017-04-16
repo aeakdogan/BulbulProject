@@ -22,6 +22,7 @@ public class App extends Application {
         apolloClient = ApolloClient.<ApolloCall>builder().serverUrl(BASE_URL)
                 .okHttpClient(okHttpClient)
                 .build();
+
     }
 
     public ApolloClient apolloClient() {
