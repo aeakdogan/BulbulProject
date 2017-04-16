@@ -97,9 +97,11 @@ return [
                 'playlists' => 'App\GraphQL\Query\PlaylistQuery',
                 'users' => 'App\GraphQL\Query\BulbulUserQuery',
                 'tags' => 'App\GraphQL\Query\TagQuery',
+                'authentication' =>'App\GraphQL\Query\AuthenticationQuery',
             ],
             'mutation' => [
-                'addTagToArtist' => 'App\GraphQL\Mutation\AddTagToArtistMutation'
+                'addTagToArtist' => 'App\GraphQL\Mutation\AddTagToArtistMutation',
+                'register' => 'App\GraphQL\Mutation\RegisterMutation',
             ]
         ]
     ],

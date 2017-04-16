@@ -5,6 +5,7 @@ use GraphQL;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Query;
 use App\BulbulUser;
+use JWTAuth;
 
 class BulbulUserQuery extends Query
 {
@@ -20,13 +21,16 @@ class BulbulUserQuery extends Query
             'limit' => ['name' => 'limit', 'type' => Type::int()],
             'skip' => ['name' => 'skip', 'type' => Type::int()],
             'ids' => ['name' => 'ids', 'type' => Type::listOf(Type::int())],
+            'token' => ['name' => 'token', 'type' => Type::string()]
         ];
     }
 
     public function resolve($root, $args)
     {
-
-        if (isset($args['id'])) {
+        if (isset($args['token'])){
+            $user = JWTAuth::authenticate($args['token']);
+            return BulbulUser::where('id', $user->id)->get();
+        } else if (isset($args['id'])) {
             return BulbulUser::where('id', $args['id'])->get();
         } else if (isset($args['ids'])) {
             return BulbulUser::findMany($args['ids']);

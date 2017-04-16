@@ -179,6 +179,7 @@ return [
         App\Providers\RouteServiceProvider::class,
         Folklore\GraphQL\ServiceProvider::class,
         Vinelab\NeoEloquent\NeoEloquentServiceProvider::class,
+        Tymon\JWTAuth\Providers\JWTAuthServiceProvider::class
 
     ],
 
@@ -230,6 +231,7 @@ return [
 
         //Vendor facades
         'GraphQL' => Folklore\GraphQL\Support\Facades\GraphQL::class,
+        'JWTAuth' => Tymon\JWTAuth\Facades\JWTAuth::class,
 
     ],
 

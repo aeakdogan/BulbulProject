@@ -17,7 +17,7 @@ class BulbulUserType extends GraphQLType
                 'type' => Type::nonNull(Type::int()),
                 'description' => 'The id of the user'
             ],
-            'name' => [
+            'username' => [
                 'type' => Type::nonNull(Type::string()),
                 'description' => 'The name of user'
             ],
@@ -48,6 +48,14 @@ class BulbulUserType extends GraphQLType
             'playlists' => [
                 'type' => Type::listOf(GraphQL::type('Playlist')),
                 'description' => 'Playists created by user'
+            ],
+            'followers' => [
+                'type' => Type::listOf(GraphQL::type('BulbulUser')),
+                'description' => 'Followers of user'
+            ],
+            'followedUsers' => [
+                'type' => Type::listOf(GraphQL::type('BulbulUser')),
+                'description' => 'Followed users of user'
             ]
         ];
     }
