@@ -5,8 +5,8 @@ import os
 # WARNING: RUN THIS SCRIPT IN 'Data' FOLDER
 
 def main():
-    generate_artist_related_csv_files()
-    # generate_track_related_csv_files()
+    # generate_artist_related_csv_files()
+    generate_track_related_csv_files()
 
 
 def generate_track_related_csv_files():
@@ -16,6 +16,7 @@ def generate_track_related_csv_files():
     album_song = {} # dictionary that matches album mbid to array of song ids
     albums_meta = {} # keeps metadata of albums, fetching from track info
     song_artist = {} # stores song mbid - artist mbid matches
+    track_tags = []  # keeps the track-tag matches
 
     count_spotify_metadata_not_found = 0
     count_spotify_audio_features_not_found = 0
@@ -30,10 +31,14 @@ def generate_track_related_csv_files():
                 obj = json.load(file)
 
                 if 'track' in obj:
-                    inserted = { field: obj['track'][field] for field in ['mbid', 'name', 'duration']}
+                    inserted = { field: obj['track'][field] for field in ['mbid', 'name', 'duration', 'playcount', 'listeners']}
+
                     inserted['lastfm_url'] = obj['track']['url']
 
-                    song_artist[obj['track']['mbid']] = obj['track']['artist']['mbid']
+                    try:
+                        song_artist[obj['track']['mbid']] = obj['track']['artist']['mbid']
+                    except KeyError:
+                        continue  # pass this track
 
                     # APPEND THE OBJECT TO BATCH
                     inserted_rows.append(inserted)
@@ -48,12 +53,20 @@ def generate_track_related_csv_files():
 
                         # FOR KEEPING ALBUM METADATA
                         if album_mbid not in albums_meta:
-                            albums_meta[album_mbid] = {
-                                'mbid': album_mbid,
-                                'name': obj['track']['album']['title'],
-                                'image': obj['track']['album']['image'][2]['#text'],
-                                'lastfm_url': obj['track']['album']['url'],
-                            }
+                            try:
+                                albums_meta[album_mbid] = {
+                                    'mbid': album_mbid,
+                                    'name': obj['track']['album']['title'],
+                                    'image': obj['track']['album']['image'][2]['#text'],
+                                    'lastfm_url': obj['track']['album']['url'],
+                                }
+                            except KeyError:
+                                albums_meta[album_mbid] = {
+                                    'mbid': album_mbid,
+                                    'name': obj['track']['album']['title'],
+                                    'image': "",
+                                    'lastfm_url': obj['track']['album']['url'],
+                                }
 
                         # FOR KEEPING ALBUM ARTIST RELATIONS
                         # i'm assuming that artist name field and album artist fields are consistent
@@ -66,12 +79,15 @@ def generate_track_related_csv_files():
                             # dictionary that matches album mbid to artist mbid
                             album_artist[obj['track']['album']['mbid']] = artist_mbid
 
+                       # FOR KEEPING TRACK-TAG MATCHES FOR SAVING LATER ON
+                        for tag in obj['track']['toptags']['tag']:
+                            track_tags.append((obj['track']['mbid'], tag))
                 else:
                     # raise Exception('No track field')
                     continue # ignore that one and continue iterating
 
     # FETCH ALL SPOTIFY MATCHES FROM FILE
-    with open('matched_lastfm_spotify_ids.txt') as spotifile:
+    with open('all_matched_lastfm_spotify.txt') as spotifile:
         # Read the spotify ids of the tracks and put into list
         content = spotifile.read()
         spotify_matches = [tuple(line.split(' <-> ')) for line in content.splitlines()]
@@ -90,6 +106,8 @@ def generate_track_related_csv_files():
                                         'spotify_artist_url': obj['artists'][0]['href'],
                                         'spotify_album_id': obj['album']['id'],
                                         'spotify_album_url': obj['album']['href'],
+                                        'spotify_album_img': obj['album']['images'][0]['url'],
+
                                         'spotify_track_id': obj['id'],
                                         'spotify_track_url': obj['href'],
                                         'spotify_track_preview_url': obj['preview_url'],
@@ -148,7 +166,7 @@ def generate_track_related_csv_files():
     with open('tracks.csv', 'w') as csvfile:
         print("Generating tracks.csv")
 
-        fieldnames = ['mbid', 'name', 'duration', ]
+        fieldnames = ['mbid', 'name', 'duration', 'playcount', 'listeners']
         custom_fieldnames = ['lastfm_url',  'spotify_artist_url',
                              'spotify_artist_id', 'spotify_album_id',
                              'spotify_album_url', 'spotify_album_img',
@@ -164,6 +182,33 @@ def generate_track_related_csv_files():
 
         writer.writeheader()
         writer.writerows(inserted_rows) # PERFORM BATCH INSERTION
+
+    with open('tags1.csv', 'w') as csvfile:
+        print("Generating tags1.csv")
+        fieldnames = ['tag_name', 'tag_url']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+        writer.writeheader()
+        inserted_rows = []
+        tags = { tag['name']:tag['url'] for mbid, tag in track_tags}
+        for name, url in tags.items():
+            inserted_rows.append({'tag_name': name, 'tag_url': url})
+
+        writer.writerows(inserted_rows) # PERFORM BATCH INSERTION
+
+    # WRITE TRACK-TAG DATA
+    with open('track-tags.csv', 'w') as csvfile:
+        print("Generating track-tags.csv")
+        fieldnames = ['track_mbid', 'tag_name']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+        writer.writeheader()
+        inserted_rows = []
+        for mbid, tag in track_tags:
+            inserted_rows.append({'track_mbid': mbid, 'tag_name': tag['name']})
+
+        writer.writerows(inserted_rows) # PERFORM BATCH INSERTION
+
 
     with open('track-artist.csv', 'w') as csvfile:
         print("Generating track-artist.csv")
@@ -239,8 +284,8 @@ def generate_artist_related_csv_files():
         processed_artists = {}
 
         # TRAVERSE ARTIST INFO FILES
-        for folderName, subfolders, filenames in os.walk('lastfm_artist_files'):
-            for filename in [fname for fname in filenames if fname.find('artist_info') != -1]: # only open artist_info files
+        for folderName, subfolders, filenames in os.walk('artist_info'):
+            for filename in [fname for fname in filenames if fname.find('info') != -1]: # only open artist_info files
                 # OPEN THE ARTIST INFO FILE
                 with open('%s/%s' % (folderName, filename)) as file:
                     obj = json.load(file)
@@ -251,7 +296,12 @@ def generate_artist_related_csv_files():
 
                         inserted = { field: obj['artist'][field] for field in fieldnames }
                         inserted['lastfm_url'] = obj['artist']['url']
-                        inserted['image'] = obj['artist']['image'][2]['#text']
+                        
+                        try:
+                            inserted['image'] = obj['artist']['image'][2]['#text']
+                        except KeyError:
+                            inserted['image'] = ''
+
                         inserted['listener_count'] = obj['artist']['stats']['listeners']
                         inserted['play_count'] = obj['artist']['stats']['playcount']
                         inserted['biography_text'] = obj['artist']['bio']['summary']
@@ -278,8 +328,8 @@ def generate_artist_related_csv_files():
         #     writer.writeheader()
         #     for mbid, similar_artist in similar_artists:
 
-        with open('tags.csv', 'w') as csvfile:
-            print("Generating tags.csv")
+        with open('tags2.csv', 'w') as csvfile:
+            print("Generating tags2.csv")
             fieldnames = ['tag_name', 'tag_url']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
