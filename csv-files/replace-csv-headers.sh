@@ -1,6 +1,6 @@
 csv_files=("album-artist.csv" "album-track.csv" "albums.csv" \
-            "artist-tags.csv" "artists.csv"  "tags.csv" \
-             "track-artist.csv" "tracks.csv" "user-info-withpw.csv" \
+            "artist-tags.csv" "artists.csv"  "tags1.csv" "tags2.csv"  \
+             "track-artist.csv" "tracks.csv" "track-tags.csv" "user-info-withpw.csv" \
              "user-to-album.csv" "user-to-artist.csv" "user-to-track.csv" \
              "user-to-user.csv")
 
@@ -11,8 +11,10 @@ new_headers+=('mbid:ID(Album),name,image,lastfm_url')
 new_headers+=('artist_mbid:START_ID(Artist),tag_name:END_ID(Tag)')
 new_headers+=('name,mbid:ID(Artist),lastfm_url,image,listener_count:INT,play_count:INT,biography_text,biography_url')
 new_headers+=('tag_name:ID(Tag),tag_url')
+new_headers+=('tag_name:ID(Tag),tag_url')
 new_headers+=('track_mbid:START_ID(Track),artist_mbid:END_ID(Artist)')
-new_headers+=('mbid:ID(Track),name,duration:INT,lastfm_url,spotify_artist_url,spotify_artist_id,spotify_album_id,spotify_album_url,spotify_album_img,spotify_track_id,spotify_track_url,spotify_track_preview_url,spotify_track_popularity:INT,audio_features_danceability:FLOAT,audio_features_energy:FLOAT,audio_features_key:FLOAT,audio_features_loudness:FLOAT,audio_features_mode:FLOAT,audio_features_speechiness:FLOAT,audio_features_acousticness:FLOAT,audio_features_instrumentalness:FLOAT,audio_features_liveness:FLOAT,audio_features_valence:FLOAT,audio_features_tempo:FLOAT,audio_features_analysis_url,audio_features_duration_ms:INT,audio_features_time_signature:INT')
+new_headers+=('mbid:ID(Track),name,duration:INT,playcount:INT,listeners:INT,lastfm_url,spotify_artist_url,spotify_artist_id,spotify_album_id,spotify_album_url,spotify_album_img,spotify_track_id,spotify_track_url,spotify_track_preview_url,spotify_track_popularity:INT,audio_features_danceability:FLOAT,audio_features_energy:FLOAT,audio_features_key:FLOAT,audio_features_loudness:FLOAT,audio_features_mode:FLOAT,audio_features_speechiness:FLOAT,audio_features_acousticness:FLOAT,audio_features_instrumentalness:FLOAT,audio_features_liveness:FLOAT,audio_features_valence:FLOAT,audio_features_tempo:FLOAT,audio_features_analysis_url,audio_features_duration_ms:INT,audio_features_time_signature:INT')
+new_headers+=('track_mbid:START_ID(Track),tag_name:END_ID(Tag)')
 new_headers+=('username:ID(BulbulUser),gender,country,image,password')
 new_headers+=('username:START_ID(BulbulUser),album_mbid:END_ID(Album)')
 new_headers+=('username:START_ID(BulbulUser),artist_mbid:END_ID(Artist)')
