@@ -27,11 +27,27 @@ class BulbulUserType extends GraphQLType
             ],
             'followedTracks' => [
                 'type' => Type::listOf(GraphQL::type('Track')),
-                'description' => 'The followed songs of user'
+                'description' => 'The followed songs of user',
+                'args' => [
+                    'limit' => ['description' => 'Number of tracks to be fetched', 'type' => Type::int()],
+                    'skip' => ['description' => 'Number of tracks to be skipped', 'type' => Type::int()],
+                ]
             ],
             'followedArtists' => [
                 'type' => Type::listOf(GraphQL::type('Artist')),
-                'description' => 'The followed artists of user'
+                'description' => 'The followed artists of user',
+                'args' => [
+                    'limit' => ['description' => 'Number of artists to be fetched', 'type' => Type::int()],
+                    'skip' => ['description' => 'Number of artists to be skipped', 'type' => Type::int()],
+                ]
+            ],
+            'followedAlbums' => [
+                'type' => Type::listOf(GraphQL::type('Album')),
+                'description' => 'The followed albums of user',
+                'args' => [
+                    'limit' => ['description' => 'Number of albums to be fetched', 'type' => Type::int()],
+                    'skip' => ['description' => 'Number of albums to be skipped', 'type' => Type::int()],
+                ]
             ],
             'followedPlaylists' => [
                 'type' => Type::listOf(GraphQL::type('Playlist')),
@@ -51,13 +67,57 @@ class BulbulUserType extends GraphQLType
             ],
             'followers' => [
                 'type' => Type::listOf(GraphQL::type('BulbulUser')),
-                'description' => 'Followers of user'
+                'description' => 'Followers of user',
+                'args' => [
+                    'limit' => ['description' => 'Number of followers to be fetched', 'type' => Type::int()],
+                    'skip' => ['description' => 'Number of followers to be skipped', 'type' => Type::int()],
+                ]
             ],
             'followedUsers' => [
                 'type' => Type::listOf(GraphQL::type('BulbulUser')),
-                'description' => 'Followed users of user'
+                'description' => 'Followed users of user',
+                'args' => [
+                    'limit' => ['description' => 'Number of followed users to be fetched', 'type' => Type::int()],
+                    'skip' => ['description' => 'Number of followed users to be skipped', 'type' => Type::int()],
+                ]
             ]
         ];
     }
+
+    protected function resolveFollowersField($root, $args)
+    {
+        $limit = isset($args['limit']) ? $args['limit'] : 100;
+        $skip = isset($args['skip']) ? $args['skip'] : 0;
+        return $root->followers()->take($limit)->skip($skip)->get();
+    }
+
+    protected function resolveFollowedUsersField($root, $args)
+    {
+        $limit = isset($args['limit']) ? $args['limit'] : 100;
+        $skip = isset($args['skip']) ? $args['skip'] : 0;
+        return $root->followedUsers()->take($limit)->skip($skip)->get();
+    }
+
+    protected function resolveFollowedTracksField($root, $args)
+    {
+        $limit = isset($args['limit']) ? $args['limit'] : 100;
+        $skip = isset($args['skip']) ? $args['skip'] : 0;
+        return $root->followedTracks()->take($limit)->skip($skip)->get();
+    }
+
+    protected function resolveFollowedArtistsField($root, $args)
+    {
+        $limit = isset($args['limit']) ? $args['limit'] : 100;
+        $skip = isset($args['skip']) ? $args['skip'] : 0;
+        return $root->followedArtists()->take($limit)->skip($skip)->get();
+    }
+
+    protected function resolveFollowedAlbumsField($root, $args)
+    {
+        $limit = isset($args['limit']) ? $args['limit'] : 100;
+        $skip = isset($args['skip']) ? $args['skip'] : 0;
+        return $root->followedAlbums()->take($limit)->skip($skip)->get();
+    }
+
 
 }
