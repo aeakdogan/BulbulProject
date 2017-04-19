@@ -1,0 +1,18 @@
+query AlbumQuery($id: Int, $limit: Int, $skip:Int, $ids: [Int]) {
+    albums(id: $id, limit: $limit, skip:$skip, ids: $ids){
+        id
+        name
+        image
+        artists{
+          name
+        }
+        tracks{
+          id
+          name
+          spotify_track_id
+          artists{
+            name
+          }
+        }
+    }
+}

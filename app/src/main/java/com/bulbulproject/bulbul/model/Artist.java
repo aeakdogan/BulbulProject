@@ -18,6 +18,11 @@ public class Artist {
         this.albums = new ArrayList<Album>();
     }
 
+    public Artist(String name) {
+        this.name = name;
+        this.albums = new ArrayList<Album>();
+    }
+
     public int getId() {
         return id;
     }

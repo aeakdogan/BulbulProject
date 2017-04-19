@@ -6,55 +6,112 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.apollographql.android.ApolloCall;
+import com.apollographql.android.api.graphql.Response;
+import com.bulbulproject.AlbumQuery;
+import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.adapter.SongsRVAdapter;
 import com.bulbulproject.bulbul.model.Album;
+import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Song;
+import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.annotation.Nonnull;
+
 public class AlbumActivity extends AppCompatActivity {
     private Album mAlbum;
+    private int mAlbumId;
     private RecyclerView.Adapter mRVAdapter;
+    private ImageView albumImage;
+    private TextView albumArtist;
+    private RecyclerView listView;
+    private Toolbar toolbar;
+    private CollapsingToolbarLayout collapsingToolbarLayout;
+    private RecyclerView.LayoutManager layoutManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_album);
-        initializeData();
-
-        ImageView albumImage = (ImageView) findViewById(R.id.album_image);
-        TextView albumArtist = (TextView) findViewById(R.id.album_artist);
-        RecyclerView listView = (RecyclerView) findViewById(R.id.album_song_list);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-
+        albumImage = (ImageView) findViewById(R.id.album_image);
+        albumArtist = (TextView) findViewById(R.id.album_artist);
+        listView = (RecyclerView) findViewById(R.id.album_song_list);
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        CollapsingToolbarLayout collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.toolbar_layout);
+        mAlbum = new Album("Loading...", 0, "");
+
+        collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.toolbar_layout);
         collapsingToolbarLayout.setTitle(mAlbum.getName());
-        albumImage.setImageResource(mAlbum.getPhotoId());
-        albumArtist.setText(mAlbum.getArtistsString());
-        RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(this);
+
+        layoutManager = new LinearLayoutManager(this);
         mRVAdapter = new SongsRVAdapter(mAlbum.getSongs(), this);
         listView.setAdapter(mRVAdapter);
         listView.setLayoutManager(layoutManager);
+
+
+        mAlbumId = getIntent().getIntExtra("id", -1);
+        if (mAlbumId > -1) {
+            ((App) getApplication()).apolloClient().newCall(AlbumQuery.builder().id(mAlbumId).build())
+                    .enqueue(new ApolloCall.Callback<AlbumQuery.Data>() {
+                        @Override
+                        public void onResponse(@Nonnull Response<AlbumQuery.Data> response) {
+                            if (response.isSuccessful()) {
+
+                                AlbumQuery.Data.Album album = response.data().albums().get(0);
+                                mAlbum.setName(album.name());
+                                mAlbum.setImageUrl(album.image());
+
+                                if(album.artists() != null) {
+                                    for (AlbumQuery.Data.Album.Artist artist : album.artists()) {
+                                        mAlbum.getArtists().add(new Artist(artist.name()));
+                                    }
+                                }
+
+                                if(album.tracks()!=null) {
+                                    for (AlbumQuery.Data.Album.Track track : album.tracks()) {
+                                        mAlbum.getSongs().add(new Song(track.id(), track.name(), 0, track.spotify_track_id()));
+                                    }
+                                }
+
+                                runOnUiThread(new Runnable() {
+                                    @Override
+                                    public void run() {
+                                        Picasso.with(AlbumActivity.this).load(mAlbum.getImageUrl()).into(albumImage);
+                                        albumArtist.setText(mAlbum.getArtistsString());
+                                        collapsingToolbarLayout.setTitle(mAlbum.getName());
+                                        mRVAdapter.notifyDataSetChanged();
+                                    }
+                                });
+                            }
+                        }
+
+                        @Override
+                        public void onFailure(@Nonnull Throwable t) {
+                            final String text = t.getMessage();
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    Toast.makeText(AlbumActivity.this, text, Toast.LENGTH_SHORT).show();
+                                }
+                            });
+                        }
+                    });
+        }
+        else {
+            Toast.makeText(AlbumActivity.this, R.string.album_activity_fetch_error, Toast.LENGTH_SHORT).show();
+
+        }
+
+
     }
 
-    private void initializeData() {
-        mAlbum = new Album("Album 1", 1995, R.drawable.album);
-
-        List<Song> songList = new ArrayList<Song>();
-
-        songList.add(new Song(1, "Song 1", R.drawable.cover_picture, 0));
-        songList.add(new Song(2, "Song 2", R.drawable.cover_picture, 2));
-        songList.add(new Song(3, "Song 3", R.drawable.cover_picture, 1));
-        songList.add(new Song(4, "Song 4", R.drawable.cover_picture, 3.4f));
-        songList.add(new Song(5, "Song 5", R.drawable.cover_picture, 4.6f));
-        songList.add(new Song(6, "Song 6", R.drawable.cover_picture, 2.7f));
-
-        mAlbum.setSongs(songList);
-    }
 }

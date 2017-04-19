@@ -67,8 +67,7 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
             public void onClick(View view) {
                 Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                intent.putExtra("song_uri", "spotify:user:spotify:playlist:2yLXxKhhziG2xzy7eyD4TD");
-                //TODO: Pass song data
+                intent.putExtra("song_uri", tmpSong.getSpotifyUrl());
                 context.getApplicationContext().startActivity(intent);
             }
         });

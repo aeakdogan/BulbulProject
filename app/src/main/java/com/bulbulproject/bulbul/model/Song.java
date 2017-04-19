@@ -40,6 +40,15 @@ public class Song {
         this.spotifyUrl = "spotify:track:"+spotifyTrackId;
     }
 
+    public Song(int id, String name, float rating, String spotifyTrackId) {
+        this.id = id;
+        this.name = name;
+        this.rating = rating;
+        this.albums = new ArrayList<Album>();
+        this.artists = new ArrayList<Artist>();
+        this.spotifyUrl = "spotify:track:"+spotifyTrackId;
+    }
+
     public int getId() {
         return id;
     }

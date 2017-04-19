@@ -13,11 +13,20 @@ public class Album {
     private List<Song> songs;
     private List<Artist> artists;
     private int photoId;
+    private String imageUrl;
 
     public Album(String name, int year, int photoId) {
         this.name = name;
         this.year = year;
         this.photoId = photoId;
+        this.songs = new ArrayList<Song>();
+        this.artists = new ArrayList<Artist>();
+    }
+
+    public Album(String name, int year, String imageUrl) {
+        this.name = name;
+        this.year = year;
+        this.imageUrl = imageUrl;
         this.songs = new ArrayList<Song>();
         this.artists = new ArrayList<Artist>();
     }
@@ -59,15 +68,16 @@ public class Album {
     }
 
     public String getArtistsString() {
-        if( this.artists == null || this.artists.size() == 0)
+        if (this.artists == null || this.artists.size() == 0)
             return "Unknown Artist";
 
         String str = "";
-        for( Artist artist : this.artists)
+        for (Artist artist : this.artists)
             str += artist.toString() + ", ";
 
         return str;
     }
+
     public void setArtists(List<Artist> artists) {
         this.artists = artists;
     }
@@ -78,5 +88,13 @@ public class Album {
 
     public void setPhotoId(int photoId) {
         this.photoId = photoId;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
     }
 }

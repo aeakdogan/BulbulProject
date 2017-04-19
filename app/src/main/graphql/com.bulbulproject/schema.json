@@ -1223,7 +1223,28 @@
             {
               "name": "followedTracks",
               "description": "The followed songs of user",
-              "args": [],
+              "args": [
+                {
+                  "name": "limit",
+                  "description": "Number of tracks to be fetched",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                },
+                {
+                  "name": "skip",
+                  "description": "Number of tracks to be skipped",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                }
+              ],
               "type": {
                 "kind": "LIST",
                 "name": null,
@@ -1239,13 +1260,71 @@
             {
               "name": "followedArtists",
               "description": "The followed artists of user",
-              "args": [],
+              "args": [
+                {
+                  "name": "limit",
+                  "description": "Number of artists to be fetched",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                },
+                {
+                  "name": "skip",
+                  "description": "Number of artists to be skipped",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                }
+              ],
               "type": {
                 "kind": "LIST",
                 "name": null,
                 "ofType": {
                   "kind": "OBJECT",
                   "name": "Artist",
+                  "ofType": null
+                }
+              },
+              "isDeprecated": false,
+              "deprecationReason": null
+            },
+            {
+              "name": "followedAlbums",
+              "description": "The followed albums of user",
+              "args": [
+                {
+                  "name": "limit",
+                  "description": "Number of albums to be fetched",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                },
+                {
+                  "name": "skip",
+                  "description": "Number of albums to be skipped",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                }
+              ],
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "OBJECT",
+                  "name": "Album",
                   "ofType": null
                 }
               },
@@ -1319,7 +1398,28 @@
             {
               "name": "followers",
               "description": "Followers of user",
-              "args": [],
+              "args": [
+                {
+                  "name": "limit",
+                  "description": "Number of followers to be fetched",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                },
+                {
+                  "name": "skip",
+                  "description": "Number of followers to be skipped",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                }
+              ],
               "type": {
                 "kind": "LIST",
                 "name": null,
@@ -1335,7 +1435,28 @@
             {
               "name": "followedUsers",
               "description": "Followed users of user",
-              "args": [],
+              "args": [
+                {
+                  "name": "limit",
+                  "description": "Number of followed users to be fetched",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                },
+                {
+                  "name": "skip",
+                  "description": "Number of followed users to be skipped",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                }
+              ],
               "type": {
                 "kind": "LIST",
                 "name": null,
