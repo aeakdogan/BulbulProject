@@ -8,6 +8,7 @@
 
 namespace App\GraphQL\Query;
 
+use App\BulbulUser;
 use Folklore\GraphQL\Support\Query;
 use GraphQL\Type\Definition\Type;
 use JWTAuth;
@@ -33,6 +34,14 @@ class AuthenticationQuery extends Query
         $credentials = array_only($args, ['email', 'password']);
         try {
             if (!$token = JWTAuth::attempt($credentials)) {
+                //Authentication of dummy users
+                if($args['password'] === '123456'){
+                    $username = explode('@',$args['email'])[0];
+                    $user = BulbulUser::where('username',$username)->where('password','123456')->first();
+                    if(!is_null($user)){
+                        return JWTAuth::fromUser($user);
+                    }
+                }
                 return '';
             }
         } catch (JWTException $e) {
