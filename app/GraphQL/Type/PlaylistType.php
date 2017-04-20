@@ -22,6 +22,10 @@ class PlaylistType extends GraphQLType
                 'description' => 'The name of playlist'
             ],
             'tracks' => TracksField::class,
+            'tracksCount' =>[
+                'type' => Type::int(),
+                'description' => 'The number of tracks'
+            ],
             'followers' => [
                 'type' => Type::listOf(GraphQL::type('BulbulUser')),
                 'description' => 'Followers of playlist'

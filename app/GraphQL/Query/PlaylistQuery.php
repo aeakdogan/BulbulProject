@@ -2,6 +2,7 @@
 namespace App\GraphQL\Query;
 
 use GraphQL;
+use GraphQL\Type\Definition\ResolveInfo;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Query;
 use App\Playlist;
@@ -23,18 +24,32 @@ class PlaylistQuery extends Query
         ];
     }
 
-    public function resolve($root, $args)
+    public function resolve($root, $args,$context, ResolveInfo $info)
     {
+        $playlists = Playlist::query();
+        $fields = $info->getFieldSelection($depth = 1);
+
+        foreach ($fields as $field => $keys) {
+            if ($field === 'tracks') {
+                $playlists->with('tracks.artists');
+            }
+
+            if ($field === 'tracksCount') {
+                $playlists->with('tracks');
+            }
+
+        }
 
         if (isset($args['id'])) {
-            return Playlist::where('id', $args['id'])->get();
+            $playlists->where('id', $args['id']);
         } else if (isset($args['ids'])) {
-            return Playlist::findMany($args['ids']);
+            $playlists->whereIn('id',$args['ids']);
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
             $skip = isset($args['skip']) ? $args['skip'] : 0;
-            return Playlist::take($limit)->skip($skip)->get();
+            $playlists->take($limit)->skip($skip);
         }
+        return $playlists->get();
     }
 
 }

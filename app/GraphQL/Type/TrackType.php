@@ -21,6 +21,10 @@ class TrackType extends GraphQLType
                 'type' => Type::nonNull(Type::string()),
                 'description' => 'The name of track'
             ],
+            'albums' => [
+                'type' => Type::listOf(GraphQL::type('Album')),
+                'description' => 'Albums the track appears in'
+            ],
             'artists' => [
                 'type' => Type::listOf(GraphQL::type('Artist')),
                 'description' => 'Artists of album'

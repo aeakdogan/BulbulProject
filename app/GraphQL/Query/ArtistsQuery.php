@@ -2,6 +2,7 @@
 namespace App\GraphQL\Query;
 
 use GraphQL;
+use GraphQL\Type\Definition\ResolveInfo;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Query;
 use App\Artist;
@@ -23,18 +24,32 @@ class ArtistsQuery extends Query
         ];
     }
 
-    public function resolve($root, $args)
+    public function resolve($root, $args, $context, ResolveInfo $info)
     {
+        $artists = Artist::query();
+        $fields = $info->getFieldSelection($depth = 1);
 
+        foreach ($fields as $field => $keys) {
+            if ($field === 'albums') {
+                $artists->with('albums.artists','albums.tracks');
+            }
+            if ($field === 'tracks') {
+                $artists->with('tracks.artists');
+            }
+            if ($field === 'tags') {
+                $artists->with('tags');
+            }
+        }
         if (isset($args['id'])) {
-            return Artist::where('id', $args['id'])->get();
+            $artists->where('id', $args['id']);
         } else if (isset($args['ids'])) {
-            return Artist::findMany($args['ids']);
+            $artists->whereIn('id',$args['ids']);
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
             $skip = isset($args['skip']) ? $args['skip'] : 0;
-            return Artist::take($limit)->skip($skip)->get();
+            $artists->take($limit)->skip($skip);
         }
+        return $artists->get();
     }
 
 }

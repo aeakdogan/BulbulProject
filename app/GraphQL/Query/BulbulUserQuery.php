@@ -2,6 +2,7 @@
 namespace App\GraphQL\Query;
 
 use GraphQL;
+use GraphQL\Type\Definition\ResolveInfo;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Query;
 use App\BulbulUser;
@@ -25,20 +26,47 @@ class BulbulUserQuery extends Query
         ];
     }
 
-    public function resolve($root, $args)
+    public function resolve($root, $args, $context, ResolveInfo $info)
     {
+        $users = BulbulUser::query();
+
+        $fields = $info->getFieldSelection($depth = 1);
+
+        foreach ($fields as $field => $keys) {
+            if ($field === 'followedTracks') {
+                $users->with('followedTracks.artists', 'followedTracks.albums');
+            }
+            if ($field === 'followedArtists') {
+                $users->with('followedArtists.albums');
+            }
+            if ($field === 'followedAlbums') {
+                $users->with('followedAlbums.artists', 'followedAlbums.tracks');
+            }
+            if ($field === 'tags') {
+                $users->with('tags');
+            }
+            if ($field === 'followers') {
+                $users->with('followers');
+            }
+            if ($field === 'followedUsers') {
+                $users->with('followedUsers');
+            }
+
+        }
+
         if (isset($args['token'])){
             $user = JWTAuth::authenticate($args['token']);
-            return BulbulUser::where('id', $user->id)->get();
+            $users->where('id', $user->id);
         } else if (isset($args['id'])) {
-            return BulbulUser::where('id', $args['id'])->get();
+            $users->where('id', $args['id']);
         } else if (isset($args['ids'])) {
-            return BulbulUser::findMany($args['ids']);
+            $users->whereIn('id',['ids']);
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
             $skip = isset($args['skip']) ? $args['skip'] : 0;
-            return BulbulUser::take($limit)->skip($skip)->get();
+            $users->take($limit)->skip($skip);
         }
+        return $users->get();
     }
 
 }

@@ -35,6 +35,10 @@ class AlbumType extends GraphQLType
                 'description' => 'The lastfm url of album'
             ],
             'tracks' => TracksField::class,
+            'tracksCount' =>[
+                'type' => Type::int(),
+                'description' => 'The number of tracks'
+            ],
             'artists' => [
                 'type' => Type::listOf(GraphQL::type('Artist')),
                 'description' => 'Artists of album'

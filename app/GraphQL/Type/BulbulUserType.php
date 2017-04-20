@@ -86,6 +86,10 @@ class BulbulUserType extends GraphQLType
 
     protected function resolveFollowersField($root, $args)
     {
+        if(!isset($args['limit']) && !isset($args['skip'])){
+            if (!$root->relationLoaded('followers')) $root->load('followers');
+            return $root->getRelation('followers');
+        }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
         return $root->followers()->take($limit)->skip($skip)->get();
@@ -93,6 +97,10 @@ class BulbulUserType extends GraphQLType
 
     protected function resolveFollowedUsersField($root, $args)
     {
+        if(!isset($args['limit']) && !isset($args['skip'])){
+            if (!$root->relationLoaded('followedUsers')) $root->load('followedUsers');
+            return $root->getRelation('followedUsers');
+        }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
         return $root->followedUsers()->take($limit)->skip($skip)->get();
@@ -100,6 +108,10 @@ class BulbulUserType extends GraphQLType
 
     protected function resolveFollowedTracksField($root, $args)
     {
+        if(!isset($args['limit']) && !isset($args['skip'])){
+            if (!$root->relationLoaded('followedTracks')) $root->load('followedTracks');
+            return $root->getRelation('followedTracks');
+        }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
         return $root->followedTracks()->take($limit)->skip($skip)->get();
@@ -107,6 +119,10 @@ class BulbulUserType extends GraphQLType
 
     protected function resolveFollowedArtistsField($root, $args)
     {
+        if(!isset($args['limit']) && !isset($args['skip'])){
+            if (!$root->relationLoaded('followedArtists')) $root->load('followedArtists');
+            return $root->getRelation('followedArtists');
+        }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
         return $root->followedArtists()->take($limit)->skip($skip)->get();
@@ -114,6 +130,10 @@ class BulbulUserType extends GraphQLType
 
     protected function resolveFollowedAlbumsField($root, $args)
     {
+        if(!isset($args['limit']) && !isset($args['skip'])){
+            if (!$root->relationLoaded('followedAlbums')) $root->load('followedAlbums');
+            return $root->getRelation('followedAlbums');
+        }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
         return $root->followedAlbums()->take($limit)->skip($skip)->get();

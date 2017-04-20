@@ -30,8 +30,13 @@ class TracksField extends Field
         ];
     }
 
-    protected function resolve($root, $args)
+    protected function resolve($root, $args,$context, GraphQL\Type\Definition\ResolveInfo $info)
     {
+
+        if(!isset($args['limit']) && !isset($args['skip'])){
+            if (!$root->relationLoaded('tracks')) $root->load('tracks');
+            return $root->getRelation('tracks');
+        }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
         return $root->tracks()->take($limit)->skip($skip)->get();

@@ -23,6 +23,10 @@ class ArtistType extends GraphQLType
                 'description' => 'The name of artist'
             ],
             'tracks' => TracksField::class,
+            'tracksCount' =>[
+                'type' => Type::int(),
+                'description' => 'The number of tracks'
+            ],
             'albums' => [
                 'type' => Type::listOf(GraphQL::type('Album')),
                 'description' => 'Albums of artist'

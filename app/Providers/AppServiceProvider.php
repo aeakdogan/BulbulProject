@@ -3,6 +3,8 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\Facades\Event;
+use Illuminate\Support\Facades\Log;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -23,6 +25,10 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+//        Database logger
+//        Event::listen('Illuminate\Database\Events\QueryExecuted', function($query)
+//        {
+//            Log::info($query->sql);
+//        });
     }
 }

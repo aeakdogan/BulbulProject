@@ -2,6 +2,7 @@
 namespace App\GraphQL\Query;
 
 use GraphQL;
+use GraphQL\Type\Definition\ResolveInfo;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Query;
 use App\Tag;
@@ -23,17 +24,26 @@ class TagQuery extends Query
         ];
     }
 
-    public function resolve($root, $args)
+    public function resolve($root, $args, $context, ResolveInfo $info)
     {
 
+        $tags = Tag::query();
+        $fields = $info->getFieldSelection($depth = 1);
+
+        foreach ($fields as $field => $keys) {
+            if ($field === 'artists') {
+                $tags->with('artists');
+            }
+        }
+
         if (isset($args['id'])) {
-            return Tag::where('id', $args['id'])->get();
+            return $tags->where('id', $args['id']);
         } else if (isset($args['ids'])) {
-            return Tag::findMany($args['ids']);
+            return $tags->whereIn('id',$args['ids']);
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
             $skip = isset($args['skip']) ? $args['skip'] : 0;
-            return Tag::take($limit)->skip($skip)->get();
+            return $tags->take($limit)->skip($skip);
         }
     }
 

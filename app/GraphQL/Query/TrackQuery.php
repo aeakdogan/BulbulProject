@@ -2,9 +2,11 @@
 namespace App\GraphQL\Query;
 
 use GraphQL;
+use GraphQL\Type\Definition\ResolveInfo;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Query;
 use App\Track;
+
 
 class TrackQuery extends Query
 {
@@ -23,18 +25,29 @@ class TrackQuery extends Query
         ];
     }
 
-    public function resolve($root, $args)
+    public function resolve($root, $args, $context, ResolveInfo $info)
     {
+        $tracks = Track::query();
+        $fields = $info->getFieldSelection($depth = 1);
 
+        foreach ($fields as $field => $keys) {
+            if ($field === 'artists') {
+                $tracks->with('artists');
+            }
+            if ($field === 'tracks') {
+                $tracks->with('tracks');
+            }
+        }
         if (isset($args['id'])) {
-            return Track::where('id', $args['id'])->get();
+            $tracks->where('id', $args['id']);
         } else if (isset($args['ids'])) {
-            return Track::findMany($args['ids']);
+            $tracks->whereIn('id',$args['ids']);
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
-            $skip = isset($args['skip']) ? $args['skip'] : 0 ;
-            return Track::take($limit)->skip($skip)->get();
+            $skip = isset($args['skip']) ? $args['skip'] : 0;
+            $tracks->take($limit)->skip($skip);
         }
-    }
 
+        return $tracks->get();
+    }
 }
