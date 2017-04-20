@@ -61,7 +61,7 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
         final Song tmpSong = songs.get(position);
         holder.songTitle.setText(tmpSong.getName());
         holder.songArtists.setText(tmpSong.getArtistsString());
-        holder.songPhoto.setImageResource(tmpSong.getPhotoId());
+        holder.songPhoto.setImageResource(R.drawable.album);
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

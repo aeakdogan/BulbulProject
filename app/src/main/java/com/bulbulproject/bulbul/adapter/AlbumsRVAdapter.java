@@ -14,6 +14,7 @@ import android.widget.Toast;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.activity.AlbumActivity;
 import com.bulbulproject.bulbul.model.Album;
+import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
@@ -62,17 +63,16 @@ public class AlbumsRVAdapter extends RecyclerView.Adapter<AlbumsRVAdapter.MyCard
     public void onBindViewHolder(AlbumsRVAdapter.MyCardViewHolder holder, final int position) {
         final Album tmpAlbum = albums.get(position);
         holder.albumName.setText(tmpAlbum.getName());
-        String albumMeta = tmpAlbum.getArtistsString() + "\n"
-                            + tmpAlbum.getYear() + ", " +
-                            tmpAlbum.getSongs().size() + " songs" ;
+        String albumMeta = tmpAlbum.getArtistsString() + "\n" +
+                            tmpAlbum.getSongsCount() + " songs" ;
         holder.albumMeta.setText(albumMeta);
-        holder.albumPhoto.setImageResource(tmpAlbum.getPhotoId());;
+        Picasso.with(context).load(tmpAlbum.getImageUrl()).into(holder.albumPhoto);
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(context.getApplicationContext(), AlbumActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                //TODO: Pass album data
+                intent.putExtra("id",tmpAlbum.getId());
                 context.getApplicationContext().startActivity(intent);
             }
         });

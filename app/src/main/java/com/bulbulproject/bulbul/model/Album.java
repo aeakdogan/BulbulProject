@@ -14,6 +14,7 @@ public class Album {
     private List<Artist> artists;
     private int photoId;
     private String imageUrl;
+    private int songsCount = -1;
 
     public Album(String name, int year, int photoId) {
         this.name = name;
@@ -29,6 +30,15 @@ public class Album {
         this.imageUrl = imageUrl;
         this.songs = new ArrayList<Song>();
         this.artists = new ArrayList<Artist>();
+    }
+
+    public int getSongsCount() {
+        if (songsCount == -1) return songs.size();
+        return songsCount;
+    }
+
+    public void setSongsCount(int songsCount) {
+        this.songsCount = songsCount;
     }
 
     public int getId() {
@@ -72,8 +82,9 @@ public class Album {
             return "Unknown Artist";
 
         String str = "";
-        for (Artist artist : this.artists)
-            str += artist.toString() + ", ";
+        for (int i = 0; i < artists.size(); i++) {
+            str += artists.get(i).getName() + (i == artists.size() - 1 ? "" : ", ");
+        }
 
         return str;
     }
