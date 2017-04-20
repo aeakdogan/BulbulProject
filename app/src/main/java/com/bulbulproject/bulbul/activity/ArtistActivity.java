@@ -102,7 +102,7 @@ public class ArtistActivity extends AppCompatActivity {
             collapsingToolbarLayout.setTitle(mArtist.getName());
         }
         else {
-            Toast.makeText(ArtistActivity.this, R.string.album_activity_fetch_error, Toast.LENGTH_SHORT).show();
+            Toast.makeText(ArtistActivity.this, R.string.artist_activity_fetch_error, Toast.LENGTH_SHORT).show();
         }
     }
 
