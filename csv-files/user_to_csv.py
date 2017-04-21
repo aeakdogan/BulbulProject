@@ -57,7 +57,7 @@ def main():
                         obj = json.load(file)
                         for track in obj["recenttracks"]["track"]:
                             if 'mbid' in track and track['mbid'] != '':
-                                username = filename[:filename.find('recent_tracks')]
+                                username = filename[:filename.find('_recent_tracks')]
                                 writer.writerow({'username': username,
                                                 'track_mbid': track['mbid']})
                     except:
