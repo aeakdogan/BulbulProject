@@ -923,6 +923,18 @@
               "deprecationReason": null
             },
             {
+              "name": "albumsCount",
+              "description": "The number of albums",
+              "args": [],
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
+              },
+              "isDeprecated": false,
+              "deprecationReason": null
+            },
+            {
               "name": "tags",
               "description": "Tags of artist",
               "args": [],

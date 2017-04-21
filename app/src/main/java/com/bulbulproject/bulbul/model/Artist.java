@@ -13,6 +13,7 @@ public class Artist {
     private List<Album> albums;
     private int photoId;
     private String imageUrl;
+    private int albumsCount = -1;
 
     public Artist(String name, int photoId) {
         this.name = name;
@@ -64,5 +65,14 @@ public class Artist {
 
     public void setPhotoId(int photoId) {
         this.photoId = photoId;
+    }
+
+    public int getAlbumsCount() {
+        if(albumsCount == -1) return albums.size();
+        return albumsCount;
+    }
+
+    public void setAlbumsCount(int albumsCount) {
+        this.albumsCount = albumsCount;
     }
 }

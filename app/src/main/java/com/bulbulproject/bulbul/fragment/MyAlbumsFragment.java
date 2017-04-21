@@ -15,7 +15,6 @@ import com.apollographql.android.api.graphql.Response;
 import com.bulbulproject.UserAlbumsQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.activity.AlbumActivity;
 import com.bulbulproject.bulbul.adapter.AlbumsRVAdapter;
 import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
@@ -36,7 +35,8 @@ public class MyAlbumsFragment extends Fragment {
     private RecyclerView.LayoutManager mLayoutManager;
     private List<Album> albums;
 
-    public MyAlbumsFragment() {}
+    public MyAlbumsFragment() {
+    }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -47,7 +47,7 @@ public class MyAlbumsFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView =  inflater.inflate(R.layout.fragment_my_albums, container, false);
+        View rootView = inflater.inflate(R.layout.fragment_my_albums, container, false);
 
         mRecyclerView = (RecyclerView) rootView.findViewById(R.id.my_recycler_view);
 
@@ -57,24 +57,31 @@ public class MyAlbumsFragment extends Fragment {
         rvAdapter = new AlbumsRVAdapter(albums, getContext());
         mRecyclerView.setAdapter(rvAdapter);
         String token = getActivity().getApplication().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE).getString("AUTH_TOKEN", "");
-        ((App)getActivity().getApplication()).apolloClient().newCall(UserAlbumsQuery.builder().token(token).build()).enqueue(new ApolloCall.Callback<UserAlbumsQuery.Data>() {
+        ((App) getActivity().getApplication()).apolloClient().newCall(UserAlbumsQuery.builder().token(token).build()).enqueue(new ApolloCall.Callback<UserAlbumsQuery.Data>() {
             @Override
             public void onResponse(@Nonnull Response<UserAlbumsQuery.Data> response) {
-                if(response.isSuccessful()){
+                if (response.isSuccessful()) {
                     UserAlbumsQuery.Data.User user = response.data().users().get(0);
-                    if(user.followedAlbums() != null){
-                        for(UserAlbumsQuery.Data.User.FollowedAlbum album: user.followedAlbums()){
-                            Album newAlbum = new Album(album.name(),0,album.image());
+                    if (user.followedAlbums() != null) {
+                        for (UserAlbumsQuery.Data.User.FollowedAlbum album : user.followedAlbums()) {
+                            Album newAlbum = new Album(album.name(), 0, album.image());
                             newAlbum.setId(album.id());
                             newAlbum.setSongsCount(album.tracksCount());
-                            if(album.artists() != null){
-                                for(UserAlbumsQuery.Data.User.FollowedAlbum.Artist artist:album.artists()){
+                            if (album.artists() != null) {
+                                for (UserAlbumsQuery.Data.User.FollowedAlbum.Artist artist : album.artists()) {
                                     newAlbum.getArtists().add(new Artist(artist.name()));
                                 }
                             }
                             albums.add(newAlbum);
                         }
                     }
+
+                    getActivity().runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            rvAdapter.notifyDataSetChanged();
+                        }
+                    });
                 }
             }
 

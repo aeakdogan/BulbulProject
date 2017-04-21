@@ -68,7 +68,7 @@ public class PlaylistsRVAdapter extends RecyclerView.Adapter<PlaylistsRVAdapter.
             public void onClick(View view) {
                 Intent intent = new Intent(context.getApplicationContext(), PlaylistActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                //TODO: Pass playlist data
+                intent.putExtra("id", playlists.get(position).getId());
                 context.getApplicationContext().startActivity(intent);
             }
         });
