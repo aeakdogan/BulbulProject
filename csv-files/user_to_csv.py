@@ -3,7 +3,7 @@ import os
 
 
 def main():
-    for folderName, subfolders, filenames in os.walk('150_user_files'):
+    for folderName, subfolders, filenames in os.walk('user_detail'):
         with open('user-to-user.csv', 'w') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=['username1', 'username2'])
             writer.writeheader()
@@ -13,7 +13,8 @@ def main():
                     try:
                         obj = json.load(file)
                         for friend in obj["friends"]["user"]:
-                            writer.writerow({'username1': filename.split('_')[0],
+                                username = filename[:filename.find('_friends_resp')]
+                                writer.writerow({'username1': username,
                                             'username2': friend['name']})
                     except:
                         print('error in friends of ', filename)
@@ -28,8 +29,9 @@ def main():
                         obj = json.load(file)
                         for artist in obj["topartists"]["artist"]:
                             if 'mbid' in artist and artist['mbid'] != '':
-                                writer.writerow({'username': filename.split('_')[0],
-                                                'artist_mbid': artist['mbid']})
+                                username = filename[:filename.find('_top_artists')]
+                                writer.writerow({'username': username,
+                                                    'artist_mbid': artist['mbid']})
                     except:
                         print('error in artist of ', filename)
 
@@ -43,7 +45,8 @@ def main():
                         obj = json.load(file)
                         for track in obj["lovedtracks"]["track"]:
                             if 'mbid' in track and track['mbid'] != '':
-                                writer.writerow({'username': filename.split('_')[0],
+                                username = filename[:filename.find('_loved_tracks')]
+                                writer.writerow({'username': username,
                                                 'track_mbid': track['mbid']})
                     except:
                         print('error in tracks of ', filename)
@@ -54,7 +57,8 @@ def main():
                         obj = json.load(file)
                         for track in obj["recenttracks"]["track"]:
                             if 'mbid' in track and track['mbid'] != '':
-                                writer.writerow({'username': filename.split('_')[0],
+                                username = filename[:filename.find('recent_tracks')]
+                                writer.writerow({'username': username,
                                                 'track_mbid': track['mbid']})
                     except:
                         print('error in tracks of ', filename)
@@ -65,7 +69,8 @@ def main():
                         obj = json.load(file)
                         for track in obj["toptracks"]["track"]:
                             if 'mbid' in track and track['mbid'] != '':
-                                writer.writerow({'username': filename.split('_')[0],
+                                username = filename[:filename.find('_top_tracks')]
+                                writer.writerow({'username': username,
                                                 'track_mbid': track['mbid']})
                     except:
                         print('error in tracks of ', filename)
@@ -80,7 +85,8 @@ def main():
                         obj = json.load(file)
                         for album in obj["topalbums"]["album"]:
                             if 'mbid' in album and album['mbid'] != '':
-                                writer.writerow({'username': filename.split('_')[0],
+                                username = filename[:filename.find('_top_albums')]
+                                writer.writerow({'username': username,
                                                 'album_mbid': album['mbid']})
                     except:
                         print('error in albums of ', filename)
@@ -93,7 +99,8 @@ def main():
                 with open('%s/%s' % (folderName, filename)) as file:
                     try:
                         obj = json.load(file)
-                        writer.writerow({'username': filename.split('_')[0],
+                        username = filename[:filename.find('_info')]
+                        writer.writerow({'username': username,
                                         'gender': obj["user"]['gender'],
                                         'country': obj["user"]['country'],
                                         'image': obj["user"]['image'][2]['#text']})
