@@ -27,6 +27,8 @@ import com.bulbulproject.bulbul.task.FetchImageTask;
 import com.spotify.sdk.android.player.Metadata;
 import com.spotify.sdk.android.player.SpotifyPlayer;
 
+import java.util.List;
+
 public class StreamActivity extends AppCompatActivity {
 
     private static final String TEST_SONG_URI = "spotify:user:spotify:playlist:2yLXxKhhziG2xzy7eyD4TD";
@@ -41,6 +43,9 @@ public class StreamActivity extends AppCompatActivity {
     private TextView mListName, mSongTitle, mArtistName, mSeekbarCurrentPos, mSeekbarDuration;
     private SeekBar mSeekBar;
     private ImageView mImage;
+    private int position;
+    private List<String> songs;
+
 
     private Handler mHandler = new Handler();
 
@@ -91,21 +96,16 @@ public class StreamActivity extends AppCompatActivity {
             mAutoplay = true;
             mUri = intent.getStringExtra("song_uri");
         }
+        else if(intent.hasExtra("songs")){
+            position = intent.getIntExtra("position",0);
+            songs = intent.getStringArrayListExtra("songs");
+            mAutoplay = true;
+        }
 
         mActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
-                if (mPlayer.getPlaybackState().isPlaying) {
-                    mPlayer.pause(null);
-                } else {
-                    if (mUri != null) {
-                        mPlayer.resume(null);
-                    } else {
-                        mUri = TEST_SONG_URI;
-                        mPlayer.playUri(null, mUri, 0, 0);
-                    }
-                }
+                mPlayerService.playPause();
             }
 
         });
@@ -113,14 +113,14 @@ public class StreamActivity extends AppCompatActivity {
         mPreviousButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mPlayer.skipToPrevious(null);
+                mPlayerService.previous();
             }
         });
 
         mNextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mPlayer.skipToNext(null);
+                mPlayerService.next();
             }
         });
 
@@ -224,7 +224,7 @@ public class StreamActivity extends AppCompatActivity {
 
     public void setUri(String uri) {
         mUri = uri;
-        mPlayer.playUri(null, mUri, 0, 0);
+        mPlayerService.playUri(mUri);
     }
 
     private Runnable mUpdateTimeTask = new Runnable() {
@@ -257,7 +257,14 @@ public class StreamActivity extends AppCompatActivity {
             mPlayer = mPlayerService.getSpotifyPlayer();
             mBound = true;
             if(mAutoplay){
-                mPlayer.playUri(null,mUri,0,0);
+                if(songs != null){
+                    mPlayerService.setSongs(songs);
+                    mPlayerService.setPosition(position);
+                    mPlayerService.play();
+                }
+                else if(mUri != null){
+                    mPlayerService.playUri(mUri);
+                }
             }
             updateUI();
 

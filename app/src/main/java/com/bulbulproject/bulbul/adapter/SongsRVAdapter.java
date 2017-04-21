@@ -16,6 +16,7 @@ import com.bulbulproject.bulbul.activity.StreamActivity;
 import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Song;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardViewHolder>{
@@ -59,6 +60,10 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
     @Override
     public void onBindViewHolder(SongsRVAdapter.MyCardViewHolder holder, final int position) {
         final Song tmpSong = songs.get(position);
+        final ArrayList<String> songsList = new ArrayList<String>();
+        for(Song song: songs){
+            songsList.add(song.getSpotifyUrl());
+        }
         holder.songTitle.setText(tmpSong.getName());
         holder.songArtists.setText(tmpSong.getArtistsString());
         holder.songPhoto.setImageResource(R.drawable.album);
@@ -67,7 +72,8 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
             public void onClick(View view) {
                 Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                intent.putExtra("song_uri", tmpSong.getSpotifyUrl());
+                intent.putStringArrayListExtra("songs",songsList);
+                intent.putExtra("position",position);
                 context.getApplicationContext().startActivity(intent);
             }
         });
