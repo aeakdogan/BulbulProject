@@ -7,15 +7,18 @@ export JAVA_OPTS="-Xmx4G"
                 --skip-duplicate-nodes=true \
                  --skip-bad-relationships=true \
                 --ignore-empty-strings =true \
-         --nodes:Album ~/Bulbul/Data/Data/albums.csv \
-         --nodes:Artist ~/Bulbul/Data/Data/artists.csv \
-         --nodes:Tag ~/Bulbul/Data/Data/tags.csv \
-         --nodes:Track ~/Bulbul/Data/Data/tracks.csv \
-         --nodes:BulbulUser ~/Bulbul/Data/Data/user-info-withpw.csv \
-         --relationships:BY ~/Bulbul/Data/Data/album-artist.csv \
-         --relationships:BY ~/Bulbul/Data/Data/track-artist.csv \
-         --relationships:HAS ~/Bulbul/Data/Data/album-track.csv \
-         --relationships:FOLLOWS ~/Bulbul/Data/Data/user-to-album.csv \
-         --relationships:FOLLOWS ~/Bulbul/Data/Data/user-to-artist.csv \
-         --relationships:FOLLOWS ~/Bulbul/Data/Data/user-to-track.csv \
-         --relationships:FOLLOWS ~/Bulbul/Data/Data/user-to-user.csv
+         --nodes:Tag generated_csv/tags1.csv \
+         --nodes:Tag generated_csv/tags2.csv \
+         --nodes:Artist generated_csv/artists.csv \
+         --nodes:Album generated_csv/albums.csv \
+         --nodes:Track generated_csv/tracks.csv \
+         --nodes:BulbulUser generated_csv/user-info-withpw.csv \
+         --relationships:BY generated_csv/album-artist.csv \
+         --relationships:BY generated_csv/track-artist.csv \
+         --relationships:HAS generated_csv/album-track.csv \
+         --relationships:FOLLOWS generated_csv/user-to-album.csv \
+         --relationships:FOLLOWS generated_csv/user-to-artist.csv \
+         --relationships:FOLLOWS generated_csv/user-to-track.csv \
+         --relationships:FOLLOWS generated_csv/user-to-user.csv
+         --relationships:TAGGED generated_csv/artist-tags.csv
+         --relationships:TAGGED generated_csv/track-tags.csv
