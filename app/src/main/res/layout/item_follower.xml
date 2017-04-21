@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
+    android:id="@+id/ll"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
@@ -28,14 +29,7 @@
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:gravity="center"
-            android:text="Name Surname"/>
-        <TextView
-            android:id="@+id/username"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textAppearance="@style/TextAppearance.AppCompat.Small"
-            android:gravity="center"
-            android:text="\@username"/>
+            />
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -49,7 +43,7 @@
                 android:gravity="center"
                 android:layout_marginEnd="5dp"
                 android:textColor="@color/colorAccent"
-                android:text="150 Followers"/>
+                />
             <TextView
                 android:id="@+id/following_count"
                 android:layout_width="wrap_content"
@@ -57,7 +51,7 @@
                 android:gravity="center"
                 android:layout_marginStart="5dp"
                 android:textColor="@color/colorAccent"
-                android:text="100 Following"/>
+            />
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>

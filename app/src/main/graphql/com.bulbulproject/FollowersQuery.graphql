@@ -1,0 +1,9 @@
+query FollowersQuery($token:String,$id: Int, $limit: Int, $skip:Int, $ids: [Int]) {
+    users(token:$token,id: $id, limit: $limit, skip:$skip, ids: $ids){
+    followers{
+          id
+          username
+          image
+        }
+    }
+}
