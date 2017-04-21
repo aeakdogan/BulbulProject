@@ -21,6 +21,10 @@ class BulbulUserType extends GraphQLType
                 'type' => Type::nonNull(Type::string()),
                 'description' => 'The name of user'
             ],
+            'image' => [
+                'type' => Type::nonNull(Type::string()),
+                'description' => 'The image of user'
+            ],
             'lastActivePlaylist' => [
                 'type' => Type::nonNull(GraphQL::type('Playlist')),
                 'description' => 'The last active playlist of user'
