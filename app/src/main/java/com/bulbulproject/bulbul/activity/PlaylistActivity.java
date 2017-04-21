@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 import com.apollographql.android.ApolloCall;
 import com.apollographql.android.api.graphql.Response;
-import com.bulbulproject.PlaylistQuery;
+import com.bulbulproject.PlaylistsQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.adapter.SongsRVAdapter;
@@ -60,18 +60,18 @@ public class PlaylistActivity extends AppCompatActivity {
         mPlaylistId = getIntent().getIntExtra("id",-1);
 
         if(mPlaylistId > -1){
-            ((App)getApplication()).apolloClient().newCall(PlaylistQuery.builder().id(mPlaylistId).build()).enqueue(new ApolloCall.Callback<PlaylistQuery.Data>() {
+            ((App)getApplication()).apolloClient().newCall(PlaylistsQuery.builder().id(mPlaylistId).build()).enqueue(new ApolloCall.Callback<PlaylistsQuery.Data>() {
                 @Override
-                public void onResponse(@Nonnull Response<PlaylistQuery.Data> response) {
+                public void onResponse(@Nonnull Response<PlaylistsQuery.Data> response) {
                     if(response.isSuccessful()){
-                        final PlaylistQuery.Data.Playlist playlist = response.data().playlists().get(0);
+                        final PlaylistsQuery.Data.Playlist playlist = response.data().playlists().get(0);
                         mPlaylist.setName(playlist.name());
                         mPlaylist.setId(playlist.id());
                         if(playlist.tracks()!=null){
-                            for(PlaylistQuery.Data.Playlist.Track track : playlist.tracks()){
+                            for(PlaylistsQuery.Data.Playlist.Track track : playlist.tracks()){
                                 Song song = new Song(track.id(),track.name(), 0, track.spotify_track_id());
                                 if(track.artists() != null){
-                                    for(PlaylistQuery.Data.Playlist.Track.Artist trackArtist: track.artists()){
+                                    for(PlaylistsQuery.Data.Playlist.Track.Artist trackArtist: track.artists()){
                                         song.getArtists().add(new Artist(trackArtist.name()));
                                     }
                                 }
