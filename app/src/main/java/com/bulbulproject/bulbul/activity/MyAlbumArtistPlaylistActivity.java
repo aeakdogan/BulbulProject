@@ -13,6 +13,7 @@ import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.fragment.MyAlbumsFragment;
 import com.bulbulproject.bulbul.fragment.MyArtistsFragment;
 import com.bulbulproject.bulbul.fragment.MyPlaylistsFragment;
+import com.bulbulproject.bulbul.fragment.MySongsFragment;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -54,7 +55,7 @@ public class MyAlbumArtistPlaylistActivity extends AppCompatActivity {
         adapter.addFragment(new MyPlaylistsFragment(), "MY PLAYLISTS");
         adapter.addFragment(new MyArtistsFragment(), "MY ARTISTS");
         adapter.addFragment(new MyAlbumsFragment(), "MY ALBUMS");
-        adapter.addFragment(new MyPlaylistsFragment(), "MY SONGS");
+        adapter.addFragment(new MySongsFragment(), "MY SONGS");
         viewPager.setAdapter(adapter);
     }
 
