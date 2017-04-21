@@ -32,16 +32,12 @@ public class UsersRVAdapter extends RecyclerView.Adapter<UsersRVAdapter.ListHold
         public LinearLayout linearLayout;
         public TextView userName;
         public ImageView userPhoto;
-        public TextView followerCount;
-        public TextView followingCount;
 
         public ListHolder(View itemView) {
             super(itemView);
             linearLayout = (LinearLayout) itemView.findViewById(R.id.ll);
             userName = (TextView) linearLayout.findViewById(R.id.name);
             userPhoto = (ImageView) linearLayout.findViewById(R.id.profile_picture);
-            followerCount = (TextView) linearLayout.findViewById(R.id.follower_count);
-            followingCount = (TextView) linearLayout.findViewById(R.id.following_count);
         }
     }
 
@@ -63,8 +59,6 @@ public class UsersRVAdapter extends RecyclerView.Adapter<UsersRVAdapter.ListHold
     public void onBindViewHolder(UsersRVAdapter.ListHolder holder, final int position) {
         final BulbulUser tmpUser = users.get(position);
         holder.userName.setText(tmpUser.getUsername());
-        holder.followerCount.setText("" + tmpUser.getFollowersCount() + " Followers");
-        holder.followingCount.setText("" + tmpUser.getFollowingsCount() + " Followings");
         if (tmpUser.getProfilePhoto() != null && tmpUser.getProfilePhoto().length() > 0) {
             Picasso.with(context).load(tmpUser.getProfilePhoto()).into(holder.userPhoto);
         }

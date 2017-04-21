@@ -115,7 +115,6 @@ public class AlbumActivity extends AppCompatActivity {
         }
         else {
             Toast.makeText(AlbumActivity.this, R.string.album_activity_fetch_error, Toast.LENGTH_SHORT).show();
-
         }
 
 
