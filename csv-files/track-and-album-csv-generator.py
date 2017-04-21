@@ -1,13 +1,17 @@
 import json, csv
 import os
+import datetime as dt
 
 # ALI BURAK ERDOGAN - 14 MARCH 2017
 # WARNING: RUN THIS SCRIPT IN 'Data' FOLDER
 
 def main():
-    # generate_artist_related_csv_files()
-    generate_track_related_csv_files()
-
+    try:
+        print('started: %s' % str(dt.datetime.now()))
+        generate_track_related_csv_files()
+        # generate_artist_related_csv_files()
+    except:
+        print('termination: %s' % str(dt.datetime.now()))
 
 def generate_track_related_csv_files():
     print("Generating track related CSV files...")
@@ -25,9 +29,13 @@ def generate_track_related_csv_files():
     # FIRST TRAVERSE ALL TRACKS IN track_info FOLDER AND GET REQUIRED INFO
     inserted_rows = [] # FOR SPEEDING UP WITH BATCH INSERTION
     for folderName, subfolders, filenames in os.walk('track_info'):
-        for filename in filenames:
+        print("total # of tracks: %d" % len(filenames)) 
+        for count, filename in enumerate(filenames):
             # OPEN THE ALBUM INFO FILE
             with open('%s/%s' % (folderName, filename)) as file:
+                if(count % 10000 == 0):
+                    print("processsed %d tracks " % count)
+
                 obj = json.load(file)
 
                 if 'track' in obj:
@@ -106,18 +114,15 @@ def generate_track_related_csv_files():
                                         'spotify_artist_url': obj['artists'][0]['href'],
                                         'spotify_album_id': obj['album']['id'],
                                         'spotify_album_url': obj['album']['href'],
-                                        'spotify_album_img': obj['album']['images'][0]['url'],
-
+                                        'spotify_album_img': obj['album']['images'][0]['url'] \
+                                                             if obj['album']['images'] and len(obj['album']['images']) > 0 else '',
                                         'spotify_track_id': obj['id'],
                                         'spotify_track_url': obj['href'],
                                         'spotify_track_preview_url': obj['preview_url'],
                                         'spotify_track_popularity': obj['popularity']}
 
-                    if len(obj['album']['images']) > 0:
-                        additional_data['spotify_album_img'] = obj['album']['images'][0]['url']
-
                     inserted_rows[index].update(additional_data)
-            except (FileNotFoundError, KeyError, json.JSONDecodeError):
+            except (FileNotFoundError, KeyError, json.JSONDecodeError, IndexError):
                 count_spotify_metadata_not_found += 1
                 # print('spotify metadata file of %s not found' % spotify_id)
                 additional_data = {'spotify_artist_id': '', 'spotify_artist_url': '', 'spotify_album_id': '',
@@ -127,7 +132,7 @@ def generate_track_related_csv_files():
                 inserted_rows[index].update(additional_data)
 
             try:
-                with open('track_audio_features/%s_audio_features' % spotify_id, 'r' ) as feature_file:
+                with open('audio_features/%s_audioFeatures' % spotify_id, 'r' ) as feature_file:
                     feature_obj = json.load(feature_file)
                     additional_data = {"audio_features_danceability" : feature_obj['danceability'],
                                         "audio_features_energy" : feature_obj['energy'],
