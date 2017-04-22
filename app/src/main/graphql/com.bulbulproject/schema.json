@@ -1513,6 +1513,18 @@
               "deprecationReason": null
             },
             {
+              "name": "followersCount",
+              "description": "The number of followers",
+              "args": [],
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
+              },
+              "isDeprecated": false,
+              "deprecationReason": null
+            },
+            {
               "name": "followedUsers",
               "description": "Followed users of user",
               "args": [
@@ -1545,6 +1557,18 @@
                   "name": "BulbulUser",
                   "ofType": null
                 }
+              },
+              "isDeprecated": false,
+              "deprecationReason": null
+            },
+            {
+              "name": "followedUsersCount",
+              "description": "The number of followedUsers",
+              "args": [],
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
               },
               "isDeprecated": false,
               "deprecationReason": null
