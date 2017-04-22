@@ -36,6 +36,18 @@ class BulbulUser extends Model implements AuthenticatableContract,
         return $this->belongsToMany('App\BulbulUser', 'FOLLOWS');
     }
 
+    public function getFollowedUsersCountAttribute()
+    {
+        if (!$this->relationLoaded('followedUsers')) $this->load('followedUsers');
+        return $this->followedUsers->count();
+    }
+
+    public function getFollowersCountAttribute()
+    {
+        if (!$this->relationLoaded('followers')) $this->load('followers');
+        return $this->followers->count();
+    }
+
     public function followedAlbums()
     {
         return $this->hasMany('App\Album', 'FOLLOWS');
