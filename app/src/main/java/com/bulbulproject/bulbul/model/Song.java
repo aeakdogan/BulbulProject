@@ -16,6 +16,9 @@ public class Song {
     private int durationSeconds;
     private String genre;
     private List<Album> albums;
+
+
+
     private List<Artist> artists;
     private int photoId;
     private String spotifyUrl;
@@ -90,6 +93,14 @@ public class Song {
 
     public void setGenre(String genre) {
         this.genre = genre;
+    }
+
+    public List<Artist> getArtists() {
+        return artists;
+    }
+
+    public void setArtists(List<Artist> artists) {
+        this.artists = artists;
     }
 
     public List<Album> getAlbums() {

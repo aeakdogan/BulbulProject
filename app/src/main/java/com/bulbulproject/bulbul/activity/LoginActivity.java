@@ -81,6 +81,14 @@ public class LoginActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        (findViewById(R.id.test_button)).setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), AccuracyTraining.class);
+                startActivity(intent);
+            }
+        });
     }
 
     /**
@@ -223,7 +231,8 @@ public class LoginActivity extends AppCompatActivity {
 
             if (result == 1) {
                 //finish();
-                Intent intent = new Intent(getApplicationContext(), SpotifyConnectionActivity.class);
+//                Intent intent = new Intent(getApplicationContext(), SpotifyConnectionActivity.class);
+                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(intent);
             } else if (result == 0){
                 mPasswordView.setError(getString(R.string.error_incorrect_password));
