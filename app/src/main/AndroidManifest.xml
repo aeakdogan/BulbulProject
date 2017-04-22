@@ -70,7 +70,15 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".activity.AccuracyTraining"
+            android:label="@string/title_activity_accuracy_training"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activity.AccuracyTest"
             android:label="@string/title_activity_accuracy_test"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activity.AccuracyResult"
+            android:label="@string/title_activity_accuracy_result"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

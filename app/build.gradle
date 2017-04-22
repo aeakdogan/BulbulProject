@@ -53,7 +53,7 @@ dependencies {
     compile 'com.apollographql.android:converter-pojo:0.1.0'
     compile 'com.squareup.okhttp3:logging-interceptor:3.6.0'
     compile 'com.android.support:support-v4:25.1.1'
-    compile 'com.android.support.constraint:constraint-layout:+'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.squareup.picasso:picasso:2.5.2'
     testCompile 'junit:junit:4.12'
     androidTestCompile 'com.google.code.findbugs:jsr305:3.0.1'

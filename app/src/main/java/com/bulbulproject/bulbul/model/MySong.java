@@ -11,6 +11,7 @@ public class MySong {
     private String artistName;
     private float rating;
     private String imageUrl;
+    int testResult;
 
 
     public MySong(int id, String name, String albumName, String artistName, float rating, String imageUrl) {
@@ -47,5 +48,13 @@ public class MySong {
 
     public String getImageUrl() {
         return imageUrl;
+    }
+
+    public int getTestResult() {
+        return testResult;
+    }
+
+    public void setTestResult(int testResult) {
+        this.testResult = testResult;
     }
 }
