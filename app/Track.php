@@ -18,4 +18,16 @@ class Track extends Model
     public function albums(){
         return $this->belongsToMany('App\Album', 'HAS');
     }
+
+    public function tags(){
+        return $this->hasMany('App\Track','TAGGED');
+    }
+
+    public function listenedBy(){
+        return $this->belongsToMany('App\BulbulUser', 'LISTENS');
+    }
+
+    public function getEdgeInfoAttribute(){
+        return $this->listenedBy()->edges()->rating;
+    }
 }

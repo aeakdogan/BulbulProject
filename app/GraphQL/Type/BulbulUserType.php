@@ -29,25 +29,25 @@ class BulbulUserType extends GraphQLType
                 'type' => Type::nonNull(GraphQL::type('Playlist')),
                 'description' => 'The last active playlist of user'
             ],
-            'followedTracks' => [
+            'listenedTracks' => [
                 'type' => Type::listOf(GraphQL::type('Track')),
-                'description' => 'The followed songs of user',
+                'description' => 'The listened songs of user',
                 'args' => [
                     'limit' => ['description' => 'Number of tracks to be fetched', 'type' => Type::int()],
                     'skip' => ['description' => 'Number of tracks to be skipped', 'type' => Type::int()],
                 ]
             ],
-            'followedArtists' => [
+            'listenedArtists' => [
                 'type' => Type::listOf(GraphQL::type('Artist')),
-                'description' => 'The followed artists of user',
+                'description' => 'The listened artists of user',
                 'args' => [
                     'limit' => ['description' => 'Number of artists to be fetched', 'type' => Type::int()],
                     'skip' => ['description' => 'Number of artists to be skipped', 'type' => Type::int()],
                 ]
             ],
-            'followedAlbums' => [
+            'listenedAlbums' => [
                 'type' => Type::listOf(GraphQL::type('Album')),
-                'description' => 'The followed albums of user',
+                'description' => 'The listened albums of user',
                 'args' => [
                     'limit' => ['description' => 'Number of albums to be fetched', 'type' => Type::int()],
                     'skip' => ['description' => 'Number of albums to be skipped', 'type' => Type::int()],
@@ -56,10 +56,6 @@ class BulbulUserType extends GraphQLType
             'followedPlaylists' => [
                 'type' => Type::listOf(GraphQL::type('Playlist')),
                 'description' => 'The followed playlists of user'
-            ],
-            'listenedTracks' => [
-                'type' => Type::listOf(GraphQL::type('Track')),
-                'description' => 'The listened songs of user'
             ],
             'listenedPlaylists' => [
                 'type' => Type::listOf(GraphQL::type('Playlist')),
@@ -118,37 +114,37 @@ class BulbulUserType extends GraphQLType
         return $root->followedUsers()->take($limit)->skip($skip)->get();
     }
 
-    protected function resolveFollowedTracksField($root, $args)
+    protected function resolveListenedTracksField($root, $args)
     {
         if (!isset($args['limit']) && !isset($args['skip'])) {
-            if (!$root->relationLoaded('followedTracks')) $root->load('followedTracks');
-            return $root->getRelation('followedTracks');
+            if (!$root->relationLoaded('listenedTracksRelation')) $root->load('listenedTracksRelation');
+            return $root->listenedTracks;
         }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
-        return $root->followedTracks()->take($limit)->skip($skip)->get();
+        return $root->listenedTracksRelation()->take($limit)->skip($skip)->get();
     }
 
-    protected function resolveFollowedArtistsField($root, $args)
+    protected function resolveListenedArtistsField($root, $args)
     {
         if (!isset($args['limit']) && !isset($args['skip'])) {
-            if (!$root->relationLoaded('followedArtists')) $root->load('followedArtists');
-            return $root->getRelation('followedArtists');
+            if (!$root->relationLoaded('listenedArtists')) $root->load('listenedArtists');
+            return $root->getRelation('listenedArtists');
         }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
-        return $root->followedArtists()->take($limit)->skip($skip)->get();
+        return $root->listenedArtists()->take($limit)->skip($skip)->get();
     }
 
-    protected function resolveFollowedAlbumsField($root, $args)
+    protected function resolveListenedAlbumsField($root, $args)
     {
         if (!isset($args['limit']) && !isset($args['skip'])) {
-            if (!$root->relationLoaded('followedAlbums')) $root->load('followedAlbums');
-            return $root->getRelation('followedAlbums');
+            if (!$root->relationLoaded('listenedAlbums')) $root->load('listenedAlbums');
+            return $root->getRelation('listenedAlbums');
         }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
-        return $root->followedAlbums()->take($limit)->skip($skip)->get();
+        return $root->listenedAlbums()->take($limit)->skip($skip)->get();
     }
 
 

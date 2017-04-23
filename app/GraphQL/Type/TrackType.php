@@ -27,7 +27,23 @@ class TrackType extends GraphQLType
             ],
             'artists' => [
                 'type' => Type::listOf(GraphQL::type('Artist')),
-                'description' => 'Artists of album'
+                'description' => 'Artists of track'
+            ],
+            'tags' => [
+                'type' => Type::listOf(GraphQL::type('Tag')),
+                'description' => 'Tags of track'
+            ],
+            'rating' => [
+                'type' => Type::int(),
+                'description' => 'The rating of the track'
+            ],
+            'play_count' => [
+                'type' => Type::int(),
+                'description' => 'The play_count of the track'
+            ],
+            'loved' => [
+                'type' => Type::boolean(),
+                'description' => 'User loved the track or not'
             ],
             'mbid' => [
                 'type' => Type::string(),

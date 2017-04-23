@@ -20,7 +20,7 @@ class BulbulUser extends Model implements AuthenticatableContract,
 
     protected $label = 'BulbulUser';
     protected $fillable = ['email', 'username','password'];
-
+    private $listenedTrackEdges = null;
     public function playlists()
     {
         return $this->hasMany('App\Playlist', 'BY');
@@ -48,19 +48,19 @@ class BulbulUser extends Model implements AuthenticatableContract,
         return $this->followers->count();
     }
 
-    public function followedAlbums()
+    public function listenedAlbums()
     {
-        return $this->hasMany('App\Album', 'FOLLOWS');
+        return $this->hasMany('App\Album', 'LISTENS');
     }
 
-    public function followedTracks()
+    public function listenedTracksRelation()
     {
-        return $this->hasMany('App\Track', 'FOLLOWS');
+        return $this->hasMany('App\Track', 'LISTENS');
     }
 
-    public function followedArtists()
+    public function listenedArtists()
     {
-        return $this->hasMany('App\Artist', 'FOLLOWS');
+        return $this->hasMany('App\Artist', 'LISTENS');
     }
 
     public function followedPlaylists()
@@ -68,14 +68,27 @@ class BulbulUser extends Model implements AuthenticatableContract,
         return $this->hasMany('App\Playlist', 'FOLLOWS');
     }
 
-    public function listenedTracks()
-    {
-        return $this->hasMany('App\Track', 'LISTENS');
-    }
-
     public function listenedPlaylists()
     {
         return $this->hasMany('App\Playlist', 'LISTENS');
+    }
+
+    public function getListenEdgesAttribute(){
+        if($this->listenedTrackEdges != null) return $this->listenedTrackEdges;
+        return $this->listenedTrackEdges = $this->listenedTracksRelation()->edges();
+    }
+
+    public function getListenedTracksAttribute(){
+        $a = $this->listenEdges;
+        $results = [];
+        foreach($a as $i) {
+            $r = $i->related();
+            $r->rating = $i->rating;
+            $r->loved = $i->loved;
+            $r->play_count = $i->play_count;
+            $results[] = $r;
+        }
+        return $results;
     }
 
 }

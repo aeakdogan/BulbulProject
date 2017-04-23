@@ -34,6 +34,9 @@ class TagQuery extends Query
             if ($field === 'artists') {
                 $tags->with('artists');
             }
+            if ($field === 'tracks') {
+                $tags->with('tracks');
+            }
         }
 
         if (isset($args['id'])) {

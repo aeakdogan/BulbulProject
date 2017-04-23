@@ -33,17 +33,14 @@ class BulbulUserQuery extends Query
         $fields = $info->getFieldSelection($depth = 1);
 
         foreach ($fields as $field => $keys) {
-            if ($field === 'followedTracks') {
-                $users->with('followedTracks.artists', 'followedTracks.albums');
+            if ($field === 'listenedTracks') {
+                $users->with('listenedTracksRelation.artists', 'listenedTracksRelation.albums');
             }
-            if ($field === 'followedArtists') {
-                $users->with('followedArtists.albums');
+            if ($field === 'listenedArtists') {
+                $users->with('listenedArtists.albums');
             }
-            if ($field === 'followedAlbums') {
-                $users->with('followedAlbums.artists', 'followedAlbums.tracks');
-            }
-            if ($field === 'tags') {
-                $users->with('tags');
+            if ($field === 'listenedAlbums') {
+                $users->with('listenedAlbums.artists', 'listenedAlbums.tracks');
             }
             if ($field === 'followers') {
                 $users->with('followers');

@@ -6,6 +6,7 @@ use GraphQL\Type\Definition\ResolveInfo;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Query;
 use App\Track;
+use Illuminate\Support\Facades\Log;
 
 
 class TrackQuery extends Query
@@ -29,13 +30,15 @@ class TrackQuery extends Query
     {
         $tracks = Track::query();
         $fields = $info->getFieldSelection($depth = 1);
-
         foreach ($fields as $field => $keys) {
             if ($field === 'artists') {
                 $tracks->with('artists');
             }
-            if ($field === 'tracks') {
-                $tracks->with('tracks');
+            if ($field === 'albums') {
+                $tracks->with('albums');
+            }
+            if ($field === 'tags') {
+                $tracks->with('tags');
             }
         }
         if (isset($args['id'])) {

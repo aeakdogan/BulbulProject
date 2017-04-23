@@ -15,4 +15,9 @@ class Tag extends Model
         return $this->belongsToMany('App\Artist', 'TAGGED');
     }
 
+    public function tracks()
+    {
+        return $this->belongsToMany('App\Track', 'TAGGED');
+    }
+
 }
