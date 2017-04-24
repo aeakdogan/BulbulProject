@@ -502,7 +502,7 @@
             },
             {
               "name": "artists",
-              "description": "Artists of album",
+              "description": "Artists of track",
               "args": [],
               "type": {
                 "kind": "LIST",
@@ -512,6 +512,58 @@
                   "name": "Artist",
                   "ofType": null
                 }
+              },
+              "isDeprecated": false,
+              "deprecationReason": null
+            },
+            {
+              "name": "tags",
+              "description": "Tags of track",
+              "args": [],
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "OBJECT",
+                  "name": "Tag",
+                  "ofType": null
+                }
+              },
+              "isDeprecated": false,
+              "deprecationReason": null
+            },
+            {
+              "name": "rating",
+              "description": "The rating of the track",
+              "args": [],
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
+              },
+              "isDeprecated": false,
+              "deprecationReason": null
+            },
+            {
+              "name": "play_count",
+              "description": "The play_count of the track",
+              "args": [],
+              "type": {
+                "kind": "SCALAR",
+                "name": "Int",
+                "ofType": null
+              },
+              "isDeprecated": false,
+              "deprecationReason": null
+            },
+            {
+              "name": "loved",
+              "description": "User loved the track or not",
+              "args": [],
+              "type": {
+                "kind": "SCALAR",
+                "name": "Boolean",
+                "ofType": null
               },
               "isDeprecated": false,
               "deprecationReason": null
@@ -1104,10 +1156,36 @@
               },
               "isDeprecated": false,
               "deprecationReason": null
+            },
+            {
+              "name": "tracks",
+              "description": "Tracks tagged by this tag",
+              "args": [],
+              "type": {
+                "kind": "LIST",
+                "name": null,
+                "ofType": {
+                  "kind": "OBJECT",
+                  "name": "Track",
+                  "ofType": null
+                }
+              },
+              "isDeprecated": false,
+              "deprecationReason": null
             }
           ],
           "inputFields": null,
           "interfaces": [],
+          "enumValues": null,
+          "possibleTypes": null
+        },
+        {
+          "kind": "SCALAR",
+          "name": "Boolean",
+          "description": "The `Boolean` scalar type represents `true` or `false`.",
+          "fields": null,
+          "inputFields": null,
+          "interfaces": null,
           "enumValues": null,
           "possibleTypes": null
         },
@@ -1301,8 +1379,8 @@
               "deprecationReason": null
             },
             {
-              "name": "followedTracks",
-              "description": "The followed songs of user",
+              "name": "listenedTracks",
+              "description": "The listened songs of user",
               "args": [
                 {
                   "name": "limit",
@@ -1338,8 +1416,8 @@
               "deprecationReason": null
             },
             {
-              "name": "followedArtists",
-              "description": "The followed artists of user",
+              "name": "listenedArtists",
+              "description": "The listened artists of user",
               "args": [
                 {
                   "name": "limit",
@@ -1375,8 +1453,8 @@
               "deprecationReason": null
             },
             {
-              "name": "followedAlbums",
-              "description": "The followed albums of user",
+              "name": "listenedAlbums",
+              "description": "The listened albums of user",
               "args": [
                 {
                   "name": "limit",
@@ -1421,22 +1499,6 @@
                 "ofType": {
                   "kind": "OBJECT",
                   "name": "Playlist",
-                  "ofType": null
-                }
-              },
-              "isDeprecated": false,
-              "deprecationReason": null
-            },
-            {
-              "name": "listenedTracks",
-              "description": "The listened songs of user",
-              "args": [],
-              "type": {
-                "kind": "LIST",
-                "name": null,
-                "ofType": {
-                  "kind": "OBJECT",
-                  "name": "Track",
                   "ofType": null
                 }
               },
@@ -2027,16 +2089,6 @@
               "deprecationReason": null
             }
           ],
-          "possibleTypes": null
-        },
-        {
-          "kind": "SCALAR",
-          "name": "Boolean",
-          "description": "The `Boolean` scalar type represents `true` or `false`.",
-          "fields": null,
-          "inputFields": null,
-          "interfaces": null,
-          "enumValues": null,
           "possibleTypes": null
         },
         {

@@ -62,13 +62,13 @@ public class MyAlbumsFragment extends Fragment {
             public void onResponse(@Nonnull Response<UserAlbumsQuery.Data> response) {
                 if (response.isSuccessful()) {
                     UserAlbumsQuery.Data.User user = response.data().users().get(0);
-                    if (user.followedAlbums() != null) {
-                        for (UserAlbumsQuery.Data.User.FollowedAlbum album : user.followedAlbums()) {
+                    if (user.listenedAlbums() != null) {
+                        for (UserAlbumsQuery.Data.User.ListenedAlbum album : user.listenedAlbums()) {
                             Album newAlbum = new Album(album.name(), 0, album.image());
                             newAlbum.setId(album.id());
                             newAlbum.setSongsCount(album.tracksCount());
                             if (album.artists() != null) {
-                                for (UserAlbumsQuery.Data.User.FollowedAlbum.Artist artist : album.artists()) {
+                                for (UserAlbumsQuery.Data.User.ListenedAlbum.Artist artist : album.artists()) {
                                     newAlbum.getArtists().add(new Artist(artist.name()));
                                 }
                             }

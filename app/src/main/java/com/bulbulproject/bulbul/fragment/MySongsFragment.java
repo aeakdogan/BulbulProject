@@ -66,12 +66,12 @@ public class MySongsFragment extends Fragment {
             public void onResponse(@Nonnull Response<UserSongsQuery.Data> response) {
                 if (response.isSuccessful()) {
                     UserSongsQuery.Data.User user = response.data().users().get(0);
-                    if (user.followedTracks() != null) {
-                        for (UserSongsQuery.Data.User.FollowedTrack track : user.followedTracks()) {
+                    if (user.listenedTracks() != null) {
+                        for (UserSongsQuery.Data.User.ListenedTrack track : user.listenedTracks()) {
                             Song song = new Song(track.id(), track.name(), 0, track.spotify_track_id());
 
                             if (track.artists() != null) {
-                                for (UserSongsQuery.Data.User.FollowedTrack.Artist artist : track.artists()) {
+                                for (UserSongsQuery.Data.User.ListenedTrack.Artist artist : track.artists()) {
                                     song.getArtists().add(new Artist(artist.name()));
                                 }
                             }

@@ -61,8 +61,8 @@ public class MyArtistsFragment extends Fragment {
             public void onResponse(@Nonnull Response<UserArtistsQuery.Data> response) {
                 if (response.isSuccessful()) {
                     UserArtistsQuery.Data.User user = response.data().users().get(0);
-                    if (user.followedArtists() != null) {
-                        for (UserArtistsQuery.Data.User.FollowedArtist artist : user.followedArtists()) {
+                    if (user.listenedArtists() != null) {
+                        for (UserArtistsQuery.Data.User.ListenedArtist artist : user.listenedArtists()) {
                             Artist newArtist = new Artist(artist.name());
                             newArtist.setId(artist.id());
                             newArtist.setImageUrl(artist.image());

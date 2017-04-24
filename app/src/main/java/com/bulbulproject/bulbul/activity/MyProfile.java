@@ -2,6 +2,7 @@ package com.bulbulproject.bulbul.activity;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -35,6 +36,7 @@ public class MyProfile extends AppCompatActivity {
     Button myArtists;
     Button mySongs;
     Button myAlbums;
+    Button mLogout;
 
 
     @Override
@@ -113,7 +115,18 @@ public class MyProfile extends AppCompatActivity {
             }
         });
 
-        String token = getApplication().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE).getString("AUTH_TOKEN", "");
+        final SharedPreferences sp = getApplication().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE);
+        mLogout = (Button) findViewById(R.id.logout);
+        mLogout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                sp.edit().remove("AUTH_TOKEN").commit();
+                Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        String token = sp.getString("AUTH_TOKEN", "");
         ((App) getApplication()).apolloClient().newCall(ProfileQuery.builder().token(token).build()).enqueue(new ApolloCall.Callback<ProfileQuery.Data>() {
             @Override
             public void onResponse(@Nonnull Response<ProfileQuery.Data> response) {
