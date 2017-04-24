@@ -118,7 +118,7 @@ class BulbulUserType extends GraphQLType
     {
         if (!isset($args['limit']) && !isset($args['skip'])) {
             if (!$root->relationLoaded('listenedTracksRelation')) $root->load('listenedTracksRelation');
-            return $root->listenedTracks;
+            return $root->listenedTracksRelation;
         }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
