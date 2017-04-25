@@ -22,7 +22,7 @@ class BulbulUserType extends GraphQLType
                 'description' => 'The name of user'
             ],
             'image' => [
-                'type' => Type::nonNull(Type::string()),
+                'type' => Type::string(),
                 'description' => 'The image of user'
             ],
             'lastActivePlaylist' => [
