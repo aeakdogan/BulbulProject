@@ -1,0 +1,3 @@
+query authenticationQuery($email:String!, $password:String!) {
+    authentication(email:$email,password:$password)
+}

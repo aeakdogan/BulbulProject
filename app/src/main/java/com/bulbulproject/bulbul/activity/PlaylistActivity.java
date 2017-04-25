@@ -8,52 +8,102 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.apollographql.android.ApolloCall;
+import com.apollographql.android.api.graphql.Response;
+import com.bulbulproject.PlaylistsQuery;
+import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.adapter.SongsRVAdapter;
 import com.bulbulproject.bulbul.model.Album;
+import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Playlist;
 import com.bulbulproject.bulbul.model.Song;
+import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.annotation.Nonnull;
+
 public class PlaylistActivity extends AppCompatActivity {
     private Playlist mPlaylist;
+    private int mPlaylistId;
     private RecyclerView.Adapter mRVAdapter;
+    private ImageView playlistImage;
+    private RecyclerView listView;
+    private Toolbar toolbar;
+    private CollapsingToolbarLayout collapsingToolbarLayout;
+    private RecyclerView.LayoutManager layoutManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_playlist);
-        initializeData();
 
-        RecyclerView listView = (RecyclerView) findViewById(R.id.playlist_song_list);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        ImageView playlistImage = (ImageView) findViewById(R.id.playlist_image);
-
+        listView = (RecyclerView) findViewById(R.id.playlist_song_list);
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
+        playlistImage = (ImageView) findViewById(R.id.playlist_image);
         setSupportActionBar(toolbar);
-        CollapsingToolbarLayout collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.toolbar_layout);
-        collapsingToolbarLayout.setTitle(mPlaylist.getName());
+        collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.toolbar_layout);
+        mPlaylist =  new Playlist("Loading...", R.drawable.playlist);
+
         playlistImage.setImageResource(mPlaylist.getPhotoId());
-        RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(this);
+        layoutManager = new LinearLayoutManager(this);
         mRVAdapter = new SongsRVAdapter(mPlaylist.getSongs(), this);
         listView.setAdapter(mRVAdapter);
         listView.setLayoutManager(layoutManager);
+
+        collapsingToolbarLayout.setTitle(mPlaylist.getName());
+
+        mPlaylistId = getIntent().getIntExtra("id",-1);
+
+        if(mPlaylistId > -1){
+            ((App)getApplication()).apolloClient().newCall(PlaylistsQuery.builder().id(mPlaylistId).build()).enqueue(new ApolloCall.Callback<PlaylistsQuery.Data>() {
+                @Override
+                public void onResponse(@Nonnull Response<PlaylistsQuery.Data> response) {
+                    if(response.isSuccessful()){
+                        final PlaylistsQuery.Data.Playlist playlist = response.data().playlists().get(0);
+                        mPlaylist.setName(playlist.name());
+                        mPlaylist.setId(playlist.id());
+                        if(playlist.tracks()!=null){
+                            for(PlaylistsQuery.Data.Playlist.Track track : playlist.tracks()){
+                                Song song = new Song(track.id(),track.name(), 0, track.spotify_track_id());
+                                if(track.artists() != null){
+                                    for(PlaylistsQuery.Data.Playlist.Track.Artist trackArtist: track.artists()){
+                                        song.getArtists().add(new Artist(trackArtist.name()));
+                                    }
+                                }
+                                mPlaylist.getSongs().add(song);
+                            }
+                        }
+                        runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                collapsingToolbarLayout.setTitle(mPlaylist.getName());
+                                mRVAdapter.notifyDataSetChanged();
+                            }
+                        });
+                    }
+                }
+
+                @Override
+                public void onFailure(@Nonnull Throwable t) {
+                    final String text = t.getMessage();
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            Toast.makeText(PlaylistActivity.this, text, Toast.LENGTH_SHORT).show();
+                        }
+                    });
+                }
+            });
+        }
+        else{
+            Toast.makeText(PlaylistActivity.this, R.string.playlist_activity_fetch_error, Toast.LENGTH_SHORT).show();
+        }
+
     }
 
-    private void initializeData() {
-        mPlaylist =  new Playlist("Playlist 1", R.drawable.playlist);
-
-        List<Song> songList = new ArrayList<Song>();
-
-        songList.add(new Song(1, "Song 1", R.drawable.cover_picture, 0));
-        songList.add(new Song(2, "Song 2", R.drawable.cover_picture, 2));
-        songList.add(new Song(3, "Song 3", R.drawable.cover_picture, 1));
-        songList.add(new Song(4, "Song 4", R.drawable.cover_picture, 3.4f));
-        songList.add(new Song(5, "Song 5", R.drawable.cover_picture, 4.6f));
-        songList.add(new Song(6, "Song 6", R.drawable.cover_picture, 2.7f));
-
-        mPlaylist.setSongs(songList);
-    }
 }

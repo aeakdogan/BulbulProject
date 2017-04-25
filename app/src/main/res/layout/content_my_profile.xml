@@ -5,101 +5,120 @@
     android:id="@+id/content_my_profile"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:orientation="vertical"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.bulbulproject.bulbul.activity.MyProfile"
     tools:showIn="@layout/activity_my_profile">
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:background="#EEE"
         android:orientation="horizontal">
+
         <com.mikhaellopez.circularimageview.CircularImageView
             android:id="@+id/profile_picture"
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:src="@drawable/dummy_photo"
             android:layout_gravity="center"
+            android:src="@drawable/dummy_photo"
             app:civ_border_color="@color/colorAccent"
             app:civ_border_width="4dp"
             app:civ_shadow="true"
-            app:civ_shadow_radius="10"
-            app:civ_shadow_color="#8BC34A"/>
+            app:civ_shadow_color="#8BC34A"
+            app:civ_shadow_radius="10" />
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
             android:orientation="vertical">
+
             <TextView
                 android:id="@+id/name"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textAppearance="@style/TextAppearance.AppCompat.Large"
                 android:gravity="center"
-                android:text="Name Surname"/>
+                android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:gravity="center"
                 android:orientation="horizontal">
+
                 <TextView
                     android:id="@+id/follower_count"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:gravity="center"
                     android:layout_marginEnd="5dp"
-                    android:textColor="@color/colorAccent"
-                    android:text="150 Followers"/>
+                    android:gravity="center"
+                    android:text="Followers"
+                    android:textColor="@color/colorAccent" />
+
                 <TextView
                     android:id="@+id/following_count"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:gravity="center"
                     android:layout_marginStart="5dp"
-                    android:textColor="@color/colorAccent"
-                    android:text="100 Following"/>
+                    android:gravity="center"
+                    android:text="Following"
+                    android:textColor="@color/colorAccent" />
+
             </LinearLayout>
+
+            <Button
+                android:id="@+id/logout"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:background="@color/colorAccent"
+                android:text="Logout"
+                android:textColor="#FFF" />
+
         </LinearLayout>
     </LinearLayout>
 
     <Button
         android:id="@+id/my_playlists"
-        android:text="My Playlists"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
         android:background="@color/colorAccent"
-        android:textColor="#FFF"
-        android:layout_marginTop="20dp"/>
+        android:text="My Playlists"
+        android:textColor="#FFF" />
+
     <Button
         android:id="@+id/my_songs"
-        android:text="My Songs"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
         android:background="@color/colorAccent"
-        android:textColor="#FFF"
-        android:layout_marginTop="5dp"/>
+        android:text="My Songs"
+        android:textColor="#FFF" />
+
     <Button
         android:id="@+id/my_artists"
-        android:text="My Artists"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
         android:background="@color/colorAccent"
-        android:textColor="#FFF"
-        android:layout_marginTop="5dp"/>
+        android:text="My Artists"
+        android:textColor="#FFF" />
+
     <Button
         android:id="@+id/my_albums"
-        android:text="My Albums"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
         android:background="@color/colorAccent"
-        android:textColor="#FFF"
-        android:layout_marginTop="5dp"/>
-
+        android:text="My Albums"
+        android:textColor="#FFF" />
 
 
 </LinearLayout>

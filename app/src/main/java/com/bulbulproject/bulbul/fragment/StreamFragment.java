@@ -103,17 +103,7 @@ public class StreamFragment extends Fragment {
         mActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
-                if (mPlayer.getPlaybackState().isPlaying) {
-                    mPlayer.pause(null);
-                } else {
-                    if (mUri != null) {
-                        mPlayer.resume(null);
-                    } else {
-                        mUri = TEST_SONG_URI;
-                        mPlayer.playUri(null, mUri, 0, 0);
-                    }
-                }
+               mPlayerService.playPause();
             }
 
         });
@@ -121,14 +111,14 @@ public class StreamFragment extends Fragment {
         mPreviousButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mPlayer.skipToPrevious(null);
+                mPlayerService.previous();
             }
         });
 
         mNextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mPlayer.skipToNext(null);
+                mPlayerService.next();
             }
         });
 

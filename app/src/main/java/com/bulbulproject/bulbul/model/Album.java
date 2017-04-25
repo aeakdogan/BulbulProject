@@ -13,6 +13,8 @@ public class Album {
     private List<Song> songs;
     private List<Artist> artists;
     private int photoId;
+    private String imageUrl;
+    private int songsCount = -1;
 
     public Album(String name, int year, int photoId) {
         this.name = name;
@@ -20,6 +22,23 @@ public class Album {
         this.photoId = photoId;
         this.songs = new ArrayList<Song>();
         this.artists = new ArrayList<Artist>();
+    }
+
+    public Album(String name, int year, String imageUrl) {
+        this.name = name;
+        this.year = year;
+        this.imageUrl = imageUrl;
+        this.songs = new ArrayList<Song>();
+        this.artists = new ArrayList<Artist>();
+    }
+
+    public int getSongsCount() {
+        if (songsCount == -1) return songs.size();
+        return songsCount;
+    }
+
+    public void setSongsCount(int songsCount) {
+        this.songsCount = songsCount;
     }
 
     public int getId() {
@@ -59,15 +78,17 @@ public class Album {
     }
 
     public String getArtistsString() {
-        if( this.artists == null || this.artists.size() == 0)
+        if (this.artists == null || this.artists.size() == 0)
             return "Unknown Artist";
 
         String str = "";
-        for( Artist artist : this.artists)
-            str += artist.toString() + ", ";
+        for (int i = 0; i < artists.size(); i++) {
+            str += artists.get(i).getName() + (i == artists.size() - 1 ? "" : ", ");
+        }
 
         return str;
     }
+
     public void setArtists(List<Artist> artists) {
         this.artists = artists;
     }
@@ -78,5 +99,13 @@ public class Album {
 
     public void setPhotoId(int photoId) {
         this.photoId = photoId;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
     }
 }

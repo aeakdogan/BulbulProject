@@ -2,6 +2,7 @@ package com.bulbulproject.bulbul.fragment;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.Nullable;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
 import android.support.v4.content.LocalBroadcastManager;
@@ -10,7 +11,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.Toast;
 
+import com.apollographql.android.ApolloCall;
+import com.apollographql.android.api.graphql.Response;
+import com.bulbulproject.TrackQuery;
+import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.activity.StreamActivity;
 import com.bulbulproject.bulbul.adapter.DiscoverListAdapter;
 import com.bulbulproject.bulbul.R;
@@ -18,6 +24,11 @@ import com.bulbulproject.bulbul.model.Song;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import javax.annotation.Nonnull;
+
+import io.reactivex.schedulers.Schedulers;
+import retrofit2.Retrofit;
 
 /**
  * Created by mesutgurlek on 2/12/17.
@@ -30,45 +41,97 @@ public class DiscoverFragment extends Fragment {
     List<Song> songList;
     private LocalBroadcastManager mBroadcastManager;
 
-    public DiscoverFragment() {
-        songList = new ArrayList<Song>();
-
-        songList.add(new Song(1, "Song 1", R.drawable.cover_picture, 0));
-        songList.add(new Song(2, "Song 2", R.drawable.cover_picture, 2));
-        songList.add(new Song(3, "Song 3", R.drawable.cover_picture, 1));
-        songList.add(new Song(4, "Song 4", R.drawable.cover_picture, 3.4f));
-        songList.add(new Song(5, "Song 5", R.drawable.cover_picture, 4.6f));
-        songList.add(new Song(6, "Song 6", R.drawable.cover_picture, 2.7f));
-    }
-
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        mBroadcastManager = LocalBroadcastManager.getInstance(getActivity().getApplicationContext());
     }
 
+    /**
+     * Called to have the fragment instantiate its user interface view.
+     * This is optional, and non-graphical fragments can return null (which
+     * is the default implementation).  This will be called between
+     * {@link #onCreate(Bundle)} and {@link #onActivityCreated(Bundle)}.
+     * <p>
+     * <p>If you return a View from here, you will later be called in
+     * {@link #onDestroyView} when the view is being released.
+     *
+     * @param inflater           The LayoutInflater object that can be used to inflate
+     *                           any views in the fragment,
+     * @param container          If non-null, this is the parent view that the fragment's
+     *                           UI should be attached to.  The fragment should not add the view itself,
+     *                           but this can be used to generate the LayoutParams of the view.
+     * @param savedInstanceState If non-null, this fragment is being re-constructed
+     *                           from a previous saved state as given here.
+     * @return Return the View for the fragment's UI, or null.
+     */
+    @Nullable
     @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
+    public View onCreateView(final LayoutInflater inflater, @Nullable final ViewGroup container, @Nullable Bundle savedInstanceState) {
 
+
+        mBroadcastManager = LocalBroadcastManager.getInstance(getActivity().getApplicationContext());
+        songList = new ArrayList<Song>();
         View rootView = inflater.inflate(R.layout.fragment_discover, container, false);
 
-        DiscoverListAdapter adapter = new DiscoverListAdapter(songList, getActivity().getBaseContext());
-        ListView androidListView = (ListView) rootView.findViewById(R.id.list_view_discover);
+        final DiscoverListAdapter adapter = new DiscoverListAdapter(songList, getActivity().getBaseContext());
+        final ListView androidListView = (ListView) rootView.findViewById(R.id.list_view_discover);
         androidListView.setAdapter(adapter);
-        androidListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
-                Song song = songList.get(position);
-                Intent intent = new Intent(getActivity().getApplicationContext(), StreamActivity.class);
-                //TODO: Pass song data instead of just spotify uri
-                intent.putExtra("song_uri", "spotify:user:spotify:playlist:2yLXxKhhziG2xzy7eyD4TD");
-                startActivity(intent);
-                Snackbar.make(view, "Song is " + song.getName() + " and " + song.getRating() + " stars ", Snackbar.LENGTH_LONG)
-                        .setAction("No action", null).show();
-            }
-        });
+        final ArrayList<String> songsList = new ArrayList<String>();
 
+
+        //Fetch data and update ui
+        ((App) getActivity().getApplication()).apolloClient().newCall(
+                TrackQuery.builder()
+                        .limit(10)
+                        .build())
+                .enqueue(
+                        new ApolloCall.Callback<TrackQuery.Data>() {
+                            @Override
+                            public void onResponse(@Nonnull Response<TrackQuery.Data> response) {
+                                if (response.data() != null) {
+                                    List<TrackQuery.Data.Track> trackList = response.data().tracks();
+                                    for (TrackQuery.Data.Track track : trackList) {
+                                        //Mapping api's track model to existing Song model
+                                        songList.add(new Song(track.id(),
+                                                track.name(),
+                                                R.drawable.cover_picture,
+                                                0,
+                                                track.spotify_track_id()
+                                        ));
+                                    }
+                                    for(Song song: songList){
+                                        songsList.add(song.getSpotifyUrl());
+                                    }
+                                    androidListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                                        @Override
+                                        public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
+                                            Intent intent = new Intent(getActivity().getApplicationContext(), StreamActivity.class);
+                                            intent.putExtra("position", position);
+                                            intent.putStringArrayListExtra("songs",songsList);
+                                            startActivity(intent);
+                                        }
+                                    });
+                                    //Update ui for adding new elements to list
+                                    getActivity().runOnUiThread(new Runnable() {
+                                        @Override
+                                        public void run() {
+                                            adapter.notifyDataSetChanged();
+                                        }
+                                    });
+                                }
+                            }
+
+                            @Override
+                            public void onFailure(@Nonnull Throwable t) {
+                                final String text = t.getMessage();
+                                getActivity().runOnUiThread(new Runnable() {
+                                    @Override
+                                    public void run() {
+                                        Toast.makeText(getContext(), text, Toast.LENGTH_SHORT).show();
+                                    }
+                                });
+                            }
+                        });
 
         return rootView;
     }

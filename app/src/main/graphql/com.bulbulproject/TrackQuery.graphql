@@ -1,0 +1,32 @@
+query TrackQuery($id: Int, $limit: Int, $skip:Int, $ids: [Int]) {
+    tracks(id: $id, limit: $limit, skip:$skip, ids: $ids){
+           id
+            name
+            artists{
+                id
+                name
+                tags{
+                    tag_name
+                }
+                image
+                biography_text
+                lastfm_url
+                mbid
+                listener_count
+                play_count
+                biography_url
+            }
+            mbid
+            spotify_album_id
+            spotify_album_img
+            spotify_artist_url
+            spotify_track_preview_url
+            duration
+            spotify_track_url
+            spotify_artist_id
+            lastfm_url
+            spotify_track_id
+            spotify_track_popularity
+            spotify_album_url
+    }
+}

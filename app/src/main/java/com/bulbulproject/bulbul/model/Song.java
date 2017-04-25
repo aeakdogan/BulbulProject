@@ -30,6 +30,25 @@ public class Song {
         this.artists = new ArrayList<Artist>();
     }
 
+    public Song(int id, String name, int photoId, float rating, String spotifyTrackId) {
+        this.id = id;
+        this.name = name;
+        this.photoId = photoId;
+        this.rating = rating;
+        this.albums = new ArrayList<Album>();
+        this.artists = new ArrayList<Artist>();
+        this.spotifyUrl = "spotify:track:"+spotifyTrackId;
+    }
+
+    public Song(int id, String name, float rating, String spotifyTrackId) {
+        this.id = id;
+        this.name = name;
+        this.rating = rating;
+        this.albums = new ArrayList<Album>();
+        this.artists = new ArrayList<Artist>();
+        this.spotifyUrl = "spotify:track:"+spotifyTrackId;
+    }
+
     public int getId() {
         return id;
     }
@@ -46,14 +65,15 @@ public class Song {
     public void setName(String name) {
         this.name = name;
     }
-
+    
     public String getArtistsString() {
-        if( this.artists == null || this.artists.size() == 0)
+        if (this.artists == null || this.artists.size() == 0)
             return "Unknown Artist";
 
         String str = "";
-        for( Artist artist : this.artists)
-            str += artist.toString() + ", ";
+        for (int i = 0; i < artists.size(); i++) {
+            str += artists.get(i).getName() + (i == artists.size() - 1 ? "" : ", ");
+        }
 
         return str;
     }
@@ -112,5 +132,13 @@ public class Song {
 
     public void setRating(float rating) {
         this.rating = rating;
+    }
+
+    public List<Artist> getArtists() {
+        return artists;
+    }
+
+    public void setArtists(List<Artist> artists) {
+        this.artists = artists;
     }
 }

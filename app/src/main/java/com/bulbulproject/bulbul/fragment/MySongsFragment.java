@@ -12,12 +12,14 @@ import android.widget.Toast;
 
 import com.apollographql.android.ApolloCall;
 import com.apollographql.android.api.graphql.Response;
-import com.bulbulproject.UserAlbumsQuery;
+import com.bulbulproject.UserSongsQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.adapter.AlbumsRVAdapter;
-import com.bulbulproject.bulbul.model.Album;
+import com.bulbulproject.bulbul.adapter.SongsRVAdapter;
+import com.bulbulproject.bulbul.adapter.SongsRVAdapter;
 import com.bulbulproject.bulbul.model.Artist;
+import com.bulbulproject.bulbul.model.Song;
+import com.bulbulproject.bulbul.model.Song;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -27,55 +29,55 @@ import javax.annotation.Nonnull;
 /**
  * Created by burak on 13.02.2017.
  */
-public class MyAlbumsFragment extends Fragment {
+public class MySongsFragment extends Fragment {
 
     private RecyclerView mRecyclerView;
-    //private RecyclerView.Adapter mAdapter;
     private RecyclerView.Adapter rvAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
-    private List<Album> albums;
+    private List<Song> mSongs;
 
-    public MyAlbumsFragment() {
+    public MySongsFragment() {
     }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        albums = new ArrayList<Album>();
+        mSongs = new ArrayList<Song>();
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.fragment_my_albums, container, false);
+
+        View rootView = inflater.inflate(R.layout.fragment_my_songs, container, false);
 
         mRecyclerView = (RecyclerView) rootView.findViewById(R.id.my_recycler_view);
 
         mLayoutManager = new LinearLayoutManager(getActivity());
         mRecyclerView.setLayoutManager(mLayoutManager);
 
-        rvAdapter = new AlbumsRVAdapter(albums, getContext());
+        rvAdapter = new SongsRVAdapter(mSongs, getContext());
         mRecyclerView.setAdapter(rvAdapter);
-        String token = getActivity().getApplication().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE).getString("AUTH_TOKEN", "");
-        ((App) getActivity().getApplication()).apolloClient().newCall(UserAlbumsQuery.builder().token(token).build()).enqueue(new ApolloCall.Callback<UserAlbumsQuery.Data>() {
+
+        String token = getActivity().getApplicationContext().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE).getString("AUTH_TOKEN", "");
+
+        ((App) getActivity().getApplication()).apolloClient().newCall(UserSongsQuery.builder().token(token).build()).enqueue(new ApolloCall.Callback<UserSongsQuery.Data>() {
             @Override
-            public void onResponse(@Nonnull Response<UserAlbumsQuery.Data> response) {
+            public void onResponse(@Nonnull Response<UserSongsQuery.Data> response) {
                 if (response.isSuccessful()) {
-                    UserAlbumsQuery.Data.User user = response.data().users().get(0);
-                    if (user.listenedAlbums() != null) {
-                        for (UserAlbumsQuery.Data.User.ListenedAlbum album : user.listenedAlbums()) {
-                            Album newAlbum = new Album(album.name(), 0, album.image());
-                            newAlbum.setId(album.id());
-                            newAlbum.setSongsCount(album.tracksCount());
-                            if (album.artists() != null) {
-                                for (UserAlbumsQuery.Data.User.ListenedAlbum.Artist artist : album.artists()) {
-                                    newAlbum.getArtists().add(new Artist(artist.name()));
+                    UserSongsQuery.Data.User user = response.data().users().get(0);
+                    if (user.listenedTracks() != null) {
+                        for (UserSongsQuery.Data.User.ListenedTrack track : user.listenedTracks()) {
+                            Song song = new Song(track.id(), track.name(), 0, track.spotify_track_id());
+
+                            if (track.artists() != null) {
+                                for (UserSongsQuery.Data.User.ListenedTrack.Artist artist : track.artists()) {
+                                    song.getArtists().add(new Artist(artist.name()));
                                 }
                             }
-                            albums.add(newAlbum);
+                            mSongs.add(song);
                         }
                     }
-
                     getActivity().runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
