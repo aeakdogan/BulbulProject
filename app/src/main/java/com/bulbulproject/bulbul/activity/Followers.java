@@ -1,10 +1,14 @@
 package com.bulbulproject.bulbul.activity;
 
 import android.content.Context;
+import android.content.Intent;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.Toolbar;
+import android.view.MenuItem;
 import android.widget.Toast;
 
 import com.apollographql.android.ApolloCall;
@@ -22,6 +26,7 @@ public class Followers extends AppCompatActivity {
     private RecyclerView mFollowerList;
     private RecyclerView.Adapter mRVAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
+    private Toolbar mToolbar;
     private BulbulUser mUser;
 
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,7 +34,14 @@ public class Followers extends AppCompatActivity {
         setContentView(R.layout.activity_followers);
 
         mUser = new BulbulUser("Loading...");
-
+        mToolbar = (Toolbar) findViewById(R.id.toolbar);
+        mToolbar.setTitle("Followers");
+        setSupportActionBar(mToolbar);
+        ActionBar actionBar = getSupportActionBar();
+        if(actionBar != null) {
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+        }
         mFollowerList = (RecyclerView) findViewById(R.id.followers_list);
         mLayoutManager = new LinearLayoutManager(this);
         mRVAdapter = new UsersRVAdapter(mUser.getFollowers(), this);
@@ -73,11 +85,27 @@ public class Followers extends AppCompatActivity {
 
 
         if (getIntent().hasExtra("id")) {
-            ((App) getApplication()).apolloClient().newCall(FollowersQuery.builder().id(1).build()).enqueue(callback);
+            ((App) getApplication()).apolloClient().newCall(FollowersQuery.builder().id(getIntent().getIntExtra("id",1)).build()).enqueue(callback);
         } else {
             String token = getApplicationContext().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE).getString("AUTH_TOKEN", "");
             ((App) getApplication()).apolloClient().newCall(FollowersQuery.builder().token(token).build()).enqueue(callback);
         }
 
     }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                Intent intent = new Intent(Followers.this, MyProfile.class);
+                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
+                startActivity(intent);
+                finish();
+                return true;
+
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
 }

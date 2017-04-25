@@ -8,6 +8,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.MenuItem;
 
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.fragment.MyAlbumsFragment;
@@ -33,7 +34,11 @@ public class MyAlbumArtistPlaylistActivity extends AppCompatActivity {
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        android.support.v7.app.ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+        }
 
         viewPager = (ViewPager) findViewById(R.id.viewpager);
         setupViewPager(viewPager);
@@ -44,7 +49,7 @@ public class MyAlbumArtistPlaylistActivity extends AppCompatActivity {
         TabLayout.Tab tab = tabLayout.getTabAt(getIntent().getIntExtra("selected_index", 0));
         try {
             tab.select();
-        } catch(NullPointerException e) {
+        } catch (NullPointerException e) {
             tabLayout.getTabAt(0).select();
         }
 
@@ -88,10 +93,16 @@ public class MyAlbumArtistPlaylistActivity extends AppCompatActivity {
         }
     }
 
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                super.onBackPressed();
 
-
-
-
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
 
 }
 

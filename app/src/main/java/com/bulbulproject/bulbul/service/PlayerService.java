@@ -140,18 +140,23 @@ public class PlayerService extends Service implements ConnectionStateCallback, P
         }
     }
 
-    public void play(){
-        mPlayer.playUri(null, songs.get(position), 0, 0);
+    public void play() {
+        if (songs != null && songs.size() > 0)
+            mPlayer.playUri(null, songs.get(position), 0, 0);
     }
 
     public void next() {
-        position = (position + 1) % songs.size();
-        mPlayer.playUri(null, songs.get(position), 0, 0);
+        if (songs != null && songs.size() > 0) {
+            position = (position == songs.size() - 1) ? 0 : (position + 1);
+            mPlayer.playUri(null, songs.get(position), 0, 0);
+        }
     }
 
     public void previous() {
-        position = (position - 1) % songs.size();
-        mPlayer.playUri(null, songs.get(position), 0, 0);
+        if (songs != null && songs.size() > 0) {
+            position = position == 0 ? songs.size() - 1 : (position - 1);
+            mPlayer.playUri(null, songs.get(position), 0, 0);
+        }
     }
 
     @Override

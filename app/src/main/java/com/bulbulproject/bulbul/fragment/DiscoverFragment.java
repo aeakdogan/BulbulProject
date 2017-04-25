@@ -76,17 +76,8 @@ public class DiscoverFragment extends Fragment {
         final DiscoverListAdapter adapter = new DiscoverListAdapter(songList, getActivity().getBaseContext());
         final ListView androidListView = (ListView) rootView.findViewById(R.id.list_view_discover);
         androidListView.setAdapter(adapter);
-        androidListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
-                Song song = songList.get(position);
-                Intent intent = new Intent(getActivity().getApplicationContext(), StreamActivity.class);
-                intent.putExtra("song_uri", song.getSpotifyUrl());
-                startActivity(intent);
-                Snackbar.make(view, "Song is " + song.getName() + " and " + song.getRating() + " stars ", Snackbar.LENGTH_LONG)
-                        .setAction("No action", null).show();
-            }
-        });
+        final ArrayList<String> songsList = new ArrayList<String>();
+
 
         //Fetch data and update ui
         ((App) getActivity().getApplication()).apolloClient().newCall(
@@ -108,6 +99,18 @@ public class DiscoverFragment extends Fragment {
                                                 track.spotify_track_id()
                                         ));
                                     }
+                                    for(Song song: songList){
+                                        songsList.add(song.getSpotifyUrl());
+                                    }
+                                    androidListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                                        @Override
+                                        public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
+                                            Intent intent = new Intent(getActivity().getApplicationContext(), StreamActivity.class);
+                                            intent.putExtra("position", position);
+                                            intent.putStringArrayListExtra("songs",songsList);
+                                            startActivity(intent);
+                                        }
+                                    });
                                     //Update ui for adding new elements to list
                                     getActivity().runOnUiThread(new Runnable() {
                                         @Override
