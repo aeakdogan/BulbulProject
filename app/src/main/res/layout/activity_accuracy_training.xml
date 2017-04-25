@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bulbulproject.bulbul.activity.AccuracyTraining">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.NoActionBar.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.NoActionBar.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="64dp"
+        android:orientation="vertical">
+        <!-- Login progress -->
+        <ProgressBar
+            android:id="@+id/login_progress"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="128dp"
+            android:visibility="gone" />
+        <TextView
+            android:id="@+id/text_song_counter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+            android:text="Song: 1/20" />
+        <ImageView
+            android:id="@+id/album_img"
+            android:layout_width="256dp"
+            android:layout_height="256dp"
+            android:layout_gravity="center"
+            android:src="@drawable/cover_picture"/>
+        <TextView
+            android:id="@+id/artist_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+            android:text="Artist Name" />
+        <TextView
+            android:id="@+id/album_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+            android:text="Album Name" />
+        <TextView
+            android:id="@+id/song_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+            android:text="Song Name" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+            <RatingBar
+                android:id="@+id/ratingbar_song"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:numStars="5"
+                android:stepSize="0.1"
+                />
+            <TextView
+                android:id="@+id/rate_song"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                android:text="4.7"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+            <ImageView
+                android:id="@+id/icon_prev"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:src="@drawable/icon_previous"
+                android:onClick="clicked_icon"/>
+            <View
+                android:layout_width="40dp"
+                android:layout_height="match_parent"/>
+            <ImageView
+                android:id="@+id/icon_next"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:src="@drawable/icon_next"
+                android:onClick="clicked_icon"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</android.support.design.widget.CoordinatorLayout>
