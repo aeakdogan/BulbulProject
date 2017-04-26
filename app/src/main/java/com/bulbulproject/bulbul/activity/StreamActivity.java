@@ -45,6 +45,7 @@ public class StreamActivity extends AppCompatActivity {
     private ImageView mImage;
     private int position;
     private List<String> songs;
+    private int targetProgress = 0;
 
 
     private Handler mHandler = new Handler();
@@ -101,9 +102,8 @@ public class StreamActivity extends AppCompatActivity {
         if (intent.hasExtra("song_uri")) {
             mAutoplay = true;
             mUri = intent.getStringExtra("song_uri");
-        }
-        else if(intent.hasExtra("songs")){
-            position = intent.getIntExtra("position",0);
+        } else if (intent.hasExtra("songs")) {
+            position = intent.getIntExtra("position", 0);
             songs = intent.getStringArrayListExtra("songs");
             mAutoplay = true;
         }
@@ -134,18 +134,19 @@ public class StreamActivity extends AppCompatActivity {
             @Override
             public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
                 if (fromUser) {
-                    mPlayer.seekToPosition(null, progress * 1000);
+                    targetProgress = progress * 1000;
                 }
             }
 
             @Override
             public void onStartTrackingTouch(SeekBar seekBar) {
-
+                mHandler.removeCallbacks(mUpdateTimeTask);
             }
 
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
-
+                mPlayer.seekToPosition(null, targetProgress);
+                updateSeekbarCurrentPos();
             }
         });
     }
@@ -264,13 +265,12 @@ public class StreamActivity extends AppCompatActivity {
             mPlayerService = binder.getService();
             mPlayer = mPlayerService.getSpotifyPlayer();
             mBound = true;
-            if(mAutoplay){
-                if(songs != null){
+            if (mAutoplay) {
+                if (songs != null) {
                     mPlayerService.setSongs(songs);
                     mPlayerService.setPosition(position);
                     mPlayerService.play();
-                }
-                else if(mUri != null){
+                } else if (mUri != null) {
                     mPlayerService.playUri(mUri);
                 }
             }

@@ -21,14 +21,40 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <Button
-        android:text="@string/connect_button_activity_spotify_connection"
-        android:layout_width="fill_parent"
+    <ProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="128dp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/buttonSpotifyConnect"
-        app:layout_anchorGravity="center_vertical|center_horizontal"
-        android:layout_gravity="center_vertical|center_horizontal"
-        android:background="@color/colorSpotifyGreen"
-        android:textColor="@android:color/white" />
+        android:layout_marginTop="?attr/actionBarSize"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/spotify_logo" />
+
+        <Button
+            android:id="@+id/buttonSpotifyConnect"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:background="@color/colorSpotifyGreen"
+            android:text="@string/connect_button_activity_spotify_connection"
+            android:textColor="@android:color/white"
+            app:layout_anchorGravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
 
 </android.support.design.widget.CoordinatorLayout>
