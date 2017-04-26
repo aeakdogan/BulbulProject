@@ -16,17 +16,14 @@ query TrackQuery($id: Int, $limit: Int, $skip:Int, $ids: [Int]) {
                 play_count
                 biography_url
             }
-            mbid
-            spotify_album_id
+            albums{
+                id
+                name
+                image
+            }
             spotify_album_img
-            spotify_artist_url
             spotify_track_preview_url
             duration
-            spotify_track_url
-            spotify_artist_id
-            lastfm_url
             spotify_track_id
-            spotify_track_popularity
-            spotify_album_url
     }
 }

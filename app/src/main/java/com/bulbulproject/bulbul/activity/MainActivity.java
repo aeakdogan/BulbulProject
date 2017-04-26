@@ -77,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
         tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
 
+
         Intent intent = new Intent(getApplicationContext(), PlayerService.class);
         startService(intent);
         //Set up floating action buttons
@@ -100,6 +101,7 @@ public class MainActivity extends AppCompatActivity {
         adapter.addFragment(new HomeFragment(), "Home");
         adapter.addFragment(new RecommendFragment(), "Recommend");
         viewPager.setAdapter(adapter);
+        viewPager.setCurrentItem(1);
     }
 
     @Override

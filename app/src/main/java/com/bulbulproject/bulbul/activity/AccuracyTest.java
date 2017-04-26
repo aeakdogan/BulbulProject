@@ -1,9 +1,11 @@
 package com.bulbulproject.bulbul.activity;
 
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.RatingBar;
@@ -18,6 +20,7 @@ import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.model.MySong;
 import com.squareup.picasso.Picasso;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -33,6 +36,7 @@ public class AccuracyTest extends AppCompatActivity {
     TextView textViewAlbumName;
     TextView textViewSongName;
     ImageView imageViewAlbumImage;
+    MediaPlayer mMediaPlayer;
 
     ArrayList<MySong> mSongs;
     private View mProgressView;
@@ -43,7 +47,11 @@ public class AccuracyTest extends AppCompatActivity {
         setContentView(R.layout.activity_accuracy_test);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
+        android.support.v7.app.ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+        }
         mProgressView = findViewById(R.id.login_progress);
         mProgressView.setVisibility(View.VISIBLE);
 
@@ -70,11 +78,12 @@ public class AccuracyTest extends AppCompatActivity {
                                         //Mapping api's track model to existing Song model
                                         MySong mSong = new MySong(track.id(),
                                                 track.name(),
-                                                "Album",
-                                                (track.artists().size() > 0)?track.artists().get(0).name():"Unknown Artist",
+                                                (track.albums().size()>0)?track.albums().get(0).name():"Album",
+                                                (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
 //                                                "Artist",
                                                 0,
-                                                track.spotify_album_img()
+                                                track.spotify_album_img(),
+                                                track.spotify_track_preview_url()
                                         );
                                         mSongs.add(mSong);
                                     }
@@ -84,6 +93,7 @@ public class AccuracyTest extends AppCompatActivity {
                                         public void run() {
                                             mProgressView.setVisibility(View.GONE);
                                             updateUI();
+                                            playSong(mSongs.get(currentOrder));
                                         }
                                     });
                                 }
@@ -101,20 +111,19 @@ public class AccuracyTest extends AppCompatActivity {
                             }
                         });
     }
-    public void clicked_icon(View v){
+
+    public void clicked_icon(View v) {
 
 
-        if(v.getId() == R.id.icon_bad || v.getId() == R.id.icon_neutral || v.getId() == R.id.icon_good){
-            if(v.getId() == R.id.icon_bad){
+        if (v.getId() == R.id.icon_bad || v.getId() == R.id.icon_neutral || v.getId() == R.id.icon_good) {
+            if (v.getId() == R.id.icon_bad) {
                 mSongs.get(currentOrder).setTestResult(-1);
-            }
-            else if(v.getId() == R.id.icon_neutral){
+            } else if (v.getId() == R.id.icon_neutral) {
                 mSongs.get(currentOrder).setTestResult(0);
-            }
-            else if(v.getId() == R.id.icon_good){
+            } else if (v.getId() == R.id.icon_good) {
                 mSongs.get(currentOrder).setTestResult(1);
             }
-            if(currentOrder == songsSize -1) {
+            if (currentOrder == songsSize - 1) {
                 Intent intent = new Intent(getApplicationContext(), AccuracyResult.class);
                 intent.putExtra("accuracy_score", 5);
                 startActivity(intent);
@@ -122,10 +131,40 @@ public class AccuracyTest extends AppCompatActivity {
             }
             currentOrder++;
             updateUI();
+            playSong(mSongs.get(currentOrder));
         }
     }
-    void updateUI(){
-        textViewSongCounter.setText("Song: " + (currentOrder+1) + "/" + songsSize);
+
+    void playSong(MySong song) {
+
+        releasePlayer();
+
+        if (song.getPreviewUrl() != null && !song.getPreviewUrl().isEmpty()) {
+            mMediaPlayer = new MediaPlayer();
+            try {
+                mMediaPlayer.setDataSource(song.getPreviewUrl());
+                mMediaPlayer.prepare();
+                mMediaPlayer.start();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        } else {
+            Toast.makeText(getApplicationContext(), "Preview is unavailable", Toast.LENGTH_SHORT).show();
+        }
+    }
+
+    void releasePlayer() {
+        if (mMediaPlayer != null) {
+            try {
+                mMediaPlayer.release();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    void updateUI() {
+        textViewSongCounter.setText("Song: " + (currentOrder + 1) + "/" + songsSize);
 
         textViewArtistName.setText(mSongs.get(currentOrder).getArtistName());
         textViewAlbumName.setText(mSongs.get(currentOrder).getAlbumName());
@@ -137,5 +176,27 @@ public class AccuracyTest extends AppCompatActivity {
                 .placeholder(R.drawable.cover_picture)
                 .error(R.drawable.album)
                 .into(imageViewAlbumImage);
+    }
+
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                Intent intent = new Intent(AccuracyTest.this, MainActivity.class);
+                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
+                startActivity(intent);
+                finish();
+                return true;
+
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        releasePlayer();
     }
 }

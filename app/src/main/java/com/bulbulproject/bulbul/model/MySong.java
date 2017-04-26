@@ -11,16 +11,21 @@ public class MySong {
     private String artistName;
     private float rating;
     private String imageUrl;
+    private String previewUrl;
+
+
+
     int testResult;
 
 
-    public MySong(int id, String name, String albumName, String artistName, float rating, String imageUrl) {
+    public MySong(int id, String name, String albumName, String artistName, float rating, String imageUrl, String previewUrl) {
         this.id = id;
         this.name = name;
         this.albumName = albumName;
         this.artistName = artistName;
         this.rating = rating;
         this.imageUrl = imageUrl;
+        this.previewUrl = previewUrl;
     }
 
     public String getName() {
@@ -56,5 +61,9 @@ public class MySong {
 
     public void setTestResult(int testResult) {
         this.testResult = testResult;
+    }
+
+    public String getPreviewUrl() {
+        return previewUrl;
     }
 }

@@ -79,12 +79,6 @@
                 android:textAlignment="textEnd"
                 android:id="@+id/action_register" />
 
-            <Button
-                android:id="@+id/test_button"
-                android:layout_width="150dp"
-                android:layout_height="wrap_content"
-                android:text="Start Test" />
-
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
