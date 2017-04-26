@@ -6,11 +6,13 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.apollographql.android.ApolloCall;
-import com.apollographql.android.api.graphql.Response;
+import com.apollographql.apollo.ApolloCall;
+import com.apollographql.apollo.api.Response;
+import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.ArtistQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
@@ -18,9 +20,6 @@ import com.bulbulproject.bulbul.adapter.AlbumsRVAdapter;
 import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
 import com.squareup.picasso.Picasso;
-
-import java.util.ArrayList;
-import java.util.List;
 
 import javax.annotation.Nonnull;
 
@@ -33,6 +32,8 @@ public class ArtistActivity extends AppCompatActivity {
     private Toolbar toolbar;
     private CollapsingToolbarLayout collapsingToolbarLayout;
     private RecyclerView.LayoutManager layoutManager;
+    private View mProgressView;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,6 +45,8 @@ public class ArtistActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         mArtist = new Artist("Loading...");
 
+        mProgressView = findViewById(R.id.progress);
+        mProgressView.setVisibility(View.VISIBLE);
         collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.toolbar_layout);
         collapsingToolbarLayout.setTitle("Loading...");
         layoutManager = new LinearLayoutManager(this);
@@ -64,12 +67,12 @@ public class ArtistActivity extends AppCompatActivity {
                                 mArtist.setImageUrl(artist.image());
 
                                 if (artist.albums() != null) {
-                                    for (ArtistQuery.Data.Artist.Album album : artist.albums()) {
+                                    for (ArtistQuery.Data.Album album : artist.albums()) {
                                         Album newAlbum = new Album(album.name(), 0, album.image());
                                         newAlbum.setId(album.id());
                                         newAlbum.setSongsCount(album.tracksCount());
-                                        if(album.artists() != null){
-                                            for(ArtistQuery.Data.Artist.Album.Artist1 albumArtist: album.artists()){
+                                        if (album.artists() != null) {
+                                            for (ArtistQuery.Data.Artist1 albumArtist : album.artists()) {
                                                 newAlbum.getArtists().add(new Artist(albumArtist.name()));
                                             }
                                         }
@@ -80,6 +83,7 @@ public class ArtistActivity extends AppCompatActivity {
                                 runOnUiThread(new Runnable() {
                                     @Override
                                     public void run() {
+                                        mProgressView.setVisibility(View.GONE);
                                         Picasso.with(ArtistActivity.this).load(mArtist.getImageUrl()).into(artistImage);
                                         collapsingToolbarLayout.setTitle(mArtist.getName());
                                         mRVAdapter.notifyDataSetChanged();
@@ -89,8 +93,8 @@ public class ArtistActivity extends AppCompatActivity {
                         }
 
                         @Override
-                        public void onFailure(@Nonnull Throwable t) {
-                            final String text = t.getMessage();
+                        public void onFailure(@Nonnull ApolloException e) {
+                            final String text = e.getMessage();
                             runOnUiThread(new Runnable() {
                                 @Override
                                 public void run() {
@@ -100,8 +104,7 @@ public class ArtistActivity extends AppCompatActivity {
                         }
                     });
             collapsingToolbarLayout.setTitle(mArtist.getName());
-        }
-        else {
+        } else {
             Toast.makeText(ArtistActivity.this, R.string.artist_activity_fetch_error, Toast.LENGTH_SHORT).show();
         }
     }

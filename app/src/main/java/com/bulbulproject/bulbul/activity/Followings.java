@@ -9,10 +9,12 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Toast;
 
-import com.apollographql.android.ApolloCall;
-import com.apollographql.android.api.graphql.Response;
+import com.apollographql.apollo.ApolloCall;
+import com.apollographql.apollo.api.Response;
+import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.FollowingsQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
@@ -28,6 +30,7 @@ public class Followings extends AppCompatActivity {
     private RecyclerView.LayoutManager mLayoutManager;
     private Toolbar mToolbar;
     private BulbulUser mUser;
+    private View mProgressView;
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -36,6 +39,9 @@ public class Followings extends AppCompatActivity {
         mUser = new BulbulUser("Loading...");
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         mToolbar.setTitle("Following");
+
+        mProgressView = findViewById(R.id.progress);
+        mProgressView.setVisibility(View.VISIBLE);
         setSupportActionBar(mToolbar);
         ActionBar actionBar = getSupportActionBar();
         if (actionBar != null) {
@@ -54,7 +60,7 @@ public class Followings extends AppCompatActivity {
                 if (response.isSuccessful()) {
                     FollowingsQuery.Data.User user = response.data().users().get(0);
                     if (user.followedUsers() != null) {
-                        for (FollowingsQuery.Data.User.FollowedUser follower : user.followedUsers()) {
+                        for (FollowingsQuery.Data.FollowedUser follower : user.followedUsers()) {
                             BulbulUser newFollower = new BulbulUser(follower.username());
                             newFollower.setProfilePhoto(follower.image());
                             newFollower.setId(follower.id());
@@ -65,15 +71,15 @@ public class Followings extends AppCompatActivity {
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
+                            mProgressView.setVisibility(View.GONE);
                             mRVAdapter.notifyDataSetChanged();
                         }
                     });
                 }
             }
-
             @Override
-            public void onFailure(@Nonnull Throwable t) {
-                final String text = t.getMessage();
+            public void onFailure(@Nonnull ApolloException e) {
+                final String text = e.getMessage();
                 runOnUiThread(new Runnable() {
                     @Override
                     public void run() {

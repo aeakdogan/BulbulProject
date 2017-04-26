@@ -12,9 +12,9 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import com.apollographql.android.ApolloCall;
-import com.apollographql.android.api.graphql.Error;
-import com.apollographql.android.api.graphql.Response;
+import com.apollographql.apollo.ApolloCall;
+import com.apollographql.apollo.api.Response;
+import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.RegisterMutation;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
@@ -115,13 +115,14 @@ public class RegisterActivity extends AppCompatActivity {
                 }
             }
 
+
             @Override
-            public void onFailure(@Nonnull Throwable t) {
-                final String text = t.getMessage();
+            public void onFailure(@Nonnull ApolloException e) {
+                final String text = e.getMessage();
                 runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
-                        Toast.makeText(RegisterActivity.this, text, Toast.LENGTH_LONG).show();
+                        Toast.makeText(RegisterActivity.this, text, Toast.LENGTH_SHORT).show();
                     }
                 });
             }

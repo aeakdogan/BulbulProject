@@ -19,11 +19,11 @@ import com.bulbulproject.bulbul.model.Song;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardViewHolder>{
+public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardViewHolder> {
     private List<Song> songs;
     private Context context;
 
-    public SongsRVAdapter(List<Song> songs, Context context){
+    public SongsRVAdapter(List<Song> songs, Context context) {
         this.songs = songs;
         this.context = context;
     }
@@ -52,7 +52,7 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
     public SongsRVAdapter.MyCardViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         context = parent.getContext();
         CardView cv = (CardView) LayoutInflater.from(context)
-                                    .inflate(R.layout.cv_song, parent, false);
+                .inflate(R.layout.cv_song, parent, false);
         MyCardViewHolder cvh = new MyCardViewHolder(cv);
         return cvh;
     }
@@ -61,7 +61,7 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
     public void onBindViewHolder(SongsRVAdapter.MyCardViewHolder holder, final int position) {
         final Song tmpSong = songs.get(position);
         final ArrayList<String> songsList = new ArrayList<String>();
-        for(Song song: songs){
+        for (Song song : songs) {
             songsList.add(song.getSpotifyUrl());
         }
         holder.songTitle.setText(tmpSong.getName());
@@ -72,13 +72,12 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
             public void onClick(View view) {
                 Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                intent.putStringArrayListExtra("songs",songsList);
-                intent.putExtra("position",position);
+                intent.putStringArrayListExtra("songs", songsList);
+                intent.putExtra("position", position);
                 context.getApplicationContext().startActivity(intent);
             }
         });
     }
-
 
     @Override
     public int getItemCount() {

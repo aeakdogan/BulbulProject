@@ -66,7 +66,10 @@ public class ArtistsRVAdapter extends RecyclerView.Adapter<ArtistsRVAdapter.MyCa
         holder.artistName.setText(artist.getName());
         holder.artistMeta.setText("" + artist.getAlbumsCount() + " albums");
         if (artist.getImageUrl() != null && artist.getImageUrl().length() > 0) {
-            Picasso.with(context).load(artist.getImageUrl()).into(holder.artistPhoto);
+            Picasso.with(context).load(artist.getImageUrl())
+                    .placeholder(R.drawable.artist)
+                    .error(R.drawable.artist)
+                    .into(holder.artistPhoto);
         }
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override

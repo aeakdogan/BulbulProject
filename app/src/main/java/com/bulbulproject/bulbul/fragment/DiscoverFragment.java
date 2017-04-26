@@ -13,8 +13,9 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.apollographql.android.ApolloCall;
-import com.apollographql.android.api.graphql.Response;
+import com.apollographql.apollo.ApolloCall;
+import com.apollographql.apollo.api.Response;
+import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.TrackQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.activity.StreamActivity;
@@ -40,6 +41,8 @@ public class DiscoverFragment extends Fragment {
     // Array of strings for ListView Title
     List<Song> songList;
     private LocalBroadcastManager mBroadcastManager;
+    private View mProgressView;
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -77,7 +80,8 @@ public class DiscoverFragment extends Fragment {
         final ListView androidListView = (ListView) rootView.findViewById(R.id.list_view_discover);
         androidListView.setAdapter(adapter);
         final ArrayList<String> songsList = new ArrayList<String>();
-
+        mProgressView = rootView.findViewById(R.id.progress);
+        mProgressView.setVisibility(View.VISIBLE);
 
         //Fetch data and update ui
         ((App) getActivity().getApplication()).apolloClient().newCall(
@@ -99,7 +103,7 @@ public class DiscoverFragment extends Fragment {
                                                 track.spotify_track_id()
                                         ));
                                     }
-                                    for(Song song: songList){
+                                    for (Song song : songList) {
                                         songsList.add(song.getSpotifyUrl());
                                     }
                                     androidListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -107,7 +111,7 @@ public class DiscoverFragment extends Fragment {
                                         public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
                                             Intent intent = new Intent(getActivity().getApplicationContext(), StreamActivity.class);
                                             intent.putExtra("position", position);
-                                            intent.putStringArrayListExtra("songs",songsList);
+                                            intent.putStringArrayListExtra("songs", songsList);
                                             startActivity(intent);
                                         }
                                     });
@@ -115,6 +119,7 @@ public class DiscoverFragment extends Fragment {
                                     getActivity().runOnUiThread(new Runnable() {
                                         @Override
                                         public void run() {
+                                            mProgressView.setVisibility(View.GONE);
                                             adapter.notifyDataSetChanged();
                                         }
                                     });
@@ -122,12 +127,13 @@ public class DiscoverFragment extends Fragment {
                             }
 
                             @Override
-                            public void onFailure(@Nonnull Throwable t) {
-                                final String text = t.getMessage();
+                            public void onFailure(@Nonnull ApolloException e) {
+                                e.printStackTrace();
+                                final String text = e.getMessage();
                                 getActivity().runOnUiThread(new Runnable() {
                                     @Override
                                     public void run() {
-                                        Toast.makeText(getContext(), text, Toast.LENGTH_SHORT).show();
+                                        Toast.makeText(getActivity(), text, Toast.LENGTH_SHORT).show();
                                     }
                                 });
                             }

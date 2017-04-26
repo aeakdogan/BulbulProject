@@ -10,8 +10,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.apollographql.android.ApolloCall;
-import com.apollographql.android.api.graphql.Response;
+import com.apollographql.apollo.ApolloCall;
+import com.apollographql.apollo.api.Response;
+import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.UserPlaylistsQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
@@ -34,6 +35,8 @@ public class MyPlaylistsFragment extends Fragment {
     //private RecyclerView.Adapter mAdapter;
     private RecyclerView.Adapter rvAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
+    private View mProgressView;
+
     private List<Playlist> mPlaylists;
 
     public MyPlaylistsFragment() {
@@ -51,6 +54,9 @@ public class MyPlaylistsFragment extends Fragment {
 
         View rootView = inflater.inflate(R.layout.fragment_my_playlists, container, false);
 
+        mProgressView = rootView.findViewById(R.id.progress);
+        mProgressView.setVisibility(View.VISIBLE);
+
         mRecyclerView = (RecyclerView) rootView.findViewById(R.id.my_recycler_view);
 
         mLayoutManager = new LinearLayoutManager(getActivity());
@@ -67,24 +73,27 @@ public class MyPlaylistsFragment extends Fragment {
                 if (response.isSuccessful()) {
                     UserPlaylistsQuery.Data.User user = response.data().users().get(0);
                     if (user.playlists() != null) {
-                        for (UserPlaylistsQuery.Data.User.Playlist playlist : user.playlists()) {
+                        for (UserPlaylistsQuery.Data.Playlist playlist : user.playlists()) {
                             Playlist newPlaylist = new Playlist(playlist.name(), playlist.id());
                             newPlaylist.setSongsCount(playlist.tracksCount());
                             mPlaylists.add(newPlaylist);
                         }
                     }
-                    getActivity().runOnUiThread(new Runnable() {
-                        @Override
-                        public void run() {
-                            rvAdapter.notifyDataSetChanged();
-                        }
-                    });
+                    if (getActivity() != null) {
+                        getActivity().runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                mProgressView.setVisibility(View.GONE);
+                                rvAdapter.notifyDataSetChanged();
+                            }
+                        });
+                    }
                 }
             }
 
             @Override
-            public void onFailure(@Nonnull Throwable t) {
-                final String text = t.getMessage();
+            public void onFailure(@Nonnull ApolloException e) {
+                final String text = e.getMessage();
                 getActivity().runOnUiThread(new Runnable() {
                     @Override
                     public void run() {

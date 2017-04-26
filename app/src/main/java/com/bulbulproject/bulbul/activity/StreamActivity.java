@@ -10,7 +10,6 @@ import android.content.IntentFilter;
 import android.content.ServiceConnection;
 import android.os.Handler;
 import android.os.IBinder;
-import android.support.design.widget.AppBarLayout;
 import android.support.v4.content.LocalBroadcastManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -24,9 +23,9 @@ import android.widget.TextView;
 
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.service.PlayerService;
-import com.bulbulproject.bulbul.task.FetchImageTask;
 import com.spotify.sdk.android.player.Metadata;
 import com.spotify.sdk.android.player.SpotifyPlayer;
+import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
@@ -168,8 +167,10 @@ public class StreamActivity extends AppCompatActivity {
             track = mPlayer.getMetadata().currentTrack;
         }
         if (track != null) {
-            FetchImageTask imageTask = new FetchImageTask(mImage);
-            imageTask.execute(track.albumCoverWebUrl);
+            Picasso.with(StreamActivity.this).load(track.albumCoverWebUrl)
+                    .placeholder(R.drawable.cover_picture)
+                    .error(R.drawable.cover_picture)
+                    .into(mImage);
             updateSeekbarCurrentPos();
             updateSeekbarDuration();
             mListName.setText(track.albumName);

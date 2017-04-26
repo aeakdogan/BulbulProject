@@ -5,6 +5,15 @@
     android:orientation="vertical"
     android:background="#FFFAFA">
 
+
+    <ProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="128dp"
+        android:visibility="gone" />
+
     <ListView
         android:id="@+id/list_view_discover"
         android:layout_width="fill_parent"

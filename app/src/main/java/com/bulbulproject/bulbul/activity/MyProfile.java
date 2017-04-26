@@ -14,41 +14,43 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
-import com.apollographql.android.ApolloCall;
-import com.apollographql.android.api.graphql.Response;
+import com.apollographql.apollo.ApolloCall;
+import com.apollographql.apollo.api.Response;
+import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.ProfileQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.activity.Followers;
-import com.bulbulproject.bulbul.activity.Followings;
 import com.bulbulproject.bulbul.model.BulbulUser;
 import com.squareup.picasso.Picasso;
 
 import javax.annotation.Nonnull;
 
 public class MyProfile extends AppCompatActivity {
-    BulbulUser mUser;
-    TextView mFollowingsText;
-    TextView mFollowersText;
-    TextView mName;
-    ImageView mProfilePhoto;
+    private BulbulUser mUser;
+    private TextView mFollowingsText;
+    private TextView mFollowersText;
+    private TextView mName;
+    private ImageView mProfilePhoto;
 
-    Button myPlaylists;
-    Button myArtists;
-    Button mySongs;
-    Button myAlbums;
-    Button mLogout;
+
+    private Button myPlaylists;
+    private Button myArtists;
+    private Button mySongs;
+    private Button myAlbums;
+    private Button mLogout;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my_profile);
+
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         ActionBar actionBar = getSupportActionBar();
-        if(actionBar != null) {
+        if (actionBar != null) {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             getSupportActionBar().setDisplayShowHomeEnabled(true);
         }
@@ -157,8 +159,15 @@ public class MyProfile extends AppCompatActivity {
             }
 
             @Override
-            public void onFailure(@Nonnull Throwable t) {
-
+            public void onFailure(@Nonnull ApolloException e) {
+                final String text = e.getMessage();
+                e.printStackTrace();
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(MyProfile.this, text, Toast.LENGTH_SHORT).show();
+                    }
+                });
             }
         });
 

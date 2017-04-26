@@ -66,7 +66,10 @@ public class AlbumsRVAdapter extends RecyclerView.Adapter<AlbumsRVAdapter.MyCard
         String albumMeta = tmpAlbum.getArtistsString() + "\n" +
                             tmpAlbum.getSongsCount() + " songs" ;
         holder.albumMeta.setText(albumMeta);
-        Picasso.with(context).load(tmpAlbum.getImageUrl()).into(holder.albumPhoto);
+        Picasso.with(context).load(tmpAlbum.getImageUrl())
+                .placeholder(R.drawable.album)
+                .error(R.drawable.album)
+                .into(holder.albumPhoto);
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

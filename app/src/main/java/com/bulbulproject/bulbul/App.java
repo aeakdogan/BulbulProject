@@ -1,10 +1,10 @@
 package com.bulbulproject.bulbul;
 
 import android.app.Application;
-import com.apollographql.android.ApolloCall;
+import com.apollographql.apollo.ApolloClient;
+
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
-import com.apollographql.android.impl.ApolloClient;
 
 
 public class App extends Application {
@@ -12,14 +12,16 @@ public class App extends Application {
     private ApolloClient apolloClient;
 
     @Override
-    public void onCreate(){
+    public void onCreate() {
         super.onCreate();
         HttpLoggingInterceptor loggingInterceptor = new HttpLoggingInterceptor();
         loggingInterceptor.setLevel(HttpLoggingInterceptor.Level.BODY);
+
         OkHttpClient okHttpClient = new OkHttpClient.Builder()
                 .addNetworkInterceptor(loggingInterceptor)
                 .build();
-        apolloClient = ApolloClient.<ApolloCall>builder().serverUrl(BASE_URL)
+
+        apolloClient = ApolloClient.builder().serverUrl(BASE_URL)
                 .okHttpClient(okHttpClient)
                 .build();
 

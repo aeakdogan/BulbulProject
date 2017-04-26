@@ -60,7 +60,9 @@ public class UsersRVAdapter extends RecyclerView.Adapter<UsersRVAdapter.ListHold
         final BulbulUser tmpUser = users.get(position);
         holder.userName.setText(tmpUser.getUsername());
         if (tmpUser.getProfilePhoto() != null && tmpUser.getProfilePhoto().length() > 0) {
-            Picasso.with(context).load(tmpUser.getProfilePhoto()).into(holder.userPhoto);
+            Picasso.with(context).load(tmpUser.getProfilePhoto())
+                    .placeholder(R.drawable.dummy_photo)
+                    .error(R.drawable.dummy_photo).into(holder.userPhoto);
         }
 //        holder.linearLayout.setOnClickListener(new View.OnClickListener() {
 //            @Override
