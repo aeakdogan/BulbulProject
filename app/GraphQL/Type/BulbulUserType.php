@@ -29,6 +29,10 @@ class BulbulUserType extends GraphQLType
                 'type' => Type::nonNull(GraphQL::type('Playlist')),
                 'description' => 'The last active playlist of user'
             ],
+            'recommendations' => [
+                'type' => Type::listOf(GraphQL::type('Recommendation')),
+                'description' => 'Recommendations belongs to the user'
+            ],
             'listenedTracks' => [
                 'type' => Type::listOf(GraphQL::type('Track')),
                 'description' => 'The listened songs of user',

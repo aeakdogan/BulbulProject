@@ -97,11 +97,13 @@ return [
                 'playlists' => 'App\GraphQL\Query\PlaylistQuery',
                 'users' => 'App\GraphQL\Query\BulbulUserQuery',
                 'tags' => 'App\GraphQL\Query\TagQuery',
+                'recommendations' => 'App\GraphQL\Query\RecommendationQuery',
                 'authentication' =>'App\GraphQL\Query\AuthenticationQuery',
             ],
             'mutation' => [
                 'addTagToArtist' => 'App\GraphQL\Mutation\AddTagToArtistMutation',
                 'register' => 'App\GraphQL\Mutation\RegisterMutation',
+                'requestRecommendation' => 'App\GraphQL\Mutation\RequestRecommendationMutation',
             ]
         ]
     ],
@@ -128,6 +130,8 @@ return [
         'Playlist'=>'App\GraphQL\Type\PlaylistType',
         'BulbulUser'=>'App\GraphQL\Type\BulbulUserType',
         'Tag'=>'App\GraphQL\Type\TagType',
+        'Recommendation' =>'App\GraphQL\Type\RecommendationType',
+        'Rating' =>'App\GraphQL\Type\RatingType'
     ],
 
     // This callable will received every Error objects for each errors GraphQL catch.

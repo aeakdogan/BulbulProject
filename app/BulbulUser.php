@@ -48,6 +48,10 @@ class BulbulUser extends Model implements AuthenticatableContract,
         return $this->followers->count();
     }
 
+    public function recommendations(){
+        return $this->hasMany('App\Recommendation','REQUESTS');
+    }
+
     public function listenedAlbums()
     {
         return $this->hasMany('App\Album', 'LISTENS');
@@ -80,6 +84,7 @@ class BulbulUser extends Model implements AuthenticatableContract,
 
     public function getListenedTracksAttribute(){
         $a = $this->listenEdges;
+
         $results = [];
         foreach($a as $i) {
             $r = $i->related();

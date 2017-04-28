@@ -9,7 +9,8 @@
         "laravel/framework": "5.3.*",
         "folklore/graphql": "~1.0.0",
         "vinelab/neoeloquent": "1.4.*",
-        "tymon/jwt-auth": "0.5.*"
+        "tymon/jwt-auth": "0.5.*",
+        "predis/predis": "^1.1"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

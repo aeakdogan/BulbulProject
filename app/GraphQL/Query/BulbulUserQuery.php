@@ -48,7 +48,9 @@ class BulbulUserQuery extends Query
             if ($field === 'followedUsers') {
                 $users->with('followedUsers');
             }
-
+            if ($field === 'recommendations') {
+                $users->with('recommendations');
+            }
         }
 
         if (isset($args['token'])){
