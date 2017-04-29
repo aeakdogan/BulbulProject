@@ -14,7 +14,8 @@ use Vinelab\NeoEloquent\Eloquent\Model;
 class Rating extends Model
 {
     protected $label = 'Rating';
-    protected $fillable = ['id','track_id', 'value'];
+    protected $fillable = ['id','track_id', 'value', 'mbid'];
+    protected $hidden = ['id','track_id'];
     public $timestamps = false;
 
     public function track(){
