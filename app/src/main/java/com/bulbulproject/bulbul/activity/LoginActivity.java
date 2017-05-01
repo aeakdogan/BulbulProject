@@ -89,6 +89,14 @@ public class LoginActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        (findViewById(R.id.mood_button)).setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), MoodActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
     /**

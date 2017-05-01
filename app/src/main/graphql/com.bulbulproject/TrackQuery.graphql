@@ -1,5 +1,5 @@
-query TrackQuery($id: Int, $limit: Int, $skip:Int, $ids: [Int]) {
-    tracks(id: $id, limit: $limit, skip:$skip, ids: $ids){
+query TrackQuery($id: Int, $limit: Int, $skip:Int, $ids: [Int], $min_acousticness: Float, $max_acousticness: Float, $min_liveness: Float, $max_liveness: Float, $min_speechiness: Float, $max_speechiness: Float, $min_valence: Float, $max_valence: Float, $min_danceability: Float, $max_danceability: Float, $min_instrumentalness: Float, $max_instrumentalness: Float, $min_tempo: Float, $max_tempo: Float, $min_energy: Float, $max_energy: Float, $min_loudness: Float, $max_loudness: Float) {
+    tracks(id: $id, limit: $limit, skip:$skip, ids: $ids, min_acousticness:$min_acousticness, max_acousticness:$max_acousticness, min_liveness:$min_liveness, max_liveness:$max_liveness, min_speechiness:$min_speechiness, max_speechiness:$max_speechiness, min_valence:$min_valence, max_valence:$max_valence, min_danceability:$min_danceability, max_danceability:$max_danceability, min_instrumentalness:$min_instrumentalness, max_instrumentalness:$max_instrumentalness, min_tempo:$min_tempo, max_tempo:$max_tempo, min_energy:$min_energy, max_energy:$max_energy, min_loudness:$min_loudness, max_loudness:$max_loudness){
            id
             name
             artists{

@@ -8,7 +8,7 @@ import com.apollographql.android.impl.ApolloClient;
 
 
 public class App extends Application {
-    private static String BASE_URL = "http://104.236.48.28/graphql";
+    private static String BASE_URL = "http://207.154.244.207/graphql";
     private ApolloClient apolloClient;
 
     @Override
