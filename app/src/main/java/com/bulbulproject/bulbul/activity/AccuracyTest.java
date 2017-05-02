@@ -72,7 +72,7 @@ public class AccuracyTest extends AppCompatActivity {
                         new ApolloCall.Callback<TrackQuery.Data>() {
                             @Override
                             public void onResponse(@Nonnull Response<TrackQuery.Data> response) {
-                                if (response.data() != null) {
+                                if (response.isSuccessful()) {
                                     List<TrackQuery.Data.Track> trackList = response.data().tracks();
                                     for (TrackQuery.Data.Track track : trackList) {
                                         //Mapping api's track model to existing Song model
