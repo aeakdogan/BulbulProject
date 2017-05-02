@@ -12,8 +12,7 @@ public class MySong {
     private float rating;
     private String imageUrl;
     private String previewUrl;
-
-
+    private String spotifyUrl;
 
     int testResult;
 
@@ -26,6 +25,16 @@ public class MySong {
         this.rating = rating;
         this.imageUrl = imageUrl;
         this.previewUrl = previewUrl;
+    }
+
+    public MySong(int id, String spotifyUrl, String name, String albumName, String artistName, float rating, String imageUrl) {
+        this.id = id;
+        this.name = name;
+        this.albumName = albumName;
+        this.artistName = artistName;
+        this.rating = rating;
+        this.imageUrl = imageUrl;
+        this.spotifyUrl =  "spotify:track:"+spotifyUrl;
     }
 
     public String getName() {
@@ -66,4 +75,6 @@ public class MySong {
     public String getPreviewUrl() {
         return previewUrl;
     }
+
+    public String getSpotifyUrl() { return spotifyUrl;}
 }

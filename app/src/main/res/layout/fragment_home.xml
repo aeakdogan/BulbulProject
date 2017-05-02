@@ -8,18 +8,34 @@
     android:layout_marginTop="@dimen/activity_horizontal_margin"
     android:orientation="vertical">
 
-    <Button
-        android:id="@+id/test_button"
-        style="@style/Widget.AppCompat.Button"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginEnd="4dp"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="4dp"
-        android:background="@color/colorAccent"
-        android:text="Start Test"
-        android:textColor="?android:attr/textColorPrimaryInverse" />
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/test_button"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="4dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/colorAccent"
+            android:text="Start Test"
+            android:textColor="?android:attr/textColorPrimaryInverse" />
+
+        <Button
+            android:id="@+id/mood_button"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="4dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/colorAccent"
+            android:text="Start Mood Activity"
+            android:textColor="?android:attr/textColorPrimaryInverse" />
+    </LinearLayout>
 
 </RelativeLayout>

@@ -1,19 +1,22 @@
 package com.bulbulproject.bulbul.activity;
 
+import android.content.Intent;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.apollographql.android.ApolloCall;
 import com.apollographql.android.api.graphql.Response;
+import com.apollographql.apollo.ApolloCall;
+import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.TrackQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.adapter.AlbumsRVAdapter;
 import com.bulbulproject.bulbul.adapter.MoodActivityRVAdapter;
 import com.bulbulproject.bulbul.model.MySong;
 
@@ -37,6 +40,11 @@ public class MoodActivityResult extends AppCompatActivity {
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+        }
 
 
         mRecyclerView = (RecyclerView) findViewById(R.id.my_recycler_view);
@@ -155,15 +163,18 @@ public class MoodActivityResult extends AppCompatActivity {
                 .enqueue(
                         new ApolloCall.Callback<TrackQuery.Data>() {
                             @Override
-                            public void onResponse(@Nonnull Response<TrackQuery.Data> response) {
+                            public void onResponse(@Nonnull com.apollographql.apollo.api.Response<TrackQuery.Data> response) {
                                 if (response.data() != null) {
                                     List<TrackQuery.Data.Track> trackList = response.data().tracks();
                                     for (TrackQuery.Data.Track track : trackList) {
                                         //Mapping api's track model to existing Song model
-                                        MySong mSong = new MySong(track.id(),
+
+                                        MySong mSong = new MySong(
+                                                track.id(),
+                                                track.spotify_track_id(),
                                                 track.name(),
-                                                "Album",
-                                                (track.artists().size() > 0)?track.artists().get(0).name():"Unknown Artist",
+                                                (track.albums().size()>0)?track.albums().get(0).name():"Album",
+                                                (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
 //                                                "Artist",
                                                 0,
                                                 track.spotify_album_img()
@@ -182,8 +193,8 @@ public class MoodActivityResult extends AppCompatActivity {
                             }
 
                             @Override
-                            public void onFailure(@Nonnull Throwable t) {
-                                final String text = t.getMessage();
+                            public void onFailure(@Nonnull ApolloException e) {
+                                final String text = e.getMessage();
                                 runOnUiThread(new Runnable() {
                                     @Override
                                     public void run() {
@@ -191,10 +202,28 @@ public class MoodActivityResult extends AppCompatActivity {
                                     }
                                 });
                             }
-                        });
+                        }
+        );
+
     }
     void updateUI(){
         rvAdapter = new MoodActivityRVAdapter(mSongs, getApplicationContext());
         mRecyclerView.setAdapter(rvAdapter);
+    }
+
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                Intent intent = new Intent(MoodActivityResult.this, MoodActivity.class);
+                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
+                startActivity(intent);
+                finish();
+                return true;
+
+            default:
+                return super.onOptionsItemSelected(item);
+        }
     }
 }

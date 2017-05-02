@@ -16,6 +16,7 @@ import com.bulbulproject.bulbul.model.MySong;
 import com.bulbulproject.bulbul.model.Song;
 import com.squareup.picasso.Picasso;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class MoodActivityRVAdapter extends RecyclerView.Adapter<MoodActivityRVAdapter.MyCardViewHolder>{
@@ -59,6 +60,11 @@ public class MoodActivityRVAdapter extends RecyclerView.Adapter<MoodActivityRVAd
     @Override
     public void onBindViewHolder(MoodActivityRVAdapter.MyCardViewHolder holder, final int position) {
         final MySong tmpSong = songs.get(position);
+        final ArrayList<String> songsList = new ArrayList<String>();
+        for (MySong song : songs) {
+            songsList.add(song.getSpotifyUrl());
+        }
+
         holder.songTitle.setText(tmpSong.getName());
         holder.songArtists.setText(tmpSong.getArtistName());
         Picasso.with(context)
@@ -72,8 +78,9 @@ public class MoodActivityRVAdapter extends RecyclerView.Adapter<MoodActivityRVAd
             public void onClick(View view) {
                 Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                intent.putExtra("song_uri", "spotify:user:spotify:playlist:2yLXxKhhziG2xzy7eyD4TD");
-                //TODO: Pass song data
+                intent.putStringArrayListExtra("songs", songsList);
+                intent.putExtra("position", position);
+                context.getApplicationContext().startActivity(intent);
                 context.getApplicationContext().startActivity(intent);
             }
         });

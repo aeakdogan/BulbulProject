@@ -9,6 +9,7 @@ import android.view.ViewGroup;
 
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.activity.AccuracyTraining;
+import com.bulbulproject.bulbul.activity.MoodActivity;
 
 /**
  * Created by mesutgurlek on 2/12/17.
@@ -33,6 +34,14 @@ public class HomeFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(getActivity(), AccuracyTraining.class);
+                startActivity(intent);
+            }
+        });
+
+        rootView.findViewById(R.id.mood_button).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), MoodActivity.class);
                 startActivity(intent);
             }
         });
