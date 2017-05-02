@@ -79,7 +79,9 @@
         <activity
             android:name=".activity.AccuracyResult"
             android:label="@string/title_activity_accuracy_result"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".activity.MoodActivity" android:label="Mood Activity" />
+        <activity android:name=".activity.MoodActivityResult" android:label="Mood Activity Result"></activity>
     </application>
 
 </manifest>
