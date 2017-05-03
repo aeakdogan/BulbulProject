@@ -1,0 +1,17 @@
+query ArtistQuery($id: Int, $limit: Int, $skip:Int, $ids: [Int]) {
+    artists(id: $id, limit: $limit, skip:$skip, ids: $ids){
+        id
+        name
+        image
+        albums{
+          id
+          name
+          image
+          artists{
+            name
+          }
+          tracksCount
+        }
+
+    }
+}

@@ -21,6 +21,14 @@
 
     </android.support.design.widget.AppBarLayout>
 
+    <ProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="128dp"
+        android:visibility="gone" />
+
     <include layout="@layout/content_my_profile" />
 
     <android.support.design.widget.FloatingActionButton
@@ -29,7 +37,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
-        app:srcCompat="@android:drawable/ic_menu_edit"
-        />
+        app:srcCompat="@android:drawable/ic_menu_edit" />
 
 </android.support.design.widget.CoordinatorLayout>

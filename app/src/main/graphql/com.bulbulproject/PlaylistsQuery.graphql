@@ -1,0 +1,15 @@
+query PlaylistsQuery($id: Int, $limit: Int, $skip:Int, $ids: [Int]) {
+    playlists(id: $id, limit: $limit, skip:$skip, ids: $ids){
+        id
+        name
+       	tracks{
+          id
+          name
+          spotify_track_id
+          artists{
+            name
+          }
+        }
+
+    }
+}

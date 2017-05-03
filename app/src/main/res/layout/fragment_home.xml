@@ -2,14 +2,40 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:background="#fa6a6a">
+    android:layout_marginBottom="@dimen/activity_horizontal_margin"
+    android:layout_marginLeft="@dimen/activity_vertical_margin"
+    android:layout_marginRight="@dimen/activity_vertical_margin"
+    android:layout_marginTop="@dimen/activity_horizontal_margin"
+    android:orientation="vertical">
 
-    <TextView android:layout_width="fill_parent"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center"
-        android:text="Design Home Screen"
-        android:textSize="20dp"
-        android:layout_centerInParent="true"/>
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/test_button"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="4dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/colorAccent"
+            android:text="Start Test"
+            android:textColor="?android:attr/textColorPrimaryInverse" />
+
+        <Button
+            android:id="@+id/mood_button"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="4dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/colorAccent"
+            android:text="Start Mood Activity"
+            android:textColor="?android:attr/textColorPrimaryInverse" />
+    </LinearLayout>
 
 </RelativeLayout>

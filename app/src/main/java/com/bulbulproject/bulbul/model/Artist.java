@@ -2,6 +2,7 @@ package com.bulbulproject.bulbul.model;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.StringTokenizer;
 
 /**
  * Created by burak on 14.02.2017.
@@ -11,11 +12,27 @@ public class Artist {
     private String name;
     private List<Album> albums;
     private int photoId;
+    private String imageUrl;
+    private int albumsCount = -1;
 
     public Artist(String name, int photoId) {
         this.name = name;
         this.photoId = photoId;
         this.albums = new ArrayList<Album>();
+    }
+
+    public Artist(String name) {
+
+        this.name = name;
+        this.albums = new ArrayList<Album>();
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
     }
 
     public int getId() {
@@ -48,5 +65,14 @@ public class Artist {
 
     public void setPhotoId(int photoId) {
         this.photoId = photoId;
+    }
+
+    public int getAlbumsCount() {
+        if(albumsCount == -1) return albums.size();
+        return albumsCount;
+    }
+
+    public void setAlbumsCount(int albumsCount) {
+        this.albumsCount = albumsCount;
     }
 }

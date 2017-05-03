@@ -10,11 +10,11 @@ import android.content.IntentFilter;
 import android.content.ServiceConnection;
 import android.os.Handler;
 import android.os.IBinder;
-import android.support.design.widget.AppBarLayout;
 import android.support.v4.content.LocalBroadcastManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.ImageView;
@@ -23,9 +23,11 @@ import android.widget.TextView;
 
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.service.PlayerService;
-import com.bulbulproject.bulbul.task.FetchImageTask;
 import com.spotify.sdk.android.player.Metadata;
 import com.spotify.sdk.android.player.SpotifyPlayer;
+import com.squareup.picasso.Picasso;
+
+import java.util.List;
 
 public class StreamActivity extends AppCompatActivity {
 
@@ -41,6 +43,10 @@ public class StreamActivity extends AppCompatActivity {
     private TextView mListName, mSongTitle, mArtistName, mSeekbarCurrentPos, mSeekbarDuration;
     private SeekBar mSeekBar;
     private ImageView mImage;
+    private int position;
+    private List<String> songs;
+    private int targetProgress = 0;
+
 
     private Handler mHandler = new Handler();
 
@@ -74,6 +80,12 @@ public class StreamActivity extends AppCompatActivity {
         //Setup Toolbar
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        android.support.v7.app.ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+        }
+
         mActionButton = (ImageButton) findViewById(R.id.button_action);
         mPreviousButton = (ImageButton) findViewById(R.id.button_previous);
         mNextButton = (ImageButton) findViewById(R.id.button_next);
@@ -90,22 +102,16 @@ public class StreamActivity extends AppCompatActivity {
         if (intent.hasExtra("song_uri")) {
             mAutoplay = true;
             mUri = intent.getStringExtra("song_uri");
+        } else if (intent.hasExtra("songs")) {
+            position = intent.getIntExtra("position", 0);
+            songs = intent.getStringArrayListExtra("songs");
+            mAutoplay = true;
         }
 
         mActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
-                if (mPlayer.getPlaybackState().isPlaying) {
-                    mPlayer.pause(null);
-                } else {
-                    if (mUri != null) {
-                        mPlayer.resume(null);
-                    } else {
-                        mUri = TEST_SONG_URI;
-                        mPlayer.playUri(null, mUri, 0, 0);
-                    }
-                }
+                mPlayerService.playPause();
             }
 
         });
@@ -113,14 +119,14 @@ public class StreamActivity extends AppCompatActivity {
         mPreviousButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mPlayer.skipToPrevious(null);
+                mPlayerService.previous();
             }
         });
 
         mNextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mPlayer.skipToNext(null);
+                mPlayerService.next();
             }
         });
 
@@ -128,18 +134,19 @@ public class StreamActivity extends AppCompatActivity {
             @Override
             public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
                 if (fromUser) {
-                    mPlayer.seekToPosition(null, progress * 1000);
+                    targetProgress = progress * 1000;
                 }
             }
 
             @Override
             public void onStartTrackingTouch(SeekBar seekBar) {
-
+                mHandler.removeCallbacks(mUpdateTimeTask);
             }
 
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
-
+                mPlayer.seekToPosition(null, targetProgress);
+                updateSeekbarCurrentPos();
             }
         });
     }
@@ -161,8 +168,10 @@ public class StreamActivity extends AppCompatActivity {
             track = mPlayer.getMetadata().currentTrack;
         }
         if (track != null) {
-            FetchImageTask imageTask = new FetchImageTask(mImage);
-            imageTask.execute(track.albumCoverWebUrl);
+            Picasso.with(StreamActivity.this).load(track.albumCoverWebUrl)
+                    .placeholder(R.drawable.cover_picture)
+                    .error(R.drawable.cover_picture)
+                    .into(mImage);
             updateSeekbarCurrentPos();
             updateSeekbarDuration();
             mListName.setText(track.albumName);
@@ -224,7 +233,7 @@ public class StreamActivity extends AppCompatActivity {
 
     public void setUri(String uri) {
         mUri = uri;
-        mPlayer.playUri(null, mUri, 0, 0);
+        mPlayerService.playUri(mUri);
     }
 
     private Runnable mUpdateTimeTask = new Runnable() {
@@ -256,8 +265,14 @@ public class StreamActivity extends AppCompatActivity {
             mPlayerService = binder.getService();
             mPlayer = mPlayerService.getSpotifyPlayer();
             mBound = true;
-            if(mAutoplay){
-                mPlayer.playUri(null,mUri,0,0);
+            if (mAutoplay) {
+                if (songs != null) {
+                    mPlayerService.setSongs(songs);
+                    mPlayerService.setPosition(position);
+                    mPlayerService.play();
+                } else if (mUri != null) {
+                    mPlayerService.playUri(mUri);
+                }
             }
             updateUI();
 
@@ -270,4 +285,14 @@ public class StreamActivity extends AppCompatActivity {
         }
     };
 
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                super.onBackPressed();
+
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
 }

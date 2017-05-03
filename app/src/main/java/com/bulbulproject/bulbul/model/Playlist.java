@@ -12,10 +12,11 @@ public class Playlist {
     private List<Song> songs;
     private String name;
     private int photoId;
+    private int songsCount = -1;
 
-    public Playlist(String name, int photoId) {
+    public Playlist(String name, int id) {
+        this.id = id;
         this.name = name;
-        this.photoId = photoId;
         this.songs = new ArrayList<Song>();
     }
 
@@ -58,4 +59,14 @@ public class Playlist {
     public void setPhotoId(int photoId) {
         this.photoId = photoId;
     }
+
+    public int getSongsCount() {
+        if(songsCount == -1) return songs.size();
+        return songsCount;
+    }
+
+    public void setSongsCount(int songsCount) {
+        this.songsCount = songsCount;
+    }
+
 }
