@@ -69,9 +69,10 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:orientation="horizontal"
-            android:gravity="center"
+            android:gravity="center|bottom"
+            android:layout_marginBottom="10dp"
             android:layout_marginTop="30dp">
             <ImageView
                 android:id="@+id/icon_bad"

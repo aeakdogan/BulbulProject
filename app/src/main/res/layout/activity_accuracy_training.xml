@@ -68,45 +68,52 @@
             android:text="Song Name" />
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center">
-            <RatingBar
-                android:id="@+id/ratingbar_song"
-                android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginBottom="10dp"
+            android:gravity="bottom">
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:numStars="5"
-                android:stepSize="0.1"
-                />
-            <TextView
-                android:id="@+id/rate_song"
-                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+                <RatingBar
+                    android:id="@+id/ratingbar_song"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:numStars="5"
+                    android:stepSize="0.1"
+                    />
+                <TextView
+                    android:id="@+id/rate_song"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                    android:text="4.7"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
-                android:text="4.7"/>
-        </LinearLayout>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center">
-            <ImageView
-                android:id="@+id/icon_prev"
-                android:layout_width="64dp"
-                android:layout_height="64dp"
-                android:src="@drawable/icon_previous"
-                android:onClick="clicked_icon"/>
-            <View
-                android:layout_width="40dp"
-                android:layout_height="match_parent"/>
-            <ImageView
-                android:id="@+id/icon_next"
-                android:layout_width="64dp"
-                android:layout_height="64dp"
-                android:src="@drawable/icon_next"
-                android:onClick="clicked_icon"/>
+                android:orientation="horizontal"
+                android:gravity="center">
+                <ImageView
+                    android:id="@+id/icon_prev"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:src="@drawable/icon_previous"
+                    android:onClick="clicked_icon"/>
+                <View
+                    android:layout_width="40dp"
+                    android:layout_height="match_parent"/>
+                <ImageView
+                    android:id="@+id/icon_next"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:src="@drawable/icon_next"
+                    android:onClick="clicked_icon"/>
+            </LinearLayout>
         </LinearLayout>
     </LinearLayout>
 

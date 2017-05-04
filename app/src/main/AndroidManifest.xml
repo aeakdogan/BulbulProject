@@ -9,16 +9,15 @@
     <application
         android:name=".App"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/logo_bulbul_wt"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
         <activity
             android:name=".activity.LoginActivity"
-            android:label="@string/title_activity_login">
+            android:label="Bulbul">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -33,7 +32,8 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".activity.MainActivity"
-            android:label="@string/app_name" />
+            android:label="@string/app_name">
+        </activity>
         <activity
             android:name=".activity.RegisterActivity"
             android:label="@string/action_register" />
@@ -81,7 +81,7 @@
             android:label="@string/title_activity_accuracy_result"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".activity.MoodActivity" android:label="Mood Activity" />
-        <activity android:name=".activity.MoodActivityResult" android:label="Mood Activity Result"></activity>
+        <activity android:name=".activity.SongListActivity"></activity>
     </application>
 
 </manifest>

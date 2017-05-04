@@ -8,9 +8,20 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.SeekBar;
+import android.widget.Toast;
 
+import com.apollographql.apollo.ApolloCall;
+import com.apollographql.apollo.exception.ApolloException;
+import com.bulbulproject.TrackQuery;
+import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.model.MySong;
+import com.bulbulproject.bulbul.service.Globals;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.annotation.Nonnull;
 
 
 public class MoodActivity extends AppCompatActivity {
@@ -59,20 +70,163 @@ public class MoodActivity extends AppCompatActivity {
             }
         });
     }
+
     void get_songs(){
-        Intent intent = new Intent(getApplicationContext(), MoodActivityResult.class);
-        intent.putExtra("acousticness", seekBarAcousticness.getProgress());
-        intent.putExtra("liveness", seekBarLiveness.getProgress());
-        intent.putExtra("speechiness", seekBarSpeechiness.getProgress());
-        intent.putExtra("valence", seekBarValence.getProgress());
-        intent.putExtra("danceability", seekBarDanceability.getProgress());
-        intent.putExtra("instrumentalness", seekBarInstrumentalness.getProgress());
-        intent.putExtra("tempo", seekBarTempo.getProgress());
-        intent.putExtra("energy", seekBarEnergy.getProgress());
-        intent.putExtra("loudness", seekBarLoudness.getProgress());
-        startActivity(intent);
+        mProgressView = findViewById(R.id.login_progress);
+        mProgressView.setVisibility(View.VISIBLE);
+
+        //Snackbar.make(seekBarAcousticness, "" + seekBarAcousticness.getProgress(), Snackbar.LENGTH_SHORT).show();
+
+        int progressSeekBarAcousticness = seekBarAcousticness.getProgress();
+        int progressSeekBarLiveness = seekBarLiveness.getProgress();
+        int progressSeekBarSpeechiness = seekBarSpeechiness.getProgress();
+        int progressSeekBarValence = seekBarValence.getProgress();
+        int progressSeekBarDanceability = seekBarDanceability.getProgress();
+        int progressSeekBarInstrumentalness = seekBarInstrumentalness.getProgress();
+        int progressSeekBarTempo = seekBarTempo.getProgress();
+        int progressSeekBarEnergy = seekBarEnergy.getProgress();
+        int progressSeekBarLoudness = seekBarLoudness.getProgress();
+
+        double min_acousticness = 0;
+        double max_acousticness = 1;
+        double min_liveness = 0;
+        double max_liveness = 1;
+        double min_speechiness = 0;
+        double max_speechiness = 1;
+        double min_valence = 0;
+        double max_valence = 1;
+        double min_danceability = 0;
+        double max_danceability = 1;
+        double min_instrumentalness = 0;
+        double max_instrumentalness = 1;
+        double min_tempo = 0;
+        double max_tempo = 250;
+        double min_energy = 0;
+        double max_energy = 1;
+        double min_loudness = 0;
+        double max_loudness = -60;
+
+        if(progressSeekBarAcousticness == 0)
+            max_acousticness = 0.33;
+        else if(progressSeekBarAcousticness == 2)
+            min_acousticness = 0.67;
+
+        if(progressSeekBarLiveness == 0)
+            max_liveness = 0.33;
+        else if(progressSeekBarLiveness == 2)
+            min_liveness = 0.67;
+
+        if(progressSeekBarSpeechiness == 0)
+            max_speechiness = 0.33;
+        else if(progressSeekBarSpeechiness == 2)
+            min_speechiness = 0.67;
+
+        if(progressSeekBarValence == 0)
+            max_valence = 0.33;
+        else if(progressSeekBarValence == 2)
+            min_valence = 0.67;
+
+        if(progressSeekBarDanceability == 0)
+            max_danceability = 0.33;
+        else if(progressSeekBarDanceability == 2)
+            min_danceability = 0.67;
+
+        if(progressSeekBarInstrumentalness == 0)
+            max_instrumentalness = 0.33;
+        else if(progressSeekBarInstrumentalness == 2)
+            min_instrumentalness = 0.67;
+
+        if(progressSeekBarTempo == 0)
+            max_tempo= 80;
+        else if(progressSeekBarTempo == 2)
+            min_tempo = 150;
+
+        if(progressSeekBarEnergy == 0)
+            max_energy = 0.33;
+        else if(progressSeekBarEnergy == 2)
+            min_energy = 0.67;
+
+        if(progressSeekBarLoudness == 0)
+            max_loudness = -20;
+        else if(progressSeekBarLoudness == 2)
+            min_loudness = -40;
+
+        Globals.mSongs = new ArrayList<MySong>();
+        ((App) getApplication()).apolloClient().newCall(
+                TrackQuery.builder()
+                        .limit(10)
+                        .min_acousticness(min_acousticness)
+                        .max_acousticness(max_acousticness)
+                        .min_liveness(min_liveness)
+                        .max_liveness(max_liveness)
+                        .min_speechiness(min_speechiness)
+                        .max_speechiness(max_speechiness)
+                        .min_valence(min_valence)
+                        .max_valence(max_valence)
+                        .min_danceability(min_danceability)
+                        .max_danceability(max_danceability)
+                        .min_instrumentalness(min_instrumentalness)
+                        .max_instrumentalness(max_instrumentalness)
+                        .min_tempo(min_tempo)
+                        .max_tempo(max_tempo)
+                        .min_energy(min_energy)
+                        .max_energy(max_energy)
+                        .min_loudness(max_loudness)
+                        .max_loudness(min_loudness)
+                        .build())
+                .enqueue(
+                        new ApolloCall.Callback<TrackQuery.Data>() {
+                            @Override
+                            public void onResponse(@Nonnull com.apollographql.apollo.api.Response<TrackQuery.Data> response) {
+                                if (response.isSuccessful()) {
+                                    List<TrackQuery.Data.Track> trackList = response.data().tracks();
+                                    for (TrackQuery.Data.Track track : trackList) {
+                                        //Mapping api's track model to existing Song model
+
+                                        MySong mSong = new MySong(
+                                                track.id(),
+                                                track.spotify_track_id(),
+                                                track.name(),
+                                                (track.albums().size()>0)?track.albums().get(0).name():"Album",
+                                                (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
+//                                                "Artist",
+                                                0,
+                                                track.spotify_album_img()
+                                        );
+                                        Globals.mSongs.add(mSong);
+                                    }
+                                    //Update ui for adding new elements to list
+                                    runOnUiThread(new Runnable() {
+                                        @Override
+                                        public void run() {
+                                            Intent intent = new Intent(getApplicationContext(), SongListActivity.class);
+                                            startActivity(intent);
+                                        }
+                                    });
+                                }
+                            }
+
+                            @Override
+                            public void onFailure(@Nonnull ApolloException e) {
+                                final String text = e.getMessage();
+                                runOnUiThread(new Runnable() {
+                                    @Override
+                                    public void run() {
+                                        Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+                                    }
+                                });
+                            }
+                        }
+                );
+
     }
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+        if(mProgressView != null && mProgressView.getVisibility()==View.VISIBLE)
+            mProgressView.setVisibility(View.GONE);
+    }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
