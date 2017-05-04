@@ -3,6 +3,7 @@ package com.bulbulproject.bulbul.activity;
 import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
@@ -73,7 +74,16 @@ public class AccuracyTraining extends AppCompatActivity {
             @Override
             public void onRatingChanged(RatingBar ratingBar, float rating, boolean fromUser) {
                 mSongs.get(currentOrder).setRating(rating);
-                updateUI();
+                //updateUI();
+
+                Handler handler = new Handler();
+                handler.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        clicked_icon(findViewById(R.id.icon_next));
+                    }
+                }, 100);
+
             }
         });
         //Fetch data and update ui
