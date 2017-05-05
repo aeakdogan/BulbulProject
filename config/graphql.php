@@ -41,8 +41,8 @@ return [
     //     'mutation' => '\Folklore\GraphQL\GraphQLController@mutation'
     // ]
     //
-    'controllers' => \Folklore\GraphQL\GraphQLController::class.'@query',
-    
+    'controllers' => \Folklore\GraphQL\GraphQLController::class . '@query',
+
     // The name of the input that contain variables when you query the endpoint.
     // Some library use "variables", you can change it here. "params" will stay
     // the default for now but will be changed to "variables" in the next major
@@ -51,7 +51,7 @@ return [
 
     // Any middleware for the graphql route group
     'middleware' => [],
-    
+
     // Config for GraphiQL (https://github.com/graphql/graphiql).
     // To disable GraphiQL, set this to null.
     'graphiql' => [
@@ -98,7 +98,8 @@ return [
                 'users' => 'App\GraphQL\Query\BulbulUserQuery',
                 'tags' => 'App\GraphQL\Query\TagQuery',
                 'recommendations' => 'App\GraphQL\Query\RecommendationQuery',
-                'authentication' =>'App\GraphQL\Query\AuthenticationQuery',
+                'authentication' => 'App\GraphQL\Query\AuthenticationQuery',
+                'genres' => 'App\GraphQL\Query\GenresQuery',
             ],
             'mutation' => [
                 'addTagToArtist' => 'App\GraphQL\Mutation\AddTagToArtistMutation',
@@ -124,14 +125,15 @@ return [
     // ]
     //
     'types' => [
-        'Track'=>'App\GraphQL\Type\TrackType',
-        'Album'=>'App\GraphQL\Type\AlbumType',
-        'Artist'=>'App\GraphQL\Type\ArtistType',
-        'Playlist'=>'App\GraphQL\Type\PlaylistType',
-        'BulbulUser'=>'App\GraphQL\Type\BulbulUserType',
-        'Tag'=>'App\GraphQL\Type\TagType',
-        'Recommendation' =>'App\GraphQL\Type\RecommendationType',
-        'Rating' =>'App\GraphQL\Type\RatingType'
+        'Track' => 'App\GraphQL\Type\TrackType',
+        'Album' => 'App\GraphQL\Type\AlbumType',
+        'Artist' => 'App\GraphQL\Type\ArtistType',
+        'Playlist' => 'App\GraphQL\Type\PlaylistType',
+        'BulbulUser' => 'App\GraphQL\Type\BulbulUserType',
+        'Tag' => 'App\GraphQL\Type\TagType',
+        'Recommendation' => 'App\GraphQL\Type\RecommendationType',
+        'Rating' => 'App\GraphQL\Type\RatingType',
+        'Genre' => 'App\GraphQL\Type\GenreType'
     ],
 
     // This callable will received every Error objects for each errors GraphQL catch.

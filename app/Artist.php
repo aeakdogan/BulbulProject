@@ -37,4 +37,8 @@ class Artist extends Model
         return $this->albums->count();
     }
 
+    public function genres(){
+        return $this->hasMany('App\Genre', 'IN');
+    }
+
 }

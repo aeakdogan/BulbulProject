@@ -2,7 +2,6 @@
 
 namespace App;
 
-use Illuminate\Support\Facades\DB;
 use Vinelab\NeoEloquent\Eloquent\Model;
 
 
@@ -27,6 +26,5 @@ class Album extends Model
     {
         return $this->hasMany('App\Artist', 'BY');
     }
-
 
 }

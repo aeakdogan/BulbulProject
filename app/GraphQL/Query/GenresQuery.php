@@ -5,13 +5,13 @@ use GraphQL;
 use GraphQL\Type\Definition\ResolveInfo;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Query;
-use App\Tag;
+use App\Genre;
 
-class TagQuery extends Query
+class GenresQuery extends Query
 {
     public function type()
     {
-        return Type::listOf(GraphQL::type('Tag'));
+        return Type::listOf(GraphQL::type('Genre'));
     }
 
     public function args()
@@ -27,28 +27,28 @@ class TagQuery extends Query
     public function resolve($root, $args, $context, ResolveInfo $info)
     {
 
-        $tags = Tag::query();
+        $genres = Genre::query();
         $fields = $info->getFieldSelection($depth = 1);
 
-        foreach ($fields as $field => $keys) {
-            if ($field === 'artists') {
-                $tags->with('artists');
-            }
-            if ($field === 'tracks') {
-                $tags->with('tracks');
-            }
-        }
+//        foreach ($fields as $field => $keys) {
+//            if ($field === 'artists') {
+//                $genres->with('artists');
+//            }
+//            if ($field === 'tracks') {
+//                $genres->with('tracks');
+//            }
+//        }
 
         if (isset($args['id'])) {
-             $tags->where('id', $args['id']);
+             $genres->where('id', $args['id']);
         } else if (isset($args['ids'])) {
-             $tags->whereIn('id',$args['ids']);
+             $genres->whereIn('id',$args['ids']);
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
             $skip = isset($args['skip']) ? $args['skip'] : 0;
-             $tags->take($limit)->skip($skip);
+             $genres->take($limit)->skip($skip);
         }
-        return $tags->get();
+        return $genres->get();
     }
 
 }
