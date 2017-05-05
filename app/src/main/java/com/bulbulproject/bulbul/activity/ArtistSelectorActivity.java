@@ -17,6 +17,7 @@ import com.apollographql.apollo.ApolloCall;
 import com.apollographql.apollo.api.Response;
 import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.ArtistQuery;
+import com.bulbulproject.GenreQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.adapter.SelectableArtistAdapter;
@@ -57,7 +58,7 @@ public class ArtistSelectorActivity extends AppCompatActivity {
 
         artistList = new ArrayList<Artist>();
 //        initDummyData();
-        fetchArtists();
+        fetchArtists(5,0);
 
         mGrid = (GridView) findViewById(R.id.grid_layout);
         mAdapter = new SelectableArtistAdapter(artistList, ArtistSelectorActivity.this);
@@ -73,27 +74,32 @@ public class ArtistSelectorActivity extends AppCompatActivity {
     }
 
     private void fetchArtists() {
-        fetchArtists(15, 0);
+        fetchArtists(5, 0);
     }
 
 
     private void fetchArtists(int limit, int skip) {
-        ((App) getApplication()).apolloClient().newCall(ArtistQuery.builder().limit(limit).skip(skip).build()).enqueue(new ApolloCall.Callback<ArtistQuery.Data>() {
+
+        ((App) getApplication()).apolloClient().newCall(GenreQuery.builder().ids(mCategoryIds).limit(limit).skip(skip).withTopArtists(true).build()).enqueue(new ApolloCall.Callback<GenreQuery.Data>() {
             @Override
-            public void onResponse(@Nonnull Response<ArtistQuery.Data> response) {
+            public void onResponse(@Nonnull Response<GenreQuery.Data> response) {
                 if (response.isSuccessful()) {
-                    if (response.data().artists() != null) {
-                        for (ArtistQuery.Data.Artist artist : response.data().artists()) {
-                            artistList.add(new Artist(artist.id(), artist.name(), artist.image()));
+                    if (response.data().genres() != null) {
+                        for (GenreQuery.Data.Genre genre : response.data().genres()) {
+                            if (genre.topArtists() != null) {
+                                for (GenreQuery.Data.TopArtist artist : genre.topArtists()) {
+                                    artistList.add(new Artist(artist.id(), artist.name(), artist.image()));
+                                }
+                            }
                         }
+                        runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                mAdapter.notifyDataSetChanged();
+                                mProgressView.setVisibility(View.GONE);
+                            }
+                        });
                     }
-                    runOnUiThread(new Runnable() {
-                        @Override
-                        public void run() {
-                            mAdapter.notifyDataSetChanged();
-                            mProgressView.setVisibility(View.GONE);
-                        }
-                    });
                 }
             }
 
