@@ -9,6 +9,7 @@ import android.view.ViewGroup;
 
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.activity.AccuracyTraining;
+import com.bulbulproject.bulbul.activity.CategorySelectorActivity;
 import com.bulbulproject.bulbul.activity.MoodActivity;
 
 /**
@@ -42,6 +43,14 @@ public class HomeFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(getActivity(), MoodActivity.class);
+                startActivity(intent);
+            }
+        });
+
+   rootView.findViewById(R.id.category_button).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), CategorySelectorActivity.class);
                 startActivity(intent);
             }
         });

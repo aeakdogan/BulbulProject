@@ -80,7 +80,20 @@
             android:name=".activity.AccuracyResult"
             android:label="@string/title_activity_accuracy_result"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".activity.MoodActivity" android:label="Mood Activity" />
+        <activity
+            android:name=".activity.MoodActivity"
+            android:label="Mood Activity" />
+        <activity
+            android:name=".activity.MoodActivityResult"
+            android:label="Mood Activity Result" />
+        <activity
+            android:name=".activity.CategorySelectorActivity"
+            android:label="@string/title_activity_category_selector"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activity.ArtistSelectorActivity"
+            android:label="@string/title_activity_artist_selector"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".activity.SongListActivity"></activity>
     </application>
 
