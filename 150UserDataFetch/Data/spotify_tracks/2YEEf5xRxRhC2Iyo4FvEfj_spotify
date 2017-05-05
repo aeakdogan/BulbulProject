@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4fxp616ALtFWnXfwxnjLzW",
+      "id" : "4fxp616ALtFWnXfwxnjLzW",
+      "name" : "Antony and the Johnsons",
+      "type" : "artist",
+      "uri" : "spotify:artist:4fxp616ALtFWnXfwxnjLzW"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/23C93084TSvrQfR6MkOFtY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/23C93084TSvrQfR6MkOFtY",
+    "id" : "23C93084TSvrQfR6MkOFtY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/771434b87c0787c970c0db107cde23c5a2e5583c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4e9b19427e25954696fb7790f897d7a3734f4bda",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0ed79425e7ebbb7c18a44298acc009467256d4db",
+      "width" : 64
+    } ],
+    "name" : "Cut The World",
+    "type" : "album",
+    "uri" : "spotify:album:23C93084TSvrQfR6MkOFtY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4fxp616ALtFWnXfwxnjLzW",
+    "id" : "4fxp616ALtFWnXfwxnjLzW",
+    "name" : "Antony and the Johnsons",
+    "type" : "artist",
+    "uri" : "spotify:artist:4fxp616ALtFWnXfwxnjLzW"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 438146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US38W1227005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2YEEf5xRxRhC2Iyo4FvEfj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2YEEf5xRxRhC2Iyo4FvEfj",
+  "id" : "2YEEf5xRxRhC2Iyo4FvEfj",
+  "name" : "Swanlights",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/29a17983a7269bb2abc2957e59fd8cfda943788e?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2YEEf5xRxRhC2Iyo4FvEfj"
+}

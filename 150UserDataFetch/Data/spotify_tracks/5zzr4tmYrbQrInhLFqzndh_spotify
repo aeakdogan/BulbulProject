@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Lt6KFXX3P0v6vfrynQAMo",
+      "id" : "6Lt6KFXX3P0v6vfrynQAMo",
+      "name" : "Beth Gibbons",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Lt6KFXX3P0v6vfrynQAMo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62NNHMoDbLSbR3THDaFNO7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/62NNHMoDbLSbR3THDaFNO7",
+      "id" : "62NNHMoDbLSbR3THDaFNO7",
+      "name" : "Rustin Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:62NNHMoDbLSbR3THDaFNO7"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/18UqbxpmS7vkIoF18ILRoZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/18UqbxpmS7vkIoF18ILRoZ",
+    "id" : "18UqbxpmS7vkIoF18ILRoZ",
+    "images" : [ {
+      "height" : 631,
+      "url" : "https://i.scdn.co/image/30958c28873cd93cd8a2dc477e8c12e9d9c5d716",
+      "width" : 640
+    }, {
+      "height" : 296,
+      "url" : "https://i.scdn.co/image/79c49db0ef76ef34e1b4cec49c6952bf0041fc6d",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/c0034f39e6fd13d54ca99d7c1665ff1cffe56826",
+      "width" : 64
+    } ],
+    "name" : "Out Of Season",
+    "type" : "album",
+    "uri" : "spotify:album:18UqbxpmS7vkIoF18ILRoZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Lt6KFXX3P0v6vfrynQAMo",
+    "id" : "6Lt6KFXX3P0v6vfrynQAMo",
+    "name" : "Beth Gibbons",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Lt6KFXX3P0v6vfrynQAMo"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/62NNHMoDbLSbR3THDaFNO7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/62NNHMoDbLSbR3THDaFNO7",
+    "id" : "62NNHMoDbLSbR3THDaFNO7",
+    "name" : "Rustin Man",
+    "type" : "artist",
+    "uri" : "spotify:artist:62NNHMoDbLSbR3THDaFNO7"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 260360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARA0201052"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5zzr4tmYrbQrInhLFqzndh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5zzr4tmYrbQrInhLFqzndh",
+  "id" : "5zzr4tmYrbQrInhLFqzndh",
+  "name" : "Rustin Man",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1eef085a44becf3a884757b5dd349c8d0879c40a?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:5zzr4tmYrbQrInhLFqzndh"
+}

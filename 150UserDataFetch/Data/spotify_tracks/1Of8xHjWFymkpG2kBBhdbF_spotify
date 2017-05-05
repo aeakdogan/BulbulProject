@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Q776wzj2mrtXrNu3iH6nk",
+      "id" : "1Q776wzj2mrtXrNu3iH6nk",
+      "name" : "Archive",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Q776wzj2mrtXrNu3iH6nk"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "EE", "GB", "GT", "HK", "HN", "ID", "IE", "IS", "JP", "LI", "LT", "LV", "MC", "MT", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5r6imXtbyYFVfSqadxykEP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5r6imXtbyYFVfSqadxykEP",
+    "id" : "5r6imXtbyYFVfSqadxykEP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e77c45673e90b09014b23cf73c6821f1dbf0ae51",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/49b82ce6012247ee90ea612425c35c3c0000509a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/705283d66dd94a75f99039f6c9f01af095975fdb",
+      "width" : 64
+    } ],
+    "name" : "Noise",
+    "type" : "album",
+    "uri" : "spotify:album:5r6imXtbyYFVfSqadxykEP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Q776wzj2mrtXrNu3iH6nk",
+    "id" : "1Q776wzj2mrtXrNu3iH6nk",
+    "name" : "Archive",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Q776wzj2mrtXrNu3iH6nk"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "EE", "GB", "GT", "HK", "HN", "ID", "IE", "IS", "JP", "LI", "LT", "LV", "MC", "MT", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 314466,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEYA0400035"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Of8xHjWFymkpG2kBBhdbF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Of8xHjWFymkpG2kBBhdbF",
+  "id" : "1Of8xHjWFymkpG2kBBhdbF",
+  "name" : "Fuck U",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3bf1be3f6fbcac30ffee37681ee88c4feef75c48?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1Of8xHjWFymkpG2kBBhdbF"
+}

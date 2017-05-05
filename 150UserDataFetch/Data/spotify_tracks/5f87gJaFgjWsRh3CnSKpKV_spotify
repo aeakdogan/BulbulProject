@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7ns84KIA95qoBmZLnCWJ9V"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7ns84KIA95qoBmZLnCWJ9V",
+    "id" : "7ns84KIA95qoBmZLnCWJ9V",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d88ed399061021ae594559f55fe2f893563fcf55",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a7706ed47a83928d2620927f910ca157fc4a289b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4915f1327a763ea9ec12ec3d0704fb35e4bed688",
+      "width" : 64
+    } ],
+    "name" : "The Invisible",
+    "type" : "album",
+    "uri" : "spotify:album:7ns84KIA95qoBmZLnCWJ9V"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Opj9xi9HHrH0L9uHAKnKm",
+    "id" : "0Opj9xi9HHrH0L9uHAKnKm",
+    "name" : "Oceansize",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Opj9xi9HHrH0L9uHAKnKm"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 499733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAZP0500030"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5f87gJaFgjWsRh3CnSKpKV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5f87gJaFgjWsRh3CnSKpKV",
+  "id" : "5f87gJaFgjWsRh3CnSKpKV",
+  "name" : "Music For A Nurse",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/132a63ad1e93b311623a10cdbe56a92d8bedd905?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:5f87gJaFgjWsRh3CnSKpKV"
+}

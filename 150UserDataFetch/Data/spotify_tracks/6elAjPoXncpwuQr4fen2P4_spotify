@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4M84umUNRbZy1mJleyyRM9",
+      "id" : "4M84umUNRbZy1mJleyyRM9",
+      "name" : "Vitalic",
+      "type" : "artist",
+      "uri" : "spotify:artist:4M84umUNRbZy1mJleyyRM9"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5dxo8zn3oGIxu3bv6v5rjz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5dxo8zn3oGIxu3bv6v5rjz",
+    "id" : "5dxo8zn3oGIxu3bv6v5rjz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3d9118729771e892b47c7b1b254642b88d2b88d9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/90f212cdeb810ef4d05a19c618a8919481922ef8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ee93f421eda6114d07014a035f42a59d72d721bd",
+      "width" : 64
+    } ],
+    "name" : "Flashmob",
+    "type" : "album",
+    "uri" : "spotify:album:5dxo8zn3oGIxu3bv6v5rjz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4M84umUNRbZy1mJleyyRM9",
+    "id" : "4M84umUNRbZy1mJleyyRM9",
+    "name" : "Vitalic",
+    "type" : "artist",
+    "uri" : "spotify:artist:4M84umUNRbZy1mJleyyRM9"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRU660912602"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6elAjPoXncpwuQr4fen2P4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6elAjPoXncpwuQr4fen2P4",
+  "id" : "6elAjPoXncpwuQr4fen2P4",
+  "name" : "Poison Lips",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6a761520811f6ada9adc1caf81fab0a7a55fa161?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6elAjPoXncpwuQr4fen2P4"
+}

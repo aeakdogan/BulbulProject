@@ -1,0 +1,101 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+      "id" : "7MSUfLeTdDEoZiJPDSBXgi",
+      "name" : "Brian Eno",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+      "id" : "7yxi31szvlbwvKq9dYOmFI",
+      "name" : "Jon Hopkins",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6g4q7DPLaVqWGnfMpAb2Yd",
+      "id" : "6g4q7DPLaVqWGnfMpAb2Yd",
+      "name" : "Leo Abrahams",
+      "type" : "artist",
+      "uri" : "spotify:artist:6g4q7DPLaVqWGnfMpAb2Yd"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i"
+    },
+    "href" : "https://api.spotify.com/v1/albums/47e7SP8MtzYKK8Lm3gEK2i",
+    "id" : "47e7SP8MtzYKK8Lm3gEK2i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab2c7d7692dd412c98d28e81b377ecd64f9704c9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/87df12a0e1157593b7300f2890968ce57b2cb986",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/524f1ebf32233ebffa6aff0dd5a5d49093e46e85",
+      "width" : 64
+    } ],
+    "name" : "Small Craft On A Milk Sea",
+    "type" : "album",
+    "uri" : "spotify:album:47e7SP8MtzYKK8Lm3gEK2i"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+    "id" : "7MSUfLeTdDEoZiJPDSBXgi",
+    "name" : "Brian Eno",
+    "type" : "artist",
+    "uri" : "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+    "id" : "7yxi31szvlbwvKq9dYOmFI",
+    "name" : "Jon Hopkins",
+    "type" : "artist",
+    "uri" : "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6g4q7DPLaVqWGnfMpAb2Yd",
+    "id" : "6g4q7DPLaVqWGnfMpAb2Yd",
+    "name" : "Leo Abrahams",
+    "type" : "artist",
+    "uri" : "spotify:artist:6g4q7DPLaVqWGnfMpAb2Yd"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 182373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPW1000209"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5hbTbKQXJuZ0qFVerk6jRp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5hbTbKQXJuZ0qFVerk6jRp",
+  "id" : "5hbTbKQXJuZ0qFVerk6jRp",
+  "name" : "Emerald and Lime",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/16dcaf39746a5a2ad02c73c6a3baeab313570906?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5hbTbKQXJuZ0qFVerk6jRp"
+}

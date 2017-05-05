@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4DWX7u8BV0vZIQSpJQQDWU",
+      "id" : "4DWX7u8BV0vZIQSpJQQDWU",
+      "name" : "Alter Bridge",
+      "type" : "artist",
+      "uri" : "spotify:artist:4DWX7u8BV0vZIQSpJQQDWU"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6hqietEuZCikevdO2oGTcx",
+    "id" : "6hqietEuZCikevdO2oGTcx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/13b9b4d70d113a85dd2e60d7812e7d7ec3b2558c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7c70aa2d4f1b99d2626596ab3b16da919c8fb04a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6e5a1fb849ca02056a3fa3bdf014f42c2fc15236",
+      "width" : 64
+    } ],
+    "name" : "One Day Remains",
+    "type" : "album",
+    "uri" : "spotify:album:6hqietEuZCikevdO2oGTcx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4DWX7u8BV0vZIQSpJQQDWU",
+    "id" : "4DWX7u8BV0vZIQSpJQQDWU",
+    "name" : "Alter Bridge",
+    "type" : "artist",
+    "uri" : "spotify:artist:4DWX7u8BV0vZIQSpJQQDWU"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 259959,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWU30400101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3UULkHdmLDqBDPmBYltoRE",
+  "id" : "3UULkHdmLDqBDPmBYltoRE",
+  "name" : "Metalingus",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6998cfb05268d5651187c875b6ca59ff35119343?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3UULkHdmLDqBDPmBYltoRE"
+}

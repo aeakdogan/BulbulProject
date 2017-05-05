@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4M2H1fDQR5ygAi7MMOVxAA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4M2H1fDQR5ygAi7MMOVxAA",
+      "id" : "4M2H1fDQR5ygAi7MMOVxAA",
+      "name" : "The Whip",
+      "type" : "artist",
+      "uri" : "spotify:artist:4M2H1fDQR5ygAi7MMOVxAA"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7B1nUfzCi8RCY8H4CPmu96"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7B1nUfzCi8RCY8H4CPmu96",
+    "id" : "7B1nUfzCi8RCY8H4CPmu96",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2ede6ef1cafed16532b269b9d7d31bd8c36aa1c7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1821641af5d0ea75ba461bb51fb0f44afedf75bf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8057a1b29b7318a2ee3897a16de41f2af328cde7",
+      "width" : 64
+    } ],
+    "name" : "Trash",
+    "type" : "album",
+    "uri" : "spotify:album:7B1nUfzCi8RCY8H4CPmu96"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4M2H1fDQR5ygAi7MMOVxAA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4M2H1fDQR5ygAi7MMOVxAA",
+    "id" : "4M2H1fDQR5ygAi7MMOVxAA",
+    "name" : "The Whip",
+    "type" : "artist",
+    "uri" : "spotify:artist:4M2H1fDQR5ygAi7MMOVxAA"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 383653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEFR0801291"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1XmJmoaPWiqo6a3V73prjq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1XmJmoaPWiqo6a3V73prjq",
+  "id" : "1XmJmoaPWiqo6a3V73prjq",
+  "name" : "Trash - Original",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3d9b09c0cb46f04de8a68856a3013f4aee3b177f?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1XmJmoaPWiqo6a3V73prjq"
+}

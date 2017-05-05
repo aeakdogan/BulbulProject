@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2914JagOufmP5BY9qLDxtF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2914JagOufmP5BY9qLDxtF",
+      "id" : "2914JagOufmP5BY9qLDxtF",
+      "name" : "Arto Lindsay",
+      "type" : "artist",
+      "uri" : "spotify:artist:2914JagOufmP5BY9qLDxtF"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/10uNOuJR6wxdqTGVdFFgkv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/10uNOuJR6wxdqTGVdFFgkv",
+    "id" : "10uNOuJR6wxdqTGVdFFgkv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d4daf7156338914d64f942d5998656eda3fccb51",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6c3024ff22d036bbf44555f4f7d7fa6b1c555d3d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6553f43208524cf1444dc73ef01af725883034fb",
+      "width" : 64
+    } ],
+    "name" : "Encyclopedia of Arto",
+    "type" : "album",
+    "uri" : "spotify:album:10uNOuJR6wxdqTGVdFFgkv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2914JagOufmP5BY9qLDxtF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2914JagOufmP5BY9qLDxtF",
+    "id" : "2914JagOufmP5BY9qLDxtF",
+    "name" : "Arto Lindsay",
+    "type" : "artist",
+    "uri" : "spotify:artist:2914JagOufmP5BY9qLDxtF"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWEX1400176"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/09vFzlarZ77EimwtXzKzfM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/09vFzlarZ77EimwtXzKzfM",
+  "id" : "09vFzlarZ77EimwtXzKzfM",
+  "name" : "Simply Are",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/34ac9683ec2f68b76bbf7e793ed5081845668bff?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:09vFzlarZ77EimwtXzKzfM"
+}

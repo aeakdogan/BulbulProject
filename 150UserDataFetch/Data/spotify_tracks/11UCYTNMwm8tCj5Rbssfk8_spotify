@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+      "id" : "7jy3rLJdDQY21OgRLCZ9sD",
+      "name" : "Foo Fighters",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2TIp2qGorHvqyaiAb82Awe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2TIp2qGorHvqyaiAb82Awe",
+    "id" : "2TIp2qGorHvqyaiAb82Awe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/107218a31a13296f9a579a3466fb00c899bcafd5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/550d70316ab0c6f6e4d7458324ab87ecea40efbc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a19c14f123a74845265a495602b1b0aeb9d8f53e",
+      "width" : 64
+    } ],
+    "name" : "One By One",
+    "type" : "album",
+    "uri" : "spotify:album:2TIp2qGorHvqyaiAb82Awe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+    "id" : "7jy3rLJdDQY21OgRLCZ9sD",
+    "name" : "Foo Fighters",
+    "type" : "artist",
+    "uri" : "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 311266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRW30200007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/11UCYTNMwm8tCj5Rbssfk8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/11UCYTNMwm8tCj5Rbssfk8",
+  "id" : "11UCYTNMwm8tCj5Rbssfk8",
+  "name" : "Tired Of You",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/eb50f817ff2bb7fc6ec74decfa6a183bca5ef1a3?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:11UCYTNMwm8tCj5Rbssfk8"
+}

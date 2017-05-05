@@ -1,0 +1,101 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6E65d2xJSxPp5JcAQQWqY9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6E65d2xJSxPp5JcAQQWqY9",
+      "id" : "6E65d2xJSxPp5JcAQQWqY9",
+      "name" : "Christian Pabst Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:6E65d2xJSxPp5JcAQQWqY9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5A8UenAZRv51yZVv13nFQo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5A8UenAZRv51yZVv13nFQo",
+      "id" : "5A8UenAZRv51yZVv13nFQo",
+      "name" : "Gerard Presencer",
+      "type" : "artist",
+      "uri" : "spotify:artist:5A8UenAZRv51yZVv13nFQo"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7clt3FP0o8e0TpSkhLlT20"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7clt3FP0o8e0TpSkhLlT20",
+    "id" : "7clt3FP0o8e0TpSkhLlT20",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e4e6d4f5d69b78c09207aced67d1a1e86fe56fd1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7a22aa37c73fecb10e90c619d6593945348bc97e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1c73e16c76fabb4a7298f289f61fee807d45e33d",
+      "width" : 64
+    } ],
+    "name" : "Days of Infinity",
+    "type" : "album",
+    "uri" : "spotify:album:7clt3FP0o8e0TpSkhLlT20"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6E65d2xJSxPp5JcAQQWqY9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6E65d2xJSxPp5JcAQQWqY9",
+    "id" : "6E65d2xJSxPp5JcAQQWqY9",
+    "name" : "Christian Pabst Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:6E65d2xJSxPp5JcAQQWqY9"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7xL0ksGft8JSj7XtRpFxU0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7xL0ksGft8JSj7XtRpFxU0",
+    "id" : "7xL0ksGft8JSj7XtRpFxU0",
+    "name" : "Andreas Klein",
+    "type" : "artist",
+    "uri" : "spotify:artist:7xL0ksGft8JSj7XtRpFxU0"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0lFPDEXuwezwsnMy65m4Ri"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0lFPDEXuwezwsnMy65m4Ri",
+    "id" : "0lFPDEXuwezwsnMy65m4Ri",
+    "name" : "Christian Pabst",
+    "type" : "artist",
+    "uri" : "spotify:artist:0lFPDEXuwezwsnMy65m4Ri"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6r5kjQzian2GSkjPWNawSi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6r5kjQzian2GSkjPWNawSi",
+    "id" : "6r5kjQzian2GSkjPWNawSi",
+    "name" : "David Andres",
+    "type" : "artist",
+    "uri" : "spotify:artist:6r5kjQzian2GSkjPWNawSi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 141480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLB151100092"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1AJUHerwkUxKUOPO8Br3ja"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1AJUHerwkUxKUOPO8Br3ja",
+  "id" : "1AJUHerwkUxKUOPO8Br3ja",
+  "name" : "Fly And Unfold",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bc4bf7d05123a22e12793ff81aa4b9f99afbc926?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1AJUHerwkUxKUOPO8Br3ja"
+}

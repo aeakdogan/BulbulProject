@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+      "id" : "13saZpZnCDWOI9D4IJhp1f",
+      "name" : "Lily Allen",
+      "type" : "artist",
+      "uri" : "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Swr80WlTTC0PKExtoU4jU",
+    "id" : "5Swr80WlTTC0PKExtoU4jU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2ebcaf045abaab186dfe97f87304dbea99ad9c0d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/223b67e17d9fbc2e7b1a3d0e2013ed124f23b177",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/02ec9f47704de29758eaaf10f8110e1ab09feb14",
+      "width" : 64
+    } ],
+    "name" : "Sheezus",
+    "type" : "album",
+    "uri" : "spotify:album:5Swr80WlTTC0PKExtoU4jU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+    },
+    "href" : "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+    "id" : "13saZpZnCDWOI9D4IJhp1f",
+    "name" : "Lily Allen",
+    "type" : "artist",
+    "uri" : "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 204347,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBAYE1400061"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7CsnykSgYurE4xvC4bFLBm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7CsnykSgYurE4xvC4bFLBm",
+  "id" : "7CsnykSgYurE4xvC4bFLBm",
+  "name" : "L8 CMMR",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/89cf5b91194334e25064149b04dba07d97e564f8?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7CsnykSgYurE4xvC4bFLBm"
+}

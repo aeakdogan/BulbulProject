@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5OPNYwuIto3q4ac46rIIZC",
+      "id" : "5OPNYwuIto3q4ac46rIIZC",
+      "name" : "David \"Fathead\" Newman",
+      "type" : "artist",
+      "uri" : "spotify:artist:5OPNYwuIto3q4ac46rIIZC"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6ciqJqQDRIM6GvSvhGGLYu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6ciqJqQDRIM6GvSvhGGLYu",
+    "id" : "6ciqJqQDRIM6GvSvhGGLYu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e0df9b3b441b1a6211ac936be7894377efa187e8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e603886450f543b72273bff91d1a6f1294dab57",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8c3695f16f2be096754ffcea8d4c479aceeb921d",
+      "width" : 64
+    } ],
+    "name" : "Heads Up",
+    "type" : "album",
+    "uri" : "spotify:album:6ciqJqQDRIM6GvSvhGGLYu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5OPNYwuIto3q4ac46rIIZC",
+    "id" : "5OPNYwuIto3q4ac46rIIZC",
+    "name" : "David \"Fathead\" Newman",
+    "type" : "artist",
+    "uri" : "spotify:artist:5OPNYwuIto3q4ac46rIIZC"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 496533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20502501"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1tLxCeJwbVcyKlN0gOROVW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1tLxCeJwbVcyKlN0gOROVW",
+  "id" : "1tLxCeJwbVcyKlN0gOROVW",
+  "name" : "Old Folks",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7280c1b192878070a385cd65577cec7d2478e191?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1tLxCeJwbVcyKlN0gOROVW"
+}

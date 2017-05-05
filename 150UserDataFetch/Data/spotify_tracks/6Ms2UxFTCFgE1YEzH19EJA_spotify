@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54DFUGeCCsyly8pYcXnodK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54DFUGeCCsyly8pYcXnodK",
+      "id" : "54DFUGeCCsyly8pYcXnodK",
+      "name" : "Geoff White",
+      "type" : "artist",
+      "uri" : "spotify:artist:54DFUGeCCsyly8pYcXnodK"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Im2IF4xJ39u7xsXFeqELv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Im2IF4xJ39u7xsXFeqELv",
+    "id" : "1Im2IF4xJ39u7xsXFeqELv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4d3add3c70f970643e47e2fba0de08f0dbc973de",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fbbf6a046944554e555a7ef1cfd749a38dfaa3c6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ff6bf105d5fab8053d31f59e8186c29b05b09a06",
+      "width" : 64
+    } ],
+    "name" : "Etsche",
+    "type" : "album",
+    "uri" : "spotify:album:1Im2IF4xJ39u7xsXFeqELv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/54DFUGeCCsyly8pYcXnodK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/54DFUGeCCsyly8pYcXnodK",
+    "id" : "54DFUGeCCsyly8pYcXnodK",
+    "name" : "Geoff White",
+    "type" : "artist",
+    "uri" : "spotify:artist:54DFUGeCCsyly8pYcXnodK"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 305480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2J70512902"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6Ms2UxFTCFgE1YEzH19EJA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6Ms2UxFTCFgE1YEzH19EJA",
+  "id" : "6Ms2UxFTCFgE1YEzH19EJA",
+  "name" : "Guitarjacked",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3b27fb9f62c2ce15dabddf99e79518f138979e7e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6Ms2UxFTCFgE1YEzH19EJA"
+}

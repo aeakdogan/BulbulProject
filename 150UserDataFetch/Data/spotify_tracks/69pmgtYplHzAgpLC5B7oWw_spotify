@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2iUVQjheBnvOt8vaBrxXJz",
+      "id" : "2iUVQjheBnvOt8vaBrxXJz",
+      "name" : "Cass McCombs",
+      "type" : "artist",
+      "uri" : "spotify:artist:2iUVQjheBnvOt8vaBrxXJz"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3K2m9Zw7zIMzJB83Fqqa4V"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3K2m9Zw7zIMzJB83Fqqa4V",
+    "id" : "3K2m9Zw7zIMzJB83Fqqa4V",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/646d79607aee56f07c3faefcff35911ed6d72f0c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dc646f03ea28f03d16d1756459b0733869dff0df",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4221795c8164a2ca05b2a7af047af1249b73ca61",
+      "width" : 64
+    } ],
+    "name" : "Catacombs",
+    "type" : "album",
+    "uri" : "spotify:album:3K2m9Zw7zIMzJB83Fqqa4V"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2iUVQjheBnvOt8vaBrxXJz",
+    "id" : "2iUVQjheBnvOt8vaBrxXJz",
+    "name" : "Cass McCombs",
+    "type" : "artist",
+    "uri" : "spotify:artist:2iUVQjheBnvOt8vaBrxXJz"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 324120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0900149"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/69pmgtYplHzAgpLC5B7oWw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/69pmgtYplHzAgpLC5B7oWw",
+  "id" : "69pmgtYplHzAgpLC5B7oWw",
+  "name" : "You Saved My Life",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/15523e75387ff92de973e53a158f724f54c792f1?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:69pmgtYplHzAgpLC5B7oWw"
+}

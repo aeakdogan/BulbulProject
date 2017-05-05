@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+      "id" : "7w29UYBi0qsHi5RTcv3lmA",
+      "name" : "Björk",
+      "type" : "artist",
+      "uri" : "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2Ul7B1LEHxXzYubtkTMENs",
+    "id" : "2Ul7B1LEHxXzYubtkTMENs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/268cdc848bbd4c61de6a8900ec87987242d15826",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/face434bfe01e7d69c9f2db65a5b5119a101fe71",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c2738f7d70f100177c3c1ded43a1ad1776367b7c",
+      "width" : 64
+    } ],
+    "name" : "Post",
+    "type" : "album",
+    "uri" : "spotify:album:2Ul7B1LEHxXzYubtkTMENs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+    "id" : "7w29UYBi0qsHi5RTcv3lmA",
+    "name" : "Björk",
+    "type" : "artist",
+    "uri" : "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 305440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBTF0200251"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1tuyf2jFaU9kFevnSiMzGh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1tuyf2jFaU9kFevnSiMzGh",
+  "id" : "1tuyf2jFaU9kFevnSiMzGh",
+  "name" : "Possibly Maybe",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b6a1e20379ecc47521d484f450686968ab229101?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1tuyf2jFaU9kFevnSiMzGh"
+}

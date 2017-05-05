@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1twC2fwPG5FkvYcMpVBQRz",
+      "id" : "1twC2fwPG5FkvYcMpVBQRz",
+      "name" : "Randy Crawford",
+      "type" : "artist",
+      "uri" : "spotify:artist:1twC2fwPG5FkvYcMpVBQRz"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6yrhrW8bLura0uWooYP75R"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6yrhrW8bLura0uWooYP75R",
+    "id" : "6yrhrW8bLura0uWooYP75R",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8324b86b02079474c58eb7dcfe0876aa95c871d8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/97644026c745034370af0bc89e028fa15aebf6ea",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/60b1d4e5e9053464abe796a9cb5b4c8053e2d5f1",
+      "width" : 64
+    } ],
+    "name" : "Every Kind Of Mood - Randy, Randi, Randee",
+    "type" : "album",
+    "uri" : "spotify:album:6yrhrW8bLura0uWooYP75R"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1twC2fwPG5FkvYcMpVBQRz",
+    "id" : "1twC2fwPG5FkvYcMpVBQRz",
+    "name" : "Randy Crawford",
+    "type" : "artist",
+    "uri" : "spotify:artist:1twC2fwPG5FkvYcMpVBQRz"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 270773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT29800309"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2fbTbfyhKAb3sKySsTeOy9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2fbTbfyhKAb3sKySsTeOy9",
+  "id" : "2fbTbfyhKAb3sKySsTeOy9",
+  "name" : "Almaz",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/612710f755f0e7ce0b83bbe7800610e9da78bf1d?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2fbTbfyhKAb3sKySsTeOy9"
+}

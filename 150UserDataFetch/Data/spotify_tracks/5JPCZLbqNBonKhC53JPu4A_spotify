@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6g9rKb1kKlh0M0mS34kCSS",
+    "id" : "6g9rKb1kKlh0M0mS34kCSS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d6619497f0818ae4ceec2ba2cef45ecb75a0c692",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9a212de5c37e82759748978e29119e30b10e11b2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/12bbdb7c1411b9537250bfd5cd0fe558c0fe5ddc",
+      "width" : 64
+    } ],
+    "name" : "I Got Next",
+    "type" : "album",
+    "uri" : "spotify:album:6g9rKb1kKlh0M0mS34kCSS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+    "id" : "2gINJ8xw86xawPyGvx1bla",
+    "name" : "KRS-One",
+    "type" : "artist",
+    "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 252893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJI19710034"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5JPCZLbqNBonKhC53JPu4A"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5JPCZLbqNBonKhC53JPu4A",
+  "id" : "5JPCZLbqNBonKhC53JPu4A",
+  "name" : "A Friend",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4b43d6b38af732dc33286b2a51682e12a7668bec?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5JPCZLbqNBonKhC53JPu4A"
+}

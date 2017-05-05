@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/221Rd0FvVxMx7eCbWqjiKd",
+      "id" : "221Rd0FvVxMx7eCbWqjiKd",
+      "name" : "Satyricon",
+      "type" : "artist",
+      "uri" : "spotify:artist:221Rd0FvVxMx7eCbWqjiKd"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Ne92jVhkK2gGZeR9NbvcK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Ne92jVhkK2gGZeR9NbvcK",
+    "id" : "1Ne92jVhkK2gGZeR9NbvcK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1f6779db0352dd2d3566b30ac90a8b1e73578363",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e1ccb32e12864bf2210d8572e35a00b47191ed08",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eddfe9e035fb890b1110e666b0181e97520cbda4",
+      "width" : 64
+    } ],
+    "name" : "Now, Diabolical",
+    "type" : "album",
+    "uri" : "spotify:album:1Ne92jVhkK2gGZeR9NbvcK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/221Rd0FvVxMx7eCbWqjiKd",
+    "id" : "221Rd0FvVxMx7eCbWqjiKd",
+    "name" : "Satyricon",
+    "type" : "artist",
+    "uri" : "spotify:artist:221Rd0FvVxMx7eCbWqjiKd"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 216346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4E40632002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1arfEKGsYlM6fTZ4545gU8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1arfEKGsYlM6fTZ4545gU8",
+  "id" : "1arfEKGsYlM6fTZ4545gU8",
+  "name" : "K.I.N.G.",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/72c06187e7f2ffbe8aaed0bf4efefea0227ba829?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1arfEKGsYlM6fTZ4545gU8"
+}

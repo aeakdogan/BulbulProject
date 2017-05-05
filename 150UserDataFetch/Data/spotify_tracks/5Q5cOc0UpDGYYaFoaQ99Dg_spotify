@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5B6H1Dq77AV1LZWrbNsuH5",
+      "id" : "5B6H1Dq77AV1LZWrbNsuH5",
+      "name" : "Jarabe De Palo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5B6H1Dq77AV1LZWrbNsuH5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2i8ffcsBSZNDI5whavrBaU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2i8ffcsBSZNDI5whavrBaU",
+    "id" : "2i8ffcsBSZNDI5whavrBaU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dfe06a7c174bf02270824a6a6090d159069e9c09",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5f4340964c060230a7ff7ce99fc413e9a7714826",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/80bebb671f2e8ea6ffdaa405fa4c2e747e31bc92",
+      "width" : 64
+    } ],
+    "name" : "Grandes Exitos?",
+    "type" : "album",
+    "uri" : "spotify:album:2i8ffcsBSZNDI5whavrBaU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5B6H1Dq77AV1LZWrbNsuH5",
+    "id" : "5B6H1Dq77AV1LZWrbNsuH5",
+    "name" : "Jarabe De Palo",
+    "type" : "artist",
+    "uri" : "spotify:artist:5B6H1Dq77AV1LZWrbNsuH5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 261200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES5039600004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Q5cOc0UpDGYYaFoaQ99Dg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Q5cOc0UpDGYYaFoaQ99Dg",
+  "id" : "5Q5cOc0UpDGYYaFoaQ99Dg",
+  "name" : "La Flaca",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/de8001a943205b7ac3ebc910633a5e67421e2c41?cid=null",
+  "track_number" : 16,
+  "type" : "track",
+  "uri" : "spotify:track:5Q5cOc0UpDGYYaFoaQ99Dg"
+}

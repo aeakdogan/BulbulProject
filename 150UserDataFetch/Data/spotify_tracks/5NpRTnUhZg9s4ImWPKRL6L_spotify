@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5IDs1CK15HegSAhGEbSYXo",
+      "id" : "5IDs1CK15HegSAhGEbSYXo",
+      "name" : "Billy Ocean",
+      "type" : "artist",
+      "uri" : "spotify:artist:5IDs1CK15HegSAhGEbSYXo"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0gNeqVQyUq6SYzVSq7Suuo",
+    "id" : "0gNeqVQyUq6SYzVSq7Suuo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab4e96b14b44c66e1c92d3669eecf2daab05d28b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0b6b7c760cc1eb796ded934e034c853d717db096",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ff46f0d2e13b5bbde10e46ac401eb6581ebb3255",
+      "width" : 64
+    } ],
+    "name" : "Suddenly (Expanded Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:0gNeqVQyUq6SYzVSq7Suuo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5IDs1CK15HegSAhGEbSYXo",
+    "id" : "5IDs1CK15HegSAhGEbSYXo",
+    "name" : "Billy Ocean",
+    "type" : "artist",
+    "uri" : "spotify:artist:5IDs1CK15HegSAhGEbSYXo"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 321906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHK0300223"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5NpRTnUhZg9s4ImWPKRL6L"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5NpRTnUhZg9s4ImWPKRL6L",
+  "id" : "5NpRTnUhZg9s4ImWPKRL6L",
+  "name" : "Syncopation",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1df27394302d81b471892fe6f8c3306bc5dc532f?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5NpRTnUhZg9s4ImWPKRL6L"
+}

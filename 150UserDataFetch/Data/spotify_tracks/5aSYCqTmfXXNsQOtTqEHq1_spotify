@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/40HDiLfKm0tXk2FxlJx6aO",
+      "id" : "40HDiLfKm0tXk2FxlJx6aO",
+      "name" : "Jim Yosef",
+      "type" : "artist",
+      "uri" : "spotify:artist:40HDiLfKm0tXk2FxlJx6aO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6LS8sK8E7KAUdqm4J3AJnv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6LS8sK8E7KAUdqm4J3AJnv",
+    "id" : "6LS8sK8E7KAUdqm4J3AJnv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fa760b6efd6f6097217a23894e93925b679dc07b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/66d39cde269f47723f035abe95b5c58aac187ef9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ff67a4b21da3d8de63253af0c749b5858c8bca07",
+      "width" : 64
+    } ],
+    "name" : "Firefly",
+    "type" : "album",
+    "uri" : "spotify:album:6LS8sK8E7KAUdqm4J3AJnv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/40HDiLfKm0tXk2FxlJx6aO",
+    "id" : "40HDiLfKm0tXk2FxlJx6aO",
+    "name" : "Jim Yosef",
+    "type" : "artist",
+    "uri" : "spotify:artist:40HDiLfKm0tXk2FxlJx6aO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 256620,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB2LD0902040"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5aSYCqTmfXXNsQOtTqEHq1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5aSYCqTmfXXNsQOtTqEHq1",
+  "id" : "5aSYCqTmfXXNsQOtTqEHq1",
+  "name" : "Firefly",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/713e896fe7769c8f1787020cf9c019a1a1522615?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5aSYCqTmfXXNsQOtTqEHq1"
+}

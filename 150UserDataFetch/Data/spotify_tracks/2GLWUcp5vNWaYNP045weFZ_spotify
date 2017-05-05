@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+      "id" : "1DFr97A9HnbV3SKTJFu62M",
+      "name" : "Motörhead",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4WoY5iVHPMk3duAINlW7MK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4WoY5iVHPMk3duAINlW7MK",
+    "id" : "4WoY5iVHPMk3duAINlW7MK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1cd05e0b043fe9001bb985fcc9225676ff79e1ba",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6d4be51b34288b279bd494331f68427cab8da601",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/56c6b6ed780f3c1ee603cf337f1ac2274a778436",
+      "width" : 64
+    } ],
+    "name" : "Another Perfect Day (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:4WoY5iVHPMk3duAINlW7MK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+    "id" : "1DFr97A9HnbV3SKTJFu62M",
+    "name" : "Motörhead",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 188906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJE0408135"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2GLWUcp5vNWaYNP045weFZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2GLWUcp5vNWaYNP045weFZ",
+  "id" : "2GLWUcp5vNWaYNP045weFZ",
+  "name" : "Shine",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/89d965bdf3f2e46325487aa78b45e84ee401ddce?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2GLWUcp5vNWaYNP045weFZ"
+}

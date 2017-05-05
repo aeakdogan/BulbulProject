@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6o8fTw6gOBwbzKIQwFaVY2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6o8fTw6gOBwbzKIQwFaVY2",
+      "id" : "6o8fTw6gOBwbzKIQwFaVY2",
+      "name" : "Carmen Cuesta-Loeb",
+      "type" : "artist",
+      "uri" : "spotify:artist:6o8fTw6gOBwbzKIQwFaVY2"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0qlEdLd019wXczcZJeu5C0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0qlEdLd019wXczcZJeu5C0",
+    "id" : "0qlEdLd019wXczcZJeu5C0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/82e71e82a3c140d905f5d56755aa0b4893ecf869",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dd3b9d73ad455da7230601c7a052a218ee9d901f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/58a162b80c6e600ff71fd247d657d073a39ee480",
+      "width" : 64
+    } ],
+    "name" : "Dreams",
+    "type" : "album",
+    "uri" : "spotify:album:0qlEdLd019wXczcZJeu5C0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6o8fTw6gOBwbzKIQwFaVY2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6o8fTw6gOBwbzKIQwFaVY2",
+    "id" : "6o8fTw6gOBwbzKIQwFaVY2",
+    "name" : "Carmen Cuesta-Loeb",
+    "type" : "artist",
+    "uri" : "spotify:artist:6o8fTw6gOBwbzKIQwFaVY2"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 286173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm20761604"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6wE4A3zTFkpX5UP2hNGLgP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6wE4A3zTFkpX5UP2hNGLgP",
+  "id" : "6wE4A3zTFkpX5UP2hNGLgP",
+  "name" : "Corcovado",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1a48a2b0d1ef1271c70d70a8a7fa871aae7cb45?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6wE4A3zTFkpX5UP2hNGLgP"
+}

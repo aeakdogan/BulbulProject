@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+      "id" : "4F84IBURUo98rz4r61KF70",
+      "name" : "The White Stripes",
+      "type" : "artist",
+      "uri" : "spotify:artist:4F84IBURUo98rz4r61KF70"
+    } ],
+    "available_markets" : [ "CA", "JP", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/48Atx1uS9J4KL5iQt3weoS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/48Atx1uS9J4KL5iQt3weoS",
+    "id" : "48Atx1uS9J4KL5iQt3weoS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/87d0205a5fff8d8e128d55d02b7e2788231d6095",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a5875d60a916adf24c223b4b4195c2e6ba7b83b0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dabf2840451017bc6a0ae2231556e0373af43598",
+      "width" : 64
+    } ],
+    "name" : "Elephant",
+    "type" : "album",
+    "uri" : "spotify:album:48Atx1uS9J4KL5iQt3weoS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+    "id" : "4F84IBURUo98rz4r61KF70",
+    "name" : "The White Stripes",
+    "type" : "artist",
+    "uri" : "spotify:artist:4F84IBURUo98rz4r61KF70"
+  } ],
+  "available_markets" : [ "CA", "JP", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 183973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVT10300002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/263t7GorNf91EF0RgwNbCG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/263t7GorNf91EF0RgwNbCG",
+  "id" : "263t7GorNf91EF0RgwNbCG",
+  "name" : "Black Math",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c3450ea4f576557afba650a8f9182eac15982d4b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:263t7GorNf91EF0RgwNbCG"
+}

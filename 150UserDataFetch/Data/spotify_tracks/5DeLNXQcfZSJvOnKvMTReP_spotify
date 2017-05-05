@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12BDNYhvDp2RIeF9pabPzv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12BDNYhvDp2RIeF9pabPzv",
+      "id" : "12BDNYhvDp2RIeF9pabPzv",
+      "name" : "Clogs",
+      "type" : "artist",
+      "uri" : "spotify:artist:12BDNYhvDp2RIeF9pabPzv"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7aE9oVJE5pk0MHrTpghPAC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7aE9oVJE5pk0MHrTpghPAC",
+    "id" : "7aE9oVJE5pk0MHrTpghPAC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a86a50569c1fea41549bb78f460d4ea3fa273c7f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/51b2133155ea20882f31ac510f441d099ecd72fc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/10b592485c95fb98df28441e580eab8742f174a7",
+      "width" : 64
+    } ],
+    "name" : "Lantern",
+    "type" : "album",
+    "uri" : "spotify:album:7aE9oVJE5pk0MHrTpghPAC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12BDNYhvDp2RIeF9pabPzv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12BDNYhvDp2RIeF9pabPzv",
+    "id" : "12BDNYhvDp2RIeF9pabPzv",
+    "name" : "Clogs",
+    "type" : "artist",
+    "uri" : "spotify:artist:12BDNYhvDp2RIeF9pabPzv"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 125546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USI4R0508299"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5DeLNXQcfZSJvOnKvMTReP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5DeLNXQcfZSJvOnKvMTReP",
+  "id" : "5DeLNXQcfZSJvOnKvMTReP",
+  "name" : "Kapsburger",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/242e9ea279182a29d1bb80ce23a0dad71e9c7600?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5DeLNXQcfZSJvOnKvMTReP"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp",
+      "id" : "1YzCsTRb22dQkh9lghPIrp",
+      "name" : "Billie Holiday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YzCsTRb22dQkh9lghPIrp"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5QJ7EzrfhXHscS4LbubbAr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5QJ7EzrfhXHscS4LbubbAr",
+    "id" : "5QJ7EzrfhXHscS4LbubbAr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d8678ab0b67ee0c421b5921a7662539436ddca86",
+      "width" : 567
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/180da1970e3fef77e4e3ae2cf7731c2414ea8198",
+      "width" : 266
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7b7dc7a281f078f14d1fd4e7de54e6a91feb3d74",
+      "width" : 57
+    } ],
+    "name" : "The Complete Verve Studio Master Takes",
+    "type" : "album",
+    "uri" : "spotify:album:5QJ7EzrfhXHscS4LbubbAr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp",
+    "id" : "1YzCsTRb22dQkh9lghPIrp",
+    "name" : "Billie Holiday",
+    "type" : "artist",
+    "uri" : "spotify:artist:1YzCsTRb22dQkh9lghPIrp"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 215440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGR10110859"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5QTA0sSFZ9uzFkvdP0ZGKa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5QTA0sSFZ9uzFkvdP0ZGKa",
+  "id" : "5QTA0sSFZ9uzFkvdP0ZGKa",
+  "name" : "P.S. I Love You",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fcc7a3d42655686108b5d5159dcc8ce95bd2fdfa?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5QTA0sSFZ9uzFkvdP0ZGKa"
+}

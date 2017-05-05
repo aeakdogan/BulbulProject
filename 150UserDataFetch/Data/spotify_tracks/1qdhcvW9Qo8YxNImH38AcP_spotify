@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC",
+      "id" : "1nJvji2KIlWSseXRSlNYsC",
+      "name" : "The Velvet Underground",
+      "type" : "artist",
+      "uri" : "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0IwlY33zbBXN7zlS9DP2Cj",
+      "id" : "0IwlY33zbBXN7zlS9DP2Cj",
+      "name" : "Nico",
+      "type" : "artist",
+      "uri" : "spotify:artist:0IwlY33zbBXN7zlS9DP2Cj"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1gGjSTfser1MPfowGiuy9l",
+    "id" : "1gGjSTfser1MPfowGiuy9l",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5f5843d8d7476bb7c52470f1a55949815068a0a3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1c54c3cc27b5d552788d3f6442a0874638ee6c0d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1abd61c6a80b690f8c44431800a28e194673efbb",
+      "width" : 64
+    } ],
+    "name" : "The Velvet Underground & Nico 45th Anniversary (Super Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:1gGjSTfser1MPfowGiuy9l"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC",
+    "id" : "1nJvji2KIlWSseXRSlNYsC",
+    "name" : "The Velvet Underground",
+    "type" : "artist",
+    "uri" : "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0IwlY33zbBXN7zlS9DP2Cj",
+    "id" : "0IwlY33zbBXN7zlS9DP2Cj",
+    "name" : "Nico",
+    "type" : "artist",
+    "uri" : "spotify:artist:0IwlY33zbBXN7zlS9DP2Cj"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 312253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR36702762"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1qdhcvW9Qo8YxNImH38AcP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1qdhcvW9Qo8YxNImH38AcP",
+  "id" : "1qdhcvW9Qo8YxNImH38AcP",
+  "name" : "Venus In Furs",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/78e1739b70e1d27198377f64b6f8c1cce67611f9?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1qdhcvW9Qo8YxNImH38AcP"
+}

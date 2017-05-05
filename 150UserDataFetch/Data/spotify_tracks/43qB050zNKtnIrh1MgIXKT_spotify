@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4msfuRcJKKgjJ8xtFSnbyX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4msfuRcJKKgjJ8xtFSnbyX",
+      "id" : "4msfuRcJKKgjJ8xtFSnbyX",
+      "name" : "Novembre",
+      "type" : "artist",
+      "uri" : "spotify:artist:4msfuRcJKKgjJ8xtFSnbyX"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7K8cGWMdIY3AIQthskEPKA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7K8cGWMdIY3AIQthskEPKA",
+    "id" : "7K8cGWMdIY3AIQthskEPKA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8ba8102bbeec93f4d6fa3081e27426975e579cf5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/727b0953bd4404a19003a38d40a47ee6e6d0cf5a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eafee4074b7a28d8373fbafa86da42cbce3111b2",
+      "width" : 64
+    } ],
+    "name" : "Materia (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:7K8cGWMdIY3AIQthskEPKA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4msfuRcJKKgjJ8xtFSnbyX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4msfuRcJKKgjJ8xtFSnbyX",
+    "id" : "4msfuRcJKKgjJ8xtFSnbyX",
+    "name" : "Novembre",
+    "type" : "artist",
+    "uri" : "spotify:artist:4msfuRcJKKgjJ8xtFSnbyX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCQV0600089"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/43qB050zNKtnIrh1MgIXKT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/43qB050zNKtnIrh1MgIXKT",
+  "id" : "43qB050zNKtnIrh1MgIXKT",
+  "name" : "Nostalgiaplatz (Acoustic)",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/49702fb78878e605a5c5a0e088969535b46eef11?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:43qB050zNKtnIrh1MgIXKT"
+}

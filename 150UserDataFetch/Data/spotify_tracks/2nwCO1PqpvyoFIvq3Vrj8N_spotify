@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3IZrrNonYELubLPJmqOci2",
+      "id" : "3IZrrNonYELubLPJmqOci2",
+      "name" : "Nancy Sinatra",
+      "type" : "artist",
+      "uri" : "spotify:artist:3IZrrNonYELubLPJmqOci2"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M"
+    },
+    "href" : "https://api.spotify.com/v1/albums/62FTy4WqUxi3paBlxOhh4M",
+    "id" : "62FTy4WqUxi3paBlxOhh4M",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d1ce457c65e90da0b924083e98ce0f9aa7bda5b6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e3a5588f749eeb026e638a1f046c6da7a8fc1b75",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4e9aa59cf8a551f1bd6e13cb561788f45fda794c",
+      "width" : 64
+    } ],
+    "name" : "Boots",
+    "type" : "album",
+    "uri" : "spotify:album:62FTy4WqUxi3paBlxOhh4M"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3IZrrNonYELubLPJmqOci2",
+    "id" : "3IZrrNonYELubLPJmqOci2",
+    "name" : "Nancy Sinatra",
+    "type" : "artist",
+    "uri" : "spotify:artist:3IZrrNonYELubLPJmqOci2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 166008,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USASE0500005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2nwCO1PqpvyoFIvq3Vrj8N",
+  "id" : "2nwCO1PqpvyoFIvq3Vrj8N",
+  "name" : "These Boots Are Made For Walkin'",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0aa87616aa79bb31f7733582afe2df0778c1f5f5?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2nwCO1PqpvyoFIvq3Vrj8N"
+}

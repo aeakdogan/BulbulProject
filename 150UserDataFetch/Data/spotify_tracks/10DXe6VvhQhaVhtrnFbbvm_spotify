@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Kekt6CKSo0m5mivKcoH51",
+      "id" : "0Kekt6CKSo0m5mivKcoH51",
+      "name" : "Sergei Rachmaninoff",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Kekt6CKSo0m5mivKcoH51"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3dcmjjiyTLZdDEc0cfd19F"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3dcmjjiyTLZdDEc0cfd19F",
+    "id" : "3dcmjjiyTLZdDEc0cfd19F",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/c57977705870cf71feb72ef4da64af448287622e",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/10516d1def67b9e6a5f050d21b163882f9020499",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e409a0756e8574710e0008d2d176a3d8c7916e7b",
+      "width" : 64
+    } ],
+    "name" : "Rachmaninoff - Masterwork",
+    "type" : "album",
+    "uri" : "spotify:album:3dcmjjiyTLZdDEc0cfd19F"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Kekt6CKSo0m5mivKcoH51",
+    "id" : "0Kekt6CKSo0m5mivKcoH51",
+    "name" : "Sergei Rachmaninoff",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Kekt6CKSo0m5mivKcoH51"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6QRgiaEjkZM0n3RrECok9V"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6QRgiaEjkZM0n3RrECok9V",
+    "id" : "6QRgiaEjkZM0n3RrECok9V",
+    "name" : "Agustin Anievas",
+    "type" : "artist",
+    "uri" : "spotify:artist:6QRgiaEjkZM0n3RrECok9V"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 281133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYC9602213"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/10DXe6VvhQhaVhtrnFbbvm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/10DXe6VvhQhaVhtrnFbbvm",
+  "id" : "10DXe6VvhQhaVhtrnFbbvm",
+  "name" : "Morceaux de fantasie, Op. 3: No. 2, Prélude in C-Sharp Minor",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/62670daba392c32c82e8a094670956efb7676ed6?cid=null",
+  "track_number" : 26,
+  "type" : "track",
+  "uri" : "spotify:track:10DXe6VvhQhaVhtrnFbbvm"
+}

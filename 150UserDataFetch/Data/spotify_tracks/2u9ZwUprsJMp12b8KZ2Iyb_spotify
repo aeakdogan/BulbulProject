@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5vyB8nvBi8Q453LxIl94q1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5vyB8nvBi8Q453LxIl94q1",
+      "id" : "5vyB8nvBi8Q453LxIl94q1",
+      "name" : "Kaada",
+      "type" : "artist",
+      "uri" : "spotify:artist:5vyB8nvBi8Q453LxIl94q1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4D7SpaGVfyQdMU0mfBzDkL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4D7SpaGVfyQdMU0mfBzDkL",
+      "id" : "4D7SpaGVfyQdMU0mfBzDkL",
+      "name" : "Patton",
+      "type" : "artist",
+      "uri" : "spotify:artist:4D7SpaGVfyQdMU0mfBzDkL"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2ECQ7MGqyDBNRy7DelR1Aq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2ECQ7MGqyDBNRy7DelR1Aq",
+    "id" : "2ECQ7MGqyDBNRy7DelR1Aq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fbffa36b4e1e5922a06d91057b3aa966a67c2065",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/533e32a653485b778ec8b9155b4eaa83daee41e7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/454fcbf5f8a41d99175c0565080ee87c74713c80",
+      "width" : 64
+    } ],
+    "name" : "Romances",
+    "type" : "album",
+    "uri" : "spotify:album:2ECQ7MGqyDBNRy7DelR1Aq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5vyB8nvBi8Q453LxIl94q1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5vyB8nvBi8Q453LxIl94q1",
+    "id" : "5vyB8nvBi8Q453LxIl94q1",
+    "name" : "Kaada",
+    "type" : "artist",
+    "uri" : "spotify:artist:5vyB8nvBi8Q453LxIl94q1"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4D7SpaGVfyQdMU0mfBzDkL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4D7SpaGVfyQdMU0mfBzDkL",
+    "id" : "4D7SpaGVfyQdMU0mfBzDkL",
+    "name" : "Patton",
+    "type" : "artist",
+    "uri" : "spotify:artist:4D7SpaGVfyQdMU0mfBzDkL"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 676025,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4N80500133"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2u9ZwUprsJMp12b8KZ2Iyb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2u9ZwUprsJMp12b8KZ2Iyb",
+  "id" : "2u9ZwUprsJMp12b8KZ2Iyb",
+  "name" : "Aubade",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/06b4fc7506b305d0f8a2061a39f9ead52fd6f79d?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2u9ZwUprsJMp12b8KZ2Iyb"
+}

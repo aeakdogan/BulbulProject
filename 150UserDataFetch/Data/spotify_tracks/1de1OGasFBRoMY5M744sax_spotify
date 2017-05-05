@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/63qOOnxbI8rVgpakjpnFBp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/63qOOnxbI8rVgpakjpnFBp",
+      "id" : "63qOOnxbI8rVgpakjpnFBp",
+      "name" : "Della Reese",
+      "type" : "artist",
+      "uri" : "spotify:artist:63qOOnxbI8rVgpakjpnFBp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3LwjKwNraMSj4nyGNyV4Fc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3LwjKwNraMSj4nyGNyV4Fc",
+    "id" : "3LwjKwNraMSj4nyGNyV4Fc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4c757aa0a59bcf369a61cb0e2931e3204c2c4339",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/caa102113869804be8f1ad375d6b4e4f669d1260",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1ce614f918ececefe5f7375934bcde018b689f97",
+      "width" : 64
+    } ],
+    "name" : "Whatever Lola Wants",
+    "type" : "album",
+    "uri" : "spotify:album:3LwjKwNraMSj4nyGNyV4Fc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/63qOOnxbI8rVgpakjpnFBp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/63qOOnxbI8rVgpakjpnFBp",
+    "id" : "63qOOnxbI8rVgpakjpnFBp",
+    "name" : "Della Reese",
+    "type" : "artist",
+    "uri" : "spotify:artist:63qOOnxbI8rVgpakjpnFBp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 196092,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ZAC481602822"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1de1OGasFBRoMY5M744sax"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1de1OGasFBRoMY5M744sax",
+  "id" : "1de1OGasFBRoMY5M744sax",
+  "name" : "Whatever Lola Wants",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ba8111af49b6b3c86be30349969125f3c30456be?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:1de1OGasFBRoMY5M744sax"
+}

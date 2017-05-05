@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa",
+      "id" : "3DiDSECUqqY1AuBP8qtaIa",
+      "name" : "Alicia Keys",
+      "type" : "artist",
+      "uri" : "spotify:artist:3DiDSECUqqY1AuBP8qtaIa"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3zZSz5VOYSu0jE4MkPCOvN",
+    "id" : "3zZSz5VOYSu0jE4MkPCOvN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/882c2bcde9359872dfb0309db31554de10766023",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8c1bc2afca26744bda1b3e64f4bceb9fa265463b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4ad3c1397487d10b5a277af2b1abe6866cba8c11",
+      "width" : 64
+    } ],
+    "name" : "Girl On Fire",
+    "type" : "album",
+    "uri" : "spotify:album:3zZSz5VOYSu0jE4MkPCOvN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa",
+    "id" : "3DiDSECUqqY1AuBP8qtaIa",
+    "name" : "Alicia Keys",
+    "type" : "artist",
+    "uri" : "spotify:artist:3DiDSECUqqY1AuBP8qtaIa"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 224920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC11201015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4esOae7i4rqTbAu9o5Pxco",
+  "id" : "4esOae7i4rqTbAu9o5Pxco",
+  "name" : "Girl On Fire",
+  "popularity" : 67,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f509e28bb7cbffb4d2a337afe31c7ade6bf846b2?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4esOae7i4rqTbAu9o5Pxco"
+}

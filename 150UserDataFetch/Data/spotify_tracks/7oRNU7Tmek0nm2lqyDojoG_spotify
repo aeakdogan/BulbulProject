@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+      "id" : "4LEiUm1SRbFMgfqnQTwUbQ",
+      "name" : "Bon Iver",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5MjC805qLtwgqXH1c0kpjK",
+    "id" : "5MjC805qLtwgqXH1c0kpjK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a5a834e371a845d6a67e509c10d0c9123e6fdefa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b416d01351f2fe41c68346bb777905fe280843e3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f71f84f909f0719e7eba69c8c6757ed9052a24dc",
+      "width" : 64
+    } ],
+    "name" : "Blood Bank",
+    "type" : "album",
+    "uri" : "spotify:album:5MjC805qLtwgqXH1c0kpjK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+    "id" : "4LEiUm1SRbFMgfqnQTwUbQ",
+    "name" : "Bon Iver",
+    "type" : "artist",
+    "uri" : "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 160093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US38Y0913402"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7oRNU7Tmek0nm2lqyDojoG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7oRNU7Tmek0nm2lqyDojoG",
+  "id" : "7oRNU7Tmek0nm2lqyDojoG",
+  "name" : "Beach Baby",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8483d233ccf28879b3ad3d32a4e7df2c444bc2a0?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7oRNU7Tmek0nm2lqyDojoG"
+}

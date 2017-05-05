@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4TtqhE9B6Ggi3kA1Q0HNph"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4TtqhE9B6Ggi3kA1Q0HNph",
+      "id" : "4TtqhE9B6Ggi3kA1Q0HNph",
+      "name" : "KTL",
+      "type" : "artist",
+      "uri" : "spotify:artist:4TtqhE9B6Ggi3kA1Q0HNph"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1q2M49uimaB6tHeYNfwtaa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1q2M49uimaB6tHeYNfwtaa",
+    "id" : "1q2M49uimaB6tHeYNfwtaa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1ba6ce3a6c4bd54c6792203633fa380ed40d762b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/098b7a28a24ce6be0fc58bce4c80cda770201f3b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3d435a0bf73a71a634cb5f2ba19910c8c68e4567",
+      "width" : 64
+    } ],
+    "name" : "V",
+    "type" : "album",
+    "uri" : "spotify:album:1q2M49uimaB6tHeYNfwtaa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4TtqhE9B6Ggi3kA1Q0HNph"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4TtqhE9B6Ggi3kA1Q0HNph",
+    "id" : "4TtqhE9B6Ggi3kA1Q0HNph",
+    "name" : "KTL",
+    "type" : "artist",
+    "uri" : "spotify:artist:4TtqhE9B6Ggi3kA1Q0HNph"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 730480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATE691212001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Ir0lSlhdSHFR8lLyB96f0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Ir0lSlhdSHFR8lLyB96f0",
+  "id" : "1Ir0lSlhdSHFR8lLyB96f0",
+  "name" : "Phill 1",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7762a947b079a19fb421f1ccc46a222ac60de767?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1Ir0lSlhdSHFR8lLyB96f0"
+}

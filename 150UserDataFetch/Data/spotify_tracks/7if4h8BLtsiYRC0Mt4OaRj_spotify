@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/71lhIVHJ24x9hEcwFSWuOf",
+      "id" : "71lhIVHJ24x9hEcwFSWuOf",
+      "name" : "Onslaught",
+      "type" : "artist",
+      "uri" : "spotify:artist:71lhIVHJ24x9hEcwFSWuOf"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0sGBeKde2Sppn5JrykCqLq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0sGBeKde2Sppn5JrykCqLq",
+    "id" : "0sGBeKde2Sppn5JrykCqLq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/297bcb73161acec4ae2c0781f70a730ad8d41c8a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/17a2ada52c7a9631615abae8a5410110576a5011",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/96127714ec76311491270ce6e9d2522a883bba00",
+      "width" : 64
+    } ],
+    "name" : "Killing Peace",
+    "type" : "album",
+    "uri" : "spotify:album:0sGBeKde2Sppn5JrykCqLq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/71lhIVHJ24x9hEcwFSWuOf",
+    "id" : "71lhIVHJ24x9hEcwFSWuOf",
+    "name" : "Onslaught",
+    "type" : "artist",
+    "uri" : "spotify:artist:71lhIVHJ24x9hEcwFSWuOf"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217720,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBADD0715102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7if4h8BLtsiYRC0Mt4OaRj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7if4h8BLtsiYRC0Mt4OaRj",
+  "id" : "7if4h8BLtsiYRC0Mt4OaRj",
+  "name" : "Killing Peace",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0df786fc069c3ab9e5e9c2e4d3fd92a71c48ea68?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7if4h8BLtsiYRC0Mt4OaRj"
+}

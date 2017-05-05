@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+      "id" : "5gspAQIAH8nJUrMYgXjCJ2",
+      "name" : "Kurt Vile",
+      "type" : "artist",
+      "uri" : "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3LJQ0Hfr5fbaor3iBWg9c4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3LJQ0Hfr5fbaor3iBWg9c4",
+    "id" : "3LJQ0Hfr5fbaor3iBWg9c4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5fcb46801b488cf2037b186f8138a9f0ccebdcdb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f49aabc95da965b71601295e39fa1f60fe9201f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d9ed0640eb984ace02bb039ca4c6530ea03b1617",
+      "width" : 64
+    } ],
+    "name" : "Childish Prodigy",
+    "type" : "album",
+    "uri" : "spotify:album:3LJQ0Hfr5fbaor3iBWg9c4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+    "id" : "5gspAQIAH8nJUrMYgXjCJ2",
+    "name" : "Kurt Vile",
+    "type" : "artist",
+    "uri" : "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 289746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD0988701"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Jg3Hl9wT2pPRr0UtPZmvO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Jg3Hl9wT2pPRr0UtPZmvO",
+  "id" : "3Jg3Hl9wT2pPRr0UtPZmvO",
+  "name" : "Hunchback",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/52c98c766c201ad1b715ab12f707b8307314a76d?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3Jg3Hl9wT2pPRr0UtPZmvO"
+}

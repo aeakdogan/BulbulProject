@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cM1PvItlR21WUyBnsdMcn",
+      "id" : "5cM1PvItlR21WUyBnsdMcn",
+      "name" : "Robert Glasper",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cM1PvItlR21WUyBnsdMcn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4kHHWOwd6G2RHJiGDzkfIK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4kHHWOwd6G2RHJiGDzkfIK",
+    "id" : "4kHHWOwd6G2RHJiGDzkfIK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1ded0da7d6eccb4712be66920d910190c175f251",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5d100d1db313cf10ef74a59321ce0f57f5731c3e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d85ecde1aa57f0a507cb0627d199c7df63a464f5",
+      "width" : 64
+    } ],
+    "name" : "Canvas",
+    "type" : "album",
+    "uri" : "spotify:album:4kHHWOwd6G2RHJiGDzkfIK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5cM1PvItlR21WUyBnsdMcn",
+    "id" : "5cM1PvItlR21WUyBnsdMcn",
+    "name" : "Robert Glasper",
+    "type" : "artist",
+    "uri" : "spotify:artist:5cM1PvItlR21WUyBnsdMcn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 499346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN20500204"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1nhWO3o6XbSC7jWefdOKQM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1nhWO3o6XbSC7jWefdOKQM",
+  "id" : "1nhWO3o6XbSC7jWefdOKQM",
+  "name" : "Chant",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d61f138c15d0e8703feb51736d561c2dee70e3d3?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:1nhWO3o6XbSC7jWefdOKQM"
+}

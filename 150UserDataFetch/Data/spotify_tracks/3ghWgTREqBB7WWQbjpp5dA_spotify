@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3df3XLKuqTQ6iOSmi0K3Wp",
+      "id" : "3df3XLKuqTQ6iOSmi0K3Wp",
+      "name" : "王菲",
+      "type" : "artist",
+      "uri" : "spotify:artist:3df3XLKuqTQ6iOSmi0K3Wp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5lsZJwMUH4YBhgWZ8HBBrA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5lsZJwMUH4YBhgWZ8HBBrA",
+    "id" : "5lsZJwMUH4YBhgWZ8HBBrA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f72608109be81d3d9fcc843b712999528f76f034",
+      "width" : 633
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6d75a40dee99a794a8da0256771816488ee70d85",
+      "width" : 297
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f9c9ecd7e05eb8feccde835809ec1edc9efadadd",
+      "width" : 63
+    } ],
+    "name" : "將愛",
+    "type" : "album",
+    "uri" : "spotify:album:5lsZJwMUH4YBhgWZ8HBBrA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3df3XLKuqTQ6iOSmi0K3Wp",
+    "id" : "3df3XLKuqTQ6iOSmi0K3Wp",
+    "name" : "王菲",
+    "type" : "artist",
+    "uri" : "spotify:artist:3df3XLKuqTQ6iOSmi0K3Wp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 280226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "VGA460301051"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3ghWgTREqBB7WWQbjpp5dA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3ghWgTREqBB7WWQbjpp5dA",
+  "id" : "3ghWgTREqBB7WWQbjpp5dA",
+  "name" : "乘客",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c2126c092457c7b2f9bbe1cdd3936230fc6d9028?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3ghWgTREqBB7WWQbjpp5dA"
+}

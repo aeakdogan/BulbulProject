@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+      "id" : "4NHQUGzhtTLFvgF5SZesLK",
+      "name" : "Tove Lo",
+      "type" : "artist",
+      "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2esdHJ5TiZcDXCnmy50hLa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2esdHJ5TiZcDXCnmy50hLa",
+    "id" : "2esdHJ5TiZcDXCnmy50hLa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/51f2cd051c02133c0ba5fa4a64cd8a0d34c3665a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a965014ebb046baeb421cc6ad53d3792f295d0bc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/63813c23f0bfbec8cff982bb469446cd81450bda",
+      "width" : 64
+    } ],
+    "name" : "Queen Of The Clouds (Blueprint Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:2esdHJ5TiZcDXCnmy50hLa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+    "id" : "4NHQUGzhtTLFvgF5SZesLK",
+    "name" : "Tove Lo",
+    "type" : "artist",
+    "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 209160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SE3NM1300101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6YL5zD4SggAZAQcdPv5r0C"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6YL5zD4SggAZAQcdPv5r0C",
+  "id" : "6YL5zD4SggAZAQcdPv5r0C",
+  "name" : "Habits (Stay High)",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/367794e80506228ac4ad1fdb4332b61efa5d3331?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:6YL5zD4SggAZAQcdPv5r0C"
+}

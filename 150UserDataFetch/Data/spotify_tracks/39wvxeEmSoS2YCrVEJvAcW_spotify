@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/51Eq6WMVEOjjx9KQMAnneG",
+      "id" : "51Eq6WMVEOjjx9KQMAnneG",
+      "name" : "The Cribs",
+      "type" : "artist",
+      "uri" : "spotify:artist:51Eq6WMVEOjjx9KQMAnneG"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/23rrGHAlRnRivrOIHgUnSZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/23rrGHAlRnRivrOIHgUnSZ",
+    "id" : "23rrGHAlRnRivrOIHgUnSZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/030cefa7eaac345caf317dc5a9a0024df510c086",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ce11e6ef9d63e3461eddbf672521e87b53fc392a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/efd9f090ea1709ad2bb3c4c36cc48a162f353c82",
+      "width" : 64
+    } ],
+    "name" : "The Cribs",
+    "type" : "album",
+    "uri" : "spotify:album:23rrGHAlRnRivrOIHgUnSZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/51Eq6WMVEOjjx9KQMAnneG",
+    "id" : "51Eq6WMVEOjjx9KQMAnneG",
+    "name" : "The Cribs",
+    "type" : "artist",
+    "uri" : "spotify:artist:51Eq6WMVEOjjx9KQMAnneG"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 173053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDNH0300336"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/39wvxeEmSoS2YCrVEJvAcW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/39wvxeEmSoS2YCrVEJvAcW",
+  "id" : "39wvxeEmSoS2YCrVEJvAcW",
+  "name" : "Another Number",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6c955ce80dc1fccc4f5d59014c6a1cebe8082a85?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:39wvxeEmSoS2YCrVEJvAcW"
+}

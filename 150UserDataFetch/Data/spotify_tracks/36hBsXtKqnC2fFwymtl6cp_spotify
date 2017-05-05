@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2YL0l5fnyHE9FEf1bwFGCc",
+      "id" : "2YL0l5fnyHE9FEf1bwFGCc",
+      "name" : "Kleerup",
+      "type" : "artist",
+      "uri" : "spotify:artist:2YL0l5fnyHE9FEf1bwFGCc"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3FaNAWH9QnDd8DQstOk5zX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3FaNAWH9QnDd8DQstOk5zX",
+    "id" : "3FaNAWH9QnDd8DQstOk5zX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/73405990e50ecf3ddb6241b06ac5137c0856b055",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ae19e5c4b1e52f183a8f2f5beb01ea794fe3a3e3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/297c84ee9aea49280a77c988d57f67e0fbade995",
+      "width" : 64
+    } ],
+    "name" : "Hello Holla EP",
+    "type" : "album",
+    "uri" : "spotify:album:3FaNAWH9QnDd8DQstOk5zX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2YL0l5fnyHE9FEf1bwFGCc",
+    "id" : "2YL0l5fnyHE9FEf1bwFGCc",
+    "name" : "Kleerup",
+    "type" : "artist",
+    "uri" : "spotify:artist:2YL0l5fnyHE9FEf1bwFGCc"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 226933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEAMA0800171"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/36hBsXtKqnC2fFwymtl6cp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/36hBsXtKqnC2fFwymtl6cp",
+  "id" : "36hBsXtKqnC2fFwymtl6cp",
+  "name" : "Tower Of Trellick",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/acbc26cb20e4794f477ed089b7178e1551194429?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:36hBsXtKqnC2fFwymtl6cp"
+}

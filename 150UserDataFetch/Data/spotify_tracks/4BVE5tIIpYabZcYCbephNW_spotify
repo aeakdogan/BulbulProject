@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt",
+      "id" : "22WZ7M8sxp5THdruNY3gXt",
+      "name" : "The Doors",
+      "type" : "artist",
+      "uri" : "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/75bLu4Ung5QbMdJYxx7wTI",
+    "id" : "75bLu4Ung5QbMdJYxx7wTI",
+    "images" : [ {
+      "height" : 618,
+      "url" : "https://i.scdn.co/image/1ae60f3d21e39a9740392044f29dd6c07cce152e",
+      "width" : 640
+    }, {
+      "height" : 290,
+      "url" : "https://i.scdn.co/image/e50ec4d122d3c4ae70ef269ac5632ff3cd5417d5",
+      "width" : 300
+    }, {
+      "height" : 62,
+      "url" : "https://i.scdn.co/image/15c592dd97604fdfe2a0d72421de4c8b7e821352",
+      "width" : 64
+    } ],
+    "name" : "The Soft Parade",
+    "type" : "album",
+    "uri" : "spotify:album:75bLu4Ung5QbMdJYxx7wTI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt",
+    "id" : "22WZ7M8sxp5THdruNY3gXt",
+    "name" : "The Doors",
+    "type" : "artist",
+    "uri" : "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 190253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE19900756"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4BVE5tIIpYabZcYCbephNW",
+  "id" : "4BVE5tIIpYabZcYCbephNW",
+  "name" : "Touch Me",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/255211fe4f662bc5b1b025912435104fb3eceb0e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4BVE5tIIpYabZcYCbephNW"
+}

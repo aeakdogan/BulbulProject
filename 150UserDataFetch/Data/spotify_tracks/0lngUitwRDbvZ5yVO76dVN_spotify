@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm",
+      "id" : "2qc41rNTtdLK0tV3mJn2Pm",
+      "name" : "Ryan Adams",
+      "type" : "artist",
+      "uri" : "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7hmZCaBzp6mVrelxW6Ckrn",
+    "id" : "7hmZCaBzp6mVrelxW6Ckrn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3a2f902215000771eee3ee165a0f40c9de0f8d55",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/45dfb24139f7848ad227e47fcdf9402147582115",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a4733ebd813ef7b197c897f86fd21ea53a60dd72",
+      "width" : 64
+    } ],
+    "name" : "Heartbreaker",
+    "type" : "album",
+    "uri" : "spotify:album:7hmZCaBzp6mVrelxW6Ckrn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2qc41rNTtdLK0tV3mJn2Pm",
+    "id" : "2qc41rNTtdLK0tV3mJn2Pm",
+    "name" : "Ryan Adams",
+    "type" : "artist",
+    "uri" : "spotify:artist:2qc41rNTtdLK0tV3mJn2Pm"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 318333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABL1346100"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0lngUitwRDbvZ5yVO76dVN",
+  "id" : "0lngUitwRDbvZ5yVO76dVN",
+  "name" : "Come Pick Me Up",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/81bb71572a63fa1092555bdc50b3fccc27e14398?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:0lngUitwRDbvZ5yVO76dVN"
+}

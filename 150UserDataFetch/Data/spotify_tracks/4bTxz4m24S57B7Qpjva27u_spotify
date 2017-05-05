@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1VEzN9lxvG6KPR3QQGsebR",
+      "id" : "1VEzN9lxvG6KPR3QQGsebR",
+      "name" : "Sonny Rollins",
+      "type" : "artist",
+      "uri" : "spotify:artist:1VEzN9lxvG6KPR3QQGsebR"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7g5uGrswxrTP6gfiLxIxaj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7g5uGrswxrTP6gfiLxIxaj",
+    "id" : "7g5uGrswxrTP6gfiLxIxaj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/677d0cdc117ad4b82b4502ad006fa9a413ee50c3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7202a9be76c8d5f43ca2e7068f99abb24237760e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0b707b201ab730718c2973f4e6ba30832761bf9c",
+      "width" : 64
+    } ],
+    "name" : "The Complete Prestige Recordings",
+    "type" : "album",
+    "uri" : "spotify:album:7g5uGrswxrTP6gfiLxIxaj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0kbYTNQb4Pb1rPbbaF0pT4",
+    "id" : "0kbYTNQb4Pb1rPbbaF0pT4",
+    "name" : "Miles Davis",
+    "type" : "artist",
+    "uri" : "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1VEzN9lxvG6KPR3QQGsebR",
+    "id" : "1VEzN9lxvG6KPR3QQGsebR",
+    "name" : "Sonny Rollins",
+    "type" : "artist",
+    "uri" : "spotify:artist:1VEzN9lxvG6KPR3QQGsebR"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 595933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI85200011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4bTxz4m24S57B7Qpjva27u"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4bTxz4m24S57B7Qpjva27u",
+  "id" : "4bTxz4m24S57B7Qpjva27u",
+  "name" : "Bluing",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d87ef9f1b43fb95be14f30cd6ff1bda068430b9a?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:4bTxz4m24S57B7Qpjva27u"
+}

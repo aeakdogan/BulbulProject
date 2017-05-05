@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84",
+      "id" : "2cGwlqi3k18jFpUyTrsR84",
+      "name" : "The Verve",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cGwlqi3k18jFpUyTrsR84"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2okCg9scHue9GNELoB8U9g",
+    "id" : "2okCg9scHue9GNELoB8U9g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/523522cdae720f6db116dc3e8548d044d3f5d679",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/785a216a8f325fad871adc952f30c1d5f0384c12",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4d7cdf00869a64fa202baf544172411ef936947f",
+      "width" : 64
+    } ],
+    "name" : "Urban Hymns",
+    "type" : "album",
+    "uri" : "spotify:album:2okCg9scHue9GNELoB8U9g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84",
+    "id" : "2cGwlqi3k18jFpUyTrsR84",
+    "name" : "The Verve",
+    "type" : "artist",
+    "uri" : "spotify:artist:2cGwlqi3k18jFpUyTrsR84"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 261440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA9710062"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4vvK7kQ42AAXabZAXiGsDH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4vvK7kQ42AAXabZAXiGsDH",
+  "id" : "4vvK7kQ42AAXabZAXiGsDH",
+  "name" : "Sonnet",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/15d6e4641f2e8b35808c7f2a058d1f8229fe791a?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4vvK7kQ42AAXabZAXiGsDH"
+}

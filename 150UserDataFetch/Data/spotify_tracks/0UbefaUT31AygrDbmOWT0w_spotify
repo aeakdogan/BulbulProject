@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ",
+      "id" : "5EtBXjUUyPJmiljpRdN6RJ",
+      "name" : "The Auteurs",
+      "type" : "artist",
+      "uri" : "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7dJLDJkGND4ovSCRL4r4bk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7dJLDJkGND4ovSCRL4r4bk",
+    "id" : "7dJLDJkGND4ovSCRL4r4bk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2761571b395f5526b01c3fcba2e741189905ad7c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d9d31793d6a52402915ff488a6f39eedf5763540",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/81fa8e9f8cb254d91ab2d60fdd21736fbd8bfe3d",
+      "width" : 64
+    } ],
+    "name" : "New Wave",
+    "type" : "album",
+    "uri" : "spotify:album:7dJLDJkGND4ovSCRL4r4bk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5EtBXjUUyPJmiljpRdN6RJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5EtBXjUUyPJmiljpRdN6RJ",
+    "id" : "5EtBXjUUyPJmiljpRdN6RJ",
+    "name" : "The Auteurs",
+    "type" : "artist",
+    "uri" : "spotify:artist:5EtBXjUUyPJmiljpRdN6RJ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 246533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA9200347"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0UbefaUT31AygrDbmOWT0w"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0UbefaUT31AygrDbmOWT0w",
+  "id" : "0UbefaUT31AygrDbmOWT0w",
+  "name" : "Show Girl",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3738aaea07a1287bfc47b723b325edadb5a43217?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0UbefaUT31AygrDbmOWT0w"
+}

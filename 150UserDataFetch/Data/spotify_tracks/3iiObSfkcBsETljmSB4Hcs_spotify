@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+      "id" : "0epOFNiUfyON9EYx7Tpr6V",
+      "name" : "The Strokes",
+      "type" : "artist",
+      "uri" : "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2k8KgmDp9oHrmu0MIj4XDE",
+    "id" : "2k8KgmDp9oHrmu0MIj4XDE",
+    "images" : [ {
+      "height" : 639,
+      "url" : "https://i.scdn.co/image/36ad5132eee494bb519cd43e70fafe427cab95de",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/8bf5faf02508dafd44f9caca313ad427c06c4d2b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c62e004a6a955f745d8ef940fe335b685d7eb017",
+      "width" : 64
+    } ],
+    "name" : "Is This It",
+    "type" : "album",
+    "uri" : "spotify:album:2k8KgmDp9oHrmu0MIj4XDE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+    "id" : "0epOFNiUfyON9EYx7Tpr6V",
+    "name" : "The Strokes",
+    "type" : "artist",
+    "uri" : "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 175200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC10101344"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3iiObSfkcBsETljmSB4Hcs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3iiObSfkcBsETljmSB4Hcs",
+  "id" : "3iiObSfkcBsETljmSB4Hcs",
+  "name" : "When It Started",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/adc5c5f811fb058ddd9f36463e9a23883c63c3de?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3iiObSfkcBsETljmSB4Hcs"
+}

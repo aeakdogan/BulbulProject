@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4l1cKWYW591xnwEGxpUg3J",
+      "id" : "4l1cKWYW591xnwEGxpUg3J",
+      "name" : "Miike Snow",
+      "type" : "artist",
+      "uri" : "spotify:artist:4l1cKWYW591xnwEGxpUg3J"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3EqIz9KGQakhATc71OGQQi",
+    "id" : "3EqIz9KGQakhATc71OGQQi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5e97d27c6f6419d8272907290f578ed63ea4fecb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a18236e7494c21b2476520df7fc5e226f3f65ac6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2c637c7299434ad1c5938b047daf61e3f4ded64a",
+      "width" : 64
+    } ],
+    "name" : "Miike Snow",
+    "type" : "album",
+    "uri" : "spotify:album:3EqIz9KGQakhATc71OGQQi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4l1cKWYW591xnwEGxpUg3J",
+    "id" : "4l1cKWYW591xnwEGxpUg3J",
+    "name" : "Miike Snow",
+    "type" : "artist",
+    "uri" : "spotify:artist:4l1cKWYW591xnwEGxpUg3J"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 263426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCJ80900254"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6vSq5q5DCs1IvwKIq53hj2",
+  "id" : "6vSq5q5DCs1IvwKIq53hj2",
+  "name" : "Animal",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b38df5b3efd7a9598711e7fdcfea74529a4eba16?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6vSq5q5DCs1IvwKIq53hj2"
+}

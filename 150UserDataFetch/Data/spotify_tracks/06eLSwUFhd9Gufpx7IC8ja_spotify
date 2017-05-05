@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0X0TajZO1RmY3D8u1JymYq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0X0TajZO1RmY3D8u1JymYq",
+      "id" : "0X0TajZO1RmY3D8u1JymYq",
+      "name" : "Au Revoir Simone",
+      "type" : "artist",
+      "uri" : "spotify:artist:0X0TajZO1RmY3D8u1JymYq"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Y8QUZCRhpzt2EQeoWINX0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Y8QUZCRhpzt2EQeoWINX0",
+    "id" : "3Y8QUZCRhpzt2EQeoWINX0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/51e0f4c7dfcbcbaabdd6bdfd7d02efd4a067343c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7d1def2754141dd70ea5e0f1e362cf6e1b38c12c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3f8e127f95804eff62219ee99f5c65f812911b80",
+      "width" : 64
+    } ],
+    "name" : "The Bird Of Music (Bonus Track)",
+    "type" : "album",
+    "uri" : "spotify:album:3Y8QUZCRhpzt2EQeoWINX0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0X0TajZO1RmY3D8u1JymYq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0X0TajZO1RmY3D8u1JymYq",
+    "id" : "0X0TajZO1RmY3D8u1JymYq",
+    "name" : "Au Revoir Simone",
+    "type" : "artist",
+    "uri" : "spotify:artist:0X0TajZO1RmY3D8u1JymYq"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA560621627"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/06eLSwUFhd9Gufpx7IC8ja"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/06eLSwUFhd9Gufpx7IC8ja",
+  "id" : "06eLSwUFhd9Gufpx7IC8ja",
+  "name" : "Fallen Snow",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4d22027d76277439059f4fe5a7e8bed08fa2e9dc?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:06eLSwUFhd9Gufpx7IC8ja"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7tzI4rSFTHafjF18ZrNZWx",
+      "id" : "7tzI4rSFTHafjF18ZrNZWx",
+      "name" : "Jens Lekman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7tzI4rSFTHafjF18ZrNZWx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DO", "EC", "EE", "ES", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "PA", "PE", "PL", "PT", "PY", "SK", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1pqTBqbWh9ls1ZnWrD945W"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1pqTBqbWh9ls1ZnWrD945W",
+    "id" : "1pqTBqbWh9ls1ZnWrD945W",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7f1b6da9a5d77c96fe270a0e1372f3dd40d81198",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d5fc559c4b35c0ed9ce6d60918609a381f2f423d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e4fbc573e0b8378d82f3f17c78865d8f3bbd4b09",
+      "width" : 64
+    } ],
+    "name" : "An Argument With Myself",
+    "type" : "album",
+    "uri" : "spotify:album:1pqTBqbWh9ls1ZnWrD945W"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7tzI4rSFTHafjF18ZrNZWx",
+    "id" : "7tzI4rSFTHafjF18ZrNZWx",
+    "name" : "Jens Lekman",
+    "type" : "artist",
+    "uri" : "spotify:artist:7tzI4rSFTHafjF18ZrNZWx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DO", "EC", "EE", "ES", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "PA", "PE", "PL", "PT", "PY", "SK", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 229280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US38W1121101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4hpbX7znc3ZZIPbvEiiCa6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4hpbX7znc3ZZIPbvEiiCa6",
+  "id" : "4hpbX7znc3ZZIPbvEiiCa6",
+  "name" : "An Argument With Myself",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cf9a716a3d06f0248da3d019ac16d5bfc0516ae7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4hpbX7znc3ZZIPbvEiiCa6"
+}

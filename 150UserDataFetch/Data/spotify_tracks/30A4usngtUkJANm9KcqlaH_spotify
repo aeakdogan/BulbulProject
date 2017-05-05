@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Uz6jx81OY2J5K8Z4wmy2P",
+      "id" : "3Uz6jx81OY2J5K8Z4wmy2P",
+      "name" : "Camel",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Uz6jx81OY2J5K8Z4wmy2P"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5P5NLKRmXqMZ5m3RQqzD5y"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5P5NLKRmXqMZ5m3RQqzD5y",
+    "id" : "5P5NLKRmXqMZ5m3RQqzD5y",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/fc9ce08244e0c37ea299f0f05b2eb589e1a1bcb3",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/be6e0e327c9f9bec2a9c608b532093d3e19fd337",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/f95d9da1015850227ce592efccbe0c2b04ddee74",
+      "width" : 64
+    } ],
+    "name" : "Rain Dances",
+    "type" : "album",
+    "uri" : "spotify:album:5P5NLKRmXqMZ5m3RQqzD5y"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Uz6jx81OY2J5K8Z4wmy2P",
+    "id" : "3Uz6jx81OY2J5K8Z4wmy2P",
+    "name" : "Camel",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Uz6jx81OY2J5K8Z4wmy2P"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 335426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF077720630"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/30A4usngtUkJANm9KcqlaH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/30A4usngtUkJANm9KcqlaH",
+  "id" : "30A4usngtUkJANm9KcqlaH",
+  "name" : "Unevensong",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2f980a8147ac93cc53693b53f99b2805d0bde9a7?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:30A4usngtUkJANm9KcqlaH"
+}

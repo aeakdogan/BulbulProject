@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1",
+      "id" : "5BcZ22XONcRoLhTbZRuME1",
+      "name" : "The Moody Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:5BcZ22XONcRoLhTbZRuME1"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1uLrOD2G7zagV2afp8woS1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1uLrOD2G7zagV2afp8woS1",
+    "id" : "1uLrOD2G7zagV2afp8woS1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/777b1f33269dbf715ef4b493bef5e3ae9e611055",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d76ada3751ea2a244959fea66e02e1022f4dbddb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/14001cf0a60d38e22673d029dbc4c7e86b55f237",
+      "width" : 64
+    } ],
+    "name" : "The Magnificent Moodies",
+    "type" : "album",
+    "uri" : "spotify:album:1uLrOD2G7zagV2afp8woS1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1",
+    "id" : "5BcZ22XONcRoLhTbZRuME1",
+    "name" : "The Moody Blues",
+    "type" : "artist",
+    "uri" : "spotify:artist:5BcZ22XONcRoLhTbZRuME1"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 206693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBLY1405000"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/72MvrPaYBDVZfLapuVqsts"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/72MvrPaYBDVZfLapuVqsts",
+  "id" : "72MvrPaYBDVZfLapuVqsts",
+  "name" : "From the Bottom of My Heart (I Love You)",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a2e0424a0888ed3ebbc6107de232f8ab3badef89?cid=null",
+  "track_number" : 19,
+  "type" : "track",
+  "uri" : "spotify:track:72MvrPaYBDVZfLapuVqsts"
+}

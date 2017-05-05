@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/47BNWfpngeFHYvBlPPyraM",
+      "id" : "47BNWfpngeFHYvBlPPyraM",
+      "name" : "Kate Ryan",
+      "type" : "artist",
+      "uri" : "spotify:artist:47BNWfpngeFHYvBlPPyraM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/16lw7daZabFRXSnCh0vKyj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/16lw7daZabFRXSnCh0vKyj",
+    "id" : "16lw7daZabFRXSnCh0vKyj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8cca37e764a147bd71b462a4e821f7a2388caaa3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1d9691a6a2d7173a9188af0e69a0aec1e3f972a1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/256d744fd267c27c2609eae36fa52e3e9fef5990",
+      "width" : 64
+    } ],
+    "name" : "Stronger",
+    "type" : "album",
+    "uri" : "spotify:album:16lw7daZabFRXSnCh0vKyj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/47BNWfpngeFHYvBlPPyraM",
+    "id" : "47BNWfpngeFHYvBlPPyraM",
+    "name" : "Kate Ryan",
+    "type" : "artist",
+    "uri" : "spotify:artist:47BNWfpngeFHYvBlPPyraM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 232146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USY251663835"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/16clSLuFP6kml0aWUxECPJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/16clSLuFP6kml0aWUxECPJ",
+  "id" : "16clSLuFP6kml0aWUxECPJ",
+  "name" : "Only If I",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fa2550b5d91c484f8c0872adece0e7d37b9ad853?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:16clSLuFP6kml0aWUxECPJ"
+}

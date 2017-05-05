@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37VhgKcbq9YOse66sppnyz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/37VhgKcbq9YOse66sppnyz",
+      "id" : "37VhgKcbq9YOse66sppnyz",
+      "name" : "The Pretenders",
+      "type" : "artist",
+      "uri" : "spotify:artist:37VhgKcbq9YOse66sppnyz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/44U5EV50JLfZdEAInZMe3Q"
+    },
+    "href" : "https://api.spotify.com/v1/albums/44U5EV50JLfZdEAInZMe3Q",
+    "id" : "44U5EV50JLfZdEAInZMe3Q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/962e9f2aeff0186122e51760995a1d1868b4d690",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6e5e6455847d1ae118966f4f44d2c97a902f63d0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/03c11d6f43d57b5145ad63619416a8e4adc82948",
+      "width" : 64
+    } ],
+    "name" : "I'll Stand by You",
+    "type" : "album",
+    "uri" : "spotify:album:44U5EV50JLfZdEAInZMe3Q"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/37VhgKcbq9YOse66sppnyz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/37VhgKcbq9YOse66sppnyz",
+    "id" : "37VhgKcbq9YOse66sppnyz",
+    "name" : "The Pretenders",
+    "type" : "artist",
+    "uri" : "spotify:artist:37VhgKcbq9YOse66sppnyz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 241920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDW19920612"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/321kqSpZkKNDMqDftG1UcZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/321kqSpZkKNDMqDftG1UcZ",
+  "id" : "321kqSpZkKNDMqDftG1UcZ",
+  "name" : "I'll Stand by You",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f51469840300f01fb1b23a3d55f4dfd438f70b0f?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:321kqSpZkKNDMqDftG1UcZ"
+}

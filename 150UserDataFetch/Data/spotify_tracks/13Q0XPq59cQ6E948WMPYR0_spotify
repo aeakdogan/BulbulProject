@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4l8xPGtl6DHR2uvunqrl8r",
+      "id" : "4l8xPGtl6DHR2uvunqrl8r",
+      "name" : "CAN",
+      "type" : "artist",
+      "uri" : "spotify:artist:4l8xPGtl6DHR2uvunqrl8r"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Qa2CdymyGvXkqoqIZykmT",
+    "id" : "3Qa2CdymyGvXkqoqIZykmT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8092ae251e1882649b17670f1d60d52e87056dcd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/19d958addb14d7ffc4110088347279f024def469",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dd2dd663d91cafc303311ca92a16c3cb0b559f82",
+      "width" : 64
+    } ],
+    "name" : "Ege Bamyasi (Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:3Qa2CdymyGvXkqoqIZykmT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4l8xPGtl6DHR2uvunqrl8r",
+    "id" : "4l8xPGtl6DHR2uvunqrl8r",
+    "name" : "CAN",
+    "type" : "artist",
+    "uri" : "spotify:artist:4l8xPGtl6DHR2uvunqrl8r"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 335199,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX170420803"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/13Q0XPq59cQ6E948WMPYR0",
+  "id" : "13Q0XPq59cQ6E948WMPYR0",
+  "name" : "One More Night - 2004 Remastered Version",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/474f751aa8fced87f65baa83eb0577a6d4e5520a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:13Q0XPq59cQ6E948WMPYR0"
+}

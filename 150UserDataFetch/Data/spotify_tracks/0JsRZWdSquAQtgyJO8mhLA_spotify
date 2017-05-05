@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4WQXRya5np83C21wifjNp9",
+      "id" : "4WQXRya5np83C21wifjNp9",
+      "name" : "In The Valley Below",
+      "type" : "artist",
+      "uri" : "spotify:artist:4WQXRya5np83C21wifjNp9"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ViGmclVTvJiBYMvPFeXbZ",
+    "id" : "4ViGmclVTvJiBYMvPFeXbZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6a200f9cc0738b9b6ae23e1d742cb6716400b3f3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d43912d2f474291d73db1a9d21e4ff12e1a0e041",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/83de354968ba142ae75c58b8639b97492370c936",
+      "width" : 64
+    } ],
+    "name" : "The Belt",
+    "type" : "album",
+    "uri" : "spotify:album:4ViGmclVTvJiBYMvPFeXbZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4WQXRya5np83C21wifjNp9",
+    "id" : "4WQXRya5np83C21wifjNp9",
+    "name" : "In The Valley Below",
+    "type" : "artist",
+    "uri" : "spotify:artist:4WQXRya5np83C21wifjNp9"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 285613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMF5G1300001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0JsRZWdSquAQtgyJO8mhLA",
+  "id" : "0JsRZWdSquAQtgyJO8mhLA",
+  "name" : "Peaches",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1ec5a7729f3be7b6598ce994cb731a5e9ebfa7fa?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0JsRZWdSquAQtgyJO8mhLA"
+}

@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN",
+      "id" : "4PDpGtF16XpqvXxsrFwQnN",
+      "name" : "Thelonious Monk",
+      "type" : "artist",
+      "uri" : "spotify:artist:4PDpGtF16XpqvXxsrFwQnN"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/65aFkVkeMsn92X4ByOumM6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/65aFkVkeMsn92X4ByOumM6",
+    "id" : "65aFkVkeMsn92X4ByOumM6",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/3c765876279aa976e76e1683ae0eab05dfa64ab7",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/17e124298292c5f6ea65dea0768a060271f5c0fe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c803626c596ddf8bb96e43878c4145c96f11f56c",
+      "width" : 64
+    } ],
+    "name" : "San Francisco Holiday (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:65aFkVkeMsn92X4ByOumM6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ZUAe0H2nhsuuCOykSVsJ2",
+    "id" : "2ZUAe0H2nhsuuCOykSVsJ2",
+    "name" : "Thelonious Monk Quartet",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ZUAe0H2nhsuuCOykSVsJ2"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Rv9kyrIL61xK1ZtQ0rdrs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Rv9kyrIL61xK1ZtQ0rdrs",
+    "id" : "2Rv9kyrIL61xK1ZtQ0rdrs",
+    "name" : "Joe Gordon",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Rv9kyrIL61xK1ZtQ0rdrs"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1jcPgyzUoFrMSI5jloL3LD",
+    "id" : "1jcPgyzUoFrMSI5jloL3LD",
+    "name" : "Harold Land",
+    "type" : "artist",
+    "uri" : "spotify:artist:1jcPgyzUoFrMSI5jloL3LD"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 454293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI88600020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/46za5L10UbyLMpNRfAf0Vp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/46za5L10UbyLMpNRfAf0Vp",
+  "id" : "46za5L10UbyLMpNRfAf0Vp",
+  "name" : "Four In One - Live At The Blackhawk / Take 1",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/20a1021e550c60254bbc71c654a790e2370f1439?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:46za5L10UbyLMpNRfAf0Vp"
+}

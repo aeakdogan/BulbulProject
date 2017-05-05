@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Xl5hsislt88ijOD3EZsOY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Xl5hsislt88ijOD3EZsOY",
+      "id" : "1Xl5hsislt88ijOD3EZsOY",
+      "name" : "Samaris",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Xl5hsislt88ijOD3EZsOY"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1S4ct3BHoE8UZ2CShtUajh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1S4ct3BHoE8UZ2CShtUajh",
+    "id" : "1S4ct3BHoE8UZ2CShtUajh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2af82a6b14b151cab5ff7fa4d9a3f718e4014086",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/82a68fb77c21cbfc03cb3230e3139e944b75951c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a7f60a0d8f8126389a0705305951506326ffccee",
+      "width" : 64
+    } ],
+    "name" : "Silkidrangar",
+    "type" : "album",
+    "uri" : "spotify:album:1S4ct3BHoE8UZ2CShtUajh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Xl5hsislt88ijOD3EZsOY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Xl5hsislt88ijOD3EZsOY",
+    "id" : "1Xl5hsislt88ijOD3EZsOY",
+    "name" : "Samaris",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Xl5hsislt88ijOD3EZsOY"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 355373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBTF1300230"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3IsLk0Ed9Y0V0vLBd7Uhoo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3IsLk0Ed9Y0V0vLBd7Uhoo",
+  "id" : "3IsLk0Ed9Y0V0vLBd7Uhoo",
+  "name" : "Brennur Stjarna",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fa30bdc44f08a106ad0c736fea006c3a53ad24fe?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3IsLk0Ed9Y0V0vLBd7Uhoo"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo",
+      "id" : "01C9OoXDvCKkGcf735Tcfo",
+      "name" : "Serge Gainsbourg",
+      "type" : "artist",
+      "uri" : "spotify:artist:01C9OoXDvCKkGcf735Tcfo"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/60Ayl1qqEGtZPTEfJHzTtU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/60Ayl1qqEGtZPTEfJHzTtU",
+    "id" : "60Ayl1qqEGtZPTEfJHzTtU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c62117483fbd5c21be3d92b054016be46f0d0737",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0ea90d209b2276d822630bc6bf1b00b39f2e5a7e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e7a9e1f3c9be4e5e15b3bb6070deb4524ad104fd",
+      "width" : 64
+    } ],
+    "name" : "Intégrale",
+    "type" : "album",
+    "uri" : "spotify:album:60Ayl1qqEGtZPTEfJHzTtU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo",
+    "id" : "01C9OoXDvCKkGcf735Tcfo",
+    "name" : "Serge Gainsbourg",
+    "type" : "artist",
+    "uri" : "spotify:artist:01C9OoXDvCKkGcf735Tcfo"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 19,
+  "duration_ms" : 158066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ035904110"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4aSRTSHtEqEKw1UUKvNKok"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4aSRTSHtEqEKw1UUKvNKok",
+  "id" : "4aSRTSHtEqEKw1UUKvNKok",
+  "name" : "L'eau à la bouche - BOF \"L'eau à la bouche\"",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8c63d306b224bbb3fac8f975dc2e034518b71ea7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4aSRTSHtEqEKw1UUKvNKok"
+}

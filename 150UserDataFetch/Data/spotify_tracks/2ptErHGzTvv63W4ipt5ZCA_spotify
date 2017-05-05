@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PrFCybHMqrcPls31JxoIl",
+      "id" : "3PrFCybHMqrcPls31JxoIl",
+      "name" : "Johnny Burnette",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PrFCybHMqrcPls31JxoIl"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5EEZg4wJpSRVqRi1nxwKL6",
+    "id" : "5EEZg4wJpSRVqRi1nxwKL6",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/3a9000b367efd142aedbc09186158c5aa5831f37",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/abeb459863979dd9a0b64c4370c412a45803056c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/00400546045e3e72cfafbaaac8bb6d0cd7365765",
+      "width" : 64
+    } ],
+    "name" : "Tear It Up: The Complete Legedary Coral Recordings",
+    "type" : "album",
+    "uri" : "spotify:album:5EEZg4wJpSRVqRi1nxwKL6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1neKWNZP74NEuvHZmvMS58",
+    "id" : "1neKWNZP74NEuvHZmvMS58",
+    "name" : "Johnny Burnette & The Rock 'N' Roll Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:1neKWNZP74NEuvHZmvMS58"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 113733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC10400124"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ptErHGzTvv63W4ipt5ZCA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ptErHGzTvv63W4ipt5ZCA",
+  "id" : "2ptErHGzTvv63W4ipt5ZCA",
+  "name" : "Tear It Up - Single Version",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/21a80c14d0c7d088ea88ca51151e1d2966cb3230?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2ptErHGzTvv63W4ipt5ZCA"
+}

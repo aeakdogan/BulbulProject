@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ZpOIHGVsM7vMZqPt4i214",
+      "id" : "0ZpOIHGVsM7vMZqPt4i214",
+      "name" : "Alan Parker",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ZpOIHGVsM7vMZqPt4i214"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/18ouJo7j7egCFOsRdCTcUk",
+      "id" : "18ouJo7j7egCFOsRdCTcUk",
+      "name" : "John Cameron",
+      "type" : "artist",
+      "uri" : "spotify:artist:18ouJo7j7egCFOsRdCTcUk"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "SE", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1oaIAT0YOEDxCskk6Jo4FR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1oaIAT0YOEDxCskk6Jo4FR",
+    "id" : "1oaIAT0YOEDxCskk6Jo4FR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6f8253330128faebac2d517e5c5088cf1a64b547",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d535b0e04f67a642dc6f4fdb4d2dfadc034d890d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e96d3afbf1ab9d4e32a29f367eb6f01e31a94b62",
+      "width" : 64
+    } ],
+    "name" : "Kpm 1000 Series: Afro Rock",
+    "type" : "album",
+    "uri" : "spotify:album:1oaIAT0YOEDxCskk6Jo4FR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ZpOIHGVsM7vMZqPt4i214",
+    "id" : "0ZpOIHGVsM7vMZqPt4i214",
+    "name" : "Alan Parker",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ZpOIHGVsM7vMZqPt4i214"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "SE", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 219506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBGL7300189"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3TVCRew1zSDQedfHJB030l"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3TVCRew1zSDQedfHJB030l",
+  "id" : "3TVCRew1zSDQedfHJB030l",
+  "name" : "Frozen Steam",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c8fd0370297081438da4625522c0d30e6edf3a7a?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3TVCRew1zSDQedfHJB030l"
+}

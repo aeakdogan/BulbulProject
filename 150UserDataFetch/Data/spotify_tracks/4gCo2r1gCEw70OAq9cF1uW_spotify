@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ihCM8I0fpWodgjo0mTlhZ",
+      "id" : "4ihCM8I0fpWodgjo0mTlhZ",
+      "name" : "Malcolm McLaren",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ihCM8I0fpWodgjo0mTlhZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6S4f7yDtJlS0iQMEuCtIF0",
+    "id" : "6S4f7yDtJlS0iQMEuCtIF0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8df0ed10d82109d69cb58e918a9e5ebafd1f501d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a35d77e6af77efea4cf78ea333ca69f547f46550",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0fadfcd8c3241e4179c92f36389af93630552bc6",
+      "width" : 64
+    } ],
+    "name" : "Duck Rock",
+    "type" : "album",
+    "uri" : "spotify:album:6S4f7yDtJlS0iQMEuCtIF0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4ihCM8I0fpWodgjo0mTlhZ",
+    "id" : "4ihCM8I0fpWodgjo0mTlhZ",
+    "name" : "Malcolm McLaren",
+    "type" : "artist",
+    "uri" : "spotify:artist:4ihCM8I0fpWodgjo0mTlhZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 259426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA8300092"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4gCo2r1gCEw70OAq9cF1uW",
+  "id" : "4gCo2r1gCEw70OAq9cF1uW",
+  "name" : "Buffalo Gals",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e87f100c8651aa2ba0e1bb710687e7445d4ab785?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4gCo2r1gCEw70OAq9cF1uW"
+}

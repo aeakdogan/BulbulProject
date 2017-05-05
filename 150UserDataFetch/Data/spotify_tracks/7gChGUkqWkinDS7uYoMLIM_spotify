@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3btzEQD6sugImIHPMRgkwV",
+      "id" : "3btzEQD6sugImIHPMRgkwV",
+      "name" : "Wolf Alice",
+      "type" : "artist",
+      "uri" : "spotify:artist:3btzEQD6sugImIHPMRgkwV"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6bRsXeFIUgPfYLZNprki2h",
+    "id" : "6bRsXeFIUgPfYLZNprki2h",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a1c4628d57b4a7176876000e6335efb4d0a13d1a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/629b20dd3b13d2532e257ec3f63fe8a9198c6a90",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f904300cae17c31e9805344fd2caeb10be222006",
+      "width" : 64
+    } ],
+    "name" : "My Love Is Cool",
+    "type" : "album",
+    "uri" : "spotify:album:6bRsXeFIUgPfYLZNprki2h"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3btzEQD6sugImIHPMRgkwV",
+    "id" : "3btzEQD6sugImIHPMRgkwV",
+    "name" : "Wolf Alice",
+    "type" : "artist",
+    "uri" : "spotify:artist:3btzEQD6sugImIHPMRgkwV"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 162386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBK3W1000272"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7gChGUkqWkinDS7uYoMLIM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7gChGUkqWkinDS7uYoMLIM",
+  "id" : "7gChGUkqWkinDS7uYoMLIM",
+  "name" : "Moaning Lisa Smile",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2934b414bb79aacfe381aa552d00d87e6effb2f9?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7gChGUkqWkinDS7uYoMLIM"
+}

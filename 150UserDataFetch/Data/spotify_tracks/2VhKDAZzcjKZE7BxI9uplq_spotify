@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3aKCo8gLJfuPYtr88aWKjF",
+      "id" : "3aKCo8gLJfuPYtr88aWKjF",
+      "name" : "Télépopmusik",
+      "type" : "artist",
+      "uri" : "spotify:artist:3aKCo8gLJfuPYtr88aWKjF"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0QRBFhynQThRdIc6qPzmA2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0QRBFhynQThRdIc6qPzmA2",
+    "id" : "0QRBFhynQThRdIc6qPzmA2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e714857f882056434f772bf46d867be125070774",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3fcf15f2717d431fd1b9ee3a8cd1b195f9884989",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1afa7658d5e86491b3d5a70ab0656b54724f3132",
+      "width" : 64
+    } ],
+    "name" : "Genetic World",
+    "type" : "album",
+    "uri" : "spotify:album:0QRBFhynQThRdIc6qPzmA2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3aKCo8gLJfuPYtr88aWKjF",
+    "id" : "3aKCo8gLJfuPYtr88aWKjF",
+    "name" : "Télépopmusik",
+    "type" : "artist",
+    "uri" : "spotify:artist:3aKCo8gLJfuPYtr88aWKjF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 296226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR06S0100640"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2VhKDAZzcjKZE7BxI9uplq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2VhKDAZzcjKZE7BxI9uplq",
+  "id" : "2VhKDAZzcjKZE7BxI9uplq",
+  "name" : "Breathe",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/396097a73fa7d204fa3f147863eec4a93d53750c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2VhKDAZzcjKZE7BxI9uplq"
+}

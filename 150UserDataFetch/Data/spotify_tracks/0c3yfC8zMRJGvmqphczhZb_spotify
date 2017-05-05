@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AQRLZ9PuTAozP28Skbq8V",
+      "id" : "3AQRLZ9PuTAozP28Skbq8V",
+      "name" : "The Script",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AQRLZ9PuTAozP28Skbq8V"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2oc73A20I1FTQiWGCkLeVP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2oc73A20I1FTQiWGCkLeVP",
+    "id" : "2oc73A20I1FTQiWGCkLeVP",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/63f85d60c8a432271a73a7e258b4b7a3dd1a4b66",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/33b7c47acafdee74b2dc4314bd06e65d0a810b41",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/3e0b7e2eff5c8d8403c24a2bfebe52906db70a35",
+      "width" : 64
+    } ],
+    "name" : "Science & Faith",
+    "type" : "album",
+    "uri" : "spotify:album:2oc73A20I1FTQiWGCkLeVP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3AQRLZ9PuTAozP28Skbq8V",
+    "id" : "3AQRLZ9PuTAozP28Skbq8V",
+    "name" : "The Script",
+    "type" : "artist",
+    "uri" : "spotify:artist:3AQRLZ9PuTAozP28Skbq8V"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 272213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL1000955"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0c3yfC8zMRJGvmqphczhZb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0c3yfC8zMRJGvmqphczhZb",
+  "id" : "0c3yfC8zMRJGvmqphczhZb",
+  "name" : "Nothing",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3aa4892f9db91e08c679e7742ca0424e7872afec?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0c3yfC8zMRJGvmqphczhZb"
+}

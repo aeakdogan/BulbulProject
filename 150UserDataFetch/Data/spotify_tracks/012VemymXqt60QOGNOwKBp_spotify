@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16GcWuvvybAoaHr0NqT8Eh",
+      "id" : "16GcWuvvybAoaHr0NqT8Eh",
+      "name" : "Alabama Shakes",
+      "type" : "artist",
+      "uri" : "spotify:artist:16GcWuvvybAoaHr0NqT8Eh"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6EoJL3ty0FyE7XmLpAX2sj",
+    "id" : "6EoJL3ty0FyE7XmLpAX2sj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c25c00b1924f3cc303377224a8a22aa46e7bfadc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8608917000ee2db96a1c905e6167cb180ab8fabf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c63e6b1f7dcd946cf30d0046c6e1e087a2c66021",
+      "width" : 64
+    } ],
+    "name" : "Boys & Girls",
+    "type" : "album",
+    "uri" : "spotify:album:6EoJL3ty0FyE7XmLpAX2sj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/16GcWuvvybAoaHr0NqT8Eh",
+    "id" : "16GcWuvvybAoaHr0NqT8Eh",
+    "name" : "Alabama Shakes",
+    "type" : "artist",
+    "uri" : "spotify:artist:16GcWuvvybAoaHr0NqT8Eh"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 188613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USATO1200020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/012VemymXqt60QOGNOwKBp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/012VemymXqt60QOGNOwKBp",
+  "id" : "012VemymXqt60QOGNOwKBp",
+  "name" : "Rise To The Sun",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d6b3fc5ded0f08eec9c9e2fee9ebf0defedee8df?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:012VemymXqt60QOGNOwKBp"
+}

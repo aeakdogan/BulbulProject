@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2sgikskblKZFbDpsYO9anB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2sgikskblKZFbDpsYO9anB",
+      "id" : "2sgikskblKZFbDpsYO9anB",
+      "name" : "Milk Inc.",
+      "type" : "artist",
+      "uri" : "spotify:artist:2sgikskblKZFbDpsYO9anB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5xhANFKELDTbpvKRKMX2ND"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5xhANFKELDTbpvKRKMX2ND",
+    "id" : "5xhANFKELDTbpvKRKMX2ND",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e5430c4f6d88d1d3fef2dca5ae4df68c12656be9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/437fb31adde8a484b308ac8e903e34d667c09ee1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d587d0c2362c625115f5539aac6f3d856a7311c0",
+      "width" : 64
+    } ],
+    "name" : "Closer",
+    "type" : "album",
+    "uri" : "spotify:album:5xhANFKELDTbpvKRKMX2ND"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2sgikskblKZFbDpsYO9anB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2sgikskblKZFbDpsYO9anB",
+    "id" : "2sgikskblKZFbDpsYO9anB",
+    "name" : "Milk Inc.",
+    "type" : "artist",
+    "uri" : "spotify:artist:2sgikskblKZFbDpsYO9anB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 232226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US89R1111044"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4J45Rt85uxOVjqqm0mgqRD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4J45Rt85uxOVjqqm0mgqRD",
+  "id" : "4J45Rt85uxOVjqqm0mgqRD",
+  "name" : "Wide Awake",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ead2f606c6e5c9ef5622a174ed6641a82a5bcbcb?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:4J45Rt85uxOVjqqm0mgqRD"
+}

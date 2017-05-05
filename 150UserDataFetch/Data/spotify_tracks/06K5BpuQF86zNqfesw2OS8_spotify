@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dl51M7nncD54Gf5jW3skg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dl51M7nncD54Gf5jW3skg",
+      "id" : "4dl51M7nncD54Gf5jW3skg",
+      "name" : "Caged Animals",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dl51M7nncD54Gf5jW3skg"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5SE65BcWo6vw8q9dkO51Mm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5SE65BcWo6vw8q9dkO51Mm",
+    "id" : "5SE65BcWo6vw8q9dkO51Mm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5a84e867f239a08d30ce19679cd147f9f2b0eff7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4ba5cac64f5f8eab0169f5dd6537099756d6371a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b0b407a1216ed8c2dcdc6fef90b78d2c181f9d62",
+      "width" : 64
+    } ],
+    "name" : "Girls on Medication",
+    "type" : "album",
+    "uri" : "spotify:album:5SE65BcWo6vw8q9dkO51Mm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4dl51M7nncD54Gf5jW3skg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4dl51M7nncD54Gf5jW3skg",
+    "id" : "4dl51M7nncD54Gf5jW3skg",
+    "name" : "Caged Animals",
+    "type" : "artist",
+    "uri" : "spotify:artist:4dl51M7nncD54Gf5jW3skg"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 161546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBJET1100015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/06K5BpuQF86zNqfesw2OS8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/06K5BpuQF86zNqfesw2OS8",
+  "id" : "06K5BpuQF86zNqfesw2OS8",
+  "name" : "Girls on Medication",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3d3583069d57701caa16caae5d463e8caa77d8fa?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:06K5BpuQF86zNqfesw2OS8"
+}

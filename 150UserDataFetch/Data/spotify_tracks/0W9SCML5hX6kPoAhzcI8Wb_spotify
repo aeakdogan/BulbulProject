@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1qvYgywpWubEqaAKoKnaEg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1qvYgywpWubEqaAKoKnaEg",
+      "id" : "1qvYgywpWubEqaAKoKnaEg",
+      "name" : "Costanza",
+      "type" : "artist",
+      "uri" : "spotify:artist:1qvYgywpWubEqaAKoKnaEg"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1a7InTLs4n76TvNoxABBeu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1a7InTLs4n76TvNoxABBeu",
+    "id" : "1a7InTLs4n76TvNoxABBeu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/41f7b6db133925c3673053de354aab5e60642206",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8eb0304a5195b6280e589d62f17274ecedd4adcc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/79dfb188449f3d66dc73a3869b53dc8b6c38badb",
+      "width" : 64
+    } ],
+    "name" : "Sonic Diary",
+    "type" : "album",
+    "uri" : "spotify:album:1a7InTLs4n76TvNoxABBeu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1qvYgywpWubEqaAKoKnaEg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1qvYgywpWubEqaAKoKnaEg",
+    "id" : "1qvYgywpWubEqaAKoKnaEg",
+    "name" : "Costanza",
+    "type" : "artist",
+    "uri" : "spotify:artist:1qvYgywpWubEqaAKoKnaEg"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 274120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm80568510"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0W9SCML5hX6kPoAhzcI8Wb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0W9SCML5hX6kPoAhzcI8Wb",
+  "id" : "0W9SCML5hX6kPoAhzcI8Wb",
+  "name" : "I've Been Waiting For You",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5c7dc4900e599fd2e6038cbf6aaf3912998a8b78?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0W9SCML5hX6kPoAhzcI8Wb"
+}

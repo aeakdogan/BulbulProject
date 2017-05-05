@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+      "id" : "33EUXrFKGjpUSGacqEHhU4",
+      "name" : "Iggy Pop",
+      "type" : "artist",
+      "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7vCU9jvSESwQNQr6SB9JyS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7vCU9jvSESwQNQr6SB9JyS",
+    "id" : "7vCU9jvSESwQNQr6SB9JyS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e42c18473c6c44c7610e6dbf32be18ff890f6a6b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ca6890e86aa47e590bb79372fe4ce7980f3547a2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c3edfecacde41e4c1a9642c5a82fe8de03d83b1b",
+      "width" : 64
+    } ],
+    "name" : "The Idiot",
+    "type" : "album",
+    "uri" : "spotify:album:7vCU9jvSESwQNQr6SB9JyS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+    "id" : "33EUXrFKGjpUSGacqEHhU4",
+    "name" : "Iggy Pop",
+    "type" : "artist",
+    "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 308466,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTM39000007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2VjAbwQfeuVfN2mp9YQiuv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2VjAbwQfeuVfN2mp9YQiuv",
+  "id" : "2VjAbwQfeuVfN2mp9YQiuv",
+  "name" : "China Girl",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fa6c0448e7b3231d3d831ce804c210100c034d4f?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2VjAbwQfeuVfN2mp9YQiuv"
+}

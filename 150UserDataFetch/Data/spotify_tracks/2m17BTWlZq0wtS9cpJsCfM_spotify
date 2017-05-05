@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Gzfk9Lxm67nBs7E9BZjzG",
+      "id" : "4Gzfk9Lxm67nBs7E9BZjzG",
+      "name" : "Gin Wigmore",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Gzfk9Lxm67nBs7E9BZjzG"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2HtT4gawEGgOvAPUO7tiU2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2HtT4gawEGgOvAPUO7tiU2",
+    "id" : "2HtT4gawEGgOvAPUO7tiU2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d4eea17e894eab07664cdb7865d0ab68187555d4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5182812ed09627a54dfd43f827279b068d320360",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa31e34113062f4016549a21bc41d9910ad4b8df",
+      "width" : 64
+    } ],
+    "name" : "Gravel & Wine",
+    "type" : "album",
+    "uri" : "spotify:album:2HtT4gawEGgOvAPUO7tiU2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4Gzfk9Lxm67nBs7E9BZjzG",
+    "id" : "4Gzfk9Lxm67nBs7E9BZjzG",
+    "name" : "Gin Wigmore",
+    "type" : "artist",
+    "uri" : "spotify:artist:4Gzfk9Lxm67nBs7E9BZjzG"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 205320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUUM71101239"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2m17BTWlZq0wtS9cpJsCfM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2m17BTWlZq0wtS9cpJsCfM",
+  "id" : "2m17BTWlZq0wtS9cpJsCfM",
+  "name" : "Kill Of The Night",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/15c06d4555257c1f68b51fc56a7ebb109858f843?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2m17BTWlZq0wtS9cpJsCfM"
+}

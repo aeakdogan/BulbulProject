@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+      "id" : "6hhA8TKRNryM8FNzqCqdDO",
+      "name" : "Tricky",
+      "type" : "artist",
+      "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3YlMWC8NT1Uo2O9OlBPU0J"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3YlMWC8NT1Uo2O9OlBPU0J",
+    "id" : "3YlMWC8NT1Uo2O9OlBPU0J",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a3a198b957db5b4ce86118fdae270d8a076aed76",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6cb98ad68072586ea95fc1fc74932981a958b43a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/feb3be48a5b9b4aa899de5a534eb3fd69a0f8f06",
+      "width" : 64
+    } ],
+    "name" : "Vulnerable",
+    "type" : "album",
+    "uri" : "spotify:album:3YlMWC8NT1Uo2O9OlBPU0J"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+    "id" : "6hhA8TKRNryM8FNzqCqdDO",
+    "name" : "Tricky",
+    "type" : "artist",
+    "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 172386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJE0300260"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1B3W6LiFI5q2lUwsB0bob3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1B3W6LiFI5q2lUwsB0bob3",
+  "id" : "1B3W6LiFI5q2lUwsB0bob3",
+  "name" : "The Love Cats",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9c2444f47e882bc0e2f16198da9cb6e2ec44e1e0?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:1B3W6LiFI5q2lUwsB0bob3"
+}

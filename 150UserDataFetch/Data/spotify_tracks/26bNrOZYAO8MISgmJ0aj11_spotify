@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3vMWY1bUrmYoSoEWLiQWOZ",
+      "id" : "3vMWY1bUrmYoSoEWLiQWOZ",
+      "name" : "Glenn Frey",
+      "type" : "artist",
+      "uri" : "spotify:artist:3vMWY1bUrmYoSoEWLiQWOZ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1YHw7JrXxh3pt6NBVEOuof"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1YHw7JrXxh3pt6NBVEOuof",
+    "id" : "1YHw7JrXxh3pt6NBVEOuof",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8e300199439fbeeafc86d833c301d52f223edb29",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ffb745b92ebbf354ea4967c8471e5b874333ffd3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/80434d762050132bff55b5be2f9a5c798c2d8afb",
+      "width" : 64
+    } ],
+    "name" : "Solo Collection",
+    "type" : "album",
+    "uri" : "spotify:album:1YHw7JrXxh3pt6NBVEOuof"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3vMWY1bUrmYoSoEWLiQWOZ",
+    "id" : "3vMWY1bUrmYoSoEWLiQWOZ",
+    "name" : "Glenn Frey",
+    "type" : "artist",
+    "uri" : "spotify:artist:3vMWY1bUrmYoSoEWLiQWOZ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 352933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC18318513"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/26bNrOZYAO8MISgmJ0aj11"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/26bNrOZYAO8MISgmJ0aj11",
+  "id" : "26bNrOZYAO8MISgmJ0aj11",
+  "name" : "You Belong To The City",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5bfb1d4c2f6bfbce42e7dafc460e6c756a2656fc?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:26bNrOZYAO8MISgmJ0aj11"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0PFM64sKw3GG4Sk8kqNIcp",
+      "id" : "0PFM64sKw3GG4Sk8kqNIcp",
+      "name" : "Until The Ribbon Breaks",
+      "type" : "artist",
+      "uri" : "spotify:artist:0PFM64sKw3GG4Sk8kqNIcp"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2nFo0oLv5o3esATAfPwf1V"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2nFo0oLv5o3esATAfPwf1V",
+    "id" : "2nFo0oLv5o3esATAfPwf1V",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e541c55c7cfd2faa9d7cbebbbc099a1b551de126",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/de63279947115bf34c79feffc496b966ed3ac7c6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/be50a772a22c83a4234799bbf04e1d4a52a29157",
+      "width" : 64
+    } ],
+    "name" : "A Lesson Unlearnt",
+    "type" : "album",
+    "uri" : "spotify:album:2nFo0oLv5o3esATAfPwf1V"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0PFM64sKw3GG4Sk8kqNIcp",
+    "id" : "0PFM64sKw3GG4Sk8kqNIcp",
+    "name" : "Until The Ribbon Breaks",
+    "type" : "artist",
+    "uri" : "spotify:artist:0PFM64sKw3GG4Sk8kqNIcp"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 182280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB2ME1401155"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3HGaAiNXw4Yoq2KlIhfsbo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3HGaAiNXw4Yoq2KlIhfsbo",
+  "id" : "3HGaAiNXw4Yoq2KlIhfsbo",
+  "name" : "A Taste of Silver",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e3f100d717620600a10c7eea60a46acc0d0a81d7?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3HGaAiNXw4Yoq2KlIhfsbo"
+}

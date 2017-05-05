@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7k5jeohQCF20a8foBD9ize",
+      "id" : "7k5jeohQCF20a8foBD9ize",
+      "name" : "Battle Beast",
+      "type" : "artist",
+      "uri" : "spotify:artist:7k5jeohQCF20a8foBD9ize"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4RazTb4uHXIxm2AehPvf7t"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4RazTb4uHXIxm2AehPvf7t",
+    "id" : "4RazTb4uHXIxm2AehPvf7t",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e198410cde899de16b347d9dd4ddca97a1af3918",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f7f9972116de914585cf152d8b5cf936b281de58",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d7573eaabfa5acc6627488b7220e24d4f5c61976",
+      "width" : 64
+    } ],
+    "name" : "Unholy Savior",
+    "type" : "album",
+    "uri" : "spotify:album:4RazTb4uHXIxm2AehPvf7t"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7k5jeohQCF20a8foBD9ize",
+    "id" : "7k5jeohQCF20a8foBD9ize",
+    "name" : "Battle Beast",
+    "type" : "artist",
+    "uri" : "spotify:artist:7k5jeohQCF20a8foBD9ize"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 241560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DED831401000"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7yiRPCfVyCiIHqMksX0yNY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7yiRPCfVyCiIHqMksX0yNY",
+  "id" : "7yiRPCfVyCiIHqMksX0yNY",
+  "name" : "Madness",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8b83a9a28600774939b2272a2105711bb568990b?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7yiRPCfVyCiIHqMksX0yNY"
+}

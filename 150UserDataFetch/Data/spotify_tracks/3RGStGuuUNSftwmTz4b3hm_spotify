@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/42TFhl7WlMRXiNqzSrnzPL",
+      "id" : "42TFhl7WlMRXiNqzSrnzPL",
+      "name" : "Lou Reed",
+      "type" : "artist",
+      "uri" : "spotify:artist:42TFhl7WlMRXiNqzSrnzPL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2DJSpVVE6HxQZMbEd4N90o"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2DJSpVVE6HxQZMbEd4N90o",
+    "id" : "2DJSpVVE6HxQZMbEd4N90o",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9ee36d925d96bae3be69f7500282afdbf35c27b7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f3bf8fa359571663c28726815ba7b6947f490c7c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2d8b71cddd537ffcb5fe84c898a7bad8b3e9443c",
+      "width" : 64
+    } ],
+    "name" : "Ecstasy (U.S. Version)",
+    "type" : "album",
+    "uri" : "spotify:album:2DJSpVVE6HxQZMbEd4N90o"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/42TFhl7WlMRXiNqzSrnzPL",
+    "id" : "42TFhl7WlMRXiNqzSrnzPL",
+    "name" : "Lou Reed",
+    "type" : "artist",
+    "uri" : "spotify:artist:42TFhl7WlMRXiNqzSrnzPL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 265200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE19901414"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3RGStGuuUNSftwmTz4b3hm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3RGStGuuUNSftwmTz4b3hm",
+  "id" : "3RGStGuuUNSftwmTz4b3hm",
+  "name" : "Ecstasy",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/31579aa12d7f32ead50e6c0c067cada3f17b5d10?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3RGStGuuUNSftwmTz4b3hm"
+}

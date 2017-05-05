@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4yvcSjfu4PC0CYQyLy4wSq",
+      "id" : "4yvcSjfu4PC0CYQyLy4wSq",
+      "name" : "Glass Animals",
+      "type" : "artist",
+      "uri" : "spotify:artist:4yvcSjfu4PC0CYQyLy4wSq"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/14IOe7ahxQPTwUYUQX3IFi",
+    "id" : "14IOe7ahxQPTwUYUQX3IFi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/79e69b2cedc5e7fe26d08d040af8981ed107d19a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a9f4e3d6ce6654f66d96f690a2aebe421fd13989",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4058237c889fb91aed9a34a671000c3bba1139a9",
+      "width" : 64
+    } ],
+    "name" : "ZABA",
+    "type" : "album",
+    "uri" : "spotify:album:14IOe7ahxQPTwUYUQX3IFi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4yvcSjfu4PC0CYQyLy4wSq",
+    "id" : "4yvcSjfu4PC0CYQyLy4wSq",
+    "name" : "Glass Animals",
+    "type" : "artist",
+    "uri" : "spotify:artist:4yvcSjfu4PC0CYQyLy4wSq"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 254640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB2DY1400014"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/754wVXWrtf1X3ZHQOFFsnR",
+  "id" : "754wVXWrtf1X3ZHQOFFsnR",
+  "name" : "Toes",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bc08167bee1cd9089eb69839f690f9745f4c1494?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:754wVXWrtf1X3ZHQOFFsnR"
+}

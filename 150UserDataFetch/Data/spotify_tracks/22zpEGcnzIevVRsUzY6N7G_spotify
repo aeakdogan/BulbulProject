@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5kmPPWY9z07hGJSZgdvfiJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5kmPPWY9z07hGJSZgdvfiJ",
+    "id" : "5kmPPWY9z07hGJSZgdvfiJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bfe126bf8e57cd1821f9cc50b2b1ac98ec18865c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/77f86ea460b283e7fcd582fa7f95a1530475f7aa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e86f9e164726ba2765ba8533ec2c4aeadbb61339",
+      "width" : 64
+    } ],
+    "name" : "Nip/Tuck Original Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:5kmPPWY9z07hGJSZgdvfiJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/715aftFykfb77AGFFs9WDj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/715aftFykfb77AGFFs9WDj",
+    "id" : "715aftFykfb77AGFFs9WDj",
+    "name" : "Erin McKeown",
+    "type" : "artist",
+    "uri" : "spotify:artist:715aftFykfb77AGFFs9WDj"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 350826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN110300255"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/22zpEGcnzIevVRsUzY6N7G"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/22zpEGcnzIevVRsUzY6N7G",
+  "id" : "22zpEGcnzIevVRsUzY6N7G",
+  "name" : "Cosmopolitans - Tri-Factor Remix",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/61d9eb7b0ea217f7755a95fce8a353b78555cd24?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:22zpEGcnzIevVRsUzY6N7G"
+}

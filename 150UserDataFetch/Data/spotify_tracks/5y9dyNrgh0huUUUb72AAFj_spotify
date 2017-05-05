@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2mDTMvLaTwg1gGGPprJbsC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2mDTMvLaTwg1gGGPprJbsC",
+      "id" : "2mDTMvLaTwg1gGGPprJbsC",
+      "name" : "Mark Sia",
+      "type" : "artist",
+      "uri" : "spotify:artist:2mDTMvLaTwg1gGGPprJbsC"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3cBnF2YS25htQmbLRFq4x0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3cBnF2YS25htQmbLRFq4x0",
+    "id" : "3cBnF2YS25htQmbLRFq4x0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9bb3ae10291d8bff22c80b1b1bda04ff373383ed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1f20455e80daa0e491255f3031499460c54b7e5f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/78ed9b4a02c834b1db212e9eacf2113a1edb8633",
+      "width" : 64
+    } ],
+    "name" : "Abstract",
+    "type" : "album",
+    "uri" : "spotify:album:3cBnF2YS25htQmbLRFq4x0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2mDTMvLaTwg1gGGPprJbsC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2mDTMvLaTwg1gGGPprJbsC",
+    "id" : "2mDTMvLaTwg1gGGPprJbsC",
+    "name" : "Mark Sia",
+    "type" : "artist",
+    "uri" : "spotify:artist:2mDTMvLaTwg1gGGPprJbsC"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 223634,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V80771179"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5y9dyNrgh0huUUUb72AAFj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5y9dyNrgh0huUUUb72AAFj",
+  "id" : "5y9dyNrgh0huUUUb72AAFj",
+  "name" : "My Love Is So Raw",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/19eefb1bfe6dd59de79617485f4d04009d738f52?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5y9dyNrgh0huUUUb72AAFj"
+}

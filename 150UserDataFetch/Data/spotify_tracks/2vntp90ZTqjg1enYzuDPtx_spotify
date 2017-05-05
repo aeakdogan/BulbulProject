@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2uYZJqMXH5Q6xvPU6BPySL",
+      "id" : "2uYZJqMXH5Q6xvPU6BPySL",
+      "name" : "Willy Mason",
+      "type" : "artist",
+      "uri" : "spotify:artist:2uYZJqMXH5Q6xvPU6BPySL"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6qfPQOjYzBdLHsyyQL31ru"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6qfPQOjYzBdLHsyyQL31ru",
+    "id" : "6qfPQOjYzBdLHsyyQL31ru",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a8d50d78e738c39f01be9e7c552d8a45d75bf06f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4b1320ae02f5de5c616e1089d40135d724f83202",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3aa2f1f3889ad3bd0ec89e1d246f93b0e2c93129",
+      "width" : 64
+    } ],
+    "name" : "Carry On",
+    "type" : "album",
+    "uri" : "spotify:album:6qfPQOjYzBdLHsyyQL31ru"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2uYZJqMXH5Q6xvPU6BPySL",
+    "id" : "2uYZJqMXH5Q6xvPU6BPySL",
+    "name" : "Willy Mason",
+    "type" : "artist",
+    "uri" : "spotify:artist:2uYZJqMXH5Q6xvPU6BPySL"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 121426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71206663"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2vntp90ZTqjg1enYzuDPtx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2vntp90ZTqjg1enYzuDPtx",
+  "id" : "2vntp90ZTqjg1enYzuDPtx",
+  "name" : "Show Me The Way To Go Home",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/29c50df5727078ec0699200b33415879c2e9337e?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2vntp90ZTqjg1enYzuDPtx"
+}

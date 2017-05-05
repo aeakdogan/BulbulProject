@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+      "id" : "34UhPkLbtFKRq3nmfFgejG",
+      "name" : "Mogwai",
+      "type" : "artist",
+      "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1D9pioUjU9m7HpivqXOvTN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1D9pioUjU9m7HpivqXOvTN",
+    "id" : "1D9pioUjU9m7HpivqXOvTN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/119fcda665b6edad6a70549e21789859db96bb7a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f5d8b9356bb2fb72ee463c861fb9d5dba98ac2b7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/60204c5cbcb4109e6336407ae7be381db2881375",
+      "width" : 64
+    } ],
+    "name" : "Earth Division",
+    "type" : "album",
+    "uri" : "spotify:album:1D9pioUjU9m7HpivqXOvTN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+    "id" : "34UhPkLbtFKRq3nmfFgejG",
+    "name" : "Mogwai",
+    "type" : "artist",
+    "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 233973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB1196602"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6hpG29bMjJpdiYRjEBuWgE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6hpG29bMjJpdiYRjEBuWgE",
+  "id" : "6hpG29bMjJpdiYRjEBuWgE",
+  "name" : "Hound Of Winter",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8bf7358cabbf61f466bf15202e97bda97187207f?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6hpG29bMjJpdiYRjEBuWgE"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6m30rs1IQqnWqV5nKMpU7U",
+      "id" : "6m30rs1IQqnWqV5nKMpU7U",
+      "name" : "Ohio Players",
+      "type" : "artist",
+      "uri" : "spotify:artist:6m30rs1IQqnWqV5nKMpU7U"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1m25JmN3RjlSfZv4dVIMl0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1m25JmN3RjlSfZv4dVIMl0",
+    "id" : "1m25JmN3RjlSfZv4dVIMl0",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/e8d8b340ef8d5ac71205bcbabef6226332b84531",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/e2ec9520c6e8bdf5c48be8ef03f9a6df0ff41e94",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/527fe3a06efd9e52156b3ee5ba0320a0146cf57d",
+      "width" : 63
+    } ],
+    "name" : "Skin Tight",
+    "type" : "album",
+    "uri" : "spotify:album:1m25JmN3RjlSfZv4dVIMl0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6m30rs1IQqnWqV5nKMpU7U",
+    "id" : "6m30rs1IQqnWqV5nKMpU7U",
+    "name" : "Ohio Players",
+    "type" : "artist",
+    "uri" : "spotify:artist:6m30rs1IQqnWqV5nKMpU7U"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 474266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR37400302"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5zOzLQX0cfWFVmMevcvYBD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5zOzLQX0cfWFVmMevcvYBD",
+  "id" : "5zOzLQX0cfWFVmMevcvYBD",
+  "name" : "Skin Tight",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1195594e3e136808c767f7af735756e75d75f875?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5zOzLQX0cfWFVmMevcvYBD"
+}

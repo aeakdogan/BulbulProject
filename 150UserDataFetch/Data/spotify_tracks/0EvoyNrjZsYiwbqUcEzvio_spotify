@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ",
+      "id" : "3iTsJGG39nMg9YiolUgLMQ",
+      "name" : "Morrissey",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iTsJGG39nMg9YiolUgLMQ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0s5wo4mTZ5bJAgqiPBO3ou",
+    "id" : "0s5wo4mTZ5bJAgqiPBO3ou",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/15f47869c7acca676f7584c83f86503262722cdb",
+      "width" : 635
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/075524e29fad6ab0e5e0ef6f805858db01fa12f3",
+      "width" : 298
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/35c53bbe7a24908b36cace24e8dfc5522d6741a4",
+      "width" : 64
+    } ],
+    "name" : "Viva Hate [Remastered]",
+    "type" : "album",
+    "uri" : "spotify:album:0s5wo4mTZ5bJAgqiPBO3ou"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ",
+    "id" : "3iTsJGG39nMg9YiolUgLMQ",
+    "name" : "Morrissey",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iTsJGG39nMg9YiolUgLMQ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 197546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE1100638"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0EvoyNrjZsYiwbqUcEzvio"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0EvoyNrjZsYiwbqUcEzvio",
+  "id" : "0EvoyNrjZsYiwbqUcEzvio",
+  "name" : "I Don't Mind If You Forget Me - 2011 Remastered Version",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3fca396e66df37eab18a4a9e7df942f33db21c84?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:0EvoyNrjZsYiwbqUcEzvio"
+}

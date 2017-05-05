@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5hAhrnb0Ch4ODwWu4tsbpi",
+      "id" : "5hAhrnb0Ch4ODwWu4tsbpi",
+      "name" : "Yo La Tengo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5hAhrnb0Ch4ODwWu4tsbpi"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1B0vzhEsnZAuwtsNXT59Cm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1B0vzhEsnZAuwtsNXT59Cm",
+    "id" : "1B0vzhEsnZAuwtsNXT59Cm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dd7009b1cd614a169dc063afd9bbe08a00e820fd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3084ab703b092ba4aba248d06050ef037ec0067a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e9f4f05d3b587b6579323eaeb91d9ba940bbfc5a",
+      "width" : 64
+    } ],
+    "name" : "Fakebook",
+    "type" : "album",
+    "uri" : "spotify:album:1B0vzhEsnZAuwtsNXT59Cm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5hAhrnb0Ch4ODwWu4tsbpi",
+    "id" : "5hAhrnb0Ch4ODwWu4tsbpi",
+    "name" : "Yo La Tengo",
+    "type" : "artist",
+    "uri" : "spotify:artist:5hAhrnb0Ch4ODwWu4tsbpi"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 104600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US37V9002005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7tLSAL0eNBllvuPM54tlPa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7tLSAL0eNBllvuPM54tlPa",
+  "id" : "7tLSAL0eNBllvuPM54tlPa",
+  "name" : "Yellow Sarong",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c8451b0f4aaffa5ec8181d6ff342f5911b0a1df9?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7tLSAL0eNBllvuPM54tlPa"
+}

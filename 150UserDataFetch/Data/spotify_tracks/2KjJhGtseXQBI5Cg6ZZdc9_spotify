@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0WbqAlM1WvfUD6dF7omThd",
+      "id" : "0WbqAlM1WvfUD6dF7omThd",
+      "name" : "Yelle",
+      "type" : "artist",
+      "uri" : "spotify:artist:0WbqAlM1WvfUD6dF7omThd"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2UiP7sGjSxl52QtlWAXYVy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2UiP7sGjSxl52QtlWAXYVy",
+    "id" : "2UiP7sGjSxl52QtlWAXYVy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5acca23be53a8fdc80e35ba1ea0fa1be78f0b115",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b9a458675bbe5fa425c318cbe00f8f147b269d0a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/afc9aaf837c6b6a4d4290fda3d6d92c742272368",
+      "width" : 64
+    } ],
+    "name" : "Pop Up",
+    "type" : "album",
+    "uri" : "spotify:album:2UiP7sGjSxl52QtlWAXYVy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0WbqAlM1WvfUD6dF7omThd",
+    "id" : "0WbqAlM1WvfUD6dF7omThd",
+    "name" : "Yelle",
+    "type" : "artist",
+    "uri" : "spotify:artist:0WbqAlM1WvfUD6dF7omThd"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 222600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ110701298"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2KjJhGtseXQBI5Cg6ZZdc9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2KjJhGtseXQBI5Cg6ZZdc9",
+  "id" : "2KjJhGtseXQBI5Cg6ZZdc9",
+  "name" : "Ce jeu",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c0df75d78e9e8f76c04b45c1fc3d8f335d7ec726?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2KjJhGtseXQBI5Cg6ZZdc9"
+}

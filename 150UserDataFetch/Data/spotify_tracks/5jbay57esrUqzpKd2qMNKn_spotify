@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+      "name" : "Metallica",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/73E6u02YIL3dK6UConUUv4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/73E6u02YIL3dK6UConUUv4",
+    "id" : "73E6u02YIL3dK6UConUUv4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c196efb3722883c17a098e258b2571839c3ab7ed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/39da9c9568cb7f9f8e249397f88720bfb708be4b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/356595e0dacc43b85b75e2bea60663e9cb26d2c8",
+      "width" : 64
+    } ],
+    "name" : "Reload",
+    "type" : "album",
+    "uri" : "spotify:album:73E6u02YIL3dK6UConUUv4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+    "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+    "name" : "Metallica",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 495226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEV19719685"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5jbay57esrUqzpKd2qMNKn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5jbay57esrUqzpKd2qMNKn",
+  "id" : "5jbay57esrUqzpKd2qMNKn",
+  "name" : "Fixxxer",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/20eab6507c5edfc1cc210aac9849bb049b27cdae?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:5jbay57esrUqzpKd2qMNKn"
+}

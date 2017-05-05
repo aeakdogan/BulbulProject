@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0FI0kxP0BWurTz8cB8BBug",
+      "id" : "0FI0kxP0BWurTz8cB8BBug",
+      "name" : "Mark Knopfler",
+      "type" : "artist",
+      "uri" : "spotify:artist:0FI0kxP0BWurTz8cB8BBug"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5s6TJEuHTr9GR894wc6VfP",
+      "id" : "5s6TJEuHTr9GR894wc6VfP",
+      "name" : "Emmylou Harris",
+      "type" : "artist",
+      "uri" : "spotify:artist:5s6TJEuHTr9GR894wc6VfP"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4N0XWHTZlhNvoHgO78vhJJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4N0XWHTZlhNvoHgO78vhJJ",
+    "id" : "4N0XWHTZlhNvoHgO78vhJJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a1b96448d3dd406b0f6368682bf09210d94a7002",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4a5120ab83b058e48bea956788ec8f5ec6cebb1e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/65db10c73c6dccd272264a19d5bd9721f75457e5",
+      "width" : 64
+    } ],
+    "name" : "All The RoadRunning",
+    "type" : "album",
+    "uri" : "spotify:album:4N0XWHTZlhNvoHgO78vhJJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0FI0kxP0BWurTz8cB8BBug",
+    "id" : "0FI0kxP0BWurTz8cB8BBug",
+    "name" : "Mark Knopfler",
+    "type" : "artist",
+    "uri" : "spotify:artist:0FI0kxP0BWurTz8cB8BBug"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5s6TJEuHTr9GR894wc6VfP",
+    "id" : "5s6TJEuHTr9GR894wc6VfP",
+    "name" : "Emmylou Harris",
+    "type" : "artist",
+    "uri" : "spotify:artist:5s6TJEuHTr9GR894wc6VfP"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 274480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70600464"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7r7Kq9RD8iKaEpptKkoYtA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7r7Kq9RD8iKaEpptKkoYtA",
+  "id" : "7r7Kq9RD8iKaEpptKkoYtA",
+  "name" : "This Is Us",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/07374f80a740448ccb898aed64691eab16dd1d64?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7r7Kq9RD8iKaEpptKkoYtA"
+}

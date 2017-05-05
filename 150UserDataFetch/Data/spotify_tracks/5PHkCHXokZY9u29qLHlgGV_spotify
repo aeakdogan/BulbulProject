@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ZWab2LEVkNKiBPIClTwof",
+      "id" : "3ZWab2LEVkNKiBPIClTwof",
+      "name" : "Townes Van Zandt",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZWab2LEVkNKiBPIClTwof"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/197FVfctDJPLLqTI48OJBs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/197FVfctDJPLLqTI48OJBs",
+    "id" : "197FVfctDJPLLqTI48OJBs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ca24e5bd7cd5662cd62fa61c07465e80417fd0f3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/568d5fbdd7b58501407003e85831339b0f505091",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/47301628058fbe144b8b9461665e90f24ad0f4ec",
+      "width" : 64
+    } ],
+    "name" : "For the Sake of the Song",
+    "type" : "album",
+    "uri" : "spotify:album:197FVfctDJPLLqTI48OJBs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3ZWab2LEVkNKiBPIClTwof",
+    "id" : "3ZWab2LEVkNKiBPIClTwof",
+    "name" : "Townes Van Zandt",
+    "type" : "artist",
+    "uri" : "spotify:artist:3ZWab2LEVkNKiBPIClTwof"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 145586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFP70708705"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5PHkCHXokZY9u29qLHlgGV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5PHkCHXokZY9u29qLHlgGV",
+  "id" : "5PHkCHXokZY9u29qLHlgGV",
+  "name" : "Waitin' Around to Die",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3a5ae1aac1f068043d5de7c25495f231b3b9dd60?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5PHkCHXokZY9u29qLHlgGV"
+}

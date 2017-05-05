@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2IYfNXFeQLyNhYaU1I0ZiI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2IYfNXFeQLyNhYaU1I0ZiI",
+      "id" : "2IYfNXFeQLyNhYaU1I0ZiI",
+      "name" : "Galahad",
+      "type" : "artist",
+      "uri" : "spotify:artist:2IYfNXFeQLyNhYaU1I0ZiI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1RxcAlEldzBVc057pZbXui"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1RxcAlEldzBVc057pZbXui",
+    "id" : "1RxcAlEldzBVc057pZbXui",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ca47d08fa623d266de193854657980e7b214a792",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/69fd5128a7554ce05bdd0c2050943552bcb5b3c2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e0fff3c7f400c59a7e02bfe44d5d96c1466b93e7",
+      "width" : 64
+    } ],
+    "name" : "Sleepers",
+    "type" : "album",
+    "uri" : "spotify:album:1RxcAlEldzBVc057pZbXui"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2IYfNXFeQLyNhYaU1I0ZiI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2IYfNXFeQLyNhYaU1I0ZiI",
+    "id" : "2IYfNXFeQLyNhYaU1I0ZiI",
+    "name" : "Galahad",
+    "type" : "artist",
+    "uri" : "spotify:artist:2IYfNXFeQLyNhYaU1I0ZiI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 281400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "usx9p0926475"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5sT0wBbKYsyZ9StTL4MKmu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5sT0wBbKYsyZ9StTL4MKmu",
+  "id" : "5sT0wBbKYsyZ9StTL4MKmu",
+  "name" : "Julie Anne",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/25ce4bdacfdde8cfefb6a72b24519a167183aa53?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5sT0wBbKYsyZ9StTL4MKmu"
+}

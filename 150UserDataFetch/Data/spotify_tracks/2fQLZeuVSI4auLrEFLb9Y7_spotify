@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1oJolWh3meHLWUcyIijst7",
+      "id" : "1oJolWh3meHLWUcyIijst7",
+      "name" : "Black Kids",
+      "type" : "artist",
+      "uri" : "spotify:artist:1oJolWh3meHLWUcyIijst7"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4bWa4HwoyMWq5E25TKewbt",
+    "id" : "4bWa4HwoyMWq5E25TKewbt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ad02d4fd68a6f89c8d161bab3b575e19a61246b1",
+      "width" : 628
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7183d0aafd9076033c7e1221176044e9d8ee6bc9",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/271a3bdd0059a96b1d2edcfdd0ca7dfe87b201f0",
+      "width" : 63
+    } ],
+    "name" : "Partie Traumatic",
+    "type" : "album",
+    "uri" : "spotify:album:4bWa4HwoyMWq5E25TKewbt"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1oJolWh3meHLWUcyIijst7",
+    "id" : "1oJolWh3meHLWUcyIijst7",
+    "name" : "Black Kids",
+    "type" : "artist",
+    "uri" : "spotify:artist:1oJolWh3meHLWUcyIijst7"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 252040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70808788"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2fQLZeuVSI4auLrEFLb9Y7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2fQLZeuVSI4auLrEFLb9Y7",
+  "id" : "2fQLZeuVSI4auLrEFLb9Y7",
+  "name" : "Look At Me (When I Rock Wichoo)",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e341e79c3a99e2092154b14335ff950295edeef6?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2fQLZeuVSI4auLrEFLb9Y7"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+      "id" : "1vCWHaC5f2uS3yhpwWbIA6",
+      "name" : "Avicii",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1s9tU91VJt4sU5owi29GD3",
+    "id" : "1s9tU91VJt4sU5owi29GD3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/98c5699709d8c2497f34a177d159e1b1733f25bb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ccacb3b04352cc4ac7230aa02779171943717a10",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7dabeff1e09d78b1e96d88be2b5509f00ef6ae5e",
+      "width" : 64
+    } ],
+    "name" : "True",
+    "type" : "album",
+    "uri" : "spotify:album:1s9tU91VJt4sU5owi29GD3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+    "id" : "1vCWHaC5f2uS3yhpwWbIA6",
+    "name" : "Avicii",
+    "type" : "artist",
+    "uri" : "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 255093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CH3131340084"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4RXpgGM7A4Hg7cFBoH5KyF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4RXpgGM7A4Hg7cFBoH5KyF",
+  "id" : "4RXpgGM7A4Hg7cFBoH5KyF",
+  "name" : "Hey Brother",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1f2e98059fe5e2d3519e2e7f4c6238e3b3197fa3?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4RXpgGM7A4Hg7cFBoH5KyF"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/23EA28263XvtIrXuySX6oI",
+      "id" : "23EA28263XvtIrXuySX6oI",
+      "name" : "Francis and the Lights",
+      "type" : "artist",
+      "uri" : "spotify:artist:23EA28263XvtIrXuySX6oI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/32QcEElwekLwIjlbpPsolO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/32QcEElwekLwIjlbpPsolO",
+    "id" : "32QcEElwekLwIjlbpPsolO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ac2d779d1057e46a64bd90b3e617a6973b53f67a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/47e308e809aa3ca4fdf36467befd2a9a8d65c11d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c0f45a5c19ab77c5a88690ece2143a85ceb2ce7f",
+      "width" : 64
+    } ],
+    "name" : "It'll Be Better",
+    "type" : "album",
+    "uri" : "spotify:album:32QcEElwekLwIjlbpPsolO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/23EA28263XvtIrXuySX6oI",
+    "id" : "23EA28263XvtIrXuySX6oI",
+    "name" : "Francis and the Lights",
+    "type" : "artist",
+    "uri" : "spotify:artist:23EA28263XvtIrXuySX6oI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 215440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US5U51000016"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1RVnlTKYQi5NVoCAPf9W2t"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1RVnlTKYQi5NVoCAPf9W2t",
+  "id" : "1RVnlTKYQi5NVoCAPf9W2t",
+  "name" : "For Days",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4642b179dd58300714577da779c8d0d2a527de1d?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1RVnlTKYQi5NVoCAPf9W2t"
+}

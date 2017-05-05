@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12AnGvqOxseM5VJLyO5yBs",
+      "id" : "12AnGvqOxseM5VJLyO5yBs",
+      "name" : "Erlend Øye",
+      "type" : "artist",
+      "uri" : "spotify:artist:12AnGvqOxseM5VJLyO5yBs"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4L9jcdZGamKpD12ojbVy55"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4L9jcdZGamKpD12ojbVy55",
+    "id" : "4L9jcdZGamKpD12ojbVy55",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f08662fee8b706e6ae169160cfcf0cbffe9a7bfa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cd320f4591d695eb97460751f7ecf1fdd132de17",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/da96827a01fb7b0ad1f58e058740194bb5af0df1",
+      "width" : 64
+    } ],
+    "name" : "La prima estate",
+    "type" : "album",
+    "uri" : "spotify:album:4L9jcdZGamKpD12ojbVy55"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12AnGvqOxseM5VJLyO5yBs",
+    "id" : "12AnGvqOxseM5VJLyO5yBs",
+    "name" : "Erlend Øye",
+    "type" : "artist",
+    "uri" : "spotify:artist:12AnGvqOxseM5VJLyO5yBs"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 240435,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEKM51305001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3czhzZCOVhdGOYLejvHyZW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3czhzZCOVhdGOYLejvHyZW",
+  "id" : "3czhzZCOVhdGOYLejvHyZW",
+  "name" : "La prima estate",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4fa3a7131b076e4115dbbe330690fc6376de00ca?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3czhzZCOVhdGOYLejvHyZW"
+}

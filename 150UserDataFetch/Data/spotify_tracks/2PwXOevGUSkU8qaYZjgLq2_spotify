@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+      "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+      "name" : "Kodaline",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/29Tc7Ue6KVfc5mzXxoMgEL",
+    "id" : "29Tc7Ue6KVfc5mzXxoMgEL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a9f7701e1176921ecdbf9d67ca73062948d81f3a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b4d3bb12d58d48277968924cd5b64c22bb13d871",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/586a8d8adaf0e6f741557893ee93a9fa6f9b47a6",
+      "width" : 64
+    } ],
+    "name" : "In A Perfect World",
+    "type" : "album",
+    "uri" : "spotify:album:29Tc7Ue6KVfc5mzXxoMgEL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4BxCuXFJrSWGi1KHcVqaU4",
+    "id" : "4BxCuXFJrSWGi1KHcVqaU4",
+    "name" : "Kodaline",
+    "type" : "artist",
+    "uri" : "spotify:artist:4BxCuXFJrSWGi1KHcVqaU4"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 305746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDVX1200008"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2PwXOevGUSkU8qaYZjgLq2",
+  "id" : "2PwXOevGUSkU8qaYZjgLq2",
+  "name" : "All I Want",
+  "popularity" : 66,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ee5e210cdea9f22e545ea435c0467dcecdeb41ca?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2PwXOevGUSkU8qaYZjgLq2"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ICflSq6ZgYAIrm2CTkfVP",
+      "id" : "3ICflSq6ZgYAIrm2CTkfVP",
+      "name" : "The Animals",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ICflSq6ZgYAIrm2CTkfVP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0An2Vz82KDCQEczSd1WhoF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0An2Vz82KDCQEczSd1WhoF",
+    "id" : "0An2Vz82KDCQEczSd1WhoF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aa89a3c296f500af94dd5c80d12035955ddf8728",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8ebb5116ee3895aa7910e296f1769c6ff16b0e86",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7e756628fdfce5d9797b93d7e1abe00b6ee9323a",
+      "width" : 64
+    } ],
+    "name" : "House of the Rising Sun (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:0An2Vz82KDCQEczSd1WhoF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3ICflSq6ZgYAIrm2CTkfVP",
+    "id" : "3ICflSq6ZgYAIrm2CTkfVP",
+    "name" : "The Animals",
+    "type" : "artist",
+    "uri" : "spotify:artist:3ICflSq6ZgYAIrm2CTkfVP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 194861,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES6601405111"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1tWYlQvZFoV7keCau1koNX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1tWYlQvZFoV7keCau1koNX",
+  "id" : "1tWYlQvZFoV7keCau1koNX",
+  "name" : "We've Gotta Get Out of this Place - Remastered",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/889f6cc34d04fa76b7a2ffbc257bd1db35aacc80?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1tWYlQvZFoV7keCau1koNX"
+}

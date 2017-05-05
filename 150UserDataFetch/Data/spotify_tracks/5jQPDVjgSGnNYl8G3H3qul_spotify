@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0yrK3jKRexjtP4CRdYizjs",
+    "id" : "0yrK3jKRexjtP4CRdYizjs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/82eaa2d4b98a8f5159fbea67c6da56804ad8350c",
+      "width" : 630
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ac6dac310f0731342dfe6a97b8e3bfa20be76dc1",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0c8fc2fb7ca9cdcb83700820e3f96f462d573b9b",
+      "width" : 63
+    } ],
+    "name" : "Kill Bill Vol. 2 Original Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:0yrK3jKRexjtP4CRdYizjs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/34xAiSyQG6nlH0eZNLjbLW",
+    "id" : "34xAiSyQG6nlH0eZNLjbLW",
+    "name" : "Shivaree",
+    "type" : "artist",
+    "uri" : "spotify:artist:34xAiSyQG6nlH0eZNLjbLW"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 243777,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRHD0530718"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5jQPDVjgSGnNYl8G3H3qul",
+  "id" : "5jQPDVjgSGnNYl8G3H3qul",
+  "name" : "Goodnight Moon",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/83b09f3cc6c9113438f717b00decdbe521d51b2e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5jQPDVjgSGnNYl8G3H3qul"
+}

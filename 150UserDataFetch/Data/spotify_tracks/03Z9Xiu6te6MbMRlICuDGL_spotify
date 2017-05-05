@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+    },
+    "href" : "https://api.spotify.com/v1/albums/63fPXLpTxvDR7LgSOZIaly",
+    "id" : "63fPXLpTxvDR7LgSOZIaly",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab50beaed7dc3b9e4d212774f631f24bdfeaab67",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dc2b7c0e2a81b65265b81fd4f2bd194068aa9f01",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/74e265ed6fb8d741def78c8c264c3c12230cc7a5",
+      "width" : 64
+    } ],
+    "name" : "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+    "type" : "album",
+    "uri" : "spotify:album:63fPXLpTxvDR7LgSOZIaly"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+    "id" : "4V8LLVI7PbaPR0K2TGSxFF",
+    "name" : "Tyler, The Creator",
+    "type" : "artist",
+    "uri" : "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 208586,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "TCABQ1372656"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/03Z9Xiu6te6MbMRlICuDGL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/03Z9Xiu6te6MbMRlICuDGL",
+  "id" : "03Z9Xiu6te6MbMRlICuDGL",
+  "name" : "Garbage",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/eeb0773d3500ff997fa8e8e3c6a02d6d023f100a?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:03Z9Xiu6te6MbMRlICuDGL"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4B5oxjbZ2CClTNt8iEiC4n",
+      "id" : "4B5oxjbZ2CClTNt8iEiC4n",
+      "name" : "Synkro",
+      "type" : "artist",
+      "uri" : "spotify:artist:4B5oxjbZ2CClTNt8iEiC4n"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5v4qYz2CY7wOkWfeg88JVl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5v4qYz2CY7wOkWfeg88JVl",
+    "id" : "5v4qYz2CY7wOkWfeg88JVl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f5559ad54687905e27d09aec02f33cff8ad7c24d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6e87a1070d3d918c60c4463f11bb4a1df30ad112",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3cfa27bd7b79734296e7d3d0f5a9a0fedd9d6994",
+      "width" : 64
+    } ],
+    "name" : "Memories (2008-2011)",
+    "type" : "album",
+    "uri" : "spotify:album:5v4qYz2CY7wOkWfeg88JVl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4B5oxjbZ2CClTNt8iEiC4n",
+    "id" : "4B5oxjbZ2CClTNt8iEiC4n",
+    "name" : "Synkro",
+    "type" : "artist",
+    "uri" : "spotify:artist:4B5oxjbZ2CClTNt8iEiC4n"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 326210,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCJY1031084"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/238E3epiYIMfOIflwJD9PV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/238E3epiYIMfOIflwJD9PV",
+  "id" : "238E3epiYIMfOIflwJD9PV",
+  "name" : "In Transit",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1670898e2360dd782b358e8ed52f81402066703?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:238E3epiYIMfOIflwJD9PV"
+}

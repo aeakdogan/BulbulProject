@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+      "id" : "0Ya43ZKWHTKkAbkoJJkwIB",
+      "name" : "The Wombats",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/03403404Rwa4suo4nzYyUY",
+    "id" : "03403404Rwa4suo4nzYyUY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6978f994c0731ca21b00dddfd331d2f1bd7890d4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d8a8fa7b7afaec087e9266d09af1893f752bf318",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ffc37e8a0d6cbad04bd009297b3e462befb02dd1",
+      "width" : 64
+    } ],
+    "name" : "Proudly Present... A Guide To Love, Loss & Desperation (Special Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:03403404Rwa4suo4nzYyUY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+    "id" : "0Ya43ZKWHTKkAbkoJJkwIB",
+    "name" : "The Wombats",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 192933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBFTG0300133"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ufsxlWlsZ3k50EUANiJpt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ufsxlWlsZ3k50EUANiJpt",
+  "id" : "6ufsxlWlsZ3k50EUANiJpt",
+  "name" : "Backfire At The Disco",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/05d1f29a25ff92a434485b3e8a90ea8e75407e7c?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:6ufsxlWlsZ3k50EUANiJpt"
+}

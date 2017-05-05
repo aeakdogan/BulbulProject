@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+      "id" : "6kACVPfCOnqzgfEF5ryl0x",
+      "name" : "Johnny Cash",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3fH6txVtapyIaCdoJkUNTd",
+    "id" : "3fH6txVtapyIaCdoJkUNTd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/19a5b3368fb95bb28c34eca8d0b16209ebb487a8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/92e29b607712586802860c23f45541f9c44e66b3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2b0f3089049a49c4eb729e5a612367608539368f",
+      "width" : 64
+    } ],
+    "name" : "Man In Black",
+    "type" : "album",
+    "uri" : "spotify:album:3fH6txVtapyIaCdoJkUNTd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+    "id" : "6kACVPfCOnqzgfEF5ryl0x",
+    "name" : "Johnny Cash",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 172986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19902111"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7wL9EVloIobMw22rT7Ve8x",
+  "id" : "7wL9EVloIobMw22rT7Ve8x",
+  "name" : "Man in Black",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4e23ed5ae883e99e0b9f85cbd49585bc86274039?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7wL9EVloIobMw22rT7Ve8x"
+}

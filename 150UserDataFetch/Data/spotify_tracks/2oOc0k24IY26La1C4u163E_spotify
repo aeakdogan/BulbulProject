@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ecbvwhuhiEAWOLHlRXpqD",
+      "id" : "0ecbvwhuhiEAWOLHlRXpqD",
+      "name" : "STEELHEART",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ecbvwhuhiEAWOLHlRXpqD"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/45IGEAYl8FVrpc00y9etoq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/45IGEAYl8FVrpc00y9etoq",
+    "id" : "45IGEAYl8FVrpc00y9etoq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/84ead17dc709c609b265a9d78e9e673bd7dd9abd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c14738e7ac778913b17616c23194e94640031471",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/88f7fc487a8e737270f1c027d0f74c95952f57ee",
+      "width" : 64
+    } ],
+    "name" : "Tangled In Reins",
+    "type" : "album",
+    "uri" : "spotify:album:45IGEAYl8FVrpc00y9etoq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ecbvwhuhiEAWOLHlRXpqD",
+    "id" : "0ecbvwhuhiEAWOLHlRXpqD",
+    "name" : "STEELHEART",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ecbvwhuhiEAWOLHlRXpqD"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 229293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC19238260"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2oOc0k24IY26La1C4u163E"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2oOc0k24IY26La1C4u163E",
+  "id" : "2oOc0k24IY26La1C4u163E",
+  "name" : "Dancin' In The Fire",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e773360ac0f20fe28c36cc64da5697bab2834263?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2oOc0k24IY26La1C4u163E"
+}

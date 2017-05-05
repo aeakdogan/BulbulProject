@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/29xaLO4AfPkXrG4EuvXK0M"
+      },
+      "href" : "https://api.spotify.com/v1/artists/29xaLO4AfPkXrG4EuvXK0M",
+      "id" : "29xaLO4AfPkXrG4EuvXK0M",
+      "name" : "Toni Price",
+      "type" : "artist",
+      "uri" : "spotify:artist:29xaLO4AfPkXrG4EuvXK0M"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1sYU7NnXDpNfTkK0ak0JGt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1sYU7NnXDpNfTkK0ak0JGt",
+    "id" : "1sYU7NnXDpNfTkK0ak0JGt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/37ff9d4b381eb37d3d30a90d56b337d6776adac6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/afe71e2556fa6bb0e8d3698bedf47e5f8d17df43",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/23a465bf40f9c8da88b7cacc5b8f8408e0458ea4",
+      "width" : 64
+    } ],
+    "name" : "Midnight Pumpkin",
+    "type" : "album",
+    "uri" : "spotify:album:1sYU7NnXDpNfTkK0ak0JGt"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/29xaLO4AfPkXrG4EuvXK0M"
+    },
+    "href" : "https://api.spotify.com/v1/artists/29xaLO4AfPkXrG4EuvXK0M",
+    "id" : "29xaLO4AfPkXrG4EuvXK0M",
+    "name" : "Toni Price",
+    "type" : "artist",
+    "uri" : "spotify:artist:29xaLO4AfPkXrG4EuvXK0M"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 243093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US33C0405211"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3GgQAt0hxhN8zVVnm93LM4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3GgQAt0hxhN8zVVnm93LM4",
+  "id" : "3GgQAt0hxhN8zVVnm93LM4",
+  "name" : "Like You Used To",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ecf08335d58e2914729cc0a8a05199d465d584e?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:3GgQAt0hxhN8zVVnm93LM4"
+}

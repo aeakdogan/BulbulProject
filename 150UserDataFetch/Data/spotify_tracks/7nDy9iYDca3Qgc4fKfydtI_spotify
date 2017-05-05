@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5V6QXzDmQl9KYCcJkVkjBk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5V6QXzDmQl9KYCcJkVkjBk",
+      "id" : "5V6QXzDmQl9KYCcJkVkjBk",
+      "name" : "Röyksopp & Robyn",
+      "type" : "artist",
+      "uri" : "spotify:artist:5V6QXzDmQl9KYCcJkVkjBk"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6fZ78Jc9r7684slWcCgt7Z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6fZ78Jc9r7684slWcCgt7Z",
+    "id" : "6fZ78Jc9r7684slWcCgt7Z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6c4b10a4be1adbfbdc7952de5b3b8560bcb5979b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b64c6ed6386af947bfdca86611f7d0b75cddd52c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/51c05f6d94fca9ec341e7be0e149a3844e187973",
+      "width" : 64
+    } ],
+    "name" : "Do It Again",
+    "type" : "album",
+    "uri" : "spotify:album:6fZ78Jc9r7684slWcCgt7Z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5V6QXzDmQl9KYCcJkVkjBk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5V6QXzDmQl9KYCcJkVkjBk",
+    "id" : "5V6QXzDmQl9KYCcJkVkjBk",
+    "name" : "Röyksopp & Robyn",
+    "type" : "artist",
+    "uri" : "spotify:artist:5V6QXzDmQl9KYCcJkVkjBk"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 597400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBW231400001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7nDy9iYDca3Qgc4fKfydtI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7nDy9iYDca3Qgc4fKfydtI",
+  "id" : "7nDy9iYDca3Qgc4fKfydtI",
+  "name" : "Monument",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c697b56bf11903fa6705640d08aea08dde228a7d?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7nDy9iYDca3Qgc4fKfydtI"
+}

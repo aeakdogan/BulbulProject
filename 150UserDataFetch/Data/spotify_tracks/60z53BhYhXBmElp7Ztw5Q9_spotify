@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC",
+      "id" : "2x9SpqnPi8rlE9pjHBwmSC",
+      "name" : "Talking Heads",
+      "type" : "artist",
+      "uri" : "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1JvXxLsm0PxlGH4LXzqMGq",
+    "id" : "1JvXxLsm0PxlGH4LXzqMGq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b2f21e9e0c47acd44163880a2c82b88ab35785ea",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bf2270f4aa0439e4e5c6319642f29ce8042aaa07",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8362b9582b14518aaf2472f0bd8cc1d110311bde",
+      "width" : 64
+    } ],
+    "name" : "Remain In Light",
+    "type" : "album",
+    "uri" : "spotify:album:1JvXxLsm0PxlGH4LXzqMGq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC",
+    "id" : "2x9SpqnPi8rlE9pjHBwmSC",
+    "name" : "Talking Heads",
+    "type" : "artist",
+    "uri" : "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 283040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10101204"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/60z53BhYhXBmElp7Ztw5Q9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/60z53BhYhXBmElp7Ztw5Q9",
+  "id" : "60z53BhYhXBmElp7Ztw5Q9",
+  "name" : "Listening Wind",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9a22cc6319fca2cc91b966093941035322489a72?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:60z53BhYhXBmElp7Ztw5Q9"
+}

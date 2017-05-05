@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/13vQloYd6mP7V1mVwKJwS2",
+      "id" : "13vQloYd6mP7V1mVwKJwS2",
+      "name" : "Dave Matthews",
+      "type" : "artist",
+      "uri" : "spotify:artist:13vQloYd6mP7V1mVwKJwS2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7rvkQK7ZqO34sKsWEXjz3R",
+      "id" : "7rvkQK7ZqO34sKsWEXjz3R",
+      "name" : "Tim Reynolds",
+      "type" : "artist",
+      "uri" : "spotify:artist:7rvkQK7ZqO34sKsWEXjz3R"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5HT1EFFbwdoHwYWoHt5hUL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5HT1EFFbwdoHwYWoHt5hUL",
+    "id" : "5HT1EFFbwdoHwYWoHt5hUL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/df712cf393d9b10a75b148f4e894bb660b3b8177",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f5416a2ac01846ee35ac0c4d5a2e99d255a954d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3f123e6e0c77681c34b3d4439c96d7922dfed6ee",
+      "width" : 64
+    } ],
+    "name" : "Live In Las Vegas",
+    "type" : "album",
+    "uri" : "spotify:album:5HT1EFFbwdoHwYWoHt5hUL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/13vQloYd6mP7V1mVwKJwS2",
+    "id" : "13vQloYd6mP7V1mVwKJwS2",
+    "name" : "Dave Matthews",
+    "type" : "artist",
+    "uri" : "spotify:artist:13vQloYd6mP7V1mVwKJwS2"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7rvkQK7ZqO34sKsWEXjz3R",
+    "id" : "7rvkQK7ZqO34sKsWEXjz3R",
+    "name" : "Tim Reynolds",
+    "type" : "artist",
+    "uri" : "spotify:artist:7rvkQK7ZqO34sKsWEXjz3R"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 182906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC11000031"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2JvEA7TaHbQ0jbVwG8LOO1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2JvEA7TaHbQ0jbVwG8LOO1",
+  "id" : "2JvEA7TaHbQ0jbVwG8LOO1",
+  "name" : "Little Red Bird",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4659db54a2d7a233aa3b55a2647e9b50c083b81d?cid=null",
+  "track_number" : 19,
+  "type" : "track",
+  "uri" : "spotify:track:2JvEA7TaHbQ0jbVwG8LOO1"
+}

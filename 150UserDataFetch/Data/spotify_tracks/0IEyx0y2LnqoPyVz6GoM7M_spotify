@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TZqjmYL8p9HtJsBKXCxgE",
+      "id" : "5TZqjmYL8p9HtJsBKXCxgE",
+      "name" : "Lisa Germano",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TZqjmYL8p9HtJsBKXCxgE"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3W6ozpPlPNCZCzCDu9zI2q"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3W6ozpPlPNCZCzCDu9zI2q",
+    "id" : "3W6ozpPlPNCZCzCDu9zI2q",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/9ff7fb62fa8b0c3f7ace1bde3c138072a2f57d21",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f5273ee9dc0d9cb2822e653f9dc47c73f7123210",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/00750577e863ce4b80cfb54453e7414f73897dd7",
+      "width" : 64
+    } ],
+    "name" : "In the Maybe World",
+    "type" : "album",
+    "uri" : "spotify:album:3W6ozpPlPNCZCzCDu9zI2q"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5TZqjmYL8p9HtJsBKXCxgE",
+    "id" : "5TZqjmYL8p9HtJsBKXCxgE",
+    "name" : "Lisa Germano",
+    "type" : "artist",
+    "uri" : "spotify:artist:5TZqjmYL8p9HtJsBKXCxgE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 159400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA3T0600006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0IEyx0y2LnqoPyVz6GoM7M"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0IEyx0y2LnqoPyVz6GoM7M",
+  "id" : "0IEyx0y2LnqoPyVz6GoM7M",
+  "name" : "In The Land Of Fairies",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8cd219bbce8b06891b6f43baf2d2b76dad32f7d9?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0IEyx0y2LnqoPyVz6GoM7M"
+}

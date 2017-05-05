@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/75EZuo5MHV2572NRpMWotC",
+      "id" : "75EZuo5MHV2572NRpMWotC",
+      "name" : "Crystal Fighters",
+      "type" : "artist",
+      "uri" : "spotify:artist:75EZuo5MHV2572NRpMWotC"
+    } ],
+    "available_markets" : [ "CA", "JP", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/68K5LJ1pOR3KcuVP8hw3RP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/68K5LJ1pOR3KcuVP8hw3RP",
+    "id" : "68K5LJ1pOR3KcuVP8hw3RP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/050de55cd995511b1293c4108abeb857a0b9ba70",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3ff94515b9898716871002d68ae3153e48b3f642",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eeeb0e7ad2ad6b9c9832a1d063776e61497e2f1b",
+      "width" : 64
+    } ],
+    "name" : "Cave Rave",
+    "type" : "album",
+    "uri" : "spotify:album:68K5LJ1pOR3KcuVP8hw3RP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/75EZuo5MHV2572NRpMWotC",
+    "id" : "75EZuo5MHV2572NRpMWotC",
+    "name" : "Crystal Fighters",
+    "type" : "artist",
+    "uri" : "spotify:artist:75EZuo5MHV2572NRpMWotC"
+  } ],
+  "available_markets" : [ "CA", "JP", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 210160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBE7C1300103"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3JzGNhQupcWebR9Vp8AGiq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3JzGNhQupcWebR9Vp8AGiq",
+  "id" : "3JzGNhQupcWebR9Vp8AGiq",
+  "name" : "You & I",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/66eb2cbbfce496d8fc2edcdd6d5d76a0b3d2a465?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3JzGNhQupcWebR9Vp8AGiq"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3rQwLE64J8IhEMWnZm8ZmH",
+      "id" : "3rQwLE64J8IhEMWnZm8ZmH",
+      "name" : "9 Lazy 9",
+      "type" : "artist",
+      "uri" : "spotify:artist:3rQwLE64J8IhEMWnZm8ZmH"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Z8qe0ZaUHELNSxGMqODtu",
+    "id" : "5Z8qe0ZaUHELNSxGMqODtu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f44854235078591f8afe4d15afcb87b80bb18b40",
+      "width" : 639
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a92093e29adcb1a94948e76d24aaf5f1d46d982d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a16b0f6b1bf395b5e082fde9d947c82af7c85823",
+      "width" : 64
+    } ],
+    "name" : "Paradise Blown",
+    "type" : "album",
+    "uri" : "spotify:album:5Z8qe0ZaUHELNSxGMqODtu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3rQwLE64J8IhEMWnZm8ZmH",
+    "id" : "3rQwLE64J8IhEMWnZm8ZmH",
+    "name" : "9 Lazy 9",
+    "type" : "artist",
+    "uri" : "spotify:artist:3rQwLE64J8IhEMWnZm8ZmH"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 249906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCFB9400111"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0j7hik2KUs703RFtE4oHif"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0j7hik2KUs703RFtE4oHif",
+  "id" : "0j7hik2KUs703RFtE4oHif",
+  "name" : "Bad Boy",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a0a8e317639a4fc22ae05cf212627e29d8bd13b1?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:0j7hik2KUs703RFtE4oHif"
+}

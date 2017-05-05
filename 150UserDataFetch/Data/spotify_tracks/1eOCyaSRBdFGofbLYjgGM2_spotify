@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD",
+      "id" : "3JxCEqL9zjKnDJgUhRuRJD",
+      "name" : "Neneh Cherry",
+      "type" : "artist",
+      "uri" : "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2bYrUTI2vWLQq2VXJ8DvVJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2bYrUTI2vWLQq2VXJ8DvVJ",
+    "id" : "2bYrUTI2vWLQq2VXJ8DvVJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/38edacb4b222cdf9315837078ee40b4b260a9fc4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bd13183013a6901b859a8d6b00df255a8ee85195",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7bf12bd26d9e12b770b0a02f592c6a4fce917ba6",
+      "width" : 64
+    } ],
+    "name" : "Man",
+    "type" : "album",
+    "uri" : "spotify:album:2bYrUTI2vWLQq2VXJ8DvVJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3JxCEqL9zjKnDJgUhRuRJD",
+    "id" : "3JxCEqL9zjKnDJgUhRuRJD",
+    "name" : "Neneh Cherry",
+    "type" : "artist",
+    "uri" : "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 270400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA9600050"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1eOCyaSRBdFGofbLYjgGM2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1eOCyaSRBdFGofbLYjgGM2",
+  "id" : "1eOCyaSRBdFGofbLYjgGM2",
+  "name" : "Woman",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8f65db99fd21a40b3f211a320d2158fe941bf51f?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1eOCyaSRBdFGofbLYjgGM2"
+}

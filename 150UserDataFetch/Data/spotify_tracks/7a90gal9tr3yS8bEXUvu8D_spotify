@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HGTHrRQkw0BtevSo1jucU",
+      "id" : "1HGTHrRQkw0BtevSo1jucU",
+      "name" : "Richard Ashcroft",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HGTHrRQkw0BtevSo1jucU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7rVo1K80X4sr88MxsD0vds",
+    "id" : "7rVo1K80X4sr88MxsD0vds",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fff65a8788899dd58dc12c63af74de3f6ee359d0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3170f72ddfd3416a2f884e11f9ce94a8fc1182cb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c0981e2e57fae1f993631c6ac05cdc654ba55dc9",
+      "width" : 64
+    } ],
+    "name" : "Alone With Everybody",
+    "type" : "album",
+    "uri" : "spotify:album:7rVo1K80X4sr88MxsD0vds"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1HGTHrRQkw0BtevSo1jucU",
+    "id" : "1HGTHrRQkw0BtevSo1jucU",
+    "name" : "Richard Ashcroft",
+    "type" : "artist",
+    "uri" : "spotify:artist:1HGTHrRQkw0BtevSo1jucU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 325915,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0000067"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7a90gal9tr3yS8bEXUvu8D",
+  "id" : "7a90gal9tr3yS8bEXUvu8D",
+  "name" : "A Song For The Lovers",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0d6cf6cb6907a91792b91d1d5585e509aa2eb88e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7a90gal9tr3yS8bEXUvu8D"
+}

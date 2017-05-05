@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+      },
+      "href" : "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+      "id" : "711MCceyCBcFnzjGY4Q7Un",
+      "name" : "AC/DC",
+      "type" : "artist",
+      "uri" : "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/19AUoKWRAaQYrggVvdQnqq",
+    "id" : "19AUoKWRAaQYrggVvdQnqq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d60d7c9a2cfe0b5b0ec254bf4f2e6397baa36148",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9c9dd881b1350bd7ffa4510c692ea2f401b3be9b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/97ec47f61993702de195ec89f335245fdbef9892",
+      "width" : 64
+    } ],
+    "name" : "High Voltage",
+    "type" : "album",
+    "uri" : "spotify:album:19AUoKWRAaQYrggVvdQnqq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+    },
+    "href" : "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+    "id" : "711MCceyCBcFnzjGY4Q7Un",
+    "name" : "AC/DC",
+    "type" : "artist",
+    "uri" : "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 214666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUAP07600012"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7LRMbd3LEoV5wZJvXT1Lwb",
+  "id" : "7LRMbd3LEoV5wZJvXT1Lwb",
+  "name" : "T.N.T.",
+  "popularity" : 69,
+  "preview_url" : "https://p.scdn.co/mp3-preview/07370e75eaec4423362be7a5f420882ce260266d?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7LRMbd3LEoV5wZJvXT1Lwb"
+}

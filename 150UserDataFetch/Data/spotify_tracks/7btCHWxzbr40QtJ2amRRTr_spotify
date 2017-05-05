@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16GcWuvvybAoaHr0NqT8Eh",
+      "id" : "16GcWuvvybAoaHr0NqT8Eh",
+      "name" : "Alabama Shakes",
+      "type" : "artist",
+      "uri" : "spotify:artist:16GcWuvvybAoaHr0NqT8Eh"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6EoJL3ty0FyE7XmLpAX2sj",
+    "id" : "6EoJL3ty0FyE7XmLpAX2sj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c25c00b1924f3cc303377224a8a22aa46e7bfadc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8608917000ee2db96a1c905e6167cb180ab8fabf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c63e6b1f7dcd946cf30d0046c6e1e087a2c66021",
+      "width" : 64
+    } ],
+    "name" : "Boys & Girls",
+    "type" : "album",
+    "uri" : "spotify:album:6EoJL3ty0FyE7XmLpAX2sj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/16GcWuvvybAoaHr0NqT8Eh",
+    "id" : "16GcWuvvybAoaHr0NqT8Eh",
+    "name" : "Alabama Shakes",
+    "type" : "artist",
+    "uri" : "spotify:artist:16GcWuvvybAoaHr0NqT8Eh"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 179653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USATO1200018"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7btCHWxzbr40QtJ2amRRTr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7btCHWxzbr40QtJ2amRRTr",
+  "id" : "7btCHWxzbr40QtJ2amRRTr",
+  "name" : "I Found You",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/540997d060a09ec2f2f821994df30ebd2862f613?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7btCHWxzbr40QtJ2amRRTr"
+}

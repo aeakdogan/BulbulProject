@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY",
+      "id" : "1xF9B1eiCKUejBnEE9k3sY",
+      "name" : "The Young Gods",
+      "type" : "artist",
+      "uri" : "spotify:artist:1xF9B1eiCKUejBnEE9k3sY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0vUZDE2Cm5mYixzTCvMt1H"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0vUZDE2Cm5mYixzTCvMt1H",
+    "id" : "0vUZDE2Cm5mYixzTCvMt1H",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5b84b1d3c07f009ecf2ee8910921e0fe6e132e2a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/af247a7e1c180fa207393d2611560f92d43f92ca",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/517ca8ee3da5d3d0a24b6ab4e233e29da4d337de",
+      "width" : 64
+    } ],
+    "name" : "Play Kurt Weill",
+    "type" : "album",
+    "uri" : "spotify:album:0vUZDE2Cm5mYixzTCvMt1H"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1xF9B1eiCKUejBnEE9k3sY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1xF9B1eiCKUejBnEE9k3sY",
+    "id" : "1xF9B1eiCKUejBnEE9k3sY",
+    "name" : "The Young Gods",
+    "type" : "artist",
+    "uri" : "spotify:artist:1xF9B1eiCKUejBnEE9k3sY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 247800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEP010590314"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2edrU2f5R0PMxOk2LBMxMy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2edrU2f5R0PMxOk2LBMxMy",
+  "id" : "2edrU2f5R0PMxOk2LBMxMy",
+  "name" : "Salomon Song",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4ea8eb6b22aa57ad571a1a13fdff7c76bdadc998?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2edrU2f5R0PMxOk2LBMxMy"
+}

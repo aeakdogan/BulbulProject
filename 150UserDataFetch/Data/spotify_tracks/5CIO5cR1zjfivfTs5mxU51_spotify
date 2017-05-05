@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04XfL2RkXRmQa2KEyAM0RF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04XfL2RkXRmQa2KEyAM0RF",
+      "id" : "04XfL2RkXRmQa2KEyAM0RF",
+      "name" : "Alexander",
+      "type" : "artist",
+      "uri" : "spotify:artist:04XfL2RkXRmQa2KEyAM0RF"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2HtJQaxA1TLBjMM0utAiVk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2HtJQaxA1TLBjMM0utAiVk",
+    "id" : "2HtJQaxA1TLBjMM0utAiVk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8f45260e4d055c4b01651d121343f4ac70c893d0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/573c0fe451cf6edb8a078e115f8036b7613eb6f1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6c848f0eb6124320a79158fcb0f7f631ab92a4c1",
+      "width" : 64
+    } ],
+    "name" : "Alexander",
+    "type" : "album",
+    "uri" : "spotify:album:2HtJQaxA1TLBjMM0utAiVk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/04XfL2RkXRmQa2KEyAM0RF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/04XfL2RkXRmQa2KEyAM0RF",
+    "id" : "04XfL2RkXRmQa2KEyAM0RF",
+    "name" : "Alexander",
+    "type" : "artist",
+    "uri" : "spotify:artist:04XfL2RkXRmQa2KEyAM0RF"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 260920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVR91165603"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5CIO5cR1zjfivfTs5mxU51"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5CIO5cR1zjfivfTs5mxU51",
+  "id" : "5CIO5cR1zjfivfTs5mxU51",
+  "name" : "Truth",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d044053f2554d2423d8faffe3735f29dc3b84557?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5CIO5cR1zjfivfTs5mxU51"
+}

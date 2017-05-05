@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3TNt4aUIxgfy9aoaft5Jj2",
+      "id" : "3TNt4aUIxgfy9aoaft5Jj2",
+      "name" : "Yeah Yeah Yeahs",
+      "type" : "artist",
+      "uri" : "spotify:artist:3TNt4aUIxgfy9aoaft5Jj2"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7gRMJ6RH5aI3GfDMKMtdml"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7gRMJ6RH5aI3GfDMKMtdml",
+    "id" : "7gRMJ6RH5aI3GfDMKMtdml",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4f64007b8a43921638323326a89eac3ad7dd778a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/573dd449917afa20d4adb7fe2e62eb728198b9ee",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/20102d67fd38665a22010f449994283ae3bdc91b",
+      "width" : 64
+    } ],
+    "name" : "Fever To Tell",
+    "type" : "album",
+    "uri" : "spotify:album:7gRMJ6RH5aI3GfDMKMtdml"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3TNt4aUIxgfy9aoaft5Jj2",
+    "id" : "3TNt4aUIxgfy9aoaft5Jj2",
+    "name" : "Yeah Yeah Yeahs",
+    "type" : "artist",
+    "uri" : "spotify:artist:3TNt4aUIxgfy9aoaft5Jj2"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 314400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR10300261"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2w8w3ZmkxyXXKH8wHhfhtz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2w8w3ZmkxyXXKH8wHhfhtz",
+  "id" : "2w8w3ZmkxyXXKH8wHhfhtz",
+  "name" : "No No No",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/55772914db4056efccf798117c77aa41dea27538?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2w8w3ZmkxyXXKH8wHhfhtz"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4sj6D0zlMOl25nprDJBiU9",
+      "id" : "4sj6D0zlMOl25nprDJBiU9",
+      "name" : "Andy Williams",
+      "type" : "artist",
+      "uri" : "spotify:artist:4sj6D0zlMOl25nprDJBiU9"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1RLfn8e4cQvC0WsYJM6rh2",
+    "id" : "1RLfn8e4cQvC0WsYJM6rh2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/718318e6e099447af241dbd9e75d0604d7fedd00",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e3d03bc26e6b258ad99e62c8962b63574480f210",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e42f02856cc2e9a21fcda8d636ec4e9370724ebc",
+      "width" : 64
+    } ],
+    "name" : "Moon River And Other Great Movie Themes",
+    "type" : "album",
+    "uri" : "spotify:album:1RLfn8e4cQvC0WsYJM6rh2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4sj6D0zlMOl25nprDJBiU9",
+    "id" : "4sj6D0zlMOl25nprDJBiU9",
+    "name" : "Andy Williams",
+    "type" : "artist",
+    "uri" : "spotify:artist:4sj6D0zlMOl25nprDJBiU9"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 162893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19911988"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/24AIahNHzBxm9S12peXbnG",
+  "id" : "24AIahNHzBxm9S12peXbnG",
+  "name" : "Moon River (From \"Breakfast at Tiffany's\")",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0123a76407f29dfc7239bbfc2930e175c775b3f6?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:24AIahNHzBxm9S12peXbnG"
+}

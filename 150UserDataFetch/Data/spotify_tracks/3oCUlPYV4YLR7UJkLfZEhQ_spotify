@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6RZUqkomCmb8zCRqc9eznB",
+      "id" : "6RZUqkomCmb8zCRqc9eznB",
+      "name" : "Placebo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6RZUqkomCmb8zCRqc9eznB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0sbdMEPj1M3UG2gfKclNbo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0sbdMEPj1M3UG2gfKclNbo",
+    "id" : "0sbdMEPj1M3UG2gfKclNbo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/805e0dd23d21b5ec8af3f76abb6cdefa48e49bd9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ca5d41aab289225552085277de01efcd8b3c7fec",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7ec9ab3d1f5e01793c47d6f3044dcb411abedfda",
+      "width" : 64
+    } ],
+    "name" : "Battle for the Sun",
+    "type" : "album",
+    "uri" : "spotify:album:0sbdMEPj1M3UG2gfKclNbo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6RZUqkomCmb8zCRqc9eznB",
+    "id" : "6RZUqkomCmb8zCRqc9eznB",
+    "name" : "Placebo",
+    "type" : "artist",
+    "uri" : "spotify:artist:6RZUqkomCmb8zCRqc9eznB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 332293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "JEA000900003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3oCUlPYV4YLR7UJkLfZEhQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3oCUlPYV4YLR7UJkLfZEhQ",
+  "id" : "3oCUlPYV4YLR7UJkLfZEhQ",
+  "name" : "Battle for the Sun",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3de4bc77b6dadec7669b9b3aef8b74aa821d41c8?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3oCUlPYV4YLR7UJkLfZEhQ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/13YKX1w5KxxgbYNRdAtQNX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/13YKX1w5KxxgbYNRdAtQNX",
+    "id" : "13YKX1w5KxxgbYNRdAtQNX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8780b857413829b03cf9cf177b4dcdfbc9bac50b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f4926b58a7a71eb415befccba79eaa9e41a7bf3d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4324a0247f71aa10d9bb54c3596d27013af11937",
+      "width" : 64
+    } ],
+    "name" : "The West End Story Vol. 4",
+    "type" : "album",
+    "uri" : "spotify:album:13YKX1w5KxxgbYNRdAtQNX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4kkfqDFX2t4QBOwuHqAROF",
+    "id" : "4kkfqDFX2t4QBOwuHqAROF",
+    "name" : "Taana Gardner",
+    "type" : "artist",
+    "uri" : "spotify:artist:4kkfqDFX2t4QBOwuHqAROF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 383800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUS11200450"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/23R191BPdNOEx89EOLUD2a"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/23R191BPdNOEx89EOLUD2a",
+  "id" : "23R191BPdNOEx89EOLUD2a",
+  "name" : "No Frills",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/206a2ad49c5c6117e267da29fd73f128a7505e15?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:23R191BPdNOEx89EOLUD2a"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG",
+      "id" : "6kBDZFXuLrZgHnvmPu9NsG",
+      "name" : "Aphex Twin",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kBDZFXuLrZgHnvmPu9NsG"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7jlTzLySfZRyR29iTHWvC6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7jlTzLySfZRyR29iTHWvC6",
+    "id" : "7jlTzLySfZRyR29iTHWvC6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b5c14835efea8232e91ea3a54c8f9a9bb13fe10b",
+      "width" : 628
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2ca37f0bbd81ddb13a358fb669216ef6dad9adc1",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a2b2a3b4c7ff8db0613b4db6287485f238ee878d",
+      "width" : 63
+    } ],
+    "name" : "Windowlicker",
+    "type" : "album",
+    "uri" : "spotify:album:7jlTzLySfZRyR29iTHWvC6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG",
+    "id" : "6kBDZFXuLrZgHnvmPu9NsG",
+    "name" : "Aphex Twin",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kBDZFXuLrZgHnvmPu9NsG"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 364733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSI10000245"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1E38xwNBProWZkF26Pqtfm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1E38xwNBProWZkF26Pqtfm",
+  "id" : "1E38xwNBProWZkF26Pqtfm",
+  "name" : "Windowlicker - EP Version",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a81fabdecf28d3ce901eb2016824d4cbc59c3642?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1E38xwNBProWZkF26Pqtfm"
+}

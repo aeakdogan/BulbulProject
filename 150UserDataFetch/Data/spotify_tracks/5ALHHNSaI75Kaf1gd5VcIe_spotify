@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6e6GkaF6uiSEFuTrlvDJUF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6e6GkaF6uiSEFuTrlvDJUF",
+      "id" : "6e6GkaF6uiSEFuTrlvDJUF",
+      "name" : "The Twilight Sad",
+      "type" : "artist",
+      "uri" : "spotify:artist:6e6GkaF6uiSEFuTrlvDJUF"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0lGPKHZCSsNfMs1wUgkmfV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0lGPKHZCSsNfMs1wUgkmfV",
+    "id" : "0lGPKHZCSsNfMs1wUgkmfV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b9c222048a5f4a9453596c1ed97e176bb6e63838",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/18c8369d3719129784f25436913e689396703ea4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0bfa3033c39b31fcc205048b95b30cf60a49f31e",
+      "width" : 64
+    } ],
+    "name" : "Here, It Never Snowed, Afterwards It Did.",
+    "type" : "album",
+    "uri" : "spotify:album:0lGPKHZCSsNfMs1wUgkmfV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6e6GkaF6uiSEFuTrlvDJUF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6e6GkaF6uiSEFuTrlvDJUF",
+    "id" : "6e6GkaF6uiSEFuTrlvDJUF",
+    "name" : "The Twilight Sad",
+    "type" : "artist",
+    "uri" : "spotify:artist:6e6GkaF6uiSEFuTrlvDJUF"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 426733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDCA0801152"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5ALHHNSaI75Kaf1gd5VcIe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5ALHHNSaI75Kaf1gd5VcIe",
+  "id" : "5ALHHNSaI75Kaf1gd5VcIe",
+  "name" : "Some Things Last a Long Time",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/51b0b7dc280213ca730659686719385a19b491a6?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5ALHHNSaI75Kaf1gd5VcIe"
+}

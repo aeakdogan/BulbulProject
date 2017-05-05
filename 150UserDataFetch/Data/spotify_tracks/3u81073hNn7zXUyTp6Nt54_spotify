@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2tJIQxQM0X4lCYERyANSdT",
+      "id" : "2tJIQxQM0X4lCYERyANSdT",
+      "name" : "Kirsty Hawkshaw",
+      "type" : "artist",
+      "uri" : "spotify:artist:2tJIQxQM0X4lCYERyANSdT"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/46PsAcg8d0DfccSmfdUDUs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/46PsAcg8d0DfccSmfdUDUs",
+    "id" : "46PsAcg8d0DfccSmfdUDUs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f8b538aee0f914adfad6c40cdb19a65f40ff5f31",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/359a73982cf830cba7a1b97be43221bd6bb756b9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/414b1276ea8e6eec673828d93c8188b7c57311ae",
+      "width" : 64
+    } ],
+    "name" : "Meta Message",
+    "type" : "album",
+    "uri" : "spotify:album:46PsAcg8d0DfccSmfdUDUs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2tJIQxQM0X4lCYERyANSdT",
+    "id" : "2tJIQxQM0X4lCYERyANSdT",
+    "name" : "Kirsty Hawkshaw",
+    "type" : "artist",
+    "uri" : "spotify:artist:2tJIQxQM0X4lCYERyANSdT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 313280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN110500411"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3u81073hNn7zXUyTp6Nt54"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3u81073hNn7zXUyTp6Nt54",
+  "id" : "3u81073hNn7zXUyTp6Nt54",
+  "name" : "Just Be Me",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0e264ee4e2326dd92516117e4fb425bc0085d17b?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3u81073hNn7zXUyTp6Nt54"
+}

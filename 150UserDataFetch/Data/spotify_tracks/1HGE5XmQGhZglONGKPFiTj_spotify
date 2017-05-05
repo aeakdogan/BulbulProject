@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ggwAqZD3lyT2sbovlmfQY",
+      "id" : "3ggwAqZD3lyT2sbovlmfQY",
+      "name" : "Meshuggah",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ggwAqZD3lyT2sbovlmfQY"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MT", "MX", "NI", "PA", "SV", "TR", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4dRVePH9UccfAjGUdxtLhJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4dRVePH9UccfAjGUdxtLhJ",
+    "id" : "4dRVePH9UccfAjGUdxtLhJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/521a02b3348c7a3a14030a97223fdef9c6857e6f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c95a2d628048a6d3825a0a1b99a7f4a37da98eba",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9c6341a6c401d521adb8c791164d2c52ed63c4ba",
+      "width" : 64
+    } ],
+    "name" : "Koloss",
+    "type" : "album",
+    "uri" : "spotify:album:4dRVePH9UccfAjGUdxtLhJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3ggwAqZD3lyT2sbovlmfQY",
+    "id" : "3ggwAqZD3lyT2sbovlmfQY",
+    "name" : "Meshuggah",
+    "type" : "artist",
+    "uri" : "spotify:artist:3ggwAqZD3lyT2sbovlmfQY"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MT", "MX", "NI", "PA", "SV", "TR", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 335066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DED831100749"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1HGE5XmQGhZglONGKPFiTj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1HGE5XmQGhZglONGKPFiTj",
+  "id" : "1HGE5XmQGhZglONGKPFiTj",
+  "name" : "Marrow",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c3335ee874c80b080aaecdbb0ffc7dd12cb6b8bf?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1HGE5XmQGhZglONGKPFiTj"
+}

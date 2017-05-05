@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3XxxEq6BREC57nCWXbQZ7o",
+      "id" : "3XxxEq6BREC57nCWXbQZ7o",
+      "name" : "Jamie Cullum",
+      "type" : "artist",
+      "uri" : "spotify:artist:3XxxEq6BREC57nCWXbQZ7o"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4OaxVN8Z7WGIvQBX7V8TTD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4OaxVN8Z7WGIvQBX7V8TTD",
+    "id" : "4OaxVN8Z7WGIvQBX7V8TTD",
+    "images" : [ {
+      "height" : 638,
+      "url" : "https://i.scdn.co/image/a37b357e05a248adfe802867ea6535459ac25901",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/ac0e86f2bb5bb22847b9df8c5b9436cadbd98908",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3881d514faf2b1c52bc091c91701a7956fca8874",
+      "width" : 64
+    } ],
+    "name" : "Twentysomething",
+    "type" : "album",
+    "uri" : "spotify:album:4OaxVN8Z7WGIvQBX7V8TTD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3XxxEq6BREC57nCWXbQZ7o",
+    "id" : "3XxxEq6BREC57nCWXbQZ7o",
+    "name" : "Jamie Cullum",
+    "type" : "artist",
+    "uri" : "spotify:artist:3XxxEq6BREC57nCWXbQZ7o"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 272973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEKZ0300047"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6o3LfBHc7yhr5emXRFJDWG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6o3LfBHc7yhr5emXRFJDWG",
+  "id" : "6o3LfBHc7yhr5emXRFJDWG",
+  "name" : "All At Sea",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3d13917aedb55e6ecee5c3953e3d8c8549271044?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6o3LfBHc7yhr5emXRFJDWG"
+}

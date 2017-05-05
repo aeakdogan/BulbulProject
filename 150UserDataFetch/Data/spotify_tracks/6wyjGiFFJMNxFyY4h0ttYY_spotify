@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW",
+      "id" : "2ZvrvbQNrHKwjT7qfGFFUW",
+      "name" : "Herbie Hancock",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ZzOJ3XuyVDBIWxrA17YE5",
+    "id" : "0ZzOJ3XuyVDBIWxrA17YE5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c3ac14980bf69d52f4d0772b5975f17f22e68cfd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/40118d6d627b87a95facb432f25b6604d2cc4964",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1d59d9290164ac91c9a817369cce388933d5601b",
+      "width" : 64
+    } ],
+    "name" : "Mr. Hands",
+    "type" : "album",
+    "uri" : "spotify:album:0ZzOJ3XuyVDBIWxrA17YE5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW",
+    "id" : "2ZvrvbQNrHKwjT7qfGFFUW",
+    "name" : "Herbie Hancock",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 398040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM18000435"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6wyjGiFFJMNxFyY4h0ttYY",
+  "id" : "6wyjGiFFJMNxFyY4h0ttYY",
+  "name" : "Textures",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f377509934c971f46e32817d167b1439f86a3faf?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6wyjGiFFJMNxFyY4h0ttYY"
+}

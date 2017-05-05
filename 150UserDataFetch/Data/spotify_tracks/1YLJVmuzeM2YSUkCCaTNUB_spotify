@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+      "id" : "1moxjboGR7GNWYIMWsRjgG",
+      "name" : "Florence + The Machine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2FgknX5e7fJlriQtxvpLhZ",
+    "id" : "2FgknX5e7fJlriQtxvpLhZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/02ccf381a812869d3843e79ea73cfaf6eaeb87ad",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cb6bfaf9cbbfaa576aae257988ce14e5a091bbd7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a9879773b45dbe5d112d98e1fd2dc5576aeb91e5",
+      "width" : 64
+    } ],
+    "name" : "Lungs (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:2FgknX5e7fJlriQtxvpLhZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+    "id" : "1moxjboGR7GNWYIMWsRjgG",
+    "name" : "Florence + The Machine",
+    "type" : "artist",
+    "uri" : "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 251840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70900209"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1YLJVmuzeM2YSUkCCaTNUB",
+  "id" : "1YLJVmuzeM2YSUkCCaTNUB",
+  "name" : "Dog Days Are Over",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/39beff980e24f934e3229dc7c8a38a74eb4a68c4?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1YLJVmuzeM2YSUkCCaTNUB"
+}

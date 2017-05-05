@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1bT7m67vi78r2oqvxrP3X5",
+      "id" : "1bT7m67vi78r2oqvxrP3X5",
+      "name" : "Naughty Boy",
+      "type" : "artist",
+      "uri" : "spotify:artist:1bT7m67vi78r2oqvxrP3X5"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2SVSPhDBqChBe10hJh5owv",
+    "id" : "2SVSPhDBqChBe10hJh5owv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/34bf1f0d46f21f3128e1c850207a846c952cf8d5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e2f6d8ab7f67442b7f7d0e644f400c80d432fdc4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e4b2f878fb988a83bc57b89dbe64b98a633dcae7",
+      "width" : 64
+    } ],
+    "name" : "Hotel Cabana (Deluxe Version)",
+    "type" : "album",
+    "uri" : "spotify:album:2SVSPhDBqChBe10hJh5owv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1bT7m67vi78r2oqvxrP3X5",
+    "id" : "1bT7m67vi78r2oqvxrP3X5",
+    "name" : "Naughty Boy",
+    "type" : "artist",
+    "uri" : "spotify:artist:1bT7m67vi78r2oqvxrP3X5"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+    "id" : "2wY79sveU1sp5g7SokKOiI",
+    "name" : "Sam Smith",
+    "type" : "artist",
+    "uri" : "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 222200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA1300148"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/36pLU2ywVeBKEF0rrKtmCB",
+  "id" : "36pLU2ywVeBKEF0rrKtmCB",
+  "name" : "La La La",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bf603e7b96bf7b5870133390b7572dd07c0dc55f?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:36pLU2ywVeBKEF0rrKtmCB"
+}

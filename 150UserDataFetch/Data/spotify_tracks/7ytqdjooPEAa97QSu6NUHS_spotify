@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1bs7HoMkSyQwcobCpE9KpN",
+      "id" : "1bs7HoMkSyQwcobCpE9KpN",
+      "name" : "The Mamas & The Papas",
+      "type" : "artist",
+      "uri" : "spotify:artist:1bs7HoMkSyQwcobCpE9KpN"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0SijqGUUCbaYy7jk9cCBSg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0SijqGUUCbaYy7jk9cCBSg",
+    "id" : "0SijqGUUCbaYy7jk9cCBSg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/474dabb6e2a8ec2cfb56560c8fe0dc5c122e4eea",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bff31d48b4fc8bf007efe8cca587503c23a30eca",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5a218cff0ae7b1ef18b940585ffaeb48b7d34efe",
+      "width" : 64
+    } ],
+    "name" : "The Papas & The Mamas",
+    "type" : "album",
+    "uri" : "spotify:album:0SijqGUUCbaYy7jk9cCBSg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1bs7HoMkSyQwcobCpE9KpN",
+    "id" : "1bs7HoMkSyQwcobCpE9KpN",
+    "name" : "The Mamas & The Papas",
+    "type" : "artist",
+    "uri" : "spotify:artist:1bs7HoMkSyQwcobCpE9KpN"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 194426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC16846393"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ytqdjooPEAa97QSu6NUHS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ytqdjooPEAa97QSu6NUHS",
+  "id" : "7ytqdjooPEAa97QSu6NUHS",
+  "name" : "Dream A Little Dream Of Me - Album Version With Introduction",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f4e3ab4076f764f69b58b7ee14efb734f7f6bfbd?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7ytqdjooPEAa97QSu6NUHS"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+      "id" : "73iWh9WUMf0xK6cRkNJK4h",
+      "name" : "Warren Haynes",
+      "type" : "artist",
+      "uri" : "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7pYig7bQPfnU6kRCh07e87"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7pYig7bQPfnU6kRCh07e87",
+    "id" : "7pYig7bQPfnU6kRCh07e87",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3a3b2f019be103f156e1c25eb6f637427d14dfad",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/370b3e170dca47816d23aae4da93fb3f77f26719",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5ef268ba6ebccfc0596c8a3662f1634041834a03",
+      "width" : 64
+    } ],
+    "name" : "Man in Motion",
+    "type" : "album",
+    "uri" : "spotify:album:7pYig7bQPfnU6kRCh07e87"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+    },
+    "href" : "https://api.spotify.com/v1/artists/73iWh9WUMf0xK6cRkNJK4h",
+    "id" : "73iWh9WUMf0xK6cRkNJK4h",
+    "name" : "Warren Haynes",
+    "type" : "artist",
+    "uri" : "spotify:artist:73iWh9WUMf0xK6cRkNJK4h"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 411093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R1123169"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Gzm4diS5XPuxPFAovPRji"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Gzm4diS5XPuxPFAovPRji",
+  "id" : "0Gzm4diS5XPuxPFAovPRji",
+  "name" : "River's Gonna Rise",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8c592b18ef65c2a789f7f3bd10e6673f0c4edc95?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0Gzm4diS5XPuxPFAovPRji"
+}

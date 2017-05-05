@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3dmSPhg0tdao8ePj4pySJ5",
+      "id" : "3dmSPhg0tdao8ePj4pySJ5",
+      "name" : "Tindersticks",
+      "type" : "artist",
+      "uri" : "spotify:artist:3dmSPhg0tdao8ePj4pySJ5"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1h5RPHMghpcUh5wz6jvkqg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1h5RPHMghpcUh5wz6jvkqg",
+    "id" : "1h5RPHMghpcUh5wz6jvkqg",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/6370dfec57fa7512c13424e3a2061bb35e874589",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/5cc5c24232d33c00fb57f1cb744aa8da3ddf6e87",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/a2471eed086a825dbc566eefb6c5117e050e8b93",
+      "width" : 64
+    } ],
+    "name" : "Tindersticks (2nd album)",
+    "type" : "album",
+    "uri" : "spotify:album:1h5RPHMghpcUh5wz6jvkqg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3dmSPhg0tdao8ePj4pySJ5",
+    "id" : "3dmSPhg0tdao8ePj4pySJ5",
+    "name" : "Tindersticks",
+    "type" : "artist",
+    "uri" : "spotify:artist:3dmSPhg0tdao8ePj4pySJ5"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/04ukfddSFTQ8F05IKHJugt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/04ukfddSFTQ8F05IKHJugt",
+    "id" : "04ukfddSFTQ8F05IKHJugt",
+    "name" : "Carla Torgerson",
+    "type" : "artist",
+    "uri" : "spotify:artist:04ukfddSFTQ8F05IKHJugt"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 290333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAUP9400065"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2jBRYgVTsqIuKdeMcvpU10"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2jBRYgVTsqIuKdeMcvpU10",
+  "id" : "2jBRYgVTsqIuKdeMcvpU10",
+  "name" : "Travelling Light",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b5493f9a26d06144a26925da7f6138143db9cddb?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2jBRYgVTsqIuKdeMcvpU10"
+}

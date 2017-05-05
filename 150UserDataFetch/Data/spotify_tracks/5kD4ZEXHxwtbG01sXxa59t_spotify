@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74",
+      "id" : "2LXeJdQVcFkhkWydphLI74",
+      "name" : "Liz Phair",
+      "type" : "artist",
+      "uri" : "spotify:artist:2LXeJdQVcFkhkWydphLI74"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5x0AM9gvJVchXJo7EYuGxb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5x0AM9gvJVchXJo7EYuGxb",
+    "id" : "5x0AM9gvJVchXJo7EYuGxb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f54201a68796169c3c16914ebeaadcb842f9d010",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c0fb30a734bd668be23eb01c6d4db9810c2d9503",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e978ed141cf9414d6bebacb4968c3945a4172148",
+      "width" : 64
+    } ],
+    "name" : "Exile In Guyville",
+    "type" : "album",
+    "uri" : "spotify:album:5x0AM9gvJVchXJo7EYuGxb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74",
+    "id" : "2LXeJdQVcFkhkWydphLI74",
+    "name" : "Liz Phair",
+    "type" : "artist",
+    "uri" : "spotify:artist:2LXeJdQVcFkhkWydphLI74"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 196213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USATO0800055"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5kD4ZEXHxwtbG01sXxa59t"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5kD4ZEXHxwtbG01sXxa59t",
+  "id" : "5kD4ZEXHxwtbG01sXxa59t",
+  "name" : "Never Said",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/37efa830c868db2fbcbcbea24eac05264b6f6ce7?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5kD4ZEXHxwtbG01sXxa59t"
+}

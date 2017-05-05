@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h9smro0z3HqUbD94jotU8",
+      "id" : "0h9smro0z3HqUbD94jotU8",
+      "name" : "Smokey Robinson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h9smro0z3HqUbD94jotU8"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7FMpUKAd5MnSPOtqgK2jLG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7FMpUKAd5MnSPOtqgK2jLG",
+    "id" : "7FMpUKAd5MnSPOtqgK2jLG",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/61a4dc021f1b85ca49925cced5ec2b00c3e2fd64",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/e62552ffbf31ec032c7a62f11e50e0ef863c9bf4",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/62bc1e19994385478dfa62aca6bf6053503592c8",
+      "width" : 64
+    } ],
+    "name" : "20th Century Masters: The Millennium Collection: Best of Smokey Robinson",
+    "type" : "album",
+    "uri" : "spotify:album:7FMpUKAd5MnSPOtqgK2jLG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0h9smro0z3HqUbD94jotU8",
+    "id" : "0h9smro0z3HqUbD94jotU8",
+    "name" : "Smokey Robinson",
+    "type" : "artist",
+    "uri" : "spotify:artist:0h9smro0z3HqUbD94jotU8"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 465506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0142445"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2gFn00HEf7aLg1NIq0Upbo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2gFn00HEf7aLg1NIq0Upbo",
+  "id" : "2gFn00HEf7aLg1NIq0Upbo",
+  "name" : "Quiet Storm",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e1d064114eb7ead209871c19eda5226b24da27e2?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2gFn00HEf7aLg1NIq0Upbo"
+}

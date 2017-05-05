@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1tqZaCwM57UFKjWoYwMLrw",
+      "id" : "1tqZaCwM57UFKjWoYwMLrw",
+      "name" : "The Cardigans",
+      "type" : "artist",
+      "uri" : "spotify:artist:1tqZaCwM57UFKjWoYwMLrw"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6HUmefVHQDAKA3e8eDL24I"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6HUmefVHQDAKA3e8eDL24I",
+    "id" : "6HUmefVHQDAKA3e8eDL24I",
+    "images" : [ {
+      "height" : 632,
+      "url" : "https://i.scdn.co/image/071adee5481956fdcda288a3de3260f5abb9aae7",
+      "width" : 640
+    }, {
+      "height" : 296,
+      "url" : "https://i.scdn.co/image/eb0a2695dbeb9b62ba136773b4cec19c34ea21df",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/4fec474f27595047c3a99d8d731c016240381916",
+      "width" : 64
+    } ],
+    "name" : "Long Gone Before Daylight",
+    "type" : "album",
+    "uri" : "spotify:album:6HUmefVHQDAKA3e8eDL24I"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1tqZaCwM57UFKjWoYwMLrw",
+    "id" : "1tqZaCwM57UFKjWoYwMLrw",
+    "name" : "The Cardigans",
+    "type" : "artist",
+    "uri" : "spotify:artist:1tqZaCwM57UFKjWoYwMLrw"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 258839,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEBKA0219013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ynGEfq0lRdYrhkBVTSzxY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ynGEfq0lRdYrhkBVTSzxY",
+  "id" : "2ynGEfq0lRdYrhkBVTSzxY",
+  "name" : "For What It's Worth",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9526d620c98214aabbc9e0e8844a3f4811b09b90?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2ynGEfq0lRdYrhkBVTSzxY"
+}

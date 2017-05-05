@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3x3wGSv3Xm8xtgXNe6hq99",
+      "id" : "3x3wGSv3Xm8xtgXNe6hq99",
+      "name" : "burger/ink",
+      "type" : "artist",
+      "uri" : "spotify:artist:3x3wGSv3Xm8xtgXNe6hq99"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Y5kJjNz1mdeVrGQcfumn2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Y5kJjNz1mdeVrGQcfumn2",
+    "id" : "3Y5kJjNz1mdeVrGQcfumn2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/87325f15bd35b37fcc2a48cff725859c856e78f4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d422b6b65980247d5df4f5fc7b44f2b1caf29572",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/be3d686d5ac796f463fd348f2f4048c3408b88c7",
+      "width" : 64
+    } ],
+    "name" : "[las vegas]",
+    "type" : "album",
+    "uri" : "spotify:album:3Y5kJjNz1mdeVrGQcfumn2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3x3wGSv3Xm8xtgXNe6hq99",
+    "id" : "3x3wGSv3Xm8xtgXNe6hq99",
+    "name" : "burger/ink",
+    "type" : "artist",
+    "uri" : "spotify:artist:3x3wGSv3Xm8xtgXNe6hq99"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 314506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD9833402"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6IdYNEAGyStKTONbmyD49d"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6IdYNEAGyStKTONbmyD49d",
+  "id" : "6IdYNEAGyStKTONbmyD49d",
+  "name" : "Elvism",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3efebf530f0261ed3837552abc56d9067821d293?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6IdYNEAGyStKTONbmyD49d"
+}

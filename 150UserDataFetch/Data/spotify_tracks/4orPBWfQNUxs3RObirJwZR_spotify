@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X",
+      "id" : "6FXMGgJwohJLUSr5nVlf9X",
+      "name" : "Massive Attack",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FXMGgJwohJLUSr5nVlf9X"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5CnZjFfPDmxOX7KnWLLqpC",
+    "id" : "5CnZjFfPDmxOX7KnWLLqpC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/86f84c28bbf846a52bcd271aa25ea2219ee31522",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2e03cb3c2a7197da70e586b68a56bc9b3a7a1958",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c96665d30eb44329f55ba61f1854ddb070ec3989",
+      "width" : 64
+    } ],
+    "name" : "Protection",
+    "type" : "album",
+    "uri" : "spotify:album:5CnZjFfPDmxOX7KnWLLqpC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X",
+    "id" : "6FXMGgJwohJLUSr5nVlf9X",
+    "name" : "Massive Attack",
+    "type" : "artist",
+    "uri" : "spotify:artist:6FXMGgJwohJLUSr5nVlf9X"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 253933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA9400591"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4orPBWfQNUxs3RObirJwZR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4orPBWfQNUxs3RObirJwZR",
+  "id" : "4orPBWfQNUxs3RObirJwZR",
+  "name" : "Better Things",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/818aa14fe43f240dfa93912f61cceec6d082aeba?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:4orPBWfQNUxs3RObirJwZR"
+}

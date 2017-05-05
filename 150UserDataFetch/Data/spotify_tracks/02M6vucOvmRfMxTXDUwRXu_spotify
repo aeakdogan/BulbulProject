@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "name" : "Beyoncé",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2UJwKSBUz6rtW4QLK74kQu",
+    "id" : "2UJwKSBUz6rtW4QLK74kQu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/98be8968e1c29e6ef80831c5867733d2e687b508",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a986d5fe5780115541b5c33e89ed66272e5d4c0f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/20787cddd28d8b7335f9cc8baff2b097d27558d1",
+      "width" : 64
+    } ],
+    "name" : "BEYONCÉ [Platinum Edition]",
+    "type" : "album",
+    "uri" : "spotify:album:2UJwKSBUz6rtW4QLK74kQu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+    "id" : "6vWDO969PvNqNYHIOW5v0m",
+    "name" : "Beyoncé",
+    "type" : "artist",
+    "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 213506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11408532"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/02M6vucOvmRfMxTXDUwRXu",
+  "id" : "02M6vucOvmRfMxTXDUwRXu",
+  "name" : "7/11",
+  "popularity" : 75,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c17eaf47f9624029dadcd7672b7896c84923e28c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:02M6vucOvmRfMxTXDUwRXu"
+}

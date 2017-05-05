@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2iuqXpyyC67z6S2pq2m0gV",
+      "id" : "2iuqXpyyC67z6S2pq2m0gV",
+      "name" : "Basia Bulat",
+      "type" : "artist",
+      "uri" : "spotify:artist:2iuqXpyyC67z6S2pq2m0gV"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3D7fUdOMnkiLuuXDtfxFA4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3D7fUdOMnkiLuuXDtfxFA4",
+    "id" : "3D7fUdOMnkiLuuXDtfxFA4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7eb06a73a9b183a31ef79d77a755e2381cc935d3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/25a71d453209e5b503b77b8ebf13a592d4d4fba5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/73d5e55c71767308541920031c119a183257c705",
+      "width" : 64
+    } ],
+    "name" : "Heart Of My Own",
+    "type" : "album",
+    "uri" : "spotify:album:3D7fUdOMnkiLuuXDtfxFA4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2iuqXpyyC67z6S2pq2m0gV",
+    "id" : "2iuqXpyyC67z6S2pq2m0gV",
+    "name" : "Basia Bulat",
+    "type" : "artist",
+    "uri" : "spotify:artist:2iuqXpyyC67z6S2pq2m0gV"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 213533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVZ0902696"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0jQNFJUCFPaTo3obowrbqG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0jQNFJUCFPaTo3obowrbqG",
+  "id" : "0jQNFJUCFPaTo3obowrbqG",
+  "name" : "Gold Rush",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/01927e5123ea5b964dd69749ac3f7fded66386f6?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0jQNFJUCFPaTo3obowrbqG"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d",
+      "id" : "2m62cc253Xvd9qYQ8d2X3d",
+      "name" : "The Alan Parsons Project",
+      "type" : "artist",
+      "uri" : "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1zhQKiQIOlYYbPmx1eHDD7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1zhQKiQIOlYYbPmx1eHDD7",
+    "id" : "1zhQKiQIOlYYbPmx1eHDD7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b499180793626cfc9302967c54493cccf4bde54e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ed121680aa6d3e6111eb1bab8a0a57b97b8a6e9f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a84587b6dca1f87d6274a670a4110fb06f70b472",
+      "width" : 64
+    } ],
+    "name" : "I Robot (Legacy Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:1zhQKiQIOlYYbPmx1eHDD7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d",
+    "id" : "2m62cc253Xvd9qYQ8d2X3d",
+    "name" : "The Alan Parsons Project",
+    "type" : "artist",
+    "uri" : "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 203346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR19700003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6Xtm8qDnhjaBZ3ZlzBZmCm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6Xtm8qDnhjaBZ3ZlzBZmCm",
+  "id" : "6Xtm8qDnhjaBZ3ZlzBZmCm",
+  "name" : "I Wouldn't Want to Be Like You",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7a5df11cf6859c71086c327674af48b99e3f17fc?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6Xtm8qDnhjaBZ3ZlzBZmCm"
+}

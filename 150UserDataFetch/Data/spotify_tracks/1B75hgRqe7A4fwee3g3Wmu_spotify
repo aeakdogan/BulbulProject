@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2rblp9fJo16ZPTcKDtlmKW",
+      "id" : "2rblp9fJo16ZPTcKDtlmKW",
+      "name" : "MC Hammer",
+      "type" : "artist",
+      "uri" : "spotify:artist:2rblp9fJo16ZPTcKDtlmKW"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4r1WecJyt5FOhglysp9zhN",
+    "id" : "4r1WecJyt5FOhglysp9zhN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9dc4c5c4edde03ad2cbd855039b8fd6e048fd9b6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b28b2314bb4af0ab5d7f52b28158eca0776af6d4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/37a1cebf2e9154f64e37dc26253c3730334cb179",
+      "width" : 64
+    } ],
+    "name" : "Please Hammer Don't Hurt 'Em",
+    "type" : "album",
+    "uri" : "spotify:album:4r1WecJyt5FOhglysp9zhN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2rblp9fJo16ZPTcKDtlmKW",
+    "id" : "2rblp9fJo16ZPTcKDtlmKW",
+    "name" : "MC Hammer",
+    "type" : "artist",
+    "uri" : "spotify:artist:2rblp9fJo16ZPTcKDtlmKW"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 257360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA29000294"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1B75hgRqe7A4fwee3g3Wmu",
+  "id" : "1B75hgRqe7A4fwee3g3Wmu",
+  "name" : "U Can't Touch This",
+  "popularity" : 65,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b3b11fad170bcccca0af7325c6f75f7ec3c06b78?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1B75hgRqe7A4fwee3g3Wmu"
+}

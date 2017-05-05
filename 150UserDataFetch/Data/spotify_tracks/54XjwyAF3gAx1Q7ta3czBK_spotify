@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0z7Yuv7DuDQ5SaVn4VSlLt",
+      "id" : "0z7Yuv7DuDQ5SaVn4VSlLt",
+      "name" : "Lisa Hannigan",
+      "type" : "artist",
+      "uri" : "spotify:artist:0z7Yuv7DuDQ5SaVn4VSlLt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/627oxcPS6nB9batdST9gnN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/627oxcPS6nB9batdST9gnN",
+    "id" : "627oxcPS6nB9batdST9gnN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a2338be93f22c03601855d16b56d49452b045697",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/975149c88ab51d7a4d7f85cd38c0b38f9764eb18",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bd86ede72cfaf7e540095cc8eac599e17f062a16",
+      "width" : 64
+    } ],
+    "name" : "Sea Sew",
+    "type" : "album",
+    "uri" : "spotify:album:627oxcPS6nB9batdST9gnN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0z7Yuv7DuDQ5SaVn4VSlLt",
+    "id" : "0z7Yuv7DuDQ5SaVn4VSlLt",
+    "name" : "Lisa Hannigan",
+    "type" : "artist",
+    "uri" : "spotify:artist:0z7Yuv7DuDQ5SaVn4VSlLt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 296666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "IEBWM0800005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/54XjwyAF3gAx1Q7ta3czBK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/54XjwyAF3gAx1Q7ta3czBK",
+  "id" : "54XjwyAF3gAx1Q7ta3czBK",
+  "name" : "I Don't Know",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ff283fe09ab4432527630e1fcb77ab9f2392627b?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:54XjwyAF3gAx1Q7ta3czBK"
+}

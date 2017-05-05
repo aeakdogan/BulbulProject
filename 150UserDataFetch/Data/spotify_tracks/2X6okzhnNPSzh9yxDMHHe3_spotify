@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+      "id" : "5a2EaR3hamoenG9rDuVn8j",
+      "name" : "Prince",
+      "type" : "artist",
+      "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1XsXHctYSQNyAd9BANCk2B",
+    "id" : "1XsXHctYSQNyAd9BANCk2B",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f5d19bd4048cfe35f77f89d14b33a5c1f52e6c65",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8d3aa23cda20b874b496be9691de495276c95c9f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/26df9a6e4a5d247a06463d1bf1a1ebe56c3fde3b",
+      "width" : 64
+    } ],
+    "name" : "Sign 'O' The Times",
+    "type" : "album",
+    "uri" : "spotify:album:1XsXHctYSQNyAd9BANCk2B"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+    "id" : "5a2EaR3hamoenG9rDuVn8j",
+    "name" : "Prince",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 227706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10101491"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2X6okzhnNPSzh9yxDMHHe3",
+  "id" : "2X6okzhnNPSzh9yxDMHHe3",
+  "name" : "U Got The Look",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/99012a75bc37d984b4a5ebb3d7ce55371356187f?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2X6okzhnNPSzh9yxDMHHe3"
+}

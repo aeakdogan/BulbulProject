@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ysnwxxNtSgbb9t1m2Ur4j",
+      "id" : "2ysnwxxNtSgbb9t1m2Ur4j",
+      "name" : "George Ezra",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ysnwxxNtSgbb9t1m2Ur4j"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7L4ZwpSwKQCerDQv9C4O1M"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7L4ZwpSwKQCerDQv9C4O1M",
+    "id" : "7L4ZwpSwKQCerDQv9C4O1M",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5fd86564048358bb78a35f3eba3479f254e3f9f6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/191168d7b8c69c33910d65116c7b0315e38b5e6c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b3beb3bc46c2d1066bf2ed4e88def4bfc07112fc",
+      "width" : 64
+    } ],
+    "name" : "Wanted On Voyage",
+    "type" : "album",
+    "uri" : "spotify:album:7L4ZwpSwKQCerDQv9C4O1M"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ysnwxxNtSgbb9t1m2Ur4j",
+    "id" : "2ysnwxxNtSgbb9t1m2Ur4j",
+    "name" : "George Ezra",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ysnwxxNtSgbb9t1m2Ur4j"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 188960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL1400478"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/58Qol5xzalwqF912GE9vQv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/58Qol5xzalwqF912GE9vQv",
+  "id" : "58Qol5xzalwqF912GE9vQv",
+  "name" : "Barcelona",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/16dc4df229f1584a961cfb5734eb1d330a1e4697?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:58Qol5xzalwqF912GE9vQv"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+      },
+      "href" : "https://api.spotify.com/v1/artists/048FBwXjFYBWxSggPDipic",
+      "id" : "048FBwXjFYBWxSggPDipic",
+      "name" : "Maximo Park",
+      "type" : "artist",
+      "uri" : "spotify:artist:048FBwXjFYBWxSggPDipic"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5AMY7GZtT4hz0h4O7OBUz4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5AMY7GZtT4hz0h4O7OBUz4",
+    "id" : "5AMY7GZtT4hz0h4O7OBUz4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/917028db9f6e6780501bab72fa1704e2b0ab876a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/79f1da4e1f7565692ec67eb102ac123b46b6a1e5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dab9a95db2a2a86d9b5ffbae785789527d99912d",
+      "width" : 64
+    } ],
+    "name" : "A Certain Trigger",
+    "type" : "album",
+    "uri" : "spotify:album:5AMY7GZtT4hz0h4O7OBUz4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+    },
+    "href" : "https://api.spotify.com/v1/artists/048FBwXjFYBWxSggPDipic",
+    "id" : "048FBwXjFYBWxSggPDipic",
+    "name" : "Maximo Park",
+    "type" : "artist",
+    "uri" : "spotify:artist:048FBwXjFYBWxSggPDipic"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 134813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPW0500005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3b9u9SN07j5FrnZrNMTgJd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3b9u9SN07j5FrnZrNMTgJd",
+  "id" : "3b9u9SN07j5FrnZrNMTgJd",
+  "name" : "Postcard Of A Painting",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7e02232c4f33e534b34b978bb690bcec04a8fd76?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3b9u9SN07j5FrnZrNMTgJd"
+}

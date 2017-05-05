@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+      "id" : "63MQldklfxkjYDoUE4Tppz",
+      "name" : "M83",
+      "type" : "artist",
+      "uri" : "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4HshNHpHWtmaw8sDrOXNuE",
+    "id" : "4HshNHpHWtmaw8sDrOXNuE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eeb0df6f8f9ff4aab6d04f87e5ac83218550e7f7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c533d239b03603729da73200f10a98ece3fd7d40",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ffd5e115e2e79ce7bf00908c7f1ce865bc047c09",
+      "width" : 64
+    } ],
+    "name" : "Saturdays = Youth",
+    "type" : "album",
+    "uri" : "spotify:album:4HshNHpHWtmaw8sDrOXNuE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+    "id" : "63MQldklfxkjYDoUE4Tppz",
+    "name" : "M83",
+    "type" : "artist",
+    "uri" : "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 304906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBSLQ0700007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/44jJCNW8frQLEWpYuAQz47"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/44jJCNW8frQLEWpYuAQz47",
+  "id" : "44jJCNW8frQLEWpYuAQz47",
+  "name" : "We Own The Sky",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1d13eddcbb147818d46d2efc532784ae90d61f60?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:44jJCNW8frQLEWpYuAQz47"
+}

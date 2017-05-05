@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO",
+      "id" : "0X380XXQSNBYuleKzav5UO",
+      "name" : "Nine Inch Nails",
+      "type" : "artist",
+      "uri" : "spotify:artist:0X380XXQSNBYuleKzav5UO"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3i13RcPnJ0AkHEamweLGhq",
+    "id" : "3i13RcPnJ0AkHEamweLGhq",
+    "images" : [ {
+      "height" : 539,
+      "url" : "https://i.scdn.co/image/3b4b6c358ca5d3c362380fd7a78207a2c693ec29",
+      "width" : 600
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/16932592c4ababd673296b78a66bfcd674b366e7",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/62bbe88c73b035d010a709db67fee7e720f0525a",
+      "width" : 63
+    } ],
+    "name" : "The Downward Spiral",
+    "type" : "album",
+    "uri" : "spotify:album:3i13RcPnJ0AkHEamweLGhq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO",
+    "id" : "0X380XXQSNBYuleKzav5UO",
+    "name" : "Nine Inch Nails",
+    "type" : "artist",
+    "uri" : "spotify:artist:0X380XXQSNBYuleKzav5UO"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 296400,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USIR19400530"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1f0yDwWSL8i0VDFF5OWssP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1f0yDwWSL8i0VDFF5OWssP",
+  "id" : "1f0yDwWSL8i0VDFF5OWssP",
+  "name" : "Ruiner",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e1c158c0eeb919a78f9ef7c499fedd6670f76cef?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1f0yDwWSL8i0VDFF5OWssP"
+}

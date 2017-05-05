@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Tk4CUCyeXJqtCfQXrpi00"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Tk4CUCyeXJqtCfQXrpi00",
+      "id" : "0Tk4CUCyeXJqtCfQXrpi00",
+      "name" : "Don Rickles",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Tk4CUCyeXJqtCfQXrpi00"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0qG2DVxHlL01g1Hvyqv7NJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0qG2DVxHlL01g1Hvyqv7NJ",
+    "id" : "0qG2DVxHlL01g1Hvyqv7NJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cc98c230071919c20da93a1524a8c94901d666f6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0ff5b4ad2e03c91bccc560069a0c5ccbe08f5dbe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a85e49263de303fe45c7649f924ece3a063e1ab2",
+      "width" : 64
+    } ],
+    "name" : "Speaks!",
+    "type" : "album",
+    "uri" : "spotify:album:0qG2DVxHlL01g1Hvyqv7NJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Tk4CUCyeXJqtCfQXrpi00"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Tk4CUCyeXJqtCfQXrpi00",
+    "id" : "0Tk4CUCyeXJqtCfQXrpi00",
+    "name" : "Don Rickles",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Tk4CUCyeXJqtCfQXrpi00"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 118080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10905135"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6zKKHkguDqiebGsGqeaEEl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6zKKHkguDqiebGsGqeaEEl",
+  "id" : "6zKKHkguDqiebGsGqeaEEl",
+  "name" : "Names In The News",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cb4c451a09f6ba31cca2e1d56dcc2f948d569c91?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6zKKHkguDqiebGsGqeaEEl"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74aLweE8FHHf4yN5TWv1GM",
+      "id" : "74aLweE8FHHf4yN5TWv1GM",
+      "name" : "HIM",
+      "type" : "artist",
+      "uri" : "spotify:artist:74aLweE8FHHf4yN5TWv1GM"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6QtdXvWeE6UJ7ZllW839GU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6QtdXvWeE6UJ7ZllW839GU",
+    "id" : "6QtdXvWeE6UJ7ZllW839GU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/864556ee4fa5e363f99248dd5478428d7eb1787b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/18a9d5010369fef5a005b5a7fb3eeeca7690f872",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4fbe123174f361360b413a75b779dab9d04ec0b0",
+      "width" : 64
+    } ],
+    "name" : "XX - Two Decades Of Love Metal",
+    "type" : "album",
+    "uri" : "spotify:album:6QtdXvWeE6UJ7ZllW839GU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/74aLweE8FHHf4yN5TWv1GM",
+    "id" : "74aLweE8FHHf4yN5TWv1GM",
+    "name" : "HIM",
+    "type" : "artist",
+    "uri" : "spotify:artist:74aLweE8FHHf4yN5TWv1GM"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FIBAR9900299"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6CXAzO2TNtM1VfxSsN2o9b"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6CXAzO2TNtM1VfxSsN2o9b",
+  "id" : "6CXAzO2TNtM1VfxSsN2o9b",
+  "name" : "Join Me In Death",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/792fd2eebd1dbe2703669486a19fd9bac22d939a?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6CXAzO2TNtM1VfxSsN2o9b"
+}

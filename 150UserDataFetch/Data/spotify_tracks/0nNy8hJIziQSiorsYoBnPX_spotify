@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05fo024EFotg9songSENOZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05fo024EFotg9songSENOZ",
+      "id" : "05fo024EFotg9songSENOZ",
+      "name" : "CocoRosie",
+      "type" : "artist",
+      "uri" : "spotify:artist:05fo024EFotg9songSENOZ"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2LkWCudHVRF64Kd1rVbx8D"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2LkWCudHVRF64Kd1rVbx8D",
+    "id" : "2LkWCudHVRF64Kd1rVbx8D",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/a1b850f9b857bb6dd0bbebdbdd2ff6c5e3012ef9",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/e173bb7a8b99dcbc284e95886055b9e048d88e38",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/a4d87a746ed5d5847553daa3f3ece8a66c246342",
+      "width" : 64
+    } ],
+    "name" : "Grey Oceans",
+    "type" : "album",
+    "uri" : "spotify:album:2LkWCudHVRF64Kd1rVbx8D"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/05fo024EFotg9songSENOZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/05fo024EFotg9songSENOZ",
+    "id" : "05fo024EFotg9songSENOZ",
+    "name" : "CocoRosie",
+    "type" : "artist",
+    "uri" : "spotify:artist:05fo024EFotg9songSENOZ"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 271986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTG31033505"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0nNy8hJIziQSiorsYoBnPX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0nNy8hJIziQSiorsYoBnPX",
+  "id" : "0nNy8hJIziQSiorsYoBnPX",
+  "name" : "Grey Oceans",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ce5a918afe156f78693897510f70bcda7d358800?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0nNy8hJIziQSiorsYoBnPX"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B2edU3Q7btJoNsoHCNohM",
+      "id" : "7B2edU3Q7btJoNsoHCNohM",
+      "name" : "Laura Marling",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B2edU3Q7btJoNsoHCNohM"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6C5vaAEWNO1ayXvYwv45Q2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6C5vaAEWNO1ayXvYwv45Q2",
+    "id" : "6C5vaAEWNO1ayXvYwv45Q2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/26a383aaa2e9f22dc90818be5172de112682bb0b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/410edd40d4890d645835238c9e2077685808565d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5d5842457336c59cd38e0c480d500afd9b8d0566",
+      "width" : 64
+    } ],
+    "name" : "Alas I Cannot Swim",
+    "type" : "album",
+    "uri" : "spotify:album:6C5vaAEWNO1ayXvYwv45Q2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7B2edU3Q7btJoNsoHCNohM",
+    "id" : "7B2edU3Q7btJoNsoHCNohM",
+    "name" : "Laura Marling",
+    "type" : "artist",
+    "uri" : "spotify:artist:7B2edU3Q7btJoNsoHCNohM"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 189360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0701980"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2OpSjm3ZtF7RxZCUhJCjg4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2OpSjm3ZtF7RxZCUhJCjg4",
+  "id" : "2OpSjm3ZtF7RxZCUhJCjg4",
+  "name" : "Night Terror",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2c4630a39520697e7e1daa7becbc7e6a87cc5dae?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2OpSjm3ZtF7RxZCUhJCjg4"
+}

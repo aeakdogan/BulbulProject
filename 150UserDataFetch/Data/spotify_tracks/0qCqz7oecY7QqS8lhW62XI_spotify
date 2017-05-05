@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5EM6xJN2QNk0cL7EEm9HR9",
+      "id" : "5EM6xJN2QNk0cL7EEm9HR9",
+      "name" : "Radical Face",
+      "type" : "artist",
+      "uri" : "spotify:artist:5EM6xJN2QNk0cL7EEm9HR9"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2TeF5pfiRiitOo3nhljb71"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2TeF5pfiRiitOo3nhljb71",
+    "id" : "2TeF5pfiRiitOo3nhljb71",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab4128516f85d6d014369027b1fece171f1a80f3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b166492eaac295bbc62eeb3de44a88071e5ee259",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3e68e9b0d0a9812b239945cab5785165f8226292",
+      "width" : 64
+    } ],
+    "name" : "The Family Tree: The Roots",
+    "type" : "album",
+    "uri" : "spotify:album:2TeF5pfiRiitOo3nhljb71"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5EM6xJN2QNk0cL7EEm9HR9",
+    "id" : "5EM6xJN2QNk0cL7EEm9HR9",
+    "name" : "Radical Face",
+    "type" : "artist",
+    "uri" : "spotify:artist:5EM6xJN2QNk0cL7EEm9HR9"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 233506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMW3D1100007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0qCqz7oecY7QqS8lhW62XI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0qCqz7oecY7QqS8lhW62XI",
+  "id" : "0qCqz7oecY7QqS8lhW62XI",
+  "name" : "Ghost Towns",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/effc1560a804c4298b3665505b9659f9cd276fcf?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0qCqz7oecY7QqS8lhW62XI"
+}

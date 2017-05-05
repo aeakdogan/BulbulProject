@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/77zrvBORXcnTyysjjKRfBU",
+      "id" : "77zrvBORXcnTyysjjKRfBU",
+      "name" : "Art Of Noise",
+      "type" : "artist",
+      "uri" : "spotify:artist:77zrvBORXcnTyysjjKRfBU"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5q70V3qmFpnluKR1ftNavV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5q70V3qmFpnluKR1ftNavV",
+    "id" : "5q70V3qmFpnluKR1ftNavV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f76c4f8ae369e9640257578fe0ae3484c434cf0d",
+      "width" : 342
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c036ca13804f6d806a9f07237d5440ac5d798615",
+      "width" : 160
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0ce5ab40ec70d944bbc3bd385b3d966284ea8305",
+      "width" : 34
+    } ],
+    "name" : "And What Have You Done With My Body, God?",
+    "type" : "album",
+    "uri" : "spotify:album:5q70V3qmFpnluKR1ftNavV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/77zrvBORXcnTyysjjKRfBU",
+    "id" : "77zrvBORXcnTyysjjKRfBU",
+    "name" : "Art Of Noise",
+    "type" : "artist",
+    "uri" : "spotify:artist:77zrvBORXcnTyysjjKRfBU"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 102986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHW0600136"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6TGLSJzgNkQO6CreDecTyb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6TGLSJzgNkQO6CreDecTyb",
+  "id" : "6TGLSJzgNkQO6CreDecTyb",
+  "name" : "Damn It All!",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cc10f454c9c5f2e5d602a3ff50c5880acf084daa?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:6TGLSJzgNkQO6CreDecTyb"
+}

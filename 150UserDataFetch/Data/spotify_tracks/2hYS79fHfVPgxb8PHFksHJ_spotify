@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE",
+      "id" : "6P7H3ai06vU1sGvdpBwDmE",
+      "name" : "Steely Dan",
+      "type" : "artist",
+      "uri" : "spotify:artist:6P7H3ai06vU1sGvdpBwDmE"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Sur33x6g7tvdd9GQnHhhu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Sur33x6g7tvdd9GQnHhhu",
+    "id" : "1Sur33x6g7tvdd9GQnHhhu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/58f01051ce1f96f0fbd6f47c987d0f7477883f78",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6267acbf1582af779b77fe920c83380627bc0660",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/732ccebbaec446d9fe0dd7ea7eef7e22405b0f05",
+      "width" : 64
+    } ],
+    "name" : "The Royal Scam",
+    "type" : "album",
+    "uri" : "spotify:album:1Sur33x6g7tvdd9GQnHhhu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6P7H3ai06vU1sGvdpBwDmE",
+    "id" : "6P7H3ai06vU1sGvdpBwDmE",
+    "name" : "Steely Dan",
+    "type" : "artist",
+    "uri" : "spotify:artist:6P7H3ai06vU1sGvdpBwDmE"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 390960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC17547226"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2hYS79fHfVPgxb8PHFksHJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2hYS79fHfVPgxb8PHFksHJ",
+  "id" : "2hYS79fHfVPgxb8PHFksHJ",
+  "name" : "The Royal Scam",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8e82717f3e4422d180a2103046d3903c6cb11f92?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2hYS79fHfVPgxb8PHFksHJ"
+}

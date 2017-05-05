@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rrbBL8ATFJ6QBVRAirtA8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rrbBL8ATFJ6QBVRAirtA8",
+      "id" : "6rrbBL8ATFJ6QBVRAirtA8",
+      "name" : "Duels",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rrbBL8ATFJ6QBVRAirtA8"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7eTHY81E3DRRBnPgmDLTYT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7eTHY81E3DRRBnPgmDLTYT",
+    "id" : "7eTHY81E3DRRBnPgmDLTYT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9591be0df60e5436b1e86a0e2aab6080356d7ae6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/568dccf50bd10ef8a7bc85b08a0a35697f84a971",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/954aa94ac7b1b4f05659e8b02c99644f23557ed2",
+      "width" : 64
+    } ],
+    "name" : "The Bright Lights & What I Should Have Learned",
+    "type" : "album",
+    "uri" : "spotify:album:7eTHY81E3DRRBnPgmDLTYT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6rrbBL8ATFJ6QBVRAirtA8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6rrbBL8ATFJ6QBVRAirtA8",
+    "id" : "6rrbBL8ATFJ6QBVRAirtA8",
+    "name" : "Duels",
+    "type" : "artist",
+    "uri" : "spotify:artist:6rrbBL8ATFJ6QBVRAirtA8"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 255026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBQM0600007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7BcOmfU53p2rr5VfLLrSMj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7BcOmfU53p2rr5VfLLrSMj",
+  "id" : "7BcOmfU53p2rr5VfLLrSMj",
+  "name" : "Things",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/23a4df24713d8700cd982a993176d0d55c1fbfed?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7BcOmfU53p2rr5VfLLrSMj"
+}

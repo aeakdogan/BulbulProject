@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1BxqJ6pOCi8mkSjCbFYjpW",
+      "id" : "1BxqJ6pOCi8mkSjCbFYjpW",
+      "name" : "Harry Gregson-Williams",
+      "type" : "artist",
+      "uri" : "spotify:artist:1BxqJ6pOCi8mkSjCbFYjpW"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4FVbMmMiHfYAisDhdLqV03"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4FVbMmMiHfYAisDhdLqV03",
+    "id" : "4FVbMmMiHfYAisDhdLqV03",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/882ceac98f3f1bf229828c94d88db3f57fa31a07",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e1eab33218ab8c83aab25fa2551c1e44b5e3cb75",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/96270b7337f0fdfa460a988ed267faef37345942",
+      "width" : 64
+    } ],
+    "name" : "Prince of Persia: The Sands of Time",
+    "type" : "album",
+    "uri" : "spotify:album:4FVbMmMiHfYAisDhdLqV03"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1BxqJ6pOCi8mkSjCbFYjpW",
+    "id" : "1BxqJ6pOCi8mkSjCbFYjpW",
+    "name" : "Harry Gregson-Williams",
+    "type" : "artist",
+    "uri" : "spotify:artist:1BxqJ6pOCi8mkSjCbFYjpW"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 320346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWD11037707"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Vt93gKXpOG2WlxRVQuSuz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Vt93gKXpOG2WlxRVQuSuz",
+  "id" : "4Vt93gKXpOG2WlxRVQuSuz",
+  "name" : "The Prince Of Persia",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f0805d2fdf934b6d6a1291903ca761b3150fe143?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4Vt93gKXpOG2WlxRVQuSuz"
+}

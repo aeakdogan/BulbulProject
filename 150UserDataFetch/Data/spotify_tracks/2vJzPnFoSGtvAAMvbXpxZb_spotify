@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+      "id" : "4AYkFtEBnNnGuoo8HaHErd",
+      "name" : "Madness",
+      "type" : "artist",
+      "uri" : "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7e0zBK7AnmJeWMsvmLQ2kO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7e0zBK7AnmJeWMsvmLQ2kO",
+    "id" : "7e0zBK7AnmJeWMsvmLQ2kO",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/5d67ff07255c1e96a99875637c5602fb80799aec",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/c69842eec51ac65f315a9f48bb693642ddd1b4f1",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/9cda1f7db1d516bd631cdc0401f44b2efd1bbb9c",
+      "width" : 64
+    } ],
+    "name" : "Best Of/20th Century",
+    "type" : "album",
+    "uri" : "spotify:album:7e0zBK7AnmJeWMsvmLQ2kO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+    "id" : "4AYkFtEBnNnGuoo8HaHErd",
+    "name" : "Madness",
+    "type" : "artist",
+    "uri" : "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 177240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR10001326"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2vJzPnFoSGtvAAMvbXpxZb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2vJzPnFoSGtvAAMvbXpxZb",
+  "id" : "2vJzPnFoSGtvAAMvbXpxZb",
+  "name" : "House Of Fun",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b9ab520f48ea32e8ffda6393d3847910ee031cfb?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2vJzPnFoSGtvAAMvbXpxZb"
+}

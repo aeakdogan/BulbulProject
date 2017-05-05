@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+      "id" : "22bE4uQ6baNwSHPVcDxLCe",
+      "name" : "The Rolling Stones",
+      "type" : "artist",
+      "uri" : "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/29m6DinzdaD0OPqWKGyMdz",
+    "id" : "29m6DinzdaD0OPqWKGyMdz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/072be8c8070865cdbc15eb91bc78e270bdb2d995",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a2f63d6d1f8c1aac5b62095d4bd3a23bad2d75a4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/24ed01ca09a8fa1855b785f56f7a9349222be896",
+      "width" : 64
+    } ],
+    "name" : "Sticky Fingers (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:29m6DinzdaD0OPqWKGyMdz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+    "id" : "22bE4uQ6baNwSHPVcDxLCe",
+    "name" : "The Rolling Stones",
+    "type" : "artist",
+    "uri" : "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 341773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70909466"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/52dm9op3rbfAkc1LGXgipW",
+  "id" : "52dm9op3rbfAkc1LGXgipW",
+  "name" : "Wild Horses - Remastered 2009",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0adca8e31c33f2762023617536426644c1aa050c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:52dm9op3rbfAkc1LGXgipW"
+}

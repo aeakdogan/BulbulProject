@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qljmykdCfgGy9zUw7UqkX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2qljmykdCfgGy9zUw7UqkX",
+      "id" : "2qljmykdCfgGy9zUw7UqkX",
+      "name" : "The Dears",
+      "type" : "artist",
+      "uri" : "spotify:artist:2qljmykdCfgGy9zUw7UqkX"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4KNFANaz3QZVnemwP3EXcr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4KNFANaz3QZVnemwP3EXcr",
+    "id" : "4KNFANaz3QZVnemwP3EXcr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f95b7289e6c9cb3b0b00bb80c87e63240f3b86d1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4ea106e6f8a4a010115482c6669cb9b163ca4228",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3ea4d434a90cbc17c9df144075c69767ae896404",
+      "width" : 64
+    } ],
+    "name" : "Degeneration Street",
+    "type" : "album",
+    "uri" : "spotify:album:4KNFANaz3QZVnemwP3EXcr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2qljmykdCfgGy9zUw7UqkX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2qljmykdCfgGy9zUw7UqkX",
+    "id" : "2qljmykdCfgGy9zUw7UqkX",
+    "name" : "The Dears",
+    "type" : "artist",
+    "uri" : "spotify:artist:2qljmykdCfgGy9zUw7UqkX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 300160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US3R21105601"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0lSd0WjG1u8oOZK0iFkPXL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0lSd0WjG1u8oOZK0iFkPXL",
+  "id" : "0lSd0WjG1u8oOZK0iFkPXL",
+  "name" : "Omega Dog",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b45927f654f8c530529643bc76939b4488e898ea?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0lSd0WjG1u8oOZK0iFkPXL"
+}

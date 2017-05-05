@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4N8BwYTEC6XqykGvXXlmfv",
+      "id" : "4N8BwYTEC6XqykGvXXlmfv",
+      "name" : "George Benson",
+      "type" : "artist",
+      "uri" : "spotify:artist:4N8BwYTEC6XqykGvXXlmfv"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1ei5QjnfB7PHINJOH8Gft5",
+    "id" : "1ei5QjnfB7PHINJOH8Gft5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b641c5b185ac1190b227c657c6bdea9f86e21ac5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e6a688e3d2d69bf91a810a4825fea86e16203ba1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7fa7418672bd20f1434f5679439c5b132bb55775",
+      "width" : 64
+    } ],
+    "name" : "Breezin'",
+    "type" : "album",
+    "uri" : "spotify:album:1ei5QjnfB7PHINJOH8Gft5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4N8BwYTEC6XqykGvXXlmfv",
+    "id" : "4N8BwYTEC6XqykGvXXlmfv",
+    "name" : "George Benson",
+    "type" : "artist",
+    "uri" : "spotify:artist:4N8BwYTEC6XqykGvXXlmfv"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 418960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB17600057"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0lNaytiCORnMNZTEBQxlPv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0lNaytiCORnMNZTEBQxlPv",
+  "id" : "0lNaytiCORnMNZTEBQxlPv",
+  "name" : "Affirmation",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/76c25c45ff61bb92692fab9b5de09d78332c71e3?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0lNaytiCORnMNZTEBQxlPv"
+}

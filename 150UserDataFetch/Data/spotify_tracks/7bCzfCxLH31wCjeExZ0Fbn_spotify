@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7EYX8Gu6QyTd1ujVurZsyl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7EYX8Gu6QyTd1ujVurZsyl",
+    "id" : "7EYX8Gu6QyTd1ujVurZsyl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/74c9b9d8450bea51a343c3578cd59defbf6aa3e8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/918d2fc8b9d86ab67d6ff122e99e9d6a42a05fd7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/36d38ae21deaa7dd0fa099ce9f87a93e9bae4314",
+      "width" : 64
+    } ],
+    "name" : "Alternative Rock",
+    "type" : "album",
+    "uri" : "spotify:album:7EYX8Gu6QyTd1ujVurZsyl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Hy8tdpH9ygqoohumHZqVl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Hy8tdpH9ygqoohumHZqVl",
+    "id" : "1Hy8tdpH9ygqoohumHZqVl",
+    "name" : "Athena",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Hy8tdpH9ygqoohumHZqVl"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 206863,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR8571002965"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7bCzfCxLH31wCjeExZ0Fbn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7bCzfCxLH31wCjeExZ0Fbn",
+  "id" : "7bCzfCxLH31wCjeExZ0Fbn",
+  "name" : "Skalonga",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/697bd5414f6ede36c6fd18ce2e3b3d5cd5ebacc5?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7bCzfCxLH31wCjeExZ0Fbn"
+}

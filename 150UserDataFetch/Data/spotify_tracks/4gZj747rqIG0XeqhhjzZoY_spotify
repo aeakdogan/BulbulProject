@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ReHC2jB2DGoPbMYhzuFuO",
+      "id" : "1ReHC2jB2DGoPbMYhzuFuO",
+      "name" : "Yonder Mountain String Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ReHC2jB2DGoPbMYhzuFuO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/67ZsNwBcsis4xq24OIxIfG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/67ZsNwBcsis4xq24OIxIfG",
+    "id" : "67ZsNwBcsis4xq24OIxIfG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d9a833bf33358a5aabf7190b9c819c96a3008b18",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/48e59bcca1a84d65f236dcc9c4d05d8f354efa62",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6dbddf3de302582732a42a42c48aa2c696010167",
+      "width" : 64
+    } ],
+    "name" : "Elevation",
+    "type" : "album",
+    "uri" : "spotify:album:67ZsNwBcsis4xq24OIxIfG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ReHC2jB2DGoPbMYhzuFuO",
+    "id" : "1ReHC2jB2DGoPbMYhzuFuO",
+    "name" : "Yonder Mountain String Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ReHC2jB2DGoPbMYhzuFuO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 271026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEPY0610030"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4gZj747rqIG0XeqhhjzZoY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4gZj747rqIG0XeqhhjzZoY",
+  "id" : "4gZj747rqIG0XeqhhjzZoY",
+  "name" : "Half Moon Rising",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/511fbe13d04b4f0627e95c75f91203539611b9a3?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4gZj747rqIG0XeqhhjzZoY"
+}

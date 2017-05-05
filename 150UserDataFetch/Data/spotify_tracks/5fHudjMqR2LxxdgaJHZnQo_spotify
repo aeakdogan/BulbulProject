@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+      "id" : "2qk9voo8llSGYcZ6xrBzKx",
+      "name" : "Kings of Leon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LV", "MC", "MT", "MX", "MY", "NI", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3GQy3QdRfl7RZUix1rhLtB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3GQy3QdRfl7RZUix1rhLtB",
+    "id" : "3GQy3QdRfl7RZUix1rhLtB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/68def583290f962f191ff420e5cc85539c4c266a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2b7443aab8c3b3b61dfd94c9ba26f97f536528d1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/305cf037b73e2f520c45ab8914eb8f5db96efd9f",
+      "width" : 64
+    } ],
+    "name" : "Come Around Sundown",
+    "type" : "album",
+    "uri" : "spotify:album:3GQy3QdRfl7RZUix1rhLtB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2qk9voo8llSGYcZ6xrBzKx",
+    "id" : "2qk9voo8llSGYcZ6xrBzKx",
+    "name" : "Kings of Leon",
+    "type" : "artist",
+    "uri" : "spotify:artist:2qk9voo8llSGYcZ6xrBzKx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LV", "MC", "MT", "MX", "MY", "NI", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 284600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC11000686"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5fHudjMqR2LxxdgaJHZnQo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5fHudjMqR2LxxdgaJHZnQo",
+  "id" : "5fHudjMqR2LxxdgaJHZnQo",
+  "name" : "Pickup Truck",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ccd41244b8f046878a563f258ed88bf864ca06ae?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:5fHudjMqR2LxxdgaJHZnQo"
+}

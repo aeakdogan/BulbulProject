@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0h885xmyK9xHfhyXQr37L6",
+      "id" : "0h885xmyK9xHfhyXQr37L6",
+      "name" : "Richard Clayderman",
+      "type" : "artist",
+      "uri" : "spotify:artist:0h885xmyK9xHfhyXQr37L6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Oj26LEf8jdgR2woWEjlhi",
+      "id" : "5Oj26LEf8jdgR2woWEjlhi",
+      "name" : "Paul Mauriat",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Oj26LEf8jdgR2woWEjlhi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lfuGeSEIAZl1WlXN3lSjk",
+      "id" : "6lfuGeSEIAZl1WlXN3lSjk",
+      "name" : "Luis Salinas",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lfuGeSEIAZl1WlXN3lSjk"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/258WwkgDW7F5SLg0YWmSlp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/258WwkgDW7F5SLg0YWmSlp",
+    "id" : "258WwkgDW7F5SLg0YWmSlp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7d9c3c472fecbc4c4347f84aeea74f99e5889196",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1f8a51ddfae0a2315d6dd75b6e9edabd3a6c5906",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/407e6ee9f597306e32dcc8ff12627ff4b53ff1e0",
+      "width" : 64
+    } ],
+    "name" : "The Ultimate Easy Listening Radio Hour Vol. 1: The Best of Paul Mauriat, Luis Salinas, & Richard Clayderman",
+    "type" : "album",
+    "uri" : "spotify:album:258WwkgDW7F5SLg0YWmSlp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0h885xmyK9xHfhyXQr37L6",
+    "id" : "0h885xmyK9xHfhyXQr37L6",
+    "name" : "Richard Clayderman",
+    "type" : "artist",
+    "uri" : "spotify:artist:0h885xmyK9xHfhyXQr37L6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 252053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR08F9500220"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0eoxmJF6OxCQXfBEEbxCn0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0eoxmJF6OxCQXfBEEbxCn0",
+  "id" : "0eoxmJF6OxCQXfBEEbxCn0",
+  "name" : "Love Is in the Air",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9d488eea55ad77df92cc0a7d203f16f758de7d5c?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0eoxmJF6OxCQXfBEEbxCn0"
+}

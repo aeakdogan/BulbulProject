@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xLSa7l4IV1gsQfhAMvl0U",
+      "id" : "5xLSa7l4IV1gsQfhAMvl0U",
+      "name" : "B.B. King",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xLSa7l4IV1gsQfhAMvl0U"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1LzYzoyDpRjM8o5GDha0yN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1LzYzoyDpRjM8o5GDha0yN",
+    "id" : "1LzYzoyDpRjM8o5GDha0yN",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/78e5951f8cb03bdc30cd16ae0f583e237e091b1e",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/acf9ee40830b1b528636c8ce858a4598ef490a4a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a63972020f8340f0334ea2b7697df9417e95fb25",
+      "width" : 64
+    } ],
+    "name" : "Anthology",
+    "type" : "album",
+    "uri" : "spotify:album:1LzYzoyDpRjM8o5GDha0yN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5xLSa7l4IV1gsQfhAMvl0U",
+    "id" : "5xLSa7l4IV1gsQfhAMvl0U",
+    "name" : "B.B. King",
+    "type" : "artist",
+    "uri" : "spotify:artist:5xLSa7l4IV1gsQfhAMvl0U"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 308973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC16945385"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6jsrvnwRhVVnDQcrLbR2Kt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6jsrvnwRhVVnDQcrLbR2Kt",
+  "id" : "6jsrvnwRhVVnDQcrLbR2Kt",
+  "name" : "Don't Answer the Door",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3aadd73c413dbbcf8e830903b26b8f4c862c7c0f?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:6jsrvnwRhVVnDQcrLbR2Kt"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E",
+      "id" : "0ybFZ2Ab08V8hueghSXm6E",
+      "name" : "Opeth",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ybFZ2Ab08V8hueghSXm6E"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/74QPd1WqK8kTsVNtHdBzJ8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/74QPd1WqK8kTsVNtHdBzJ8",
+    "id" : "74QPd1WqK8kTsVNtHdBzJ8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e8cc51e6e3c009fac5b46529f244138d853a1ba1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/768553dc3e9c6ecbeb2675d85ea5a0302a35bfec",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eb89e65f369f77b9f9ff8d0f004752dfe1f4d320",
+      "width" : 64
+    } ],
+    "name" : "Ghost Reveries",
+    "type" : "album",
+    "uri" : "spotify:album:74QPd1WqK8kTsVNtHdBzJ8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E",
+    "id" : "0ybFZ2Ab08V8hueghSXm6E",
+    "name" : "Opeth",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ybFZ2Ab08V8hueghSXm6E"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 388080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLA320581221"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/41sSS9PLmI14PGbcuSKZDt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/41sSS9PLmI14PGbcuSKZDt",
+  "id" : "41sSS9PLmI14PGbcuSKZDt",
+  "name" : "Atonement",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5c676940bfada34d2b5e454c86f2f1bd6e54d98c?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:41sSS9PLmI14PGbcuSKZDt"
+}

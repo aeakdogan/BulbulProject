@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6pmxr66tMAePxzOLfjGNcX",
+      "id" : "6pmxr66tMAePxzOLfjGNcX",
+      "name" : "Beirut",
+      "type" : "artist",
+      "uri" : "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3WNU7rbYexFHj9DPOZMdLR",
+    "id" : "3WNU7rbYexFHj9DPOZMdLR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6c4a7467f1c445f22fda08df8ea1812e000640a7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bb02241436631edc4dd4720a31fa2ee46b396c68",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2696377ee58261e131731b7a9d392a3506ca1bff",
+      "width" : 64
+    } ],
+    "name" : "Gulag Orkestar",
+    "type" : "album",
+    "uri" : "spotify:album:3WNU7rbYexFHj9DPOZMdLR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6pmxr66tMAePxzOLfjGNcX",
+    "id" : "6pmxr66tMAePxzOLfjGNcX",
+    "name" : "Beirut",
+    "type" : "artist",
+    "uri" : "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCPT0600025"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1zt3iOVOg3NkNH3fgR9rdi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1zt3iOVOg3NkNH3fgR9rdi",
+  "id" : "1zt3iOVOg3NkNH3fgR9rdi",
+  "name" : "Rhineland (Heartland)",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c2d49f78c4a3965c938a08df07925fd397fb1e60?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1zt3iOVOg3NkNH3fgR9rdi"
+}

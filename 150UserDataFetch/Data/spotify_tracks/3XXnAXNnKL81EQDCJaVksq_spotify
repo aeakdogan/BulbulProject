@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3T4EY2HthpDQceZWzgSar5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3T4EY2HthpDQceZWzgSar5",
+      "id" : "3T4EY2HthpDQceZWzgSar5",
+      "name" : "Tanya Donelly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3T4EY2HthpDQceZWzgSar5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7EegQ27lB4SGHGdcA2WMIj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7EegQ27lB4SGHGdcA2WMIj",
+    "id" : "7EegQ27lB4SGHGdcA2WMIj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6d117232f60a4f20801f13ad3b647e5a12a56a4b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5e8aca37f184b9dca962daa00f4c6ad9883929ac",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f816de5d3384ceb01ae9b29d253b764987f4b6b7",
+      "width" : 64
+    } ],
+    "name" : "Whiskey Tango Ghosts",
+    "type" : "album",
+    "uri" : "spotify:album:7EegQ27lB4SGHGdcA2WMIj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3T4EY2HthpDQceZWzgSar5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3T4EY2HthpDQceZWzgSar5",
+    "id" : "3T4EY2HthpDQceZWzgSar5",
+    "name" : "Tanya Donelly",
+    "type" : "artist",
+    "uri" : "spotify:artist:3T4EY2HthpDQceZWzgSar5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 191133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAFL0400009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3XXnAXNnKL81EQDCJaVksq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3XXnAXNnKL81EQDCJaVksq",
+  "id" : "3XXnAXNnKL81EQDCJaVksq",
+  "name" : "Whiskey Tango",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/37e8ef2ef841efc987c087b19322681bc479e265?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3XXnAXNnKL81EQDCJaVksq"
+}

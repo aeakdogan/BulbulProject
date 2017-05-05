@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Gyw43K6yKl91qX3ytYqZa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Gyw43K6yKl91qX3ytYqZa",
+      "id" : "0Gyw43K6yKl91qX3ytYqZa",
+      "name" : "Scottish National Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Gyw43K6yKl91qX3ytYqZa"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4glkBzvTvGPCfB6EOy9yAJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4glkBzvTvGPCfB6EOy9yAJ",
+    "id" : "4glkBzvTvGPCfB6EOy9yAJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/05f0bed8ebcb1674106318e6b013de6dde9312c4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/758ec1589b615125333e67ff78fad26297344f94",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/25bf00cb63d329766b0f04224b47e691b0fde274",
+      "width" : 64
+    } ],
+    "name" : "Russian Masterpieces",
+    "type" : "album",
+    "uri" : "spotify:album:4glkBzvTvGPCfB6EOy9yAJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2kXJ68O899XvWOBdpzlXgs",
+    "id" : "2kXJ68O899XvWOBdpzlXgs",
+    "name" : "Nikolai Rimsky-Korsakov",
+    "type" : "artist",
+    "uri" : "spotify:artist:2kXJ68O899XvWOBdpzlXgs"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Gyw43K6yKl91qX3ytYqZa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Gyw43K6yKl91qX3ytYqZa",
+    "id" : "0Gyw43K6yKl91qX3ytYqZa",
+    "name" : "Scottish National Orchestra",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Gyw43K6yKl91qX3ytYqZa"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5UHZvYJA0aPcJSLYkYAeps",
+    "id" : "5UHZvYJA0aPcJSLYkYAeps",
+    "name" : "Neeme Järvi",
+    "type" : "artist",
+    "uri" : "spotify:artist:5UHZvYJA0aPcJSLYkYAeps"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 660240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBLWD9008911"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/37y9AcDRzDStviBBk6Devr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/37y9AcDRzDStviBBk6Devr",
+  "id" : "37y9AcDRzDStviBBk6Devr",
+  "name" : "Scheherazade, Op. 35: III. The Young Prince and the Young Princess",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ffe6af07990fe2079f30ec3ad25cbb7fce3f0044?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:37y9AcDRzDStviBBk6Devr"
+}

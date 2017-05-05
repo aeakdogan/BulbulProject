@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pQN0GB0fNEEOfQCaWotsY",
+      "id" : "4pQN0GB0fNEEOfQCaWotsY",
+      "name" : "Helloween",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pQN0GB0fNEEOfQCaWotsY"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MT", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7H1RYpmDoKGrlFxkcxjZYL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7H1RYpmDoKGrlFxkcxjZYL",
+    "id" : "7H1RYpmDoKGrlFxkcxjZYL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9f23eb08da07170099bea1cb14da2745fc04e609",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/686a5246daed71f5fb3e5f0f89bf712a228451e4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c4807a4e1ad2f1f4fad097fdcd3553d5d0bc77c",
+      "width" : 64
+    } ],
+    "name" : "Keeper of the Seven Keys: The Legacy",
+    "type" : "album",
+    "uri" : "spotify:album:7H1RYpmDoKGrlFxkcxjZYL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4pQN0GB0fNEEOfQCaWotsY",
+    "id" : "4pQN0GB0fNEEOfQCaWotsY",
+    "name" : "Helloween",
+    "type" : "artist",
+    "uri" : "spotify:artist:4pQN0GB0fNEEOfQCaWotsY"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MT", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 411306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEA450505020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Zn6EFNlOHDmYj4knlyzdp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Zn6EFNlOHDmYj4knlyzdp",
+  "id" : "3Zn6EFNlOHDmYj4knlyzdp",
+  "name" : "My Life for One More Day",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4f0f4b94c35c7b19450728474e3d02920d26d45a?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:3Zn6EFNlOHDmYj4knlyzdp"
+}

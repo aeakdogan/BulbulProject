@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5HthaLyG6SfVxEuA94MAjm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5HthaLyG6SfVxEuA94MAjm",
+      "id" : "5HthaLyG6SfVxEuA94MAjm",
+      "name" : "Buttering Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:5HthaLyG6SfVxEuA94MAjm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/55JhpYi2dlMaKwwptm1Rcn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/55JhpYi2dlMaKwwptm1Rcn",
+    "id" : "55JhpYi2dlMaKwwptm1Rcn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5d2007a2c2511b437f83e9f256c45ab9cf6bdce5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0be4d8d16d45d15f2449c80f9704b7c45ee598d2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cf0c51a80526c1cf21873a58355e42a048cedca5",
+      "width" : 64
+    } ],
+    "name" : "Jam",
+    "type" : "album",
+    "uri" : "spotify:album:55JhpYi2dlMaKwwptm1Rcn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5HthaLyG6SfVxEuA94MAjm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5HthaLyG6SfVxEuA94MAjm",
+    "id" : "5HthaLyG6SfVxEuA94MAjm",
+    "name" : "Buttering Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:5HthaLyG6SfVxEuA94MAjm"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 112361,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "IL1462100015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5rCwQpQDNemDDt0ixhe11g"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5rCwQpQDNemDDt0ixhe11g",
+  "id" : "5rCwQpQDNemDDt0ixhe11g",
+  "name" : "Juno Juno",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2af0bca1911c7bfc44647e8added52313da95e4b?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5rCwQpQDNemDDt0ixhe11g"
+}

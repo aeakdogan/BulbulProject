@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+      "id" : "0L8ExT028jH3ddEcZwqJJ5",
+      "name" : "Red Hot Chili Peppers",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2Y9IRtehByVkegoD7TcLfi",
+    "id" : "2Y9IRtehByVkegoD7TcLfi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/260c7a6da14bb13a4cc9e75bf5b549fb87fa22a9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6f98acc4da4eb86ca2f9ebae5f8f173e59c5abef",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2da4d0271d9e4b1f37fd6c195e671d77ed61ca8f",
+      "width" : 64
+    } ],
+    "name" : "Californication (Deluxe Version)",
+    "type" : "album",
+    "uri" : "spotify:album:2Y9IRtehByVkegoD7TcLfi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+    "id" : "0L8ExT028jH3ddEcZwqJJ5",
+    "name" : "Red Hot Chili Peppers",
+    "type" : "artist",
+    "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 204973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19900700"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1XxCiPw07rd1ytYnE7SoJI",
+  "id" : "1XxCiPw07rd1ytYnE7SoJI",
+  "name" : "Road Trippin'",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/44653117c32f12cb2af30093736571893ff4c694?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:1XxCiPw07rd1ytYnE7SoJI"
+}

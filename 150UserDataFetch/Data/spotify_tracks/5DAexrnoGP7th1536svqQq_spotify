@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3bUWrk88LFgy9sWEftFycg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3bUWrk88LFgy9sWEftFycg",
+    "id" : "3bUWrk88LFgy9sWEftFycg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ea037ac57f13a52bec16fc459ec4de5d99514847",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7f1498bf5181399c9363dd1e938ec10491afd8cd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/711ef59a4b8891d999a563d733b24948b8c56bf5",
+      "width" : 64
+    } ],
+    "name" : "X-X Section",
+    "type" : "album",
+    "uri" : "spotify:album:3bUWrk88LFgy9sWEftFycg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0GQcMus50dSmI819BWDyTZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0GQcMus50dSmI819BWDyTZ",
+    "id" : "0GQcMus50dSmI819BWDyTZ",
+    "name" : "Andrew Chalk",
+    "type" : "artist",
+    "uri" : "spotify:artist:0GQcMus50dSmI819BWDyTZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 240733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUEX00608010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5DAexrnoGP7th1536svqQq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5DAexrnoGP7th1536svqQq",
+  "id" : "5DAexrnoGP7th1536svqQq",
+  "name" : "Ora",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3dffca9d2dbedc0648ed43f2a2ab1ef0356f597f?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5DAexrnoGP7th1536svqQq"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2D2svlzUpyTfcEEq0t3dgV",
+      "id" : "2D2svlzUpyTfcEEq0t3dgV",
+      "name" : "Sebastian Bach",
+      "type" : "artist",
+      "uri" : "spotify:artist:2D2svlzUpyTfcEEq0t3dgV"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Tu64CSco0ulGVKMOF6b68"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Tu64CSco0ulGVKMOF6b68",
+    "id" : "1Tu64CSco0ulGVKMOF6b68",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6a34d0ba80dc4921648d8ff611ab82b304ef121b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/53bd80b4afad387e340aa34a50652823a4d5ffc1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/41d5ea8c1ce8665b110907f2ea0073924b36d9e0",
+      "width" : 64
+    } ],
+    "name" : "Give 'Em Hell",
+    "type" : "album",
+    "uri" : "spotify:album:1Tu64CSco0ulGVKMOF6b68"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2D2svlzUpyTfcEEq0t3dgV",
+    "id" : "2D2svlzUpyTfcEEq0t3dgV",
+    "name" : "Sebastian Bach",
+    "type" : "artist",
+    "uri" : "spotify:artist:2D2svlzUpyTfcEEq0t3dgV"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 244200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITG271400183"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ceC9MZAl1laSaFsBO2T89"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ceC9MZAl1laSaFsBO2T89",
+  "id" : "0ceC9MZAl1laSaFsBO2T89",
+  "name" : "Gun to a Knife Fight",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5c87bb5e01c194770f2349a9218596f74f25364e?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0ceC9MZAl1laSaFsBO2T89"
+}

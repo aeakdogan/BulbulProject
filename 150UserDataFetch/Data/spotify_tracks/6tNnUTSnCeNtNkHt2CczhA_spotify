@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1tpXaFf2F55E7kVJON4j4G",
+      "id" : "1tpXaFf2F55E7kVJON4j4G",
+      "name" : "Black Rebel Motorcycle Club",
+      "type" : "artist",
+      "uri" : "spotify:artist:1tpXaFf2F55E7kVJON4j4G"
+    } ],
+    "available_markets" : [ "JP", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3otJWr2xpdvZJGNS303RCZ",
+    "id" : "3otJWr2xpdvZJGNS303RCZ",
+    "images" : [ {
+      "height" : 511,
+      "url" : "https://i.scdn.co/image/6a7df1dceebdd8c657d8423348acdcf0a318a3de",
+      "width" : 640
+    }, {
+      "height" : 240,
+      "url" : "https://i.scdn.co/image/b5128c31b3d34b75baf13970b75b7775f479d25b",
+      "width" : 300
+    }, {
+      "height" : 51,
+      "url" : "https://i.scdn.co/image/dd715649f290906d52fbdb0869671629ae2487a8",
+      "width" : 64
+    } ],
+    "name" : "Howl",
+    "type" : "album",
+    "uri" : "spotify:album:3otJWr2xpdvZJGNS303RCZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1tpXaFf2F55E7kVJON4j4G",
+    "id" : "1tpXaFf2F55E7kVJON4j4G",
+    "name" : "Black Rebel Motorcycle Club",
+    "type" : "artist",
+    "uri" : "spotify:artist:1tpXaFf2F55E7kVJON4j4G"
+  } ],
+  "available_markets" : [ "JP", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 157306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC10502975"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6tNnUTSnCeNtNkHt2CczhA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6tNnUTSnCeNtNkHt2CczhA",
+  "id" : "6tNnUTSnCeNtNkHt2CczhA",
+  "name" : "Complicated Situation",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/72466f23621f02e8d006510d85558262ee1cdd20?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:6tNnUTSnCeNtNkHt2CczhA"
+}

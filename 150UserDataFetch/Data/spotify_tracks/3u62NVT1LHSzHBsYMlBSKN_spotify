@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xDjKV6UvzyrI3RnwHq02G",
+      "id" : "5xDjKV6UvzyrI3RnwHq02G",
+      "name" : "Paris Combo",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xDjKV6UvzyrI3RnwHq02G"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7EqFBgK0Aj1dSrd6x0QZeH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7EqFBgK0Aj1dSrd6x0QZeH",
+    "id" : "7EqFBgK0Aj1dSrd6x0QZeH",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/c7b0b7a5c20d2af4f85a387320035bf09c9be66b",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/c87ea5a7e022116cf24653048d472d963cff43f0",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/8ffec0ddc7d362632e200f13b50be3a7aa014a4e",
+      "width" : 64
+    } ],
+    "name" : "Paris Combo",
+    "type" : "album",
+    "uri" : "spotify:album:7EqFBgK0Aj1dSrd6x0QZeH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5xDjKV6UvzyrI3RnwHq02G",
+    "id" : "5xDjKV6UvzyrI3RnwHq02G",
+    "name" : "Paris Combo",
+    "type" : "artist",
+    "uri" : "spotify:artist:5xDjKV6UvzyrI3RnwHq02G"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 249826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USKO10502144"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3u62NVT1LHSzHBsYMlBSKN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3u62NVT1LHSzHBsYMlBSKN",
+  "id" : "3u62NVT1LHSzHBsYMlBSKN",
+  "name" : "On N'a Pas Besoin",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cf49d9484f2fa10620b4d1064429730949694399?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3u62NVT1LHSzHBsYMlBSKN"
+}

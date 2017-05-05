@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VZL4fSh8hPuPZeuAu1uPJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3VZL4fSh8hPuPZeuAu1uPJ",
+      "id" : "3VZL4fSh8hPuPZeuAu1uPJ",
+      "name" : "Kal",
+      "type" : "artist",
+      "uri" : "spotify:artist:3VZL4fSh8hPuPZeuAu1uPJ"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7zZprM9ombLfKhUGPIwR2e"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7zZprM9ombLfKhUGPIwR2e",
+    "id" : "7zZprM9ombLfKhUGPIwR2e",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f6adbefe4145068ebaf10017615c22ff4197b3b2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/90e974eeca4e69169262e624934444e92ffaf159",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c238576e5e98a8a6b6c7800e9480ce5b6b293df",
+      "width" : 64
+    } ],
+    "name" : "Radio Romanista",
+    "type" : "album",
+    "uri" : "spotify:album:7zZprM9ombLfKhUGPIwR2e"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3VZL4fSh8hPuPZeuAu1uPJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3VZL4fSh8hPuPZeuAu1uPJ",
+    "id" : "3VZL4fSh8hPuPZeuAu1uPJ",
+    "name" : "Kal",
+    "type" : "artist",
+    "uri" : "spotify:artist:3VZL4fSh8hPuPZeuAu1uPJ"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 173360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEU330900217"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/68tl20R2XSS7Mu7qsZMVku"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/68tl20R2XSS7Mu7qsZMVku",
+  "id" : "68tl20R2XSS7Mu7qsZMVku",
+  "name" : "Ding Deng Dong",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/11b663ae22085cfddbd046219326cfef1e5ae3dd?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:68tl20R2XSS7Mu7qsZMVku"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0bbvrSsm0Dh4erBbE1dhHD",
+      "id" : "0bbvrSsm0Dh4erBbE1dhHD",
+      "name" : "April March",
+      "type" : "artist",
+      "uri" : "spotify:artist:0bbvrSsm0Dh4erBbE1dhHD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5UoHXzIiNVOhGq2bUs3rLV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5UoHXzIiNVOhGq2bUs3rLV",
+    "id" : "5UoHXzIiNVOhGq2bUs3rLV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/833c7a54fa260bdfab652ad923e63cb1abff4787",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c78e582806b76d5e558c988821907a85b1819756",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f764788890065e0872f7adec041a16f9432bbf7e",
+      "width" : 64
+    } ],
+    "name" : "Paris in April",
+    "type" : "album",
+    "uri" : "spotify:album:5UoHXzIiNVOhGq2bUs3rLV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0bbvrSsm0Dh4erBbE1dhHD",
+    "id" : "0bbvrSsm0Dh4erBbE1dhHD",
+    "name" : "April March",
+    "type" : "artist",
+    "uri" : "spotify:artist:0bbvrSsm0Dh4erBbE1dhHD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 155386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2860445610"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/67QC36LlXpcXWAc5G1Itwl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/67QC36LlXpcXWAc5G1Itwl",
+  "id" : "67QC36LlXpcXWAc5G1Itwl",
+  "name" : "Le Temps de l'amour",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f97731c84e8c54650bd1896671092952f6e646ae?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:67QC36LlXpcXWAc5G1Itwl"
+}

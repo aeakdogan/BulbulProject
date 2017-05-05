@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4uSftVc3FPWe6RJuMZNEe9",
+      "id" : "4uSftVc3FPWe6RJuMZNEe9",
+      "name" : "Andrew Bird",
+      "type" : "artist",
+      "uri" : "spotify:artist:4uSftVc3FPWe6RJuMZNEe9"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "EC", "JP", "MX", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4PFQTCEg9nw34eiMux8y2c"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4PFQTCEg9nw34eiMux8y2c",
+    "id" : "4PFQTCEg9nw34eiMux8y2c",
+    "images" : [ {
+      "height" : 578,
+      "url" : "https://i.scdn.co/image/3887de4e0d8dab598b24e8dda93b9cfdae187a51",
+      "width" : 640
+    }, {
+      "height" : 271,
+      "url" : "https://i.scdn.co/image/721115d79665225244c52119c3cb8f152742f4ef",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/7a76d54dd2ee6dd257811f885667d70f8f44159c",
+      "width" : 64
+    } ],
+    "name" : "Soldier On",
+    "type" : "album",
+    "uri" : "spotify:album:4PFQTCEg9nw34eiMux8y2c"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4uSftVc3FPWe6RJuMZNEe9",
+    "id" : "4uSftVc3FPWe6RJuMZNEe9",
+    "name" : "Andrew Bird",
+    "type" : "artist",
+    "uri" : "spotify:artist:4uSftVc3FPWe6RJuMZNEe9"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "EC", "JP", "MX", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 389560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4H70803601"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2bQOddBU1qv6kUhDZrsBDL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2bQOddBU1qv6kUhDZrsBDL",
+  "id" : "2bQOddBU1qv6kUhDZrsBDL",
+  "name" : "The Trees Were Mistaken",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/77e9cfeddfdf29ac712a23c350bcb9390b8408c5?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2bQOddBU1qv6kUhDZrsBDL"
+}

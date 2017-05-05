@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4GvOygVQquMaPm8oAc0vXi",
+      "id" : "4GvOygVQquMaPm8oAc0vXi",
+      "name" : "The Streets",
+      "type" : "artist",
+      "uri" : "spotify:artist:4GvOygVQquMaPm8oAc0vXi"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u"
+    },
+    "href" : "https://api.spotify.com/v1/albums/365ETCJBUmEWroc4UGBS1u",
+    "id" : "365ETCJBUmEWroc4UGBS1u",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/67b1108bd2a0bb660be608bb1734aa0c72e3db4b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dd2650f6af1e8b752c25fed0745f977f224a02fa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/48e85a0ca10b2f83c4937d753d6607cb223eb501",
+      "width" : 64
+    } ],
+    "name" : "A Grand Don't Come For Free",
+    "type" : "album",
+    "uri" : "spotify:album:365ETCJBUmEWroc4UGBS1u"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4GvOygVQquMaPm8oAc0vXi",
+    "id" : "4GvOygVQquMaPm8oAc0vXi",
+    "name" : "The Streets",
+    "type" : "artist",
+    "uri" : "spotify:artist:4GvOygVQquMaPm8oAc0vXi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 233800,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBFFS0400013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1tE7eS2QsBIV6OaSCXaxPM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1tE7eS2QsBIV6OaSCXaxPM",
+  "id" : "1tE7eS2QsBIV6OaSCXaxPM",
+  "name" : "It Was Supposed To Be So Easy",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/964edb73d3a7045f760ee54702efadb50d1f4222?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1tE7eS2QsBIV6OaSCXaxPM"
+}

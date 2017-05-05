@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/27a0GiCba9K9lnkKidroFU",
+      "id" : "27a0GiCba9K9lnkKidroFU",
+      "name" : "Canned Heat",
+      "type" : "artist",
+      "uri" : "spotify:artist:27a0GiCba9K9lnkKidroFU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0TBmLh3U5sk1F8eF0twjwi",
+    "id" : "0TBmLh3U5sk1F8eF0twjwi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fea49134add6fc761c41b4bbb84a9c1e0fa73799",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b83f79c17a44a9aa24a49748d489c52d80c36fb5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/50e200787fbc37f45150178755114e996ee11aa8",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Canned Heat",
+    "type" : "album",
+    "uri" : "spotify:album:0TBmLh3U5sk1F8eF0twjwi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/27a0GiCba9K9lnkKidroFU",
+    "id" : "27a0GiCba9K9lnkKidroFU",
+    "name" : "Canned Heat",
+    "type" : "artist",
+    "uri" : "spotify:artist:27a0GiCba9K9lnkKidroFU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 171373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEM38700071"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/57460SJgSpCXaRJ9YIYHxy",
+  "id" : "57460SJgSpCXaRJ9YIYHxy",
+  "name" : "Going Up The Country",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cc4b83aed9fc412575fe6afe74e2d795f4c2e6b0?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:57460SJgSpCXaRJ9YIYHxy"
+}

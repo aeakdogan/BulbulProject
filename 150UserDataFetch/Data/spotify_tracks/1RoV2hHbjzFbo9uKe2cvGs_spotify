@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+      "id" : "3OsRAKCvk37zwYcnzRf5XF",
+      "name" : "Moby",
+      "type" : "artist",
+      "uri" : "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5MiL1RXRXGXETgZ2LjaG0U"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5MiL1RXRXGXETgZ2LjaG0U",
+    "id" : "5MiL1RXRXGXETgZ2LjaG0U",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/13adcab7b85b48ebf8d858b5763fe3fdd49e0e45",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ec8aec412876ebb6674602d1cefd34ca05cc050b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/88e3d71bd136fbdbd889345b4d613a847638d06a",
+      "width" : 64
+    } ],
+    "name" : "18 & 18 B-Sides",
+    "type" : "album",
+    "uri" : "spotify:album:5MiL1RXRXGXETgZ2LjaG0U"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+    "id" : "3OsRAKCvk37zwYcnzRf5XF",
+    "name" : "Moby",
+    "type" : "artist",
+    "uri" : "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 237640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0200051"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1RoV2hHbjzFbo9uKe2cvGs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1RoV2hHbjzFbo9uKe2cvGs",
+  "id" : "1RoV2hHbjzFbo9uKe2cvGs",
+  "name" : "Extreme Ways",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ce885ac6462ef8618630c2f818e1a02a8934d58f?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1RoV2hHbjzFbo9uKe2cvGs"
+}

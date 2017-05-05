@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+      "id" : "5c3GLXai8YOMid29ZEuR9y",
+      "name" : "Nick Drake",
+      "type" : "artist",
+      "uri" : "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/37NXzMNSyW0RhFVM2bkACC",
+    "id" : "37NXzMNSyW0RhFVM2bkACC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fadcad59adcab7611c5a4d592b789db7a4e20453",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/48112041ce247060ffe34ef111e740fe7ad61d3b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a2145438cd3845b7283115c8cc59e6b0d6fb8c99",
+      "width" : 64
+    } ],
+    "name" : "Digital Box Set",
+    "type" : "album",
+    "uri" : "spotify:album:37NXzMNSyW0RhFVM2bkACC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+    "id" : "5c3GLXai8YOMid29ZEuR9y",
+    "name" : "Nick Drake",
+    "type" : "artist",
+    "uri" : "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 5,
+  "duration_ms" : 122013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70703188"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0cZA9elxAj5u5lRyhpAbx3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0cZA9elxAj5u5lRyhpAbx3",
+  "id" : "0cZA9elxAj5u5lRyhpAbx3",
+  "name" : "If You Leave Me",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4defa490fc7500df15828a9385be6c49105cb6de?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:0cZA9elxAj5u5lRyhpAbx3"
+}

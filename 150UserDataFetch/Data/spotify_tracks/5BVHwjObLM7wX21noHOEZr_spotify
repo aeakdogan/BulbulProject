@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7KMqksf0UMdyA0UCf4R3ux",
+      "id" : "7KMqksf0UMdyA0UCf4R3ux",
+      "name" : "James Blunt",
+      "type" : "artist",
+      "uri" : "spotify:artist:7KMqksf0UMdyA0UCf4R3ux"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1uq6tZQUDd1AMpLtga89KW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1uq6tZQUDd1AMpLtga89KW",
+    "id" : "1uq6tZQUDd1AMpLtga89KW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c4db7fd0712f04be67d3049b14c43605f4a31e81",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/27a5b57b4a466dc933fd62270607d1f01dd8fcf2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dd3158689d96fc4527810198d75e09e27b25d303",
+      "width" : 64
+    } ],
+    "name" : "Some Kind Of Trouble",
+    "type" : "album",
+    "uri" : "spotify:album:1uq6tZQUDd1AMpLtga89KW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7KMqksf0UMdyA0UCf4R3ux",
+    "id" : "7KMqksf0UMdyA0UCf4R3ux",
+    "name" : "James Blunt",
+    "type" : "artist",
+    "uri" : "spotify:artist:7KMqksf0UMdyA0UCf4R3ux"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 210840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT21002190"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5BVHwjObLM7wX21noHOEZr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5BVHwjObLM7wX21noHOEZr",
+  "id" : "5BVHwjObLM7wX21noHOEZr",
+  "name" : "So Far Gone",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d48f01bfdf73f0a44f69e8a2862b34dcb40cb987?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5BVHwjObLM7wX21noHOEZr"
+}

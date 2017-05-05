@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/73ZPfpfg1LBVvDEArK4l5B",
+      "id" : "73ZPfpfg1LBVvDEArK4l5B",
+      "name" : "Des'ree",
+      "type" : "artist",
+      "uri" : "spotify:artist:73ZPfpfg1LBVvDEArK4l5B"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3SwBajIGtIPylPqzWS9V1i",
+    "id" : "3SwBajIGtIPylPqzWS9V1i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/330d74c5de30ea04b37b2e09efa38b452ad8c213",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e740d10166d55ba9b9381c9eeacfd9bd1f188fb2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/701238ee479a2ea1c87dcedd3bde18aacc1f2e74",
+      "width" : 64
+    } ],
+    "name" : "Supernatural",
+    "type" : "album",
+    "uri" : "spotify:album:3SwBajIGtIPylPqzWS9V1i"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+    },
+    "href" : "https://api.spotify.com/v1/artists/73ZPfpfg1LBVvDEArK4l5B",
+    "id" : "73ZPfpfg1LBVvDEArK4l5B",
+    "name" : "Des'ree",
+    "type" : "artist",
+    "uri" : "spotify:artist:73ZPfpfg1LBVvDEArK4l5B"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 216040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBL9802010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5LGqFIVBf3ZUeFBpc87CFS",
+  "id" : "5LGqFIVBf3ZUeFBpc87CFS",
+  "name" : "Life",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/379e065c1c87c94696404a8b37a41fff452112bb?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5LGqFIVBf3ZUeFBpc87CFS"
+}

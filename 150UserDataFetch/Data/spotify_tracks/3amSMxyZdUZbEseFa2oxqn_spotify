@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CQrZZn0g2ZNfIcXbi4pdo",
+      "id" : "6CQrZZn0g2ZNfIcXbi4pdo",
+      "name" : "Mason Jennings",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CQrZZn0g2ZNfIcXbi4pdo"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Q7m8VGMOQCSfufcmCwmjc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Q7m8VGMOQCSfufcmCwmjc",
+    "id" : "0Q7m8VGMOQCSfufcmCwmjc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9ada2d83ca96de1c7efec5d7d55e950f45b7170a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5965ee38421e8d2ec214b88db6f496153a6d3023",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dfc55e7e3e118db8ad1328f2098672da459ee441",
+      "width" : 64
+    } ],
+    "name" : "Birds Flying Away",
+    "type" : "album",
+    "uri" : "spotify:album:0Q7m8VGMOQCSfufcmCwmjc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6CQrZZn0g2ZNfIcXbi4pdo",
+    "id" : "6CQrZZn0g2ZNfIcXbi4pdo",
+    "name" : "Mason Jennings",
+    "type" : "artist",
+    "uri" : "spotify:artist:6CQrZZn0g2ZNfIcXbi4pdo"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 193600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US37V0212607"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3amSMxyZdUZbEseFa2oxqn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3amSMxyZdUZbEseFa2oxqn",
+  "id" : "3amSMxyZdUZbEseFa2oxqn",
+  "name" : "Birds Flying Away",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/87244473135f63a9f29e27305a2f2f5e908671c1?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:3amSMxyZdUZbEseFa2oxqn"
+}

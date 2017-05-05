@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+      "id" : "6hhA8TKRNryM8FNzqCqdDO",
+      "name" : "Tricky",
+      "type" : "artist",
+      "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6rz0jrS5xRq1rArZWXz5lv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6rz0jrS5xRq1rArZWXz5lv",
+    "id" : "6rz0jrS5xRq1rArZWXz5lv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/449d692a1fc6fe1eae355dc2d8e1de4a8f56bbdf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a479e122a2c5e52be9e48ab0454d3fb726f0243f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/83e27b1809c9283a8e4f93e9cbbe70bd24b5ef0d",
+      "width" : 64
+    } ],
+    "name" : "Mixed Race",
+    "type" : "album",
+    "uri" : "spotify:album:6rz0jrS5xRq1rArZWXz5lv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+    "id" : "6hhA8TKRNryM8FNzqCqdDO",
+    "name" : "Tricky",
+    "type" : "artist",
+    "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 178533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1000417"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7BjkzmgSj7bI6q1WhGjMRw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7BjkzmgSj7bI6q1WhGjMRw",
+  "id" : "7BjkzmgSj7bI6q1WhGjMRw",
+  "name" : "Murder Weapon",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0d3351e6fadfb771479247e82140223ee5345fd4?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:7BjkzmgSj7bI6q1WhGjMRw"
+}

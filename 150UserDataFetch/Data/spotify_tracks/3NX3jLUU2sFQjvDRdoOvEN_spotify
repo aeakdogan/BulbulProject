@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+      "id" : "5a2EaR3hamoenG9rDuVn8j",
+      "name" : "Prince",
+      "type" : "artist",
+      "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5kbRcoeBHpJHe37a9agmfv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5kbRcoeBHpJHe37a9agmfv",
+    "id" : "5kbRcoeBHpJHe37a9agmfv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2fc028a13a452f22a8c18c772657efbed144ea87",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e6148a800cdf2d6fdf709b2a3e1e2ccf251cfadd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2171022cdc9c9117d3dc56663e3a88f03de55635",
+      "width" : 64
+    } ],
+    "name" : "For You",
+    "type" : "album",
+    "uri" : "spotify:album:5kbRcoeBHpJHe37a9agmfv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+    "id" : "5a2EaR3hamoenG9rDuVn8j",
+    "name" : "Prince",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 270200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19903870"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3NX3jLUU2sFQjvDRdoOvEN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3NX3jLUU2sFQjvDRdoOvEN",
+  "id" : "3NX3jLUU2sFQjvDRdoOvEN",
+  "name" : "So Blue",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aa3ca30a35c87a1228077fbbb4175ca287bc5577?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:3NX3jLUU2sFQjvDRdoOvEN"
+}

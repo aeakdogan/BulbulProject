@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4KkHjCe8ouh8C2P9LPoD4F",
+      "id" : "4KkHjCe8ouh8C2P9LPoD4F",
+      "name" : "Yolanda Be Cool",
+      "type" : "artist",
+      "uri" : "spotify:artist:4KkHjCe8ouh8C2P9LPoD4F"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6OkVmXCnj1BPjTf5aihiwt",
+      "id" : "6OkVmXCnj1BPjTf5aihiwt",
+      "name" : "DCup",
+      "type" : "artist",
+      "uri" : "spotify:artist:6OkVmXCnj1BPjTf5aihiwt"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2nYPMA0nLbFVCmeRTMAuH3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2nYPMA0nLbFVCmeRTMAuH3",
+    "id" : "2nYPMA0nLbFVCmeRTMAuH3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/721c0617d232f83822550f9c9d423564e7c65a15",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/24eac5eb541d9790b667a89915d061d41b9cdd88",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/839b821592cf696aafcb2628c31955f4179ad46f",
+      "width" : 64
+    } ],
+    "name" : "We No Speak Americano (Yolanda Be Cool vs. DCUP) (Remixes Vol. 1)",
+    "type" : "album",
+    "uri" : "spotify:album:2nYPMA0nLbFVCmeRTMAuH3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4KkHjCe8ouh8C2P9LPoD4F",
+    "id" : "4KkHjCe8ouh8C2P9LPoD4F",
+    "name" : "Yolanda Be Cool",
+    "type" : "artist",
+    "uri" : "spotify:artist:4KkHjCe8ouh8C2P9LPoD4F"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6OkVmXCnj1BPjTf5aihiwt",
+    "id" : "6OkVmXCnj1BPjTf5aihiwt",
+    "name" : "DCup",
+    "type" : "artist",
+    "uri" : "spotify:artist:6OkVmXCnj1BPjTf5aihiwt"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 157440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUCN30901654"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6Ljak2OKTpSJSWWRPgiqO4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6Ljak2OKTpSJSWWRPgiqO4",
+  "id" : "6Ljak2OKTpSJSWWRPgiqO4",
+  "name" : "We No Speak Americano - Radio Edit",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4be9e5e03054e593a8ed2ee010d7e6de9134fbea?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6Ljak2OKTpSJSWWRPgiqO4"
+}

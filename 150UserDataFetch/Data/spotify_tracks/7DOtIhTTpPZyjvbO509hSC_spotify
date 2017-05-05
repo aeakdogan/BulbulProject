@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+      "id" : "6tbjWDEIzxoDsBA1FuhfPW",
+      "name" : "Madonna",
+      "type" : "artist",
+      "uri" : "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3e3PxWKqv7lyZaR5d02abW",
+    "id" : "3e3PxWKqv7lyZaR5d02abW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9590982c69f760e0e1e17cf2f4085ebe70b61908",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1bc547366d3a6f966d1ae8228a12ceadbf144af4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2d9ef042443ab3b6de24a875206fe3ddfebfd1bc",
+      "width" : 64
+    } ],
+    "name" : "Music (U.S. Version)",
+    "type" : "album",
+    "uri" : "spotify:album:3e3PxWKqv7lyZaR5d02abW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+    "id" : "6tbjWDEIzxoDsBA1FuhfPW",
+    "name" : "Madonna",
+    "type" : "artist",
+    "uri" : "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 280973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10002377"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7DOtIhTTpPZyjvbO509hSC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7DOtIhTTpPZyjvbO509hSC",
+  "id" : "7DOtIhTTpPZyjvbO509hSC",
+  "name" : "Don't Tell Me",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fd3297e74545247887be09d7ee0a5e47affbd622?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:7DOtIhTTpPZyjvbO509hSC"
+}

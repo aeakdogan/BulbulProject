@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0MlOPi3zIDMVrfA9R04Fe3",
+      "id" : "0MlOPi3zIDMVrfA9R04Fe3",
+      "name" : "American Authors",
+      "type" : "artist",
+      "uri" : "spotify:artist:0MlOPi3zIDMVrfA9R04Fe3"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0V4laGZGshNCpurfIdUhHv",
+    "id" : "0V4laGZGshNCpurfIdUhHv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/92f219a25a075facb0510a9afaf3994baa0896d7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/157f2501bdac1e38959a3afdb537fe56500a9cd4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8f4c9500d3b9816bfcfc23185225a4130f47963b",
+      "width" : 64
+    } ],
+    "name" : "Oh, What A Life",
+    "type" : "album",
+    "uri" : "spotify:album:0V4laGZGshNCpurfIdUhHv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0MlOPi3zIDMVrfA9R04Fe3",
+    "id" : "0MlOPi3zIDMVrfA9R04Fe3",
+    "name" : "American Authors",
+    "type" : "artist",
+    "uri" : "spotify:artist:0MlOPi3zIDMVrfA9R04Fe3"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 194240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71302187"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Hroj5K7vLpIG4FNCRIjbP",
+  "id" : "5Hroj5K7vLpIG4FNCRIjbP",
+  "name" : "Best Day Of My Life",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/562b81466914e774cede6980e5fa79fbd4da1dd1?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5Hroj5K7vLpIG4FNCRIjbP"
+}

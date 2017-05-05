@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49BCwqtDaxhQFnaFk6DWVV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49BCwqtDaxhQFnaFk6DWVV",
+      "id" : "49BCwqtDaxhQFnaFk6DWVV",
+      "name" : "Marsen Jules Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:49BCwqtDaxhQFnaFk6DWVV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58OsIXYmSTERQ6rICyWRqB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/58OsIXYmSTERQ6rICyWRqB",
+      "id" : "58OsIXYmSTERQ6rICyWRqB",
+      "name" : "Marsen Jules",
+      "type" : "artist",
+      "uri" : "spotify:artist:58OsIXYmSTERQ6rICyWRqB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2w6KuNwhzEIoqSoOMbklEO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2w6KuNwhzEIoqSoOMbklEO",
+    "id" : "2w6KuNwhzEIoqSoOMbklEO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eecc80b054da6abdcdb9e81b599464acf32c9694",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8e45ba8b83e6bb9a24df550a9e414454b5923116",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6c8b67bb7aac5ccf18d13007baddfc1dd8391eb1",
+      "width" : 64
+    } ],
+    "name" : "Présence Acousmatique",
+    "type" : "album",
+    "uri" : "spotify:album:2w6KuNwhzEIoqSoOMbklEO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/49BCwqtDaxhQFnaFk6DWVV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/49BCwqtDaxhQFnaFk6DWVV",
+    "id" : "49BCwqtDaxhQFnaFk6DWVV",
+    "name" : "Marsen Jules Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:49BCwqtDaxhQFnaFk6DWVV"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/58OsIXYmSTERQ6rICyWRqB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/58OsIXYmSTERQ6rICyWRqB",
+    "id" : "58OsIXYmSTERQ6rICyWRqB",
+    "name" : "Marsen Jules",
+    "type" : "artist",
+    "uri" : "spotify:artist:58OsIXYmSTERQ6rICyWRqB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 594013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEU671201140"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4uiU6oCYbGzzmzBz29bNVs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4uiU6oCYbGzzmzBz29bNVs",
+  "id" : "4uiU6oCYbGzzmzBz29bNVs",
+  "name" : "Maison en vitre",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9f1fdb3b5793b1df168622cc166bd348e875428c?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4uiU6oCYbGzzmzBz29bNVs"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aFKbKHCNNDNAG0jSmr9go"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aFKbKHCNNDNAG0jSmr9go",
+      "id" : "7aFKbKHCNNDNAG0jSmr9go",
+      "name" : "The Organ",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aFKbKHCNNDNAG0jSmr9go"
+    } ],
+    "available_markets" : [ "CA", "FR", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6yN9L3RSx6BkKsKi8hPezd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6yN9L3RSx6BkKsKi8hPezd",
+    "id" : "6yN9L3RSx6BkKsKi8hPezd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/46ed3f6a0e15968b875b92557a432b5516af1df4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/39ab955ee87924ade0fd9ea7fee91fcdf39f1630",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4dea620b46bc292d660a293cdf65453df5719af5",
+      "width" : 64
+    } ],
+    "name" : "Grab That Gun",
+    "type" : "album",
+    "uri" : "spotify:album:6yN9L3RSx6BkKsKi8hPezd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7aFKbKHCNNDNAG0jSmr9go"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7aFKbKHCNNDNAG0jSmr9go",
+    "id" : "7aFKbKHCNNDNAG0jSmr9go",
+    "name" : "The Organ",
+    "type" : "artist",
+    "uri" : "spotify:artist:7aFKbKHCNNDNAG0jSmr9go"
+  } ],
+  "available_markets" : [ "CA", "FR", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 164586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAB390400042"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0GDYrfpiUXhkYwUp0lT2Cw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0GDYrfpiUXhkYwUp0lT2Cw",
+  "id" : "0GDYrfpiUXhkYwUp0lT2Cw",
+  "name" : "I Am Not Surprised",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b863cfe6ffabe523e1ab5de12f7b332a82224f30?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0GDYrfpiUXhkYwUp0lT2Cw"
+}

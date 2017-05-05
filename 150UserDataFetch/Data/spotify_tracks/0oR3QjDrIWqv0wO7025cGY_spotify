@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+      "id" : "4I2BJf80C0skQpp1sQmA0h",
+      "name" : "Belle & Sebastian",
+      "type" : "artist",
+      "uri" : "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6dCg3NshlkeOJPyhPZG8Qa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6dCg3NshlkeOJPyhPZG8Qa",
+    "id" : "6dCg3NshlkeOJPyhPZG8Qa",
+    "images" : [ {
+      "height" : 580,
+      "url" : "https://i.scdn.co/image/b08ef8c0b8a4d27bcbb365978a0e6caa3b9b4aa3",
+      "width" : 600
+    }, {
+      "height" : 290,
+      "url" : "https://i.scdn.co/image/0a9d374c2ae768535e8d64889fdf32ad4119acc0",
+      "width" : 300
+    }, {
+      "height" : 62,
+      "url" : "https://i.scdn.co/image/1aad06ab0543e00c7a6932745e9611f08d920f5c",
+      "width" : 64
+    } ],
+    "name" : "If You’re Feeling Sinister",
+    "type" : "album",
+    "uri" : "spotify:album:6dCg3NshlkeOJPyhPZG8Qa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+    "id" : "4I2BJf80C0skQpp1sQmA0h",
+    "name" : "Belle & Sebastian",
+    "type" : "artist",
+    "uri" : "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 220506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD9829610"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0oR3QjDrIWqv0wO7025cGY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0oR3QjDrIWqv0wO7025cGY",
+  "id" : "0oR3QjDrIWqv0wO7025cGY",
+  "name" : "Judy and the Dream of Horses",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/89656a15b22dbf8b6ff4e07362475116825d9b20?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:0oR3QjDrIWqv0wO7025cGY"
+}

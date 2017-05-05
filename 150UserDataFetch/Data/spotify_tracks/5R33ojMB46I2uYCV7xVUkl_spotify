@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+      "id" : "3OsRAKCvk37zwYcnzRf5XF",
+      "name" : "Moby",
+      "type" : "artist",
+      "uri" : "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5vxdslpi1y9w7lyW3fkhen"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5vxdslpi1y9w7lyW3fkhen",
+    "id" : "5vxdslpi1y9w7lyW3fkhen",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9c52f55b8233217281946df579ced8a0f27c7c9d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2454dc032df6a5c06870e6a06f6910a834f95d29",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/61eac9b48b78e1c3a3142252f06ab34138432b91",
+      "width" : 64
+    } ],
+    "name" : "Hotel",
+    "type" : "album",
+    "uri" : "spotify:album:5vxdslpi1y9w7lyW3fkhen"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+    "id" : "3OsRAKCvk37zwYcnzRf5XF",
+    "name" : "Moby",
+    "type" : "artist",
+    "uri" : "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 226000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0403049"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5R33ojMB46I2uYCV7xVUkl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5R33ojMB46I2uYCV7xVUkl",
+  "id" : "5R33ojMB46I2uYCV7xVUkl",
+  "name" : "Raining Again",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e8ec08b96b365f7b680f37ae6ab1369e2d602760?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5R33ojMB46I2uYCV7xVUkl"
+}

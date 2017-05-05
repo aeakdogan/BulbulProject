@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ZPbX2Lxd40e2UVkXpyxvI",
+      "id" : "6ZPbX2Lxd40e2UVkXpyxvI",
+      "name" : "Great White",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ZPbX2Lxd40e2UVkXpyxvI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0gPfgxBDkrtJgwIkziS8LI",
+    "id" : "0gPfgxBDkrtJgwIkziS8LI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/73a5dad55364d3eb7a91f52e84b2ff7b3d68706e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e35b3f700f560199e76fc45ec1392e7b61b6be89",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/006a8fc942c75abfebfcf52cf4c3b233650f33a9",
+      "width" : 64
+    } ],
+    "name" : "Twice Shy",
+    "type" : "album",
+    "uri" : "spotify:album:0gPfgxBDkrtJgwIkziS8LI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6ZPbX2Lxd40e2UVkXpyxvI",
+    "id" : "6ZPbX2Lxd40e2UVkXpyxvI",
+    "name" : "Great White",
+    "type" : "artist",
+    "uri" : "spotify:artist:6ZPbX2Lxd40e2UVkXpyxvI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 291066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA28900545"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1JxRLFVoFx2f7zumJwRDSw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1JxRLFVoFx2f7zumJwRDSw",
+  "id" : "1JxRLFVoFx2f7zumJwRDSw",
+  "name" : "The Angel Song",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/71901e84199101ac30f433d363c79b9daf6c151a?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1JxRLFVoFx2f7zumJwRDSw"
+}

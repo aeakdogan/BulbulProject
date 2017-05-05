@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5gqhueRUZEa7VDnQt4HODp",
+      "id" : "5gqhueRUZEa7VDnQt4HODp",
+      "name" : "Nils Frahm",
+      "type" : "artist",
+      "uri" : "spotify:artist:5gqhueRUZEa7VDnQt4HODp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7vfLaNMsJSCHNiDfSHICXz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7vfLaNMsJSCHNiDfSHICXz",
+    "id" : "7vfLaNMsJSCHNiDfSHICXz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/be2cd97b1651e0f2d947f1a88a3bd28a1ee8095b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/827fe70d372f1a5facc584bdd3cd2a7da1e067c3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b0456b53f1867d407a977d3b1c0db4833aab9d46",
+      "width" : 64
+    } ],
+    "name" : "Felt",
+    "type" : "album",
+    "uri" : "spotify:album:7vfLaNMsJSCHNiDfSHICXz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5gqhueRUZEa7VDnQt4HODp",
+    "id" : "5gqhueRUZEa7VDnQt4HODp",
+    "name" : "Nils Frahm",
+    "type" : "artist",
+    "uri" : "spotify:artist:5gqhueRUZEa7VDnQt4HODp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 535586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBWZD1103309"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4hSOC592Hse2wl7KzUibTL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4hSOC592Hse2wl7KzUibTL",
+  "id" : "4hSOC592Hse2wl7KzUibTL",
+  "name" : "More",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/42dd418c6dd4725df4aa80ea7f18773d2c67b181?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:4hSOC592Hse2wl7KzUibTL"
+}

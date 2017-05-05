@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/217b0uqAzsOOhGcnoANZqj",
+      "id" : "217b0uqAzsOOhGcnoANZqj",
+      "name" : "Sonny Stitt",
+      "type" : "artist",
+      "uri" : "spotify:artist:217b0uqAzsOOhGcnoANZqj"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1DkGqPLOGm1pNE0iS1JSly"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1DkGqPLOGm1pNE0iS1JSly",
+    "id" : "1DkGqPLOGm1pNE0iS1JSly",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/56c9c4c9be98e6f4cc3005d7ebe501ccb1d2cac4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/45439b35ad850bf401d55b02aa35aa091fb36241",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b61cae4f402ce4ba7b8e7feacaa68f5a93ccc3bd",
+      "width" : 64
+    } ],
+    "name" : "Now! / Salt & Pepper",
+    "type" : "album",
+    "uri" : "spotify:album:1DkGqPLOGm1pNE0iS1JSly"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/217b0uqAzsOOhGcnoANZqj",
+    "id" : "217b0uqAzsOOhGcnoANZqj",
+    "name" : "Sonny Stitt",
+    "type" : "artist",
+    "uri" : "spotify:artist:217b0uqAzsOOhGcnoANZqj"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 194293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC16352139"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3zHKpy0zopW3pNmyz8y28T"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3zHKpy0zopW3pNmyz8y28T",
+  "id" : "3zHKpy0zopW3pNmyz8y28T",
+  "name" : "Estralita",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3fa864ebf2796ebb1b2d044040fd9468e937c877?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3zHKpy0zopW3pNmyz8y28T"
+}

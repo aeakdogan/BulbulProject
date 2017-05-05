@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CrCKxXekxMpkYfMEf8mca",
+      "id" : "0CrCKxXekxMpkYfMEf8mca",
+      "name" : "Rebecca Ferguson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CrCKxXekxMpkYfMEf8mca"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7casok18TXKpkt263CTlfM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7casok18TXKpkt263CTlfM",
+    "id" : "7casok18TXKpkt263CTlfM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4d796104f062b3348aca64693266d234ce770fcb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b1a8a8ca94abed40746b2ace98e798542b4530a7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2fee128ae237ea18c93e207e7aa31a9c2bee53d3",
+      "width" : 64
+    } ],
+    "name" : "Heaven",
+    "type" : "album",
+    "uri" : "spotify:album:7casok18TXKpkt263CTlfM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0CrCKxXekxMpkYfMEf8mca",
+    "id" : "0CrCKxXekxMpkYfMEf8mca",
+    "name" : "Rebecca Ferguson",
+    "type" : "artist",
+    "uri" : "spotify:artist:0CrCKxXekxMpkYfMEf8mca"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 208266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBHMU1100238"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1qRhvlCXiB8JsNM6uP27Km"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1qRhvlCXiB8JsNM6uP27Km",
+  "id" : "1qRhvlCXiB8JsNM6uP27Km",
+  "name" : "Glitter & Gold",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4699ec3397646e6da6b65b9f0a8fa5b162f6bfe8?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1qRhvlCXiB8JsNM6uP27Km"
+}

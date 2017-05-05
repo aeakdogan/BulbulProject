@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3AkXixblWnOI9FjVvMIDHX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3AkXixblWnOI9FjVvMIDHX",
+    "id" : "3AkXixblWnOI9FjVvMIDHX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1c0442c2ee6e502b1ca9e3228b04de9f8a16f377",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9100347ba9b52bbe5368917123fab676a719d4f8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d5d29d25d4df39fdfb4ee3247e9eda968a1b114",
+      "width" : 64
+    } ],
+    "name" : "French Attack!",
+    "type" : "album",
+    "uri" : "spotify:album:3AkXixblWnOI9FjVvMIDHX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2o3U0ld93tHYowkoari4Vi",
+    "id" : "2o3U0ld93tHYowkoari4Vi",
+    "name" : "Danger",
+    "type" : "artist",
+    "uri" : "spotify:artist:2o3U0ld93tHYowkoari4Vi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 275720,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR9W10701521"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1XA4DfrILXpNDA9MMYru0t"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1XA4DfrILXpNDA9MMYru0t",
+  "id" : "1XA4DfrILXpNDA9MMYru0t",
+  "name" : "11h30 - Data Remix",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9cbb42b321405139095142065df83c655d3861e4?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1XA4DfrILXpNDA9MMYru0t"
+}

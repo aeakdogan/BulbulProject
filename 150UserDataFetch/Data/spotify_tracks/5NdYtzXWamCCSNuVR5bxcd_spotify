@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+      "id" : "3pTE9iaJTkWns3mxpNQlJV",
+      "name" : "Bombay Bicycle Club",
+      "type" : "artist",
+      "uri" : "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4X0bhkSBOfcnOPyfG5Ef6a",
+    "id" : "4X0bhkSBOfcnOPyfG5Ef6a",
+    "images" : [ {
+      "height" : 633,
+      "url" : "https://i.scdn.co/image/73d65d7d599bdeb2a21e9fbce2020413019266c0",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/54c4dca68af3f1062bc73697c695bc3f6e1fa5e2",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/541e73f1863d3576613721dda6e5452c83682bb1",
+      "width" : 64
+    } ],
+    "name" : "I Had The Blues But I Shook Them Loose",
+    "type" : "album",
+    "uri" : "spotify:album:4X0bhkSBOfcnOPyfG5Ef6a"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3pTE9iaJTkWns3mxpNQlJV",
+    "id" : "3pTE9iaJTkWns3mxpNQlJV",
+    "name" : "Bombay Bicycle Club",
+    "type" : "artist",
+    "uri" : "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 86520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70901120"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5NdYtzXWamCCSNuVR5bxcd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5NdYtzXWamCCSNuVR5bxcd",
+  "id" : "5NdYtzXWamCCSNuVR5bxcd",
+  "name" : "Emergency Contraception Blues",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a9383a91b32203f6b649843656646089c6722b87?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5NdYtzXWamCCSNuVR5bxcd"
+}

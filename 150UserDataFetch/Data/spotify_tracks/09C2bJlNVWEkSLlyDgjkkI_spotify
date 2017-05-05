@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kubsO16bEfCADaVUyoYb6",
+      "id" : "4kubsO16bEfCADaVUyoYb6",
+      "name" : "Giraffage",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kubsO16bEfCADaVUyoYb6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3j5eMOUPfqNNcTL7U3F2kY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3j5eMOUPfqNNcTL7U3F2kY",
+    "id" : "3j5eMOUPfqNNcTL7U3F2kY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/80d86c91f8d01ba478d112613bb35d7fdf26d48c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f3d6358862bea5c9702ba3a9865317efe96a1b5d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/da979ff56c9a6bc9e4f84e0f0661bbfbfcaa4c85",
+      "width" : 64
+    } ],
+    "name" : "No Reason",
+    "type" : "album",
+    "uri" : "spotify:album:3j5eMOUPfqNNcTL7U3F2kY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4kubsO16bEfCADaVUyoYb6",
+    "id" : "4kubsO16bEfCADaVUyoYb6",
+    "name" : "Giraffage",
+    "type" : "artist",
+    "uri" : "spotify:artist:4kubsO16bEfCADaVUyoYb6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 224903,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMSDU1400113"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/09C2bJlNVWEkSLlyDgjkkI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/09C2bJlNVWEkSLlyDgjkkI",
+  "id" : "09C2bJlNVWEkSLlyDgjkkI",
+  "name" : "Be With You",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c1a9acc565e4dc2d734907eda30cf88aa53fde13?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:09C2bJlNVWEkSLlyDgjkkI"
+}

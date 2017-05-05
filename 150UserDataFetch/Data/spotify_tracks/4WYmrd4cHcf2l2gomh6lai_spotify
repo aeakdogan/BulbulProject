@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LIll5i3kwo5A3IDpipgkS",
+      "id" : "0LIll5i3kwo5A3IDpipgkS",
+      "name" : "Squirrel Nut Zippers",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LIll5i3kwo5A3IDpipgkS"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7dPq7uxh4wGS8EIP2kQNw3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7dPq7uxh4wGS8EIP2kQNw3",
+    "id" : "7dPq7uxh4wGS8EIP2kQNw3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/754155b887797fb620bb070d20cb87671955d8a0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e1002e7559f126f7deca789ad37c58f249a82a9d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/01f9298a1cdc55db9c8407e09eddf7e27a56c554",
+      "width" : 64
+    } ],
+    "name" : "Hot (Remastered / 20th Anniversary Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:7dPq7uxh4wGS8EIP2kQNw3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0LIll5i3kwo5A3IDpipgkS",
+    "id" : "0LIll5i3kwo5A3IDpipgkS",
+    "name" : "Squirrel Nut Zippers",
+    "type" : "artist",
+    "uri" : "spotify:artist:0LIll5i3kwo5A3IDpipgkS"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 275333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMA21620517"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4WYmrd4cHcf2l2gomh6lai"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4WYmrd4cHcf2l2gomh6lai",
+  "id" : "4WYmrd4cHcf2l2gomh6lai",
+  "name" : "Blue Angel - Remastered 2016",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cc969b9c3a4d7cb26715dcec4a54e466d3c28123?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:4WYmrd4cHcf2l2gomh6lai"
+}

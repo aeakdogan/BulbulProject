@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+      "id" : "5c3GLXai8YOMid29ZEuR9y",
+      "name" : "Nick Drake",
+      "type" : "artist",
+      "uri" : "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7KyvfoQhqlNLPNb98yY0pf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7KyvfoQhqlNLPNb98yY0pf",
+    "id" : "7KyvfoQhqlNLPNb98yY0pf",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/1a670f8199c2c5eefa3c6491c643d19d892b983d",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/9c60ed6d296fcb6c48dd8c22bc73ac0423ffc8be",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/78c0df3c985f737150993024a26701dbe07897c4",
+      "width" : 64
+    } ],
+    "name" : "Pink Moon",
+    "type" : "album",
+    "uri" : "spotify:album:7KyvfoQhqlNLPNb98yY0pf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+    "id" : "5c3GLXai8YOMid29ZEuR9y",
+    "name" : "Nick Drake",
+    "type" : "artist",
+    "uri" : "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 80800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN7200035"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4XFZey4zmgQV551M0hfaUg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4XFZey4zmgQV551M0hfaUg",
+  "id" : "4XFZey4zmgQV551M0hfaUg",
+  "name" : "Horn",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4c097be60e27f4881d5648c65cfec6676f57feea?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:4XFZey4zmgQV551M0hfaUg"
+}

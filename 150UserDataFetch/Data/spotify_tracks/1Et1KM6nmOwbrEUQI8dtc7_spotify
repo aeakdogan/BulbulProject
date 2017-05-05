@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Z1XZyEFY0dewG8faEIiEx",
+      "id" : "5Z1XZyEFY0dewG8faEIiEx",
+      "name" : "Django Reinhardt",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Z1XZyEFY0dewG8faEIiEx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6n4MbIocFJ9oHFszyhN1uF",
+    "id" : "6n4MbIocFJ9oHFszyhN1uF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3f4df342229c0b07d9d15173120eb476b78db55b",
+      "width" : 631
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bba638ff650031e6b06a29ab365d98722a3afbd3",
+      "width" : 296
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/664a57ba691a15ceb3ec0a161d8994df56ba32ef",
+      "width" : 63
+    } ],
+    "name" : "The Best Of Django Reinhardt",
+    "type" : "album",
+    "uri" : "spotify:album:6n4MbIocFJ9oHFszyhN1uF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Z1XZyEFY0dewG8faEIiEx",
+    "id" : "5Z1XZyEFY0dewG8faEIiEx",
+    "name" : "Django Reinhardt",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Z1XZyEFY0dewG8faEIiEx"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6ufQwLbg8fB1I6aRQb3aUn",
+    "id" : "6ufQwLbg8fB1I6aRQb3aUn",
+    "name" : "Quintette du Hot Club de France",
+    "type" : "artist",
+    "uri" : "spotify:artist:6ufQwLbg8fB1I6aRQb3aUn"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6AfbDYupHV5e6nse9W6tKG",
+    "id" : "6AfbDYupHV5e6nse9W6tKG",
+    "name" : "Stéphane Grappelli",
+    "type" : "artist",
+    "uri" : "spotify:artist:6AfbDYupHV5e6nse9W6tKG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 166000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ113605245"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Et1KM6nmOwbrEUQI8dtc7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Et1KM6nmOwbrEUQI8dtc7",
+  "id" : "1Et1KM6nmOwbrEUQI8dtc7",
+  "name" : "Limehouse Blues",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f5e8028644a765fc2ada1d3757f8a8cd56da5453?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1Et1KM6nmOwbrEUQI8dtc7"
+}

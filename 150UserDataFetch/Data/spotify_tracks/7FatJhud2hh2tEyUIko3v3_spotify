@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+      "id" : "5iksmHDN2qZQcgFfXqIXtT",
+      "name" : "Robert Wyatt",
+      "type" : "artist",
+      "uri" : "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1QBbSvkOmMxtVVzgZqUg95"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1QBbSvkOmMxtVVzgZqUg95",
+    "id" : "1QBbSvkOmMxtVVzgZqUg95",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ac51d8800763478aaa8694f60cb8c1db5252c299",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c640e8d53111a53c4164c1162871edc79a1bc3f2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c47126ba87926919931cd026b9633b5a557e4807",
+      "width" : 64
+    } ],
+    "name" : "Different Every Time",
+    "type" : "album",
+    "uri" : "spotify:album:1QBbSvkOmMxtVVzgZqUg95"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+    "id" : "5iksmHDN2qZQcgFfXqIXtT",
+    "name" : "Robert Wyatt",
+    "type" : "artist",
+    "uri" : "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 309946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0800691"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7FatJhud2hh2tEyUIko3v3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7FatJhud2hh2tEyUIko3v3",
+  "id" : "7FatJhud2hh2tEyUIko3v3",
+  "name" : "Beware",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/db3dee2e3cd95eef7bc8a477d21fa59b1eb3441a?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:7FatJhud2hh2tEyUIko3v3"
+}

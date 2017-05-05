@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+      "id" : "6hhA8TKRNryM8FNzqCqdDO",
+      "name" : "Tricky",
+      "type" : "artist",
+      "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/540zw9ShTu9bsY984xS3Hu",
+    "id" : "540zw9ShTu9bsY984xS3Hu",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/7b44e4abfb9b6b3b7d453889cbda9406489d1e36",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/8cdb2b14d59b0d72abe944ee569ced330f6675bc",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/cd16f1e66b042a8271432919b1d177cfdc1770bb",
+      "width" : 64
+    } ],
+    "name" : "Pre Millennium Tension",
+    "type" : "album",
+    "uri" : "spotify:album:540zw9ShTu9bsY984xS3Hu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+    "id" : "6hhA8TKRNryM8FNzqCqdDO",
+    "name" : "Tricky",
+    "type" : "artist",
+    "uri" : "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 251000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBANY9600094"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5vR3KWyjJgseE3pEOVvbTg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5vR3KWyjJgseE3pEOVvbTg",
+  "id" : "5vR3KWyjJgseE3pEOVvbTg",
+  "name" : "Tricky Kid",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7097f5f65a5a21a6029f414c9ee2e2d821371966?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5vR3KWyjJgseE3pEOVvbTg"
+}

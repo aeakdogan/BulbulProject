@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1A92IAcd7A6npCA33oGM5i",
+      "id" : "1A92IAcd7A6npCA33oGM5i",
+      "name" : "The Proclaimers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1A92IAcd7A6npCA33oGM5i"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7hPq9fDWwXPo1tT0oi3XcM",
+    "id" : "7hPq9fDWwXPo1tT0oi3XcM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b5cee1b28f2bd1e0c1e399465d16f09e1d3ef13e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e7a5a37f0982e9d861b49189baf07a8af8666de6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/48f2733a43b70e4351fd89162c20657e5c9ea8b4",
+      "width" : 64
+    } ],
+    "name" : "Finest",
+    "type" : "album",
+    "uri" : "spotify:album:7hPq9fDWwXPo1tT0oi3XcM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1A92IAcd7A6npCA33oGM5i",
+    "id" : "1A92IAcd7A6npCA33oGM5i",
+    "name" : "The Proclaimers",
+    "type" : "artist",
+    "uri" : "spotify:artist:1A92IAcd7A6npCA33oGM5i"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 219480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYK8800055"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/66S14BkJDxgkYxLl5DCqOz",
+  "id" : "66S14BkJDxgkYxLl5DCqOz",
+  "name" : "I'm Gonna Be (500 Miles)",
+  "popularity" : 70,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a5e44c043b4e27c01ee92be422224edd2a222f34?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:66S14BkJDxgkYxLl5DCqOz"
+}

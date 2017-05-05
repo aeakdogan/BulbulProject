@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+      "id" : "7MSUfLeTdDEoZiJPDSBXgi",
+      "name" : "Brian Eno",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Z2jkEtW5Sc9wWVxUgyG0E",
+    "id" : "1Z2jkEtW5Sc9wWVxUgyG0E",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/881a150b6e7e35d5c3162cc17cbceb647a217636",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/122477fb15a5cea16a602481a54aea2f6c67ff5f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/15824dbb40131d8c081373fb1b2613a16c584f0d",
+      "width" : 64
+    } ],
+    "name" : "Apollo",
+    "type" : "album",
+    "uri" : "spotify:album:1Z2jkEtW5Sc9wWVxUgyG0E"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+    "id" : "7MSUfLeTdDEoZiJPDSBXgi",
+    "name" : "Brian Eno",
+    "type" : "artist",
+    "uri" : "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 238773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0500105"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/50mL6pbI0uI6YX1xbSer7g",
+  "id" : "50mL6pbI0uI6YX1xbSer7g",
+  "name" : "Deep Blue Day - 2005 Digital Remaster",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9b71bd9f95de53f414c692bcc1700313b6e4a330?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:50mL6pbI0uI6YX1xbSer7g"
+}

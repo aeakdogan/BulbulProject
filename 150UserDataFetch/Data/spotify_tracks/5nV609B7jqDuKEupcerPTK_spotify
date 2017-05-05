@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ra4GIOgCZQZMOaUECftGN",
+      "id" : "6ra4GIOgCZQZMOaUECftGN",
+      "name" : "Frank Zappa",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3EbtMJsHbspjhN6Xd4plIu",
+    "id" : "3EbtMJsHbspjhN6Xd4plIu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7ba792d24e062ac72c23b56798a9663dcc79c327",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/05e465b41470430759bd71d6a0db839bf5bf54f1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f2988b56395a130b55f5bc3b288049c75979e3a1",
+      "width" : 64
+    } ],
+    "name" : "Apostrophe(')",
+    "type" : "album",
+    "uri" : "spotify:album:3EbtMJsHbspjhN6Xd4plIu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6ra4GIOgCZQZMOaUECftGN",
+    "id" : "6ra4GIOgCZQZMOaUECftGN",
+    "name" : "Frank Zappa",
+    "type" : "artist",
+    "uri" : "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 400693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USZPE1200173"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5nV609B7jqDuKEupcerPTK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5nV609B7jqDuKEupcerPTK",
+  "id" : "5nV609B7jqDuKEupcerPTK",
+  "name" : "Stink-Foot",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3e6a1bf463cf3377cd8d87785e959205888b635d?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:5nV609B7jqDuKEupcerPTK"
+}

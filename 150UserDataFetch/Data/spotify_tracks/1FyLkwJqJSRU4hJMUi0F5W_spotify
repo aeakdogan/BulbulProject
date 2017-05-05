@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Gumvguqx5jEaBzOvkYdTN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Gumvguqx5jEaBzOvkYdTN",
+      "id" : "6Gumvguqx5jEaBzOvkYdTN",
+      "name" : "Antenne",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Gumvguqx5jEaBzOvkYdTN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5m7tPjozIHfRDpM3EugD6a"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5m7tPjozIHfRDpM3EugD6a",
+    "id" : "5m7tPjozIHfRDpM3EugD6a",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f9bc13676482f6ca02f3c3b6eabb8d23dbb609a5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/53567109345be21b36ebb5acfa45412f4581d2e0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3f3738bdda9aa34ff23d7d04a3a07db98eb01e62",
+      "width" : 64
+    } ],
+    "name" : "#1",
+    "type" : "album",
+    "uri" : "spotify:album:5m7tPjozIHfRDpM3EugD6a"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Gumvguqx5jEaBzOvkYdTN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Gumvguqx5jEaBzOvkYdTN",
+    "id" : "6Gumvguqx5jEaBzOvkYdTN",
+    "name" : "Antenne",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Gumvguqx5jEaBzOvkYdTN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 576306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DKFD50231002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1FyLkwJqJSRU4hJMUi0F5W"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1FyLkwJqJSRU4hJMUi0F5W",
+  "id" : "1FyLkwJqJSRU4hJMUi0F5W",
+  "name" : "Whispering",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a3ab40cc35fac07f44cb09e65cc25d1c0de378e2?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1FyLkwJqJSRU4hJMUi0F5W"
+}

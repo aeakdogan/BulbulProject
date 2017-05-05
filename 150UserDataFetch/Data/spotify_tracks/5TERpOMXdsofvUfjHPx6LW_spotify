@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Bd1cgCjtCI32PYvDC3ynO",
+      "id" : "3Bd1cgCjtCI32PYvDC3ynO",
+      "name" : "London Grammar",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Bd1cgCjtCI32PYvDC3ynO"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5IznFue91ycZ4X146LjxMc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5IznFue91ycZ4X146LjxMc",
+    "id" : "5IznFue91ycZ4X146LjxMc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/71e3fee9bee569c98b6399c3d2c270859f6b37e0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/17568bb9e7e68e739fc8ea6ac1e88008b3c8c374",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fd8aa23fa2e44324ee016494281d98c561a88087",
+      "width" : 64
+    } ],
+    "name" : "If You Wait - Remixes 2",
+    "type" : "album",
+    "uri" : "spotify:album:5IznFue91ycZ4X146LjxMc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Bd1cgCjtCI32PYvDC3ynO",
+    "id" : "3Bd1cgCjtCI32PYvDC3ynO",
+    "name" : "London Grammar",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Bd1cgCjtCI32PYvDC3ynO"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 534413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11406355"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5TERpOMXdsofvUfjHPx6LW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5TERpOMXdsofvUfjHPx6LW",
+  "id" : "5TERpOMXdsofvUfjHPx6LW",
+  "name" : "Hey Now - UNKLE Remix",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/50283c8c2ffa698219d2597746573a0b37eca238?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5TERpOMXdsofvUfjHPx6LW"
+}

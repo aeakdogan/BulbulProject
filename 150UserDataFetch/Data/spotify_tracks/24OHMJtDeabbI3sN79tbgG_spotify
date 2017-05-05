@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5IDs1CK15HegSAhGEbSYXo",
+      "id" : "5IDs1CK15HegSAhGEbSYXo",
+      "name" : "Billy Ocean",
+      "type" : "artist",
+      "uri" : "spotify:artist:5IDs1CK15HegSAhGEbSYXo"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7n4OT3zEZaEiyKKd6mFAhi",
+    "id" : "7n4OT3zEZaEiyKKd6mFAhi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fdc345567bc870416d9d30e4b1bf92bc22b3cb6a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5bea6fe2700eb164a12ecf97006962a2e09d9e55",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b9893aaeb0b66d264d438910aaf21fb52e698b60",
+      "width" : 64
+    } ],
+    "name" : "The Very Best of Billy Ocean",
+    "type" : "album",
+    "uri" : "spotify:album:7n4OT3zEZaEiyKKd6mFAhi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5IDs1CK15HegSAhGEbSYXo",
+    "id" : "5IDs1CK15HegSAhGEbSYXo",
+    "name" : "Billy Ocean",
+    "type" : "artist",
+    "uri" : "spotify:artist:5IDs1CK15HegSAhGEbSYXo"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 210520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBM7700002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/24OHMJtDeabbI3sN79tbgG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/24OHMJtDeabbI3sN79tbgG",
+  "id" : "24OHMJtDeabbI3sN79tbgG",
+  "name" : "Red Light Spells Danger",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/33c60a0a1d252edf97fb3a96e439a06216ab1f98?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:24OHMJtDeabbI3sN79tbgG"
+}

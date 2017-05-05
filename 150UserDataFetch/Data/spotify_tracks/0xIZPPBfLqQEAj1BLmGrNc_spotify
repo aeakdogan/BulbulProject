@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+      "id" : "5M52tdBnJaKSvOpJGz8mfZ",
+      "name" : "Black Sabbath",
+      "type" : "artist",
+      "uri" : "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ZLy3U2q17Yjw7jkjXPJQj",
+    "id" : "4ZLy3U2q17Yjw7jkjXPJQj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ef16fce28e5a354eb247819a9e7f5bcaf26e280a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/13e8328953c692d856a661c52322287ab2696cf7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/64d38026f2d1f4b5201feac3e087d847a4e4dddc",
+      "width" : 64
+    } ],
+    "name" : "Black Sabbath (Remastered Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:4ZLy3U2q17Yjw7jkjXPJQj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+    "id" : "5M52tdBnJaKSvOpJGz8mfZ",
+    "name" : "Black Sabbath",
+    "type" : "artist",
+    "uri" : "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 378226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11304612"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0xIZPPBfLqQEAj1BLmGrNc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0xIZPPBfLqQEAj1BLmGrNc",
+  "id" : "0xIZPPBfLqQEAj1BLmGrNc",
+  "name" : "Black Sabbath - Remastered Version",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4b3fa791de3bce2100caf93155ea7b5f39f7dc97?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0xIZPPBfLqQEAj1BLmGrNc"
+}

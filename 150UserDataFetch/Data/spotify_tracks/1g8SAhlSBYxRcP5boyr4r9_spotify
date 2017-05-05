@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+      "id" : "74ASZWbe4lXaubB36ztrGX",
+      "name" : "Bob Dylan",
+      "type" : "artist",
+      "uri" : "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2mVpSZrllFAWhOgCoyz8ow"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2mVpSZrllFAWhOgCoyz8ow",
+    "id" : "2mVpSZrllFAWhOgCoyz8ow",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/51bf0a2fd2829a8fd28ed166c682f503d27b405d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/07dd68dd50982f36c92e4a0b8aa051ea02959297",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d5f257f9401e10a30ff2b6a200447aec3afaeec8",
+      "width" : 64
+    } ],
+    "name" : "Shadows in the Night",
+    "type" : "album",
+    "uri" : "spotify:album:2mVpSZrllFAWhOgCoyz8ow"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+    "id" : "74ASZWbe4lXaubB36ztrGX",
+    "name" : "Bob Dylan",
+    "type" : "artist",
+    "uri" : "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 171826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11409087"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1g8SAhlSBYxRcP5boyr4r9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1g8SAhlSBYxRcP5boyr4r9",
+  "id" : "1g8SAhlSBYxRcP5boyr4r9",
+  "name" : "Stay with Me",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/608e3b77149962b800db430b42fb41c654175a9d?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1g8SAhlSBYxRcP5boyr4r9"
+}

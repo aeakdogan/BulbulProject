@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+      "id" : "3grHWM9bx2E9vwJCdlRv9O",
+      "name" : "Kenny Chesney",
+      "type" : "artist",
+      "uri" : "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2d4eS9a7DRTlfeTKVJQ0kr",
+    "id" : "2d4eS9a7DRTlfeTKVJQ0kr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2de6c01e94a506980dad653b593a4f305bba1ad5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0f79421729ef2fd439c29b6d7b4adbd2223c97ed",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9c1153c7b56f1ab39bacea2d8b9313c839612fe7",
+      "width" : 64
+    } ],
+    "name" : "Greatest Hits II",
+    "type" : "album",
+    "uri" : "spotify:album:2d4eS9a7DRTlfeTKVJQ0kr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+    "id" : "3grHWM9bx2E9vwJCdlRv9O",
+    "name" : "Kenny Chesney",
+    "type" : "artist",
+    "uri" : "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 301053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN10300050"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5a5Q60zkE4njZWgyR0r7Mm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5a5Q60zkE4njZWgyR0r7Mm",
+  "id" : "5a5Q60zkE4njZWgyR0r7Mm",
+  "name" : "There Goes My Life",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/af1732f41ac401fa4a97101a10a7dcb3453f23f1?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5a5Q60zkE4njZWgyR0r7Mm"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+      "id" : "4I2BJf80C0skQpp1sQmA0h",
+      "name" : "Belle & Sebastian",
+      "type" : "artist",
+      "uri" : "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3xDa8phPJijprE5NqnhD0I"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3xDa8phPJijprE5NqnhD0I",
+    "id" : "3xDa8phPJijprE5NqnhD0I",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3b746ed36c1fc910eec2a38714cf81431d803757",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/55483df46f5399fbebea050820c1fd9283325c4e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9197a8175e4345978c7b8ab42e85672ca4a7384a",
+      "width" : 64
+    } ],
+    "name" : "Late Night Tales: Belle and Sebastian, Vol. 2 (Sampler)",
+    "type" : "album",
+    "uri" : "spotify:album:3xDa8phPJijprE5NqnhD0I"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4DuZTASH5eSyd0K73W6fuZ",
+    "id" : "4DuZTASH5eSyd0K73W6fuZ",
+    "name" : "Joe Pass",
+    "type" : "artist",
+    "uri" : "spotify:artist:4DuZTASH5eSyd0K73W6fuZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 195053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB5EM1001032"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3t7aNy8nHeWkaY4SAncR7n"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3t7aNy8nHeWkaY4SAncR7n",
+  "id" : "3t7aNy8nHeWkaY4SAncR7n",
+  "name" : "A Time for Us",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/76064838a9ee5d2f0fdb6f9725dcd078d305978d?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3t7aNy8nHeWkaY4SAncR7n"
+}

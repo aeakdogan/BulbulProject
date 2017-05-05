@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0DrXhci3WAyo0WJv1RBOG6",
+      "id" : "0DrXhci3WAyo0WJv1RBOG6",
+      "name" : "12 Stones",
+      "type" : "artist",
+      "uri" : "spotify:artist:0DrXhci3WAyo0WJv1RBOG6"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2Qp0yu0Uaw3C83YNYqfgdv",
+    "id" : "2Qp0yu0Uaw3C83YNYqfgdv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/874dde35a64ceb27d5695cbc3c73c8fb22d7f58a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d3bba4fe03e3bc6244c9056c313f62d089d13a4b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6949ec21305d8d8463042531aee5a85488782998",
+      "width" : 64
+    } ],
+    "name" : "Anthem For The Underdog (Bonus Track Version)",
+    "type" : "album",
+    "uri" : "spotify:album:2Qp0yu0Uaw3C83YNYqfgdv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0DrXhci3WAyo0WJv1RBOG6",
+    "id" : "0DrXhci3WAyo0WJv1RBOG6",
+    "name" : "12 Stones",
+    "type" : "artist",
+    "uri" : "spotify:artist:0DrXhci3WAyo0WJv1RBOG6"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 233026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWU30700049"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3LFzNhpnt4mqw8PtK67h1T"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3LFzNhpnt4mqw8PtK67h1T",
+  "id" : "3LFzNhpnt4mqw8PtK67h1T",
+  "name" : "Hey Love",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1fdbd933155933cefd3b4cbde42fb23737f68a8c?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3LFzNhpnt4mqw8PtK67h1T"
+}

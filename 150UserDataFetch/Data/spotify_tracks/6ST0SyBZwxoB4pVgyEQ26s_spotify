@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vrCjYU0zXNXvLobueUTvQ",
+      "id" : "1vrCjYU0zXNXvLobueUTvQ",
+      "name" : "Mars Red Sky",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vrCjYU0zXNXvLobueUTvQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2lNjoRU8vd8jaObgGih0sV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2lNjoRU8vd8jaObgGih0sV",
+    "id" : "2lNjoRU8vd8jaObgGih0sV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3ba12fcfd959df8ca557021e560f201c83db19aa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8eb54694473a7933c5c70311a8c0e5aa5d35d89e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8ab8a103b33c26c0a0e683996f1c9a127a4e71b8",
+      "width" : 64
+    } ],
+    "name" : "Mars Red Sky",
+    "type" : "album",
+    "uri" : "spotify:album:2lNjoRU8vd8jaObgGih0sV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1vrCjYU0zXNXvLobueUTvQ",
+    "id" : "1vrCjYU0zXNXvLobueUTvQ",
+    "name" : "Mars Red Sky",
+    "type" : "artist",
+    "uri" : "spotify:artist:1vrCjYU0zXNXvLobueUTvQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 331200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRQ031313001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ST0SyBZwxoB4pVgyEQ26s"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ST0SyBZwxoB4pVgyEQ26s",
+  "id" : "6ST0SyBZwxoB4pVgyEQ26s",
+  "name" : "Strong Reflection",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4531e5255d5516b241a2c61ad193053f28bb1717?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6ST0SyBZwxoB4pVgyEQ26s"
+}

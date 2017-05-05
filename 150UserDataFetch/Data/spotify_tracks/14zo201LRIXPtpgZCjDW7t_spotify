@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28INUgyzTTRbvSphrJbgZ2",
+      "id" : "28INUgyzTTRbvSphrJbgZ2",
+      "name" : "C2C",
+      "type" : "artist",
+      "uri" : "spotify:artist:28INUgyzTTRbvSphrJbgZ2"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/61XR1JvHsYvYxEj595VeLt",
+    "id" : "61XR1JvHsYvYxEj595VeLt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/52ac165f780a4d593435a4e968ff4e27f13204e3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/576913d6c5842be240f89743aa66a568aab76861",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5e47e6910247d187cd85bc7e3269b6182539bebd",
+      "width" : 64
+    } ],
+    "name" : "Tetra",
+    "type" : "album",
+    "uri" : "spotify:album:61XR1JvHsYvYxEj595VeLt"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/28INUgyzTTRbvSphrJbgZ2",
+    "id" : "28INUgyzTTRbvSphrJbgZ2",
+    "name" : "C2C",
+    "type" : "artist",
+    "uri" : "spotify:artist:28INUgyzTTRbvSphrJbgZ2"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 263613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR9T31200004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/14zo201LRIXPtpgZCjDW7t"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/14zo201LRIXPtpgZCjDW7t",
+  "id" : "14zo201LRIXPtpgZCjDW7t",
+  "name" : "Arcades",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/632dde07097078a784a610b49d85dfa417220f04?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:14zo201LRIXPtpgZCjDW7t"
+}

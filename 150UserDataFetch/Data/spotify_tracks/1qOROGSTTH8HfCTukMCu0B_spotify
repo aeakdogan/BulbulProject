@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/72X6FHxaShda0XeQw3vbeF",
+      "id" : "72X6FHxaShda0XeQw3vbeF",
+      "name" : "Slowdive",
+      "type" : "artist",
+      "uri" : "spotify:artist:72X6FHxaShda0XeQw3vbeF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/76Yzub5fwYE4eMwcjlzSDd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/76Yzub5fwYE4eMwcjlzSDd",
+    "id" : "76Yzub5fwYE4eMwcjlzSDd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f8da652068537adea35c9e450a4b0b7297f9d89c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/005b509192cf84a60fb3f0ceb9b1ee7f286b11ba",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e54a0e2722e45dd365ee6b1b52b78646b565e9d2",
+      "width" : 64
+    } ],
+    "name" : "Souvlaki",
+    "type" : "album",
+    "uri" : "spotify:album:76Yzub5fwYE4eMwcjlzSDd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/72X6FHxaShda0XeQw3vbeF",
+    "id" : "72X6FHxaShda0XeQw3vbeF",
+    "name" : "Slowdive",
+    "type" : "artist",
+    "uri" : "spotify:artist:72X6FHxaShda0XeQw3vbeF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 268466,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA29401249"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1qOROGSTTH8HfCTukMCu0B"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1qOROGSTTH8HfCTukMCu0B",
+  "id" : "1qOROGSTTH8HfCTukMCu0B",
+  "name" : "Machine Gun",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2ecd6d53feffe33484eda3bd2bea71e13ee7410e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1qOROGSTTH8HfCTukMCu0B"
+}

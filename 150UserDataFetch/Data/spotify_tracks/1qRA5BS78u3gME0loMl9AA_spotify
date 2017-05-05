@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eskO5m0H4yiF64vRySBjr",
+      "id" : "3eskO5m0H4yiF64vRySBjr",
+      "name" : "Buffalo Springfield",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eskO5m0H4yiF64vRySBjr"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3PkdGRruLnJ9zCtANiDrpB",
+    "id" : "3PkdGRruLnJ9zCtANiDrpB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9ed6534e737d8336d6480024e50eef9bf74deb47",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c9ba266fc6e299d84e4d5e9432b04a320e7b13b0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5637624b53453a012394fb889998910ebb61abee",
+      "width" : 64
+    } ],
+    "name" : "Buffalo Springfield",
+    "type" : "album",
+    "uri" : "spotify:album:3PkdGRruLnJ9zCtANiDrpB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3eskO5m0H4yiF64vRySBjr",
+    "id" : "3eskO5m0H4yiF64vRySBjr",
+    "name" : "Buffalo Springfield",
+    "type" : "artist",
+    "uri" : "spotify:artist:3eskO5m0H4yiF64vRySBjr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 153693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10170607"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1qRA5BS78u3gME0loMl9AA",
+  "id" : "1qRA5BS78u3gME0loMl9AA",
+  "name" : "For What It's Worth",
+  "popularity" : 67,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a0cc83ddc1b9c032f5e97546651aff9ca8b7e84a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1qRA5BS78u3gME0loMl9AA"
+}

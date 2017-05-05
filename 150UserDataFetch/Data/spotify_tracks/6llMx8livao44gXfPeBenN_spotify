@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Ih0fEQQsy9EeAJbYEeQRa",
+      "id" : "1Ih0fEQQsy9EeAJbYEeQRa",
+      "name" : "Avantasia",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Ih0fEQQsy9EeAJbYEeQRa"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MT", "MX", "NI", "NZ", "PA", "PE", "PH", "PY", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2rW5H7dZZKGR4DH4Igii7p"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2rW5H7dZZKGR4DH4Igii7p",
+    "id" : "2rW5H7dZZKGR4DH4Igii7p",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/516da64cdd0dcb8dcaec6efe49aa20ebdc4ef36b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/18dd0b56e5fb6d8b10966b2590b824cc427fa6ed",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0edc4ba821506cd6fd84973311194ba58423f8eb",
+      "width" : 64
+    } ],
+    "name" : "The Scarecrow (Deluxe Version)",
+    "type" : "album",
+    "uri" : "spotify:album:2rW5H7dZZKGR4DH4Igii7p"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Ih0fEQQsy9EeAJbYEeQRa",
+    "id" : "1Ih0fEQQsy9EeAJbYEeQRa",
+    "name" : "Avantasia",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Ih0fEQQsy9EeAJbYEeQRa"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MT", "MX", "NI", "NZ", "PA", "PE", "PH", "PY", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 232600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DED830703354"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6llMx8livao44gXfPeBenN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6llMx8livao44gXfPeBenN",
+  "id" : "6llMx8livao44gXfPeBenN",
+  "name" : "Lost in Space",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5010e27392add2e7466ff4c54c787c3a0e5b9353?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:6llMx8livao44gXfPeBenN"
+}

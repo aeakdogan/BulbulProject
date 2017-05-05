@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3o2dn2O0FCVsWDFSh8qxgG",
+      "id" : "3o2dn2O0FCVsWDFSh8qxgG",
+      "name" : "Sabaton",
+      "type" : "artist",
+      "uri" : "spotify:artist:3o2dn2O0FCVsWDFSh8qxgG"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "ID", "MT", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Zya6JHYfnTWvDdeOHTtb9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Zya6JHYfnTWvDdeOHTtb9",
+    "id" : "5Zya6JHYfnTWvDdeOHTtb9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ad6b6c49964fa7d8b0b45788b639dfa45db7193e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/50f9d5801fb0bb5a7a75694859b108fa3fe58c83",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c5414dd9c931333296ba70f7848286d58b65ba65",
+      "width" : 64
+    } ],
+    "name" : "Primo Victoria (Re-Armed)",
+    "type" : "album",
+    "uri" : "spotify:album:5Zya6JHYfnTWvDdeOHTtb9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3o2dn2O0FCVsWDFSh8qxgG",
+    "id" : "3o2dn2O0FCVsWDFSh8qxgG",
+    "name" : "Sabaton",
+    "type" : "artist",
+    "uri" : "spotify:artist:3o2dn2O0FCVsWDFSh8qxgG"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "ID", "MT", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 250720,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SE2EG1000101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6dHvSzATLME9M6BCo2si7f"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6dHvSzATLME9M6BCo2si7f",
+  "id" : "6dHvSzATLME9M6BCo2si7f",
+  "name" : "Primo Victoria",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/47600d7406bfe1913495e47f6831558f114d5f69?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6dHvSzATLME9M6BCo2si7f"
+}

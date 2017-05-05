@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1tpXaFf2F55E7kVJON4j4G",
+      "id" : "1tpXaFf2F55E7kVJON4j4G",
+      "name" : "Black Rebel Motorcycle Club",
+      "type" : "artist",
+      "uri" : "spotify:artist:1tpXaFf2F55E7kVJON4j4G"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7Gk8xneGfxXusgK74Qp22Y"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7Gk8xneGfxXusgK74Qp22Y",
+    "id" : "7Gk8xneGfxXusgK74Qp22Y",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bc07a20ab243070f77e30968c87c79b54177b230",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cb1986e5169b50f18bd12910e04fc67a14065a31",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f774af282b75ebacdb31b2b3692d3383eb84201f",
+      "width" : 64
+    } ],
+    "name" : "Take Them On, On Your Own",
+    "type" : "album",
+    "uri" : "spotify:album:7Gk8xneGfxXusgK74Qp22Y"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1tpXaFf2F55E7kVJON4j4G",
+    "id" : "1tpXaFf2F55E7kVJON4j4G",
+    "name" : "Black Rebel Motorcycle Club",
+    "type" : "artist",
+    "uri" : "spotify:artist:1tpXaFf2F55E7kVJON4j4G"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 296466,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI20301013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2iuSvgDFWJqRIh8WnjrGgE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2iuSvgDFWJqRIh8WnjrGgE",
+  "id" : "2iuSvgDFWJqRIh8WnjrGgE",
+  "name" : "Suddenly",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bb502f70876b7291973939310dd1c9f1c4be38cc?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2iuSvgDFWJqRIh8WnjrGgE"
+}

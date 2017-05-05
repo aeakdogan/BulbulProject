@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1OVhxcft9d7zP1RUrvf3t6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1OVhxcft9d7zP1RUrvf3t6",
+      "id" : "1OVhxcft9d7zP1RUrvf3t6",
+      "name" : "A Camp",
+      "type" : "artist",
+      "uri" : "spotify:artist:1OVhxcft9d7zP1RUrvf3t6"
+    } ],
+    "available_markets" : [ "AR", "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/68Z2XEIBIOazjz7DrTBx7n"
+    },
+    "href" : "https://api.spotify.com/v1/albums/68Z2XEIBIOazjz7DrTBx7n",
+    "id" : "68Z2XEIBIOazjz7DrTBx7n",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/59aa7249fa97e0e3f093995decd0845c1b445035",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/534cc817a9c351e2e760475a9033d415a02c7eaf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ee442dd35ddfd64157eb814c88a5142778aaff19",
+      "width" : 64
+    } ],
+    "name" : "A Camp",
+    "type" : "album",
+    "uri" : "spotify:album:68Z2XEIBIOazjz7DrTBx7n"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1OVhxcft9d7zP1RUrvf3t6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1OVhxcft9d7zP1RUrvf3t6",
+    "id" : "1OVhxcft9d7zP1RUrvf3t6",
+    "name" : "A Camp",
+    "type" : "artist",
+    "uri" : "spotify:artist:1OVhxcft9d7zP1RUrvf3t6"
+  } ],
+  "available_markets" : [ "AR", "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 229653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEBKA0104010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0FgqLJ0DKCMtRT8spiXht7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0FgqLJ0DKCMtRT8spiXht7",
+  "id" : "0FgqLJ0DKCMtRT8spiXht7",
+  "name" : "I Can Buy You",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/38444e1168c59aaa21c9be92e4d6a00ed9e5b525?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0FgqLJ0DKCMtRT8spiXht7"
+}

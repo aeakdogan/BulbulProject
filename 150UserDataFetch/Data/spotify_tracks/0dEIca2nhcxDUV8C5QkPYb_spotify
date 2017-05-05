@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+      "id" : "4tZwfgrHOc3mvqYlEYSvVi",
+      "name" : "Daft Punk",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4m2880jivSbbyEGAKfITCa",
+    "id" : "4m2880jivSbbyEGAKfITCa",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/720c461b76e099758677df449324572e124c8fb4",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/405ee050d1976448c600cb9648e491e31ef87aed",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa9dbc54193b3c0c2f7fd9cc9a914b1c09bf058c",
+      "width" : 64
+    } ],
+    "name" : "Random Access Memories",
+    "type" : "album",
+    "uri" : "spotify:album:4m2880jivSbbyEGAKfITCa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+    "id" : "4tZwfgrHOc3mvqYlEYSvVi",
+    "name" : "Daft Punk",
+    "type" : "artist",
+    "uri" : "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 275386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USQX91300101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0dEIca2nhcxDUV8C5QkPYb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0dEIca2nhcxDUV8C5QkPYb",
+  "id" : "0dEIca2nhcxDUV8C5QkPYb",
+  "name" : "Give Life Back to Music",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/29c9a5d90d26a12c9dd360aabc1d23b1d6435242?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0dEIca2nhcxDUV8C5QkPYb"
+}

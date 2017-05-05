@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3vIOYTxzWZMXnPJl0G7O0r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3vIOYTxzWZMXnPJl0G7O0r",
+      "id" : "3vIOYTxzWZMXnPJl0G7O0r",
+      "name" : "Jim Norton",
+      "type" : "artist",
+      "uri" : "spotify:artist:3vIOYTxzWZMXnPJl0G7O0r"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0FjP4H2CZJahlqYp8JAqeI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0FjP4H2CZJahlqYp8JAqeI",
+    "id" : "0FjP4H2CZJahlqYp8JAqeI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c96b2ddcc4fcacb7b61afbbb27061978d5747745",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/79f8cb77426268234512851fe520482d94fb7e34",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/accd3842aa1d874d75bf72afbe11801fe674acad",
+      "width" : 64
+    } ],
+    "name" : "Despicable - EP",
+    "type" : "album",
+    "uri" : "spotify:album:0FjP4H2CZJahlqYp8JAqeI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3vIOYTxzWZMXnPJl0G7O0r"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3vIOYTxzWZMXnPJl0G7O0r",
+    "id" : "3vIOYTxzWZMXnPJl0G7O0r",
+    "name" : "Jim Norton",
+    "type" : "artist",
+    "uri" : "spotify:artist:3vIOYTxzWZMXnPJl0G7O0r"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 56106,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "QMFME1566382"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0m5PV2y8rtKL6PhX9JvxGg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0m5PV2y8rtKL6PhX9JvxGg",
+  "id" : "0m5PV2y8rtKL6PhX9JvxGg",
+  "name" : "The Bridge, Lol",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a8d6afeab5c40df2752844b4d610e7531caa50ab?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0m5PV2y8rtKL6PhX9JvxGg"
+}

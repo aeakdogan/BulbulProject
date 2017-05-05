@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1AZ30JnvQU1pbX6sbRE0Yn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1AZ30JnvQU1pbX6sbRE0Yn",
+      "id" : "1AZ30JnvQU1pbX6sbRE0Yn",
+      "name" : "Poets of the Fall",
+      "type" : "artist",
+      "uri" : "spotify:artist:1AZ30JnvQU1pbX6sbRE0Yn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2A4BxZtnlBplu5vNePAwgE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2A4BxZtnlBplu5vNePAwgE",
+    "id" : "2A4BxZtnlBplu5vNePAwgE",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/68ba048799bb3d97385b7ffd339bc343fd0b5954",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1db8b10fc59abfe6f6e5e512d9b539830ffc8687",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aca9e35ed0b7a5afcf75b4d13006d16e5252583f",
+      "width" : 64
+    } ],
+    "name" : "Lift",
+    "type" : "album",
+    "uri" : "spotify:album:2A4BxZtnlBplu5vNePAwgE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1AZ30JnvQU1pbX6sbRE0Yn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1AZ30JnvQU1pbX6sbRE0Yn",
+    "id" : "1AZ30JnvQU1pbX6sbRE0Yn",
+    "name" : "Poets of the Fall",
+    "type" : "artist",
+    "uri" : "spotify:artist:1AZ30JnvQU1pbX6sbRE0Yn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 322640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FIP9F0400008"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/71D4J8AC7HiMnNPqHP0Mcy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/71D4J8AC7HiMnNPqHP0Mcy",
+  "id" : "71D4J8AC7HiMnNPqHP0Mcy",
+  "name" : "The Beautiful Ones",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/68025c77943262f8748251daebb5f6f3291969ed?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:71D4J8AC7HiMnNPqHP0Mcy"
+}

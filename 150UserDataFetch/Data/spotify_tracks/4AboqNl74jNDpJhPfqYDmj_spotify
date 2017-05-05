@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX",
+      "id" : "6LqNN22kT3074XbTVUrhzX",
+      "name" : "Kesha",
+      "type" : "artist",
+      "uri" : "spotify:artist:6LqNN22kT3074XbTVUrhzX"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Fts9DL8sj5UQ0TkN4SvMK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Fts9DL8sj5UQ0TkN4SvMK",
+    "id" : "4Fts9DL8sj5UQ0TkN4SvMK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/579f986edd3dd677d1eaee545345638433524e52",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f0c2d87118253109304a3abfade9412da399b9dc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/85c2d03503220c7c9301eaca87f9ccc1a33ff157",
+      "width" : 64
+    } ],
+    "name" : "Animal",
+    "type" : "album",
+    "uri" : "spotify:album:4Fts9DL8sj5UQ0TkN4SvMK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX",
+    "id" : "6LqNN22kT3074XbTVUrhzX",
+    "name" : "Kesha",
+    "type" : "artist",
+    "uri" : "spotify:artist:6LqNN22kT3074XbTVUrhzX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 187066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC10900735"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4AboqNl74jNDpJhPfqYDmj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4AboqNl74jNDpJhPfqYDmj",
+  "id" : "4AboqNl74jNDpJhPfqYDmj",
+  "name" : "Your Love Is My Drug",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e94abebd46eb8701315122a86781a52d907afa92?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4AboqNl74jNDpJhPfqYDmj"
+}

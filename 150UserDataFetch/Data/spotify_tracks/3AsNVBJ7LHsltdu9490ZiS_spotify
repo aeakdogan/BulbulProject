@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/070kGpqtESdDsLb3gdMIyx",
+      "id" : "070kGpqtESdDsLb3gdMIyx",
+      "name" : "Easton Corbin",
+      "type" : "artist",
+      "uri" : "spotify:artist:070kGpqtESdDsLb3gdMIyx"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/48SPP51vLUiTTlou3bZZr9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/48SPP51vLUiTTlou3bZZr9",
+    "id" : "48SPP51vLUiTTlou3bZZr9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0e465627e2977aecb321f66414cc5ee7a3591949",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/797c2812056683485116c33c7d133b62e9c97269",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5194193aaa2321c094376092fd8d11c0291ac15c",
+      "width" : 64
+    } ],
+    "name" : "A Girl Like You",
+    "type" : "album",
+    "uri" : "spotify:album:48SPP51vLUiTTlou3bZZr9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/070kGpqtESdDsLb3gdMIyx",
+    "id" : "070kGpqtESdDsLb3gdMIyx",
+    "name" : "Easton Corbin",
+    "type" : "artist",
+    "uri" : "spotify:artist:070kGpqtESdDsLb3gdMIyx"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71700120"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3AsNVBJ7LHsltdu9490ZiS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3AsNVBJ7LHsltdu9490ZiS",
+  "id" : "3AsNVBJ7LHsltdu9490ZiS",
+  "name" : "A Girl Like You",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e171aba027b5da86247d5044de48642b909998dc?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3AsNVBJ7LHsltdu9490ZiS"
+}

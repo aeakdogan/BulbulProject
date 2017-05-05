@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+      "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+      "name" : "The Beatles",
+      "type" : "artist",
+      "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7vEJAtP3KgKSpOHVgwm3Eh",
+    "id" : "7vEJAtP3KgKSpOHVgwm3Eh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9ecfdf528562cae879748b73bd81b64dfa3d5704",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/58d9e881327df093da91b082ed89a4e2c4fec1a9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/adda7302aab91f1a83cdca24878bad49384dae65",
+      "width" : 64
+    } ],
+    "name" : "1 (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:7vEJAtP3KgKSpOHVgwm3Eh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+    "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+    "name" : "The Beatles",
+    "type" : "artist",
+    "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 425653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71505902"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0aym2LBJBk9DAYuHHutrIl",
+  "id" : "0aym2LBJBk9DAYuHHutrIl",
+  "name" : "Hey Jude - Remastered 2015",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c718fc992246a4b070500515880bed0b517631ab?cid=null",
+  "track_number" : 21,
+  "type" : "track",
+  "uri" : "spotify:track:0aym2LBJBk9DAYuHHutrIl"
+}

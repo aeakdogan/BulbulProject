@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gPBpCNPTXfU4B6GJ17CwL",
+      "id" : "7gPBpCNPTXfU4B6GJ17CwL",
+      "name" : "Stina Nordenstam",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gPBpCNPTXfU4B6GJ17CwL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2W2hkNP8Ta1x9kdhY2uFcL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2W2hkNP8Ta1x9kdhY2uFcL",
+    "id" : "2W2hkNP8Ta1x9kdhY2uFcL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/27e9d9d813424ef3bcc0510e5cea42dc2d877f4f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/65064df9ec2656c52382ef65c0e71c6fb29071fa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/301def76315206daa3d555a05997f6207e9471fb",
+      "width" : 64
+    } ],
+    "name" : "This Is Stina Nordenstam",
+    "type" : "album",
+    "uri" : "spotify:album:2W2hkNP8Ta1x9kdhY2uFcL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7gPBpCNPTXfU4B6GJ17CwL",
+    "id" : "7gPBpCNPTXfU4B6GJ17CwL",
+    "name" : "Stina Nordenstam",
+    "type" : "artist",
+    "uri" : "spotify:artist:7gPBpCNPTXfU4B6GJ17CwL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 176533,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBBPF0000526"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/31hXEx2PLRLyrXFnoauzQ0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/31hXEx2PLRLyrXFnoauzQ0",
+  "id" : "31hXEx2PLRLyrXFnoauzQ0",
+  "name" : "So Lee",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/61977533c7fb028f2071357eda14f849cbda25ab?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:31hXEx2PLRLyrXFnoauzQ0"
+}

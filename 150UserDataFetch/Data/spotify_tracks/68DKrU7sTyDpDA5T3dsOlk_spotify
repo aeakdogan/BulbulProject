@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn",
+      "id" : "4pejUc4iciQfgdX6OKulQn",
+      "name" : "Queens of the Stone Age",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pejUc4iciQfgdX6OKulQn"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/58HZZpS0wxJKwGjoerg0mk",
+    "id" : "58HZZpS0wxJKwGjoerg0mk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ce2399f9d2078083c796baec06a4c8946104b2bf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6362f7bc49b5e793ea9c286b435249e8274f9c45",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d6621e6821fd369395a036d9617633a88cf7f849",
+      "width" : 64
+    } ],
+    "name" : "Songs For The Deaf",
+    "type" : "album",
+    "uri" : "spotify:album:58HZZpS0wxJKwGjoerg0mk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn",
+    "id" : "4pejUc4iciQfgdX6OKulQn",
+    "name" : "Queens of the Stone Age",
+    "type" : "artist",
+    "uri" : "spotify:artist:4pejUc4iciQfgdX6OKulQn"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 192573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR10211009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/68DKrU7sTyDpDA5T3dsOlk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/68DKrU7sTyDpDA5T3dsOlk",
+  "id" : "68DKrU7sTyDpDA5T3dsOlk",
+  "name" : "You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/41ad72de68f50be6ac87371485e239d8236ae237?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:68DKrU7sTyDpDA5T3dsOlk"
+}

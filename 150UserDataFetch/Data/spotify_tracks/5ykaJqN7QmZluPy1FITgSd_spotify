@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2jCjj3atiDT70VeEshQbOr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2jCjj3atiDT70VeEshQbOr",
+      "id" : "2jCjj3atiDT70VeEshQbOr",
+      "name" : "John Lurie",
+      "type" : "artist",
+      "uri" : "spotify:artist:2jCjj3atiDT70VeEshQbOr"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4cc0b5tFRmmersyHFLbrVc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4cc0b5tFRmmersyHFLbrVc",
+    "id" : "4cc0b5tFRmmersyHFLbrVc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/df9824f57cc7669c156433a04eded2f89e4c2703",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/82dec1a1201e3bf945df2a4afc09bb65f9355bf0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f7bb38664f1902979c1b7c11d4625b6ac8db1d08",
+      "width" : 64
+    } ],
+    "name" : "Stranger Than Paradise - Plus The Resurrection Of Albert Ayler",
+    "type" : "album",
+    "uri" : "spotify:album:4cc0b5tFRmmersyHFLbrVc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2jCjj3atiDT70VeEshQbOr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2jCjj3atiDT70VeEshQbOr",
+    "id" : "2jCjj3atiDT70VeEshQbOr",
+    "name" : "John Lurie",
+    "type" : "artist",
+    "uri" : "spotify:artist:2jCjj3atiDT70VeEshQbOr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 201826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSBM0101001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5ykaJqN7QmZluPy1FITgSd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5ykaJqN7QmZluPy1FITgSd",
+  "id" : "5ykaJqN7QmZluPy1FITgSd",
+  "name" : "Bella By Barlight",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/62b90e07818ba3f5fa8298b8634dfd494ce831ce?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5ykaJqN7QmZluPy1FITgSd"
+}

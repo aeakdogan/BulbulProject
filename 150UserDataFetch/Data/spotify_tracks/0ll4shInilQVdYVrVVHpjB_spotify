@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+      "id" : "1w5Kfo2jwwIPruYS2UWh56",
+      "name" : "Pearl Jam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/11BDZR6NRHwPiPy1WQr4Jf",
+    "id" : "11BDZR6NRHwPiPy1WQr4Jf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c960918826f62d6a8929f946fc8794f36b59d950",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bdd5a0e4a2ff5d7c2bd6ecf9ec655268373527ac",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2e09c6be366814785013f320f58ac5bf9dd2e5e0",
+      "width" : 64
+    } ],
+    "name" : "Last Kiss",
+    "type" : "album",
+    "uri" : "spotify:album:11BDZR6NRHwPiPy1WQr4Jf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+    "id" : "1w5Kfo2jwwIPruYS2UWh56",
+    "name" : "Pearl Jam",
+    "type" : "artist",
+    "uri" : "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 174173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19805514"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ll4shInilQVdYVrVVHpjB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ll4shInilQVdYVrVVHpjB",
+  "id" : "0ll4shInilQVdYVrVVHpjB",
+  "name" : "Soldier Of Love",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fc83b9915ba69aff8ec59f9eebc14df214edef57?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0ll4shInilQVdYVrVVHpjB"
+}

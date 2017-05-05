@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tX2TplrkIP4v05BNC903e",
+      "id" : "4tX2TplrkIP4v05BNC903e",
+      "name" : "Tom Petty and the Heartbreakers",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tX2TplrkIP4v05BNC903e"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7ait6chB3O3C1fMGUDJhtu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7ait6chB3O3C1fMGUDJhtu",
+    "id" : "7ait6chB3O3C1fMGUDJhtu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5c8bcda7ee0e403d3989b254b93315bb5c8a7d24",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9411163e867617bbd8de61e40920be992d530171",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/735952e445e09634018b0e7b4ccb4a97b0ce57bc",
+      "width" : 64
+    } ],
+    "name" : "Anthology: Through The Years",
+    "type" : "album",
+    "uri" : "spotify:album:7ait6chB3O3C1fMGUDJhtu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4tX2TplrkIP4v05BNC903e",
+    "id" : "4tX2TplrkIP4v05BNC903e",
+    "name" : "Tom Petty and the Heartbreakers",
+    "type" : "artist",
+    "uri" : "spotify:artist:4tX2TplrkIP4v05BNC903e"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 304960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC18454946"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/45j8grEsUQxkBy6ug5dTPB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/45j8grEsUQxkBy6ug5dTPB",
+  "id" : "45j8grEsUQxkBy6ug5dTPB",
+  "name" : "Don't Come Around Here No More",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/73ddec894d66c2295b501db5a900ea4f33cfdefe?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:45j8grEsUQxkBy6ug5dTPB"
+}

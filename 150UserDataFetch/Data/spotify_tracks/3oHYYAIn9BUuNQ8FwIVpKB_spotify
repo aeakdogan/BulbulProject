@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ZB5ywwPWbVJDgCHTxtUZE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ZB5ywwPWbVJDgCHTxtUZE",
+      "id" : "4ZB5ywwPWbVJDgCHTxtUZE",
+      "name" : "Howling Bells",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ZB5ywwPWbVJDgCHTxtUZE"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Obb22VBuhydl5tDj5rRDx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Obb22VBuhydl5tDj5rRDx",
+    "id" : "0Obb22VBuhydl5tDj5rRDx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2063982a5df97ed74bba36894104863a6fee8d5d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b368ac02aeab7e76cc32d86b131d7c08183b1c9e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c9d9320251d9f98017e00526fa97af66e469b310",
+      "width" : 64
+    } ],
+    "name" : "Howling Bells",
+    "type" : "album",
+    "uri" : "spotify:album:0Obb22VBuhydl5tDj5rRDx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4ZB5ywwPWbVJDgCHTxtUZE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4ZB5ywwPWbVJDgCHTxtUZE",
+    "id" : "4ZB5ywwPWbVJDgCHTxtUZE",
+    "name" : "Howling Bells",
+    "type" : "artist",
+    "uri" : "spotify:artist:4ZB5ywwPWbVJDgCHTxtUZE"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 196760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBKPL1371192"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3oHYYAIn9BUuNQ8FwIVpKB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3oHYYAIn9BUuNQ8FwIVpKB",
+  "id" : "3oHYYAIn9BUuNQ8FwIVpKB",
+  "name" : "Blessed Night",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e8d234b7bf7b8b0b89ef95c1bbee25f1395e5921?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:3oHYYAIn9BUuNQ8FwIVpKB"
+}

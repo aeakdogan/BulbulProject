@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/41AbNVba2ccpmcc9QtOJE7",
+      "id" : "41AbNVba2ccpmcc9QtOJE7",
+      "name" : "Kings of Convenience",
+      "type" : "artist",
+      "uri" : "spotify:artist:41AbNVba2ccpmcc9QtOJE7"
+    } ],
+    "available_markets" : [ "GB", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Giakz9l0EP5Mc7zEh2lk0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Giakz9l0EP5Mc7zEh2lk0",
+    "id" : "0Giakz9l0EP5Mc7zEh2lk0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2b66c132bc37207603f1a2c32041eb7d7a3d82c4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d5d3b703ef2c4d823e092ab48d1eee4f3477e7b8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e843c17a89e3a39bd6c1503c8b1c1ca2eb2245e0",
+      "width" : 64
+    } ],
+    "name" : "Declaration Of Dependence",
+    "type" : "album",
+    "uri" : "spotify:album:0Giakz9l0EP5Mc7zEh2lk0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/41AbNVba2ccpmcc9QtOJE7",
+    "id" : "41AbNVba2ccpmcc9QtOJE7",
+    "name" : "Kings of Convenience",
+    "type" : "artist",
+    "uri" : "spotify:artist:41AbNVba2ccpmcc9QtOJE7"
+  } ],
+  "available_markets" : [ "GB", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 220600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDCG0900015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4IgQ29VV3NE7ydll9WQx7E"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4IgQ29VV3NE7ydll9WQx7E",
+  "id" : "4IgQ29VV3NE7ydll9WQx7E",
+  "name" : "Boat Behind",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9c79adbf77a384de532ec86744ce3fe4ac9d222d?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4IgQ29VV3NE7ydll9WQx7E"
+}

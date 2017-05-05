@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4vthsCeWT4vUGGAQxf1nkS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4vthsCeWT4vUGGAQxf1nkS",
+      "id" : "4vthsCeWT4vUGGAQxf1nkS",
+      "name" : "North Highlands",
+      "type" : "artist",
+      "uri" : "spotify:artist:4vthsCeWT4vUGGAQxf1nkS"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4TabPq2YRPCxofBivG4USc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4TabPq2YRPCxofBivG4USc",
+    "id" : "4TabPq2YRPCxofBivG4USc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f64830d152f07c861066e636f98b259ff936f6f2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ac84f9c31c2076c0aed2e934cc538d2524dbcf20",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5985fbc78071e85bf6b39029cc6fd14e51466643",
+      "width" : 64
+    } ],
+    "name" : "Wild One",
+    "type" : "album",
+    "uri" : "spotify:album:4TabPq2YRPCxofBivG4USc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4vthsCeWT4vUGGAQxf1nkS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4vthsCeWT4vUGGAQxf1nkS",
+    "id" : "4vthsCeWT4vUGGAQxf1nkS",
+    "name" : "North Highlands",
+    "type" : "artist",
+    "uri" : "spotify:artist:4vthsCeWT4vUGGAQxf1nkS"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 259637,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABK1285852"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4jq4FfD4EeJ4UCCIJsPkdb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4jq4FfD4EeJ4UCCIJsPkdb",
+  "id" : "4jq4FfD4EeJ4UCCIJsPkdb",
+  "name" : "Bruce",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/20673c3456bcbf109f3d4e3ce596ed0414cf7e03?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4jq4FfD4EeJ4UCCIJsPkdb"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4wavWMHhIiUXxwCuWsHzXo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4wavWMHhIiUXxwCuWsHzXo",
+      "id" : "4wavWMHhIiUXxwCuWsHzXo",
+      "name" : "The Delgados",
+      "type" : "artist",
+      "uri" : "spotify:artist:4wavWMHhIiUXxwCuWsHzXo"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Xm5GjWBi912xkbSE2Fabc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Xm5GjWBi912xkbSE2Fabc",
+    "id" : "6Xm5GjWBi912xkbSE2Fabc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cdd959c67ff443bcd00671b7bcfaae3dd8ec4843",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c4292abe3acc8f4556d7e5a3fb6678c8f046ae53",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1810a401daa172dffebbade290ec03eec0cedbc2",
+      "width" : 64
+    } ],
+    "name" : "Hate",
+    "type" : "album",
+    "uri" : "spotify:album:6Xm5GjWBi912xkbSE2Fabc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4wavWMHhIiUXxwCuWsHzXo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4wavWMHhIiUXxwCuWsHzXo",
+    "id" : "4wavWMHhIiUXxwCuWsHzXo",
+    "name" : "The Delgados",
+    "type" : "artist",
+    "uri" : "spotify:artist:4wavWMHhIiUXxwCuWsHzXo"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 214893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKU0200041"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/75RY3Op9abpXS6wCuBGkdA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/75RY3Op9abpXS6wCuBGkdA",
+  "id" : "75RY3Op9abpXS6wCuBGkdA",
+  "name" : "Coming In From The Cold",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5b62adf26ac044e055ce828234fd8a021a752a65?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:75RY3Op9abpXS6wCuBGkdA"
+}

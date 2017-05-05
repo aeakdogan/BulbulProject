@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+      "id" : "36E7oYfz3LLRto6l2WmDcD",
+      "name" : "Pulp",
+      "type" : "artist",
+      "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4KVaUWQnFQSqP3lBViJTO5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4KVaUWQnFQSqP3lBViJTO5",
+    "id" : "4KVaUWQnFQSqP3lBViJTO5",
+    "images" : [ {
+      "height" : 576,
+      "url" : "https://i.scdn.co/image/ccf3adc9aa228216f48306868b86dd08a65b45b0",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/d7b3f233c3f3fecc8faac876fbf6eca32a0ddd15",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/922ace4130afa7e684ad565cb533089ebc46f4a1",
+      "width" : 64
+    } ],
+    "name" : "This Is Hardcore Deluxe Edition (2 CD )",
+    "type" : "album",
+    "uri" : "spotify:album:4KVaUWQnFQSqP3lBViJTO5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+    "id" : "36E7oYfz3LLRto6l2WmDcD",
+    "name" : "Pulp",
+    "type" : "artist",
+    "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 271333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN9800135"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4z80Wk5401Bt5MA9MZU5NW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4z80Wk5401Bt5MA9MZU5NW",
+  "id" : "4z80Wk5401Bt5MA9MZU5NW",
+  "name" : "Like A Friend",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c76dd4ca0467d359174ee88a2e8b8bfa499060dc?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4z80Wk5401Bt5MA9MZU5NW"
+}

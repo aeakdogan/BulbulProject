@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1W8TbFzNS15VwsempfY12H",
+      "id" : "1W8TbFzNS15VwsempfY12H",
+      "name" : "Charles Mingus",
+      "type" : "artist",
+      "uri" : "spotify:artist:1W8TbFzNS15VwsempfY12H"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7pojWP7x9uEFSJgw765khA",
+    "id" : "7pojWP7x9uEFSJgw765khA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/be06e042a8a1fad2d3900852dbbb3b849beae044",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1dadb2c07b97efffa359d9762ec4f4871cb0a868",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/582765cbc7dc802f9af4c130ae66f42efc1ec352",
+      "width" : 64
+    } ],
+    "name" : "Ah Um",
+    "type" : "album",
+    "uri" : "spotify:album:7pojWP7x9uEFSJgw765khA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1W8TbFzNS15VwsempfY12H",
+    "id" : "1W8TbFzNS15VwsempfY12H",
+    "name" : "Charles Mingus",
+    "type" : "artist",
+    "uri" : "spotify:artist:1W8TbFzNS15VwsempfY12H"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 552826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM15900737"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7F1gWw4gM7IdQJKBNCGJwH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7F1gWw4gM7IdQJKBNCGJwH",
+  "id" : "7F1gWw4gM7IdQJKBNCGJwH",
+  "name" : "Pussy Cat Dues",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/20ab72f847c5066097831d1ad63c1a95cad8d76c?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:7F1gWw4gM7IdQJKBNCGJwH"
+}

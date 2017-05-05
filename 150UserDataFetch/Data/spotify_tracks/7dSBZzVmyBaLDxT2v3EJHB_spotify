@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze",
+      "id" : "3wury2nd8idV4GecUg5xze",
+      "name" : "Primal Scream",
+      "type" : "artist",
+      "uri" : "spotify:artist:3wury2nd8idV4GecUg5xze"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4TECsw2dFHZ1ULrT7OA3OL",
+    "id" : "4TECsw2dFHZ1ULrT7OA3OL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0b1a57f873c4f608b5f4e6ca0aa2650387685a92",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8c04b3283c1b10f6e44cbcb95cf443662fa31ade",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/095aed96047566726b995509eaf4d5566e90353f",
+      "width" : 64
+    } ],
+    "name" : "Screamadelica",
+    "type" : "album",
+    "uri" : "spotify:album:4TECsw2dFHZ1ULrT7OA3OL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3wury2nd8idV4GecUg5xze",
+    "id" : "3wury2nd8idV4GecUg5xze",
+    "name" : "Primal Scream",
+    "type" : "artist",
+    "uri" : "spotify:artist:3wury2nd8idV4GecUg5xze"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 422600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19903987"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7dSBZzVmyBaLDxT2v3EJHB",
+  "id" : "7dSBZzVmyBaLDxT2v3EJHB",
+  "name" : "Loaded",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/41f2b0a23061f4dbdb42bfdf08598d3a0a4df29f?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:7dSBZzVmyBaLDxT2v3EJHB"
+}

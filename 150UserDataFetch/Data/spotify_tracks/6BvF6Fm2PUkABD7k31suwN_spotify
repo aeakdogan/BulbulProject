@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+      "id" : "2CWWgbxApjbyByxBBCvGTm",
+      "name" : "Katatonia",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6mou1KnZYi6QAD50vljuot"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6mou1KnZYi6QAD50vljuot",
+    "id" : "6mou1KnZYi6QAD50vljuot",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/489ad53d220f1dad503d469ba7416034d1bb6d53",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7abc4ae565750dd210a7a96d8a7acd9640bc140c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/20e656068afc9399e926d37d73c3507022e44e5a",
+      "width" : 64
+    } ],
+    "name" : "Last Fair Deal Gone Down - 10th Anniversay Edition",
+    "type" : "album",
+    "uri" : "spotify:album:6mou1KnZYi6QAD50vljuot"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+    "id" : "2CWWgbxApjbyByxBBCvGTm",
+    "name" : "Katatonia",
+    "type" : "artist",
+    "uri" : "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 218226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCQV0100208"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6BvF6Fm2PUkABD7k31suwN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6BvF6Fm2PUkABD7k31suwN",
+  "id" : "6BvF6Fm2PUkABD7k31suwN",
+  "name" : "Passing Bird",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/74245b7e176eebc1168fa5acbf5b24fed56d34b2?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:6BvF6Fm2PUkABD7k31suwN"
+}

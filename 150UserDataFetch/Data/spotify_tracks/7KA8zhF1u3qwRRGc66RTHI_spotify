@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0F7G8LeDmCpHHEPX55FEgq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0F7G8LeDmCpHHEPX55FEgq",
+      "id" : "0F7G8LeDmCpHHEPX55FEgq",
+      "name" : "Hi-Gloss",
+      "type" : "artist",
+      "uri" : "spotify:artist:0F7G8LeDmCpHHEPX55FEgq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/31J1iOZVTNzbSPtIhsXPsp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/31J1iOZVTNzbSPtIhsXPsp",
+    "id" : "31J1iOZVTNzbSPtIhsXPsp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d456ac143b13b9707d6b34c06ef6e202fd3bbf04",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5524bad32352cf1442bca88c2bd23a0b36903e67",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/64713f1ee513c7a2339b28644519eb2ea020da8f",
+      "width" : 64
+    } ],
+    "name" : "You'll Never Know",
+    "type" : "album",
+    "uri" : "spotify:album:31J1iOZVTNzbSPtIhsXPsp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0F7G8LeDmCpHHEPX55FEgq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0F7G8LeDmCpHHEPX55FEgq",
+    "id" : "0F7G8LeDmCpHHEPX55FEgq",
+    "name" : "Hi-Gloss",
+    "type" : "artist",
+    "uri" : "spotify:artist:0F7G8LeDmCpHHEPX55FEgq"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 345533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAU118100416"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7KA8zhF1u3qwRRGc66RTHI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7KA8zhF1u3qwRRGc66RTHI",
+  "id" : "7KA8zhF1u3qwRRGc66RTHI",
+  "name" : "It's Up to You",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8d7231428fc2e888dca0b2771ffaf67e4f1b3639?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7KA8zhF1u3qwRRGc66RTHI"
+}

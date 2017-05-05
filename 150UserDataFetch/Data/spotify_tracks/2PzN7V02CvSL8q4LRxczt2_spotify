@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d",
+      "id" : "2i8ynmFv4qgRksyDlBgi6d",
+      "name" : "Wire",
+      "type" : "artist",
+      "uri" : "spotify:artist:2i8ynmFv4qgRksyDlBgi6d"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0q0JEDRwminTj0zGSkdWAC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0q0JEDRwminTj0zGSkdWAC",
+    "id" : "0q0JEDRwminTj0zGSkdWAC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fe8f29dd9d222c05e98f3d980d900f656abd394d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bae9b4f846e2ee1e6cbcb1add15e7c588c8344a7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7109833a472950ff6db701c52c1ff510efab8662",
+      "width" : 64
+    } ],
+    "name" : "The Drill",
+    "type" : "album",
+    "uri" : "spotify:album:0q0JEDRwminTj0zGSkdWAC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d",
+    "id" : "2i8ynmFv4qgRksyDlBgi6d",
+    "name" : "Wire",
+    "type" : "artist",
+    "uri" : "spotify:artist:2i8ynmFv4qgRksyDlBgi6d"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 321293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0502579"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2PzN7V02CvSL8q4LRxczt2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2PzN7V02CvSL8q4LRxczt2",
+  "id" : "2PzN7V02CvSL8q4LRxczt2",
+  "name" : "In Every City?",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f1aca55c2661beb3f031f1c0ef2ef7b6635513fe?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2PzN7V02CvSL8q4LRxczt2"
+}

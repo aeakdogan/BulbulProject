@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5DYAABs8rkY9VhwtENoQCz",
+      "id" : "5DYAABs8rkY9VhwtENoQCz",
+      "name" : "Gavin DeGraw",
+      "type" : "artist",
+      "uri" : "spotify:artist:5DYAABs8rkY9VhwtENoQCz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0CcydXpHaLTBSqJXGzdIUX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0CcydXpHaLTBSqJXGzdIUX",
+    "id" : "0CcydXpHaLTBSqJXGzdIUX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6c5bac5cf89fb4743d8bdea97d879976d510ae79",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cb806a4b40007d0f3485f8372e3e923c54e16961",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/315b25caf0986b836780a7abc62daaf25671b88d",
+      "width" : 64
+    } ],
+    "name" : "FREE",
+    "type" : "album",
+    "uri" : "spotify:album:0CcydXpHaLTBSqJXGzdIUX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5DYAABs8rkY9VhwtENoQCz",
+    "id" : "5DYAABs8rkY9VhwtENoQCz",
+    "name" : "Gavin DeGraw",
+    "type" : "artist",
+    "uri" : "spotify:artist:5DYAABs8rkY9VhwtENoQCz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 226000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJAY0900015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6TRdxVn1c2zzNSajnbeA5u"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6TRdxVn1c2zzNSajnbeA5u",
+  "id" : "6TRdxVn1c2zzNSajnbeA5u",
+  "name" : "Dancing Shoes",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/77566c7eab9c97d51bf9b753e042fef0212e5a19?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6TRdxVn1c2zzNSajnbeA5u"
+}

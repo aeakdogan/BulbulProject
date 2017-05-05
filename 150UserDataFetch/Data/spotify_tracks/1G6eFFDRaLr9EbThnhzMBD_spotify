@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+      "id" : "4AYkFtEBnNnGuoo8HaHErd",
+      "name" : "Madness",
+      "type" : "artist",
+      "uri" : "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Jst9QoWbNmjQFUyGIkMnA",
+    "id" : "5Jst9QoWbNmjQFUyGIkMnA",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/c26eddfa4bd7fc0112c78f73e4839798d5bde038",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/7a2477fb6d4ac93b6311ccea09d6f67fb1372d29",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d9c8a61b6b4e1143fac1d50ebbd893888b0f3c7",
+      "width" : 64
+    } ],
+    "name" : "One Step Beyond...",
+    "type" : "album",
+    "uri" : "spotify:album:5Jst9QoWbNmjQFUyGIkMnA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+    "id" : "4AYkFtEBnNnGuoo8HaHErd",
+    "name" : "Madness",
+    "type" : "artist",
+    "uri" : "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 138360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10002132"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1G6eFFDRaLr9EbThnhzMBD",
+  "id" : "1G6eFFDRaLr9EbThnhzMBD",
+  "name" : "One Step Beyond",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f14bd1ac410d1efcc5183ca007d82d557db60cb5?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1G6eFFDRaLr9EbThnhzMBD"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3aKoUd44IrrqOa6Rzn9Ybq",
+      "id" : "3aKoUd44IrrqOa6Rzn9Ybq",
+      "name" : "Angèle Dubeau",
+      "type" : "artist",
+      "uri" : "spotify:artist:3aKoUd44IrrqOa6Rzn9Ybq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5xVJfEh063VItO9sNxWv8Y"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5xVJfEh063VItO9sNxWv8Y",
+    "id" : "5xVJfEh063VItO9sNxWv8Y",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/851eb2f64e95736d40bf61a6fcd0b4913185a89f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/15983d718951b119608c81a4547cf66b49b729b9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9ffe6af6384ce606af7f675f9c6b27a1b06080dd",
+      "width" : 64
+    } ],
+    "name" : "A Time for Us (Silence, on joue!)",
+    "type" : "album",
+    "uri" : "spotify:album:5xVJfEh063VItO9sNxWv8Y"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1HRRbATgv6NPHs7Twm74p2",
+    "id" : "1HRRbATgv6NPHs7Twm74p2",
+    "name" : "Alberto Iglesias",
+    "type" : "artist",
+    "uri" : "spotify:artist:1HRRbATgv6NPHs7Twm74p2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 119080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CALC41100760"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/11pgYPpViYqlp9vxLqaaHr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/11pgYPpViYqlp9vxLqaaHr",
+  "id" : "11pgYPpViYqlp9vxLqaaHr",
+  "name" : "Soy Marco (From \"Talk to Her (Hable Con Ella)\")",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a7462428a468f0cc8f3692bfe28b59b3c04e536b?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:11pgYPpViYqlp9vxLqaaHr"
+}

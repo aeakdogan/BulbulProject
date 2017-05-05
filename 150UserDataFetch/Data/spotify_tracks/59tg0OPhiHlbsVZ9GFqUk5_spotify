@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id" : "4dpARuHxo51G3z768sgnrY",
+      "name" : "Adele",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Pb3K1oPXdhsqFXtzKe3Z1",
+    "id" : "6Pb3K1oPXdhsqFXtzKe3Z1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b09c0fc17bd94b008342083d7b5046c39a38b69b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9fb3d324f549fd029a3ba5f317c845658ec69089",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/def8684f43c69e5f3e31722beb536636d9c9079f",
+      "width" : 64
+    } ],
+    "name" : "19",
+    "type" : "album",
+    "uri" : "spotify:album:6Pb3K1oPXdhsqFXtzKe3Z1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+    "id" : "4dpARuHxo51G3z768sgnrY",
+    "name" : "Adele",
+    "type" : "artist",
+    "uri" : "spotify:artist:4dpARuHxo51G3z768sgnrY"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 210506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0700574"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/59tg0OPhiHlbsVZ9GFqUk5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/59tg0OPhiHlbsVZ9GFqUk5",
+  "id" : "59tg0OPhiHlbsVZ9GFqUk5",
+  "name" : "Chasing Pavements",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0cb77f22200a5eaf53bfe3b3a51f352d44e05b3a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:59tg0OPhiHlbsVZ9GFqUk5"
+}

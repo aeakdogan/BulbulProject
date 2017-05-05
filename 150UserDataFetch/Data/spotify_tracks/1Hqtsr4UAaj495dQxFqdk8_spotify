@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2AV6XDIs32ofIJhkkDevjm",
+      "id" : "2AV6XDIs32ofIJhkkDevjm",
+      "name" : "Curtis Mayfield",
+      "type" : "artist",
+      "uri" : "spotify:artist:2AV6XDIs32ofIJhkkDevjm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7tIqCuFn9DqkHE1lRj9C6L"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7tIqCuFn9DqkHE1lRj9C6L",
+    "id" : "7tIqCuFn9DqkHE1lRj9C6L",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ed4023e5ff89d96a9df067e64fea5e31aa2720b5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6cac33d21e5da0474bc56b3b00e5857e4a28797c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7036b6f25b134d7a30c78ec99b66b8a9293ca2bc",
+      "width" : 64
+    } ],
+    "name" : "Roots",
+    "type" : "album",
+    "uri" : "spotify:album:7tIqCuFn9DqkHE1lRj9C6L"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2AV6XDIs32ofIJhkkDevjm",
+    "id" : "2AV6XDIs32ofIJhkkDevjm",
+    "name" : "Curtis Mayfield",
+    "type" : "artist",
+    "uri" : "spotify:artist:2AV6XDIs32ofIJhkkDevjm"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 285866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRH10295642"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Hqtsr4UAaj495dQxFqdk8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Hqtsr4UAaj495dQxFqdk8",
+  "id" : "1Hqtsr4UAaj495dQxFqdk8",
+  "name" : "We Got To Have Peace",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/14ddb84b2780069ae2bb9ce00c4e31473a5daa23?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1Hqtsr4UAaj495dQxFqdk8"
+}

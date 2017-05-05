@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19eLuQmk9aCobbVDHc6eek",
+      "id" : "19eLuQmk9aCobbVDHc6eek",
+      "name" : "Louis Armstrong",
+      "type" : "artist",
+      "uri" : "spotify:artist:19eLuQmk9aCobbVDHc6eek"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7uP6iCdzfkjE6bnRAAnN5s"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7uP6iCdzfkjE6bnRAAnN5s",
+    "id" : "7uP6iCdzfkjE6bnRAAnN5s",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6f45ecd9413f72e8c296fe3891f05742b268e1ae",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/56268d6f308940cd8fc5021ab3fb3de761ae010c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/11bda1e9d9686c0b2bdb9f48e5c5b1e0abbc0066",
+      "width" : 64
+    } ],
+    "name" : "Hello Louis - The Hit Years (1963-1969)",
+    "type" : "album",
+    "uri" : "spotify:album:7uP6iCdzfkjE6bnRAAnN5s"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7A7O2i0THlzoiZXXAjauG9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7A7O2i0THlzoiZXXAjauG9",
+    "id" : "7A7O2i0THlzoiZXXAjauG9",
+    "name" : "Louis Armstrong & His All-Stars",
+    "type" : "artist",
+    "uri" : "spotify:artist:7A7O2i0THlzoiZXXAjauG9"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 196013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC15015276"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3ZDyzJcg8GOz1y1tANTLNI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3ZDyzJcg8GOz1y1tANTLNI",
+  "id" : "3ZDyzJcg8GOz1y1tANTLNI",
+  "name" : "Dream A Little Dream Of Me",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0667caabd0f217a2294078194ac8f73812a0b642?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3ZDyzJcg8GOz1y1tANTLNI"
+}

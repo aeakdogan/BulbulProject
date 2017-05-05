@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6M1IwZsOOyBgmpKO75XPRj",
+    "id" : "6M1IwZsOOyBgmpKO75XPRj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4488a192ba563ddaeffaf5428702f9baec40399b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fec21d44c8a52872001a0d7af0a6991f4c361935",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8aa067fcc8e85631291a66edd957187441cddd49",
+      "width" : 64
+    } ],
+    "name" : "Laugh Now, Cry Later",
+    "type" : "album",
+    "uri" : "spotify:album:6M1IwZsOOyBgmpKO75XPRj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+    "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+    "name" : "Ice Cube",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 226520,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USVI20600235"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6MX5QGxkpXRdR8Q16GJGtW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6MX5QGxkpXRdR8Q16GJGtW",
+  "id" : "6MX5QGxkpXRdR8Q16GJGtW",
+  "name" : "Smoke Some Weed",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c9fcf00dc5e9690d1e216dfa8e645b88f6476fde?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6MX5QGxkpXRdR8Q16GJGtW"
+}

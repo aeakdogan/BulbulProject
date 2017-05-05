@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5moMlImrbhn6le2o44Z28P"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5moMlImrbhn6le2o44Z28P",
+      "id" : "5moMlImrbhn6le2o44Z28P",
+      "name" : "Lissy Trullie",
+      "type" : "artist",
+      "uri" : "spotify:artist:5moMlImrbhn6le2o44Z28P"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6BLnLHCFlgOo8sMThz2CKv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6BLnLHCFlgOo8sMThz2CKv",
+    "id" : "6BLnLHCFlgOo8sMThz2CKv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3bf98f5d5da6e1fb5eea986a4c843a19984c8ee4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4acb08de029ba4e627b6a04d9251b38c64e0592b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c802ff9ee61eb0034eb0ec1ceb5a90e404b66ca0",
+      "width" : 64
+    } ],
+    "name" : "Lissy Trullie",
+    "type" : "album",
+    "uri" : "spotify:album:6BLnLHCFlgOo8sMThz2CKv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5moMlImrbhn6le2o44Z28P"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5moMlImrbhn6le2o44Z28P",
+    "id" : "5moMlImrbhn6le2o44Z28P",
+    "name" : "Lissy Trullie",
+    "type" : "artist",
+    "uri" : "spotify:artist:5moMlImrbhn6le2o44Z28P"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 233346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCJ81100753"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/11Mnqoqx3clom3C2CKYEmT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/11Mnqoqx3clom3C2CKYEmT",
+  "id" : "11Mnqoqx3clom3C2CKYEmT",
+  "name" : "Wearing Blue",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/18242fdb56bfb6593b30fea36ef9029fb68e0832?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:11Mnqoqx3clom3C2CKYEmT"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3j0kMFxXTTYsuw1twLClw3",
+      "id" : "3j0kMFxXTTYsuw1twLClw3",
+      "name" : "Motorama",
+      "type" : "artist",
+      "uri" : "spotify:artist:3j0kMFxXTTYsuw1twLClw3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0vHOjAoABNzk4qlbBrcwac"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0vHOjAoABNzk4qlbBrcwac",
+    "id" : "0vHOjAoABNzk4qlbBrcwac",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/20004c9b2063071656f576dbd0117400b430be8b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8ae149861e932c6801ad5e3fac35fd2df02c13e4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d5bb03c91e3e00468f9b1c10ed4143405d5f8319",
+      "width" : 64
+    } ],
+    "name" : "Alps",
+    "type" : "album",
+    "uri" : "spotify:album:0vHOjAoABNzk4qlbBrcwac"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3j0kMFxXTTYsuw1twLClw3",
+    "id" : "3j0kMFxXTTYsuw1twLClw3",
+    "name" : "Motorama",
+    "type" : "artist",
+    "uri" : "spotify:artist:3j0kMFxXTTYsuw1twLClw3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 281293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR59Y1300024"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0P4goiAaaECEjQGAWaocaz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0P4goiAaaECEjQGAWaocaz",
+  "id" : "0P4goiAaaECEjQGAWaocaz",
+  "name" : "Wind in Her Hair",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/031c8d9d052fc5e3ae2419f3611140e553d29768?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0P4goiAaaECEjQGAWaocaz"
+}

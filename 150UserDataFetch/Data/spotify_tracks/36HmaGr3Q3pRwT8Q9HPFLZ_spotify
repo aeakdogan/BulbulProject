@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43JlwunhXm1oqdKyOa2Z9Y",
+      "id" : "43JlwunhXm1oqdKyOa2Z9Y",
+      "name" : "Hiatus Kaiyote",
+      "type" : "artist",
+      "uri" : "spotify:artist:43JlwunhXm1oqdKyOa2Z9Y"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3qzmmmRmVBiOuMvrerfW4z",
+    "id" : "3qzmmmRmVBiOuMvrerfW4z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/587e6d5c670cb8cac753503945a8be332ca16030",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/aacfc7127845fb88b0eb63774f3122d842e04ed4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e9b31375b96991b2f2b3dbaab59be0fd4d098747",
+      "width" : 64
+    } ],
+    "name" : "Choose Your Weapon",
+    "type" : "album",
+    "uri" : "spotify:album:3qzmmmRmVBiOuMvrerfW4z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+    },
+    "href" : "https://api.spotify.com/v1/artists/43JlwunhXm1oqdKyOa2Z9Y",
+    "id" : "43JlwunhXm1oqdKyOa2Z9Y",
+    "name" : "Hiatus Kaiyote",
+    "type" : "artist",
+    "uri" : "spotify:artist:43JlwunhXm1oqdKyOa2Z9Y"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 333213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11500141"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/36HmaGr3Q3pRwT8Q9HPFLZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/36HmaGr3Q3pRwT8Q9HPFLZ",
+  "id" : "36HmaGr3Q3pRwT8Q9HPFLZ",
+  "name" : "Jekyll",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f509011ca54b47d1581ccacd2383e8809aefe458?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:36HmaGr3Q3pRwT8Q9HPFLZ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0cc6vw3VN8YlIcvr1v7tBL",
+      "id" : "0cc6vw3VN8YlIcvr1v7tBL",
+      "name" : "Mötley Crüe",
+      "type" : "artist",
+      "uri" : "spotify:artist:0cc6vw3VN8YlIcvr1v7tBL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6pL7kL9cOc0DpWCq6qJtxQ",
+    "id" : "6pL7kL9cOc0DpWCq6qJtxQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/52c4b2e93f533056a878fede107de09945fa18bf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/383033471d8c2ae07976e47139b9d6285867c023",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/19d1ab87563b90c66ddb1e5e091295a6c863b4dc",
+      "width" : 64
+    } ],
+    "name" : "Dr. Feelgood",
+    "type" : "album",
+    "uri" : "spotify:album:6pL7kL9cOc0DpWCq6qJtxQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0cc6vw3VN8YlIcvr1v7tBL",
+    "id" : "0cc6vw3VN8YlIcvr1v7tBL",
+    "name" : "Mötley Crüe",
+    "type" : "artist",
+    "uri" : "spotify:artist:0cc6vw3VN8YlIcvr1v7tBL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 284026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBY29900215"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7GonnnalI2s19OCQO1J7Tf",
+  "id" : "7GonnnalI2s19OCQO1J7Tf",
+  "name" : "Kickstart My Heart",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/65cf66e91638342d2a5adeb28485e416dd86fd6c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7GonnnalI2s19OCQO1J7Tf"
+}

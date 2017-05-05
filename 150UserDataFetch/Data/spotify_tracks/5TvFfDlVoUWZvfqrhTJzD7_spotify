@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id" : "6eUKZXaKkcviH0Ku9w2n3V",
+      "name" : "Ed Sheeran",
+      "type" : "artist",
+      "uri" : "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    } ],
+    "available_markets" : [ "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IT", "JP", "LT", "LU", "LV", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1xn54DMo2qIqBuMqHtUsFd",
+    "id" : "1xn54DMo2qIqBuMqHtUsFd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b68b39fdc2409d0f526ad48775ddcd93ff496cda",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1f927459730fe3c72a2e9263975581a7e652e12f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/109839612f24869cacfded433ae0d2a70a549923",
+      "width" : 64
+    } ],
+    "name" : "x (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:1xn54DMo2qIqBuMqHtUsFd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+    "id" : "6eUKZXaKkcviH0Ku9w2n3V",
+    "name" : "Ed Sheeran",
+    "type" : "artist",
+    "uri" : "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+  } ],
+  "available_markets" : [ "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IT", "JP", "LT", "LU", "LV", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 252760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHS1400092"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5TvFfDlVoUWZvfqrhTJzD7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5TvFfDlVoUWZvfqrhTJzD7",
+  "id" : "5TvFfDlVoUWZvfqrhTJzD7",
+  "name" : "One",
+  "popularity" : 71,
+  "preview_url" : "https://p.scdn.co/mp3-preview/daa8679253ba20620db6e1db9c88edfcf1f4069f?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5TvFfDlVoUWZvfqrhTJzD7"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Li0eIWeMeWcOOWpImcG9H",
+      "id" : "1Li0eIWeMeWcOOWpImcG9H",
+      "name" : "Albert Hammond, Jr.",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Li0eIWeMeWcOOWpImcG9H"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1pJT6SArgRf1aQ5DCTxl7g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1pJT6SArgRf1aQ5DCTxl7g",
+    "id" : "1pJT6SArgRf1aQ5DCTxl7g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e35fa669b3416de707974860be16fdcea929893d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0e3d5804e07fc6ce5a8ca7ae9aa607bf819c0479",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/822880fdaacab0134ae05e8dfde39671c992a5f5",
+      "width" : 64
+    } ],
+    "name" : "Yours to Keep",
+    "type" : "album",
+    "uri" : "spotify:album:1pJT6SArgRf1aQ5DCTxl7g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Li0eIWeMeWcOOWpImcG9H",
+    "id" : "1Li0eIWeMeWcOOWpImcG9H",
+    "name" : "Albert Hammond, Jr.",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Li0eIWeMeWcOOWpImcG9H"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 313706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCACN1654702"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ezfInFyeBeoeKwpdo31cs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ezfInFyeBeoeKwpdo31cs",
+  "id" : "6ezfInFyeBeoeKwpdo31cs",
+  "name" : "Hard to Live in the City",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/880615e75022ea0a70d1d11ba1ca732f90aece73?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:6ezfInFyeBeoeKwpdo31cs"
+}

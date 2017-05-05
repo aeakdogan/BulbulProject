@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0JKyj5M3xjzusWTudrDVwI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0JKyj5M3xjzusWTudrDVwI",
+    "id" : "0JKyj5M3xjzusWTudrDVwI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/29e608221d2fd0729f1f1f5105f3de0420ad1051",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/633cf25097ae117921d5c81c5e9926554466477b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9e3b1fda8c80e1f8bf178d874ce15a8c2687470d",
+      "width" : 64
+    } ],
+    "name" : "Avengers Assemble",
+    "type" : "album",
+    "uri" : "spotify:album:0JKyj5M3xjzusWTudrDVwI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5xUf6j4upBrXZPg6AI4MRK",
+    "id" : "5xUf6j4upBrXZPg6AI4MRK",
+    "name" : "Soundgarden",
+    "type" : "artist",
+    "uri" : "spotify:artist:5xUf6j4upBrXZPg6AI4MRK"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 280626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMQAV1200001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5qy1QAKFVfAqYbgp46RSSv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5qy1QAKFVfAqYbgp46RSSv",
+  "id" : "5qy1QAKFVfAqYbgp46RSSv",
+  "name" : "Live to Rise",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/34f844f9845a226625b6c18d200e32bd3181fc79?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5qy1QAKFVfAqYbgp46RSSv"
+}

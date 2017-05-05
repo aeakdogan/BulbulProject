@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+      "id" : "0L8ExT028jH3ddEcZwqJJ5",
+      "name" : "Red Hot Chili Peppers",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5wZtSIvijWCMc1vlPFqAyB",
+    "id" : "5wZtSIvijWCMc1vlPFqAyB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/66ab66e38e40a9202e8417a0b59ad86a210637a7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b5f95aec74da0bc27397aad2daf161571deb1ffc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/02ffe96d555f36ba45daae369787d45112842f7b",
+      "width" : 64
+    } ],
+    "name" : "I'm With You",
+    "type" : "album",
+    "uri" : "spotify:album:5wZtSIvijWCMc1vlPFqAyB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+    "id" : "0L8ExT028jH3ddEcZwqJJ5",
+    "name" : "Red Hot Chili Peppers",
+    "type" : "artist",
+    "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 251800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11101946"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/16Bf9uR4PI2dCoXDIjs0cP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/16Bf9uR4PI2dCoXDIjs0cP",
+  "id" : "16Bf9uR4PI2dCoXDIjs0cP",
+  "name" : "Monarchy Of Roses",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/946431f5c0588fbe1f6115c57fd6b2158d0f0e61?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:16Bf9uR4PI2dCoXDIjs0cP"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+      "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+      "name" : "Frank Sinatra",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7gmak9ZGm10y4PtZa9SBQn",
+    "id" : "7gmak9ZGm10y4PtZa9SBQn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/caf62001f392846ead7af5a1bf3be6d84a4a7aca",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6f232baa4f324e0723db7f79b71315f51e508cb8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5ee5034171976ac937a499ca2e6a630fd929c637",
+      "width" : 64
+    } ],
+    "name" : "Ultimate Sinatra",
+    "type" : "album",
+    "uri" : "spotify:album:7gmak9ZGm10y4PtZa9SBQn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+    "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+    "name" : "Frank Sinatra",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 156240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRH10723031"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3O8s4pon1omITzB07t6oNx",
+  "id" : "3O8s4pon1omITzB07t6oNx",
+  "name" : "Strangers In The Night",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c9da5194b75f38497a3d50bed305c073420db770?cid=null",
+  "track_number" : 19,
+  "type" : "track",
+  "uri" : "spotify:track:3O8s4pon1omITzB07t6oNx"
+}

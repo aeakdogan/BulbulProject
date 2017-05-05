@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5lP538RHY8e9KUlut6jVDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5lP538RHY8e9KUlut6jVDW",
+      "id" : "5lP538RHY8e9KUlut6jVDW",
+      "name" : "Anita Lane",
+      "type" : "artist",
+      "uri" : "spotify:artist:5lP538RHY8e9KUlut6jVDW"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3dgXMKf897gqxsssA8W1Ip"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3dgXMKf897gqxsssA8W1Ip",
+    "id" : "3dgXMKf897gqxsssA8W1Ip",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f34dc6e7c3cb2c0755e49016bb3c35ba036fc158",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3cd51da3df2d3be24e169e257a79d734c3232a06",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/63e218b935d1afe1212c061c0fcd41a854b7eea9",
+      "width" : 64
+    } ],
+    "name" : "Sex O'Clock",
+    "type" : "album",
+    "uri" : "spotify:album:3dgXMKf897gqxsssA8W1Ip"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5lP538RHY8e9KUlut6jVDW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5lP538RHY8e9KUlut6jVDW",
+    "id" : "5lP538RHY8e9KUlut6jVDW",
+    "name" : "Anita Lane",
+    "type" : "artist",
+    "uri" : "spotify:artist:5lP538RHY8e9KUlut6jVDW"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 204333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0100209"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0My1lUJc5YjCof78SMZqfB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0My1lUJc5YjCof78SMZqfB",
+  "id" : "0My1lUJc5YjCof78SMZqfB",
+  "name" : "I Love You, I Am No More",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0d47a8c0525beebaa9b91884359b15177c354bc4?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0My1lUJc5YjCof78SMZqfB"
+}

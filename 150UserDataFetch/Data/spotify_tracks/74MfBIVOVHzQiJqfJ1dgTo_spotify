@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2HVx2tiZnLX8xeaUthed1e",
+    "id" : "2HVx2tiZnLX8xeaUthed1e",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/55ac6823c1024b058acdd479ab1efea28565a987",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/11be4fad808a1eb0c85a0f984e49a69f8faeed29",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/dee758f81a32ffde6030b4864b9ad524cbced744",
+      "width" : 64
+    } ],
+    "name" : "Songs In The Key Of Life",
+    "type" : "album",
+    "uri" : "spotify:album:2HVx2tiZnLX8xeaUthed1e"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+    "id" : "7guDJrEfX3qb6FEbdPA5qi",
+    "name" : "Stevie Wonder",
+    "type" : "artist",
+    "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 252373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO17682657"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/74MfBIVOVHzQiJqfJ1dgTo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/74MfBIVOVHzQiJqfJ1dgTo",
+  "id" : "74MfBIVOVHzQiJqfJ1dgTo",
+  "name" : "I Wish",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1b256fad38cb8361da06ab87958e68bd56cdacb4?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:74MfBIVOVHzQiJqfJ1dgTo"
+}

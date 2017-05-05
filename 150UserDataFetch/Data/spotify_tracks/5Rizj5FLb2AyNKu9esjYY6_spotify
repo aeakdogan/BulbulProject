@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+      "id" : "6olE6TJLqED3rqDCT0FyPh",
+      "name" : "Nirvana",
+      "type" : "artist",
+      "uri" : "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6ohX7moZZnF1FwYrli1OJ6",
+    "id" : "6ohX7moZZnF1FwYrli1OJ6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/952bf98d9d5b3d8c58abd9cd8e790d5e48a6ebce",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dded49d883c21de760677e1b5319e0d4d0119127",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bab4b71f83d40cd5e3bee650296f43e1e82dc809",
+      "width" : 64
+    } ],
+    "name" : "In Utero - 20th Anniversary - Deluxe Edition",
+    "type" : "album",
+    "uri" : "spotify:album:6ohX7moZZnF1FwYrli1OJ6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+    "id" : "6olE6TJLqED3rqDCT0FyPh",
+    "name" : "Nirvana",
+    "type" : "artist",
+    "uri" : "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 170000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF19960704"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Rizj5FLb2AyNKu9esjYY6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Rizj5FLb2AyNKu9esjYY6",
+  "id" : "5Rizj5FLb2AyNKu9esjYY6",
+  "name" : "Rape Me",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8e18c9e0dc2bb8a915ec9395c3febc32ceee8c6b?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5Rizj5FLb2AyNKu9esjYY6"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6I8R5MFTlez7rHCsH4cx0u"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6I8R5MFTlez7rHCsH4cx0u",
+      "id" : "6I8R5MFTlez7rHCsH4cx0u",
+      "name" : "Shellac",
+      "type" : "artist",
+      "uri" : "spotify:artist:6I8R5MFTlez7rHCsH4cx0u"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2Ipn5TxYNjJEej3oO4XyOc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2Ipn5TxYNjJEej3oO4XyOc",
+    "id" : "2Ipn5TxYNjJEej3oO4XyOc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2664134af0a2eb7730fa638d95349438142e90c3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/06d4d74ab1b9adbb09c5483f0e9e8871fea66e95",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7cf5a2f29dd2b42975439e8dd1ad80974ea36539",
+      "width" : 64
+    } ],
+    "name" : "Terraform",
+    "type" : "album",
+    "uri" : "spotify:album:2Ipn5TxYNjJEej3oO4XyOc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6I8R5MFTlez7rHCsH4cx0u"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6I8R5MFTlez7rHCsH4cx0u",
+    "id" : "6I8R5MFTlez7rHCsH4cx0u",
+    "name" : "Shellac",
+    "type" : "artist",
+    "uri" : "spotify:artist:6I8R5MFTlez7rHCsH4cx0u"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 150306,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USTG39720002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/163mK49mkn6ek1FyV64Ksy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/163mK49mkn6ek1FyV64Ksy",
+  "id" : "163mK49mkn6ek1FyV64Ksy",
+  "name" : "This Is A Picture",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/94e452afee277d8d0ae590e3b90259831fcb2440?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:163mK49mkn6ek1FyV64Ksy"
+}

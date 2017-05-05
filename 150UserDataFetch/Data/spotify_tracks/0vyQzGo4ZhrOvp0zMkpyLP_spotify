@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+      "id" : "4KWTAlx2RvbpseOGMEmROg",
+      "name" : "R.E.M.",
+      "type" : "artist",
+      "uri" : "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2QfGdHHkWY0zBlwnMtoj9H"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2QfGdHHkWY0zBlwnMtoj9H",
+    "id" : "2QfGdHHkWY0zBlwnMtoj9H",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d755e4d5008edc39f610d587541db4e0d30d926e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/eca6683a75b204d572bdc9ecad2e1e8463d67b3e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/48c7308d85711e9c28fc58a8f84ad0c813691921",
+      "width" : 64
+    } ],
+    "name" : "Collapse Into Now",
+    "type" : "album",
+    "uri" : "spotify:album:2QfGdHHkWY0zBlwnMtoj9H"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+    "id" : "4KWTAlx2RvbpseOGMEmROg",
+    "name" : "R.E.M.",
+    "type" : "artist",
+    "uri" : "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 254613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11004198"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0vyQzGo4ZhrOvp0zMkpyLP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0vyQzGo4ZhrOvp0zMkpyLP",
+  "id" : "0vyQzGo4ZhrOvp0zMkpyLP",
+  "name" : "Überlin",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/389675b0e0eec14353eb6b57bb5b9306661aa1d3?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0vyQzGo4ZhrOvp0zMkpyLP"
+}

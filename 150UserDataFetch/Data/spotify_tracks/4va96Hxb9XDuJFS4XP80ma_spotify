@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+      "id" : "6olE6TJLqED3rqDCT0FyPh",
+      "name" : "Nirvana",
+      "type" : "artist",
+      "uri" : "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4KXUz9ro76jtJgX6riZrzo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4KXUz9ro76jtJgX6riZrzo",
+    "id" : "4KXUz9ro76jtJgX6riZrzo",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/b7eb17906e2ff93aaf3e577bf72f6a5c918c76f5",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/cc2ceaef2f88658bd05b6732664bc17ae3cf67e4",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/29f4997707096519c73a46f4466eb9dff4f13bc7",
+      "width" : 64
+    } ],
+    "name" : "Nirvana",
+    "type" : "album",
+    "uri" : "spotify:album:4KXUz9ro76jtJgX6riZrzo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+    "id" : "6olE6TJLqED3rqDCT0FyPh",
+    "name" : "Nirvana",
+    "type" : "artist",
+    "uri" : "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 131120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF19950402"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4va96Hxb9XDuJFS4XP80ma"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4va96Hxb9XDuJFS4XP80ma",
+  "id" : "4va96Hxb9XDuJFS4XP80ma",
+  "name" : "Sliver",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b3469deffa529d0bd54cfd51acdc1b383c61b489?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4va96Hxb9XDuJFS4XP80ma"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39x9e2QDpAxK8xTuJDwRqR",
+      "id" : "39x9e2QDpAxK8xTuJDwRqR",
+      "name" : "Junior Boys",
+      "type" : "artist",
+      "uri" : "spotify:artist:39x9e2QDpAxK8xTuJDwRqR"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Me57GV1wueTVeNx9Bxo3R"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Me57GV1wueTVeNx9Bxo3R",
+    "id" : "6Me57GV1wueTVeNx9Bxo3R",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/20aaf9e526afb1481cf6183b7f34e9c2e2027f6a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/19e4ee8c322576a572e45a5b5cd35526b1a50b6a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/717ad66efceaabce0186d0fb0f75942cf63b7961",
+      "width" : 64
+    } ],
+    "name" : "Last Exit",
+    "type" : "album",
+    "uri" : "spotify:album:6Me57GV1wueTVeNx9Bxo3R"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/39x9e2QDpAxK8xTuJDwRqR",
+    "id" : "39x9e2QDpAxK8xTuJDwRqR",
+    "name" : "Junior Boys",
+    "type" : "artist",
+    "uri" : "spotify:artist:39x9e2QDpAxK8xTuJDwRqR"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 331533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0500663"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1cRYMskqTgzyZdwNO8fSDS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1cRYMskqTgzyZdwNO8fSDS",
+  "id" : "1cRYMskqTgzyZdwNO8fSDS",
+  "name" : "Teach Me How To Fight",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4f6aa99a8479a242bfeb20a34914fa4982431097?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1cRYMskqTgzyZdwNO8fSDS"
+}

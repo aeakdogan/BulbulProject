@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ncNJNBW6jRC3xnY7ZSzLj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ncNJNBW6jRC3xnY7ZSzLj",
+      "id" : "5ncNJNBW6jRC3xnY7ZSzLj",
+      "name" : "JFB",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ncNJNBW6jRC3xnY7ZSzLj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ZKxvo3axej5kTXceb6CR3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ZKxvo3axej5kTXceb6CR3",
+      "id" : "4ZKxvo3axej5kTXceb6CR3",
+      "name" : "Nick Hollywood",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ZKxvo3axej5kTXceb6CR3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0h5dvN5nxYYYWrihAogk08"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0h5dvN5nxYYYWrihAogk08",
+    "id" : "0h5dvN5nxYYYWrihAogk08",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/61de070205e59a35faa9357bc8ca994cd38f2d09",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7d044abaace5dd893f415b1b96a26a8c7b569b19",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/511564fbeeacea5856d4190ded298cdb3317fcdb",
+      "width" : 64
+    } ],
+    "name" : "Back Home - Single",
+    "type" : "album",
+    "uri" : "spotify:album:0h5dvN5nxYYYWrihAogk08"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4ZKxvo3axej5kTXceb6CR3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4ZKxvo3axej5kTXceb6CR3",
+    "id" : "4ZKxvo3axej5kTXceb6CR3",
+    "name" : "Nick Hollywood",
+    "type" : "artist",
+    "uri" : "spotify:artist:4ZKxvo3axej5kTXceb6CR3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 335625,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBJCN1508402"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7M3KiaGehf01VJL52451b1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7M3KiaGehf01VJL52451b1",
+  "id" : "7M3KiaGehf01VJL52451b1",
+  "name" : "Deep Henderson - JFB Remix",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e999b80e1563828647fe497a0237fb5c053e74e3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7M3KiaGehf01VJL52451b1"
+}

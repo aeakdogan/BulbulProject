@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2aB0EWdEH6BcGTbUfYAqqD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2aB0EWdEH6BcGTbUfYAqqD",
+      "id" : "2aB0EWdEH6BcGTbUfYAqqD",
+      "name" : "The Spinto Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:2aB0EWdEH6BcGTbUfYAqqD"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "ES", "GB", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/65ZX9LOxQLg5wiUEmhXQqS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/65ZX9LOxQLg5wiUEmhXQqS",
+    "id" : "65ZX9LOxQLg5wiUEmhXQqS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c6ce5e90113aa9a63accb3e4dc118766df450d33",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/935a47ba3cadc00e549796cf697ad41485745cd9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cba8701c936509704e9dc162fbb9dc5712c53c13",
+      "width" : 64
+    } ],
+    "name" : "Cool Cocoon",
+    "type" : "album",
+    "uri" : "spotify:album:65ZX9LOxQLg5wiUEmhXQqS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2aB0EWdEH6BcGTbUfYAqqD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2aB0EWdEH6BcGTbUfYAqqD",
+    "id" : "2aB0EWdEH6BcGTbUfYAqqD",
+    "name" : "The Spinto Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:2aB0EWdEH6BcGTbUfYAqqD"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "ES", "GB", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 193333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMRTK1200011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1NFYD16yj0qs4nfrLgtkWx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1NFYD16yj0qs4nfrLgtkWx",
+  "id" : "1NFYD16yj0qs4nfrLgtkWx",
+  "name" : "Shake It Off",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a1adc624d4755e7784bf9b9f1cf8bca90f4ae557?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1NFYD16yj0qs4nfrLgtkWx"
+}

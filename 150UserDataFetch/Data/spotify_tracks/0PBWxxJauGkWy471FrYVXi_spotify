@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj",
+      "id" : "2VYQTNDsvvKN9wmU5W7xpj",
+      "name" : "Marilyn Manson",
+      "type" : "artist",
+      "uri" : "spotify:artist:2VYQTNDsvvKN9wmU5W7xpj"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2A49izrVW0wRLcst64owry"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2A49izrVW0wRLcst64owry",
+    "id" : "2A49izrVW0wRLcst64owry",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/5082bb9102eee45df656e602c807f5986ca38fdd",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/a4795e8cab1d70aa2d347b67324928d6ccff37e9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6a388b28a813dd3a09f2665628e30af337203542",
+      "width" : 64
+    } ],
+    "name" : "EAT ME, DRINK ME",
+    "type" : "album",
+    "uri" : "spotify:album:2A49izrVW0wRLcst64owry"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2VYQTNDsvvKN9wmU5W7xpj",
+    "id" : "2VYQTNDsvvKN9wmU5W7xpj",
+    "name" : "Marilyn Manson",
+    "type" : "artist",
+    "uri" : "spotify:artist:2VYQTNDsvvKN9wmU5W7xpj"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 271266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70734879"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0PBWxxJauGkWy471FrYVXi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0PBWxxJauGkWy471FrYVXi",
+  "id" : "0PBWxxJauGkWy471FrYVXi",
+  "name" : "Putting Holes In Happiness",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/49dc61cfc48e3d2d8002946788e691d908f7e3fb?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0PBWxxJauGkWy471FrYVXi"
+}

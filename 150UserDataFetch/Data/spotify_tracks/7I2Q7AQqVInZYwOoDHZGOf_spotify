@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+      "id" : "3qm84nBOXUEQ2vnTfUTTFC",
+      "name" : "Guns N' Roses",
+      "type" : "artist",
+      "uri" : "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6z5LStxyQzrUTrVxjiOXVU",
+    "id" : "6z5LStxyQzrUTrVxjiOXVU",
+    "images" : [ {
+      "height" : 627,
+      "url" : "https://i.scdn.co/image/1cb46a8a838ee554ec3a4a96025c8dc8274cb811",
+      "width" : 640
+    }, {
+      "height" : 294,
+      "url" : "https://i.scdn.co/image/22b641e25f768916dd31ce2a6ffce42c4290edb9",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/dfad69fbef459f024c480dad47ba8ea6e0bc7c16",
+      "width" : 64
+    } ],
+    "name" : "G N' R Lies",
+    "type" : "album",
+    "uri" : "spotify:album:6z5LStxyQzrUTrVxjiOXVU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+    "id" : "3qm84nBOXUEQ2vnTfUTTFC",
+    "name" : "Guns N' Roses",
+    "type" : "artist",
+    "uri" : "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF18819801"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7I2Q7AQqVInZYwOoDHZGOf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7I2Q7AQqVInZYwOoDHZGOf",
+  "id" : "7I2Q7AQqVInZYwOoDHZGOf",
+  "name" : "Reckless Life - Live Version (Explicit)",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1ab268ca85fbbce44fe2e9374378df1896936e12?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7I2Q7AQqVInZYwOoDHZGOf"
+}

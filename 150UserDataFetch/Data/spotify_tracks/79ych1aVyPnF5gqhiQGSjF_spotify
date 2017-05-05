@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6OHXnLZCeWUwtdDsBdqOdr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6OHXnLZCeWUwtdDsBdqOdr",
+      "id" : "6OHXnLZCeWUwtdDsBdqOdr",
+      "name" : "Zoë Keating",
+      "type" : "artist",
+      "uri" : "spotify:artist:6OHXnLZCeWUwtdDsBdqOdr"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5CXgHsxu4SydFFeJ6ClHY4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5CXgHsxu4SydFFeJ6ClHY4",
+    "id" : "5CXgHsxu4SydFFeJ6ClHY4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2cc3520df1e841475d6b4a55d4620e70bbbff2c1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6126f5c8caeae6ffb1044e86fe6e83e7c0226ada",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2fb894d5192cf9c7f05e2d9510e2d4b85fc8e2a2",
+      "width" : 64
+    } ],
+    "name" : "Into The Trees",
+    "type" : "album",
+    "uri" : "spotify:album:5CXgHsxu4SydFFeJ6ClHY4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6OHXnLZCeWUwtdDsBdqOdr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6OHXnLZCeWUwtdDsBdqOdr",
+    "id" : "6OHXnLZCeWUwtdDsBdqOdr",
+    "name" : "Zoë Keating",
+    "type" : "artist",
+    "uri" : "spotify:artist:6OHXnLZCeWUwtdDsBdqOdr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 370653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US-U2C-10-00005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/79ych1aVyPnF5gqhiQGSjF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/79ych1aVyPnF5gqhiQGSjF",
+  "id" : "79ych1aVyPnF5gqhiQGSjF",
+  "name" : "Lost",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a7d711489222aba22f30a0be6e4cff96592ced37?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:79ych1aVyPnF5gqhiQGSjF"
+}

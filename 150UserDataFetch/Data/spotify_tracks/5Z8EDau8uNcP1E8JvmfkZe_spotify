@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3EhbVgyfGd7HkpsagwL9GS",
+      "id" : "3EhbVgyfGd7HkpsagwL9GS",
+      "name" : "Alice Cooper",
+      "type" : "artist",
+      "uri" : "spotify:artist:3EhbVgyfGd7HkpsagwL9GS"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0zKjnOsXxs63unPR6TWoHq",
+    "id" : "0zKjnOsXxs63unPR6TWoHq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a07794c3dcb2b9f788cfadcb863eafd95836724f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a16ca71f2a75036592a1fb145b494a6e110d399a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/952393e36ab9b8b660dcb4ee4eb2ed4a62974077",
+      "width" : 64
+    } ],
+    "name" : "School's Out",
+    "type" : "album",
+    "uri" : "spotify:album:0zKjnOsXxs63unPR6TWoHq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3EhbVgyfGd7HkpsagwL9GS",
+    "id" : "3EhbVgyfGd7HkpsagwL9GS",
+    "name" : "Alice Cooper",
+    "type" : "artist",
+    "uri" : "spotify:artist:3EhbVgyfGd7HkpsagwL9GS"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 210106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19900782"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Z8EDau8uNcP1E8JvmfkZe",
+  "id" : "5Z8EDau8uNcP1E8JvmfkZe",
+  "name" : "School's Out",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f399de2969ba2f0568fd1ec6aa8accdea1c311a9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5Z8EDau8uNcP1E8JvmfkZe"
+}

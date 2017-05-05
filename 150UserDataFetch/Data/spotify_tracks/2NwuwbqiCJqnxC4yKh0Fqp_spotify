@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+      "id" : "2jw70GZXlAI8QzWeY2bgRc",
+      "name" : "Nelly Furtado",
+      "type" : "artist",
+      "uri" : "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0KuwW8qW9a0oKhuxydvMvk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0KuwW8qW9a0oKhuxydvMvk",
+    "id" : "0KuwW8qW9a0oKhuxydvMvk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/de7634fbd008797f579a0139f625a394ef1a0c7d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/36073d672bcbc9c55c31c1df0070524db53f0bc6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/77d6599628a821e64566d204846a68d6f71b47a5",
+      "width" : 64
+    } ],
+    "name" : "The Best of Nelly Furtado (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:0KuwW8qW9a0oKhuxydvMvk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+    "id" : "2jw70GZXlAI8QzWeY2bgRc",
+    "name" : "Nelly Furtado",
+    "type" : "artist",
+    "uri" : "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 258413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70601449"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2NwuwbqiCJqnxC4yKh0Fqp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2NwuwbqiCJqnxC4yKh0Fqp",
+  "id" : "2NwuwbqiCJqnxC4yKh0Fqp",
+  "name" : "Maneater",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/62b91c9c50f5e95ce82480db2674b9e4b4a7c4e1?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2NwuwbqiCJqnxC4yKh0Fqp"
+}

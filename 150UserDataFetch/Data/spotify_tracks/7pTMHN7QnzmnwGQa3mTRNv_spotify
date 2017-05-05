@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2NPduAUeLVsfIauhRwuft1",
+      "id" : "2NPduAUeLVsfIauhRwuft1",
+      "name" : "Nightwish",
+      "type" : "artist",
+      "uri" : "spotify:artist:2NPduAUeLVsfIauhRwuft1"
+    } ],
+    "available_markets" : [ "AU", "CA", "NZ", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5sHIuXeNUs3Tqfg7kQIFVT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5sHIuXeNUs3Tqfg7kQIFVT",
+    "id" : "5sHIuXeNUs3Tqfg7kQIFVT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3e816581348bc64534a1f247abb471e9dbf9fb0d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cbae3d78a6c23b098ab71f502b2e3466f84128af",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5ce3a9bf7a5a024e95b4425c0e054688524e058b",
+      "width" : 64
+    } ],
+    "name" : "Once",
+    "type" : "album",
+    "uri" : "spotify:album:5sHIuXeNUs3Tqfg7kQIFVT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2NPduAUeLVsfIauhRwuft1",
+    "id" : "2NPduAUeLVsfIauhRwuft1",
+    "name" : "Nightwish",
+    "type" : "artist",
+    "uri" : "spotify:artist:2NPduAUeLVsfIauhRwuft1"
+  } ],
+  "available_markets" : [ "AU", "CA", "NZ", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 276120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLA320420899"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7pTMHN7QnzmnwGQa3mTRNv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7pTMHN7QnzmnwGQa3mTRNv",
+  "id" : "7pTMHN7QnzmnwGQa3mTRNv",
+  "name" : "Nemo",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b8e023fd77a536b41b8da6832cda7c9aefa3afce?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7pTMHN7QnzmnwGQa3mTRNv"
+}

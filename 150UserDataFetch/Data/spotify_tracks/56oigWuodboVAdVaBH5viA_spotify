@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/450iujbtN6XgiA9pv6fVZz",
+      "id" : "450iujbtN6XgiA9pv6fVZz",
+      "name" : "Razorlight",
+      "type" : "artist",
+      "uri" : "spotify:artist:450iujbtN6XgiA9pv6fVZz"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6iRS8yRhnTgNEQrBoB2azm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6iRS8yRhnTgNEQrBoB2azm",
+    "id" : "6iRS8yRhnTgNEQrBoB2azm",
+    "images" : [ {
+      "height" : 631,
+      "url" : "https://i.scdn.co/image/acd893d2c5cd9f5dcff025002ccdc63bdc85c397",
+      "width" : 640
+    }, {
+      "height" : 296,
+      "url" : "https://i.scdn.co/image/04c38d9f63ec109507434bc7b7d9424db6127c02",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/47904a7927d9a4c91303283ca39f7b00eb5c8c7e",
+      "width" : 64
+    } ],
+    "name" : "Up All Night",
+    "type" : "album",
+    "uri" : "spotify:album:6iRS8yRhnTgNEQrBoB2azm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/450iujbtN6XgiA9pv6fVZz",
+    "id" : "450iujbtN6XgiA9pv6fVZz",
+    "name" : "Razorlight",
+    "type" : "artist",
+    "uri" : "spotify:artist:450iujbtN6XgiA9pv6fVZz"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 193200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF080400253"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/56oigWuodboVAdVaBH5viA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/56oigWuodboVAdVaBH5viA",
+  "id" : "56oigWuodboVAdVaBH5viA",
+  "name" : "Vice",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3628315d1648e0558f0e739716a06f59192a790c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:56oigWuodboVAdVaBH5viA"
+}

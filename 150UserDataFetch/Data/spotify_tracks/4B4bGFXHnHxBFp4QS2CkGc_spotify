@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4SQdUpG4f7UbkJG3cJ2Iyj",
+      "id" : "4SQdUpG4f7UbkJG3cJ2Iyj",
+      "name" : "Arca",
+      "type" : "artist",
+      "uri" : "spotify:artist:4SQdUpG4f7UbkJG3cJ2Iyj"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3YFXY89VYYOuLWd6PqLhFe",
+    "id" : "3YFXY89VYYOuLWd6PqLhFe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b47b3e51d51706679eb1ffdf0f828532a7d0b0f4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/18303452c57c5e095e6b532d6ec7b68a2ae13d06",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bbe1c7667f8df51e62dd5836e190ccb66f3bae99",
+      "width" : 64
+    } ],
+    "name" : "Xen",
+    "type" : "album",
+    "uri" : "spotify:album:3YFXY89VYYOuLWd6PqLhFe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4SQdUpG4f7UbkJG3cJ2Iyj",
+    "id" : "4SQdUpG4f7UbkJG3cJ2Iyj",
+    "name" : "Arca",
+    "type" : "artist",
+    "uri" : "spotify:artist:4SQdUpG4f7UbkJG3cJ2Iyj"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 153704,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBR8R1301416"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4B4bGFXHnHxBFp4QS2CkGc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4B4bGFXHnHxBFp4QS2CkGc",
+  "id" : "4B4bGFXHnHxBFp4QS2CkGc",
+  "name" : "Thievery",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/857ee8b425c7bd76aafc6ce029607fcd5df78882?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:4B4bGFXHnHxBFp4QS2CkGc"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ihBDeJlIlXo4LFfAllsGm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ihBDeJlIlXo4LFfAllsGm",
+      "id" : "0ihBDeJlIlXo4LFfAllsGm",
+      "name" : "The Sea and Cake",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ihBDeJlIlXo4LFfAllsGm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2uZiFnEDf8UxRBZUZaySgp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2uZiFnEDf8UxRBZUZaySgp",
+    "id" : "2uZiFnEDf8UxRBZUZaySgp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9ef185ef0970e62cc6f9c7f596eb0cfac1132a8a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5b669e731dcc495e0825dcf49ae00f005311d280",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0547f8d639b5ed1bb47d2a2728356a6c769ec4bd",
+      "width" : 64
+    } ],
+    "name" : "Everybody",
+    "type" : "album",
+    "uri" : "spotify:album:2uZiFnEDf8UxRBZUZaySgp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ihBDeJlIlXo4LFfAllsGm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ihBDeJlIlXo4LFfAllsGm",
+    "id" : "0ihBDeJlIlXo4LFfAllsGm",
+    "name" : "The Sea and Cake",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ihBDeJlIlXo4LFfAllsGm"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 172066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTJ20718602"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3wc8BtCx6HbEwPzXLQ4EG0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3wc8BtCx6HbEwPzXLQ4EG0",
+  "id" : "3wc8BtCx6HbEwPzXLQ4EG0",
+  "name" : "Too Strong",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/72a38da4cc9820fc1f3b759dfb9a153934f0f6b7?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3wc8BtCx6HbEwPzXLQ4EG0"
+}

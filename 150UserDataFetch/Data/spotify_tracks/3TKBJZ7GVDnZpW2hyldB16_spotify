@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH",
+      "id" : "7Ey4PD4MYsKc5I2dolUwbH",
+      "name" : "Aerosmith",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Ey4PD4MYsKc5I2dolUwbH"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0YlgzYfI3a1OrGBBN0wWTG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0YlgzYfI3a1OrGBBN0wWTG",
+    "id" : "0YlgzYfI3a1OrGBBN0wWTG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d07216ee0c3aa2c51256cd896d1695b9db34f850",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2c07e0b9edd5d1cfd37311c05ed6e6c847b35b8c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/472ecb81001d1189b594e41d884b6f775970eed4",
+      "width" : 64
+    } ],
+    "name" : "The Essential Aerosmith",
+    "type" : "album",
+    "uri" : "spotify:album:0YlgzYfI3a1OrGBBN0wWTG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7Ey4PD4MYsKc5I2dolUwbH",
+    "id" : "7Ey4PD4MYsKc5I2dolUwbH",
+    "name" : "Aerosmith",
+    "type" : "artist",
+    "uri" : "spotify:artist:7Ey4PD4MYsKc5I2dolUwbH"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 193160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10207588"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3TKBJZ7GVDnZpW2hyldB16"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3TKBJZ7GVDnZpW2hyldB16",
+  "id" : "3TKBJZ7GVDnZpW2hyldB16",
+  "name" : "Girls of Summer",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c41f72245dcfed77435885af18a393c7822339b7?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:3TKBJZ7GVDnZpW2hyldB16"
+}

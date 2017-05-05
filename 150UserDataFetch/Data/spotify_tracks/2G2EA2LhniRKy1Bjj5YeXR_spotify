@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39iHRO9MH9To3gjW7wqaW1",
+      "id" : "39iHRO9MH9To3gjW7wqaW1",
+      "name" : "Lalo Schifrin",
+      "type" : "artist",
+      "uri" : "spotify:artist:39iHRO9MH9To3gjW7wqaW1"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/18GNzCwTa0ZH90KaZ0EAUf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/18GNzCwTa0ZH90KaZ0EAUf",
+    "id" : "18GNzCwTa0ZH90KaZ0EAUf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3b6e8f02365a8a3a3d40fd9c7616f6c5159ccb95",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4503d1a69f6bba14c8564fd79c5ae66311288f22",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2f287009bbb6b1fd4e7777ea51157dc9e116f81e",
+      "width" : 64
+    } ],
+    "name" : "Bullitt",
+    "type" : "album",
+    "uri" : "spotify:album:18GNzCwTa0ZH90KaZ0EAUf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/39iHRO9MH9To3gjW7wqaW1",
+    "id" : "39iHRO9MH9To3gjW7wqaW1",
+    "name" : "Lalo Schifrin",
+    "type" : "artist",
+    "uri" : "spotify:artist:39iHRO9MH9To3gjW7wqaW1"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 148800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USARI0101805"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2G2EA2LhniRKy1Bjj5YeXR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2G2EA2LhniRKy1Bjj5YeXR",
+  "id" : "2G2EA2LhniRKy1Bjj5YeXR",
+  "name" : "Room 26 - Movie Version",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e7f41b9f62eac3cbec1b5bb87c494c0529ed0fdf?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2G2EA2LhniRKy1Bjj5YeXR"
+}

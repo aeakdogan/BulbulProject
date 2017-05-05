@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ",
+      "id" : "4iHNK0tOyZPYnBU7nGAgpQ",
+      "name" : "Mariah Carey",
+      "type" : "artist",
+      "uri" : "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7aDBFWp72Pz4NZEtVBANi9",
+    "id" : "7aDBFWp72Pz4NZEtVBANi9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f568f63dd6183aadc9dc42824ba080dde0361367",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1c75a7fd3fab98642b29a0d97ef6855decdb0798",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c31786a6a026d16962d31f44bc23738cc9d50cf8",
+      "width" : 64
+    } ],
+    "name" : "Butterfly",
+    "type" : "album",
+    "uri" : "spotify:album:7aDBFWp72Pz4NZEtVBANi9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ",
+    "id" : "4iHNK0tOyZPYnBU7nGAgpQ",
+    "name" : "Mariah Carey",
+    "type" : "artist",
+    "uri" : "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 230933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19701965"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3RSpK5Y0y5tl25qvssrwJ6",
+  "id" : "3RSpK5Y0y5tl25qvssrwJ6",
+  "name" : "My All",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2c6321dc1f89cf87bf063b0ee0da992dcfa6ca99?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3RSpK5Y0y5tl25qvssrwJ6"
+}

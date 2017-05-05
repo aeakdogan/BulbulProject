@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6",
+      "id" : "6WoTvA9qinpHtSRJuldYh6",
+      "name" : "The Fall",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WoTvA9qinpHtSRJuldYh6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1AikHVRZpnTVfkOXMt7RfJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1AikHVRZpnTVfkOXMt7RfJ",
+    "id" : "1AikHVRZpnTVfkOXMt7RfJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b62b0d64c40aa72807c04c62cbdf8792451fe26f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4e7d8f3b910fec72baaca54b7a59f2c4ca266c7a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/51c0ca5bdec41509b9795167475f816080911392",
+      "width" : 64
+    } ],
+    "name" : "Totally Wired - The Rough Trade Anthology",
+    "type" : "album",
+    "uri" : "spotify:album:1AikHVRZpnTVfkOXMt7RfJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6",
+    "id" : "6WoTvA9qinpHtSRJuldYh6",
+    "name" : "The Fall",
+    "type" : "artist",
+    "uri" : "spotify:artist:6WoTvA9qinpHtSRJuldYh6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 204560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJE8000208"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0aWbDmvVmh03PYXQF1hEPy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0aWbDmvVmh03PYXQF1hEPy",
+  "id" : "0aWbDmvVmh03PYXQF1hEPy",
+  "name" : "Totally Wired",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3e8d9b8af6d775a208f74392a4418e9a7feacd72?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0aWbDmvVmh03PYXQF1hEPy"
+}

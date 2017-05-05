@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+      "id" : "2cCUtGK9sDU2EoElnk0GNB",
+      "name" : "The National",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4mr0nXLuoWv0AleieUrRkR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4mr0nXLuoWv0AleieUrRkR",
+    "id" : "4mr0nXLuoWv0AleieUrRkR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/acb642121a43cee6045892031b3e7bb193d16c05",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7b5733728159aa90123483a6462bcedaf1de752b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/58c84bbd2ea762cb1b88e5c5badec83539b291ad",
+      "width" : 64
+    } ],
+    "name" : "The National",
+    "type" : "album",
+    "uri" : "spotify:album:4mr0nXLuoWv0AleieUrRkR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+    "id" : "2cCUtGK9sDU2EoElnk0GNB",
+    "name" : "The National",
+    "type" : "artist",
+    "uri" : "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 195200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USI4R0508215"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5g56mUgUJzZyXA3QrCMFIk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5g56mUgUJzZyXA3QrCMFIk",
+  "id" : "5g56mUgUJzZyXA3QrCMFIk",
+  "name" : "The Perfect Song",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4468ccc1a9d382dde9010036ba9786ad727e19c3?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5g56mUgUJzZyXA3QrCMFIk"
+}

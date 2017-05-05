@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sIZakv0uaA3qQmOOPTOQt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6sIZakv0uaA3qQmOOPTOQt",
+      "id" : "6sIZakv0uaA3qQmOOPTOQt",
+      "name" : "Piano Magic",
+      "type" : "artist",
+      "uri" : "spotify:artist:6sIZakv0uaA3qQmOOPTOQt"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2nA2YMH3aizU1RxoS4xW6l"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2nA2YMH3aizU1RxoS4xW6l",
+    "id" : "2nA2YMH3aizU1RxoS4xW6l",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3de12bf05dd07f7e87529d77181566ab36ac366c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d4a80227a78d21948c89d0532c35ce5e0f492ee7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8d5052e125084ba21c00516c22a5c5c2168df4d2",
+      "width" : 64
+    } ],
+    "name" : "Life Has Not Finished With Me Yet",
+    "type" : "album",
+    "uri" : "spotify:album:2nA2YMH3aizU1RxoS4xW6l"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6sIZakv0uaA3qQmOOPTOQt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6sIZakv0uaA3qQmOOPTOQt",
+    "id" : "6sIZakv0uaA3qQmOOPTOQt",
+    "name" : "Piano Magic",
+    "type" : "artist",
+    "uri" : "spotify:artist:6sIZakv0uaA3qQmOOPTOQt"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 317667,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMTXS1100051"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4VLJyAHR2JM5UEmACINbRE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4VLJyAHR2JM5UEmACINbRE",
+  "id" : "4VLJyAHR2JM5UEmACINbRE",
+  "name" : "Judas",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/37f68dfcff53b5e9b14f5a71ca7b1c957668e023?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4VLJyAHR2JM5UEmACINbRE"
+}

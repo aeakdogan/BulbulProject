@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2beRN3D0I38WBoTqrUTgjZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2beRN3D0I38WBoTqrUTgjZ",
+      "id" : "2beRN3D0I38WBoTqrUTgjZ",
+      "name" : "Renaud Garcia-Fons",
+      "type" : "artist",
+      "uri" : "spotify:artist:2beRN3D0I38WBoTqrUTgjZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04e8hX9MAJUSVQNEyBdth0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04e8hX9MAJUSVQNEyBdth0",
+      "id" : "04e8hX9MAJUSVQNEyBdth0",
+      "name" : "Derya Türkan",
+      "type" : "artist",
+      "uri" : "spotify:artist:04e8hX9MAJUSVQNEyBdth0"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/34urmdvX0QbsmS1SvhEQi2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/34urmdvX0QbsmS1SvhEQi2",
+    "id" : "34urmdvX0QbsmS1SvhEQi2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/da3670479e357286af2e5e99bac130f7337c89cb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3f5578f149eedcad5c90a443ffb046f58d4468ed",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e2bb5b2df9ba47daf9e796bc4567e106f789a578",
+      "width" : 64
+    } ],
+    "name" : "Silk Moon",
+    "type" : "album",
+    "uri" : "spotify:album:34urmdvX0QbsmS1SvhEQi2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2beRN3D0I38WBoTqrUTgjZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2beRN3D0I38WBoTqrUTgjZ",
+    "id" : "2beRN3D0I38WBoTqrUTgjZ",
+    "name" : "Renaud Garcia-Fons",
+    "type" : "artist",
+    "uri" : "spotify:artist:2beRN3D0I38WBoTqrUTgjZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 147520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZPA1421780"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2WO18U32s6eWdaQkejbKp6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2WO18U32s6eWdaQkejbKp6",
+  "id" : "2WO18U32s6eWdaQkejbKp6",
+  "name" : "Dokuz Sekiz",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9fd459e06c5a6b0cc19a93c076a4e05de9048861?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2WO18U32s6eWdaQkejbKp6"
+}

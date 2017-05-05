@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2TtebnfWKMq7LCi2A9BlU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2TtebnfWKMq7LCi2A9BlU4",
+      "id" : "2TtebnfWKMq7LCi2A9BlU4",
+      "name" : "Anna Tatangelo",
+      "type" : "artist",
+      "uri" : "spotify:artist:2TtebnfWKMq7LCi2A9BlU4"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ijtdAHPzYqokzuN6UL8Nn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ijtdAHPzYqokzuN6UL8Nn",
+    "id" : "3ijtdAHPzYqokzuN6UL8Nn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c2c2e0ed433fc0608d21a1e81099f1e716af4df5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bab3f2ad4a57349806f7be1be717752ee4a30262",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f68ba0bc36f96e868e36d75b60a57bd54b6c82cd",
+      "width" : 64
+    } ],
+    "name" : "Ragazza Di Periferia",
+    "type" : "album",
+    "uri" : "spotify:album:3ijtdAHPzYqokzuN6UL8Nn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2TtebnfWKMq7LCi2A9BlU4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2TtebnfWKMq7LCi2A9BlU4",
+    "id" : "2TtebnfWKMq7LCi2A9BlU4",
+    "name" : "Anna Tatangelo",
+    "type" : "artist",
+    "uri" : "spotify:artist:2TtebnfWKMq7LCi2A9BlU4"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 267240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITE220500008"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6yAaDcAGsHMVdArNxHj7Mr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6yAaDcAGsHMVdArNxHj7Mr",
+  "id" : "6yAaDcAGsHMVdArNxHj7Mr",
+  "name" : "Qualcosa Di Te",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6ad631a000250d7c5bd8fee84d1dc1f01ebb28f5?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6yAaDcAGsHMVdArNxHj7Mr"
+}

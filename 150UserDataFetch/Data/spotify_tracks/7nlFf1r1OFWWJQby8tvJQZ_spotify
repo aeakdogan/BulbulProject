@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74K7bX12L8GBAWvPuyIgJ7",
+      "id" : "74K7bX12L8GBAWvPuyIgJ7",
+      "name" : "Embrace",
+      "type" : "artist",
+      "uri" : "spotify:artist:74K7bX12L8GBAWvPuyIgJ7"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1SPtwlntisBsWtxSPX9Jn3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1SPtwlntisBsWtxSPX9Jn3",
+    "id" : "1SPtwlntisBsWtxSPX9Jn3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/116805eba6c518d1a1252f346df053e508ea2bc5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4cba9a21240a68c765d5769b95e3e5e362d9bc6c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a1ee58dd756c7eef0bb7b6379cf9c2000b85f3f7",
+      "width" : 64
+    } ],
+    "name" : "Out Of Nothing",
+    "type" : "album",
+    "uri" : "spotify:album:1SPtwlntisBsWtxSPX9Jn3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/74K7bX12L8GBAWvPuyIgJ7",
+    "id" : "74K7bX12L8GBAWvPuyIgJ7",
+    "name" : "Embrace",
+    "type" : "artist",
+    "uri" : "spotify:artist:74K7bX12L8GBAWvPuyIgJ7"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20500207"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7nlFf1r1OFWWJQby8tvJQZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7nlFf1r1OFWWJQby8tvJQZ",
+  "id" : "7nlFf1r1OFWWJQby8tvJQZ",
+  "name" : "Wish 'Em All Away",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8bccbec6a7b8ac052eddf2200af2c3a6d1355027?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7nlFf1r1OFWWJQby8tvJQZ"
+}

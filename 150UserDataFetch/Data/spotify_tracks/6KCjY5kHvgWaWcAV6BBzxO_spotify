@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+      "id" : "36QJpDe2go2KgaRleHCDTp",
+      "name" : "Led Zeppelin",
+      "type" : "artist",
+      "uri" : "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5EyIDBAqhnlkAHqvPRwdbX",
+    "id" : "5EyIDBAqhnlkAHqvPRwdbX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e3e5693621719d65dbc8d4322bbf02d3b822d162",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b6583708a176bf018b9c4d700c5de5bebeb071bb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6bf1f2f09df9224537428f5b3a3eb90fab7eedbb",
+      "width" : 64
+    } ],
+    "name" : "Led Zeppelin IV (Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:5EyIDBAqhnlkAHqvPRwdbX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+    "id" : "36QJpDe2go2KgaRleHCDTp",
+    "name" : "Led Zeppelin",
+    "type" : "artist",
+    "uri" : "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 351677,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT21300958"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6KCjY5kHvgWaWcAV6BBzxO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6KCjY5kHvgWaWcAV6BBzxO",
+  "id" : "6KCjY5kHvgWaWcAV6BBzxO",
+  "name" : "The Battle Of Evermore",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a380b7038a100a7d614462e75f6e2d5f39dde7e1?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6KCjY5kHvgWaWcAV6BBzxO"
+}

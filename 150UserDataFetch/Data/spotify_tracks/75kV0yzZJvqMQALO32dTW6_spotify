@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2zRt0sfxNnqI8gLR7d8gWt",
+      "id" : "2zRt0sfxNnqI8gLR7d8gWt",
+      "name" : "She Wants Revenge",
+      "type" : "artist",
+      "uri" : "spotify:artist:2zRt0sfxNnqI8gLR7d8gWt"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/14EqOmpdCZNzYxdedyXWoX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/14EqOmpdCZNzYxdedyXWoX",
+    "id" : "14EqOmpdCZNzYxdedyXWoX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d8318ceedc4cea3d4ef1430de5ce40439381f384",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/52e629f8093ca58302c098c0f5b5d85c87e84fae",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/613eb9d2d93de734c53fff51f485c9baa3cba270",
+      "width" : 64
+    } ],
+    "name" : "This Is Forever",
+    "type" : "album",
+    "uri" : "spotify:album:14EqOmpdCZNzYxdedyXWoX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2zRt0sfxNnqI8gLR7d8gWt",
+    "id" : "2zRt0sfxNnqI8gLR7d8gWt",
+    "name" : "She Wants Revenge",
+    "type" : "artist",
+    "uri" : "spotify:artist:2zRt0sfxNnqI8gLR7d8gWt"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 299560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70748643"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/75kV0yzZJvqMQALO32dTW6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/75kV0yzZJvqMQALO32dTW6",
+  "id" : "75kV0yzZJvqMQALO32dTW6",
+  "name" : "Written In Blood",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/87b50e517769955336e8ce49829d34263819b23c?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:75kV0yzZJvqMQALO32dTW6"
+}

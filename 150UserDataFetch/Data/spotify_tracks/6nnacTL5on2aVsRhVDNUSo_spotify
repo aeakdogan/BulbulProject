@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2pH3wEn4eYlMMIIQyKPbVR",
+      "id" : "2pH3wEn4eYlMMIIQyKPbVR",
+      "name" : "DragonForce",
+      "type" : "artist",
+      "uri" : "spotify:artist:2pH3wEn4eYlMMIIQyKPbVR"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5hzFLt9DwW1RXr7omvS4B5",
+    "id" : "5hzFLt9DwW1RXr7omvS4B5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/949dc85891e9cbf978dd4c35aeef11477b077a79",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/67757cd47f3f60095735dffe48b32da08fd92588",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b333f519bf71bbfbbc22f99127de1011bf5f5ee3",
+      "width" : 64
+    } ],
+    "name" : "Inhuman Rampage",
+    "type" : "album",
+    "uri" : "spotify:album:5hzFLt9DwW1RXr7omvS4B5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2pH3wEn4eYlMMIIQyKPbVR",
+    "id" : "2pH3wEn4eYlMMIIQyKPbVR",
+    "name" : "DragonForce",
+    "type" : "artist",
+    "uri" : "spotify:artist:2pH3wEn4eYlMMIIQyKPbVR"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 441560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJE0508258"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6nnacTL5on2aVsRhVDNUSo",
+  "id" : "6nnacTL5on2aVsRhVDNUSo",
+  "name" : "Through The Fire And Flames",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/31e9d0498bea2c4e1a428b4254d6f18242f17866?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6nnacTL5on2aVsRhVDNUSo"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5pFJ8lLOUnyEaNrrf7D1KK",
+      "id" : "5pFJ8lLOUnyEaNrrf7D1KK",
+      "name" : "Per Gessle",
+      "type" : "artist",
+      "uri" : "spotify:artist:5pFJ8lLOUnyEaNrrf7D1KK"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/72CxJEk3v2yg5yjDWUQveI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/72CxJEk3v2yg5yjDWUQveI",
+    "id" : "72CxJEk3v2yg5yjDWUQveI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b7c0c1aae993b52a5e865d797b122e80bdf40d70",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e1c93a095fe5ec41c2247e5c71616eae1c24a7dc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f7c974f12b0d730c1727110b0be6f5f07e66c350",
+      "width" : 64
+    } ],
+    "name" : "Mazarin",
+    "type" : "album",
+    "uri" : "spotify:album:72CxJEk3v2yg5yjDWUQveI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5pFJ8lLOUnyEaNrrf7D1KK",
+    "id" : "5pFJ8lLOUnyEaNrrf7D1KK",
+    "name" : "Per Gessle",
+    "type" : "artist",
+    "uri" : "spotify:artist:5pFJ8lLOUnyEaNrrf7D1KK"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 224893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEVWA0301002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/53JGbGiq0Cf8L5G6o8x4Fw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/53JGbGiq0Cf8L5G6o8x4Fw",
+  "id" : "53JGbGiq0Cf8L5G6o8x4Fw",
+  "name" : "Om Du Bara Vill",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2ff9ef7233e5f1e8646f2b5545867002787ce0e0?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:53JGbGiq0Cf8L5G6o8x4Fw"
+}

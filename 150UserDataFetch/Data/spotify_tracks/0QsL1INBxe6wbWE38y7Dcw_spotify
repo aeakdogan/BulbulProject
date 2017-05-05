@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Jrxnp0JgqmeUX1veU591p",
+      "id" : "6Jrxnp0JgqmeUX1veU591p",
+      "name" : "Santigold",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Jrxnp0JgqmeUX1veU591p"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4yATru0hY3VgRHSreswbGj",
+    "id" : "4yATru0hY3VgRHSreswbGj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/da1dbb712529e2cf93d12c1d2073f6217fe7c03e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/65ee0e62f4538a5cb176137d34ae0c623f4cbba1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0a46e564e3629a0471f2a6ee31b41d5589762c98",
+      "width" : 64
+    } ],
+    "name" : "Santigold",
+    "type" : "album",
+    "uri" : "spotify:album:4yATru0hY3VgRHSreswbGj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Jrxnp0JgqmeUX1veU591p",
+    "id" : "6Jrxnp0JgqmeUX1veU591p",
+    "name" : "Santigold",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Jrxnp0JgqmeUX1veU591p"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 208533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCJ80600143"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0QsL1INBxe6wbWE38y7Dcw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0QsL1INBxe6wbWE38y7Dcw",
+  "id" : "0QsL1INBxe6wbWE38y7Dcw",
+  "name" : "Anne",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8f138f4c7537a4faa29f8891556aed3b773bf90b?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0QsL1INBxe6wbWE38y7Dcw"
+}

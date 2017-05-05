@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+      "id" : "5V0MlUE1Bft0mbLlND7FJz",
+      "name" : "Ella Fitzgerald",
+      "type" : "artist",
+      "uri" : "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0mpgROEflH2ig24f0srkDF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0mpgROEflH2ig24f0srkDF",
+    "id" : "0mpgROEflH2ig24f0srkDF",
+    "images" : [ {
+      "height" : 631,
+      "url" : "https://i.scdn.co/image/cf0dd9f0e99b1fb6c0b2e5bfe1a02cb967a17c70",
+      "width" : 640
+    }, {
+      "height" : 296,
+      "url" : "https://i.scdn.co/image/373e4367db815454881cf104d1b017cb47bc4f1f",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/0eab7611b5b09d8704ed22cf61bf8ea49fbe6697",
+      "width" : 64
+    } ],
+    "name" : "Ella Fitzgerald Sings The Harold Arlen Songbook (Expanded Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:0mpgROEflH2ig24f0srkDF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+    "id" : "5V0MlUE1Bft0mbLlND7FJz",
+    "name" : "Ella Fitzgerald",
+    "type" : "artist",
+    "uri" : "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 261333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USF096100100"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4dcT5wt1SgggVZCcR9XNTH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4dcT5wt1SgggVZCcR9XNTH",
+  "id" : "4dcT5wt1SgggVZCcR9XNTH",
+  "name" : "Over The Rainbow",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/622f6ce0a3b0a817f76c5c116f6397d7e851c06d?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:4dcT5wt1SgggVZCcR9XNTH"
+}

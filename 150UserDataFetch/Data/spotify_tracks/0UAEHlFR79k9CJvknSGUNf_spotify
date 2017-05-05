@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Cd98zHVdZeOCisc6Gi2sB",
+      "id" : "2Cd98zHVdZeOCisc6Gi2sB",
+      "name" : "Technotronic",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Cd98zHVdZeOCisc6Gi2sB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5uuAdNhG4ruMYRFPVCW8gL",
+    "id" : "5uuAdNhG4ruMYRFPVCW8gL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/33ad676c2474169a07e69e144e88543114ddc0f3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/786f94b82167d223467bdf94a0d9ce1a3da4c0af",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e96c950248e21372ed73e34dcffede220888e655",
+      "width" : 64
+    } ],
+    "name" : "Best Of",
+    "type" : "album",
+    "uri" : "spotify:album:5uuAdNhG4ruMYRFPVCW8gL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Cd98zHVdZeOCisc6Gi2sB",
+    "id" : "2Cd98zHVdZeOCisc6Gi2sB",
+    "name" : "Technotronic",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Cd98zHVdZeOCisc6Gi2sB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 215040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEUM70800466"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0UAEHlFR79k9CJvknSGUNf",
+  "id" : "0UAEHlFR79k9CJvknSGUNf",
+  "name" : "Pump Up The Jam - Edit",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/651a9341353311c3ea9cddcfeefb831da74f6d3f?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0UAEHlFR79k9CJvknSGUNf"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Cq0LAHFfvUTBEtMPXUidI",
+      "id" : "1Cq0LAHFfvUTBEtMPXUidI",
+      "name" : "O.A.R.",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Cq0LAHFfvUTBEtMPXUidI"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/23PusidYfyDzIC8X9l640f"
+    },
+    "href" : "https://api.spotify.com/v1/albums/23PusidYfyDzIC8X9l640f",
+    "id" : "23PusidYfyDzIC8X9l640f",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/545dce40d5187f64385a1aad7d1bcc0f880661fa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e7813cd5280f056afd86a5662b701285bdb1bb74",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d717e8a7a551d98453b711f851bab4f9ebd1cfbf",
+      "width" : 64
+    } ],
+    "name" : "The Rockville LP",
+    "type" : "album",
+    "uri" : "spotify:album:23PusidYfyDzIC8X9l640f"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Cq0LAHFfvUTBEtMPXUidI",
+    "id" : "1Cq0LAHFfvUTBEtMPXUidI",
+    "name" : "O.A.R.",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Cq0LAHFfvUTBEtMPXUidI"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 215915,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVG21403507"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2xwsf9FuFINP1X4FTsqZ7Q"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2xwsf9FuFINP1X4FTsqZ7Q",
+  "id" : "2xwsf9FuFINP1X4FTsqZ7Q",
+  "name" : "Peace",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/22c17890b0793fc22e9dde1cca15b19a7ee9657c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2xwsf9FuFINP1X4FTsqZ7Q"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/174jUTDObM0o05UgHf5uBq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/174jUTDObM0o05UgHf5uBq",
+    "id" : "174jUTDObM0o05UgHf5uBq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/75586ff5428ea07ab93b7f99e14ee8bb0b79275b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/811804c0019fb1c0d83e22366b2963b4c517bbcc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7b9516c62e8c089a7cf4019e9db672305f185248",
+      "width" : 64
+    } ],
+    "name" : "Tango Chill Sessions Vol. 2",
+    "type" : "album",
+    "uri" : "spotify:album:174jUTDObM0o05UgHf5uBq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/22b8TlwcR4ttAN5J34cXRh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/22b8TlwcR4ttAN5J34cXRh",
+    "id" : "22b8TlwcR4ttAN5J34cXRh",
+    "name" : "Meloscience Corp.",
+    "type" : "artist",
+    "uri" : "spotify:artist:22b8TlwcR4ttAN5J34cXRh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 202600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ARF410500061"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4ioIVDopqPqyAmdiIsrFDz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4ioIVDopqPqyAmdiIsrFDz",
+  "id" : "4ioIVDopqPqyAmdiIsrFDz",
+  "name" : "Amiga De Amianto",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/746566acebb3938908c63d0e92eddb3f043cc381?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:4ioIVDopqPqyAmdiIsrFDz"
+}

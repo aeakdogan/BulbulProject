@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+      "id" : "0p4nmQO2msCgU4IF37Wi3j",
+      "name" : "Avril Lavigne",
+      "type" : "artist",
+      "uri" : "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7851Vsjv3apS52sXUik6iF",
+    "id" : "7851Vsjv3apS52sXUik6iF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b89bd6dbfa1772b398c2f30c82103475c9aecd0f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bd3fafe7182eec20c452513ef2a4eb76f68d2342",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7e1755e8efc33736328b2a97a1a3ef72c4e14f84",
+      "width" : 64
+    } ],
+    "name" : "Under My Skin",
+    "type" : "album",
+    "uri" : "spotify:album:7851Vsjv3apS52sXUik6iF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+    "id" : "0p4nmQO2msCgU4IF37Wi3j",
+    "name" : "Avril Lavigne",
+    "type" : "artist",
+    "uri" : "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 208680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR10400490"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/396WOfbkqKaXYFwx6XjdOF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/396WOfbkqKaXYFwx6XjdOF",
+  "id" : "396WOfbkqKaXYFwx6XjdOF",
+  "name" : "Fall To Pieces",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/070f9b49b681ca4fbbe91720900a6eae23956b45?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:396WOfbkqKaXYFwx6XjdOF"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1RFspZHUyu6bLp20Fmw6wy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1RFspZHUyu6bLp20Fmw6wy",
+    "id" : "1RFspZHUyu6bLp20Fmw6wy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1ed0f3751546e8aae387c7805ef9990213c80f62",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b37e801bf12d0b93a70897e1e378fdf22982088f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9d0389f35d5d2ca08a642189f397020e71c85228",
+      "width" : 64
+    } ],
+    "name" : "Belgian Dance Classix 2",
+    "type" : "album",
+    "uri" : "spotify:album:1RFspZHUyu6bLp20Fmw6wy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1mgMUiCLotueW9uU9ZZjk3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1mgMUiCLotueW9uU9ZZjk3",
+    "id" : "1mgMUiCLotueW9uU9ZZjk3",
+    "name" : "Katerine",
+    "type" : "artist",
+    "uri" : "spotify:artist:1mgMUiCLotueW9uU9ZZjk3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 216066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEK010801290"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3XjtgqK7SPoFLBQQmDWxKj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3XjtgqK7SPoFLBQQmDWxKj",
+  "id" : "3XjtgqK7SPoFLBQQmDWxKj",
+  "name" : "Ayo Technology - Radio Edit",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b5b1446f0d8a40b52f32882ce3a8de4e44506076?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3XjtgqK7SPoFLBQQmDWxKj"
+}

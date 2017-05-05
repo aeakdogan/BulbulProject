@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3x8FbPjh2Qz55XMdE2Yalj",
+      "id" : "3x8FbPjh2Qz55XMdE2Yalj",
+      "name" : "Nick Mulvey",
+      "type" : "artist",
+      "uri" : "spotify:artist:3x8FbPjh2Qz55XMdE2Yalj"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ntJpgznXrZ6Qc8wTxtcXh",
+    "id" : "0ntJpgznXrZ6Qc8wTxtcXh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3c99ace701d416e66e33243e84eed106e6b5d3f0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/65568286007417e144d264b7e3a0424199200644",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/19fd78549335701ac6ad05d9bb8986aff89429de",
+      "width" : 64
+    } ],
+    "name" : "First Mind",
+    "type" : "album",
+    "uri" : "spotify:album:0ntJpgznXrZ6Qc8wTxtcXh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3x8FbPjh2Qz55XMdE2Yalj",
+    "id" : "3x8FbPjh2Qz55XMdE2Yalj",
+    "name" : "Nick Mulvey",
+    "type" : "artist",
+    "uri" : "spotify:artist:3x8FbPjh2Qz55XMdE2Yalj"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 267573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71308747"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3G3PP7pAkAaZ6QzM0duBry"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3G3PP7pAkAaZ6QzM0duBry",
+  "id" : "3G3PP7pAkAaZ6QzM0duBry",
+  "name" : "Cucurucu",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2f729b56b24d31faf1b51e94f1e7c12410eeffdb?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3G3PP7pAkAaZ6QzM0duBry"
+}

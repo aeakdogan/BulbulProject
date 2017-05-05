@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mZqziCJj4pq3P2VBpmK6p",
+      "id" : "3mZqziCJj4pq3P2VBpmK6p",
+      "name" : "Friendly Fires",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mZqziCJj4pq3P2VBpmK6p"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6cLebEH9n07yXZGQj5G7qG",
+    "id" : "6cLebEH9n07yXZGQj5G7qG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6108a5e9aec08f5f6cab64069139d5ac91e10209",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b79932e4f1dd3c690e653a5fa9f9ea0f70b8efe9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aadad192658ee2a53131cd345bc5434df664093f",
+      "width" : 64
+    } ],
+    "name" : "Pala",
+    "type" : "album",
+    "uri" : "spotify:album:6cLebEH9n07yXZGQj5G7qG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3mZqziCJj4pq3P2VBpmK6p",
+    "id" : "3mZqziCJj4pq3P2VBpmK6p",
+    "name" : "Friendly Fires",
+    "type" : "artist",
+    "uri" : "spotify:artist:3mZqziCJj4pq3P2VBpmK6p"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 301706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS1100060"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3WrETsP6uW47F2J9vWCXgk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3WrETsP6uW47F2J9vWCXgk",
+  "id" : "3WrETsP6uW47F2J9vWCXgk",
+  "name" : "Live Those Days Tonight",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7495bd2e2fac4349fb607ea61df67ac461db34eb?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3WrETsP6uW47F2J9vWCXgk"
+}

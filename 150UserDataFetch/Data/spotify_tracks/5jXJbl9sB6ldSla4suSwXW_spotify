@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6G7OerKc3eBO9sVkRNopFC",
+      "id" : "6G7OerKc3eBO9sVkRNopFC",
+      "name" : "Cat Power",
+      "type" : "artist",
+      "uri" : "spotify:artist:6G7OerKc3eBO9sVkRNopFC"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/38CsAH6IM7fKMN0XnZReR6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/38CsAH6IM7fKMN0XnZReR6",
+    "id" : "38CsAH6IM7fKMN0XnZReR6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d0746a231db0c0ec67a7521225ed4182c501e11b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/04b50a23b00608f6ec14f0c35387dfa672dc6566",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8cd4ccd7c90e7c12acb0681069b92360c6d16b33",
+      "width" : 64
+    } ],
+    "name" : "You Are Free",
+    "type" : "album",
+    "uri" : "spotify:album:38CsAH6IM7fKMN0XnZReR6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6G7OerKc3eBO9sVkRNopFC",
+    "id" : "6G7OerKc3eBO9sVkRNopFC",
+    "name" : "Cat Power",
+    "type" : "artist",
+    "uri" : "spotify:artist:6G7OerKc3eBO9sVkRNopFC"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD0342705"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5jXJbl9sB6ldSla4suSwXW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5jXJbl9sB6ldSla4suSwXW",
+  "id" : "5jXJbl9sB6ldSla4suSwXW",
+  "name" : "Werewolf",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f61b9c69c2dced237e11442cb9335c839630a4b7?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5jXJbl9sB6ldSla4suSwXW"
+}

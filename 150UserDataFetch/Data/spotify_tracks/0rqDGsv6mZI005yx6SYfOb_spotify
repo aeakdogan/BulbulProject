@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/11iomShUXL8myjWx0K9Llj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/11iomShUXL8myjWx0K9Llj",
+    "id" : "11iomShUXL8myjWx0K9Llj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3fd5db6dd79abb8c548b6e0ab661a2ffed125b32",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ee03435716b298736aca2d622c0fe9dce231b3ac",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b261e4f01534ec063ce3ec05bd1dcaa6cfe3e4f4",
+      "width" : 64
+    } ],
+    "name" : "101 Heavy Metal Classics",
+    "type" : "album",
+    "uri" : "spotify:album:11iomShUXL8myjWx0K9Llj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2FgJrE4LGXGhaygQTw27Y2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2FgJrE4LGXGhaygQTw27Y2",
+    "id" : "2FgJrE4LGXGhaygQTw27Y2",
+    "name" : "Keel",
+    "type" : "artist",
+    "uri" : "spotify:artist:2FgJrE4LGXGhaygQTw27Y2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 339746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMFME1305173"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0rqDGsv6mZI005yx6SYfOb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0rqDGsv6mZI005yx6SYfOb",
+  "id" : "0rqDGsv6mZI005yx6SYfOb",
+  "name" : "The Right to Rock (Live)",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d12bb1e2de4e801e4fb99283e54728f1b240284d?cid=null",
+  "track_number" : 36,
+  "type" : "track",
+  "uri" : "spotify:track:0rqDGsv6mZI005yx6SYfOb"
+}

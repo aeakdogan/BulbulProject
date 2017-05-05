@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/028xhPwqtWva4J0MkFHY2x",
+      "id" : "028xhPwqtWva4J0MkFHY2x",
+      "name" : "Mads Langer",
+      "type" : "artist",
+      "uri" : "spotify:artist:028xhPwqtWva4J0MkFHY2x"
+    } ],
+    "available_markets" : [ "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/12cFf0DJSpaQjT7z8mt6NF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/12cFf0DJSpaQjT7z8mt6NF",
+    "id" : "12cFf0DJSpaQjT7z8mt6NF",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/660c2ff8dd4b3af0caa022f7593fbf1b8e2b62c2",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/e913f1cf09671a72ebb28b7ff128e439dada9bdb",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/38508d7f5f9d2b2073a295a77c37db44b8890fa5",
+      "width" : 64
+    } ],
+    "name" : "Behold",
+    "type" : "album",
+    "uri" : "spotify:album:12cFf0DJSpaQjT7z8mt6NF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/028xhPwqtWva4J0MkFHY2x",
+    "id" : "028xhPwqtWva4J0MkFHY2x",
+    "name" : "Mads Langer",
+    "type" : "artist",
+    "uri" : "spotify:artist:028xhPwqtWva4J0MkFHY2x"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "IS", "JP", "MT", "MX", "MY", "NI", "NL", "NZ", "PA", "PE", "PH", "PY", "SE", "SG", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 190946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEBGA1100049"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2epECRKsvdMOSg9ybX23EG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2epECRKsvdMOSg9ybX23EG",
+  "id" : "2epECRKsvdMOSg9ybX23EG",
+  "name" : "You're Not Alone",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d902ad5e73f3bade136c5a04efd5c836276f9f5d?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2epECRKsvdMOSg9ybX23EG"
+}

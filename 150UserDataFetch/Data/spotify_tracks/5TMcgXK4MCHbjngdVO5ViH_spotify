@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Uq018MHZZuA3IvQQUtqEB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Uq018MHZZuA3IvQQUtqEB",
+      "id" : "0Uq018MHZZuA3IvQQUtqEB",
+      "name" : "Różni Wykonawcy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Uq018MHZZuA3IvQQUtqEB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5uzDg7TzIHA1YVrCwtf9cc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5uzDg7TzIHA1YVrCwtf9cc",
+    "id" : "5uzDg7TzIHA1YVrCwtf9cc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/27eda83676509dd93615f6f09e5244b73166e200",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/58bfc48fee28a1e9e2f56241fcdcdfeea148292a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/243b72ce3f5f74c56ce4ee24223154b35047a94c",
+      "width" : 64
+    } ],
+    "name" : "HipHopStacja 3",
+    "type" : "album",
+    "uri" : "spotify:album:5uzDg7TzIHA1YVrCwtf9cc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2FBmYj55zZwng9GlsCCn9j",
+    "id" : "2FBmYj55zZwng9GlsCCn9j",
+    "name" : "Włodi",
+    "type" : "artist",
+    "uri" : "spotify:artist:2FBmYj55zZwng9GlsCCn9j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245213,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "PLA461600005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5TMcgXK4MCHbjngdVO5ViH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5TMcgXK4MCHbjngdVO5ViH",
+  "id" : "5TMcgXK4MCHbjngdVO5ViH",
+  "name" : "Zobacz co się Dzieje na Podwórku",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b772a4949ad11ed9720ee5b39d5951624eec46c0?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5TMcgXK4MCHbjngdVO5ViH"
+}

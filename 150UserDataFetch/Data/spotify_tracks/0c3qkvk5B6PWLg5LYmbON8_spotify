@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SjNVG3L9mgWQPsfp1sFDB",
+      "id" : "5SjNVG3L9mgWQPsfp1sFDB",
+      "name" : "Wye Oak",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SjNVG3L9mgWQPsfp1sFDB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/25kJpOTWdbudC2mJf5L1nC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/25kJpOTWdbudC2mJf5L1nC",
+    "id" : "25kJpOTWdbudC2mJf5L1nC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dd0131dd37043959d344ad7df343f89c6f380cd9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ebd89a92adf62a1f30474aedc23b1e4cb3a39d08",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/59a8a81989392e7ed730fad17cd7fe60b0036cb0",
+      "width" : 64
+    } ],
+    "name" : "The Knot",
+    "type" : "album",
+    "uri" : "spotify:album:25kJpOTWdbudC2mJf5L1nC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5SjNVG3L9mgWQPsfp1sFDB",
+    "id" : "5SjNVG3L9mgWQPsfp1sFDB",
+    "name" : "Wye Oak",
+    "type" : "artist",
+    "uri" : "spotify:artist:5SjNVG3L9mgWQPsfp1sFDB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 456800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG0934606"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0c3qkvk5B6PWLg5LYmbON8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0c3qkvk5B6PWLg5LYmbON8",
+  "id" : "0c3qkvk5B6PWLg5LYmbON8",
+  "name" : "Mary Is Mary",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/85c08f2e410ff79f3118fa0e53ad5a090210b95d?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0c3qkvk5B6PWLg5LYmbON8"
+}

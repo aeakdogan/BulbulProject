@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0N0d3kjwdY2h7UVuTdJGfp",
+      "id" : "0N0d3kjwdY2h7UVuTdJGfp",
+      "name" : "Cascada",
+      "type" : "artist",
+      "uri" : "spotify:artist:0N0d3kjwdY2h7UVuTdJGfp"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2lTDjKUgkmYZsHKBdCHv4w"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2lTDjKUgkmYZsHKBdCHv4w",
+    "id" : "2lTDjKUgkmYZsHKBdCHv4w",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9d4ba2cf4c3f55540b49f3d29a803ac891e13e7c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/83340ca2f7713fca876f97b05aae8d05a8bc771d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/69e7bcff66e21227589e209866d29c6f37260648",
+      "width" : 64
+    } ],
+    "name" : "Truly Madly Deeply",
+    "type" : "album",
+    "uri" : "spotify:album:2lTDjKUgkmYZsHKBdCHv4w"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0N0d3kjwdY2h7UVuTdJGfp",
+    "id" : "0N0d3kjwdY2h7UVuTdJGfp",
+    "name" : "Cascada",
+    "type" : "artist",
+    "uri" : "spotify:artist:0N0d3kjwdY2h7UVuTdJGfp"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 254706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DECZ30600030"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6AO9ee2GCbYKuQlYqppSCR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6AO9ee2GCbYKuQlYqppSCR",
+  "id" : "6AO9ee2GCbYKuQlYqppSCR",
+  "name" : "Truly Madly Deeply",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b7534b0bbe3161498f117e70a7a9bddb77aea7c2?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6AO9ee2GCbYKuQlYqppSCR"
+}

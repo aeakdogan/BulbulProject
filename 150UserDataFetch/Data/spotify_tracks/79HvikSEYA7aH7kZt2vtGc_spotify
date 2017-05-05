@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3On7zXKjSRYhbsuUpLJ59k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3On7zXKjSRYhbsuUpLJ59k",
+      "id" : "3On7zXKjSRYhbsuUpLJ59k",
+      "name" : "The Sunshine Underground",
+      "type" : "artist",
+      "uri" : "spotify:artist:3On7zXKjSRYhbsuUpLJ59k"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0tAK3eK2jwhOsuxXqGL2ak"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0tAK3eK2jwhOsuxXqGL2ak",
+    "id" : "0tAK3eK2jwhOsuxXqGL2ak",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cecc241ac48ad5ccbc9a91c77f0f6cacebc77985",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/54f3c73a89f0002558a8c9d7e96202488519c485",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1b8eabce09f0c06309ca80e25e30f97bc80a63b0",
+      "width" : 64
+    } ],
+    "name" : "Raise The Alarm",
+    "type" : "album",
+    "uri" : "spotify:album:0tAK3eK2jwhOsuxXqGL2ak"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3On7zXKjSRYhbsuUpLJ59k"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3On7zXKjSRYhbsuUpLJ59k",
+    "id" : "3On7zXKjSRYhbsuUpLJ59k",
+    "name" : "The Sunshine Underground",
+    "type" : "artist",
+    "uri" : "spotify:artist:3On7zXKjSRYhbsuUpLJ59k"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 230200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEEQ0500011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/79HvikSEYA7aH7kZt2vtGc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/79HvikSEYA7aH7kZt2vtGc",
+  "id" : "79HvikSEYA7aH7kZt2vtGc",
+  "name" : "Commercial Breakdown",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6e79e2555a5430834563535499f9552ee2e287c5?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:79HvikSEYA7aH7kZt2vtGc"
+}

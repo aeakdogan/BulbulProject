@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+      "id" : "36E7oYfz3LLRto6l2WmDcD",
+      "name" : "Pulp",
+      "type" : "artist",
+      "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0sDw2mDnEYvVAnc2ac6BTy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0sDw2mDnEYvVAnc2ac6BTy",
+    "id" : "0sDw2mDnEYvVAnc2ac6BTy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/50bbbbb9998eb43843c8d53c46bc40006629d9dc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b6dc79716ec3f4ea00849170cb3faea9d54aeaaf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a91d7d1426b240284d3b2d9c5ab5b9e7cc239be0",
+      "width" : 64
+    } ],
+    "name" : "Separations",
+    "type" : "album",
+    "uri" : "spotify:album:0sDw2mDnEYvVAnc2ac6BTy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+    "id" : "36E7oYfz3LLRto6l2WmDcD",
+    "name" : "Pulp",
+    "type" : "artist",
+    "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 219666,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBCKK9606806"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3ZMjgBCdA3236OIk9idzZJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3ZMjgBCdA3236OIk9idzZJ",
+  "id" : "3ZMjgBCdA3236OIk9idzZJ",
+  "name" : "Down By The River",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fd03359b1f53af8fe84dd32226ba9c31604f066c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3ZMjgBCdA3236OIk9idzZJ"
+}

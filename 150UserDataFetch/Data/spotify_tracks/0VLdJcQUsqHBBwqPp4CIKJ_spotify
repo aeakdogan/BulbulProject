@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+      "id" : "0L8ExT028jH3ddEcZwqJJ5",
+      "name" : "Red Hot Chili Peppers",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2rQ135imvelvp89D8eEZOi",
+    "id" : "2rQ135imvelvp89D8eEZOi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c21abf8489821a05c7cf7425a01b08cee1b501d8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2888c8e1deee04f86182d3d5f1a9b3dd2d88f5d5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/54dbe9ffc85eccbe41d93b327806b860483c8bf6",
+      "width" : 64
+    } ],
+    "name" : "One Hot Minute (Deluxe Version)",
+    "type" : "album",
+    "uri" : "spotify:album:2rQ135imvelvp89D8eEZOi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+    "id" : "0L8ExT028jH3ddEcZwqJJ5",
+    "name" : "Red Hot Chili Peppers",
+    "type" : "artist",
+    "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 285066,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USWB19500363"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0VLdJcQUsqHBBwqPp4CIKJ",
+  "id" : "0VLdJcQUsqHBBwqPp4CIKJ",
+  "name" : "Aeroplane",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/da33fe5eba5043270cfafa46d7a0881b12257056?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0VLdJcQUsqHBBwqPp4CIKJ"
+}

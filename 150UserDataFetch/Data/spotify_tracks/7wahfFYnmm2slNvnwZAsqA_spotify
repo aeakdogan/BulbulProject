@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vDPwpGZIflBoW6Gy3FWFw",
+      "id" : "6vDPwpGZIflBoW6Gy3FWFw",
+      "name" : "Battlelore",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vDPwpGZIflBoW6Gy3FWFw"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4fN7ptHYDMctXDHTuckO3R"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4fN7ptHYDMctXDHTuckO3R",
+    "id" : "4fN7ptHYDMctXDHTuckO3R",
+    "images" : [ {
+      "height" : 639,
+      "url" : "https://i.scdn.co/image/d6760f943ec3388738054460e4998576c342589c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/71c8bee3afc5bc62f83f017f5c4c8d9e7cfae22f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1c4108a60e9ea651c49719026685141534a26b46",
+      "width" : 64
+    } ],
+    "name" : "Evernight",
+    "type" : "album",
+    "uri" : "spotify:album:4fN7ptHYDMctXDHTuckO3R"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6vDPwpGZIflBoW6Gy3FWFw",
+    "id" : "6vDPwpGZIflBoW6Gy3FWFw",
+    "name" : "Battlelore",
+    "type" : "artist",
+    "uri" : "spotify:artist:6vDPwpGZIflBoW6Gy3FWFw"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 246840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATN260720601"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7wahfFYnmm2slNvnwZAsqA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7wahfFYnmm2slNvnwZAsqA",
+  "id" : "7wahfFYnmm2slNvnwZAsqA",
+  "name" : "House Of Heroes",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6b4d21b8a530078ed413bee0c94198936ae6359e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7wahfFYnmm2slNvnwZAsqA"
+}

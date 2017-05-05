@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iJJD5v7oIFUevW4N5w5cj",
+      "id" : "3iJJD5v7oIFUevW4N5w5cj",
+      "name" : "Arthur Russell",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iJJD5v7oIFUevW4N5w5cj"
+    } ],
+    "available_markets" : [ "CA", "CR", "HK", "ID", "JP", "MX", "TW", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2GT3gfbEkEVp3DgjX5DAnN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2GT3gfbEkEVp3DgjX5DAnN",
+    "id" : "2GT3gfbEkEVp3DgjX5DAnN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/879798ef0571e2a9d8a7429b67fa79a527382b74",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5d54f41070326ba6db2e5fa8d0acca4dd4f1a4e9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8ebffc2edbef7a0aad96841245f754cff057e7e0",
+      "width" : 64
+    } ],
+    "name" : "Love Is Overtaking Me",
+    "type" : "album",
+    "uri" : "spotify:album:2GT3gfbEkEVp3DgjX5DAnN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iJJD5v7oIFUevW4N5w5cj",
+    "id" : "3iJJD5v7oIFUevW4N5w5cj",
+    "name" : "Arthur Russell",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iJJD5v7oIFUevW4N5w5cj"
+  } ],
+  "available_markets" : [ "CA", "CR", "HK", "ID", "JP", "MX", "TW", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 191666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAK20800114"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ae4Hb5nRPJCdlUywdAP2Z"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ae4Hb5nRPJCdlUywdAP2Z",
+  "id" : "7ae4Hb5nRPJCdlUywdAP2Z",
+  "name" : "Habit Of You",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9598b5dbca7ea8be3eecd9e905b37d0fddffd5bd?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:7ae4Hb5nRPJCdlUywdAP2Z"
+}

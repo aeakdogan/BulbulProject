@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7wqP36o9lqWteOCxBnXlwx",
+      "id" : "7wqP36o9lqWteOCxBnXlwx",
+      "name" : "Soilwork",
+      "type" : "artist",
+      "uri" : "spotify:artist:7wqP36o9lqWteOCxBnXlwx"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7wpYrqen09SD7Rcsl0KVdW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7wpYrqen09SD7Rcsl0KVdW",
+    "id" : "7wpYrqen09SD7Rcsl0KVdW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8348a58b9e871db088fa6a5b4ecb5c2795740f07",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/94c6ab2c344d96acd5582137ddc1922025003e6a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b19d261bb0799ccd9a1bcfd914017930844157c7",
+      "width" : 64
+    } ],
+    "name" : "The Living Infinite",
+    "type" : "album",
+    "uri" : "spotify:album:7wpYrqen09SD7Rcsl0KVdW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7wqP36o9lqWteOCxBnXlwx",
+    "id" : "7wqP36o9lqWteOCxBnXlwx",
+    "name" : "Soilwork",
+    "type" : "artist",
+    "uri" : "spotify:artist:7wqP36o9lqWteOCxBnXlwx"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 241866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DED831200637"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6GvALo1IB4Gl2kxWlvy6rp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6GvALo1IB4Gl2kxWlvy6rp",
+  "id" : "6GvALo1IB4Gl2kxWlvy6rp",
+  "name" : "Spectrum of Eternity",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/694107a74c62f0f97e4ea594514067936181a936?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6GvALo1IB4Gl2kxWlvy6rp"
+}

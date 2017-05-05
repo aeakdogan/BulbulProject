@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+      "id" : "12Chz98pHFMPJEknJQMWvI",
+      "name" : "Muse",
+      "type" : "artist",
+      "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0HcHPBu9aaF1MxOiZmUQTl",
+    "id" : "0HcHPBu9aaF1MxOiZmUQTl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ae61915fc3f4b3019200ba6ee58a2a85866461bf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/523194c8f4f32d0d091a7686fea8fda0411b25a5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/700cdaab602da14c4f007ad2f9cefcbd9292ac24",
+      "width" : 64
+    } ],
+    "name" : "Absolution (New 09 version)",
+    "type" : "album",
+    "uri" : "spotify:album:0HcHPBu9aaF1MxOiZmUQTl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+    "id" : "12Chz98pHFMPJEknJQMWvI",
+    "name" : "Muse",
+    "type" : "artist",
+    "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 227440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVT0300083"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7xyYsOvq5Ec3P4fr6mM9fD",
+  "id" : "7xyYsOvq5Ec3P4fr6mM9fD",
+  "name" : "Hysteria",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ff29ded2c1aa87ed04cb15ea9b1819dc4db95ad7?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:7xyYsOvq5Ec3P4fr6mM9fD"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QjVv1gkLn8XkQxVndgLHF",
+      "id" : "2QjVv1gkLn8XkQxVndgLHF",
+      "name" : "Bill Laurance",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QjVv1gkLn8XkQxVndgLHF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5egome6U4Gn3tqwNoMNx2W"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5egome6U4Gn3tqwNoMNx2W",
+    "id" : "5egome6U4Gn3tqwNoMNx2W",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/95454f19728533911ca2e0f6151864169e2be99e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e3d193642ae6d1139d58b4f8493564d0a464b058",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b47aa08512b0dd8fb8255778f4d76fe3b064abea",
+      "width" : 64
+    } ],
+    "name" : "Flint",
+    "type" : "album",
+    "uri" : "spotify:album:5egome6U4Gn3tqwNoMNx2W"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2QjVv1gkLn8XkQxVndgLHF",
+    "id" : "2QjVv1gkLn8XkQxVndgLHF",
+    "name" : "Bill Laurance",
+    "type" : "artist",
+    "uri" : "spotify:artist:2QjVv1gkLn8XkQxVndgLHF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 413653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US8JA1414005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6wcuoLUFRFrXtBYyjmNNhE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6wcuoLUFRFrXtBYyjmNNhE",
+  "id" : "6wcuoLUFRFrXtBYyjmNNhE",
+  "name" : "The Good Things",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/10db06d3d371c576aead4a14a4f18c8061f66a1b?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6wcuoLUFRFrXtBYyjmNNhE"
+}

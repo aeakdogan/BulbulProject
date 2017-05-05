@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DCIj8jNaNpBz8e5oKFPtp",
+      "id" : "6DCIj8jNaNpBz8e5oKFPtp",
+      "name" : "The Cars",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DCIj8jNaNpBz8e5oKFPtp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ycnwHGkzOlTuMOI3Zh4iO",
+    "id" : "5ycnwHGkzOlTuMOI3Zh4iO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/38d6e9a02903e7e089261a4f80352a5fcd71b2b3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2c38eb6556384e2c4cd99e53a74ea9cf18833512",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1f4518089d7066d8d7722f0e0e70b0f50b7eb596",
+      "width" : 64
+    } ],
+    "name" : "Heartbeat City",
+    "type" : "album",
+    "uri" : "spotify:album:5ycnwHGkzOlTuMOI3Zh4iO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6DCIj8jNaNpBz8e5oKFPtp",
+    "id" : "6DCIj8jNaNpBz8e5oKFPtp",
+    "name" : "The Cars",
+    "type" : "artist",
+    "uri" : "spotify:artist:6DCIj8jNaNpBz8e5oKFPtp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 234493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10170491"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3wfujdbamR3Z46F4xav7LM",
+  "id" : "3wfujdbamR3Z46F4xav7LM",
+  "name" : "Drive",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5a37fd1bbe7bd0e6c469d963fe8444a35076c2ee?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3wfujdbamR3Z46F4xav7LM"
+}

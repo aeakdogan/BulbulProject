@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Z7UcsdweVlRbAk5wH5fsf",
+      "id" : "2Z7UcsdweVlRbAk5wH5fsf",
+      "name" : "The Last Shadow Puppets",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Z7UcsdweVlRbAk5wH5fsf"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4fxflUQfRpsSPzVVBMZLQm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4fxflUQfRpsSPzVVBMZLQm",
+    "id" : "4fxflUQfRpsSPzVVBMZLQm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7b54a5ba930c20013e9cfbadd4382d59682c802b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2aec54823029321a32015c7f4f28a49dae5e62e2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/da08a64d11128d09be66844bcfdf5bf82d942457",
+      "width" : 64
+    } ],
+    "name" : "The Age Of The Understatement",
+    "type" : "album",
+    "uri" : "spotify:album:4fxflUQfRpsSPzVVBMZLQm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Z7UcsdweVlRbAk5wH5fsf",
+    "id" : "2Z7UcsdweVlRbAk5wH5fsf",
+    "name" : "The Last Shadow Puppets",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Z7UcsdweVlRbAk5wH5fsf"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 142653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0800156"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7d4W06sKxGEm40rYdQgEtt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7d4W06sKxGEm40rYdQgEtt",
+  "id" : "7d4W06sKxGEm40rYdQgEtt",
+  "name" : "Standing Next To Me",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9104ec1affd8507d35e5889e7ee95c8c87e4c2f4?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7d4W06sKxGEm40rYdQgEtt"
+}

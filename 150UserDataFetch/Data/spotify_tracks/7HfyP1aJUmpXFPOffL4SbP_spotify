@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR",
+      "id" : "3HJIB8sYPyxrFGuwvKXSLR",
+      "name" : "TV On The Radio",
+      "type" : "artist",
+      "uri" : "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2pJdnCpeXm3KVUlyuNSeRX",
+    "id" : "2pJdnCpeXm3KVUlyuNSeRX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f521f8d25dfb08acc21f4e0cfa244a061d3be8b8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/24b49eef06c612be16d7a9cb209a472fe990695a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/082514f368ee5f0accedce75d3a28add2809a6ca",
+      "width" : 64
+    } ],
+    "name" : "Seeds",
+    "type" : "album",
+    "uri" : "spotify:album:2pJdnCpeXm3KVUlyuNSeRX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3HJIB8sYPyxrFGuwvKXSLR",
+    "id" : "3HJIB8sYPyxrFGuwvKXSLR",
+    "name" : "TV On The Radio",
+    "type" : "artist",
+    "uri" : "spotify:artist:3HJIB8sYPyxrFGuwvKXSLR"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 221197,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUG11401351"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7HfyP1aJUmpXFPOffL4SbP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7HfyP1aJUmpXFPOffL4SbP",
+  "id" : "7HfyP1aJUmpXFPOffL4SbP",
+  "name" : "Winter",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fa03a4594b1c8666f16417233e3904bdad711e73?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:7HfyP1aJUmpXFPOffL4SbP"
+}

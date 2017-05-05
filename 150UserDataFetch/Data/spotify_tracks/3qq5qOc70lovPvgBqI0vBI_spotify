@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1EevBGfUh3RSQSGpluxgBm",
+      "id" : "1EevBGfUh3RSQSGpluxgBm",
+      "name" : "Joan Baez",
+      "type" : "artist",
+      "uri" : "spotify:artist:1EevBGfUh3RSQSGpluxgBm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5WfJY3Ke6v1ybgSoAnEdIG",
+    "id" : "5WfJY3Ke6v1ybgSoAnEdIG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ffa1a831c4a73e11414c209051c977c52b36283a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5d8b586b4c92a57c66812bbcb2f5aa9198462170",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/91ba7733864d03151533818a084cc1d564020491",
+      "width" : 64
+    } ],
+    "name" : "Baez Sings Dylan",
+    "type" : "album",
+    "uri" : "spotify:album:5WfJY3Ke6v1ybgSoAnEdIG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1EevBGfUh3RSQSGpluxgBm",
+    "id" : "1EevBGfUh3RSQSGpluxgBm",
+    "name" : "Joan Baez",
+    "type" : "artist",
+    "uri" : "spotify:artist:1EevBGfUh3RSQSGpluxgBm"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 268600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVG28706842"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3qq5qOc70lovPvgBqI0vBI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3qq5qOc70lovPvgBqI0vBI",
+  "id" : "3qq5qOc70lovPvgBqI0vBI",
+  "name" : "Love Is Just a Four-Letter Word",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/440fcde8d94178409faedf1910b01764508974ab?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:3qq5qOc70lovPvgBqI0vBI"
+}

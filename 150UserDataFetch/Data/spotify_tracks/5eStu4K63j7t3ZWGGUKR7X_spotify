@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Jrxnp0JgqmeUX1veU591p",
+      "id" : "6Jrxnp0JgqmeUX1veU591p",
+      "name" : "Santigold",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Jrxnp0JgqmeUX1veU591p"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4yATru0hY3VgRHSreswbGj",
+    "id" : "4yATru0hY3VgRHSreswbGj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/da1dbb712529e2cf93d12c1d2073f6217fe7c03e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/65ee0e62f4538a5cb176137d34ae0c623f4cbba1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0a46e564e3629a0471f2a6ee31b41d5589762c98",
+      "width" : 64
+    } ],
+    "name" : "Santigold",
+    "type" : "album",
+    "uri" : "spotify:album:4yATru0hY3VgRHSreswbGj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Jrxnp0JgqmeUX1veU591p",
+    "id" : "6Jrxnp0JgqmeUX1veU591p",
+    "name" : "Santigold",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Jrxnp0JgqmeUX1veU591p"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCJ80600140"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5eStu4K63j7t3ZWGGUKR7X"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5eStu4K63j7t3ZWGGUKR7X",
+  "id" : "5eStu4K63j7t3ZWGGUKR7X",
+  "name" : "Starstruck",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/366035686c4dde4cfa178f8494512dadb77f3909?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5eStu4K63j7t3ZWGGUKR7X"
+}

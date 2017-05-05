@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5I3emD1qJIxLZibMu39PXv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5I3emD1qJIxLZibMu39PXv",
+      "id" : "5I3emD1qJIxLZibMu39PXv",
+      "name" : "Byrne & Barnes",
+      "type" : "artist",
+      "uri" : "spotify:artist:5I3emD1qJIxLZibMu39PXv"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/35hnuNuAGXO0LylmopcdMo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/35hnuNuAGXO0LylmopcdMo",
+    "id" : "35hnuNuAGXO0LylmopcdMo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4a3f5c98f5007a5664195f8681c7ad092b33e028",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/634a97f0e234d9f7689e6816ac537a6ff7d7ad12",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/468b90ceef7f47aa93f7f37a3fa2f567735a5755",
+      "width" : 64
+    } ],
+    "name" : "An Eye for an Eye",
+    "type" : "album",
+    "uri" : "spotify:album:35hnuNuAGXO0LylmopcdMo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5I3emD1qJIxLZibMu39PXv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5I3emD1qJIxLZibMu39PXv",
+    "id" : "5I3emD1qJIxLZibMu39PXv",
+    "name" : "Byrne & Barnes",
+    "type" : "artist",
+    "uri" : "spotify:artist:5I3emD1qJIxLZibMu39PXv"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 195789,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US7Z28100004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1J0Z9KpvbKk08qfxYTw1Uj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1J0Z9KpvbKk08qfxYTw1Uj",
+  "id" : "1J0Z9KpvbKk08qfxYTw1Uj",
+  "name" : "Love You out of Your Mind",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5a16050e0dc0e7868c74eb954275d8fee4bb7950?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1J0Z9KpvbKk08qfxYTw1Uj"
+}

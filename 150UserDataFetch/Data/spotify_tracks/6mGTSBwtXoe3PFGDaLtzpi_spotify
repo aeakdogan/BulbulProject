@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2P9E82N4cW2AmY2IXjq0C2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2P9E82N4cW2AmY2IXjq0C2",
+      "id" : "2P9E82N4cW2AmY2IXjq0C2",
+      "name" : "Barbarossa",
+      "type" : "artist",
+      "uri" : "spotify:artist:2P9E82N4cW2AmY2IXjq0C2"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/57E5szoXYE2lfnGGhxxHkN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/57E5szoXYE2lfnGGhxxHkN",
+    "id" : "57E5szoXYE2lfnGGhxxHkN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/24c92096e5d5827304ea854ac8a5bd742c0a818b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/12bbb797ce5ed936f47d6a78da00e327a604c6e1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d6f1fb60e73f60c19432e360f84d26f529d695a6",
+      "width" : 64
+    } ],
+    "name" : "Bloodlines",
+    "type" : "album",
+    "uri" : "spotify:album:57E5szoXYE2lfnGGhxxHkN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2P9E82N4cW2AmY2IXjq0C2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2P9E82N4cW2AmY2IXjq0C2",
+    "id" : "2P9E82N4cW2AmY2IXjq0C2",
+    "name" : "Barbarossa",
+    "type" : "artist",
+    "uri" : "spotify:artist:2P9E82N4cW2AmY2IXjq0C2"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 278280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCSG1300047"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6mGTSBwtXoe3PFGDaLtzpi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6mGTSBwtXoe3PFGDaLtzpi",
+  "id" : "6mGTSBwtXoe3PFGDaLtzpi",
+  "name" : "Bloodline",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/09079343e8e8d5bc21d00262c43c91226dd49fdf?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6mGTSBwtXoe3PFGDaLtzpi"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0QJIPDAEDILuo8AIq3pMuU",
+      "id" : "0QJIPDAEDILuo8AIq3pMuU",
+      "name" : "M.I.A.",
+      "type" : "artist",
+      "uri" : "spotify:artist:0QJIPDAEDILuo8AIq3pMuU"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3dAxXNscIj0p53lBMEziYR",
+    "id" : "3dAxXNscIj0p53lBMEziYR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9a4c7d32de98420e19e8ddf66e60590df2fbdd9b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/768668d9f2d28150f1da1a175963082eab3cdd23",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4d7d62e51147b5bbb1feb1ad387e47675b06b058",
+      "width" : 64
+    } ],
+    "name" : "Matangi",
+    "type" : "album",
+    "uri" : "spotify:album:3dAxXNscIj0p53lBMEziYR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0QJIPDAEDILuo8AIq3pMuU",
+    "id" : "0QJIPDAEDILuo8AIq3pMuU",
+    "name" : "M.I.A.",
+    "type" : "artist",
+    "uri" : "spotify:artist:0QJIPDAEDILuo8AIq3pMuU"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUG11200143"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6nzXkCBOhb2mxctNihOqbb",
+  "id" : "6nzXkCBOhb2mxctNihOqbb",
+  "name" : "Bad Girls",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2a85be6161237c7a9fb9b517e89988767400444f?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6nzXkCBOhb2mxctNihOqbb"
+}

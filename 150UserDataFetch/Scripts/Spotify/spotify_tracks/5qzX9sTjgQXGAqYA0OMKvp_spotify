@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3xPVA4MQrlo6Tey4fPyKtl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3xPVA4MQrlo6Tey4fPyKtl",
+    "id" : "3xPVA4MQrlo6Tey4fPyKtl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/28b52ed88ad3de9c1d7b2b520a53fac852c190af",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cf037ff2c8cd70972679f67c876a978b2f16aa48",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6c15df1c5c0a3b5228509a2643366ebb79530e55",
+      "width" : 64
+    } ],
+    "name" : "Vintage Café Vol. 2",
+    "type" : "album",
+    "uri" : "spotify:album:3xPVA4MQrlo6Tey4fPyKtl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0hSsQFYJ0B5MMpjpg9rwKC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0hSsQFYJ0B5MMpjpg9rwKC",
+    "id" : "0hSsQFYJ0B5MMpjpg9rwKC",
+    "name" : "Supertangox",
+    "type" : "artist",
+    "uri" : "spotify:artist:0hSsQFYJ0B5MMpjpg9rwKC"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 224946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ARF410700000"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5qzX9sTjgQXGAqYA0OMKvp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5qzX9sTjgQXGAqYA0OMKvp",
+  "id" : "5qzX9sTjgQXGAqYA0OMKvp",
+  "name" : "Last Tango In Paris",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7a912feb4f6743fc103f201e255bdc241c5fa448?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5qzX9sTjgQXGAqYA0OMKvp"
+}

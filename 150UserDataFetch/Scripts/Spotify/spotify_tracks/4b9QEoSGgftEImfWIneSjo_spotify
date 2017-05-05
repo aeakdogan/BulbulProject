@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5q8HGNo0BjLWaTAhRtbwxa",
+      "id" : "5q8HGNo0BjLWaTAhRtbwxa",
+      "name" : "Brantley Gilbert",
+      "type" : "artist",
+      "uri" : "spotify:artist:5q8HGNo0BjLWaTAhRtbwxa"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5kdGRd8zK6m135zrjwG6il",
+    "id" : "5kdGRd8zK6m135zrjwG6il",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9908240aba0fec71ced82e03cfdd2858bc4342cb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/aca47e5fff2644a00c6b64fc6294cc6c44f35b63",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/10336e2939f1413883639ef16e2b4395107c69db",
+      "width" : 64
+    } ],
+    "name" : "Just As I Am (Platinum Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:5kdGRd8zK6m135zrjwG6il"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5q8HGNo0BjLWaTAhRtbwxa",
+    "id" : "5q8HGNo0BjLWaTAhRtbwxa",
+    "name" : "Brantley Gilbert",
+    "type" : "artist",
+    "uri" : "spotify:artist:5q8HGNo0BjLWaTAhRtbwxa"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 212626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USLXJ1406325"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4b9QEoSGgftEImfWIneSjo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4b9QEoSGgftEImfWIneSjo",
+  "id" : "4b9QEoSGgftEImfWIneSjo",
+  "name" : "If You Want A Bad Boy",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8230f2f7edc3e8506bf8f7696b0cba4b24d98186?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4b9QEoSGgftEImfWIneSjo"
+}

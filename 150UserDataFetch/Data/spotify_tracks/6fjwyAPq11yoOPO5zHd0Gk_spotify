@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1bgyxtWjZwA5PQlDsvs9b8",
+      "id" : "1bgyxtWjZwA5PQlDsvs9b8",
+      "name" : "Sarah Vaughan",
+      "type" : "artist",
+      "uri" : "spotify:artist:1bgyxtWjZwA5PQlDsvs9b8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1dXvKpnUxIg9UCYaSWg9ua"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1dXvKpnUxIg9UCYaSWg9ua",
+    "id" : "1dXvKpnUxIg9UCYaSWg9ua",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1d4afd2bc8d3251a14bf63e318361c48f73a5618",
+      "width" : 639
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d39e65108d03e2063b460a12de727a56a43662f5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f1171e6d3ab3e6bca30ac239d6ef43d1ef20740a",
+      "width" : 64
+    } ],
+    "name" : "Only The Best (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:1dXvKpnUxIg9UCYaSWg9ua"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1bgyxtWjZwA5PQlDsvs9b8",
+    "id" : "1bgyxtWjZwA5PQlDsvs9b8",
+    "name" : "Sarah Vaughan",
+    "type" : "artist",
+    "uri" : "spotify:artist:1bgyxtWjZwA5PQlDsvs9b8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 186653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITB751601897"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6fjwyAPq11yoOPO5zHd0Gk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6fjwyAPq11yoOPO5zHd0Gk",
+  "id" : "6fjwyAPq11yoOPO5zHd0Gk",
+  "name" : "Time After Time",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9175307201bca7f2321f7e714807346bff9f1286?cid=null",
+  "track_number" : 29,
+  "type" : "track",
+  "uri" : "spotify:track:6fjwyAPq11yoOPO5zHd0Gk"
+}

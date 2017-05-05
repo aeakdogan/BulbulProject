@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1mC0FqPLboQUFfxYuthfdn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1mC0FqPLboQUFfxYuthfdn",
+      "id" : "1mC0FqPLboQUFfxYuthfdn",
+      "name" : "Jozef Van Wissem",
+      "type" : "artist",
+      "uri" : "spotify:artist:1mC0FqPLboQUFfxYuthfdn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1UXCB5V3DpKjiTGkVodQYA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1UXCB5V3DpKjiTGkVodQYA",
+      "id" : "1UXCB5V3DpKjiTGkVodQYA",
+      "name" : "SQÜRL",
+      "type" : "artist",
+      "uri" : "spotify:artist:1UXCB5V3DpKjiTGkVodQYA"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5m9uDo9VNzIsBh7P4UMNri"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5m9uDo9VNzIsBh7P4UMNri",
+    "id" : "5m9uDo9VNzIsBh7P4UMNri",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e5c7296bccb006ffcbb06510497954af32118273",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8e95d701738d23b81e29c74b382caa4d0a00302f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/372b0074518333b95556e468c47bdb71cc183a7e",
+      "width" : 64
+    } ],
+    "name" : "Only Lovers Left Alive (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:5m9uDo9VNzIsBh7P4UMNri"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1mC0FqPLboQUFfxYuthfdn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1mC0FqPLboQUFfxYuthfdn",
+    "id" : "1mC0FqPLboQUFfxYuthfdn",
+    "name" : "Jozef Van Wissem",
+    "type" : "artist",
+    "uri" : "spotify:artist:1mC0FqPLboQUFfxYuthfdn"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1UXCB5V3DpKjiTGkVodQYA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1UXCB5V3DpKjiTGkVodQYA",
+    "id" : "1UXCB5V3DpKjiTGkVodQYA",
+    "name" : "SQÜRL",
+    "type" : "artist",
+    "uri" : "spotify:artist:1UXCB5V3DpKjiTGkVodQYA"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 95169,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBMUA1400008"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0JaK3ALypYsvE0vhfS4nAb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0JaK3ALypYsvE0vhfS4nAb",
+  "id" : "0JaK3ALypYsvE0vhfS4nAb",
+  "name" : "Streets of Tangier",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2beaffcaa53160aaaf1b606787680ca819b0fe79?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0JaK3ALypYsvE0vhfS4nAb"
+}

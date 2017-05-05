@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xoV3kh3rwrWaPc17zyDyY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4xoV3kh3rwrWaPc17zyDyY",
+      "id" : "4xoV3kh3rwrWaPc17zyDyY",
+      "name" : "Barry Adamson",
+      "type" : "artist",
+      "uri" : "spotify:artist:4xoV3kh3rwrWaPc17zyDyY"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7vVxT6nHJy9ubr3C51JZpX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7vVxT6nHJy9ubr3C51JZpX",
+    "id" : "7vVxT6nHJy9ubr3C51JZpX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a15bb4360e848b2d9cf7bec3e4b0bce0dc2b203e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/549575fc41e1ec2d9f98d5871ae975fb3bdfadce",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c3593dd66ba4c87ec965447c15899c9d3492b255",
+      "width" : 64
+    } ],
+    "name" : "Murky World Of Barry Adamson",
+    "type" : "album",
+    "uri" : "spotify:album:7vVxT6nHJy9ubr3C51JZpX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4xoV3kh3rwrWaPc17zyDyY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4xoV3kh3rwrWaPc17zyDyY",
+    "id" : "4xoV3kh3rwrWaPc17zyDyY",
+    "name" : "Barry Adamson",
+    "type" : "artist",
+    "uri" : "spotify:artist:4xoV3kh3rwrWaPc17zyDyY"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 306200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH9900007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Pnuk4rQDu4jV40rmqYzc9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Pnuk4rQDu4jV40rmqYzc9",
+  "id" : "3Pnuk4rQDu4jV40rmqYzc9",
+  "name" : "Jazz Devil",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/218571f37369c1b92a05160301188ccdaebe14ab?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3Pnuk4rQDu4jV40rmqYzc9"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2UBt0GWBuPVXlPisRvWzlD",
+      "id" : "2UBt0GWBuPVXlPisRvWzlD",
+      "name" : "Dead Prez",
+      "type" : "artist",
+      "uri" : "spotify:artist:2UBt0GWBuPVXlPisRvWzlD"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7gXuElmegVReY7imkb5bf8",
+    "id" : "7gXuElmegVReY7imkb5bf8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/be5b9d496487e13a91b90639cbafb94242cf3930",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9b48302281a2212b8d29fd5f295844353e7c3976",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a9569843d782aeb619d4ee61abc4cf1fbbf75767",
+      "width" : 64
+    } ],
+    "name" : "Let's Get Free",
+    "type" : "album",
+    "uri" : "spotify:album:7gXuElmegVReY7imkb5bf8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2UBt0GWBuPVXlPisRvWzlD",
+    "id" : "2UBt0GWBuPVXlPisRvWzlD",
+    "name" : "Dead Prez",
+    "type" : "artist",
+    "uri" : "spotify:artist:2UBt0GWBuPVXlPisRvWzlD"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 214066,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USLR59900933"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2HoDr1yVksl19omOhc1zWy",
+  "id" : "2HoDr1yVksl19omOhc1zWy",
+  "name" : "Hip Hop",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b244164a80491621350d4fd822ae3e55d57d2c78?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2HoDr1yVksl19omOhc1zWy"
+}

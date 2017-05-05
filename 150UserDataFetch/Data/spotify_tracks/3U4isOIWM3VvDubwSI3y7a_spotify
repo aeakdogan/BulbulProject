@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+      "id" : "5y2Xq6xcjJb2jVM54GHK3t",
+      "name" : "John Legend",
+      "type" : "artist",
+      "uri" : "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4OTAx9un4e6NfoHuVRiOrC",
+    "id" : "4OTAx9un4e6NfoHuVRiOrC",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/b3d079a2e81e76d5f4f7f570a91a54a1f09dd93d",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/ed3ab06f2342b27778a7181244b24b791d1e73c2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/789cf6d0055bd73aad6342d9ff4d0bfe4360eba7",
+      "width" : 64
+    } ],
+    "name" : "Love In The Future",
+    "type" : "album",
+    "uri" : "spotify:album:4OTAx9un4e6NfoHuVRiOrC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+    "id" : "5y2Xq6xcjJb2jVM54GHK3t",
+    "name" : "John Legend",
+    "type" : "artist",
+    "uri" : "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 269560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11303954"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3U4isOIWM3VvDubwSI3y7a",
+  "id" : "3U4isOIWM3VvDubwSI3y7a",
+  "name" : "All of Me",
+  "popularity" : 79,
+  "preview_url" : "https://p.scdn.co/mp3-preview/488c53471e56ff9f629652691444438951e880bb?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3U4isOIWM3VvDubwSI3y7a"
+}

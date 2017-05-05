@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1BNQnTVxfQqeMxr6xBi8X6",
+      "id" : "1BNQnTVxfQqeMxr6xBi8X6",
+      "name" : "Puggy",
+      "type" : "artist",
+      "uri" : "spotify:artist:1BNQnTVxfQqeMxr6xBi8X6"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5awPoMIU2fk8VsRCyrioDy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5awPoMIU2fk8VsRCyrioDy",
+    "id" : "5awPoMIU2fk8VsRCyrioDy",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/bb05166e16b9866a2fbc407fea402bf774513e28",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/2502c36aae5cfe2d0b70fb3e734b32851051b033",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1e028fd65c82203f0af579d759c75b511edde0d7",
+      "width" : 64
+    } ],
+    "name" : "Something You Might Like",
+    "type" : "album",
+    "uri" : "spotify:album:5awPoMIU2fk8VsRCyrioDy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1BNQnTVxfQqeMxr6xBi8X6",
+    "id" : "1BNQnTVxfQqeMxr6xBi8X6",
+    "name" : "Puggy",
+    "type" : "artist",
+    "uri" : "spotify:artist:1BNQnTVxfQqeMxr6xBi8X6"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 168186,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRUM70903138"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1fUeXSfsiJdVw4lUC6SE0j"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1fUeXSfsiJdVw4lUC6SE0j",
+  "id" : "1fUeXSfsiJdVw4lUC6SE0j",
+  "name" : "I Do",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ae5269a22d0627538e54c42860ff7487ce32f06c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1fUeXSfsiJdVw4lUC6SE0j"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1s8WiPtSSuQmJPGBwFTwFG",
+      "id" : "1s8WiPtSSuQmJPGBwFTwFG",
+      "name" : "Tanya Morgan",
+      "type" : "artist",
+      "uri" : "spotify:artist:1s8WiPtSSuQmJPGBwFTwFG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2qS2VoD7QxaKTO47zxBYnq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2qS2VoD7QxaKTO47zxBYnq",
+    "id" : "2qS2VoD7QxaKTO47zxBYnq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3963e9639ea8501a18f9b7b7da4257bbadf3d8ca",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3ae6a9b1a61cba370d28651251fbf20e99f3e6e0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3adcdcf8a1ac4ad6434bd60fe64b4cad4875c9b9",
+      "width" : 64
+    } ],
+    "name" : "Moonlighting",
+    "type" : "album",
+    "uri" : "spotify:album:2qS2VoD7QxaKTO47zxBYnq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1s8WiPtSSuQmJPGBwFTwFG",
+    "id" : "1s8WiPtSSuQmJPGBwFTwFG",
+    "name" : "Tanya Morgan",
+    "type" : "artist",
+    "uri" : "spotify:artist:1s8WiPtSSuQmJPGBwFTwFG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 214146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAYB0610010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6N4Fly4gZEObGyV7qp5DuZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6N4Fly4gZEObGyV7qp5DuZ",
+  "id" : "6N4Fly4gZEObGyV7qp5DuZ",
+  "name" : "We Right Here",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bc4bdc4996d2270508871a7e8fbc965a0f3da79f?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:6N4Fly4gZEObGyV7qp5DuZ"
+}

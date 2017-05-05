@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2HmtB6wVRRi3z0JwZHtkiD",
+      "id" : "2HmtB6wVRRi3z0JwZHtkiD",
+      "name" : "Enslaved",
+      "type" : "artist",
+      "uri" : "spotify:artist:2HmtB6wVRRi3z0JwZHtkiD"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MT", "MX", "NI", "PA", "SV", "TR", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3SXpsh7YVSWQuvfDYqfMwL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3SXpsh7YVSWQuvfDYqfMwL",
+    "id" : "3SXpsh7YVSWQuvfDYqfMwL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/079a6f1dfc0e27a1112b825f6e3dfde8e3e20004",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ecb1ef0723b0a8aac8ce874109a58fc9715d609f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/77d6c663b8aeed7bcf2de8d30e26e0ff3685bdf2",
+      "width" : 64
+    } ],
+    "name" : "RIITIIR",
+    "type" : "album",
+    "uri" : "spotify:album:3SXpsh7YVSWQuvfDYqfMwL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2HmtB6wVRRi3z0JwZHtkiD",
+    "id" : "2HmtB6wVRRi3z0JwZHtkiD",
+    "name" : "Enslaved",
+    "type" : "artist",
+    "uri" : "spotify:artist:2HmtB6wVRRi3z0JwZHtkiD"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MT", "MX", "NI", "PA", "SV", "TR", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 405626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DED831200354"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1HmsQ7AM0GO8mXPzZ6M9Bf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1HmsQ7AM0GO8mXPzZ6M9Bf",
+  "id" : "1HmsQ7AM0GO8mXPzZ6M9Bf",
+  "name" : "Veilburner",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4568c080aad32e9777944b1b6faa8de0240543d4?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1HmsQ7AM0GO8mXPzZ6M9Bf"
+}

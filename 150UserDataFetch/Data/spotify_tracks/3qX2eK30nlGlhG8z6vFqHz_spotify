@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/27XMnTLvCO7t3qGlQyTMkF",
+      "id" : "27XMnTLvCO7t3qGlQyTMkF",
+      "name" : "Ajda Pekkan",
+      "type" : "artist",
+      "uri" : "spotify:artist:27XMnTLvCO7t3qGlQyTMkF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6UDZjNDtXmV4KmcEahPqOH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6UDZjNDtXmV4KmcEahPqOH",
+    "id" : "6UDZjNDtXmV4KmcEahPqOH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7c1c05ba97cd096425c229b62ff7af38fe782281",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1696ce149b715a0fdf8f88684cdcf1d56967c1e9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9d7db59672d05608d7d65af601012b5b86362d17",
+      "width" : 64
+    } ],
+    "name" : "Cool Kadın",
+    "type" : "album",
+    "uri" : "spotify:album:6UDZjNDtXmV4KmcEahPqOH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/27XMnTLvCO7t3qGlQyTMkF",
+    "id" : "27XMnTLvCO7t3qGlQyTMkF",
+    "name" : "Ajda Pekkan",
+    "type" : "artist",
+    "uri" : "spotify:artist:27XMnTLvCO7t3qGlQyTMkF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 312200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR0010600099"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3qX2eK30nlGlhG8z6vFqHz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3qX2eK30nlGlhG8z6vFqHz",
+  "id" : "3qX2eK30nlGlhG8z6vFqHz",
+  "name" : "Vitrin",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d8f206479619bddc5cff1d8db20a0d49493c572b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3qX2eK30nlGlhG8z6vFqHz"
+}

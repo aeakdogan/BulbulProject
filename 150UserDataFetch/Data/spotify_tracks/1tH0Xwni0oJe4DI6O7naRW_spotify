@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp",
+      "id" : "6O4EGCCb6DoIiR6B1QCQgp",
+      "name" : "Toro y Moi",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O4EGCCb6DoIiR6B1QCQgp"
+    } ],
+    "available_markets" : [ "AR", "BO", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3xDRuOqakukb1SjHQG4WWc",
+    "id" : "3xDRuOqakukb1SjHQG4WWc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6aa7dcecd1fded91a7502d9e4354c2490df0a7dc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6307f5dcfb1d8610f03bc53c5da7cf881c5c9d3c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6843e946ec67985e1d713de9138d015279e5528d",
+      "width" : 64
+    } ],
+    "name" : "Anything In Return",
+    "type" : "album",
+    "uri" : "spotify:album:3xDRuOqakukb1SjHQG4WWc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp",
+    "id" : "6O4EGCCb6DoIiR6B1QCQgp",
+    "name" : "Toro y Moi",
+    "type" : "artist",
+    "uri" : "spotify:artist:6O4EGCCb6DoIiR6B1QCQgp"
+  } ],
+  "available_markets" : [ "AR", "BO", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 284346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US22N1307702"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1tH0Xwni0oJe4DI6O7naRW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1tH0Xwni0oJe4DI6O7naRW",
+  "id" : "1tH0Xwni0oJe4DI6O7naRW",
+  "name" : "Say That",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2a337476e2cfdd60ff012db1cd1a28a1f8f263e3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1tH0Xwni0oJe4DI6O7naRW"
+}

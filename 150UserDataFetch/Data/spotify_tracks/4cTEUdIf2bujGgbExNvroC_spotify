@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60YJi3abieLZxGxwtBv7Jh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60YJi3abieLZxGxwtBv7Jh",
+      "id" : "60YJi3abieLZxGxwtBv7Jh",
+      "name" : "Monika",
+      "type" : "artist",
+      "uri" : "spotify:artist:60YJi3abieLZxGxwtBv7Jh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1NF0HFAOw3Q3Z92J5pPMmk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1NF0HFAOw3Q3Z92J5pPMmk",
+    "id" : "1NF0HFAOw3Q3Z92J5pPMmk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6dd8f9df964b7c9d0109cff2bb7b70497a321988",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b19542fdaf4fc33cb0a1db2208a3740d7c890f48",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8fd6183b0b9a522022b23ecfca1393270a3a7c3c",
+      "width" : 64
+    } ],
+    "name" : "Avatar",
+    "type" : "album",
+    "uri" : "spotify:album:1NF0HFAOw3Q3Z92J5pPMmk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/60YJi3abieLZxGxwtBv7Jh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/60YJi3abieLZxGxwtBv7Jh",
+    "id" : "60YJi3abieLZxGxwtBv7Jh",
+    "name" : "Monika",
+    "type" : "artist",
+    "uri" : "spotify:artist:60YJi3abieLZxGxwtBv7Jh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 330003,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GRAR10800012"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4cTEUdIf2bujGgbExNvroC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4cTEUdIf2bujGgbExNvroC",
+  "id" : "4cTEUdIf2bujGgbExNvroC",
+  "name" : "Misery Loves Company",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7e748e53b38f98e56e248c529a6ea0bae410f6c2?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:4cTEUdIf2bujGgbExNvroC"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO",
+      "id" : "0X380XXQSNBYuleKzav5UO",
+      "name" : "Nine Inch Nails",
+      "type" : "artist",
+      "uri" : "spotify:artist:0X380XXQSNBYuleKzav5UO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Et26zmZ0Gu4ocrxyU3dSp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Et26zmZ0Gu4ocrxyU3dSp",
+    "id" : "6Et26zmZ0Gu4ocrxyU3dSp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8046d1bfafce45b9dbdd0672bfd175f31fbd9d13",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0e388ca5111de72732737dfaab71c3f7f09d246e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/def4262d532e631915f647b2d3bce57c6bdca9bd",
+      "width" : 64
+    } ],
+    "name" : "The Slip",
+    "type" : "album",
+    "uri" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO",
+    "id" : "0X380XXQSNBYuleKzav5UO",
+    "name" : "Nine Inch Nails",
+    "type" : "artist",
+    "uri" : "spotify:artist:0X380XXQSNBYuleKzav5UO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 299408,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US-TC5-08-68772"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5z6ZmlPFpruzVT2QJ0mzxY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5z6ZmlPFpruzVT2QJ0mzxY",
+  "id" : "5z6ZmlPFpruzVT2QJ0mzxY",
+  "name" : "Demon Seed",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9ac74c12da9dfc189bf9848ea5b6ee60b914b075?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:5z6ZmlPFpruzVT2QJ0mzxY"
+}

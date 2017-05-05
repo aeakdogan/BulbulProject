@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6TZ5t4kclsmGWHqb3mGyha",
+      "id" : "6TZ5t4kclsmGWHqb3mGyha",
+      "name" : "Cassandra Wilson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6TZ5t4kclsmGWHqb3mGyha"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7jV22JIrWgtCKCX34cJrzA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7jV22JIrWgtCKCX34cJrzA",
+    "id" : "7jV22JIrWgtCKCX34cJrzA",
+    "images" : [ {
+      "height" : 638,
+      "url" : "https://i.scdn.co/image/8c1de908d9aa3e0317fcc784aa003a32ca26d9d8",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/18cfa85221d5a8278a765b588b6965b16068c031",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d8f8fff86427b11c901e72243a23a97d8a674ad",
+      "width" : 64
+    } ],
+    "name" : "New Moon Daughter",
+    "type" : "album",
+    "uri" : "spotify:album:7jV22JIrWgtCKCX34cJrzA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6TZ5t4kclsmGWHqb3mGyha",
+    "id" : "6TZ5t4kclsmGWHqb3mGyha",
+    "name" : "Cassandra Wilson",
+    "type" : "artist",
+    "uri" : "spotify:artist:6TZ5t4kclsmGWHqb3mGyha"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 301200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN29500082"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/21HsI1RpRHEjbUjmzHtIyj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/21HsI1RpRHEjbUjmzHtIyj",
+  "id" : "21HsI1RpRHEjbUjmzHtIyj",
+  "name" : "Harvest Moon",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/633defddb3b0e42dad9b7172345456e9ef201644?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:21HsI1RpRHEjbUjmzHtIyj"
+}

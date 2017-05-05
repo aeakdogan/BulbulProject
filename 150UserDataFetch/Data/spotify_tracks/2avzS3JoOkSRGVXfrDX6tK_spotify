@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yzxX2DI9LFK8VFTyW2zZ8",
+      "id" : "2yzxX2DI9LFK8VFTyW2zZ8",
+      "name" : "Joe Satriani",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yzxX2DI9LFK8VFTyW2zZ8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1uJrKo3W0dGgmSM5FBMsbE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1uJrKo3W0dGgmSM5FBMsbE",
+    "id" : "1uJrKo3W0dGgmSM5FBMsbE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/daa68c837a9bf644866591e9210dc775a6cc87a7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7720825bfe2dcf94cd9a7df96076e22b07c4a77a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ff63136c13d3425df8b53f2cbc5b4db76d181acc",
+      "width" : 64
+    } ],
+    "name" : "Super Colossal",
+    "type" : "album",
+    "uri" : "spotify:album:1uJrKo3W0dGgmSM5FBMsbE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2yzxX2DI9LFK8VFTyW2zZ8",
+    "id" : "2yzxX2DI9LFK8VFTyW2zZ8",
+    "name" : "Joe Satriani",
+    "type" : "artist",
+    "uri" : "spotify:artist:2yzxX2DI9LFK8VFTyW2zZ8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 254840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10600020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2avzS3JoOkSRGVXfrDX6tK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2avzS3JoOkSRGVXfrDX6tK",
+  "id" : "2avzS3JoOkSRGVXfrDX6tK",
+  "name" : "It's So Good",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3bbb621c5c7c59b67bbf3b12db648a0c61f043c1?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2avzS3JoOkSRGVXfrDX6tK"
+}

@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/01e2lCvLZ4fLUIRy68nptH",
+      "id" : "01e2lCvLZ4fLUIRy68nptH",
+      "name" : "Wankelmut",
+      "type" : "artist",
+      "uri" : "spotify:artist:01e2lCvLZ4fLUIRy68nptH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ATVvcduwBhAcT5Ar6ZLd0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ATVvcduwBhAcT5Ar6ZLd0",
+      "id" : "1ATVvcduwBhAcT5Ar6ZLd0",
+      "name" : "Emma Louise",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ATVvcduwBhAcT5Ar6ZLd0"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1lBKVqlAIASZOFLXJl6jeV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1lBKVqlAIASZOFLXJl6jeV",
+    "id" : "1lBKVqlAIASZOFLXJl6jeV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/556b8c5ee52b67d5d5006f54a2a7c82521099e8d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4df2c840f64108db9507d31e0642667e04306d47",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b2dc6d4103d3299e7d00116de461ca52d76d1fa4",
+      "width" : 64
+    } ],
+    "name" : "My Head Is a Jungle (Area10 MK Remix Radio Edit)",
+    "type" : "album",
+    "uri" : "spotify:album:1lBKVqlAIASZOFLXJl6jeV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/01e2lCvLZ4fLUIRy68nptH",
+    "id" : "01e2lCvLZ4fLUIRy68nptH",
+    "name" : "Wankelmut",
+    "type" : "artist",
+    "uri" : "spotify:artist:01e2lCvLZ4fLUIRy68nptH"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ATVvcduwBhAcT5Ar6ZLd0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ATVvcduwBhAcT5Ar6ZLd0",
+    "id" : "1ATVvcduwBhAcT5Ar6ZLd0",
+    "name" : "Emma Louise",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ATVvcduwBhAcT5Ar6ZLd0"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 270584,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEAW11400376"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ux4N9O9fpK4tevXn50Aqj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ux4N9O9fpK4tevXn50Aqj",
+  "id" : "2ux4N9O9fpK4tevXn50Aqj",
+  "name" : "My Head Is a Jungle - Area10 MK Remix Radio Edit",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/be62938d26f7eca3031823b083c70e2a27530dd9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2ux4N9O9fpK4tevXn50Aqj"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57bUPid8xztkieZfS7OlEV",
+      "id" : "57bUPid8xztkieZfS7OlEV",
+      "name" : "The Supremes",
+      "type" : "artist",
+      "uri" : "spotify:artist:57bUPid8xztkieZfS7OlEV"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5u4oZQY6eYzH7ZpydPoUN3",
+    "id" : "5u4oZQY6eYzH7ZpydPoUN3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b82914ee9b199058ea53bdfd03a21ddb514eb910",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f1440a24745b2e8a6901420f740eeb169ed86e7a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5956af637ad7d7273a8fd3e25b97fcd8a829a358",
+      "width" : 64
+    } ],
+    "name" : "Favorites",
+    "type" : "album",
+    "uri" : "spotify:album:5u4oZQY6eYzH7ZpydPoUN3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/57bUPid8xztkieZfS7OlEV",
+    "id" : "57bUPid8xztkieZfS7OlEV",
+    "name" : "The Supremes",
+    "type" : "artist",
+    "uri" : "spotify:artist:57bUPid8xztkieZfS7OlEV"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 165080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO16600346"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/69Qa7czzqraPWZgxpQN405",
+  "id" : "69Qa7czzqraPWZgxpQN405",
+  "name" : "You Can't Hurry Love",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bae27d12363d76300c828210b04ade594c26c0ee?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:69Qa7czzqraPWZgxpQN405"
+}

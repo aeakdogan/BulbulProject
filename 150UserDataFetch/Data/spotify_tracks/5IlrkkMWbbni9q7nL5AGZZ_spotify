@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+      "id" : "2DaxqgrOhkeH0fpeiQq2f4",
+      "name" : "Oasis",
+      "type" : "artist",
+      "uri" : "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/19rUOvZluw40PCM6tYcPhY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/19rUOvZluw40PCM6tYcPhY",
+    "id" : "19rUOvZluw40PCM6tYcPhY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2d91f16c7238c2af904b943f9122f3ce8c4a710f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f49c769124139c63eeeb86a4cf133ce6b8d36453",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/172229889009ed2c6b4800aa1844fb5f3b69a95b",
+      "width" : 64
+    } ],
+    "name" : "Familiar To Millions (Live)",
+    "type" : "album",
+    "uri" : "spotify:album:19rUOvZluw40PCM6tYcPhY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+    "id" : "2DaxqgrOhkeH0fpeiQq2f4",
+    "name" : "Oasis",
+    "type" : "artist",
+    "uri" : "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 225426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBQY0002029"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5IlrkkMWbbni9q7nL5AGZZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5IlrkkMWbbni9q7nL5AGZZ",
+  "id" : "5IlrkkMWbbni9q7nL5AGZZ",
+  "name" : "Hey Hey, My My [Live At Wembley Stadium, 2000]",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8d6e9e0fab33f17b9c4baa0b1f503d4c174981c1?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:5IlrkkMWbbni9q7nL5AGZZ"
+}

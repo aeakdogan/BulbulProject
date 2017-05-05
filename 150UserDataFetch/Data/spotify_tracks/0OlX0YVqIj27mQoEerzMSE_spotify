@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3gAbBT7s7Ts8AmAcIbLTWb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3gAbBT7s7Ts8AmAcIbLTWb",
+    "id" : "3gAbBT7s7Ts8AmAcIbLTWb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ec0df6de2a81e65fc389965bad41b2caf237f1d1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ea5d5a54c9ae697d17de9ac1cfc15b90bebf38eb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fd4b61ba7c5c275edba4fc28f746082fb2770021",
+      "width" : 64
+    } ],
+    "name" : "Ambient Systems 3",
+    "type" : "album",
+    "uri" : "spotify:album:3gAbBT7s7Ts8AmAcIbLTWb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7fzLcx63YD00IsWgK4ypDh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7fzLcx63YD00IsWgK4ypDh",
+    "id" : "7fzLcx63YD00IsWgK4ypDh",
+    "name" : "Terre Thaemlitz",
+    "type" : "artist",
+    "uri" : "spotify:artist:7fzLcx63YD00IsWgK4ypDh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 605733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR49760004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0OlX0YVqIj27mQoEerzMSE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0OlX0YVqIj27mQoEerzMSE",
+  "id" : "0OlX0YVqIj27mQoEerzMSE",
+  "name" : "Aging Core, Aging Periphery",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6bdb99abf06afbc4d25f7d61898f33da5b97bcb2?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0OlX0YVqIj27mQoEerzMSE"
+}

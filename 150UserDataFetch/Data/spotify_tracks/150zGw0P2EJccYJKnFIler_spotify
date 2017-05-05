@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Q0MyH5YMI5HPQjFjlq5g3",
+      "id" : "2Q0MyH5YMI5HPQjFjlq5g3",
+      "name" : "Chet Faker",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Q0MyH5YMI5HPQjFjlq5g3"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7F5hqnskEDvuCDLoW5HIbJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7F5hqnskEDvuCDLoW5HIbJ",
+    "id" : "7F5hqnskEDvuCDLoW5HIbJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e82dfdc5c3d0bb32c9e8a54522659af03824b5e9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1717dec3175dcf67a54b1bc99e3fd1f0cbfb62e3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4d896274743a3ab9e29798f685a4bc82435e3e48",
+      "width" : 64
+    } ],
+    "name" : "Lockjaw",
+    "type" : "album",
+    "uri" : "spotify:album:7F5hqnskEDvuCDLoW5HIbJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+    "id" : "6nxWCVXbOlEVRexSbLsTer",
+    "name" : "Flume",
+    "type" : "artist",
+    "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2Q0MyH5YMI5HPQjFjlq5g3",
+    "id" : "2Q0MyH5YMI5HPQjFjlq5g3",
+    "name" : "Chet Faker",
+    "type" : "artist",
+    "uri" : "spotify:artist:2Q0MyH5YMI5HPQjFjlq5g3"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 221894,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUFF01300488"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/150zGw0P2EJccYJKnFIler"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/150zGw0P2EJccYJKnFIler",
+  "id" : "150zGw0P2EJccYJKnFIler",
+  "name" : "Drop The Game",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/787df42cfe36425b672aedaa2f824422cabb3f8c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:150zGw0P2EJccYJKnFIler"
+}

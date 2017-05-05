@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0EirwLTChZpOiNeiJKaAXj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0EirwLTChZpOiNeiJKaAXj",
+      "id" : "0EirwLTChZpOiNeiJKaAXj",
+      "name" : "Yasmin Levy",
+      "type" : "artist",
+      "uri" : "spotify:artist:0EirwLTChZpOiNeiJKaAXj"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/15OBU2VK4wqGPzdVxINT00"
+    },
+    "href" : "https://api.spotify.com/v1/albums/15OBU2VK4wqGPzdVxINT00",
+    "id" : "15OBU2VK4wqGPzdVxINT00",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/b3f0bb9234068b066fc004c7cf3562cbf09cd440",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/420a64fe8935e8fa68aff2c71eb3447f1cf0b941",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3906963bc0af3d067e2299bbf6f3a626070ebe69",
+      "width" : 64
+    } ],
+    "name" : "Sentir",
+    "type" : "album",
+    "uri" : "spotify:album:15OBU2VK4wqGPzdVxINT00"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0EirwLTChZpOiNeiJKaAXj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0EirwLTChZpOiNeiJKaAXj",
+    "id" : "0EirwLTChZpOiNeiJKaAXj",
+    "name" : "Yasmin Levy",
+    "type" : "artist",
+    "uri" : "spotify:artist:0EirwLTChZpOiNeiJKaAXj"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 240600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "IL4070900017"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/02rCVUrNk3UXK7LDA6A8TD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/02rCVUrNk3UXK7LDA6A8TD",
+  "id" : "02rCVUrNk3UXK7LDA6A8TD",
+  "name" : "Hallelujah",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/512d95f83279edf278c19d5522f0332cc87448e4?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:02rCVUrNk3UXK7LDA6A8TD"
+}

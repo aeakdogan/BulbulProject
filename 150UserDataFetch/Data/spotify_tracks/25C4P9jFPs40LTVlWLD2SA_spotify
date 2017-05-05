@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5mZC7ndY6oGMxJentRwsuV",
+      "id" : "5mZC7ndY6oGMxJentRwsuV",
+      "name" : "Young Fathers",
+      "type" : "artist",
+      "uri" : "spotify:artist:5mZC7ndY6oGMxJentRwsuV"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/30g061tv2BpRUqmoLyzhdt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/30g061tv2BpRUqmoLyzhdt",
+    "id" : "30g061tv2BpRUqmoLyzhdt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/97f3db8ea0deffed67a41a857a5d9b3355e2636b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0ecbfab696674f26e4572169ff55111b74445361",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b2efdefdd9ae1028237a546989bc61cdfb0ba2c2",
+      "width" : 64
+    } ],
+    "name" : "Dead",
+    "type" : "album",
+    "uri" : "spotify:album:30g061tv2BpRUqmoLyzhdt"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5mZC7ndY6oGMxJentRwsuV",
+    "id" : "5mZC7ndY6oGMxJentRwsuV",
+    "name" : "Young Fathers",
+    "type" : "artist",
+    "uri" : "spotify:artist:5mZC7ndY6oGMxJentRwsuV"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 169995,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCFB1305600"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/25C4P9jFPs40LTVlWLD2SA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/25C4P9jFPs40LTVlWLD2SA",
+  "id" : "25C4P9jFPs40LTVlWLD2SA",
+  "name" : "NO WAY",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/026af8f292eb952221c015332685c59eba1aae96?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:25C4P9jFPs40LTVlWLD2SA"
+}

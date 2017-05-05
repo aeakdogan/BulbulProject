@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+      "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+      "name" : "Frank Sinatra",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3GmwKB1tgPZgXeRJZSm9WX",
+    "id" : "3GmwKB1tgPZgXeRJZSm9WX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ffaac6d567b572f78864dc0e029452288d9d42c7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/64347aa319a6a5c1c46897ba69933fd42359ad1d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d6b707758828f864af3b45430f34299fa7e2c73d",
+      "width" : 64
+    } ],
+    "name" : "In The Wee Small Hours",
+    "type" : "album",
+    "uri" : "spotify:album:3GmwKB1tgPZgXeRJZSm9WX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+    "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+    "name" : "Frank Sinatra",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 222600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA29800111"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1HauTmjjJwBoSGQZc1mBs3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1HauTmjjJwBoSGQZc1mBs3",
+  "id" : "1HauTmjjJwBoSGQZc1mBs3",
+  "name" : "I Get Along Without You Very Well - 1998 Digital Remaster",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0f14a700e70ec0c91d9e3215fba52b9b5fb2caca?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1HauTmjjJwBoSGQZc1mBs3"
+}

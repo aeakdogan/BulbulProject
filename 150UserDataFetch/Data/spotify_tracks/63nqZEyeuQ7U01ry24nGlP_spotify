@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1SYQUJukd40ps4z6RT77rC",
+      "id" : "1SYQUJukd40ps4z6RT77rC",
+      "name" : "Kuedo",
+      "type" : "artist",
+      "uri" : "spotify:artist:1SYQUJukd40ps4z6RT77rC"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "JP", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2TwjER8Vj4lqKpZ0g68NoD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2TwjER8Vj4lqKpZ0g68NoD",
+    "id" : "2TwjER8Vj4lqKpZ0g68NoD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4a900cf337f82571276eec44084c51693663d485",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4d120c8771ece781d9e2e55d1f8581b6a5e2934d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5e9c1750e9289511ac3bc48e5f474526848b6b1b",
+      "width" : 64
+    } ],
+    "name" : "Severant",
+    "type" : "album",
+    "uri" : "spotify:album:2TwjER8Vj4lqKpZ0g68NoD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1SYQUJukd40ps4z6RT77rC",
+    "id" : "1SYQUJukd40ps4z6RT77rC",
+    "name" : "Kuedo",
+    "type" : "artist",
+    "uri" : "spotify:artist:1SYQUJukd40ps4z6RT77rC"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "JP", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 67173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US78Q1110238"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/63nqZEyeuQ7U01ry24nGlP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/63nqZEyeuQ7U01ry24nGlP",
+  "id" : "63nqZEyeuQ7U01ry24nGlP",
+  "name" : "Shutter Light Girl",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2e6ec11fcfa86093fabcff8dc5e9bbb69e8e56fc?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:63nqZEyeuQ7U01ry24nGlP"
+}

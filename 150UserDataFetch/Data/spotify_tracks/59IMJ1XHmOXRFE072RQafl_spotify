@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kXp61QMZFPcKMcRPqoiVj",
+      "id" : "6kXp61QMZFPcKMcRPqoiVj",
+      "name" : "Gin Blossoms",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kXp61QMZFPcKMcRPqoiVj"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4lTXWu1mQo8m8BKwU8Rp6f"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4lTXWu1mQo8m8BKwU8Rp6f",
+    "id" : "4lTXWu1mQo8m8BKwU8Rp6f",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/19ba5134b071811ab69449323834f7786978e45e",
+      "width" : 638
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/07d0cfcf244492121a9abb1d8e26fa95406a4332",
+      "width" : 299
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7b53b1f605c58220bdf0ee08b0d4c0614054c8c5",
+      "width" : 64
+    } ],
+    "name" : "Outside Looking In: The Best Of The Gin Blossoms",
+    "type" : "album",
+    "uri" : "spotify:album:4lTXWu1mQo8m8BKwU8Rp6f"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kXp61QMZFPcKMcRPqoiVj",
+    "id" : "6kXp61QMZFPcKMcRPqoiVj",
+    "name" : "Gin Blossoms",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kXp61QMZFPcKMcRPqoiVj"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 230800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAM19500776"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/59IMJ1XHmOXRFE072RQafl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/59IMJ1XHmOXRFE072RQafl",
+  "id" : "59IMJ1XHmOXRFE072RQafl",
+  "name" : "Til I Hear It From You",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1b07317dcb22cb4e97fae86ac99bab88124209d0?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:59IMJ1XHmOXRFE072RQafl"
+}

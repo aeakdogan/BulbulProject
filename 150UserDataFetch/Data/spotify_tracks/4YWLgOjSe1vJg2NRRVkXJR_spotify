@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tvKz56Tr39bkhcQUTO0Xr",
+      "id" : "4tvKz56Tr39bkhcQUTO0Xr",
+      "name" : "Angus & Julia Stone",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tvKz56Tr39bkhcQUTO0Xr"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0F7YdpujZTc3Zjh9HcpKmu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0F7YdpujZTc3Zjh9HcpKmu",
+    "id" : "0F7YdpujZTc3Zjh9HcpKmu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8db4dbe389138c400542841ec43c818a7fb0aa99",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ea597501cd82468389f07f59d57e94770505947c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f4cc3d3617653de490850cf13cb25cde9dc3ccd3",
+      "width" : 64
+    } ],
+    "name" : "A Book Like This",
+    "type" : "album",
+    "uri" : "spotify:album:0F7YdpujZTc3Zjh9HcpKmu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4tvKz56Tr39bkhcQUTO0Xr",
+    "id" : "4tvKz56Tr39bkhcQUTO0Xr",
+    "name" : "Angus & Julia Stone",
+    "type" : "artist",
+    "uri" : "spotify:artist:4tvKz56Tr39bkhcQUTO0Xr"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 220026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUAP10600004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4YWLgOjSe1vJg2NRRVkXJR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4YWLgOjSe1vJg2NRRVkXJR",
+  "id" : "4YWLgOjSe1vJg2NRRVkXJR",
+  "name" : "Paper Aeroplane",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c313401c4d0a22cb2e371c06e4d5c5ab418b9370?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:4YWLgOjSe1vJg2NRRVkXJR"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d",
+      "id" : "2i8ynmFv4qgRksyDlBgi6d",
+      "name" : "Wire",
+      "type" : "artist",
+      "uri" : "spotify:artist:2i8ynmFv4qgRksyDlBgi6d"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5icoggnvcshp89oj3okxzS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5icoggnvcshp89oj3okxzS",
+    "id" : "5icoggnvcshp89oj3okxzS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/645faac7f5a72e7c551e743ad5e1eb2a272fb63a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/97ba3fe899ece8d123b15f3f2bf9b92fcb7b649f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/871b54bc8185751ec42d06b10d59bbf9a0f11e6f",
+      "width" : 64
+    } ],
+    "name" : "A Bell Is A Cup Until It Is Struck",
+    "type" : "album",
+    "uri" : "spotify:album:5icoggnvcshp89oj3okxzS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2i8ynmFv4qgRksyDlBgi6d",
+    "id" : "2i8ynmFv4qgRksyDlBgi6d",
+    "name" : "Wire",
+    "type" : "artist",
+    "uri" : "spotify:artist:2i8ynmFv4qgRksyDlBgi6d"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 301440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0401026"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0E64H8Qodcr4cISkxK8lo2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0E64H8Qodcr4cISkxK8lo2",
+  "id" : "0E64H8Qodcr4cISkxK8lo2",
+  "name" : "The Finest Drops",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7bee832a388d42f1b5d3f1433c64e3f891489cf6?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0E64H8Qodcr4cISkxK8lo2"
+}

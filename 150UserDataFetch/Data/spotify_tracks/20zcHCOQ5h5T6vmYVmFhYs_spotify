@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zyPKJ4ePhYLsBEy4A6BVX",
+      "id" : "6zyPKJ4ePhYLsBEy4A6BVX",
+      "name" : "Kaleida",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zyPKJ4ePhYLsBEy4A6BVX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/20VH7qNTsfyrDSsJT7cCqR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/20VH7qNTsfyrDSsJT7cCqR",
+    "id" : "20VH7qNTsfyrDSsJT7cCqR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/07a971d88b89e12670b73013d589d3c73dc4c319",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f4abe2a6b49228c6052c341708e6bd4433d45477",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/866ee83df58d2e3e7f339edd7b295052c5957ec3",
+      "width" : 64
+    } ],
+    "name" : "Think",
+    "type" : "album",
+    "uri" : "spotify:album:20VH7qNTsfyrDSsJT7cCqR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6zyPKJ4ePhYLsBEy4A6BVX",
+    "id" : "6zyPKJ4ePhYLsBEy4A6BVX",
+    "name" : "Kaleida",
+    "type" : "artist",
+    "uri" : "spotify:artist:6zyPKJ4ePhYLsBEy4A6BVX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 211140,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBMYF1500001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/20zcHCOQ5h5T6vmYVmFhYs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/20zcHCOQ5h5T6vmYVmFhYs",
+  "id" : "20zcHCOQ5h5T6vmYVmFhYs",
+  "name" : "Think",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c50c8dd62057c760b7f191477884d54944e41b6a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:20zcHCOQ5h5T6vmYVmFhYs"
+}

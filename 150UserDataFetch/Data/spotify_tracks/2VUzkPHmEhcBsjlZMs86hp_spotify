@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1bAdBYcsDdsbqmWbAE7qKR",
+      "id" : "1bAdBYcsDdsbqmWbAE7qKR",
+      "name" : "JJ",
+      "type" : "artist",
+      "uri" : "spotify:artist:1bAdBYcsDdsbqmWbAE7qKR"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DO", "EC", "EE", "ES", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NZ", "PA", "PE", "PL", "PT", "PY", "SK", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7mOdqKJCgb8KRtVqAyOZV0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7mOdqKJCgb8KRtVqAyOZV0",
+    "id" : "7mOdqKJCgb8KRtVqAyOZV0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3da765b69546a7ece2de63a7b72282a262ab8224",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/83ae5abf99cfd7392b6ab6c9296427278076f05a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/216ec5a26c82b570540d185b65054b25bd1e6bfa",
+      "width" : 64
+    } ],
+    "name" : "jj nº 2",
+    "type" : "album",
+    "uri" : "spotify:album:7mOdqKJCgb8KRtVqAyOZV0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1bAdBYcsDdsbqmWbAE7qKR",
+    "id" : "1bAdBYcsDdsbqmWbAE7qKR",
+    "name" : "JJ",
+    "type" : "artist",
+    "uri" : "spotify:artist:1bAdBYcsDdsbqmWbAE7qKR"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DO", "EC", "EE", "ES", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NZ", "PA", "PE", "PL", "PT", "PY", "SK", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 214333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US38W1016401"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2VUzkPHmEhcBsjlZMs86hp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2VUzkPHmEhcBsjlZMs86hp",
+  "id" : "2VUzkPHmEhcBsjlZMs86hp",
+  "name" : "Things Will Never Be The Same Again",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0abafd8bc13a973562a8ff634e01c3b00585a266?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2VUzkPHmEhcBsjlZMs86hp"
+}

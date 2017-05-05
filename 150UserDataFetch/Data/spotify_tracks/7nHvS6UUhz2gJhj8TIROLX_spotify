@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2LmyJyCF5V1eQyvHgJNbTn",
+      "id" : "2LmyJyCF5V1eQyvHgJNbTn",
+      "name" : "Leonard Bernstein",
+      "type" : "artist",
+      "uri" : "spotify:artist:2LmyJyCF5V1eQyvHgJNbTn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1PZ9DdMSoEOUtvCdkQYKH3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1PZ9DdMSoEOUtvCdkQYKH3",
+    "id" : "1PZ9DdMSoEOUtvCdkQYKH3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/247d6933a8602171d7bf50c167be3c5fd29b11ad",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4ecc27a84a75db89c1a6f54bfe258ebafce267df",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c03f2b3e0681f16b438539398f501e65917092dd",
+      "width" : 64
+    } ],
+    "name" : "Barber's Adagio and other Romantic Favorites for Strings [Expanded Edition]",
+    "type" : "album",
+    "uri" : "spotify:album:1PZ9DdMSoEOUtvCdkQYKH3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4XDJurjQCnWLlE7KLZCT9x",
+    "id" : "4XDJurjQCnWLlE7KLZCT9x",
+    "name" : "Samuel Barber",
+    "type" : "artist",
+    "uri" : "spotify:artist:4XDJurjQCnWLlE7KLZCT9x"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2LmyJyCF5V1eQyvHgJNbTn",
+    "id" : "2LmyJyCF5V1eQyvHgJNbTn",
+    "name" : "Leonard Bernstein",
+    "type" : "artist",
+    "uri" : "spotify:artist:2LmyJyCF5V1eQyvHgJNbTn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 596226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10402764"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7nHvS6UUhz2gJhj8TIROLX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7nHvS6UUhz2gJhj8TIROLX",
+  "id" : "7nHvS6UUhz2gJhj8TIROLX",
+  "name" : "Adagio for Strings, Op. 11",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/605996fc7d09b4d498c1472e0d1307d9e96543e2?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7nHvS6UUhz2gJhj8TIROLX"
+}

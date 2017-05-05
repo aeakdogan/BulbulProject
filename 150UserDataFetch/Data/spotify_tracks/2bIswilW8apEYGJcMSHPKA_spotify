@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+      "id" : "0SCbttzoZTnLFebDYmAWCm",
+      "name" : "Glee Cast",
+      "type" : "artist",
+      "uri" : "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+    } ],
+    "available_markets" : [ "AT", "AU", "BR", "CA", "CH", "DE", "EE", "FI", "GB", "HK", "ID", "IE", "JP", "LI", "LT", "LV", "MY", "NZ", "PH", "SE", "SG", "TW", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4pl3nhYiMPfK1LehZgFrwo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4pl3nhYiMPfK1LehZgFrwo",
+    "id" : "4pl3nhYiMPfK1LehZgFrwo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a85b40bf62c60440d2c5dc2eddf998601bd0a9c4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d11cc6644444667e48fe5674c4a213a709095f25",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/92e41578dcef89689c6abc3797133359c6dc10f2",
+      "width" : 64
+    } ],
+    "name" : "Teenage Dream (Glee Cast Version) [Acoustic]",
+    "type" : "album",
+    "uri" : "spotify:album:4pl3nhYiMPfK1LehZgFrwo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+    "id" : "0SCbttzoZTnLFebDYmAWCm",
+    "name" : "Glee Cast",
+    "type" : "artist",
+    "uri" : "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+  } ],
+  "available_markets" : [ "AT", "AU", "BR", "CA", "CH", "DE", "EE", "FI", "GB", "HK", "ID", "IE", "JP", "LI", "LT", "LV", "MY", "NZ", "PH", "SE", "SG", "TW", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 225346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USQX91201817"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2bIswilW8apEYGJcMSHPKA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2bIswilW8apEYGJcMSHPKA",
+  "id" : "2bIswilW8apEYGJcMSHPKA",
+  "name" : "Teenage Dream (Glee Cast Version) - Acoustic",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dfb21ade3c021407519e09c3f3c25142f907cf66?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2bIswilW8apEYGJcMSHPKA"
+}

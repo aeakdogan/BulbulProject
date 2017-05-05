@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+      "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+      "name" : "The Beatles",
+      "type" : "artist",
+      "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6wCttLq0ADzkPgtRnUihLV",
+    "id" : "6wCttLq0ADzkPgtRnUihLV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/56f312139863addd3837e68e6c198150e80f510a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/02fa6b459660f3ef32c8c3906af7f9b7a3c56f49",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7f7a492ce7d64238ad10ac681948296e5c029424",
+      "width" : 64
+    } ],
+    "name" : "A Hard Day's Night (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:6wCttLq0ADzkPgtRnUihLV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+    "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+    "name" : "The Beatles",
+    "type" : "artist",
+    "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 163080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE0601439"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3pU1CUgPiFfxPCpscwIwQR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3pU1CUgPiFfxPCpscwIwQR",
+  "id" : "3pU1CUgPiFfxPCpscwIwQR",
+  "name" : "I Should Have Known Better - Remastered",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a91e40c7965dcd154ece1eeaf6435d80b84d2a37?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3pU1CUgPiFfxPCpscwIwQR"
+}

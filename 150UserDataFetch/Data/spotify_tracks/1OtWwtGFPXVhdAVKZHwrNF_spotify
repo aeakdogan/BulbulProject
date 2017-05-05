@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id" : "43ZHCT0cAZBISjO8DG9PnE",
+      "name" : "Elvis Presley",
+      "type" : "artist",
+      "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/38lhaWsw8PImY1pIIlKyDJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/38lhaWsw8PImY1pIIlKyDJ",
+    "id" : "38lhaWsw8PImY1pIIlKyDJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/28c25d3e588402deaad0732ef44f6810b448ba17",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/336d119e777bb6f47123e84ad1b630d812c5a38e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/57cf0650bc9eff94a9b2bc318cc34808a692563a",
+      "width" : 64
+    } ],
+    "name" : "Back In Memphis",
+    "type" : "album",
+    "uri" : "spotify:album:38lhaWsw8PImY1pIIlKyDJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+    "id" : "43ZHCT0cAZBISjO8DG9PnE",
+    "name" : "Elvis Presley",
+    "type" : "artist",
+    "uri" : "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 263973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC16901355"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1OtWwtGFPXVhdAVKZHwrNF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1OtWwtGFPXVhdAVKZHwrNF",
+  "id" : "1OtWwtGFPXVhdAVKZHwrNF",
+  "name" : "Suspicious Minds",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1577e9e4e6f90ef513ff274024db9c7cb56703d7?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:1OtWwtGFPXVhdAVKZHwrNF"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NZE8jDD2cCzd4vUyZ5CQQ",
+      "id" : "3NZE8jDD2cCzd4vUyZ5CQQ",
+      "name" : "Spacehog",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NZE8jDD2cCzd4vUyZ5CQQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6vOmA5zWeFeKvuRBxaO59A",
+    "id" : "6vOmA5zWeFeKvuRBxaO59A",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e005c3428f66b4b1654d6eab838ef6bf4df78b7c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b56df463b782c6cd61a19df57c0c5ec77bb0fb45",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/60908145aa198f00752897509689204bb32f52fa",
+      "width" : 64
+    } ],
+    "name" : "Resident Alien",
+    "type" : "album",
+    "uri" : "spotify:album:6vOmA5zWeFeKvuRBxaO59A"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3NZE8jDD2cCzd4vUyZ5CQQ",
+    "id" : "3NZE8jDD2cCzd4vUyZ5CQQ",
+    "name" : "Spacehog",
+    "type" : "artist",
+    "uri" : "spotify:artist:3NZE8jDD2cCzd4vUyZ5CQQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 299506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10250270"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/02lTDOxHeXTHsdwXoz6lpC",
+  "id" : "02lTDOxHeXTHsdwXoz6lpC",
+  "name" : "In The Meantime",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6f077ae6c5ac013b1f6748c80a08b8b3f6101cc3?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:02lTDOxHeXTHsdwXoz6lpC"
+}

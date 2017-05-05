@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+      "id" : "7eQZTqEMozBcuSubfu52i4",
+      "name" : "The Knife",
+      "type" : "artist",
+      "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1iqMDM4Io1tnDDl58NGeVJ",
+    "id" : "1iqMDM4Io1tnDDl58NGeVJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f522302c7221f0357a5abe63d0e70005bc269a11",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/af20e135fc7eed4fd91224071aa33f34ecb6db32",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/23bd6e12b9adb363670feffbd0a3508fc34284b0",
+      "width" : 64
+    } ],
+    "name" : "Deep Cuts",
+    "type" : "album",
+    "uri" : "spotify:album:1iqMDM4Io1tnDDl58NGeVJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+    "id" : "7eQZTqEMozBcuSubfu52i4",
+    "name" : "The Knife",
+    "type" : "artist",
+    "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 231853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEWCE0400201"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2YacpExEbX9tF8IbFlFOo4",
+  "id" : "2YacpExEbX9tF8IbFlFOo4",
+  "name" : "Heartbeats",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f3c32a74aa29f96384928604336ab6ea0585bfca?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2YacpExEbX9tF8IbFlFOo4"
+}

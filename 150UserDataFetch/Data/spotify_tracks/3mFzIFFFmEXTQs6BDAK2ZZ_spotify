@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+      "id" : "5l8VQNuIg0turYE1VtM9zV",
+      "name" : "Leonard Cohen",
+      "type" : "artist",
+      "uri" : "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6I58qJMqZHhb8jtNT3CuJB",
+    "id" : "6I58qJMqZHhb8jtNT3CuJB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/81e7ce5fbc000f082df96d2ff1111bc5fbad5463",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/29fbcd6884b2e69ac0b2720fbbc6bc58bfb881b8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ac44c2cbf37a3fb3acf5d57265da40a30eb68902",
+      "width" : 64
+    } ],
+    "name" : "Various Positions",
+    "type" : "album",
+    "uri" : "spotify:album:6I58qJMqZHhb8jtNT3CuJB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+    "id" : "5l8VQNuIg0turYE1VtM9zV",
+    "name" : "Leonard Cohen",
+    "type" : "artist",
+    "uri" : "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 280626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10026189"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3mFzIFFFmEXTQs6BDAK2ZZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3mFzIFFFmEXTQs6BDAK2ZZ",
+  "id" : "3mFzIFFFmEXTQs6BDAK2ZZ",
+  "name" : "Dance Me to the End of Love",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2df9770cd2bf09efa5d55ae1fc0dd0ba1f141325?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3mFzIFFFmEXTQs6BDAK2ZZ"
+}

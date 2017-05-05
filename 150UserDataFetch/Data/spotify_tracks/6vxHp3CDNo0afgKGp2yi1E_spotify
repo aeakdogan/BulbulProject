@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+      "id" : "2CvCyf1gEVhI0mX6aFXmVI",
+      "name" : "Paul Simon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7npBPiCHjPj8PVIGPuHXep",
+    "id" : "7npBPiCHjPj8PVIGPuHXep",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/443338f82fb889e262938b0aedcc278c2035fd39",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e44412a1609d9ef79ef45afaa1d88122b5c307aa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/af2682d292fc31aab6c58f12d5c1d45c190285be",
+      "width" : 64
+    } ],
+    "name" : "Paul Simon",
+    "type" : "album",
+    "uri" : "spotify:album:7npBPiCHjPj8PVIGPuHXep"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+    "id" : "2CvCyf1gEVhI0mX6aFXmVI",
+    "name" : "Paul Simon",
+    "type" : "artist",
+    "uri" : "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 164813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11002239"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6vxHp3CDNo0afgKGp2yi1E",
+  "id" : "6vxHp3CDNo0afgKGp2yi1E",
+  "name" : "Me and Julio Down by the Schoolyard",
+  "popularity" : 66,
+  "preview_url" : "https://p.scdn.co/mp3-preview/902633811e6a135bdd9ece72e92318e2ce2fe509?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6vxHp3CDNo0afgKGp2yi1E"
+}

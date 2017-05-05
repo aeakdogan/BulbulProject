@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bODnAlydTbem2JAjDX52y",
+      "id" : "4bODnAlydTbem2JAjDX52y",
+      "name" : "Evenings",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bODnAlydTbem2JAjDX52y"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7o7LDoDX1Wt39m7e6dCQ9u"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7o7LDoDX1Wt39m7e6dCQ9u",
+    "id" : "7o7LDoDX1Wt39m7e6dCQ9u",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/04aaac8f56922423df149cfefbb63a47ded5a552",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/daf8d0319610b75218e1945a719801ac8112c4db",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/316b9e0f3d94de42f51cf47ca969d780406e308a",
+      "width" : 64
+    } ],
+    "name" : "Yore",
+    "type" : "album",
+    "uri" : "spotify:album:7o7LDoDX1Wt39m7e6dCQ9u"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4bODnAlydTbem2JAjDX52y",
+    "id" : "4bODnAlydTbem2JAjDX52y",
+    "name" : "Evenings",
+    "type" : "artist",
+    "uri" : "spotify:artist:4bODnAlydTbem2JAjDX52y"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 172252,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMR6U1300017"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/74RR51y4gOTeJQuCUQrPrW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/74RR51y4gOTeJQuCUQrPrW",
+  "id" : "74RR51y4gOTeJQuCUQrPrW",
+  "name" : "Babe",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f2d264dbd9a201aedd9d7f9d4079f9138c35ab8e?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:74RR51y4gOTeJQuCUQrPrW"
+}

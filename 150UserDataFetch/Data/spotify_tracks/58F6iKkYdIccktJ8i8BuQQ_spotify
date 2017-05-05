@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6RNuLHIAlLt1FQHm03oEru",
+      "id" : "6RNuLHIAlLt1FQHm03oEru",
+      "name" : "The Virgins",
+      "type" : "artist",
+      "uri" : "spotify:artist:6RNuLHIAlLt1FQHm03oEru"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2u24W1w4uHRgPUka8xhIvj",
+    "id" : "2u24W1w4uHRgPUka8xhIvj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/751023cd782637f72fa9b64e1fd4f9eb6ec2f5fe",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/508ed6dd3254cc212d1852f4850a279cc78ca59c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7740673d7be5f9d6d2aaaf98e7b85d6c393d5e62",
+      "width" : 64
+    } ],
+    "name" : "The Virgins",
+    "type" : "album",
+    "uri" : "spotify:album:2u24W1w4uHRgPUka8xhIvj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6RNuLHIAlLt1FQHm03oEru",
+    "id" : "6RNuLHIAlLt1FQHm03oEru",
+    "name" : "The Virgins",
+    "type" : "artist",
+    "uri" : "spotify:artist:6RNuLHIAlLt1FQHm03oEru"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 180120,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USAT20801949"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/58F6iKkYdIccktJ8i8BuQQ",
+  "id" : "58F6iKkYdIccktJ8i8BuQQ",
+  "name" : "Rich Girls",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a3c46bcbe133bccf58e973d60983253b1d1c0ce0?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:58F6iKkYdIccktJ8i8BuQQ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1xUhNgw4eJDZfvumIpcz1B",
+      "id" : "1xUhNgw4eJDZfvumIpcz1B",
+      "name" : "Children Of Bodom",
+      "type" : "artist",
+      "uri" : "spotify:artist:1xUhNgw4eJDZfvumIpcz1B"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4vDvKMi5Q1y3f3K97V2wiZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4vDvKMi5Q1y3f3K97V2wiZ",
+    "id" : "4vDvKMi5Q1y3f3K97V2wiZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f35ac1cacdf67694356ea9f63ea3ca42df346699",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b91cb6b9fe506720d36dd1e46a3d960646b46c21",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/85fde03f000a8dffcfd40a5d2425bc3e1b9f9857",
+      "width" : 64
+    } ],
+    "name" : "Hate Crew Deathroll (US Editiion)",
+    "type" : "album",
+    "uri" : "spotify:album:4vDvKMi5Q1y3f3K97V2wiZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1xUhNgw4eJDZfvumIpcz1B",
+    "id" : "1xUhNgw4eJDZfvumIpcz1B",
+    "name" : "Children Of Bodom",
+    "type" : "artist",
+    "uri" : "spotify:artist:1xUhNgw4eJDZfvumIpcz1B"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 248600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FISFS0200063"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0rAWoExDCUNMfp85ZLsv5W"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0rAWoExDCUNMfp85ZLsv5W",
+  "id" : "0rAWoExDCUNMfp85ZLsv5W",
+  "name" : "Needled 24 / 7",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/032251f7f5e768d058fc69ee1eb299b9faf21170?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0rAWoExDCUNMfp85ZLsv5W"
+}

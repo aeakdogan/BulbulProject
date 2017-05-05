@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3",
+      "id" : "25KNo5GDS6ZpLkjasaecA3",
+      "name" : "Thievery Corporation",
+      "type" : "artist",
+      "uri" : "spotify:artist:25KNo5GDS6ZpLkjasaecA3"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2CPYbHU0udS9tbx8PmBEV2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2CPYbHU0udS9tbx8PmBEV2",
+    "id" : "2CPYbHU0udS9tbx8PmBEV2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/49f5a723a54e5b9f4dc28cf34437537a76c167cc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/77563e9f3d37c3bc202740834f2bbada40813e1f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9e2ec0ababe1ca117035c5fec1153c8e0c13f5a8",
+      "width" : 64
+    } ],
+    "name" : "The Mirror Conspiracy",
+    "type" : "album",
+    "uri" : "spotify:album:2CPYbHU0udS9tbx8PmBEV2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/25KNo5GDS6ZpLkjasaecA3",
+    "id" : "25KNo5GDS6ZpLkjasaecA3",
+    "name" : "Thievery Corporation",
+    "type" : "artist",
+    "uri" : "spotify:artist:25KNo5GDS6ZpLkjasaecA3"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 288826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USESL0003304"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/66KcXPDs1hr8T06KvlJCeA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/66KcXPDs1hr8T06KvlJCeA",
+  "id" : "66KcXPDs1hr8T06KvlJCeA",
+  "name" : "Lebanese Blonde",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/74f8c264347d366ea0e2bdf3fb18b34eb9a51a44?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:66KcXPDs1hr8T06KvlJCeA"
+}

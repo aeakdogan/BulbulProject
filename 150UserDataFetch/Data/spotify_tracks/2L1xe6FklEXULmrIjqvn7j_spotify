@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6kYiz4aVwBcl4AKjGk7qml"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6kYiz4aVwBcl4AKjGk7qml",
+    "id" : "6kYiz4aVwBcl4AKjGk7qml",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/de8029ca9bb9e9f8537da6afbd2a276a03de3d39",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3017c5d77148427edeebdf7fadd0d66a6d87f70c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/085edc9913c201f6ec44a7996d3082237262d560",
+      "width" : 64
+    } ],
+    "name" : "Rejoice - Christian Jazz",
+    "type" : "album",
+    "uri" : "spotify:album:6kYiz4aVwBcl4AKjGk7qml"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6S2Z1CQtNE0SI0ExCD7DAV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6S2Z1CQtNE0SI0ExCD7DAV",
+    "id" : "6S2Z1CQtNE0SI0ExCD7DAV",
+    "name" : "Inner Shade",
+    "type" : "artist",
+    "uri" : "spotify:artist:6S2Z1CQtNE0SI0ExCD7DAV"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 436035,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMTR21300010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2L1xe6FklEXULmrIjqvn7j"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2L1xe6FklEXULmrIjqvn7j",
+  "id" : "2L1xe6FklEXULmrIjqvn7j",
+  "name" : "Heaven",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fdb458196fc2a79c1b2118e8a8d36fcc8fabe053?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2L1xe6FklEXULmrIjqvn7j"
+}

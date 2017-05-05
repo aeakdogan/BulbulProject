@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3K0BfjMh2dS8WITuiMuGGW",
+      "id" : "3K0BfjMh2dS8WITuiMuGGW",
+      "name" : "Lizz Wright",
+      "type" : "artist",
+      "uri" : "spotify:artist:3K0BfjMh2dS8WITuiMuGGW"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
+    },
+    "href" : "https://api.spotify.com/v1/albums/72kU4Ko701eDu4wWDBSrks",
+    "id" : "72kU4Ko701eDu4wWDBSrks",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/84701ede764c8393fef361cbee1feda4f4ae4f55",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/ae3e80bd4ad8be17dedd05b21a4accbc6a731b18",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fb69c83d6d2d1d498cb136753c43781f0d58a3e6",
+      "width" : 64
+    } ],
+    "name" : "Dreaming Wide Awake",
+    "type" : "album",
+    "uri" : "spotify:album:72kU4Ko701eDu4wWDBSrks"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3K0BfjMh2dS8WITuiMuGGW",
+    "id" : "3K0BfjMh2dS8WITuiMuGGW",
+    "name" : "Lizz Wright",
+    "type" : "artist",
+    "uri" : "spotify:artist:3K0BfjMh2dS8WITuiMuGGW"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 210520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGR10500426"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5xfRRvZe2OqiU4sXcUUUZ9",
+  "id" : "5xfRRvZe2OqiU4sXcUUUZ9",
+  "name" : "Hit The Ground",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1bd8f5f55e95a884c171460f21e71d230ece6197?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5xfRRvZe2OqiU4sXcUUUZ9"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5bDxAyJiTYBat1YnFJhvEK",
+      "id" : "5bDxAyJiTYBat1YnFJhvEK",
+      "name" : "Joe Walsh",
+      "type" : "artist",
+      "uri" : "spotify:artist:5bDxAyJiTYBat1YnFJhvEK"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1foykGRSSGMBwBEvxbTbrZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1foykGRSSGMBwBEvxbTbrZ",
+    "id" : "1foykGRSSGMBwBEvxbTbrZ",
+    "images" : [ {
+      "height" : 626,
+      "url" : "https://i.scdn.co/image/54d2d40a4cd3b2de8dba93dcf45d378d7366d7b0",
+      "width" : 640
+    }, {
+      "height" : 294,
+      "url" : "https://i.scdn.co/image/b074e9dfdfe33764063ec310f53785267572a084",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/df95d83a3345003e1e728d49b4c091c986e8d72f",
+      "width" : 64
+    } ],
+    "name" : "Rocky Mountain Way",
+    "type" : "album",
+    "uri" : "spotify:album:1foykGRSSGMBwBEvxbTbrZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5bDxAyJiTYBat1YnFJhvEK",
+    "id" : "5bDxAyJiTYBat1YnFJhvEK",
+    "name" : "Joe Walsh",
+    "type" : "artist",
+    "uri" : "spotify:artist:5bDxAyJiTYBat1YnFJhvEK"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 190933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC17346597"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2LAgUdnODEsCbZnAkk8ctE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2LAgUdnODEsCbZnAkk8ctE",
+  "id" : "2LAgUdnODEsCbZnAkk8ctE",
+  "name" : "Wolf",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/927a838a2f22dd5990ffba73169459264d233809?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2LAgUdnODEsCbZnAkk8ctE"
+}

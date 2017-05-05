@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW",
+      "id" : "2ZvrvbQNrHKwjT7qfGFFUW",
+      "name" : "Herbie Hancock",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/67PT7U66Ql5HXNf5hP5zzC",
+    "id" : "67PT7U66Ql5HXNf5hP5zzC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7536fd3ddc7f7eeaae320c289ae1136036edb79a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2c30a6d3226d7e2d660f258c6e2e3acdbc72fe64",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f4bcc4128d8ab42c89d556b7eb00fb159a858450",
+      "width" : 64
+    } ],
+    "name" : "Sunlight",
+    "type" : "album",
+    "uri" : "spotify:album:67PT7U66Ql5HXNf5hP5zzC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW",
+    "id" : "2ZvrvbQNrHKwjT7qfGFFUW",
+    "name" : "Herbie Hancock",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 429933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10019860"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ct0HRAVCM1VmaZ0UTP96x"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ct0HRAVCM1VmaZ0UTP96x",
+  "id" : "2ct0HRAVCM1VmaZ0UTP96x",
+  "name" : "Sunlight",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/16d58d0480037a725277bd92ff4dab4301835248?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2ct0HRAVCM1VmaZ0UTP96x"
+}

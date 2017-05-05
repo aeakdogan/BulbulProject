@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3bBWKHfpepPOychRNFzg4q",
+      "id" : "3bBWKHfpepPOychRNFzg4q",
+      "name" : "Al Di Meola",
+      "type" : "artist",
+      "uri" : "spotify:artist:3bBWKHfpepPOychRNFzg4q"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2aZJ2ficY62PipHzQRJ7IK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2aZJ2ficY62PipHzQRJ7IK",
+    "id" : "2aZJ2ficY62PipHzQRJ7IK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dc317c9696ebae40dd8713a968b06f8d36ff16bc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7c1fd014849857758d20f80a8c2ed49ecd1df1ba",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1084baa8a47f51ffb4a218eedb8dff30de8d2c1f",
+      "width" : 64
+    } ],
+    "name" : "Elegant Gypsy",
+    "type" : "album",
+    "uri" : "spotify:album:2aZJ2ficY62PipHzQRJ7IK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3bBWKHfpepPOychRNFzg4q",
+    "id" : "3bBWKHfpepPOychRNFzg4q",
+    "name" : "Al Di Meola",
+    "type" : "artist",
+    "uri" : "spotify:artist:3bBWKHfpepPOychRNFzg4q"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 436600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19906487"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2BiueR07VGUbxGTjp9q9fA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2BiueR07VGUbxGTjp9q9fA",
+  "id" : "2BiueR07VGUbxGTjp9q9fA",
+  "name" : "Flight Over Rio",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5ce86206ec67f907f69f8e8c57327f43f916da04?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2BiueR07VGUbxGTjp9q9fA"
+}

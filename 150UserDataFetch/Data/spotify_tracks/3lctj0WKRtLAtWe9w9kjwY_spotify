@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6kIKelbTTvno4eox4grwOG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6kIKelbTTvno4eox4grwOG",
+    "id" : "6kIKelbTTvno4eox4grwOG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/776d78864242899c453b8fa0931a6f25fda444f8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/eab8f04c7242fd5e027a733d8e075f0cdab827fb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/95f01884414d3f3c20ace594fa7624c718f68cf7",
+      "width" : 64
+    } ],
+    "name" : "Strictly The Best Vol. 39",
+    "type" : "album",
+    "uri" : "spotify:album:6kIKelbTTvno4eox4grwOG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/22099GssG7Ood0d5UIh2wo",
+    "id" : "22099GssG7Ood0d5UIh2wo",
+    "name" : "Serani",
+    "type" : "artist",
+    "uri" : "spotify:artist:22099GssG7Ood0d5UIh2wo"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 188320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVPR0814911"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3lctj0WKRtLAtWe9w9kjwY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3lctj0WKRtLAtWe9w9kjwY",
+  "id" : "3lctj0WKRtLAtWe9w9kjwY",
+  "name" : "Playing Games",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/460cfe2bfd728fc853a71090d10b5884e2d5600a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3lctj0WKRtLAtWe9w9kjwY"
+}

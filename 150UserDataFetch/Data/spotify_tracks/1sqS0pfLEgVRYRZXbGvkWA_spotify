@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/38uWD5h115pdz278q4rwZW",
+      "id" : "38uWD5h115pdz278q4rwZW",
+      "name" : "Soen",
+      "type" : "artist",
+      "uri" : "spotify:artist:38uWD5h115pdz278q4rwZW"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/37wjgRptAoLieHVbQX5326"
+    },
+    "href" : "https://api.spotify.com/v1/albums/37wjgRptAoLieHVbQX5326",
+    "id" : "37wjgRptAoLieHVbQX5326",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d33a576d36f75d5a5e1a8e2b4e78f152e59eaf34",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f91239d7eaf905fe856cd146fadce690e725e4f0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b0d3d450b3c6a2971ac209a297141994b07fc822",
+      "width" : 64
+    } ],
+    "name" : "Cognitive",
+    "type" : "album",
+    "uri" : "spotify:album:37wjgRptAoLieHVbQX5326"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/38uWD5h115pdz278q4rwZW",
+    "id" : "38uWD5h115pdz278q4rwZW",
+    "name" : "Soen",
+    "type" : "artist",
+    "uri" : "spotify:artist:38uWD5h115pdz278q4rwZW"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 409813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FIUM71101374"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1sqS0pfLEgVRYRZXbGvkWA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1sqS0pfLEgVRYRZXbGvkWA",
+  "id" : "1sqS0pfLEgVRYRZXbGvkWA",
+  "name" : "Oscillation",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b7591ac357502a14245895c50c4fa8fae4e3adc9?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1sqS0pfLEgVRYRZXbGvkWA"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0x83OBqixqdCHnStP5VMcn",
+      "id" : "0x83OBqixqdCHnStP5VMcn",
+      "name" : "The Shirelles",
+      "type" : "artist",
+      "uri" : "spotify:artist:0x83OBqixqdCHnStP5VMcn"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "DK", "ES", "FI", "GR", "ID", "IS", "MX", "MY", "NO", "PE", "PH", "PT", "PY", "SE", "SG", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/70gDHlCYONYFiaHZj98hLY",
+    "id" : "70gDHlCYONYFiaHZj98hLY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2d8ffa9283f6e7e85b68ff68d50c25b00a236fae",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/257b162ecabd36c3bf7a34e4ba1efe1cbed890f6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e2438c7bb7f9faa79e558e2f700267cd43f21a97",
+      "width" : 64
+    } ],
+    "name" : "Because I Said So (Music From And Inspired By The Motion Picture)",
+    "type" : "album",
+    "uri" : "spotify:album:70gDHlCYONYFiaHZj98hLY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0x83OBqixqdCHnStP5VMcn",
+    "id" : "0x83OBqixqdCHnStP5VMcn",
+    "name" : "The Shirelles",
+    "type" : "artist",
+    "uri" : "spotify:artist:0x83OBqixqdCHnStP5VMcn"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "DK", "ES", "FI", "GR", "ID", "IS", "MX", "MY", "NO", "PE", "PH", "PT", "PY", "SE", "SG", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 130892,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGMP0700003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5sGeyWYDvUIF7QjERNCY7L",
+  "id" : "5sGeyWYDvUIF7QjERNCY7L",
+  "name" : "Mama Said",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c59c617ebc725fed535fd0e0a6b550d13eeeb7c3?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5sGeyWYDvUIF7QjERNCY7L"
+}

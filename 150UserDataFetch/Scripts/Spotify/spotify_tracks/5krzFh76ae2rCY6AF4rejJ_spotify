@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5GLeyUhj8B8f5pJxqZllKl",
+      "id" : "5GLeyUhj8B8f5pJxqZllKl",
+      "name" : "Doro",
+      "type" : "artist",
+      "uri" : "spotify:artist:5GLeyUhj8B8f5pJxqZllKl"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6upbA2Qgv0uWaBxaGGcYzi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6upbA2Qgv0uWaBxaGGcYzi",
+    "id" : "6upbA2Qgv0uWaBxaGGcYzi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bf3df6199f6ee55af977de5a0390e5210c3f28b0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f72bf2a09b3d1931001221253cc3f3f23851f1a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c5b7d5e69a57bc00fd7da9889c1f5eb07d8be027",
+      "width" : 64
+    } ],
+    "name" : "Calling the Wild",
+    "type" : "album",
+    "uri" : "spotify:album:6upbA2Qgv0uWaBxaGGcYzi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5GLeyUhj8B8f5pJxqZllKl",
+    "id" : "5GLeyUhj8B8f5pJxqZllKl",
+    "name" : "Doro",
+    "type" : "artist",
+    "uri" : "spotify:artist:5GLeyUhj8B8f5pJxqZllKl"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 279573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEQ121320440"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5krzFh76ae2rCY6AF4rejJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5krzFh76ae2rCY6AF4rejJ",
+  "id" : "5krzFh76ae2rCY6AF4rejJ",
+  "name" : "Scarred",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1c0a39a7c92d721bc6427c7b314d9967aa5b36fa?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5krzFh76ae2rCY6AF4rejJ"
+}

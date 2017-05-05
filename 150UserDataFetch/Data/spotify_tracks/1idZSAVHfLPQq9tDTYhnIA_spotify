@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ",
+      "id" : "3iTsJGG39nMg9YiolUgLMQ",
+      "name" : "Morrissey",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iTsJGG39nMg9YiolUgLMQ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3mKTLdYh5mS3is1LbPsB2P"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3mKTLdYh5mS3is1LbPsB2P",
+    "id" : "3mKTLdYh5mS3is1LbPsB2P",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/02c2f5c48600f7ebad52f5c5b554afed1f995ec0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dcb9a59a5e05ab2630bb33ddf46cf3cb3d853ebe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/28535bbb9d8826466711017bce80561786952699",
+      "width" : 64
+    } ],
+    "name" : "Bona Drag [Remastered]",
+    "type" : "album",
+    "uri" : "spotify:album:3mKTLdYh5mS3is1LbPsB2P"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ",
+    "id" : "3iTsJGG39nMg9YiolUgLMQ",
+    "name" : "Morrissey",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iTsJGG39nMg9YiolUgLMQ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217786,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE1000841"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1idZSAVHfLPQq9tDTYhnIA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1idZSAVHfLPQq9tDTYhnIA",
+  "id" : "1idZSAVHfLPQq9tDTYhnIA",
+  "name" : "The Last of the Famous International Playboys - 2010 Remastered Version",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7543b4ae5df123b3d1e69ae4fa495a2378d1c0fe?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1idZSAVHfLPQq9tDTYhnIA"
+}

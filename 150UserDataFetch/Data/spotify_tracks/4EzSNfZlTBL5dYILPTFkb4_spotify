@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+      },
+      "href" : "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G",
+      "id" : "62sC6lUEWRjbFqXpMmOk4G",
+      "name" : "Fugazi",
+      "type" : "artist",
+      "uri" : "spotify:artist:62sC6lUEWRjbFqXpMmOk4G"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ZnF1cPxlqB48RyLiecDnv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ZnF1cPxlqB48RyLiecDnv",
+    "id" : "3ZnF1cPxlqB48RyLiecDnv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aee3825ec10614e99f25a55bd27827781da2deb7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6c8d481d28d654e81bab2d54e782148fc20c73ac",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1a185982fcef4b4c9b22371ff234549e3b61e642",
+      "width" : 64
+    } ],
+    "name" : "Repeater",
+    "type" : "album",
+    "uri" : "spotify:album:3ZnF1cPxlqB48RyLiecDnv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+    },
+    "href" : "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G",
+    "id" : "62sC6lUEWRjbFqXpMmOk4G",
+    "name" : "Fugazi",
+    "type" : "artist",
+    "uri" : "spotify:artist:62sC6lUEWRjbFqXpMmOk4G"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 178960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US35U0404504"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4EzSNfZlTBL5dYILPTFkb4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4EzSNfZlTBL5dYILPTFkb4",
+  "id" : "4EzSNfZlTBL5dYILPTFkb4",
+  "name" : "Merchandise",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6c6da715a19adcd61132de40f87599c41d5e6db9?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4EzSNfZlTBL5dYILPTFkb4"
+}

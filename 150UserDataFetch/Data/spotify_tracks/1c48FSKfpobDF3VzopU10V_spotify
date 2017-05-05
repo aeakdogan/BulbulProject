@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O74knDqdv3XaWtkII7Xjp",
+      "id" : "6O74knDqdv3XaWtkII7Xjp",
+      "name" : "Boyz II Men",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O74knDqdv3XaWtkII7Xjp"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1aVyRcDS6m2qIyiSgCj4ge"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1aVyRcDS6m2qIyiSgCj4ge",
+    "id" : "1aVyRcDS6m2qIyiSgCj4ge",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/e2f2dc5990250fec3099e733806da9d92bea0075",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/47af518e31054b32e20a74b8bfe2be746407b0b1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/beb534d807a30df36b5c862ffbe305f4f1dd3051",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Boyz II Men 20th Century Masters The Millennium Collection",
+    "type" : "album",
+    "uri" : "spotify:album:1aVyRcDS6m2qIyiSgCj4ge"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6O74knDqdv3XaWtkII7Xjp",
+    "id" : "6O74knDqdv3XaWtkII7Xjp",
+    "name" : "Boyz II Men",
+    "type" : "artist",
+    "uri" : "spotify:artist:6O74knDqdv3XaWtkII7Xjp"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 348893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO19200465"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1c48FSKfpobDF3VzopU10V"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1c48FSKfpobDF3VzopU10V",
+  "id" : "1c48FSKfpobDF3VzopU10V",
+  "name" : "End Of The Road",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1b92f729aeff55a5b09082cfdf6db7e058977bd8?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1c48FSKfpobDF3VzopU10V"
+}

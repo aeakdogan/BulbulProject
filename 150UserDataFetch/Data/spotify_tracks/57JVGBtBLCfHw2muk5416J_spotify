@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+      "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+      "name" : "Queen",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6wPXUmYJ9mOWrKlLzZ5cCa",
+    "id" : "6wPXUmYJ9mOWrKlLzZ5cCa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f06d523c99007852e102967846374a0ed91c04c7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/386059b9eef628dea849170d67dee7b5cfb18cf2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f821ee81a8ee95cb2aad4e51da78d7e85d859410",
+      "width" : 64
+    } ],
+    "name" : "The Game (Deluxe Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:6wPXUmYJ9mOWrKlLzZ5cCa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+    "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+    "name" : "Queen",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 214653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71029605"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/57JVGBtBLCfHw2muk5416J",
+  "id" : "57JVGBtBLCfHw2muk5416J",
+  "name" : "Another One Bites The Dust",
+  "popularity" : 65,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f9df943326758f76d11f522f70f8f09db0f8ceea?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:57JVGBtBLCfHw2muk5416J"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+      "id" : "0ZXKT0FCsLWkSLCjoBJgBX",
+      "name" : "Anathema",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0iDtMGSCRdzfcWMWA0RzZz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0iDtMGSCRdzfcWMWA0RzZz",
+    "id" : "0iDtMGSCRdzfcWMWA0RzZz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/79124ef3cb6282d03247b2bc64de7b60d4e40273",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/165c8c1724ce1c571f89a31e7cebb184a8974b76",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fec254504cde681c0b4bc102ef46b8b649459eb1",
+      "width" : 64
+    } ],
+    "name" : "Hindsight",
+    "type" : "album",
+    "uri" : "spotify:album:0iDtMGSCRdzfcWMWA0RzZz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+    "id" : "0ZXKT0FCsLWkSLCjoBJgBX",
+    "name" : "Anathema",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 299906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCQV0801760"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0hLO8zWnY5NvQD21b85Bvt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0hLO8zWnY5NvQD21b85Bvt",
+  "id" : "0hLO8zWnY5NvQD21b85Bvt",
+  "name" : "Angelica",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7c40ece7050d12ab12473d95b754328cf4f98f6f?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0hLO8zWnY5NvQD21b85Bvt"
+}

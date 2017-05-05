@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5irzRcjrMrXFfQqCoDkuW5",
+      "id" : "5irzRcjrMrXFfQqCoDkuW5",
+      "name" : "Georg Levin",
+      "type" : "artist",
+      "uri" : "spotify:artist:5irzRcjrMrXFfQqCoDkuW5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/39QAh8Jz85v98cVa8WicwA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/39QAh8Jz85v98cVa8WicwA",
+    "id" : "39QAh8Jz85v98cVa8WicwA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6e5c5a6c192443733164b48aee2c70a92829fa1d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2e92b3dce58236494ded37000d5fd8942925fd70",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f97e2394f93468c2f64ddddd52b820fe4c572e3e",
+      "width" : 64
+    } ],
+    "name" : "I Got Somebody New",
+    "type" : "album",
+    "uri" : "spotify:album:39QAh8Jz85v98cVa8WicwA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5irzRcjrMrXFfQqCoDkuW5",
+    "id" : "5irzRcjrMrXFfQqCoDkuW5",
+    "name" : "Georg Levin",
+    "type" : "artist",
+    "uri" : "spotify:artist:5irzRcjrMrXFfQqCoDkuW5"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4RHulYLsymySn2JlGzyXfc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4RHulYLsymySn2JlGzyXfc",
+    "id" : "4RHulYLsymySn2JlGzyXfc",
+    "name" : "Clara Hill",
+    "type" : "artist",
+    "uri" : "spotify:artist:4RHulYLsymySn2JlGzyXfc"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 377193,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEP960205003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3TOVOYv0gqW1v1yngK9kLm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3TOVOYv0gqW1v1yngK9kLm",
+  "id" : "3TOVOYv0gqW1v1yngK9kLm",
+  "name" : "(I Got) Somebody New",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6db8ea0aeba6526de3ee447cf2bc25468e1164ea?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3TOVOYv0gqW1v1yngK9kLm"
+}

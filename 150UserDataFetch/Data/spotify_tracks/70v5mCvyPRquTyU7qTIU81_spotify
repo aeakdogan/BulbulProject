@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7pyhre5oEEFMqcgMEvJY7q",
+      "id" : "7pyhre5oEEFMqcgMEvJY7q",
+      "name" : "Sky Ferreira",
+      "type" : "artist",
+      "uri" : "spotify:artist:7pyhre5oEEFMqcgMEvJY7q"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ktookQxpwDrShMBr1U4Sf",
+    "id" : "0ktookQxpwDrShMBr1U4Sf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/86fb517c7dce23436577a5a9ffcd6fc3c6860c7c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0f6680b162d9baef1a472061d27d8712ac9c5491",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7cecc015385eac7fc54138f71f692e160c4c8663",
+      "width" : 64
+    } ],
+    "name" : "Ghost EP",
+    "type" : "album",
+    "uri" : "spotify:album:0ktookQxpwDrShMBr1U4Sf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7pyhre5oEEFMqcgMEvJY7q",
+    "id" : "7pyhre5oEEFMqcgMEvJY7q",
+    "name" : "Sky Ferreira",
+    "type" : "artist",
+    "uri" : "spotify:artist:7pyhre5oEEFMqcgMEvJY7q"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 249906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA21202535"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/70v5mCvyPRquTyU7qTIU81",
+  "id" : "70v5mCvyPRquTyU7qTIU81",
+  "name" : "Everything Is Embarrassing",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/12d58c8351d2766efbabd1559aae9b37a98016a4?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:70v5mCvyPRquTyU7qTIU81"
+}

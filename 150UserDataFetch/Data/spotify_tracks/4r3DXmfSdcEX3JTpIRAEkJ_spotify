@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0MoXIHcFwhIWnFgBfdvQ30",
+      "id" : "0MoXIHcFwhIWnFgBfdvQ30",
+      "name" : "Little Boots",
+      "type" : "artist",
+      "uri" : "spotify:artist:0MoXIHcFwhIWnFgBfdvQ30"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6hfQ4H9mS2s9h1UGtvDu5p",
+    "id" : "6hfQ4H9mS2s9h1UGtvDu5p",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/b3459ced18eed9535e1d8a624b8be6b19c88e6ef",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/48813918ed162fb7ed37fbdec52a9c3a906ea989",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7e254596eb92a1220c1521a82fa9633866f062da",
+      "width" : 64
+    } ],
+    "name" : "Hands (US)",
+    "type" : "album",
+    "uri" : "spotify:album:6hfQ4H9mS2s9h1UGtvDu5p"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0MoXIHcFwhIWnFgBfdvQ30",
+    "id" : "0MoXIHcFwhIWnFgBfdvQ30",
+    "name" : "Little Boots",
+    "type" : "artist",
+    "uri" : "spotify:artist:0MoXIHcFwhIWnFgBfdvQ30"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 269773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBFFS0900008"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4r3DXmfSdcEX3JTpIRAEkJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4r3DXmfSdcEX3JTpIRAEkJ",
+  "id" : "4r3DXmfSdcEX3JTpIRAEkJ",
+  "name" : "Symmetry",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1dd939b925b494876ac30da291e0b77fdbe9f831?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:4r3DXmfSdcEX3JTpIRAEkJ"
+}

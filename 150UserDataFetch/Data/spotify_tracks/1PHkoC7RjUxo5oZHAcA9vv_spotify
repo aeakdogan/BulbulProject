@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BDyPnpEAyd6kFM1Wgpdgz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3BDyPnpEAyd6kFM1Wgpdgz",
+      "id" : "3BDyPnpEAyd6kFM1Wgpdgz",
+      "name" : "Toby Lightman",
+      "type" : "artist",
+      "uri" : "spotify:artist:3BDyPnpEAyd6kFM1Wgpdgz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0JQhbjdsO6OUNwBloM6r64"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0JQhbjdsO6OUNwBloM6r64",
+    "id" : "0JQhbjdsO6OUNwBloM6r64",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1b942b093c4b9d7e258ffca0aafb1c0b37620e55",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/36fd102af9ae43e49efbcc1766045bf588e93d29",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bb14998ea9afc89bd2361b0ca89f9b7c684259e9",
+      "width" : 64
+    } ],
+    "name" : "Bird On A Wire",
+    "type" : "album",
+    "uri" : "spotify:album:0JQhbjdsO6OUNwBloM6r64"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3BDyPnpEAyd6kFM1Wgpdgz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3BDyPnpEAyd6kFM1Wgpdgz",
+    "id" : "3BDyPnpEAyd6kFM1Wgpdgz",
+    "name" : "Toby Lightman",
+    "type" : "artist",
+    "uri" : "spotify:artist:3BDyPnpEAyd6kFM1Wgpdgz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 241413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20614449"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1PHkoC7RjUxo5oZHAcA9vv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1PHkoC7RjUxo5oZHAcA9vv",
+  "id" : "1PHkoC7RjUxo5oZHAcA9vv",
+  "name" : "My Sweet Song",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ab695e1703ac28da835866c046f6e831c446ae06?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1PHkoC7RjUxo5oZHAcA9vv"
+}

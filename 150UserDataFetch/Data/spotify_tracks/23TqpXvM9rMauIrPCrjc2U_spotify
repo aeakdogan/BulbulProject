@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yMqxge3rOuzpKVIoSQToG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yMqxge3rOuzpKVIoSQToG",
+      "id" : "7yMqxge3rOuzpKVIoSQToG",
+      "name" : "Ritchie Blackmore's Rainbow",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yMqxge3rOuzpKVIoSQToG"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3RjcT9VuVAJhNMO5sAUezP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3RjcT9VuVAJhNMO5sAUezP",
+    "id" : "3RjcT9VuVAJhNMO5sAUezP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/47b202c45bded84e92ba99faa6fa72bd93c4e6ae",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3bf68a3ad68745bb213ec327efe7612bf05db06b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/53bbe534aeedcd7831723964ca18c4dafa37c2ad",
+      "width" : 64
+    } ],
+    "name" : "Black Masquerade (Live At Philipshalle,Dusseldorf,Germany/1995)",
+    "type" : "album",
+    "uri" : "spotify:album:3RjcT9VuVAJhNMO5sAUezP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7yMqxge3rOuzpKVIoSQToG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7yMqxge3rOuzpKVIoSQToG",
+    "id" : "7yMqxge3rOuzpKVIoSQToG",
+    "name" : "Ritchie Blackmore's Rainbow",
+    "type" : "artist",
+    "uri" : "spotify:artist:7yMqxge3rOuzpKVIoSQToG"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 384120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCBR1300190"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/23TqpXvM9rMauIrPCrjc2U"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/23TqpXvM9rMauIrPCrjc2U",
+  "id" : "23TqpXvM9rMauIrPCrjc2U",
+  "name" : "Wolf To The Moon / Difficult To Cure - Live At Philipshalle,Dusseldorf,Germany/1995",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4791fb0665439764a7d04575df151136739afb8d?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:23TqpXvM9rMauIrPCrjc2U"
+}

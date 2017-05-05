@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ICflSq6ZgYAIrm2CTkfVP",
+      "id" : "3ICflSq6ZgYAIrm2CTkfVP",
+      "name" : "The Animals",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ICflSq6ZgYAIrm2CTkfVP"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Xwkx2TLFwRcoK0OWQ0Msa",
+    "id" : "0Xwkx2TLFwRcoK0OWQ0Msa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/86a195ab3eedb3d38a41a6ca022aeff8e470a740",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3d4c209a141cb5d0bf846b149c06c11be192cca2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f3d81056f8ebe95f41ed063249f24f350704450f",
+      "width" : 64
+    } ],
+    "name" : "The Animals",
+    "type" : "album",
+    "uri" : "spotify:album:0Xwkx2TLFwRcoK0OWQ0Msa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3ICflSq6ZgYAIrm2CTkfVP",
+    "id" : "3ICflSq6ZgYAIrm2CTkfVP",
+    "name" : "The Animals",
+    "type" : "artist",
+    "uri" : "spotify:artist:3ICflSq6ZgYAIrm2CTkfVP"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 271280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA176460010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7BY005dacJkbO6EPiOh2wb",
+  "id" : "7BY005dacJkbO6EPiOh2wb",
+  "name" : "House Of The Rising Sun",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/119bbcc0eb614191a1d0ee465decc0883b7bdaba?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7BY005dacJkbO6EPiOh2wb"
+}

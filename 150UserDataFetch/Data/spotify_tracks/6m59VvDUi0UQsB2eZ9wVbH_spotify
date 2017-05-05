@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2zFZiWQJFFshzojycnXoTL",
+      "id" : "2zFZiWQJFFshzojycnXoTL",
+      "name" : "Bell Biv DeVoe",
+      "type" : "artist",
+      "uri" : "spotify:artist:2zFZiWQJFFshzojycnXoTL"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6H5mxGUWguDjtQ4Uzd8veD",
+    "id" : "6H5mxGUWguDjtQ4Uzd8veD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1c358ea3556f0524ddfb4568c8b29b7a77e1ea44",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6e793553eca8e040226ae9f97fc008e4a523a73b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b4e0e43f56fd35b84f08a2698df09ae3fcb14732",
+      "width" : 64
+    } ],
+    "name" : "Poison",
+    "type" : "album",
+    "uri" : "spotify:album:6H5mxGUWguDjtQ4Uzd8veD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2zFZiWQJFFshzojycnXoTL",
+    "id" : "2zFZiWQJFFshzojycnXoTL",
+    "name" : "Bell Biv DeVoe",
+    "type" : "artist",
+    "uri" : "spotify:artist:2zFZiWQJFFshzojycnXoTL"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 261853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC19031167"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6m59VvDUi0UQsB2eZ9wVbH",
+  "id" : "6m59VvDUi0UQsB2eZ9wVbH",
+  "name" : "Poison",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fe743c1e5a9533c71c10570a6cbe4058ce666897?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6m59VvDUi0UQsB2eZ9wVbH"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KVc8Llznru8n9LVCYe9dz",
+      "id" : "6KVc8Llznru8n9LVCYe9dz",
+      "name" : "Death Angel",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KVc8Llznru8n9LVCYe9dz"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5bvhWVBSd1p6hBm5EIJ5Ps"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5bvhWVBSd1p6hBm5EIJ5Ps",
+    "id" : "5bvhWVBSd1p6hBm5EIJ5Ps",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/924077b6883c6fc359b1324d40a469a1a95ca56d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/82bc90af2d00c8a7505f924d10f572cb82610f45",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3bc7f671b789eb508e914a40db3805da0e7babdb",
+      "width" : 64
+    } ],
+    "name" : "Relentless Retribution",
+    "type" : "album",
+    "uri" : "spotify:album:5bvhWVBSd1p6hBm5EIJ5Ps"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6KVc8Llznru8n9LVCYe9dz",
+    "id" : "6KVc8Llznru8n9LVCYe9dz",
+    "name" : "Death Angel",
+    "type" : "artist",
+    "uri" : "spotify:artist:6KVc8Llznru8n9LVCYe9dz"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 268400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DED831000530"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7gN0dtuR8HWynCfDV6crfd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7gN0dtuR8HWynCfDV6crfd",
+  "id" : "7gN0dtuR8HWynCfDV6crfd",
+  "name" : "Relentless Revolution",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f1128dc6644527016bd7630572c1a5338acf98fa?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7gN0dtuR8HWynCfDV6crfd"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+      "id" : "6mdiAmATAx73kdxrNrnlao",
+      "name" : "Iron Maiden",
+      "type" : "artist",
+      "uri" : "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2oAIxgnUm9wcf9Nz0oC9tt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2oAIxgnUm9wcf9Nz0oC9tt",
+    "id" : "2oAIxgnUm9wcf9Nz0oC9tt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fd6f0f1ec34b3e9b442daba4140bd183a31e69a6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/61bfc1e668e251ecd6dc763dca375234973536b2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1fac3d0097848110432d97c12ef4db5031b9eb38",
+      "width" : 64
+    } ],
+    "name" : "Seventh Son of a Seventh Son (1998 Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:2oAIxgnUm9wcf9Nz0oC9tt"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+    "id" : "6mdiAmATAx73kdxrNrnlao",
+    "name" : "Iron Maiden",
+    "type" : "artist",
+    "uri" : "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 266973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSMA0108333"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7IeCoyKqeXxsxOieua6uaW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7IeCoyKqeXxsxOieua6uaW",
+  "id" : "7IeCoyKqeXxsxOieua6uaW",
+  "name" : "The Clairvoyant - 1998 Remastered Edition",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/10195d1223ebf1c7caf38aee756d684484691756?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:7IeCoyKqeXxsxOieua6uaW"
+}

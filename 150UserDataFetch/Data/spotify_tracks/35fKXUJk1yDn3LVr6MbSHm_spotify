@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+      },
+      "href" : "https://api.spotify.com/v1/artists/00sazWvoTLOqg5MFwC68Um",
+      "id" : "00sazWvoTLOqg5MFwC68Um",
+      "name" : "Yann Tiersen",
+      "type" : "artist",
+      "uri" : "spotify:artist:00sazWvoTLOqg5MFwC68Um"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Xk1BYolSr352WvpfwWLZq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Xk1BYolSr352WvpfwWLZq",
+    "id" : "6Xk1BYolSr352WvpfwWLZq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5a3cd507b049a9a45d918a7f0dbd6cd67c200a82",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ce33be1c22c8fe3a687b24a8bfd3ee63cd71d77b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/66e16d1cc144d27428a96e2947a069d303573fb6",
+      "width" : 64
+    } ],
+    "name" : "Goodbye Lenin !",
+    "type" : "album",
+    "uri" : "spotify:album:6Xk1BYolSr352WvpfwWLZq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+    },
+    "href" : "https://api.spotify.com/v1/artists/00sazWvoTLOqg5MFwC68Um",
+    "id" : "00sazWvoTLOqg5MFwC68Um",
+    "name" : "Yann Tiersen",
+    "type" : "artist",
+    "uri" : "spotify:artist:00sazWvoTLOqg5MFwC68Um"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 88546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRS940200080"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/35fKXUJk1yDn3LVr6MbSHm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/35fKXUJk1yDn3LVr6MbSHm",
+  "id" : "35fKXUJk1yDn3LVr6MbSHm",
+  "name" : "Mother's Journey",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/12efcbeca65ba066b969bd2decd48fe279ce848a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:35fKXUJk1yDn3LVr6MbSHm"
+}

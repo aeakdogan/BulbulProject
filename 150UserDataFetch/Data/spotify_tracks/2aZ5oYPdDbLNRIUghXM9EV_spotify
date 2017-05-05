@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2v5ISZSv7ULCeQUT7x8G5B"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2v5ISZSv7ULCeQUT7x8G5B",
+    "id" : "2v5ISZSv7ULCeQUT7x8G5B",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/79fbf939ef2f3a5c86ca3a700b188cab72816d77",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/32697fe1fa0f6d21edd9cce43ad321a537c17a62",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e9adda328b78cc1d79f613a5eb82c2f74795057b",
+      "width" : 64
+    } ],
+    "name" : "How To Lose A Guy In 10 Days: Music From The Motion Picture",
+    "type" : "album",
+    "uri" : "spotify:album:2v5ISZSv7ULCeQUT7x8G5B"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0lJlKQvuM2Sd9DPPyUXcHg",
+    "id" : "0lJlKQvuM2Sd9DPPyUXcHg",
+    "name" : "Sixpence None The Richer",
+    "type" : "artist",
+    "uri" : "spotify:artist:0lJlKQvuM2Sd9DPPyUXcHg"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 199093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNPD0901157"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2aZ5oYPdDbLNRIUghXM9EV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2aZ5oYPdDbLNRIUghXM9EV",
+  "id" : "2aZ5oYPdDbLNRIUghXM9EV",
+  "name" : "Kiss Me",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/40bae3281315bb47e08ac7d53525005a375d5ef0?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2aZ5oYPdDbLNRIUghXM9EV"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39g75EmRFeFbvHhsGjUpLU",
+      "id" : "39g75EmRFeFbvHhsGjUpLU",
+      "name" : "Amp Fiddler",
+      "type" : "artist",
+      "uri" : "spotify:artist:39g75EmRFeFbvHhsGjUpLU"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6O0AJzhu5hiJaKPoyISUEd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6O0AJzhu5hiJaKPoyISUEd",
+    "id" : "6O0AJzhu5hiJaKPoyISUEd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7297a795d6ca50b566f18a5ab89820b2ce8d380a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d8c4bfff4ce5a614593453b1f6956db5ff3675b2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/046b0b3b76c164ceabba8375976abae10746f026",
+      "width" : 64
+    } ],
+    "name" : "Waltz of a Ghetto Fly",
+    "type" : "album",
+    "uri" : "spotify:album:6O0AJzhu5hiJaKPoyISUEd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/39g75EmRFeFbvHhsGjUpLU",
+    "id" : "39g75EmRFeFbvHhsGjUpLU",
+    "name" : "Amp Fiddler",
+    "type" : "artist",
+    "uri" : "spotify:artist:39g75EmRFeFbvHhsGjUpLU"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBENL0300152"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5pfqMhNakAqNUKaCx84AtY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5pfqMhNakAqNUKaCx84AtY",
+  "id" : "5pfqMhNakAqNUKaCx84AtY",
+  "name" : "Possibilities",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/72d47fa57ffa9337f657c44e07d10a3026137313?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5pfqMhNakAqNUKaCx84AtY"
+}

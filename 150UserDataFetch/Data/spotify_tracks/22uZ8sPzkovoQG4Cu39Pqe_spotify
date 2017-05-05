@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/55gWsPvY3OHsZAnnQcOhI0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/55gWsPvY3OHsZAnnQcOhI0",
+    "id" : "55gWsPvY3OHsZAnnQcOhI0",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/cb556029696a02e62185bb9ec1c3e065fe722ec3",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/2db9a5c3f34f342bee96f971ca571f93e5aced79",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d46ca58a6b3f4fdc8d8b6983f63024c7e2a9daf9",
+      "width" : 64
+    } ],
+    "name" : "Vol. 3... Life And Times Of S. Carter",
+    "type" : "album",
+    "uri" : "spotify:album:55gWsPvY3OHsZAnnQcOhI0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+    "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+    "name" : "JAY Z",
+    "type" : "artist",
+    "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6ZhjJOJXXwnPS8PrXdmjLw",
+    "id" : "6ZhjJOJXXwnPS8PrXdmjLw",
+    "name" : "UGK",
+    "type" : "artist",
+    "uri" : "spotify:artist:6ZhjJOJXXwnPS8PrXdmjLw"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 284640,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USDJ29905922"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/22uZ8sPzkovoQG4Cu39Pqe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/22uZ8sPzkovoQG4Cu39Pqe",
+  "id" : "22uZ8sPzkovoQG4Cu39Pqe",
+  "name" : "Big Pimpin'",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f3e9a4b949feb8bd3434c576ac9db944d198c709?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:22uZ8sPzkovoQG4Cu39Pqe"
+}

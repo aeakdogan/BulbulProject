@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1rJkz5vopfGxTUGFNB3o4G",
+      "id" : "1rJkz5vopfGxTUGFNB3o4G",
+      "name" : "Quasimoto",
+      "type" : "artist",
+      "uri" : "spotify:artist:1rJkz5vopfGxTUGFNB3o4G"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4agl0ZyryLLe07nhSOaKvE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4agl0ZyryLLe07nhSOaKvE",
+    "id" : "4agl0ZyryLLe07nhSOaKvE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aea6d4562d1205ce849ebeaae3108521cf36a4dc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/39dd9478558c960892e38369727f912691da8ef0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/df5f9d75177e953a237b2a4769320d66d5ed41b1",
+      "width" : 64
+    } ],
+    "name" : "The Unseen",
+    "type" : "album",
+    "uri" : "spotify:album:4agl0ZyryLLe07nhSOaKvE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1rJkz5vopfGxTUGFNB3o4G",
+    "id" : "1rJkz5vopfGxTUGFNB3o4G",
+    "name" : "Quasimoto",
+    "type" : "artist",
+    "uri" : "spotify:artist:1rJkz5vopfGxTUGFNB3o4G"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 116093,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "US2S70425002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1QqWs2EkdBSO2MtAChiJp3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1QqWs2EkdBSO2MtAChiJp3",
+  "id" : "1QqWs2EkdBSO2MtAChiJp3",
+  "name" : "Bad Character",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7a3a0e28f61d1bf7ef90939a6a61130aca467ec6?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1QqWs2EkdBSO2MtAChiJp3"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vdr7WnqTfEEPjKJsNrlgY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vdr7WnqTfEEPjKJsNrlgY",
+      "id" : "6vdr7WnqTfEEPjKJsNrlgY",
+      "name" : "Kat Frankie",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vdr7WnqTfEEPjKJsNrlgY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4M6LZppwZeFEuZJOMsSFsu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4M6LZppwZeFEuZJOMsSFsu",
+    "id" : "4M6LZppwZeFEuZJOMsSFsu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/65f44a9bc0e319ff922b092710a6dfd2e298e0e0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a2c87687564ab092b02ebaec0eaa5ea961fbd4e8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8f0d4ed1183ca594d2f99af3dd1f405cf26d7ac3",
+      "width" : 64
+    } ],
+    "name" : "Please Don't Give Me What I Want",
+    "type" : "album",
+    "uri" : "spotify:album:4M6LZppwZeFEuZJOMsSFsu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6vdr7WnqTfEEPjKJsNrlgY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6vdr7WnqTfEEPjKJsNrlgY",
+    "id" : "6vdr7WnqTfEEPjKJsNrlgY",
+    "name" : "Kat Frankie",
+    "type" : "artist",
+    "uri" : "spotify:artist:6vdr7WnqTfEEPjKJsNrlgY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 339973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DENO61200017"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2LYXIEZ8FWp57paEfkZGM5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2LYXIEZ8FWp57paEfkZGM5",
+  "id" : "2LYXIEZ8FWp57paEfkZGM5",
+  "name" : "Requiem for a Queen",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1a9f19d910c51f042be9e227b2dfae02a4d37334?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2LYXIEZ8FWp57paEfkZGM5"
+}

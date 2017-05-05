@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+      "id" : "12VaqyEhgwDRuFfEqbnrpz",
+      "name" : "PJ Harvey",
+      "type" : "artist",
+      "uri" : "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7rLxTVDdzHzK6SXUOOyG6G"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7rLxTVDdzHzK6SXUOOyG6G",
+    "id" : "7rLxTVDdzHzK6SXUOOyG6G",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/153b183bbb3b0e4d409d53a3e25d9945adfb23e2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5bb7be423ae94b097f4fb01b4bf761da8881f56f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7de16b96a5c59fe2d423d11f683e76b976c2973c",
+      "width" : 64
+    } ],
+    "name" : "Let England Shake",
+    "type" : "album",
+    "uri" : "spotify:album:7rLxTVDdzHzK6SXUOOyG6G"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+    "id" : "12VaqyEhgwDRuFfEqbnrpz",
+    "name" : "PJ Harvey",
+    "type" : "artist",
+    "uri" : "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 339880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71027776"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1nMoxwBt2Tt7I7NDdlWJ5m"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1nMoxwBt2Tt7I7NDdlWJ5m",
+  "id" : "1nMoxwBt2Tt7I7NDdlWJ5m",
+  "name" : "All & Everyone",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ad633c54aa4cac87423d56392ed991e33ad88826?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1nMoxwBt2Tt7I7NDdlWJ5m"
+}

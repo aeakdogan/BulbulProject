@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Q6PVXflC7LKN42bYupRJQ",
+      "id" : "5Q6PVXflC7LKN42bYupRJQ",
+      "name" : "Chris Connor",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Q6PVXflC7LKN42bYupRJQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LDsRYrwE8HuAv2aAmFMmj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LDsRYrwE8HuAv2aAmFMmj",
+      "id" : "4LDsRYrwE8HuAv2aAmFMmj",
+      "name" : "Ellis Larken Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LDsRYrwE8HuAv2aAmFMmj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3u52JMVyo2xHvi9FXzczRN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3u52JMVyo2xHvi9FXzczRN",
+    "id" : "3u52JMVyo2xHvi9FXzczRN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/549141450ab5f68214028bddcf17bff9bbe3bd7f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e4a19ace40a939a35266c1ccd896d6148a92ed9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/15f93e9b3ce984a38dd36e836b030015e18e9232",
+      "width" : 64
+    } ],
+    "name" : "Lullabys of Birdland (Remastered 2014)",
+    "type" : "album",
+    "uri" : "spotify:album:3u52JMVyo2xHvi9FXzczRN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Q6PVXflC7LKN42bYupRJQ",
+    "id" : "5Q6PVXflC7LKN42bYupRJQ",
+    "name" : "Chris Connor",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Q6PVXflC7LKN42bYupRJQ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4LDsRYrwE8HuAv2aAmFMmj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4LDsRYrwE8HuAv2aAmFMmj",
+    "id" : "4LDsRYrwE8HuAv2aAmFMmj",
+    "name" : "Ellis Larken Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:4LDsRYrwE8HuAv2aAmFMmj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 135015,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMSGD1470102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1vKLEe3jloQkweKfQR3zvm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1vKLEe3jloQkweKfQR3zvm",
+  "id" : "1vKLEe3jloQkweKfQR3zvm",
+  "name" : "I Hear Music",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ac98d55ce8fd80f1d47686b0178dae57791b8554?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1vKLEe3jloQkweKfQR3zvm"
+}

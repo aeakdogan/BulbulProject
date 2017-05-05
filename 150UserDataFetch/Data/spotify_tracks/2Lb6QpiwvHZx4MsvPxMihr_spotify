@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0V4fAktrp2psvXpQb2KSWh",
+      "id" : "0V4fAktrp2psvXpQb2KSWh",
+      "name" : "United Future Organization",
+      "type" : "artist",
+      "uri" : "spotify:artist:0V4fAktrp2psvXpQb2KSWh"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4l2xHa0HT1K28djKys4eaS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4l2xHa0HT1K28djKys4eaS",
+    "id" : "4l2xHa0HT1K28djKys4eaS",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/42030cea3bcb57c1bb540df300c7e1d839701cba",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/e2bc3bd112c00dd11a53fced4512e90d52129a34",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/782b84c3d3b1608036069a995a0d14c0a7b9aee9",
+      "width" : 64
+    } ],
+    "name" : "3rd Perspective",
+    "type" : "album",
+    "uri" : "spotify:album:4l2xHa0HT1K28djKys4eaS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0V4fAktrp2psvXpQb2KSWh",
+    "id" : "0V4fAktrp2psvXpQb2KSWh",
+    "name" : "United Future Organization",
+    "type" : "artist",
+    "uri" : "spotify:artist:0V4fAktrp2psvXpQb2KSWh"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 266800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "JPPH09601560"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Lb6QpiwvHZx4MsvPxMihr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Lb6QpiwvHZx4MsvPxMihr",
+  "id" : "2Lb6QpiwvHZx4MsvPxMihr",
+  "name" : "The Planet Plan",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/57d591613022e210f5ef78067b48e4110979ec27?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2Lb6QpiwvHZx4MsvPxMihr"
+}

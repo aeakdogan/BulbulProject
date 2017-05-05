@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ThoqLcyIYvZn7iWbj8fsj",
+      "id" : "1ThoqLcyIYvZn7iWbj8fsj",
+      "name" : "Bill Withers",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ThoqLcyIYvZn7iWbj8fsj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/36qxAJDnXvbjD2UVAkawwZ",
+    "id" : "36qxAJDnXvbjD2UVAkawwZ",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/e60cae7960c52bdb336c2f179fba139c4c0c096e",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/2ade7bae7601fcea3cd1cac81dce557940d1b1de",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9ea9067eeea7d86aeb212f57268d42bc2d9321ad",
+      "width" : 64
+    } ],
+    "name" : "The Essential Bill Withers",
+    "type" : "album",
+    "uri" : "spotify:album:36qxAJDnXvbjD2UVAkawwZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ThoqLcyIYvZn7iWbj8fsj",
+    "id" : "1ThoqLcyIYvZn7iWbj8fsj",
+    "name" : "Bill Withers",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ThoqLcyIYvZn7iWbj8fsj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 257706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM17200461"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/20kN7bu0HMO8rIVY6tEytW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/20kN7bu0HMO8rIVY6tEytW",
+  "id" : "20kN7bu0HMO8rIVY6tEytW",
+  "name" : "Lean on Me",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0e5efaff031842d7721067fd8126a95ddba17e8a?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:20kN7bu0HMO8rIVY6tEytW"
+}

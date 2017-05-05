@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6jStlKLflTMUN6BajxrNlj",
+      "id" : "6jStlKLflTMUN6BajxrNlj",
+      "name" : "Julien Doré",
+      "type" : "artist",
+      "uri" : "spotify:artist:6jStlKLflTMUN6BajxrNlj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2it504tpH2sWxL1fJEnZa0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2it504tpH2sWxL1fJEnZa0",
+    "id" : "2it504tpH2sWxL1fJEnZa0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f816c7b6600dc266cf81c48d16c51f23f02c6baf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e97dc3fcbc28bade6bfb9b2da22e886b2c5fb861",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1a4a2ecb10d15e032df2eeda31638889597d7005",
+      "width" : 64
+    } ],
+    "name" : "Piano SØLO",
+    "type" : "album",
+    "uri" : "spotify:album:2it504tpH2sWxL1fJEnZa0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6jStlKLflTMUN6BajxrNlj",
+    "id" : "6jStlKLflTMUN6BajxrNlj",
+    "name" : "Julien Doré",
+    "type" : "artist",
+    "uri" : "spotify:artist:6jStlKLflTMUN6BajxrNlj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 225293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ051400361"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5SRkBgcY6P7gx4qxYSh0fc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5SRkBgcY6P7gx4qxYSh0fc",
+  "id" : "5SRkBgcY6P7gx4qxYSh0fc",
+  "name" : "Chou Wasabi - Piano-Voix",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/eb4b5c6cddeb7a9e4dccdaa5177c8540987eaab8?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5SRkBgcY6P7gx4qxYSh0fc"
+}

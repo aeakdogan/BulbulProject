@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+      "id" : "1Yox196W7bzVNZI7RBaPnf",
+      "name" : "Megadeth",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/208z3e7R5PgavBMdEZQcvL",
+    "id" : "208z3e7R5PgavBMdEZQcvL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8dc6cd79085f5feec329f6be34b6f9283f0fdee3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/22cb74a2c0cb6adac156c3096dfc7edbf61f4deb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/12f77e3367102519eecbfd88ac7cf380f4cf6ab8",
+      "width" : 64
+    } ],
+    "name" : "Cryptic Writings",
+    "type" : "album",
+    "uri" : "spotify:album:208z3e7R5PgavBMdEZQcvL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+    "id" : "1Yox196W7bzVNZI7RBaPnf",
+    "name" : "Megadeth",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 311533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA20400552"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5emb8RDOZtpXlw6D0eEQbz",
+  "id" : "5emb8RDOZtpXlw6D0eEQbz",
+  "name" : "Trust - 2004 Digital Remaster",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d9b25ff1674165340706e73da15ee9da038ce261?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5emb8RDOZtpXlw6D0eEQbz"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6R9Mv0bgGE4Tqxna1q5Mrj",
+      "id" : "6R9Mv0bgGE4Tqxna1q5Mrj",
+      "name" : "Roy Ayers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6R9Mv0bgGE4Tqxna1q5Mrj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2mY98rEJxCWuAH38fguwx2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2mY98rEJxCWuAH38fguwx2",
+    "id" : "2mY98rEJxCWuAH38fguwx2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8659d52d6193ce3cc221e56ac6de36180c5ab412",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/226f354ef850a80636ae1d5276ab2e890fe7653f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2aa6df0dc48171fcefea672d57fd760c66109afe",
+      "width" : 64
+    } ],
+    "name" : "Drive",
+    "type" : "album",
+    "uri" : "spotify:album:2mY98rEJxCWuAH38fguwx2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6R9Mv0bgGE4Tqxna1q5Mrj",
+    "id" : "6R9Mv0bgGE4Tqxna1q5Mrj",
+    "name" : "Roy Ayers",
+    "type" : "artist",
+    "uri" : "spotify:artist:6R9Mv0bgGE4Tqxna1q5Mrj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 232839,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2Y30625736"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6mWaJR3Wz8XcujkKd48oy6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6mWaJR3Wz8XcujkKd48oy6",
+  "id" : "6mWaJR3Wz8XcujkKd48oy6",
+  "name" : "Chicago",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8313b818e9a966473d9138a26a27ef06a0c90837?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6mWaJR3Wz8XcujkKd48oy6"
+}

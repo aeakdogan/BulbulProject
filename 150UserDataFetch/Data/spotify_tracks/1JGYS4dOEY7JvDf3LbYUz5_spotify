@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xkAwz0bQTGDSbkofyQt3U",
+      "id" : "7xkAwz0bQTGDSbkofyQt3U",
+      "name" : "Belinda Carlisle",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xkAwz0bQTGDSbkofyQt3U"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0RrHXijPCR0ma2d6hOnc3I"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0RrHXijPCR0ma2d6hOnc3I",
+    "id" : "0RrHXijPCR0ma2d6hOnc3I",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/79dcc4d8db026e6f7dbf7a484752ece37fa98b4f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ce690c58fe65067ea5d4fcaaddc4945747ccff1e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4ab4a30281d7cefb8fba663820133b2f10e9927d",
+      "width" : 64
+    } ],
+    "name" : "Runaway Horses",
+    "type" : "album",
+    "uri" : "spotify:album:0RrHXijPCR0ma2d6hOnc3I"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7xkAwz0bQTGDSbkofyQt3U",
+    "id" : "7xkAwz0bQTGDSbkofyQt3U",
+    "name" : "Belinda Carlisle",
+    "type" : "artist",
+    "uri" : "spotify:artist:7xkAwz0bQTGDSbkofyQt3U"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 283400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC19989324"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1JGYS4dOEY7JvDf3LbYUz5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1JGYS4dOEY7JvDf3LbYUz5",
+  "id" : "1JGYS4dOEY7JvDf3LbYUz5",
+  "name" : "La Luna",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/326e22610f0ba521b4495d22c9546cf0bb79df1c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1JGYS4dOEY7JvDf3LbYUz5"
+}

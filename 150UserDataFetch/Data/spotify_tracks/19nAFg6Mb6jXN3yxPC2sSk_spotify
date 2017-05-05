@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2jI9rHOuUAPJEULovOfgyB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2jI9rHOuUAPJEULovOfgyB",
+      "id" : "2jI9rHOuUAPJEULovOfgyB",
+      "name" : "Lazlo Bane",
+      "type" : "artist",
+      "uri" : "spotify:artist:2jI9rHOuUAPJEULovOfgyB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6fQWBLapwkfQviV1N4rStR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6fQWBLapwkfQviV1N4rStR",
+    "id" : "6fQWBLapwkfQviV1N4rStR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f4318dac814f66a60db52e8ed238c389fd8d4623",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ed10712943a8664f281c28016d685e18760df99d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/26112d991e3315ab782d85f186104b103742f9a4",
+      "width" : 64
+    } ],
+    "name" : "All The Time In The World",
+    "type" : "album",
+    "uri" : "spotify:album:6fQWBLapwkfQviV1N4rStR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2jI9rHOuUAPJEULovOfgyB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2jI9rHOuUAPJEULovOfgyB",
+    "id" : "2jI9rHOuUAPJEULovOfgyB",
+    "name" : "Lazlo Bane",
+    "type" : "artist",
+    "uri" : "spotify:artist:2jI9rHOuUAPJEULovOfgyB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 225080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm80427609"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/19nAFg6Mb6jXN3yxPC2sSk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/19nAFg6Mb6jXN3yxPC2sSk",
+  "id" : "19nAFg6Mb6jXN3yxPC2sSk",
+  "name" : "Superman",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/305364220df7d8c319f10524ed2a0d49360aa832?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:19nAFg6Mb6jXN3yxPC2sSk"
+}

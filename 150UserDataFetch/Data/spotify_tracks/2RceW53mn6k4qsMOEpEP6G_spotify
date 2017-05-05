@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GaPCgO5Bpa8hbTuEVCo38"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3GaPCgO5Bpa8hbTuEVCo38",
+      "id" : "3GaPCgO5Bpa8hbTuEVCo38",
+      "name" : "Logh",
+      "type" : "artist",
+      "uri" : "spotify:artist:3GaPCgO5Bpa8hbTuEVCo38"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/62qg0IdlvmUCsfrJpWYfnz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/62qg0IdlvmUCsfrJpWYfnz",
+    "id" : "62qg0IdlvmUCsfrJpWYfnz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f918ac7c9107969bf0707200ec841a5bcaa64c2b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6305c62a9239b481f40f4860cb96275200d78cc6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/855753010811e36a3715db6d3a4ead80298c1f90",
+      "width" : 64
+    } ],
+    "name" : "North",
+    "type" : "album",
+    "uri" : "spotify:album:62qg0IdlvmUCsfrJpWYfnz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3GaPCgO5Bpa8hbTuEVCo38"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3GaPCgO5Bpa8hbTuEVCo38",
+    "id" : "3GaPCgO5Bpa8hbTuEVCo38",
+    "name" : "Logh",
+    "type" : "artist",
+    "uri" : "spotify:artist:3GaPCgO5Bpa8hbTuEVCo38"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRTN0900107"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2RceW53mn6k4qsMOEpEP6G"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2RceW53mn6k4qsMOEpEP6G",
+  "id" : "2RceW53mn6k4qsMOEpEP6G",
+  "name" : "Death To My Hometown",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fb5c0614a426892b135c64c7ab3e496c308a84c4?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2RceW53mn6k4qsMOEpEP6G"
+}

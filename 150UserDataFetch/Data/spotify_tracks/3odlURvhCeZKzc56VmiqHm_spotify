@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/30VFmfxKlxl2LmNe6rtMis"
+      },
+      "href" : "https://api.spotify.com/v1/artists/30VFmfxKlxl2LmNe6rtMis",
+      "id" : "30VFmfxKlxl2LmNe6rtMis",
+      "name" : "Skinny Lister",
+      "type" : "artist",
+      "uri" : "spotify:artist:30VFmfxKlxl2LmNe6rtMis"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6fPXCxFJnMigFtrAke1Zq4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6fPXCxFJnMigFtrAke1Zq4",
+    "id" : "6fPXCxFJnMigFtrAke1Zq4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5a8a9d6e30a50584b46cf7f06e78a93bc5908b87",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c5f92490d80910a0748c747fb5017dff9e0972bb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1d653beb58e0b969b1611b694623d5b66b2b5f8f",
+      "width" : 64
+    } ],
+    "name" : "Forge & Flagon",
+    "type" : "album",
+    "uri" : "spotify:album:6fPXCxFJnMigFtrAke1Zq4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/30VFmfxKlxl2LmNe6rtMis"
+    },
+    "href" : "https://api.spotify.com/v1/artists/30VFmfxKlxl2LmNe6rtMis",
+    "id" : "30VFmfxKlxl2LmNe6rtMis",
+    "name" : "Skinny Lister",
+    "type" : "artist",
+    "uri" : "spotify:artist:30VFmfxKlxl2LmNe6rtMis"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 192853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA6G1252403"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3odlURvhCeZKzc56VmiqHm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3odlURvhCeZKzc56VmiqHm",
+  "id" : "3odlURvhCeZKzc56VmiqHm",
+  "name" : "Rollin' Over",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1865134d12c1b2c385307153faa7396528903d8?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3odlURvhCeZKzc56VmiqHm"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3EA9hVIzKfFiQI0Kikz2wo",
+      "id" : "3EA9hVIzKfFiQI0Kikz2wo",
+      "name" : "Andrea Bocelli",
+      "type" : "artist",
+      "uri" : "spotify:artist:3EA9hVIzKfFiQI0Kikz2wo"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/41B7to9zCtp4oL1qN45yzY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/41B7to9zCtp4oL1qN45yzY",
+    "id" : "41B7to9zCtp4oL1qN45yzY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/021e32c00a087fc9d2ea9cf7ef8a31c0b87b38a4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e71b1fd65b55c422cbad8e22db23c8ccbe79301c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b6aac87969062e48d2981174fe2dcf9caa5e7695",
+      "width" : 64
+    } ],
+    "name" : "Passione (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:41B7to9zCtp4oL1qN45yzY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3EA9hVIzKfFiQI0Kikz2wo",
+    "id" : "3EA9hVIzKfFiQI0Kikz2wo",
+    "name" : "Andrea Bocelli",
+    "type" : "artist",
+    "uri" : "spotify:artist:3EA9hVIzKfFiQI0Kikz2wo"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227129,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITZ041200138"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1nhqWzLrW0zwXukp7x6VSW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1nhqWzLrW0zwXukp7x6VSW",
+  "id" : "1nhqWzLrW0zwXukp7x6VSW",
+  "name" : "Champagne",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/122bf05e2dc233ece689d8ad9a98d307f427f22d?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1nhqWzLrW0zwXukp7x6VSW"
+}

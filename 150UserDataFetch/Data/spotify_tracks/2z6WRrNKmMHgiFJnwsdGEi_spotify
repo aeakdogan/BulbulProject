@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6bWxFw65IEJzBYjx3SxUXd",
+      "id" : "6bWxFw65IEJzBYjx3SxUXd",
+      "name" : "Morcheeba",
+      "type" : "artist",
+      "uri" : "spotify:artist:6bWxFw65IEJzBYjx3SxUXd"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7rjjFxMFZjPzQzBMj6mXr2",
+    "id" : "7rjjFxMFZjPzQzBMj6mXr2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/70f85bd345446c2e6cdfce9726a5c67747cce5bf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fd4ba19ce2be2a586bd72e49024a98d7bf8078e3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e33ff0046d797eff48f47d380233deedb7a8dd51",
+      "width" : 64
+    } ],
+    "name" : "Big Calm",
+    "type" : "album",
+    "uri" : "spotify:album:7rjjFxMFZjPzQzBMj6mXr2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6bWxFw65IEJzBYjx3SxUXd",
+    "id" : "6bWxFw65IEJzBYjx3SxUXd",
+    "name" : "Morcheeba",
+    "type" : "artist",
+    "uri" : "spotify:artist:6bWxFw65IEJzBYjx3SxUXd"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 360906,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USSI19800066"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2z6WRrNKmMHgiFJnwsdGEi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2z6WRrNKmMHgiFJnwsdGEi",
+  "id" : "2z6WRrNKmMHgiFJnwsdGEi",
+  "name" : "Big Calm",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cc72a066390344f5f4a22488118ea18dee72863b?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2z6WRrNKmMHgiFJnwsdGEi"
+}

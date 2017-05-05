@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bcbShaqKdcyjnmv4Ix8j6",
+      "id" : "7bcbShaqKdcyjnmv4Ix8j6",
+      "name" : "St. Vincent",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bcbShaqKdcyjnmv4Ix8j6"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/338T7GIYUEuyeeHeZnSJta"
+    },
+    "href" : "https://api.spotify.com/v1/albums/338T7GIYUEuyeeHeZnSJta",
+    "id" : "338T7GIYUEuyeeHeZnSJta",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ef5ea4b26ef5ea168cf6c1780201c82643105140",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5a19b23a8aee69d805c6ae3f81f9a11f4378f0a2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7bb0461033db1e87d9ff27407aafcc476fc62e7a",
+      "width" : 64
+    } ],
+    "name" : "Marry Me",
+    "type" : "album",
+    "uri" : "spotify:album:338T7GIYUEuyeeHeZnSJta"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bcbShaqKdcyjnmv4Ix8j6",
+    "id" : "7bcbShaqKdcyjnmv4Ix8j6",
+    "name" : "St. Vincent",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bcbShaqKdcyjnmv4Ix8j6"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 236853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAZP0700018"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/04qxUwz5hEe3LsYD1UJNeB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/04qxUwz5hEe3LsYD1UJNeB",
+  "id" : "04qxUwz5hEe3LsYD1UJNeB",
+  "name" : "Jesus Saves, I Spend",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9bdf18d2dc267eaecd6b0537003def2998939725?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:04qxUwz5hEe3LsYD1UJNeB"
+}

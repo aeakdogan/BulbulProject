@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1MDw0zSUU0XtI9D5JgEZH5",
+      "id" : "1MDw0zSUU0XtI9D5JgEZH5",
+      "name" : "The Veils",
+      "type" : "artist",
+      "uri" : "spotify:artist:1MDw0zSUU0XtI9D5JgEZH5"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0MrdMTC69jwGae06H4CRyd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0MrdMTC69jwGae06H4CRyd",
+    "id" : "0MrdMTC69jwGae06H4CRyd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/797a93b6db99a31acb20098c160facf989914779",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/57f2933752db99078a33f293e6425e31f1bc4c51",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/900ef59e5abbb2b0a98e8268f32d5d8c7bbec44d",
+      "width" : 64
+    } ],
+    "name" : "Time Stays, We Go",
+    "type" : "album",
+    "uri" : "spotify:album:0MrdMTC69jwGae06H4CRyd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1MDw0zSUU0XtI9D5JgEZH5",
+    "id" : "1MDw0zSUU0XtI9D5JgEZH5",
+    "name" : "The Veils",
+    "type" : "artist",
+    "uri" : "spotify:artist:1MDw0zSUU0XtI9D5JgEZH5"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 236933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBQ5P1200012"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2eIKGz5hPPevPSHuPMr2TD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2eIKGz5hPPevPSHuPMr2TD",
+  "id" : "2eIKGz5hPPevPSHuPMr2TD",
+  "name" : "The Pearl",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0e624530c02500bb5388b1cfcd600432d8490a7d?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2eIKGz5hPPevPSHuPMr2TD"
+}

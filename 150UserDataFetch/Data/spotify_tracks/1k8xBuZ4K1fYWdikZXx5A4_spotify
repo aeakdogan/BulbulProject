@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4R024vmmAv1tyJGZPWkEDu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4R024vmmAv1tyJGZPWkEDu",
+      "id" : "4R024vmmAv1tyJGZPWkEDu",
+      "name" : "A Girl Called Eddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:4R024vmmAv1tyJGZPWkEDu"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/17hWPJk3A1jwPIFC5SILj3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/17hWPJk3A1jwPIFC5SILj3",
+    "id" : "17hWPJk3A1jwPIFC5SILj3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c800de3e702edb6a32372867836b260609ca0db3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7981068d8d52fb80ae1caf67c62ad78eadb17869",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9b93c14b58c0900fb4de90135f660ef1b98b328c",
+      "width" : 64
+    } ],
+    "name" : "A Girl Called Eddy",
+    "type" : "album",
+    "uri" : "spotify:album:17hWPJk3A1jwPIFC5SILj3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4R024vmmAv1tyJGZPWkEDu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4R024vmmAv1tyJGZPWkEDu",
+    "id" : "4R024vmmAv1tyJGZPWkEDu",
+    "name" : "A Girl Called Eddy",
+    "type" : "artist",
+    "uri" : "spotify:artist:4R024vmmAv1tyJGZPWkEDu"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 288960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP40410103"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1k8xBuZ4K1fYWdikZXx5A4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1k8xBuZ4K1fYWdikZXx5A4",
+  "id" : "1k8xBuZ4K1fYWdikZXx5A4",
+  "name" : "Girls Can Really Tear You Up Inside",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1dad43e8425bbb79a64b33274a20648887816323?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1k8xBuZ4K1fYWdikZXx5A4"
+}

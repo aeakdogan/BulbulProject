@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+      "id" : "36QJpDe2go2KgaRleHCDTp",
+      "name" : "Led Zeppelin",
+      "type" : "artist",
+      "uri" : "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6VH2op0GKIl3WNTbZmmcmI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6VH2op0GKIl3WNTbZmmcmI",
+    "id" : "6VH2op0GKIl3WNTbZmmcmI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/776b35448d2877049145bf9f2a32f7b938c3dd6e",
+      "width" : 628
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/82991fe6814b025d4cc0408cf3942a5cbf7795f2",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/beb358c39c411b52964d29cd23f7ea9238638acb",
+      "width" : 63
+    } ],
+    "name" : "The Complete BBC Sessions",
+    "type" : "album",
+    "uri" : "spotify:album:6VH2op0GKIl3WNTbZmmcmI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+    "id" : "36QJpDe2go2KgaRleHCDTp",
+    "name" : "Led Zeppelin",
+    "type" : "artist",
+    "uri" : "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 310906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCAD1600591"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5cWIRgigrzjTjDBNXQxhAR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5cWIRgigrzjTjDBNXQxhAR",
+  "id" : "5cWIRgigrzjTjDBNXQxhAR",
+  "name" : "Travelling Riverside Blues - 29/6/69 Top Gear",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/99d887c54c5f2d55c35b8d18145a9964791f8a9a?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5cWIRgigrzjTjDBNXQxhAR"
+}

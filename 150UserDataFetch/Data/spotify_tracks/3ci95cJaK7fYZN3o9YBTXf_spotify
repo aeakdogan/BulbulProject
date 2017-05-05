@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Vmj59eAzsbiISxcCBHRCM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Vmj59eAzsbiISxcCBHRCM",
+      "id" : "3Vmj59eAzsbiISxcCBHRCM",
+      "name" : "Morton Feldman",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Vmj59eAzsbiISxcCBHRCM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/63WHCdmhhPgOHiRrSRQ0NO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/63WHCdmhhPgOHiRrSRQ0NO",
+    "id" : "63WHCdmhhPgOHiRrSRQ0NO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b59f0efb57b728056a9c7c2cd3e9420d2b009774",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/68cc587b26eaec47d1953bfb055b7d7ccf8873c0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7c8964ff97ccb5eed5f2497905c45c7fcd736b4b",
+      "width" : 64
+    } ],
+    "name" : "Rothko Chapel",
+    "type" : "album",
+    "uri" : "spotify:album:63WHCdmhhPgOHiRrSRQ0NO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Vmj59eAzsbiISxcCBHRCM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Vmj59eAzsbiISxcCBHRCM",
+    "id" : "3Vmj59eAzsbiISxcCBHRCM",
+    "name" : "Morton Feldman",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Vmj59eAzsbiISxcCBHRCM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 172866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US87H9110473"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3ci95cJaK7fYZN3o9YBTXf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3ci95cJaK7fYZN3o9YBTXf",
+  "id" : "3ci95cJaK7fYZN3o9YBTXf",
+  "name" : "Rothko Chapel 5",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0edc1d47146e067e85a1a59b13950f55d92dd9d5?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3ci95cJaK7fYZN3o9YBTXf"
+}

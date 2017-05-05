@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jXfFzeP66Zy67HM2mvIIF",
+      "id" : "4jXfFzeP66Zy67HM2mvIIF",
+      "name" : "Bill Evans",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jXfFzeP66Zy67HM2mvIIF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5KMFvQIC2Of0UtJe9w5e0n"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5KMFvQIC2Of0UtJe9w5e0n",
+    "id" : "5KMFvQIC2Of0UtJe9w5e0n",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bc8028e39d9f9fb1760d238ab8effc52c7245170",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/30a87cdda2453a7efb9668a3b900fe6383ada8ea",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/627ee117219f1897bf57d8fe0b73817a1e52f172",
+      "width" : 64
+    } ],
+    "name" : "The Bill Evans Album",
+    "type" : "album",
+    "uri" : "spotify:album:5KMFvQIC2Of0UtJe9w5e0n"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4jXfFzeP66Zy67HM2mvIIF",
+    "id" : "4jXfFzeP66Zy67HM2mvIIF",
+    "name" : "Bill Evans",
+    "type" : "artist",
+    "uri" : "spotify:artist:4jXfFzeP66Zy67HM2mvIIF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 370200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM17100048"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Syy6iCju7lcPLesnbEwnV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Syy6iCju7lcPLesnbEwnV",
+  "id" : "2Syy6iCju7lcPLesnbEwnV",
+  "name" : "The Two Lonely People",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5383bb09fc88c5b4d00bb3ca9cf891c92dc00215?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2Syy6iCju7lcPLesnbEwnV"
+}

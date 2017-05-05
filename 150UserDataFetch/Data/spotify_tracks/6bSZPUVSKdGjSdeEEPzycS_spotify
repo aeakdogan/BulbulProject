@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7IGcjaMGAtsvKBLQX26W4i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7IGcjaMGAtsvKBLQX26W4i",
+      "id" : "7IGcjaMGAtsvKBLQX26W4i",
+      "name" : "The Dillinger Escape Plan",
+      "type" : "artist",
+      "uri" : "spotify:artist:7IGcjaMGAtsvKBLQX26W4i"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3hVzkA43GoKicPTs5rDr0u"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3hVzkA43GoKicPTs5rDr0u",
+    "id" : "3hVzkA43GoKicPTs5rDr0u",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/30661ce32147c4976ffb17e87483e02be0b8ec77",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f3f1a3e6420f711076a43a5c0029f574c770e6c0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4a9c8bee167e9466502e47a17ad0048b84cb6d18",
+      "width" : 64
+    } ],
+    "name" : "One of Us is the Killer",
+    "type" : "album",
+    "uri" : "spotify:album:3hVzkA43GoKicPTs5rDr0u"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7IGcjaMGAtsvKBLQX26W4i"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7IGcjaMGAtsvKBLQX26W4i",
+    "id" : "7IGcjaMGAtsvKBLQX26W4i",
+    "name" : "The Dillinger Escape Plan",
+    "type" : "artist",
+    "uri" : "spotify:artist:7IGcjaMGAtsvKBLQX26W4i"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 208177,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USYFZ1336803"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6bSZPUVSKdGjSdeEEPzycS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6bSZPUVSKdGjSdeEEPzycS",
+  "id" : "6bSZPUVSKdGjSdeEEPzycS",
+  "name" : "One of Us is the Killer",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5c4fd7f6d071c0a418fb2ac1b871f7fc5d3328a6?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6bSZPUVSKdGjSdeEEPzycS"
+}

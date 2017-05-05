@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ",
+      "id" : "1P6U1dCeHxPui5pIrGmndZ",
+      "name" : "Air",
+      "type" : "artist",
+      "uri" : "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6nDTKumwa4idISfgBRoYhP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6nDTKumwa4idISfgBRoYhP",
+    "id" : "6nDTKumwa4idISfgBRoYhP",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/cf613ae3c7a8819c72ffceb8cd9bb12ae2929503",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/f066174b83569993778b4d620d913bb977346dd1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ea2e2c41ded42613d0f7d49c3a3ef713bd8d13ae",
+      "width" : 64
+    } ],
+    "name" : "Surfing On A Rocket EP",
+    "type" : "album",
+    "uri" : "spotify:album:6nDTKumwa4idISfgBRoYhP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ",
+    "id" : "1P6U1dCeHxPui5pIrGmndZ",
+    "name" : "Air",
+    "type" : "artist",
+    "uri" : "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 272093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRS630300099"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/16TaXQIEK8CzKi4CW7bgtf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/16TaXQIEK8CzKi4CW7bgtf",
+  "id" : "16TaXQIEK8CzKi4CW7bgtf",
+  "name" : "Easy going woman",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bca2d973ef89f9d438df9f523a1edee04c8fc539?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:16TaXQIEK8CzKi4CW7bgtf"
+}

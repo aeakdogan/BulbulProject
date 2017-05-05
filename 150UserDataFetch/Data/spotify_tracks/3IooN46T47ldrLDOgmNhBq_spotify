@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5squ8uM6fhMQY71t9xobJC",
+      "id" : "5squ8uM6fhMQY71t9xobJC",
+      "name" : "Kosheen",
+      "type" : "artist",
+      "uri" : "spotify:artist:5squ8uM6fhMQY71t9xobJC"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2Gu0bcqdb625sj1iMKOgNV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2Gu0bcqdb625sj1iMKOgNV",
+    "id" : "2Gu0bcqdb625sj1iMKOgNV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1740e3160567fe9376693db1035bb67f8f827bb5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7dce5ce945a9d6a3d026db56fa3077db31a1a7d1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9a3d13759135ddc222add8da83b7ba495801d6d2",
+      "width" : 64
+    } ],
+    "name" : "Resist",
+    "type" : "album",
+    "uri" : "spotify:album:2Gu0bcqdb625sj1iMKOgNV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5squ8uM6fhMQY71t9xobJC",
+    "id" : "5squ8uM6fhMQY71t9xobJC",
+    "name" : "Kosheen",
+    "type" : "artist",
+    "uri" : "spotify:artist:5squ8uM6fhMQY71t9xobJC"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 252160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAZG0010107"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3IooN46T47ldrLDOgmNhBq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3IooN46T47ldrLDOgmNhBq",
+  "id" : "3IooN46T47ldrLDOgmNhBq",
+  "name" : "Empty Skies",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7784ee2591927d5c41b3bb2b4e4bac5e57bf89df?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:3IooN46T47ldrLDOgmNhBq"
+}

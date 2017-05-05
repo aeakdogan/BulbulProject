@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1bs7HoMkSyQwcobCpE9KpN",
+      "id" : "1bs7HoMkSyQwcobCpE9KpN",
+      "name" : "The Mamas & The Papas",
+      "type" : "artist",
+      "uri" : "spotify:artist:1bs7HoMkSyQwcobCpE9KpN"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/76oMr4Y2pOtcrvZLc2ZikF",
+    "id" : "76oMr4Y2pOtcrvZLc2ZikF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7587959b71e16f93fe668464ecdd4dd0c7aa9923",
+      "width" : 637
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fd2ee7ad703d9dc7b468ddd81c9c23029b641c68",
+      "width" : 299
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/edb26f03cc659a1f3943f5027e2ebf617a41e9a6",
+      "width" : 64
+    } ],
+    "name" : "If You Can Believe Your Eyes & Ears",
+    "type" : "album",
+    "uri" : "spotify:album:76oMr4Y2pOtcrvZLc2ZikF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1bs7HoMkSyQwcobCpE9KpN",
+    "id" : "1bs7HoMkSyQwcobCpE9KpN",
+    "name" : "The Mamas & The Papas",
+    "type" : "artist",
+    "uri" : "spotify:artist:1bs7HoMkSyQwcobCpE9KpN"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 162373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC16532697"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4s6LhHAV5SEsOV0lC2tjvJ",
+  "id" : "4s6LhHAV5SEsOV0lC2tjvJ",
+  "name" : "California Dreamin' - Single Version",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cdf33569fc9b0bd89698fc76f22a662a978dbbad?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4s6LhHAV5SEsOV0lC2tjvJ"
+}

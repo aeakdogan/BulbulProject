@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+      "id" : "0k17h0D3J5VfsdmQ1iZtE9",
+      "name" : "Pink Floyd",
+      "type" : "artist",
+      "uri" : "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0bCAjiUamIFqKJsekOYuRw",
+    "id" : "0bCAjiUamIFqKJsekOYuRw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4e9c7731373ba52446f4de7f5d0af6c51007f6fc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/aab31a87e274822dd11c1de4b6e851aa3a471500",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5f85b9e99c486a02f53fa9f43d0c152cccd49af6",
+      "width" : 64
+    } ],
+    "name" : "Wish You Were Here",
+    "type" : "album",
+    "uri" : "spotify:album:0bCAjiUamIFqKJsekOYuRw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+    "id" : "0k17h0D3J5VfsdmQ1iZtE9",
+    "name" : "Pink Floyd",
+    "type" : "artist",
+    "uri" : "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 334743,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBN9Y1100088"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6mFkJmJqdDVQ1REhVfGgd1",
+  "id" : "6mFkJmJqdDVQ1REhVfGgd1",
+  "name" : "Wish You Were Here",
+  "popularity" : 68,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ce0d4e5f0ffcf8fe1a312c9c2f9331c8d2bf994?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6mFkJmJqdDVQ1REhVfGgd1"
+}

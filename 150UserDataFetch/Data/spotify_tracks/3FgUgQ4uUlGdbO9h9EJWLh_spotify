@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cXCMQRjRBX8v0bhiaXoYc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cXCMQRjRBX8v0bhiaXoYc",
+      "id" : "5cXCMQRjRBX8v0bhiaXoYc",
+      "name" : "Steve Reid Ensemble",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cXCMQRjRBX8v0bhiaXoYc"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6zzoeNt6s0tHgZ1AaFcjdW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6zzoeNt6s0tHgZ1AaFcjdW",
+    "id" : "6zzoeNt6s0tHgZ1AaFcjdW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/07964c98c0ce871d455a91df6f6de7de85e21a51",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b1bc627f72d6b3104e26a961f0a2cfc32c70306c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e7f591fc8969c1958f00a90a70d0cda6dcc770a1",
+      "width" : 64
+    } ],
+    "name" : "Daxaar",
+    "type" : "album",
+    "uri" : "spotify:album:6zzoeNt6s0tHgZ1AaFcjdW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5cXCMQRjRBX8v0bhiaXoYc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5cXCMQRjRBX8v0bhiaXoYc",
+    "id" : "5cXCMQRjRBX8v0bhiaXoYc",
+    "name" : "Steve Reid Ensemble",
+    "type" : "artist",
+    "uri" : "spotify:artist:5cXCMQRjRBX8v0bhiaXoYc"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 179026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0700483"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3FgUgQ4uUlGdbO9h9EJWLh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3FgUgQ4uUlGdbO9h9EJWLh",
+  "id" : "3FgUgQ4uUlGdbO9h9EJWLh",
+  "name" : "Welcome",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a5e7740cb81ac11752e024ef0b9010837a9824e7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3FgUgQ4uUlGdbO9h9EJWLh"
+}

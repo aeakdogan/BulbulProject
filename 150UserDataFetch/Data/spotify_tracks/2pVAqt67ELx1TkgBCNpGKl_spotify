@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3FmTlY1F9dQyRursrsUaU7",
+      "id" : "3FmTlY1F9dQyRursrsUaU7",
+      "name" : "Joanne Shaw Taylor",
+      "type" : "artist",
+      "uri" : "spotify:artist:3FmTlY1F9dQyRursrsUaU7"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/46u8ALVtlaiLAWYxWru1GC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/46u8ALVtlaiLAWYxWru1GC",
+    "id" : "46u8ALVtlaiLAWYxWru1GC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4ce9bdf80a2d133916fec84ff84b3024612f6c6e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f10891c9601dda5bdd9c541c69a149d004604680",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dfcbb7d945d92bc8f7db221a404d72d4fdda7533",
+      "width" : 64
+    } ],
+    "name" : "The Dirty Truth",
+    "type" : "album",
+    "uri" : "spotify:album:46u8ALVtlaiLAWYxWru1GC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3FmTlY1F9dQyRursrsUaU7",
+    "id" : "3FmTlY1F9dQyRursrsUaU7",
+    "name" : "Joanne Shaw Taylor",
+    "type" : "artist",
+    "uri" : "spotify:artist:3FmTlY1F9dQyRursrsUaU7"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 262413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "UK7SE1400007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2pVAqt67ELx1TkgBCNpGKl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2pVAqt67ELx1TkgBCNpGKl",
+  "id" : "2pVAqt67ELx1TkgBCNpGKl",
+  "name" : "Outlaw Angel",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a5e4f04459a0a80bf7d074b74013a9b8850840c3?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2pVAqt67ELx1TkgBCNpGKl"
+}

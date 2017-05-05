@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6oYWNIrMewoS8GBkN8f58f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6oYWNIrMewoS8GBkN8f58f",
+      "id" : "6oYWNIrMewoS8GBkN8f58f",
+      "name" : "Aksak Maboul",
+      "type" : "artist",
+      "uri" : "spotify:artist:6oYWNIrMewoS8GBkN8f58f"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2BrpTSZxhygGrs7pvwytLY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2BrpTSZxhygGrs7pvwytLY",
+    "id" : "2BrpTSZxhygGrs7pvwytLY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ff2c350d801226d537f53632a6335d3cc56b270d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ad2f31c3fe05406099cdbfd49f0a8d5a5a6ca58c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/468f63fb1df9bd53fb85570b3aa3b72ffa17ca71",
+      "width" : 64
+    } ],
+    "name" : "Onze Danses Pour Combattre La Migraine",
+    "type" : "album",
+    "uri" : "spotify:album:2BrpTSZxhygGrs7pvwytLY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6oYWNIrMewoS8GBkN8f58f"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6oYWNIrMewoS8GBkN8f58f",
+    "id" : "6oYWNIrMewoS8GBkN8f58f",
+    "name" : "Aksak Maboul",
+    "type" : "artist",
+    "uri" : "spotify:artist:6oYWNIrMewoS8GBkN8f58f"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 198600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BE6F50301060"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ykX5xvfmrgNCa9JTUMXXf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ykX5xvfmrgNCa9JTUMXXf",
+  "id" : "2ykX5xvfmrgNCa9JTUMXXf",
+  "name" : "Milano Per Caso",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1b4e071abd35ca50996e659e079defd283570f2?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2ykX5xvfmrgNCa9JTUMXXf"
+}

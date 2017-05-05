@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2E78kTKamtXgdRkK1jrc0f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2E78kTKamtXgdRkK1jrc0f",
+      "id" : "2E78kTKamtXgdRkK1jrc0f",
+      "name" : "Sage Francis",
+      "type" : "artist",
+      "uri" : "spotify:artist:2E78kTKamtXgdRkK1jrc0f"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3UfFzRYFk2eLmDVMm0gB3n"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3UfFzRYFk2eLmDVMm0gB3n",
+    "id" : "3UfFzRYFk2eLmDVMm0gB3n",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ef2323144b9840a744c91ebb4ec427a8e4c5ec58",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/86ce7b560a88c16a0bf079194f440f7b6223b723",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/56aa2c65d24802de8ce859e7f5a61db1e6c77471",
+      "width" : 64
+    } ],
+    "name" : "Li(f)e",
+    "type" : "album",
+    "uri" : "spotify:album:3UfFzRYFk2eLmDVMm0gB3n"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2E78kTKamtXgdRkK1jrc0f"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2E78kTKamtXgdRkK1jrc0f",
+    "id" : "2E78kTKamtXgdRkK1jrc0f",
+    "name" : "Sage Francis",
+    "type" : "artist",
+    "uri" : "spotify:artist:2E78kTKamtXgdRkK1jrc0f"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 333093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP41001012"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3mdPsB9sH9Rd6gxUfbfGVn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3mdPsB9sH9Rd6gxUfbfGVn",
+  "id" : "3mdPsB9sH9Rd6gxUfbfGVn",
+  "name" : "The Best of Times",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/05e49453a41f0894e8635789fd29501f8805094d?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:3mdPsB9sH9Rd6gxUfbfGVn"
+}

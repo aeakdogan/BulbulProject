@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5uhHZJPR0zOEURCKOzNIde"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5uhHZJPR0zOEURCKOzNIde",
+      "id" : "5uhHZJPR0zOEURCKOzNIde",
+      "name" : "Scarve",
+      "type" : "artist",
+      "uri" : "spotify:artist:5uhHZJPR0zOEURCKOzNIde"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5rUBZxQMVJowGQLT72jYbg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5rUBZxQMVJowGQLT72jYbg",
+    "id" : "5rUBZxQMVJowGQLT72jYbg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1604df2ff35a83b34c31302d768426682979b767",
+      "width" : 634
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/11e1c98a8a4660b97eccac85806b3662e35e25dc",
+      "width" : 297
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0a911291dd9738db81b137c01af4fc6e15cdfb08",
+      "width" : 63
+    } ],
+    "name" : "Irradiant",
+    "type" : "album",
+    "uri" : "spotify:album:5rUBZxQMVJowGQLT72jYbg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5uhHZJPR0zOEURCKOzNIde"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5uhHZJPR0zOEURCKOzNIde",
+    "id" : "5uhHZJPR0zOEURCKOzNIde",
+    "name" : "Scarve",
+    "type" : "artist",
+    "uri" : "spotify:artist:5uhHZJPR0zOEURCKOzNIde"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 389120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR1PP0400230"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2pA4ObZvHHlD4l9NK27uoF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2pA4ObZvHHlD4l9NK27uoF",
+  "id" : "2pA4ObZvHHlD4l9NK27uoF",
+  "name" : "Fireproven",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2db80393324e0f0e753d9d32b9637af76e1a18f1?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2pA4ObZvHHlD4l9NK27uoF"
+}

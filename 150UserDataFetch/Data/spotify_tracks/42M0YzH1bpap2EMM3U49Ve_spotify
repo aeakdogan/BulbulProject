@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jWpE4ZlClMpc0Kr5xSX34",
+      "id" : "7jWpE4ZlClMpc0Kr5xSX34",
+      "name" : "Back Door Slam",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jWpE4ZlClMpc0Kr5xSX34"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/35ubUNi5Tl1SS0ek8jUaRy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/35ubUNi5Tl1SS0ek8jUaRy",
+    "id" : "35ubUNi5Tl1SS0ek8jUaRy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4f5483793ec874161e63083364ab449c27537891",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6f0e44ee42979fa8f100e9f71a5a4988f0c70287",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/38f5537f9855acff47b9ec83b33176d81b55a4b4",
+      "width" : 64
+    } ],
+    "name" : "Roll Away",
+    "type" : "album",
+    "uri" : "spotify:album:35ubUNi5Tl1SS0ek8jUaRy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7jWpE4ZlClMpc0Kr5xSX34",
+    "id" : "7jWpE4ZlClMpc0Kr5xSX34",
+    "name" : "Back Door Slam",
+    "type" : "artist",
+    "uri" : "spotify:artist:7jWpE4ZlClMpc0Kr5xSX34"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 349893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA440787004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/42M0YzH1bpap2EMM3U49Ve"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/42M0YzH1bpap2EMM3U49Ve",
+  "id" : "42M0YzH1bpap2EMM3U49Ve",
+  "name" : "Gotta Leave",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b4131456f034b48b5556d86e4584386cf05657c8?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:42M0YzH1bpap2EMM3U49Ve"
+}

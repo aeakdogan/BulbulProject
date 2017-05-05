@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0TYvluyvV1Es8lTHiBfnAn",
+      "id" : "0TYvluyvV1Es8lTHiBfnAn",
+      "name" : "Tosca",
+      "type" : "artist",
+      "uri" : "spotify:artist:0TYvluyvV1Es8lTHiBfnAn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7sTZ7zAMaZxiBsWT0ZZnca"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7sTZ7zAMaZxiBsWT0ZZnca",
+    "id" : "7sTZ7zAMaZxiBsWT0ZZnca",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8d485e89850805cc16aee063bd1e3151ab97301d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/83443f0d70ab748ebdd6afaff3388c4baf6f13b8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/06b9bdf76e5b318b8696dcdb2c0600979abe709f",
+      "width" : 64
+    } ],
+    "name" : "JAC",
+    "type" : "album",
+    "uri" : "spotify:album:7sTZ7zAMaZxiBsWT0ZZnca"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0TYvluyvV1Es8lTHiBfnAn",
+    "id" : "0TYvluyvV1Es8lTHiBfnAn",
+    "name" : "Tosca",
+    "type" : "artist",
+    "uri" : "spotify:artist:0TYvluyvV1Es8lTHiBfnAn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 498000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEG930500226"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5ZRRSMX9FsEkJrpkUYiFdA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5ZRRSMX9FsEkJrpkUYiFdA",
+  "id" : "5ZRRSMX9FsEkJrpkUYiFdA",
+  "name" : "Sala",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a69bf567be9e2fe14b496dcdf914c97f20835ccd?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:5ZRRSMX9FsEkJrpkUYiFdA"
+}

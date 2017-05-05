@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2SVw939fwuqSobLjF8u78b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2SVw939fwuqSobLjF8u78b",
+      "id" : "2SVw939fwuqSobLjF8u78b",
+      "name" : "Gogol Bordello",
+      "type" : "artist",
+      "uri" : "spotify:artist:2SVw939fwuqSobLjF8u78b"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/52JKiBdisu9HmX6c7Ly263"
+    },
+    "href" : "https://api.spotify.com/v1/albums/52JKiBdisu9HmX6c7Ly263",
+    "id" : "52JKiBdisu9HmX6c7Ly263",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/05a8ac217327267a601e90665058e3a359041c40",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/911cd0eaa318d65d3be33119f377e4acdcfcad9d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1071809c02c186707a1f7e77c64ffa8a0b4cbc01",
+      "width" : 64
+    } ],
+    "name" : "Super Taranta!",
+    "type" : "album",
+    "uri" : "spotify:album:52JKiBdisu9HmX6c7Ly263"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2SVw939fwuqSobLjF8u78b"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2SVw939fwuqSobLjF8u78b",
+    "id" : "2SVw939fwuqSobLjF8u78b",
+    "name" : "Gogol Bordello",
+    "type" : "artist",
+    "uri" : "spotify:artist:2SVw939fwuqSobLjF8u78b"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 238040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA6G0733402"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5lhl1BuBHERehZokNToaJz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5lhl1BuBHERehZokNToaJz",
+  "id" : "5lhl1BuBHERehZokNToaJz",
+  "name" : "Wonderlust King",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1a2d4acac3d4a247a75187a8c0882d5e89c2b23?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5lhl1BuBHERehZokNToaJz"
+}

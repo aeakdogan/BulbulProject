@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4fXFgDAoHmYI9xO5qlKkAV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4fXFgDAoHmYI9xO5qlKkAV",
+    "id" : "4fXFgDAoHmYI9xO5qlKkAV",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/77b2b43230afd2f5fdecd60e1ed960f1cfad855b",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/48308641398f13709935201f46b4b7d90228f7b6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2b93537938693810b23df837c101d5a4d22250e5",
+      "width" : 64
+    } ],
+    "name" : "Opera",
+    "type" : "album",
+    "uri" : "spotify:album:4fXFgDAoHmYI9xO5qlKkAV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0OzxPXyowUEQ532c9AmHUR",
+    "id" : "0OzxPXyowUEQ532c9AmHUR",
+    "name" : "Giacomo Puccini",
+    "type" : "artist",
+    "uri" : "spotify:artist:0OzxPXyowUEQ532c9AmHUR"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Y8KmFkKOgJybpVobn1onU",
+    "id" : "0Y8KmFkKOgJybpVobn1onU",
+    "name" : "Luciano Pavarotti",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Y8KmFkKOgJybpVobn1onU"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1c0LUqvKTiWVsdrIn4LTZz",
+    "id" : "1c0LUqvKTiWVsdrIn4LTZz",
+    "name" : "John Alldis Choir",
+    "type" : "artist",
+    "uri" : "spotify:artist:1c0LUqvKTiWVsdrIn4LTZz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 181200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF071301260"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ATrYiH3KlpEPGULh4Fla7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ATrYiH3KlpEPGULh4Fla7",
+  "id" : "2ATrYiH3KlpEPGULh4Fla7",
+  "name" : "Turandot : \"Nessun dorma!\"",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/528696be6182fe391f0cc3f0a7a83bd6a846c979?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2ATrYiH3KlpEPGULh4Fla7"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+      "id" : "5iksmHDN2qZQcgFfXqIXtT",
+      "name" : "Robert Wyatt",
+      "type" : "artist",
+      "uri" : "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7dhKisVAraHVtgazrFxmMh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7dhKisVAraHVtgazrFxmMh",
+    "id" : "7dhKisVAraHVtgazrFxmMh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f280ee5d64881f553d09216a7409c589e6cd1a57",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6cf024a26b08e9336f397025b5a38fbe53931a75",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/65ff6f4245b2363f346143072770e4bb00b3b507",
+      "width" : 64
+    } ],
+    "name" : "Cuckooland",
+    "type" : "album",
+    "uri" : "spotify:album:7dhKisVAraHVtgazrFxmMh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+    "id" : "5iksmHDN2qZQcgFfXqIXtT",
+    "name" : "Robert Wyatt",
+    "type" : "artist",
+    "uri" : "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 256253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0800702"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3CaMbpodf4fcqVokJEd2Aj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3CaMbpodf4fcqVokJEd2Aj",
+  "id" : "3CaMbpodf4fcqVokJEd2Aj",
+  "name" : "La Ahada Yalam",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/afee2a5ada0a59c4455df0ad8e10c88656e7aa0c?cid=null",
+  "track_number" : 16,
+  "type" : "track",
+  "uri" : "spotify:track:3CaMbpodf4fcqVokJEd2Aj"
+}

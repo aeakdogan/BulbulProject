@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3alW3LYQS8K29z8C8NSLIX",
+      "id" : "3alW3LYQS8K29z8C8NSLIX",
+      "name" : "Barry Manilow",
+      "type" : "artist",
+      "uri" : "spotify:artist:3alW3LYQS8K29z8C8NSLIX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3qKy1BQdCqyAfrhgtqCdqv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3qKy1BQdCqyAfrhgtqCdqv",
+    "id" : "3qKy1BQdCqyAfrhgtqCdqv",
+    "images" : [ {
+      "height" : 619,
+      "url" : "https://i.scdn.co/image/5351122cdee859759993dc948dcc6af51ea9cf08",
+      "width" : 640
+    }, {
+      "height" : 290,
+      "url" : "https://i.scdn.co/image/36589aa85a1d5d7cb23b966b5c344f73de8ce3c2",
+      "width" : 300
+    }, {
+      "height" : 62,
+      "url" : "https://i.scdn.co/image/f7b840ddc711f60bb2dd6d32dd0018f58b32f269",
+      "width" : 64
+    } ],
+    "name" : "The Complete Collection...And Then Some",
+    "type" : "album",
+    "uri" : "spotify:album:3qKy1BQdCqyAfrhgtqCdqv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3alW3LYQS8K29z8C8NSLIX",
+    "id" : "3alW3LYQS8K29z8C8NSLIX",
+    "name" : "Barry Manilow",
+    "type" : "artist",
+    "uri" : "spotify:artist:3alW3LYQS8K29z8C8NSLIX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 245066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR19200129"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3VgVhmZkA99quKw6O5NLNh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3VgVhmZkA99quKw6O5NLNh",
+  "id" : "3VgVhmZkA99quKw6O5NLNh",
+  "name" : "Copacabana - Remastered",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b1867a4a120fb845cb0db36ca0f1e68ec2a47a8d?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3VgVhmZkA99quKw6O5NLNh"
+}

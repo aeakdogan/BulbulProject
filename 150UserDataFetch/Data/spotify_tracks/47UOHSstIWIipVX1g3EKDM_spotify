@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/53RkHTcl0SJZjpzqogkBf4",
+      "id" : "53RkHTcl0SJZjpzqogkBf4",
+      "name" : "The Fixx",
+      "type" : "artist",
+      "uri" : "spotify:artist:53RkHTcl0SJZjpzqogkBf4"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4TDnrqNEikAzVhYj948Iox"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4TDnrqNEikAzVhYj948Iox",
+    "id" : "4TDnrqNEikAzVhYj948Iox",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/d647a3c3e09f52378026102de115335950dc71d8",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/3a5d7226d30f645d2ee51236ecd4f13cef0e4322",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/144fab88446fcecae00a3cfb19c01f01fa384542",
+      "width" : 64
+    } ],
+    "name" : "Reach The Beach",
+    "type" : "album",
+    "uri" : "spotify:album:4TDnrqNEikAzVhYj948Iox"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/53RkHTcl0SJZjpzqogkBf4",
+    "id" : "53RkHTcl0SJZjpzqogkBf4",
+    "name" : "The Fixx",
+    "type" : "artist",
+    "uri" : "spotify:artist:53RkHTcl0SJZjpzqogkBf4"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 267400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC18314106"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/47UOHSstIWIipVX1g3EKDM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/47UOHSstIWIipVX1g3EKDM",
+  "id" : "47UOHSstIWIipVX1g3EKDM",
+  "name" : "Reach The Beach",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c63cf70309fce6a6b548135d80cc580367b0d069?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:47UOHSstIWIipVX1g3EKDM"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN",
+      "id" : "4PDpGtF16XpqvXxsrFwQnN",
+      "name" : "Thelonious Monk",
+      "type" : "artist",
+      "uri" : "spotify:artist:4PDpGtF16XpqvXxsrFwQnN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2qLdSdHPeLCWPtaDnD5qKT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2qLdSdHPeLCWPtaDnD5qKT",
+    "id" : "2qLdSdHPeLCWPtaDnD5qKT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/643467c3c5271d24d3255e95809c2034394b6832",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ea0e24279f1a897dc6ec3423aeda1d6393c0e0d3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/19eb4b8912d3906e54e0049727ec77fe6c1dab7c",
+      "width" : 64
+    } ],
+    "name" : "Underground (Special Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:2qLdSdHPeLCWPtaDnD5qKT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN",
+    "id" : "4PDpGtF16XpqvXxsrFwQnN",
+    "name" : "Thelonious Monk",
+    "type" : "artist",
+    "uri" : "spotify:artist:4PDpGtF16XpqvXxsrFwQnN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 419584,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10306722"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1zjEINUgZF6DPcrHPayJav"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1zjEINUgZF6DPcrHPayJav",
+  "id" : "1zjEINUgZF6DPcrHPayJav",
+  "name" : "Raise Four",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b316eaa47fd9a2ed107d84fe197e7ceb9507b2f5?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1zjEINUgZF6DPcrHPayJav"
+}

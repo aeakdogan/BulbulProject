@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4svpOyfmQKuWpHLjgy4cdK",
+      "id" : "4svpOyfmQKuWpHLjgy4cdK",
+      "name" : "Godspeed You! Black Emperor",
+      "type" : "artist",
+      "uri" : "spotify:artist:4svpOyfmQKuWpHLjgy4cdK"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7sh2Z8jj1iySpHRAnGd9w5",
+    "id" : "7sh2Z8jj1iySpHRAnGd9w5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1b8da3f5dcbfa0cafcdabbd84bc9988069d2c9bf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bbf85d938f3f22d11b7ea51c04f3d3df678429aa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/52303598a51e0a4722aa7304886968aa80fd71aa",
+      "width" : 64
+    } ],
+    "name" : "F#a#infinity",
+    "type" : "album",
+    "uri" : "spotify:album:7sh2Z8jj1iySpHRAnGd9w5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4svpOyfmQKuWpHLjgy4cdK",
+    "id" : "4svpOyfmQKuWpHLjgy4cdK",
+    "name" : "Godspeed You! Black Emperor",
+    "type" : "artist",
+    "uri" : "spotify:artist:4svpOyfmQKuWpHLjgy4cdK"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 987960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USI4R0401750"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0YzMEu5sGNX0JKr9mdBtzd",
+  "id" : "0YzMEu5sGNX0JKr9mdBtzd",
+  "name" : "The Dead Flag Blues",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ae68e51759fa348a64fd4b857c592ec50d9095e2?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0YzMEu5sGNX0JKr9mdBtzd"
+}

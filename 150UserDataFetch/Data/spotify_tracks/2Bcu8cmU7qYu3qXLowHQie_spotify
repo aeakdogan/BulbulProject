@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6YWdHD3R863Apw1hkx3BwC",
+      "id" : "6YWdHD3R863Apw1hkx3BwC",
+      "name" : "Dan Auerbach",
+      "type" : "artist",
+      "uri" : "spotify:artist:6YWdHD3R863Apw1hkx3BwC"
+    } ],
+    "available_markets" : [ "AU", "CA", "MX", "NZ", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1aS3ouxrqC2xAjR5LJku6M"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1aS3ouxrqC2xAjR5LJku6M",
+    "id" : "1aS3ouxrqC2xAjR5LJku6M",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9d0e8f69449d87f623d2183c7581214cdc0c9c64",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b0682e2c6232604aaa1260fd2c6e300d5725c860",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a1ed829686361cac408688803cfffaa247fa4e20",
+      "width" : 64
+    } ],
+    "name" : "Keep It Hid",
+    "type" : "album",
+    "uri" : "spotify:album:1aS3ouxrqC2xAjR5LJku6M"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6YWdHD3R863Apw1hkx3BwC",
+    "id" : "6YWdHD3R863Apw1hkx3BwC",
+    "name" : "Dan Auerbach",
+    "type" : "artist",
+    "uri" : "spotify:artist:6YWdHD3R863Apw1hkx3BwC"
+  } ],
+  "available_markets" : [ "AU", "CA", "MX", "NZ", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 201280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO10807885"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Bcu8cmU7qYu3qXLowHQie"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Bcu8cmU7qYu3qXLowHQie",
+  "id" : "2Bcu8cmU7qYu3qXLowHQie",
+  "name" : "Heartbroken, In Disrepair",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/47a7c5880a73563e3c45dd6690ec2aaa9b1df7e7?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2Bcu8cmU7qYu3qXLowHQie"
+}

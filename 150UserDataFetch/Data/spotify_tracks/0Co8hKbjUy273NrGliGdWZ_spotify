@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI",
+      "id" : "3pFCERyEiP5xeN2EsPXhjI",
+      "name" : "Joe Cocker",
+      "type" : "artist",
+      "uri" : "spotify:artist:3pFCERyEiP5xeN2EsPXhjI"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7aP5c3ADIf5bmA1G80C4Cc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7aP5c3ADIf5bmA1G80C4Cc",
+    "id" : "7aP5c3ADIf5bmA1G80C4Cc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/22ccecf2bebce36e65feebf1e4cc45fe6a6b7e44",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f44041dc14b50faeba57b20983fa4a80afa762de",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/322fbdae9c6d6666fd033405310bd27afc63f9d1",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Joe Cocker (Domestic Only)",
+    "type" : "album",
+    "uri" : "spotify:album:7aP5c3ADIf5bmA1G80C4Cc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3pFCERyEiP5xeN2EsPXhjI",
+    "id" : "3pFCERyEiP5xeN2EsPXhjI",
+    "name" : "Joe Cocker",
+    "type" : "artist",
+    "uri" : "spotify:artist:3pFCERyEiP5xeN2EsPXhjI"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1BwHztAQKypBuy5WBEdJnG",
+    "id" : "1BwHztAQKypBuy5WBEdJnG",
+    "name" : "Jennifer Warnes",
+    "type" : "artist",
+    "uri" : "spotify:artist:1BwHztAQKypBuy5WBEdJnG"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 233240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR28200024"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Co8hKbjUy273NrGliGdWZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Co8hKbjUy273NrGliGdWZ",
+  "id" : "0Co8hKbjUy273NrGliGdWZ",
+  "name" : "Up Where We Belong",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/070d2009d01915570186e7b7e6dfe45bb3d356ee?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0Co8hKbjUy273NrGliGdWZ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2u7xZP39dtED9EuRX9MUwu",
+      "id" : "2u7xZP39dtED9EuRX9MUwu",
+      "name" : "Orange Juice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2u7xZP39dtED9EuRX9MUwu"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/31s2TPPQ4CYqdYNi7QrN1n"
+    },
+    "href" : "https://api.spotify.com/v1/albums/31s2TPPQ4CYqdYNi7QrN1n",
+    "id" : "31s2TPPQ4CYqdYNi7QrN1n",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/469d6274079cfd86f57c931a1efe8da352493f15",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1973f48a48ce81e6bb50a6006db172d1527a4270",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/68049e6ece1f35be33af2449b7b0c84983598d7c",
+      "width" : 64
+    } ],
+    "name" : "Rip It Up",
+    "type" : "album",
+    "uri" : "spotify:album:31s2TPPQ4CYqdYNi7QrN1n"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2u7xZP39dtED9EuRX9MUwu",
+    "id" : "2u7xZP39dtED9EuRX9MUwu",
+    "name" : "Orange Juice",
+    "type" : "artist",
+    "uri" : "spotify:artist:2u7xZP39dtED9EuRX9MUwu"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 193240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1000583"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5x8FL2v3CKOqIqCGSYy5xq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5x8FL2v3CKOqIqCGSYy5xq",
+  "id" : "5x8FL2v3CKOqIqCGSYy5xq",
+  "name" : "Flesh Of My Flesh",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4cd59810d965fc946c33f0087dcacf5d75e6409a?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5x8FL2v3CKOqIqCGSYy5xq"
+}

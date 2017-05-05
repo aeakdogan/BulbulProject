@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+      "id" : "13saZpZnCDWOI9D4IJhp1f",
+      "name" : "Lily Allen",
+      "type" : "artist",
+      "uri" : "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3nxPzWEJBjzonYWtTNb0uY",
+    "id" : "3nxPzWEJBjzonYWtTNb0uY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2bc44a1beac59e24a2ed07c5ccdbc4cb2a941572",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/49d9acc5f3a5516517d5ff17f72f21298161bec7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8a5c48cb381f544b3cc7c0382f8134a8fa2c8649",
+      "width" : 64
+    } ],
+    "name" : "Alright, Still",
+    "type" : "album",
+    "uri" : "spotify:album:3nxPzWEJBjzonYWtTNb0uY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+    },
+    "href" : "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+    "id" : "13saZpZnCDWOI9D4IJhp1f",
+    "name" : "Lily Allen",
+    "type" : "artist",
+    "uri" : "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 196893,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBAYE0600634"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4aR9bPMAOFySBuQSbVWF3d",
+  "id" : "4aR9bPMAOFySBuQSbVWF3d",
+  "name" : "Smile",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/560ed7b94bcfba452e59ecd99baf26588ab21221?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4aR9bPMAOFySBuQSbVWF3d"
+}

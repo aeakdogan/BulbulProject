@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0TYvluyvV1Es8lTHiBfnAn",
+      "id" : "0TYvluyvV1Es8lTHiBfnAn",
+      "name" : "Tosca",
+      "type" : "artist",
+      "uri" : "spotify:artist:0TYvluyvV1Es8lTHiBfnAn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/36ogL93DPRBSrAKjenPLwe",
+    "id" : "36ogL93DPRBSrAKjenPLwe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4621b50c23d01a8c2a2be68204ffe5db3c7c73e2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/db2ac383f56cceac72c2630ea6da964efda849d9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b5ba0453e0b16dc90c85220549324f556a9c27ed",
+      "width" : 64
+    } ],
+    "name" : "Suzuki",
+    "type" : "album",
+    "uri" : "spotify:album:36ogL93DPRBSrAKjenPLwe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0TYvluyvV1Es8lTHiBfnAn",
+    "id" : "0TYvluyvV1Es8lTHiBfnAn",
+    "name" : "Tosca",
+    "type" : "artist",
+    "uri" : "spotify:artist:0TYvluyvV1Es8lTHiBfnAn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 272613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEG930000025"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5smUyJcGZB0FhJWUDhre7T",
+  "id" : "5smUyJcGZB0FhJWUDhre7T",
+  "name" : "Ocean Beat",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/99cc230efd8ffbaba949b14d9407a7c8affe3f5b?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:5smUyJcGZB0FhJWUDhre7T"
+}

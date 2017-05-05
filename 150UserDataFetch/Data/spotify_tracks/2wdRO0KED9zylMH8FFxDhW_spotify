@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0zfT626RwO6zN3RDYeRit5",
+      "id" : "0zfT626RwO6zN3RDYeRit5",
+      "name" : "Black Label Society",
+      "type" : "artist",
+      "uri" : "spotify:artist:0zfT626RwO6zN3RDYeRit5"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5S8uOfn02NJcfOdP2An8ba"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5S8uOfn02NJcfOdP2An8ba",
+    "id" : "5S8uOfn02NJcfOdP2An8ba",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/728c083f6a343836799c0c90c4b52421fb42d5dc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/24c973ba82e27f448674bb2f50db4cee1fa71808",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b43875339ebfc347dda1a86e3b170728dd4d44d3",
+      "width" : 64
+    } ],
+    "name" : "Unblackened",
+    "type" : "album",
+    "uri" : "spotify:album:5S8uOfn02NJcfOdP2An8ba"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0zfT626RwO6zN3RDYeRit5",
+    "id" : "0zfT626RwO6zN3RDYeRit5",
+    "name" : "Black Label Society",
+    "type" : "artist",
+    "uri" : "spotify:artist:0zfT626RwO6zN3RDYeRit5"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 316800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCBR1300236"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2wdRO0KED9zylMH8FFxDhW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2wdRO0KED9zylMH8FFxDhW",
+  "id" : "2wdRO0KED9zylMH8FFxDhW",
+  "name" : "Spoke in the Wheel",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/48c5d87f80bbeebb504309db7919b25344336443?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2wdRO0KED9zylMH8FFxDhW"
+}

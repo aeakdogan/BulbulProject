@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MspMQqdVbdwP6ax3GXqum",
+      "id" : "5MspMQqdVbdwP6ax3GXqum",
+      "name" : "Annie Lennox",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MspMQqdVbdwP6ax3GXqum"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1REqQsUK0WRYQVzsmdsj04"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1REqQsUK0WRYQVzsmdsj04",
+    "id" : "1REqQsUK0WRYQVzsmdsj04",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c66376059e5d4ab2d7f21493df772a99d9e123d4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fe348421b7780b2b4d6aafc11b15def2513d0430",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e224a0a4c6e8bd7258b7341b1ab1c2de3fb1f760",
+      "width" : 64
+    } ],
+    "name" : "Nostalgia",
+    "type" : "album",
+    "uri" : "spotify:album:1REqQsUK0WRYQVzsmdsj04"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5MspMQqdVbdwP6ax3GXqum",
+    "id" : "5MspMQqdVbdwP6ax3GXqum",
+    "name" : "Annie Lennox",
+    "type" : "artist",
+    "uri" : "spotify:artist:5MspMQqdVbdwP6ax3GXqum"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 212047,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71403864"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3sesq9P6ndjuqaq5om7sxT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3sesq9P6ndjuqaq5om7sxT",
+  "id" : "3sesq9P6ndjuqaq5om7sxT",
+  "name" : "I Put A Spell On You",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8522ec82345f703a3f2a297dcd116e8eace0bd91?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3sesq9P6ndjuqaq5om7sxT"
+}

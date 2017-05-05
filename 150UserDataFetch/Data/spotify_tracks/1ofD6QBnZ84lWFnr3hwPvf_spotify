@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU",
+      "id" : "0kEfub5RzlZOB2zGomqVSU",
+      "name" : "Gil Scott-Heron",
+      "type" : "artist",
+      "uri" : "spotify:artist:0kEfub5RzlZOB2zGomqVSU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2gDkTfjyjAbx0HFaF0MzRA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2gDkTfjyjAbx0HFaF0MzRA",
+    "id" : "2gDkTfjyjAbx0HFaF0MzRA",
+    "images" : [ {
+      "height" : 629,
+      "url" : "https://i.scdn.co/image/36855d505662abe5f99db22470988d2a78bb3ad0",
+      "width" : 640
+    }, {
+      "height" : 295,
+      "url" : "https://i.scdn.co/image/913c5748acac9ca0c713755b6155741d89b8bfa6",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/862bf465057c1d190a55bdcca640f22ea1891969",
+      "width" : 64
+    } ],
+    "name" : "Moving Target",
+    "type" : "album",
+    "uri" : "spotify:album:2gDkTfjyjAbx0HFaF0MzRA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU",
+    "id" : "0kEfub5RzlZOB2zGomqVSU",
+    "name" : "Gil Scott-Heron",
+    "type" : "artist",
+    "uri" : "spotify:artist:0kEfub5RzlZOB2zGomqVSU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR18200233"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1ofD6QBnZ84lWFnr3hwPvf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1ofD6QBnZ84lWFnr3hwPvf",
+  "id" : "1ofD6QBnZ84lWFnr3hwPvf",
+  "name" : "No Exit",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/53065ca7fb51eea0987d0230d8ca2c8fe2ffcf4a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1ofD6QBnZ84lWFnr3hwPvf"
+}

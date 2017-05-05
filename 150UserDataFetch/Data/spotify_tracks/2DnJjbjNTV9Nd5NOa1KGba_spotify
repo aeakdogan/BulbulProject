@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4FtSnMlCVxCswABUmdhwpm",
+      "id" : "4FtSnMlCVxCswABUmdhwpm",
+      "name" : "Carly Simon",
+      "type" : "artist",
+      "uri" : "spotify:artist:4FtSnMlCVxCswABUmdhwpm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/79x0PRGIZv33znrCkPkCZ5",
+    "id" : "79x0PRGIZv33znrCkPkCZ5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4a64d3bb6aeca01d8bd6b8194398ba5aa186fb5c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ed6124b32cc52dd60504b863776c2d73ca00fc7c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4fe12aa67fa0ed79f182f03d7d97bfc5910b9f5e",
+      "width" : 64
+    } ],
+    "name" : "No Secrets",
+    "type" : "album",
+    "uri" : "spotify:album:79x0PRGIZv33znrCkPkCZ5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4FtSnMlCVxCswABUmdhwpm",
+    "id" : "4FtSnMlCVxCswABUmdhwpm",
+    "name" : "Carly Simon",
+    "type" : "artist",
+    "uri" : "spotify:artist:4FtSnMlCVxCswABUmdhwpm"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 258226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE19900883"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2DnJjbjNTV9Nd5NOa1KGba",
+  "id" : "2DnJjbjNTV9Nd5NOa1KGba",
+  "name" : "You're So Vain",
+  "popularity" : 65,
+  "preview_url" : "https://p.scdn.co/mp3-preview/55617a0eb9dc3b0a1bf27dea407a95e1371aab36?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2DnJjbjNTV9Nd5NOa1KGba"
+}

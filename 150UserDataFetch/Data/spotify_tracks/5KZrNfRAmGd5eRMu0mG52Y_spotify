@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3kUKwTJdH8FuWzF8p6Dg9E",
+      "id" : "3kUKwTJdH8FuWzF8p6Dg9E",
+      "name" : "Dave Brubeck",
+      "type" : "artist",
+      "uri" : "spotify:artist:3kUKwTJdH8FuWzF8p6Dg9E"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2IaDMqrxVulBfj5Riy29xL",
+    "id" : "2IaDMqrxVulBfj5Riy29xL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c7c43edea17fa9d3b00c407d88ece836585a4170",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a69356902b59b6afc681ebe4dc4543c513f6a494",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c187d4a2bf95cfd67801d2635fb35b4204419bc0",
+      "width" : 64
+    } ],
+    "name" : "The Essential Dave Brubeck",
+    "type" : "album",
+    "uri" : "spotify:album:2IaDMqrxVulBfj5Riy29xL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+    "id" : "4iRZAbYvBqnxrbs6K25aJ7",
+    "name" : "The Dave Brubeck Quartet",
+    "type" : "artist",
+    "uri" : "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 311573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM16300069"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5KZrNfRAmGd5eRMu0mG52Y"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5KZrNfRAmGd5eRMu0mG52Y",
+  "id" : "5KZrNfRAmGd5eRMu0mG52Y",
+  "name" : "It's a Raggy Waltz",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9e6bda845077d4f340485bbe3d6d93d7e30a44ad?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5KZrNfRAmGd5eRMu0mG52Y"
+}

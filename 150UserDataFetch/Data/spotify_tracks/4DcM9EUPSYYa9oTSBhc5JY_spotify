@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2VZNmg4vCnew4Pavo8zDdW",
+      "id" : "2VZNmg4vCnew4Pavo8zDdW",
+      "name" : "Max Richter",
+      "type" : "artist",
+      "uri" : "spotify:artist:2VZNmg4vCnew4Pavo8zDdW"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5CuuPArp8w5ckkJpcEcCyO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5CuuPArp8w5ckkJpcEcCyO",
+    "id" : "5CuuPArp8w5ckkJpcEcCyO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9faebdd4e34d61e1f800873ac95cb878e24b4bcd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ed44db1a8fc0e6f68beb252fe7ff72206ab6d477",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3e5d4943e2c60571029b567d348064d45a1406b8",
+      "width" : 64
+    } ],
+    "name" : "Memoryhouse",
+    "type" : "album",
+    "uri" : "spotify:album:5CuuPArp8w5ckkJpcEcCyO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2VZNmg4vCnew4Pavo8zDdW",
+    "id" : "2VZNmg4vCnew4Pavo8zDdW",
+    "name" : "Max Richter",
+    "type" : "artist",
+    "uri" : "spotify:artist:2VZNmg4vCnew4Pavo8zDdW"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 118453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDCA0901430"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4DcM9EUPSYYa9oTSBhc5JY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4DcM9EUPSYYa9oTSBhc5JY",
+  "id" : "4DcM9EUPSYYa9oTSBhc5JY",
+  "name" : "The Twins - Prague",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8fc8fa00fd73e7c65c7372a744d47ed4616a8886?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4DcM9EUPSYYa9oTSBhc5JY"
+}

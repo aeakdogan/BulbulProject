@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7mDQwcnDUGuSoggxbUtVc1",
+      "id" : "7mDQwcnDUGuSoggxbUtVc1",
+      "name" : "The Rakes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7mDQwcnDUGuSoggxbUtVc1"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0UiK86h7m1sGHghftkp1o3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0UiK86h7m1sGHghftkp1o3",
+    "id" : "0UiK86h7m1sGHghftkp1o3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/deda14d19754c0b4c0301a8be92222aa8b7bb36c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/98ec191fff72501ed5c8cd30ad9cdb8cb4961f52",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a143d1bc3976df8dcd7eed7c8f053c09babe9834",
+      "width" : 64
+    } ],
+    "name" : "Ten New Messages",
+    "type" : "album",
+    "uri" : "spotify:album:0UiK86h7m1sGHghftkp1o3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7mDQwcnDUGuSoggxbUtVc1",
+    "id" : "7mDQwcnDUGuSoggxbUtVc1",
+    "name" : "The Rakes",
+    "type" : "artist",
+    "uri" : "spotify:artist:7mDQwcnDUGuSoggxbUtVc1"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 231560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBLK0700017"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1uuJ51PEpcihJNwX4R7pse"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1uuJ51PEpcihJNwX4R7pse",
+  "id" : "1uuJ51PEpcihJNwX4R7pse",
+  "name" : "Little Superstitions",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6a7b4041f1081c7f1ff623c251165dbe891edc14?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1uuJ51PEpcihJNwX4R7pse"
+}

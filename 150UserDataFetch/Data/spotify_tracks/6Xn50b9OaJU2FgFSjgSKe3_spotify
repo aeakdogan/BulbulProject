@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+      "id" : "6nxWCVXbOlEVRexSbLsTer",
+      "name" : "Flume",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5vaoiQeWdC1ssSaM2WjcjZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5vaoiQeWdC1ssSaM2WjcjZ",
+    "id" : "5vaoiQeWdC1ssSaM2WjcjZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c7944ae45b0b8867a478bcb1d694a10454d48541",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/83ffd8c4640a60cf34f20c3669e12156b56df95c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/17335f68c87fadf18f489a0465285d868e7af006",
+      "width" : 64
+    } ],
+    "name" : "Flume: Deluxe Edition",
+    "type" : "album",
+    "uri" : "spotify:album:5vaoiQeWdC1ssSaM2WjcjZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+    "id" : "6nxWCVXbOlEVRexSbLsTer",
+    "name" : "Flume",
+    "type" : "artist",
+    "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217188,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUFF00500386"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6Xn50b9OaJU2FgFSjgSKe3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6Xn50b9OaJU2FgFSjgSKe3",
+  "id" : "6Xn50b9OaJU2FgFSjgSKe3",
+  "name" : "Ezra",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/65c9a055237f38ce0caf9567d8cc2304bf429b60?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:6Xn50b9OaJU2FgFSjgSKe3"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5m2sKBa2fJAm4P2MWfopum"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5m2sKBa2fJAm4P2MWfopum",
+      "id" : "5m2sKBa2fJAm4P2MWfopum",
+      "name" : "Diane Birch",
+      "type" : "artist",
+      "uri" : "spotify:artist:5m2sKBa2fJAm4P2MWfopum"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1lVWd4iLjOb9zfXKw39Kqr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1lVWd4iLjOb9zfXKw39Kqr",
+    "id" : "1lVWd4iLjOb9zfXKw39Kqr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ed30b70593a014a41149f41e0566a16a33f3f660",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/224cdf2334e011340a8d78a7cffe4d676cddacda",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cfbd9fb695649158be0db8d7c95c463c1204ebad",
+      "width" : 64
+    } ],
+    "name" : "Bible Belt",
+    "type" : "album",
+    "uri" : "spotify:album:1lVWd4iLjOb9zfXKw39Kqr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5m2sKBa2fJAm4P2MWfopum"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5m2sKBa2fJAm4P2MWfopum",
+    "id" : "5m2sKBa2fJAm4P2MWfopum",
+    "name" : "Diane Birch",
+    "type" : "artist",
+    "uri" : "spotify:artist:5m2sKBa2fJAm4P2MWfopum"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 169093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USKFE0900302"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6Wkpp6Um9Mj6Vu34ySm0CZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6Wkpp6Um9Mj6Vu34ySm0CZ",
+  "id" : "6Wkpp6Um9Mj6Vu34ySm0CZ",
+  "name" : "Valentino",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4f7bb3e3f1e5d0e0e6d13d17e75841aaf585b246?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6Wkpp6Um9Mj6Vu34ySm0CZ"
+}

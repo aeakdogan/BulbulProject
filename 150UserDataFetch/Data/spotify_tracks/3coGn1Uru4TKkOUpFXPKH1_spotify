@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2y98d6N81pArQNXYvkupr8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2y98d6N81pArQNXYvkupr8",
+      "id" : "2y98d6N81pArQNXYvkupr8",
+      "name" : "Light Asylum",
+      "type" : "artist",
+      "uri" : "spotify:artist:2y98d6N81pArQNXYvkupr8"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3N409EznMcxKZsKx4c3wAN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3N409EznMcxKZsKx4c3wAN",
+    "id" : "3N409EznMcxKZsKx4c3wAN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/97fe42909b0f20d3433a93c84a07173a97812cb6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ae4fc73b7a8d3076b30ae3cecc60c5e02840a72d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/36abbdb00ca409fba0f3b0f9330308a01f363196",
+      "width" : 64
+    } ],
+    "name" : "In Tension",
+    "type" : "album",
+    "uri" : "spotify:album:3N409EznMcxKZsKx4c3wAN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2y98d6N81pArQNXYvkupr8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2y98d6N81pArQNXYvkupr8",
+    "id" : "2y98d6N81pArQNXYvkupr8",
+    "name" : "Light Asylum",
+    "type" : "artist",
+    "uri" : "spotify:artist:2y98d6N81pArQNXYvkupr8"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 361893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMEX1100074"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3coGn1Uru4TKkOUpFXPKH1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3coGn1Uru4TKkOUpFXPKH1",
+  "id" : "3coGn1Uru4TKkOUpFXPKH1",
+  "name" : "Dark Allies",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/306777b322c291f7c9633c91bef7c5639f108c87?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3coGn1Uru4TKkOUpFXPKH1"
+}

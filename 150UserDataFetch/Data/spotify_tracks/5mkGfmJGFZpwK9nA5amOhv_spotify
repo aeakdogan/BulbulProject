@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7AQzXO3NPNQsI7oNu5rC3r",
+      "id" : "7AQzXO3NPNQsI7oNu5rC3r",
+      "name" : "Marcy Playground",
+      "type" : "artist",
+      "uri" : "spotify:artist:7AQzXO3NPNQsI7oNu5rC3r"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5dR0fhE3oveLRSUMMQ3oRB",
+    "id" : "5dR0fhE3oveLRSUMMQ3oRB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/609c11f183b543e97f8e7914965e972062b7168b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3174af1ac017602f1ab56d9dc37d34a24530c5d0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/21b86c088b1a105489893a37ee9c3bfee124077a",
+      "width" : 64
+    } ],
+    "name" : "Marcy Playground",
+    "type" : "album",
+    "uri" : "spotify:album:5dR0fhE3oveLRSUMMQ3oRB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7AQzXO3NPNQsI7oNu5rC3r",
+    "id" : "7AQzXO3NPNQsI7oNu5rC3r",
+    "name" : "Marcy Playground",
+    "type" : "artist",
+    "uri" : "spotify:artist:7AQzXO3NPNQsI7oNu5rC3r"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 173493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEM39600079"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5mkGfmJGFZpwK9nA5amOhv",
+  "id" : "5mkGfmJGFZpwK9nA5amOhv",
+  "name" : "Sex And Candy",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4dd7028deead3955e0d7004febc6ccc46919cb12?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5mkGfmJGFZpwK9nA5amOhv"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+      "id" : "33EUXrFKGjpUSGacqEHhU4",
+      "name" : "Iggy Pop",
+      "type" : "artist",
+      "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3f3HzLIKkqOGDAL0Iy0woi",
+    "id" : "3f3HzLIKkqOGDAL0Iy0woi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/13e5fbe368d2ec4955e445d849f768060c869a61",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/24fa0287087a8b8502ba47b591dde38d82780092",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/36e72130ccc857e1945a4ed5b2a45fe86fae4738",
+      "width" : 64
+    } ],
+    "name" : "American Caesar",
+    "type" : "album",
+    "uri" : "spotify:album:3f3HzLIKkqOGDAL0Iy0woi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+    "id" : "33EUXrFKGjpUSGacqEHhU4",
+    "name" : "Iggy Pop",
+    "type" : "artist",
+    "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 197040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI29300120"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4f5wblHYFpXqgSjRj9K4YV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4f5wblHYFpXqgSjRj9K4YV",
+  "id" : "4f5wblHYFpXqgSjRj9K4YV",
+  "name" : "Perforation Problems",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/69afe0c7125b391b6cd2277c6934163469bd0f59?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:4f5wblHYFpXqgSjRj9K4YV"
+}

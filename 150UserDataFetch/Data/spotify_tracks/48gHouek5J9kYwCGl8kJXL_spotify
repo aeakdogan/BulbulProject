@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+      "id" : "51Blml2LZPmy7TTiAg47vQ",
+      "name" : "U2",
+      "type" : "artist",
+      "uri" : "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7gskILm9UyDvFlmmAoqn2g",
+    "id" : "7gskILm9UyDvFlmmAoqn2g",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/a48d13ddf477327cdfa249d6db40d0c77b9ddf29",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/3a9e1da412a1e389c40cf4629b4c4ae8d326ac57",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/ed4a400eee70d8c52d162b7aa0928b7f7a4043db",
+      "width" : 64
+    } ],
+    "name" : "All That You Can't Leave Behind",
+    "type" : "album",
+    "uri" : "spotify:album:7gskILm9UyDvFlmmAoqn2g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+    "id" : "51Blml2LZPmy7TTiAg47vQ",
+    "name" : "U2",
+    "type" : "artist",
+    "uri" : "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 257693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN0000233"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/48gHouek5J9kYwCGl8kJXL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/48gHouek5J9kYwCGl8kJXL",
+  "id" : "48gHouek5J9kYwCGl8kJXL",
+  "name" : "When I Look At The World",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/43380576b7f6ff716d9276dc9aea400df171fcac?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:48gHouek5J9kYwCGl8kJXL"
+}

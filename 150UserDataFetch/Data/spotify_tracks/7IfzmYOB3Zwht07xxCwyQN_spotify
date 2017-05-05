@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0M3z0zBMyiUMjsmRihijyH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0M3z0zBMyiUMjsmRihijyH",
+      "id" : "0M3z0zBMyiUMjsmRihijyH",
+      "name" : "George Skaroulis",
+      "type" : "artist",
+      "uri" : "spotify:artist:0M3z0zBMyiUMjsmRihijyH"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/61mGUoFyFTC97Qm7hwFoEI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/61mGUoFyFTC97Qm7hwFoEI",
+    "id" : "61mGUoFyFTC97Qm7hwFoEI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/95e35ee0e6809364be4394ff831ff2c7e10b00d3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5298d879eace8d3315f74ade409229571b90ee94",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c30f2a45268d7f0d44105e0b5aa7abb464424c79",
+      "width" : 64
+    } ],
+    "name" : "Reunion",
+    "type" : "album",
+    "uri" : "spotify:album:61mGUoFyFTC97Qm7hwFoEI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0M3z0zBMyiUMjsmRihijyH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0M3z0zBMyiUMjsmRihijyH",
+    "id" : "0M3z0zBMyiUMjsmRihijyH",
+    "name" : "George Skaroulis",
+    "type" : "artist",
+    "uri" : "spotify:artist:0M3z0zBMyiUMjsmRihijyH"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 333000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "uscgj0674919"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7IfzmYOB3Zwht07xxCwyQN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7IfzmYOB3Zwht07xxCwyQN",
+  "id" : "7IfzmYOB3Zwht07xxCwyQN",
+  "name" : "Evangelia",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6e6cafc7ee793e6c8cc4a4ac2c7efb2efb6fa5a9?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7IfzmYOB3Zwht07xxCwyQN"
+}

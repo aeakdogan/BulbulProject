@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/39x9e2QDpAxK8xTuJDwRqR",
+      "id" : "39x9e2QDpAxK8xTuJDwRqR",
+      "name" : "Junior Boys",
+      "type" : "artist",
+      "uri" : "spotify:artist:39x9e2QDpAxK8xTuJDwRqR"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2SK0Fk4qGuZiDRBNEiPg8e"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2SK0Fk4qGuZiDRBNEiPg8e",
+    "id" : "2SK0Fk4qGuZiDRBNEiPg8e",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6dc5c2ca0338a9d593e2e82a637dc3988e7aff35",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/48f13fef837e05f53beb8d68f73151b3ca45b894",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cbb64de17b6de449b555b3a45218630da88baa5e",
+      "width" : 64
+    } ],
+    "name" : "So This Is Goodbye",
+    "type" : "album",
+    "uri" : "spotify:album:2SK0Fk4qGuZiDRBNEiPg8e"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/39x9e2QDpAxK8xTuJDwRqR",
+    "id" : "39x9e2QDpAxK8xTuJDwRqR",
+    "name" : "Junior Boys",
+    "type" : "artist",
+    "uri" : "spotify:artist:39x9e2QDpAxK8xTuJDwRqR"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 261013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0600182"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1KQCNSUCDgqpQo5zrdw5zi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1KQCNSUCDgqpQo5zrdw5zi",
+  "id" : "1KQCNSUCDgqpQo5zrdw5zi",
+  "name" : "Double Shadow",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/258c82c4098ad22c52baa653ee1d8b144b26223b?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1KQCNSUCDgqpQo5zrdw5zi"
+}

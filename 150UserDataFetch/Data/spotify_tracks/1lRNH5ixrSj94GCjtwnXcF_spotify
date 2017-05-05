@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4C50EbCS11M0VbGyH3OfLt",
+      "id" : "4C50EbCS11M0VbGyH3OfLt",
+      "name" : "Bahamas",
+      "type" : "artist",
+      "uri" : "spotify:artist:4C50EbCS11M0VbGyH3OfLt"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/753yeghJKIjYDaLbJB2ZW9",
+    "id" : "753yeghJKIjYDaLbJB2ZW9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c67e65a2bb6a6ebe4e9523bc59ba6ca87cbeced1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7bc7b0e9f6c13a6d3fe73666c127425fdbcfb484",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/03aceb768ea709cd7984ecc7a74320930d395052",
+      "width" : 64
+    } ],
+    "name" : "Barchords",
+    "type" : "album",
+    "uri" : "spotify:album:753yeghJKIjYDaLbJB2ZW9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4C50EbCS11M0VbGyH3OfLt",
+    "id" : "4C50EbCS11M0VbGyH3OfLt",
+    "name" : "Bahamas",
+    "type" : "artist",
+    "uri" : "spotify:artist:4C50EbCS11M0VbGyH3OfLt"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 181386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71115345"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1lRNH5ixrSj94GCjtwnXcF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1lRNH5ixrSj94GCjtwnXcF",
+  "id" : "1lRNH5ixrSj94GCjtwnXcF",
+  "name" : "Snow Plow",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/69655c618d8bb483d16336cf5c5ae81d7443cbf5?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1lRNH5ixrSj94GCjtwnXcF"
+}

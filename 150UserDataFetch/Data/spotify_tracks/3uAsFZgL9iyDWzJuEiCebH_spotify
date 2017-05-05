@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy",
+      "id" : "6UUrUCIZtQeOf8tC0WuzRy",
+      "name" : "Sigur Rós",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6meXSKHVhOQVPzo4ZEtZWw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6meXSKHVhOQVPzo4ZEtZWw",
+    "id" : "6meXSKHVhOQVPzo4ZEtZWw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/263ffb7b4361a4978fcf206990660f6c9ce18c9c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a74a0c7297628797c9cd18be1379700a832f2e95",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e51361185802c15f26e6fef017532334f36fcd02",
+      "width" : 64
+    } ],
+    "name" : "Takk",
+    "type" : "album",
+    "uri" : "spotify:album:6meXSKHVhOQVPzo4ZEtZWw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy",
+    "id" : "6UUrUCIZtQeOf8tC0WuzRy",
+    "name" : "Sigur Rós",
+    "type" : "artist",
+    "uri" : "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 249946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBKEE1400395"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3uAsFZgL9iyDWzJuEiCebH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3uAsFZgL9iyDWzJuEiCebH",
+  "id" : "3uAsFZgL9iyDWzJuEiCebH",
+  "name" : "Heysátan",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f3caef22b645f4b6450ae5a1672a223dcf5bfa4e?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:3uAsFZgL9iyDWzJuEiCebH"
+}

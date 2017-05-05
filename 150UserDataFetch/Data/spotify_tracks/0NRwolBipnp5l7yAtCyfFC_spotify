@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BoLqGW2NuMvgHqiDbyfOC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6BoLqGW2NuMvgHqiDbyfOC",
+      "id" : "6BoLqGW2NuMvgHqiDbyfOC",
+      "name" : "Krzysztof Komeda",
+      "type" : "artist",
+      "uri" : "spotify:artist:6BoLqGW2NuMvgHqiDbyfOC"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4vVk7UZYtWW6xPrAzGpyIM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4vVk7UZYtWW6xPrAzGpyIM",
+    "id" : "4vVk7UZYtWW6xPrAzGpyIM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4293c361761e2df5078435c34e6110f78671f823",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c56f4237b227503dc47158dfbfecd6a839f303a4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/281f4d2f7dcd26a640e9b9ccbc18012a53e0df29",
+      "width" : 64
+    } ],
+    "name" : "Rosemary's Baby",
+    "type" : "album",
+    "uri" : "spotify:album:4vVk7UZYtWW6xPrAzGpyIM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6BoLqGW2NuMvgHqiDbyfOC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6BoLqGW2NuMvgHqiDbyfOC",
+    "id" : "6BoLqGW2NuMvgHqiDbyfOC",
+    "name" : "Krzysztof Komeda",
+    "type" : "artist",
+    "uri" : "spotify:artist:6BoLqGW2NuMvgHqiDbyfOC"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 142906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBHFB0513522"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0NRwolBipnp5l7yAtCyfFC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0NRwolBipnp5l7yAtCyfFC",
+  "id" : "0NRwolBipnp5l7yAtCyfFC",
+  "name" : "Main Title Reprise",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1d9417bc67f73dd5a11ab8aa23a8d59cb2cc9566?cid=null",
+  "track_number" : 22,
+  "type" : "track",
+  "uri" : "spotify:track:0NRwolBipnp5l7yAtCyfFC"
+}

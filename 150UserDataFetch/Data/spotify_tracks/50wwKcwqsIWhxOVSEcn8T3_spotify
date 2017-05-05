@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN",
+      "id" : "4PDpGtF16XpqvXxsrFwQnN",
+      "name" : "Thelonious Monk",
+      "type" : "artist",
+      "uri" : "spotify:artist:4PDpGtF16XpqvXxsrFwQnN"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ocUgAhTAoYMogvKqVjX6A"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ocUgAhTAoYMogvKqVjX6A",
+    "id" : "0ocUgAhTAoYMogvKqVjX6A",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/60806ecd57c10bb9e0848ecd439d8136a0b540a5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4de3469c68aa8fee9074c72f59dd62253cdb38fb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/805ae81dd023346abcbb6ba6886c1b893a40ce84",
+      "width" : 64
+    } ],
+    "name" : "The Very Best Of Thelonious Monk",
+    "type" : "album",
+    "uri" : "spotify:album:0ocUgAhTAoYMogvKqVjX6A"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/56koGOp6EpWHZYOfuTTxRB",
+    "id" : "56koGOp6EpWHZYOfuTTxRB",
+    "name" : "Thelonious Monk Septet",
+    "type" : "artist",
+    "uri" : "spotify:artist:56koGOp6EpWHZYOfuTTxRB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 685146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R1016903"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/50wwKcwqsIWhxOVSEcn8T3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/50wwKcwqsIWhxOVSEcn8T3",
+  "id" : "50wwKcwqsIWhxOVSEcn8T3",
+  "name" : "Well, You Needn't",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b462e5a639fb66eea9896620f2f0eba9040ab9bf?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:50wwKcwqsIWhxOVSEcn8T3"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+      "id" : "7MSUfLeTdDEoZiJPDSBXgi",
+      "name" : "Brian Eno",
+      "type" : "artist",
+      "uri" : "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6uoeezh45SYEb8lcT8gDTY",
+    "id" : "6uoeezh45SYEb8lcT8gDTY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c4685425dbd8b39aa39d2f489582ee62ee091c18",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b604e998bae63da632d876db0ae1e807a5205baf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/64a5408519617cd0b80caf0c8e4a1afe2fc0f1c7",
+      "width" : 64
+    } ],
+    "name" : "Another Green World",
+    "type" : "album",
+    "uri" : "spotify:album:6uoeezh45SYEb8lcT8gDTY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+    "id" : "7MSUfLeTdDEoZiJPDSBXgi",
+    "name" : "Brian Eno",
+    "type" : "artist",
+    "uri" : "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 151573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0400077"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/41RiTUEXw8uoCtLd8pcHVy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/41RiTUEXw8uoCtLd8pcHVy",
+  "id" : "41RiTUEXw8uoCtLd8pcHVy",
+  "name" : "In Dark Trees - 2004 Digital Remaster",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6486b9a5a8137ae9e0b45f49055c9928e99b48cc?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:41RiTUEXw8uoCtLd8pcHVy"
+}

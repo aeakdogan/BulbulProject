@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+      "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+      "name" : "Frank Sinatra",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0r7da132K35RCtPvE7H7U3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0r7da132K35RCtPvE7H7U3",
+    "id" : "0r7da132K35RCtPvE7H7U3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/05256d2fa28bca0804dd31daf8c57efc070d85d2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/77bff5a45fa3874b3a2c7e2d7da0586b3d01d8e7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/15195872d16ae6787477b98b8d210968329b5d0c",
+      "width" : 64
+    } ],
+    "name" : "The Essential Frank Sinatra",
+    "type" : "album",
+    "uri" : "spotify:album:0r7da132K35RCtPvE7H7U3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+    "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+    "name" : "Frank Sinatra",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 194733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM14700052"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3UvDSqVf3AcTg0SVv1xnFW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3UvDSqVf3AcTg0SVv1xnFW",
+  "id" : "3UvDSqVf3AcTg0SVv1xnFW",
+  "name" : "The Song Is You",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/507550d8511c2c3a83db492ec0fc063018389b98?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:3UvDSqVf3AcTg0SVv1xnFW"
+}

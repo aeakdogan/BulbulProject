@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+      "id" : "4KWTAlx2RvbpseOGMEmROg",
+      "name" : "R.E.M.",
+      "type" : "artist",
+      "uri" : "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4eoeIPvcO9RCp1u5hcui7K",
+    "id" : "4eoeIPvcO9RCp1u5hcui7K",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/602ba9b950d1887a9af68c31ac47aaa696c20743",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/961aab16ee6fa3b9c44d2f11b91b8c21e37f0693",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bd832bbdc8629747d33f9424c92e0f100da8b240",
+      "width" : 64
+    } ],
+    "name" : "Green (25th Anniversary Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:4eoeIPvcO9RCp1u5hcui7K"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+    "id" : "4KWTAlx2RvbpseOGMEmROg",
+    "name" : "R.E.M.",
+    "type" : "artist",
+    "uri" : "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 303893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11300945"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0S2EI5OG9EZmd99muBr5o9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0S2EI5OG9EZmd99muBr5o9",
+  "id" : "0S2EI5OG9EZmd99muBr5o9",
+  "name" : "I Remember California - Remastered",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b2a503d65cb4db47624e1c040ca2b3d9f8f44e4c?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:0S2EI5OG9EZmd99muBr5o9"
+}

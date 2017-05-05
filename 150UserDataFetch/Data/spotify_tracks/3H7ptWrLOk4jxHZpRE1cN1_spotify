@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7icDkrFloDss50hoqQ3Kkj",
+      "id" : "7icDkrFloDss50hoqQ3Kkj",
+      "name" : "Clinic",
+      "type" : "artist",
+      "uri" : "spotify:artist:7icDkrFloDss50hoqQ3Kkj"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7g11UtxGsMOAxn0EHp5gjA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7g11UtxGsMOAxn0EHp5gjA",
+    "id" : "7g11UtxGsMOAxn0EHp5gjA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/23f9947deb2d5117fe70d3b67548feba98995dd9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e171cc71d7420ae25e59d9ccdbfca23794dbe6f3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0682536da85cba2689ba35949d5836df1d0b8801",
+      "width" : 64
+    } ],
+    "name" : "3EPs",
+    "type" : "album",
+    "uri" : "spotify:album:7g11UtxGsMOAxn0EHp5gjA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7icDkrFloDss50hoqQ3Kkj",
+    "id" : "7icDkrFloDss50hoqQ3Kkj",
+    "name" : "Clinic",
+    "type" : "artist",
+    "uri" : "spotify:artist:7icDkrFloDss50hoqQ3Kkj"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 169893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL9900106"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3H7ptWrLOk4jxHZpRE1cN1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3H7ptWrLOk4jxHZpRE1cN1",
+  "id" : "3H7ptWrLOk4jxHZpRE1cN1",
+  "name" : "Cement Mixer",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a36faf99c479f8362d99a8ea6636fd71f118c39d?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:3H7ptWrLOk4jxHZpRE1cN1"
+}

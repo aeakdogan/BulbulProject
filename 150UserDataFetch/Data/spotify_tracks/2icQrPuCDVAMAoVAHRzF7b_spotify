@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jrFMgW018F1XVnLtCXOKi",
+      "id" : "0jrFMgW018F1XVnLtCXOKi",
+      "name" : "Fabrizio Paterlini",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jrFMgW018F1XVnLtCXOKi"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/46zD64mG9wIYylzJaMqpHV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/46zD64mG9wIYylzJaMqpHV",
+    "id" : "46zD64mG9wIYylzJaMqpHV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1481294cd40e0185c7359de2219785d49c3b4dba",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fdc51828684a54ed597bd71855ff1cd8e5212e5d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6f658fb0ba7a21677417899042943149b9bb556e",
+      "width" : 64
+    } ],
+    "name" : "The Art of the Piano",
+    "type" : "album",
+    "uri" : "spotify:album:46zD64mG9wIYylzJaMqpHV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0jrFMgW018F1XVnLtCXOKi",
+    "id" : "0jrFMgW018F1XVnLtCXOKi",
+    "name" : "Fabrizio Paterlini",
+    "type" : "artist",
+    "uri" : "spotify:artist:0jrFMgW018F1XVnLtCXOKi"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 166173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USX9P1348297"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2icQrPuCDVAMAoVAHRzF7b"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2icQrPuCDVAMAoVAHRzF7b",
+  "id" : "2icQrPuCDVAMAoVAHRzF7b",
+  "name" : "My Piano, The Clouds",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4eb4b6c67e7830c6961358b7c675cd5a36190632?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2icQrPuCDVAMAoVAHRzF7b"
+}

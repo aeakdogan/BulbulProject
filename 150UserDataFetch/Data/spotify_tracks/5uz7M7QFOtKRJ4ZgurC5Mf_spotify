@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RyJG8xp58XSmsiuIySzUj",
+      "id" : "3RyJG8xp58XSmsiuIySzUj",
+      "name" : "Adam Green",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RyJG8xp58XSmsiuIySzUj"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6yH7dketBnrmRMtiClTCE4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6yH7dketBnrmRMtiClTCE4",
+    "id" : "6yH7dketBnrmRMtiClTCE4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/84ad7e6893f8ea4215810ed7b7d08313ab9b6d4d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8df369e95541d094e3b14ea5881e693eaa7a5359",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/329ac8328a2855926f94f566aca0ba9796e3112d",
+      "width" : 64
+    } ],
+    "name" : "Sixes & Sevens",
+    "type" : "album",
+    "uri" : "spotify:album:6yH7dketBnrmRMtiClTCE4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3RyJG8xp58XSmsiuIySzUj",
+    "id" : "3RyJG8xp58XSmsiuIySzUj",
+    "name" : "Adam Green",
+    "type" : "artist",
+    "uri" : "spotify:artist:3RyJG8xp58XSmsiuIySzUj"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 141000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVZ0702024"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5uz7M7QFOtKRJ4ZgurC5Mf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5uz7M7QFOtKRJ4ZgurC5Mf",
+  "id" : "5uz7M7QFOtKRJ4ZgurC5Mf",
+  "name" : "Festival Song",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e0f543f7a9163d41d52f4b7474085212dace04df?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5uz7M7QFOtKRJ4ZgurC5Mf"
+}

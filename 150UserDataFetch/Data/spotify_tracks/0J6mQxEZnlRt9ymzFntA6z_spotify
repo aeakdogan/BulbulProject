@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/58lV9VcRSjABbAbfWS6skp",
+      "id" : "58lV9VcRSjABbAbfWS6skp",
+      "name" : "Bon Jovi",
+      "type" : "artist",
+      "uri" : "spotify:artist:58lV9VcRSjABbAbfWS6skp"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5uU2uM1RGHfzlA12opjqol",
+    "id" : "5uU2uM1RGHfzlA12opjqol",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/03e6e600fb3b9c4c6ef0df6b0d287d0e7d18d799",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/c6f43aeb1beba2eb216a175be31e4ce0fb7fe094",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/28e08d0ce4a749f33e04590eb6225d30985c004f",
+      "width" : 64
+    } ],
+    "name" : "Slippery When Wet",
+    "type" : "album",
+    "uri" : "spotify:album:5uU2uM1RGHfzlA12opjqol"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/58lV9VcRSjABbAbfWS6skp",
+    "id" : "58lV9VcRSjABbAbfWS6skp",
+    "name" : "Bon Jovi",
+    "type" : "artist",
+    "uri" : "spotify:artist:58lV9VcRSjABbAbfWS6skp"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 249293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR38619998"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0J6mQxEZnlRt9ymzFntA6z",
+  "id" : "0J6mQxEZnlRt9ymzFntA6z",
+  "name" : "Livin' On A Prayer",
+  "popularity" : 66,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5e0fc7662a1b6d686c0c42b82c417ce2c69ba51e?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0J6mQxEZnlRt9ymzFntA6z"
+}

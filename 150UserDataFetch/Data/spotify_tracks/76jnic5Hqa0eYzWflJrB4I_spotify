@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DOeg8AF1iYwlauBy6BX2e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DOeg8AF1iYwlauBy6BX2e",
+      "id" : "1DOeg8AF1iYwlauBy6BX2e",
+      "name" : "Firekites",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DOeg8AF1iYwlauBy6BX2e"
+    } ],
+    "available_markets" : [ "AD", "AT", "BE", "BG", "CH", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "NO", "PL", "PT", "SE", "SK", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1AZPQ7Ycvum5vzwtn8ZwoS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1AZPQ7Ycvum5vzwtn8ZwoS",
+    "id" : "1AZPQ7Ycvum5vzwtn8ZwoS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fbbc268c2393fad1a408ea9a6be9a59ebd7f50c4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4c569cc49c67f91655ae74cf1a1668c6784d706e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/67a47f3243694190f58ea328458d68f5e1377f91",
+      "width" : 64
+    } ],
+    "name" : "The Bowery",
+    "type" : "album",
+    "uri" : "spotify:album:1AZPQ7Ycvum5vzwtn8ZwoS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DOeg8AF1iYwlauBy6BX2e"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DOeg8AF1iYwlauBy6BX2e",
+    "id" : "1DOeg8AF1iYwlauBy6BX2e",
+    "name" : "Firekites",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DOeg8AF1iYwlauBy6BX2e"
+  } ],
+  "available_markets" : [ "AD", "AT", "BE", "BG", "CH", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "NL", "NO", "PL", "PT", "SE", "SK", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 258226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "LUP040910027"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/76jnic5Hqa0eYzWflJrB4I"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/76jnic5Hqa0eYzWflJrB4I",
+  "id" : "76jnic5Hqa0eYzWflJrB4I",
+  "name" : "Another State",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/08649c7c446af690e4fa7de96c550c20cd0c7ccb?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:76jnic5Hqa0eYzWflJrB4I"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+      "id" : "51Blml2LZPmy7TTiAg47vQ",
+      "name" : "U2",
+      "type" : "artist",
+      "uri" : "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6GaqU0TlYBKHUiSJ0AT9A2",
+    "id" : "6GaqU0TlYBKHUiSJ0AT9A2",
+    "images" : [ {
+      "height" : 639,
+      "url" : "https://i.scdn.co/image/7735ea38b8e2d5e22637531fce022ac085b144c1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/802f01a8c9d1a6a30f43b42800c83f0cb5e4773f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/17faea31ef93ff91af88a25a5105055b3297dc99",
+      "width" : 64
+    } ],
+    "name" : "War (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:6GaqU0TlYBKHUiSJ0AT9A2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+    "id" : "51Blml2LZPmy7TTiAg47vQ",
+    "name" : "U2",
+    "type" : "artist",
+    "uri" : "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 279440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70713138"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6C4LXC9UFH1IKiHYOp0BiJ",
+  "id" : "6C4LXC9UFH1IKiHYOp0BiJ",
+  "name" : "Sunday Bloody Sunday - Remastered",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e6eee06649d71b2e6a4a6b25b460c51fdf023efc?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6C4LXC9UFH1IKiHYOp0BiJ"
+}

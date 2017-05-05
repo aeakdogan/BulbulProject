@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0gOsZcHl7H3ewXVIEnWFZX",
+      "id" : "0gOsZcHl7H3ewXVIEnWFZX",
+      "name" : "Camille",
+      "type" : "artist",
+      "uri" : "spotify:artist:0gOsZcHl7H3ewXVIEnWFZX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6AnxVdjVBRMqNTyAR92wi2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6AnxVdjVBRMqNTyAR92wi2",
+    "id" : "6AnxVdjVBRMqNTyAR92wi2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8119c329d2624c8f3529f439ff785ee7fec35f3c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cb06d96667ed29b86ed3407b857be4d34cfb72ab",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3d6d812d37552e94b053523934e130bf99f5f14b",
+      "width" : 64
+    } ],
+    "name" : "Le Sac Des Filles",
+    "type" : "album",
+    "uri" : "spotify:album:6AnxVdjVBRMqNTyAR92wi2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0gOsZcHl7H3ewXVIEnWFZX",
+    "id" : "0gOsZcHl7H3ewXVIEnWFZX",
+    "name" : "Camille",
+    "type" : "artist",
+    "uri" : "spotify:artist:0gOsZcHl7H3ewXVIEnWFZX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 268573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRS630200015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2WGIg4q441S5E2fRUVjL9F"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2WGIg4q441S5E2fRUVjL9F",
+  "id" : "2WGIg4q441S5E2fRUVjL9F",
+  "name" : "Mon petit vieux",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/09bba4f1297f93ece90ff81cbc92f73a35b7ff52?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2WGIg4q441S5E2fRUVjL9F"
+}

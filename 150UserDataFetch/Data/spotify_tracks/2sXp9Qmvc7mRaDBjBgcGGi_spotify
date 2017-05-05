@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+      "id" : "5NGO30tJxFlKixkPSgXcFE",
+      "name" : "The Police",
+      "type" : "artist",
+      "uri" : "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7yDxJXFPl88Dt9kBo0dDD6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7yDxJXFPl88Dt9kBo0dDD6",
+    "id" : "7yDxJXFPl88Dt9kBo0dDD6",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/e8fc6030d4deac0ee3a818b406c696bfe3af626e",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/a5fd194dd92c2871fab3b588269acedc45ee8814",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/60663590aa7918b7f4956549c0907c4ed90440d6",
+      "width" : 64
+    } ],
+    "name" : "Synchronicity (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:7yDxJXFPl88Dt9kBo0dDD6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5NGO30tJxFlKixkPSgXcFE",
+    "id" : "5NGO30tJxFlKixkPSgXcFE",
+    "name" : "The Police",
+    "type" : "artist",
+    "uri" : "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 253886,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAM0201110"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2sXp9Qmvc7mRaDBjBgcGGi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2sXp9Qmvc7mRaDBjBgcGGi",
+  "id" : "2sXp9Qmvc7mRaDBjBgcGGi",
+  "name" : "Every Breath You Take - Remastered 2003",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ef34d396b0a70e93955059bab8849a3131bc705e?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2sXp9Qmvc7mRaDBjBgcGGi"
+}

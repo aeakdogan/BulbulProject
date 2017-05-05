@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi",
+      "id" : "3inCNiUr4R6XQ3W43s9Aqi",
+      "name" : "Pavement",
+      "type" : "artist",
+      "uri" : "spotify:artist:3inCNiUr4R6XQ3W43s9Aqi"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "FI", "GT", "HK", "HN", "ID", "JP", "MT", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5C1ePFbSzOGHdypuNBIDZh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5C1ePFbSzOGHdypuNBIDZh",
+    "id" : "5C1ePFbSzOGHdypuNBIDZh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c1c22ee98ca83c3a95cc1602002d0a435eef4698",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/72147765531b08c37f19416fc1f939d29d2d0424",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6375306189e7dce3ac2cfa2334b5385829e4f64b",
+      "width" : 64
+    } ],
+    "name" : "Wowee Zowee",
+    "type" : "album",
+    "uri" : "spotify:album:5C1ePFbSzOGHdypuNBIDZh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi",
+    "id" : "3inCNiUr4R6XQ3W43s9Aqi",
+    "name" : "Pavement",
+    "type" : "artist",
+    "uri" : "spotify:artist:3inCNiUr4R6XQ3W43s9Aqi"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "FI", "GT", "HK", "HN", "ID", "JP", "MT", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 76493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMTD9513006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5aPxSL3hxqkbicHOYeOFYd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5aPxSL3hxqkbicHOYeOFYd",
+  "id" : "5aPxSL3hxqkbicHOYeOFYd",
+  "name" : "Serpentine Pad",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dbb6683114826a7b70da9f5d3c2e09768f664415?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5aPxSL3hxqkbicHOYeOFYd"
+}

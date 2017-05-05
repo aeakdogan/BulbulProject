@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+      "id" : "1gR0gsQYfi6joyO1dlp76N",
+      "name" : "Justice",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+    } ],
+    "available_markets" : [ "TR", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3CWD6k4rJIG72OXkSk98tf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3CWD6k4rJIG72OXkSk98tf",
+    "id" : "3CWD6k4rJIG72OXkSk98tf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c60e559597aeadc85484f7d91a6530a1f754d0d3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/794a2b8c50be3fc7b0b4620a8ae2e6ba95612af4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/33a51b210504c2537dbe70d1efeb28dbd8dd04fb",
+      "width" : 64
+    } ],
+    "name" : "Cross",
+    "type" : "album",
+    "uri" : "spotify:album:3CWD6k4rJIG72OXkSk98tf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+    "id" : "1gR0gsQYfi6joyO1dlp76N",
+    "name" : "Justice",
+    "type" : "artist",
+    "uri" : "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+  } ],
+  "available_markets" : [ "TR", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234959,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR0NT0700300"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3F412bLncKAopQlhpAJBrX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3F412bLncKAopQlhpAJBrX",
+  "id" : "3F412bLncKAopQlhpAJBrX",
+  "name" : "Genesis",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1ccf0fc928bf7ba974449879feea6d6061f59520?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3F412bLncKAopQlhpAJBrX"
+}

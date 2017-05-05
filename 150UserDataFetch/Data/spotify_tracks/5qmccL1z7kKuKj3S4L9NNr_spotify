@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Aq8aAMrRJlJj8DMI8xOJZ",
+      "id" : "5Aq8aAMrRJlJj8DMI8xOJZ",
+      "name" : "Hamza El Din",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Aq8aAMrRJlJj8DMI8xOJZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Ka5WwtprznAbsBEbmmBSs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Ka5WwtprznAbsBEbmmBSs",
+    "id" : "6Ka5WwtprznAbsBEbmmBSs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5a5f66a843bd63ff1049587f66cb100070621e78",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/af57ce071ce3d12400b16026bdeda687741d9726",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c96e1e1cabd87d2d3bbfd13c5063d655408da1b2",
+      "width" : 64
+    } ],
+    "name" : "Eclipse",
+    "type" : "album",
+    "uri" : "spotify:album:6Ka5WwtprznAbsBEbmmBSs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Aq8aAMrRJlJj8DMI8xOJZ",
+    "id" : "5Aq8aAMrRJlJj8DMI8xOJZ",
+    "name" : "Hamza El Din",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Aq8aAMrRJlJj8DMI8xOJZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 224293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSF11000105"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5qmccL1z7kKuKj3S4L9NNr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5qmccL1z7kKuKj3S4L9NNr",
+  "id" : "5qmccL1z7kKuKj3S4L9NNr",
+  "name" : "Mwashah",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6c6528b7e59b4304ef362de7eb0ad842d7e60bd6?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5qmccL1z7kKuKj3S4L9NNr"
+}

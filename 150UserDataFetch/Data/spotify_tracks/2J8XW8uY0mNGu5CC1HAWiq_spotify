@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3v2JcDHp2pZBwQgTO7CBoY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3v2JcDHp2pZBwQgTO7CBoY",
+    "id" : "3v2JcDHp2pZBwQgTO7CBoY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/709b55ea287b54d6cf3e2c9acd6466eccd548c6d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d6678992eabf773d05ea3c587817a2092429aa8d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d7f85525a536bc51e146757351e4897ea38b0d70",
+      "width" : 64
+    } ],
+    "name" : "Swing Diskoteka",
+    "type" : "album",
+    "uri" : "spotify:album:3v2JcDHp2pZBwQgTO7CBoY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/64FRiqIrUyWPvGb83fAYLn",
+    "id" : "64FRiqIrUyWPvGb83fAYLn",
+    "name" : "Kormac",
+    "type" : "artist",
+    "uri" : "spotify:artist:64FRiqIrUyWPvGb83fAYLn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 231515,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "IEBEY0700058"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2J8XW8uY0mNGu5CC1HAWiq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2J8XW8uY0mNGu5CC1HAWiq",
+  "id" : "2J8XW8uY0mNGu5CC1HAWiq",
+  "name" : "Wash My Hands",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/74328afa291c58e6b89dacbffb0252377008c897?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2J8XW8uY0mNGu5CC1HAWiq"
+}

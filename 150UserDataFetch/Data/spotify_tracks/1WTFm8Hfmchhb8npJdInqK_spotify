@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Dl4yVNU6aMxOjYU7oTaM4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Dl4yVNU6aMxOjYU7oTaM4",
+      "id" : "6Dl4yVNU6aMxOjYU7oTaM4",
+      "name" : "Gram Rabbit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Dl4yVNU6aMxOjYU7oTaM4"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0SiJxT2bV4EOYHzj4T4UeG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0SiJxT2bV4EOYHzj4T4UeG",
+    "id" : "0SiJxT2bV4EOYHzj4T4UeG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/29c719082751e1f047ad43c4570b171c5023e9f5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0efce54737905d1f3f397f7016f2270362c0e2f1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7d0c596dc4420ec3959e5fcf8f5c3044d1c161e8",
+      "width" : 64
+    } ],
+    "name" : "Music to Start a Cult To",
+    "type" : "album",
+    "uri" : "spotify:album:0SiJxT2bV4EOYHzj4T4UeG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Dl4yVNU6aMxOjYU7oTaM4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Dl4yVNU6aMxOjYU7oTaM4",
+    "id" : "6Dl4yVNU6aMxOjYU7oTaM4",
+    "name" : "Gram Rabbit",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Dl4yVNU6aMxOjYU7oTaM4"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 323466,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2Q0400808"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1WTFm8Hfmchhb8npJdInqK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1WTFm8Hfmchhb8npJdInqK",
+  "id" : "1WTFm8Hfmchhb8npJdInqK",
+  "name" : "Devil's Playground",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e5df89646783a14fb88af440a2a1b6a009f18c3f?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1WTFm8Hfmchhb8npJdInqK"
+}

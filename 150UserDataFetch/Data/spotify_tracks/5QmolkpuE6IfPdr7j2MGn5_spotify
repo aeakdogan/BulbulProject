@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+      "id" : "7K3zpFXBvPcvzhj7zlGJdO",
+      "name" : "Crystal Castles",
+      "type" : "artist",
+      "uri" : "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/37TeO5usN4vsGSfpg4dPNA",
+    "id" : "37TeO5usN4vsGSfpg4dPNA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6bb9f5402927b5df02dbb7fc7fe2ec086661766b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cc0d7d7e5a71d1664a6e469d30153600b7f63c3f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a7a261b827858529043e2ce70a18d6019de19a3f",
+      "width" : 64
+    } ],
+    "name" : "(II)",
+    "type" : "album",
+    "uri" : "spotify:album:37TeO5usN4vsGSfpg4dPNA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+    "id" : "7K3zpFXBvPcvzhj7zlGJdO",
+    "name" : "Crystal Castles",
+    "type" : "artist",
+    "uri" : "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 228400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71003565"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5QmolkpuE6IfPdr7j2MGn5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5QmolkpuE6IfPdr7j2MGn5",
+  "id" : "5QmolkpuE6IfPdr7j2MGn5",
+  "name" : "Celestica",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f4426cdf9793816a6886079bf193cd01fc408598?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5QmolkpuE6IfPdr7j2MGn5"
+}

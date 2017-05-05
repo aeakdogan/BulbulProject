@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DsdDxHs1zAwOgWDPgNS7l",
+      "id" : "1DsdDxHs1zAwOgWDPgNS7l",
+      "name" : "Dredg",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DsdDxHs1zAwOgWDPgNS7l"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4xzzmQZfCz1keTBkIgQZFc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4xzzmQZfCz1keTBkIgQZFc",
+    "id" : "4xzzmQZfCz1keTBkIgQZFc",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/e667ac03e9bae5978be829300a222d652ca8929c",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/61108e2353f4a809f30c80286b89f99bf51c7247",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/15769f0a39ea343c359cebf9009195f628221fa0",
+      "width" : 64
+    } ],
+    "name" : "El Cielo",
+    "type" : "album",
+    "uri" : "spotify:album:4xzzmQZfCz1keTBkIgQZFc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DsdDxHs1zAwOgWDPgNS7l",
+    "id" : "1DsdDxHs1zAwOgWDPgNS7l",
+    "name" : "Dredg",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DsdDxHs1zAwOgWDPgNS7l"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 203000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR10211350"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5HkFcOqKDBCIBWDFukoicp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5HkFcOqKDBCIBWDFukoicp",
+  "id" : "5HkFcOqKDBCIBWDFukoicp",
+  "name" : "Scissor Lock",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c2defa242fb8c7d0b73f23039a7e1ff2b8c79ca4?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:5HkFcOqKDBCIBWDFukoicp"
+}

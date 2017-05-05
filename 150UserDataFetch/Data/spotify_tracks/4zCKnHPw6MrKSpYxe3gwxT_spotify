@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7HeVXdOdMhLslVputGTZFQ",
+      "id" : "7HeVXdOdMhLslVputGTZFQ",
+      "name" : "Timber Timbre",
+      "type" : "artist",
+      "uri" : "spotify:artist:7HeVXdOdMhLslVputGTZFQ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3RcnXTluKv9rAgzOy6bXnm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3RcnXTluKv9rAgzOy6bXnm",
+    "id" : "3RcnXTluKv9rAgzOy6bXnm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c861b0075c288c454e398f7c8968f13019c66688",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e60e0661302eab0b27e69d51abb42165c54b722c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f33ca3e0020e7f717682033ed69633b6ba873b07",
+      "width" : 64
+    } ],
+    "name" : "Hot Dreams",
+    "type" : "album",
+    "uri" : "spotify:album:3RcnXTluKv9rAgzOy6bXnm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7HeVXdOdMhLslVputGTZFQ",
+    "id" : "7HeVXdOdMhLslVputGTZFQ",
+    "name" : "Timber Timbre",
+    "type" : "artist",
+    "uri" : "spotify:artist:7HeVXdOdMhLslVputGTZFQ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 293213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAAA11308802"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4zCKnHPw6MrKSpYxe3gwxT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4zCKnHPw6MrKSpYxe3gwxT",
+  "id" : "4zCKnHPw6MrKSpYxe3gwxT",
+  "name" : "Hot Dreams",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b636f68315e392a4b2d1a5943845307f3a317d86?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4zCKnHPw6MrKSpYxe3gwxT"
+}

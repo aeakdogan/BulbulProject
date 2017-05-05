@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jXfFzeP66Zy67HM2mvIIF",
+      "id" : "4jXfFzeP66Zy67HM2mvIIF",
+      "name" : "Bill Evans",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jXfFzeP66Zy67HM2mvIIF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2gvhiM1BMdlxMvIQZPPdZC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2gvhiM1BMdlxMvIQZPPdZC",
+    "id" : "2gvhiM1BMdlxMvIQZPPdZC",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/a846cdbf98ab3b165ce5354b293bb4df0c558bf2",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d42ffb42ede0d8e1bcf4c6aaa8791a3330e549bb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/22e9ce4f7776755191227c436ebeb519512208bd",
+      "width" : 64
+    } ],
+    "name" : "Days of Wine and Roses",
+    "type" : "album",
+    "uri" : "spotify:album:2gvhiM1BMdlxMvIQZPPdZC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4jXfFzeP66Zy67HM2mvIIF",
+    "id" : "4jXfFzeP66Zy67HM2mvIIF",
+    "name" : "Bill Evans",
+    "type" : "artist",
+    "uri" : "spotify:artist:4jXfFzeP66Zy67HM2mvIIF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 351493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USF096600810"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5eWzFYSTnJnT4wnj4mwSU1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5eWzFYSTnJnT4wnj4mwSU1",
+  "id" : "5eWzFYSTnJnT4wnj4mwSU1",
+  "name" : "One For Helen",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4a9ca4a04841dc2bf8f15a59a79b1322c9cb5af0?cid=null",
+  "track_number" : 24,
+  "type" : "track",
+  "uri" : "spotify:track:5eWzFYSTnJnT4wnj4mwSU1"
+}

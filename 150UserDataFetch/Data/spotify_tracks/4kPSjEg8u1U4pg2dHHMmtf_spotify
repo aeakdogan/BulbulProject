@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+      "id" : "0vYkHhJ48Bs3jWcvZXvOrP",
+      "name" : "Patti Smith",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Azni9In90zMkWAFgWh6RE",
+    "id" : "5Azni9In90zMkWAFgWh6RE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4cc0ebc79e3afc09f9dbbee91978d703c8dacabf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6b52374b7c37150520be76c59aa17fa49996bec9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5350e7a4e02238af76b5e27616bccae8ed21a596",
+      "width" : 64
+    } ],
+    "name" : "Wave",
+    "type" : "album",
+    "uri" : "spotify:album:5Azni9In90zMkWAFgWh6RE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+    "id" : "0vYkHhJ48Bs3jWcvZXvOrP",
+    "name" : "Patti Smith",
+    "type" : "artist",
+    "uri" : "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 256533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR19900952"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4kPSjEg8u1U4pg2dHHMmtf",
+  "id" : "4kPSjEg8u1U4pg2dHHMmtf",
+  "name" : "Dancing Barefoot - Remastered",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4854669ea67278727354d454d65a4fdb826534bd?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4kPSjEg8u1U4pg2dHHMmtf"
+}

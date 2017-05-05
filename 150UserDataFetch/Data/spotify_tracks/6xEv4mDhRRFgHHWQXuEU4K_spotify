@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4stc9eLMUNgUHGeQH9YeNl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4stc9eLMUNgUHGeQH9YeNl",
+      "id" : "4stc9eLMUNgUHGeQH9YeNl",
+      "name" : "Le Loup",
+      "type" : "artist",
+      "uri" : "spotify:artist:4stc9eLMUNgUHGeQH9YeNl"
+    } ],
+    "available_markets" : [ "AU", "CA", "JP", "MX", "NZ", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5WO7hNypHRDKM89UNXuXeg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5WO7hNypHRDKM89UNXuXeg",
+    "id" : "5WO7hNypHRDKM89UNXuXeg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/72e5fa37c70e496c06e4476c7f22663430cca3ab",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/987c1abea652a312b3b5cb8f1ea3afa7b6bbe9bb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b28e9017ca2e4ddb975137120556b6f7b08c8c83",
+      "width" : 64
+    } ],
+    "name" : "Family",
+    "type" : "album",
+    "uri" : "spotify:album:5WO7hNypHRDKM89UNXuXeg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4stc9eLMUNgUHGeQH9YeNl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4stc9eLMUNgUHGeQH9YeNl",
+    "id" : "4stc9eLMUNgUHGeQH9YeNl",
+    "name" : "Le Loup",
+    "type" : "artist",
+    "uri" : "spotify:artist:4stc9eLMUNgUHGeQH9YeNl"
+  } ],
+  "available_markets" : [ "AU", "CA", "JP", "MX", "NZ", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 474066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USHF30900811"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6xEv4mDhRRFgHHWQXuEU4K"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6xEv4mDhRRFgHHWQXuEU4K",
+  "id" : "6xEv4mDhRRFgHHWQXuEU4K",
+  "name" : "A Celebration",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a3f1cb2a26b0cd2455e4dfa4bdbf4371d02ac583?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:6xEv4mDhRRFgHHWQXuEU4K"
+}

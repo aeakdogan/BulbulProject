@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SjNVG3L9mgWQPsfp1sFDB",
+      "id" : "5SjNVG3L9mgWQPsfp1sFDB",
+      "name" : "Wye Oak",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SjNVG3L9mgWQPsfp1sFDB"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "JP", "MX", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2IWn2PFFPhYexWP8fBDNp9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2IWn2PFFPhYexWP8fBDNp9",
+    "id" : "2IWn2PFFPhYexWP8fBDNp9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a35461b2900ed14a22e9c011094316ef7e919411",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/380b5ba038c73577fd16988a4c433afaf6352f5d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/141fbdb9efda425ffba326be2d36df0c789013e4",
+      "width" : 64
+    } ],
+    "name" : "Civilian",
+    "type" : "album",
+    "uri" : "spotify:album:2IWn2PFFPhYexWP8fBDNp9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5SjNVG3L9mgWQPsfp1sFDB",
+    "id" : "5SjNVG3L9mgWQPsfp1sFDB",
+    "name" : "Wye Oak",
+    "type" : "artist",
+    "uri" : "spotify:artist:5SjNVG3L9mgWQPsfp1sFDB"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "JP", "MX", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 220917,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMRG1140005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7630alXL5HfQAHQhBam5pJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7630alXL5HfQAHQhBam5pJ",
+  "id" : "7630alXL5HfQAHQhBam5pJ",
+  "name" : "Civilian",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7254a00fcea02bf43b247de8982b5334f2cefe64?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7630alXL5HfQAHQhBam5pJ"
+}

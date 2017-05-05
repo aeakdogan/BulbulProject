@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5R7K1GezC0jy24v1R2n4x3",
+      "id" : "5R7K1GezC0jy24v1R2n4x3",
+      "name" : "Fischerspooner",
+      "type" : "artist",
+      "uri" : "spotify:artist:5R7K1GezC0jy24v1R2n4x3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0xd9UW8Pe93kPIkFYv5jen"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0xd9UW8Pe93kPIkFYv5jen",
+    "id" : "0xd9UW8Pe93kPIkFYv5jen",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dab0c8fa319f25a17e3b485dbcfd3e0fd66d3bbd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/72926669ca9e1bd5a2a93ecfb0af5c67111ef939",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/83bfb1e2c89bb3ae1e5b1049ce2825ca122f7c92",
+      "width" : 64
+    } ],
+    "name" : "Odyssey",
+    "type" : "album",
+    "uri" : "spotify:album:0xd9UW8Pe93kPIkFYv5jen"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5R7K1GezC0jy24v1R2n4x3",
+    "id" : "5R7K1GezC0jy24v1R2n4x3",
+    "name" : "Fischerspooner",
+    "type" : "artist",
+    "uri" : "spotify:artist:5R7K1GezC0jy24v1R2n4x3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 239640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFS20400004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2aAV8orZctvbDvVJnMDlBR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2aAV8orZctvbDvVJnMDlBR",
+  "id" : "2aAV8orZctvbDvVJnMDlBR",
+  "name" : "Never Win",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6e60da0cba9f799ac6a2fe48e6fe8ca7fb029bb7?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2aAV8orZctvbDvVJnMDlBR"
+}

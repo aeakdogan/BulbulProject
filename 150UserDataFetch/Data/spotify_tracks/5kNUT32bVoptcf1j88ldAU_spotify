@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gCsNOpiBaMNh20jQ5prf0",
+      "id" : "2gCsNOpiBaMNh20jQ5prf0",
+      "name" : "Buddy Guy",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gCsNOpiBaMNh20jQ5prf0"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7IxnFL0kaVSqs9iy9qSqPj",
+    "id" : "7IxnFL0kaVSqs9iy9qSqPj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fd4ee920e89649d271f96081faa63e2ae3ecde01",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/aa05e90746e538f35df6210499cc0da781f3670c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1027fa024cd34a0499b92cd151fb6dbde90f37cf",
+      "width" : 64
+    } ],
+    "name" : "Damn Right, I've Got The Blues",
+    "type" : "album",
+    "uri" : "spotify:album:7IxnFL0kaVSqs9iy9qSqPj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2gCsNOpiBaMNh20jQ5prf0",
+    "id" : "2gCsNOpiBaMNh20jQ5prf0",
+    "name" : "Buddy Guy",
+    "type" : "artist",
+    "uri" : "spotify:artist:2gCsNOpiBaMNh20jQ5prf0"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 505906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSV10300102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5kNUT32bVoptcf1j88ldAU",
+  "id" : "5kNUT32bVoptcf1j88ldAU",
+  "name" : "Five Long Years",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5c74b730f234031f876b6cd32cff9db8ae9a9741?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5kNUT32bVoptcf1j88ldAU"
+}

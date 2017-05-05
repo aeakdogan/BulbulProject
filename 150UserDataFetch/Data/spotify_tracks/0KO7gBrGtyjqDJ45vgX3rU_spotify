@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2RmxBxC25vVtIxRP9NBnl8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2RmxBxC25vVtIxRP9NBnl8",
+      "id" : "2RmxBxC25vVtIxRP9NBnl8",
+      "name" : "The Smokin' Joe Kubek Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:2RmxBxC25vVtIxRP9NBnl8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/17jKRJyvcPLKu8GrxAwff1",
+      "id" : "17jKRJyvcPLKu8GrxAwff1",
+      "name" : "Bnois King",
+      "type" : "artist",
+      "uri" : "spotify:artist:17jKRJyvcPLKu8GrxAwff1"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7ERXzyN92B2Q3j0K7Piet2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7ERXzyN92B2Q3j0K7Piet2",
+    "id" : "7ERXzyN92B2Q3j0K7Piet2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ff3130fcd2a22c56e30b45deb2bfd2b0abc9c8b5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6fe18e94b269d1f1b63033491977952c834c14e8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c025ba251b1485a405907a432c190781df4aa648",
+      "width" : 64
+    } ],
+    "name" : "Served Up Texas Style",
+    "type" : "album",
+    "uri" : "spotify:album:7ERXzyN92B2Q3j0K7Piet2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2RmxBxC25vVtIxRP9NBnl8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2RmxBxC25vVtIxRP9NBnl8",
+    "id" : "2RmxBxC25vVtIxRP9NBnl8",
+    "name" : "The Smokin' Joe Kubek Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:2RmxBxC25vVtIxRP9NBnl8"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/17jKRJyvcPLKu8GrxAwff1",
+    "id" : "17jKRJyvcPLKu8GrxAwff1",
+    "name" : "Bnois King",
+    "type" : "artist",
+    "uri" : "spotify:artist:17jKRJyvcPLKu8GrxAwff1"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 251013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBU19454307"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0KO7gBrGtyjqDJ45vgX3rU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0KO7gBrGtyjqDJ45vgX3rU",
+  "id" : "0KO7gBrGtyjqDJ45vgX3rU",
+  "name" : "Texas Cadillac",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2a3a24b7be6f5328123ae68b1301d58ec4ed911f?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0KO7gBrGtyjqDJ45vgX3rU"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3zYOs2ORl6mm3t9N9HztoI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3zYOs2ORl6mm3t9N9HztoI",
+    "id" : "3zYOs2ORl6mm3t9N9HztoI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/49b191b2eec216545d729701671458bfe1fa15eb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c58c93bc02285b2dc040485a6dc11a2a46bdbe1e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c1bab75c22bf8a0460cfca9c6904efafd51d7d8a",
+      "width" : 64
+    } ],
+    "name" : "Living Theater - Act One",
+    "type" : "album",
+    "uri" : "spotify:album:3zYOs2ORl6mm3t9N9HztoI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6wOOUuw4LGLNJAVL3Criqr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6wOOUuw4LGLNJAVL3Criqr",
+    "id" : "6wOOUuw4LGLNJAVL3Criqr",
+    "name" : "Erica Jennings",
+    "type" : "artist",
+    "uri" : "spotify:artist:6wOOUuw4LGLNJAVL3Criqr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 269653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USKMA0111003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1zJekSReWSccjge1LGXDiJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1zJekSReWSccjge1LGXDiJ",
+  "id" : "1zJekSReWSccjge1LGXDiJ",
+  "name" : "It's A Lovely Day",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c8d0d03032659f3c3b0b7dcbbca36fdaa091a2c4?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1zJekSReWSccjge1LGXDiJ"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW",
+      "id" : "2ZvrvbQNrHKwjT7qfGFFUW",
+      "name" : "Herbie Hancock",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1IDF7HrugntNS4NeuzYWgQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1IDF7HrugntNS4NeuzYWgQ",
+    "id" : "1IDF7HrugntNS4NeuzYWgQ",
+    "images" : [ {
+      "height" : 638,
+      "url" : "https://i.scdn.co/image/660db01ccc21aca3a2eed3ef7ef0ad756d301966",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/43dc074b49798d98a2db32b786d7f715a33e1c3b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/be1d47e2fc140c1a4dbb9314605cf91901249a76",
+      "width" : 64
+    } ],
+    "name" : "Cantaloupe Island",
+    "type" : "album",
+    "uri" : "spotify:album:1IDF7HrugntNS4NeuzYWgQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW",
+    "id" : "2ZvrvbQNrHKwjT7qfGFFUW",
+    "name" : "Herbie Hancock",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 418066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN28700101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Ca1yu6sCHxUSshEKrvTGw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Ca1yu6sCHxUSshEKrvTGw",
+  "id" : "1Ca1yu6sCHxUSshEKrvTGw",
+  "name" : "Driftin'",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/24beeb5cf8214b163e98d289866e1db9d990bf5c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1Ca1yu6sCHxUSshEKrvTGw"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2z78AlkdwE2Ghj9EB50M6z",
+      "id" : "2z78AlkdwE2Ghj9EB50M6z",
+      "name" : "Liars",
+      "type" : "artist",
+      "uri" : "spotify:artist:2z78AlkdwE2Ghj9EB50M6z"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4xtgO9StwSulqElgrtdtIg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4xtgO9StwSulqElgrtdtIg",
+    "id" : "4xtgO9StwSulqElgrtdtIg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7ebf0d6fff8ce56d380eb05b3d3dde67a8a02368",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d64ba6ab69c3b06587d74de26a1a3f58158b1121",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c4244ae647156d61a14595cf5722f256fc86a6b9",
+      "width" : 64
+    } ],
+    "name" : "Liars",
+    "type" : "album",
+    "uri" : "spotify:album:4xtgO9StwSulqElgrtdtIg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2z78AlkdwE2Ghj9EB50M6z",
+    "id" : "2z78AlkdwE2Ghj9EB50M6z",
+    "name" : "Liars",
+    "type" : "artist",
+    "uri" : "spotify:artist:2z78AlkdwE2Ghj9EB50M6z"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 158546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0700440"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5P4f8Kgu9hZhGXzqEV0z74"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5P4f8Kgu9hZhGXzqEV0z74",
+  "id" : "5P4f8Kgu9hZhGXzqEV0z74",
+  "name" : "Clear Island",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/409aeca54d520a61d132dd9484bf3011f843537d?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:5P4f8Kgu9hZhGXzqEV0z74"
+}
