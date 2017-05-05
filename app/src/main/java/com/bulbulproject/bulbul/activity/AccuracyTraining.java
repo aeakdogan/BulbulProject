@@ -44,6 +44,7 @@ public class AccuracyTraining extends AppCompatActivity {
 
     ArrayList<MySong> mSongs;
     private View mProgressView;
+    boolean isPlaying;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,6 +62,7 @@ public class AccuracyTraining extends AppCompatActivity {
         mProgressView.setVisibility(View.VISIBLE);
 
         mSongs = new ArrayList<>();
+        isPlaying = false;
 
         textViewArtistName = (TextView) findViewById(R.id.artist_name);
         textViewAlbumName = (TextView) findViewById(R.id.album_name);
@@ -73,17 +75,17 @@ public class AccuracyTraining extends AppCompatActivity {
         ratingBarSong.setOnRatingBarChangeListener(new RatingBar.OnRatingBarChangeListener() {
             @Override
             public void onRatingChanged(RatingBar ratingBar, float rating, boolean fromUser) {
+                if(mSongs.get(currentOrder).getRating() == 0 && rating != 0){
+                    Handler handler = new Handler();
+                    handler.postDelayed(new Runnable() {
+                        @Override
+                        public void run() {
+                            clicked_icon(findViewById(R.id.icon_next));
+                        }
+                    }, 100);
+                }
                 mSongs.get(currentOrder).setRating(rating);
-                //updateUI();
-
-                Handler handler = new Handler();
-                handler.postDelayed(new Runnable() {
-                    @Override
-                    public void run() {
-                        clicked_icon(findViewById(R.id.icon_next));
-                    }
-                }, 100);
-
+                textViewRateSong.setText(String.valueOf(rating));
             }
         });
         //Fetch data and update ui
@@ -116,7 +118,6 @@ public class AccuracyTraining extends AppCompatActivity {
                                         @Override
                                         public void run() {
                                             mProgressView.setVisibility(View.GONE);
-                                            playSong(mSongs.get(currentOrder));
                                             updateUI();
                                         }
                                     });
@@ -137,6 +138,19 @@ public class AccuracyTraining extends AppCompatActivity {
     }
 
     public void clicked_icon(View v) {
+        if(v.getId() == R.id.icon_music_control){
+            if(!isPlaying){
+                ((ImageView)v).setImageResource(R.drawable.icon_pause);
+                playSong(mSongs.get(currentOrder));
+                isPlaying = true;
+            }
+            else {
+                ((ImageView)v).setImageResource(R.drawable.icon_play);
+                pauseSong(mSongs.get(currentOrder));
+                isPlaying = false;
+            }
+            return;
+        }
         if (v.getId() == R.id.icon_prev) {
             if (currentOrder == 0)
                 return;
@@ -151,8 +165,10 @@ public class AccuracyTraining extends AppCompatActivity {
             }
             currentOrder++;
         }
+        isPlaying = false;
+
         updateUI();
-        playSong(mSongs.get(currentOrder));
+        releasePlayer();
     }
 
     void updateUI() {
@@ -164,7 +180,7 @@ public class AccuracyTraining extends AppCompatActivity {
         textViewArtistName.setText(mSongs.get(currentOrder).getArtistName());
         textViewAlbumName.setText(mSongs.get(currentOrder).getAlbumName());
         textViewSongName.setText(mSongs.get(currentOrder).getName());
-
+        ((ImageView)findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
 
         Picasso.with(getApplicationContext())
                 .load(mSongs.get(currentOrder).getImageUrl())
@@ -174,8 +190,12 @@ public class AccuracyTraining extends AppCompatActivity {
     }
 
     void playSong(MySong song) {
-
-        releasePlayer();
+        if(isPlaying)
+            return;
+        if(mMediaPlayer != null && mMediaPlayer.getAudioSessionId() > 0){
+            mMediaPlayer.start();
+            return;
+        }
         if (song.getPreviewUrl() != null && !song.getPreviewUrl().isEmpty()) {
             mMediaPlayer = new MediaPlayer();
             try {
@@ -190,6 +210,14 @@ public class AccuracyTraining extends AppCompatActivity {
         }
     }
 
+    void pauseSong(MySong song){
+        if(song.getPreviewUrl() != null && isPlaying){
+            mMediaPlayer.pause();
+        } else {
+            Toast.makeText(getApplicationContext(), "Pause is unavailable", Toast.LENGTH_SHORT).show();
+        }
+    }
+
     void releasePlayer(){
         if (mMediaPlayer != null) {
             try {
@@ -198,6 +226,13 @@ public class AccuracyTraining extends AppCompatActivity {
                 e.printStackTrace();
             }
         }
+        mMediaPlayer = null;
+    }
+
+    @Override
+    public void finish() {
+        super.finish();
+        releasePlayer();
     }
 
     @Override

@@ -108,6 +108,15 @@
                     android:layout_width="40dp"
                     android:layout_height="match_parent"/>
                 <ImageView
+                    android:id="@+id/icon_music_control"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:src="@drawable/icon_play"
+                    android:onClick="clicked_icon"/>
+                <View
+                    android:layout_width="40dp"
+                    android:layout_height="match_parent"/>
+                <ImageView
                     android:id="@+id/icon_next"
                     android:layout_width="64dp"
                     android:layout_height="64dp"
