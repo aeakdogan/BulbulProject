@@ -34,7 +34,7 @@ public class HomeFragment extends Fragment {
         rootView.findViewById(R.id.test_button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), AccuracyTraining.class);
+                Intent intent = new Intent(getActivity(), CategorySelectorActivity.class);
                 startActivity(intent);
             }
         });
@@ -46,15 +46,6 @@ public class HomeFragment extends Fragment {
                 startActivity(intent);
             }
         });
-
-   rootView.findViewById(R.id.category_button).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), CategorySelectorActivity.class);
-                startActivity(intent);
-            }
-        });
-
 
         return rootView;
     }

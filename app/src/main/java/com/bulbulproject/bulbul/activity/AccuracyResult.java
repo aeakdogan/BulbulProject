@@ -47,7 +47,7 @@ public class AccuracyResult extends AppCompatActivity {
     }
 
     void restart_training() {
-        Intent intent = new Intent(getApplicationContext(), AccuracyTraining.class);
+        Intent intent = new Intent(getApplicationContext(), CategorySelectorActivity.class);
         startActivity(intent);
     }
 

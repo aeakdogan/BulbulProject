@@ -16,17 +16,25 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="?attr/colorPrimary"
-            app:popupTheme="@style/AppTheme.NoActionBar.PopupOverlay" >
+            app:popupTheme="@style/AppTheme.NoActionBar.PopupOverlay">
+
             <Button
                 android:id="@+id/button_next"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:text="Next"
-                android:background="@android:color/transparent"
                 android:layout_gravity="right"
-                />
+                android:background="@android:color/transparent"
+                android:text="Next" />
         </android.support.v7.widget.Toolbar>
     </android.support.design.widget.AppBarLayout>
+
+    <ProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="128dp"
+        android:visibility="gone" />
 
     <include layout="@layout/content_category_selector" />
 
