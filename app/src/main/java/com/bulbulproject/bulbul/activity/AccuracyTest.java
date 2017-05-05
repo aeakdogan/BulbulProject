@@ -40,6 +40,7 @@ public class AccuracyTest extends AppCompatActivity {
 
     ArrayList<MySong> mSongs;
     private View mProgressView;
+    boolean isPlaying;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,6 +57,7 @@ public class AccuracyTest extends AppCompatActivity {
         mProgressView.setVisibility(View.VISIBLE);
 
         mSongs = new ArrayList<>();
+        isPlaying = false;
 
         textViewArtistName = (TextView) findViewById(R.id.artist_name);
         textViewAlbumName = (TextView) findViewById(R.id.album_name);
@@ -93,7 +95,6 @@ public class AccuracyTest extends AppCompatActivity {
                                         public void run() {
                                             mProgressView.setVisibility(View.GONE);
                                             updateUI();
-                                            playSong(mSongs.get(currentOrder));
                                         }
                                     });
                                 }
@@ -113,7 +114,19 @@ public class AccuracyTest extends AppCompatActivity {
     }
 
     public void clicked_icon(View v) {
-
+        if(v.getId() == R.id.icon_music_control){
+            if(!isPlaying){
+                ((ImageView)v).setImageResource(R.drawable.icon_pause);
+                playSong(mSongs.get(currentOrder));
+                isPlaying = true;
+            }
+            else {
+                ((ImageView)v).setImageResource(R.drawable.icon_play);
+                pauseSong(mSongs.get(currentOrder));
+                isPlaying = false;
+            }
+            return;
+        }
 
         if (v.getId() == R.id.icon_bad || v.getId() == R.id.icon_neutral || v.getId() == R.id.icon_good) {
             if (v.getId() == R.id.icon_bad) {
@@ -130,15 +143,19 @@ public class AccuracyTest extends AppCompatActivity {
                 return;
             }
             currentOrder++;
+            isPlaying = false;
             updateUI();
-            playSong(mSongs.get(currentOrder));
+            releasePlayer();
         }
     }
 
     void playSong(MySong song) {
-
-        releasePlayer();
-
+        if(isPlaying)
+            return;
+        if(mMediaPlayer != null && mMediaPlayer.getAudioSessionId() > 0){
+            mMediaPlayer.start();
+            return;
+        }
         if (song.getPreviewUrl() != null && !song.getPreviewUrl().isEmpty()) {
             mMediaPlayer = new MediaPlayer();
             try {
@@ -153,7 +170,15 @@ public class AccuracyTest extends AppCompatActivity {
         }
     }
 
-    void releasePlayer() {
+    void pauseSong(MySong song){
+        if(song.getPreviewUrl() != null && isPlaying){
+            mMediaPlayer.pause();
+        } else {
+            Toast.makeText(getApplicationContext(), "Pause is unavailable", Toast.LENGTH_SHORT).show();
+        }
+    }
+
+    void releasePlayer(){
         if (mMediaPlayer != null) {
             try {
                 mMediaPlayer.release();
@@ -161,6 +186,13 @@ public class AccuracyTest extends AppCompatActivity {
                 e.printStackTrace();
             }
         }
+        mMediaPlayer = null;
+    }
+
+    @Override
+    public void finish() {
+        super.finish();
+        releasePlayer();
     }
 
     void updateUI() {
@@ -169,7 +201,7 @@ public class AccuracyTest extends AppCompatActivity {
         textViewArtistName.setText(mSongs.get(currentOrder).getArtistName());
         textViewAlbumName.setText(mSongs.get(currentOrder).getAlbumName());
         textViewSongName.setText(mSongs.get(currentOrder).getName());
-
+        ((ImageView)findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
 
         Picasso.with(getApplicationContext())
                 .load(mSongs.get(currentOrder).getImageUrl())

@@ -70,34 +70,51 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="horizontal"
-            android:gravity="center|bottom"
+            android:orientation="vertical"
             android:layout_marginBottom="10dp"
-            android:layout_marginTop="30dp">
-            <ImageView
-                android:id="@+id/icon_bad"
-                android:layout_width="64dp"
-                android:layout_height="64dp"
-                android:src="@drawable/icon_bad"
-                android:onClick="clicked_icon"/>
-            <View
-                android:layout_width="20dp"
-                android:layout_height="match_parent"/>
-            <ImageView
-                android:id="@+id/icon_neutral"
-                android:layout_width="64dp"
-                android:layout_height="64dp"
-                android:src="@drawable/icon_neutral"
-                android:onClick="clicked_icon"/>
-            <View
-                android:layout_width="20dp"
-                android:layout_height="match_parent"/>
-            <ImageView
-                android:id="@+id/icon_good"
-                android:layout_width="64dp"
-                android:layout_height="64dp"
-                android:src="@drawable/icon_good"
-                android:onClick="clicked_icon"/>
+            android:gravity="bottom">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center|bottom">
+                <ImageView
+                    android:id="@+id/icon_bad"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:src="@drawable/icon_bad"
+                    android:onClick="clicked_icon"/>
+                <View
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"/>
+                <ImageView
+                    android:id="@+id/icon_neutral"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:src="@drawable/icon_neutral"
+                    android:onClick="clicked_icon"/>
+                <View
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"/>
+                <ImageView
+                    android:id="@+id/icon_good"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:src="@drawable/icon_good"
+                    android:onClick="clicked_icon"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+                <ImageView
+                    android:id="@+id/icon_music_control"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:src="@drawable/icon_play"
+                    android:onClick="clicked_icon"/>
+            </LinearLayout>
         </LinearLayout>
     </LinearLayout>
 
