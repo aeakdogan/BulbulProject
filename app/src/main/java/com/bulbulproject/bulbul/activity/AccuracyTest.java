@@ -1,8 +1,12 @@
 package com.bulbulproject.bulbul.activity;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
+import android.graphics.drawable.BitmapDrawable;
 import android.media.MediaPlayer;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
@@ -14,6 +18,8 @@ import android.widget.Toast;
 import com.apollographql.apollo.ApolloCall;
 import com.apollographql.apollo.api.Response;
 import com.apollographql.apollo.exception.ApolloException;
+import com.bulbulproject.RecommendationsQuery;
+import com.bulbulproject.RequestRecommendationMutation;
 import com.bulbulproject.TrackQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
@@ -38,6 +44,9 @@ public class AccuracyTest extends AppCompatActivity {
     ImageView imageViewAlbumImage;
     MediaPlayer mMediaPlayer;
 
+    Handler mHandler;
+    Runnable fetcher;
+
     ArrayList<MySong> mSongs;
     private View mProgressView;
     boolean isPlaying;
@@ -45,6 +54,7 @@ public class AccuracyTest extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        mHandler = new Handler();
         setContentView(R.layout.activity_accuracy_test);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
@@ -65,63 +75,22 @@ public class AccuracyTest extends AppCompatActivity {
         textViewSongCounter = (TextView) findViewById(R.id.text_song_counter);
         imageViewAlbumImage = (ImageView) findViewById(R.id.album_img);
 
-        ((App) getApplication()).apolloClient().newCall(
-                TrackQuery.builder()
-                        .limit(songsSize)
-                        .skip(30)
-                        .build())
-                .enqueue(
-                        new ApolloCall.Callback<TrackQuery.Data>() {
-                            @Override
-                            public void onResponse(@Nonnull Response<TrackQuery.Data> response) {
-                                if (response.isSuccessful()) {
-                                    List<TrackQuery.Data.Track> trackList = response.data().tracks();
-                                    for (TrackQuery.Data.Track track : trackList) {
-                                        //Mapping api's track model to existing Song model
-                                        MySong mSong = new MySong(track.id(),
-                                                track.name(),
-                                                (track.albums().size()>0)?track.albums().get(0).name():"Album",
-                                                (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
-//                                                "Artist",
-                                                0,
-                                                track.spotify_album_img(),
-                                                track.spotify_track_preview_url()
-                                        );
-                                        mSongs.add(mSong);
-                                    }
-                                    //Update ui for adding new elements to list
-                                    runOnUiThread(new Runnable() {
-                                        @Override
-                                        public void run() {
-                                            mProgressView.setVisibility(View.GONE);
-                                            updateUI();
-                                        }
-                                    });
-                                }
-                            }
-
-                            @Override
-                            public void onFailure(@Nonnull ApolloException e) {
-                                final String text = e.getMessage();
-                                runOnUiThread(new Runnable() {
-                                    @Override
-                                    public void run() {
-                                        Toast.makeText(AccuracyTest.this, text, Toast.LENGTH_SHORT).show();
-                                    }
-                                });
-                            }
-                        });
+        requestRecommendation();
     }
 
     public void clicked_icon(View v) {
-        if(v.getId() == R.id.icon_music_control){
-            if(!isPlaying){
-                ((ImageView)v).setImageResource(R.drawable.icon_pause);
+        if (v.getId() == R.id.icon_music_control) {
+            ImageView i = (ImageView) v;
+            if(i != null) {
+                ((BitmapDrawable)i.getDrawable()).getBitmap().recycle();
+            }
+            if (!isPlaying) {
+
+                i.setImageResource(R.drawable.icon_pause);
                 playSong(mSongs.get(currentOrder));
                 isPlaying = true;
-            }
-            else {
-                ((ImageView)v).setImageResource(R.drawable.icon_play);
+            } else {
+                i.setImageResource(R.drawable.icon_play);
                 pauseSong(mSongs.get(currentOrder));
                 isPlaying = false;
             }
@@ -150,9 +119,9 @@ public class AccuracyTest extends AppCompatActivity {
     }
 
     void playSong(MySong song) {
-        if(isPlaying)
+        if (isPlaying)
             return;
-        if(mMediaPlayer != null && mMediaPlayer.getAudioSessionId() > 0){
+        if (mMediaPlayer != null && mMediaPlayer.getAudioSessionId() > 0) {
             mMediaPlayer.start();
             return;
         }
@@ -170,15 +139,15 @@ public class AccuracyTest extends AppCompatActivity {
         }
     }
 
-    void pauseSong(MySong song){
-        if(song.getPreviewUrl() != null && isPlaying){
+    void pauseSong(MySong song) {
+        if (song.getPreviewUrl() != null && isPlaying) {
             mMediaPlayer.pause();
         } else {
             Toast.makeText(getApplicationContext(), "Pause is unavailable", Toast.LENGTH_SHORT).show();
         }
     }
 
-    void releasePlayer(){
+    void releasePlayer() {
         if (mMediaPlayer != null) {
             try {
                 mMediaPlayer.release();
@@ -201,7 +170,7 @@ public class AccuracyTest extends AppCompatActivity {
         textViewArtistName.setText(mSongs.get(currentOrder).getArtistName());
         textViewAlbumName.setText(mSongs.get(currentOrder).getAlbumName());
         textViewSongName.setText(mSongs.get(currentOrder).getName());
-        ((ImageView)findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
+        ((ImageView) findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
 
         Picasso.with(getApplicationContext())
                 .load(mSongs.get(currentOrder).getImageUrl())
@@ -210,6 +179,97 @@ public class AccuracyTest extends AppCompatActivity {
                 .into(imageViewAlbumImage);
     }
 
+    private void requestRecommendation() {
+        Intent intent = getIntent();
+        final SharedPreferences sp = getApplication().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE);
+        if (intent.hasExtra("track_ids") && intent.hasExtra("ratings")) {
+            ((App) getApplication()).apolloClient().newCall(RequestRecommendationMutation.builder()
+                    .track_ids(intent.getIntegerArrayListExtra("track_ids"))
+                    .token(sp.getString("AUTH_TOKEN", ""))
+                    .ratings(intent.getIntegerArrayListExtra("ratings")).build()).enqueue(new ApolloCall.Callback<RequestRecommendationMutation.Data>() {
+                @Override
+                public void onResponse(@Nonnull Response<RequestRecommendationMutation.Data> response) {
+                    if (response.isSuccessful()) {
+                        int id = response.data().requestRecommendation().id();
+                        fetchRecommendation(id);
+                    }
+                }
+
+                @Override
+                public void onFailure(@Nonnull ApolloException e) {
+                    final String text = e.getMessage();
+                    e.printStackTrace();
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            Toast.makeText(AccuracyTest.this, text, Toast.LENGTH_SHORT).show();
+                        }
+                    });
+                }
+            });
+        }
+    }
+
+    private void fetchRecommendation(final int id) {
+        if(fetcher!= null){
+            mHandler.removeCallbacks(fetcher);
+        }
+        ((App) getApplication()).apolloClient().newCall(RecommendationsQuery.builder().id(id).build()).enqueue(new ApolloCall.Callback<RecommendationsQuery.Data>() {
+            @Override
+            public void onResponse(@Nonnull Response<RecommendationsQuery.Data> response) {
+                if (response.isSuccessful() && response.data().recommendations() != null && response.data().recommendations().get(0).status().equals("READY")) {
+                    RecommendationsQuery.Data.Recommendation recommendation = response.data().recommendations().get(0);
+                    if (recommendation.tracks() != null) {
+                        List<RecommendationsQuery.Data.Track> tracks = recommendation.tracks();
+                        for (RecommendationsQuery.Data.Track track : tracks) {
+                            MySong mySong = new MySong(track.id(),
+                                    track.name(),
+                                    (track.albums().size() > 0) ? track.albums().get(0).name() : "Album",
+                                    (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
+//                                                "Artist",
+                                    0,
+                                    track.spotify_album_img(),
+                                    track.spotify_track_preview_url()
+
+                            );
+                            mSongs.add(mySong);
+
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    mProgressView.setVisibility(View.GONE);
+                                    updateUI();
+                                }
+                            });
+                        }
+                    }
+                } else {
+                    if (fetcher == null) {
+                        fetcher = new Runnable() {
+                            @Override
+                            public void run() {
+                                fetchRecommendation(id);
+                            }
+                        };
+                    }
+                    mHandler.postDelayed(fetcher, 5000);
+                }
+            }
+
+
+            @Override
+            public void onFailure(@Nonnull ApolloException e) {
+                final String text = e.getMessage();
+                e.printStackTrace();
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(AccuracyTest.this, text, Toast.LENGTH_SHORT).show();
+                    }
+                });
+            }
+        });
+    }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {

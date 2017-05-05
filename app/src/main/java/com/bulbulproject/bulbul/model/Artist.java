@@ -28,8 +28,8 @@ public class Artist {
         this.albums = new ArrayList<Album>();
     }
 
-    public Artist(String name, String imageUrl) {
-
+    public Artist(int id,String name, String imageUrl) {
+        this.id = id;
         this.name = name;
         this.albums = new ArrayList<Album>();
         this.imageUrl = imageUrl;

@@ -28,7 +28,13 @@
         </android.support.v7.widget.Toolbar>
 
     </android.support.design.widget.AppBarLayout>
-
+    <ProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="128dp"
+        android:visibility="gone" />
     <include layout="@layout/content_artist_selector" />
 
 </android.support.design.widget.CoordinatorLayout>
