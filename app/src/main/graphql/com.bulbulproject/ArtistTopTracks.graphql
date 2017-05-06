@@ -9,6 +9,7 @@ query ArtistTopTracks($id: Int, $limit: Int, $skip: Int, $ids: [Int]) {
       }
       albums {
         name
+        image
       }
       spotify_album_img
       spotify_track_preview_url
