@@ -5,6 +5,7 @@ query PlaylistsQuery($id: Int, $limit: Int, $skip:Int, $ids: [Int]) {
        	tracks{
           id
           name
+          spotify_album_img
           spotify_track_id
           artists{
             name

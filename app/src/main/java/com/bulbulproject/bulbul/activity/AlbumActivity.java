@@ -81,8 +81,7 @@ public class AlbumActivity extends AppCompatActivity {
 
                                 if(album.tracks()!=null) {
                                     for (AlbumQuery.Data.Track track : album.tracks()) {
-                                        Song song = new Song(track.id(), track.name(), 0, track.spotify_track_id());
-
+                                        Song song = new Song(track.id(), track.name(), track.spotify_album_img(), track.spotify_track_id());
                                         if(track.artists() != null) {
                                             for (AlbumQuery.Data.Artist1 artist : track.artists()) {
                                                 song.getArtists().add(new Artist(artist.name()));

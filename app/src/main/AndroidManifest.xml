@@ -96,6 +96,9 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".activity.SongListActivity" />
         <activity android:name=".activity.SearchActivity"></activity>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="70b47953f6a8aa68866a84e370b46837f2c2fcd5" />
     </application>
 
 </manifest>

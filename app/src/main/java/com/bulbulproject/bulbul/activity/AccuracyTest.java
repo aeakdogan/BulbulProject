@@ -20,10 +20,11 @@ import com.apollographql.apollo.api.Response;
 import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.RecommendationsQuery;
 import com.bulbulproject.RequestRecommendationMutation;
-import com.bulbulproject.TrackQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.model.MySong;
+import com.bulbulproject.bulbul.model.Album;
+import com.bulbulproject.bulbul.model.Artist;
+import com.bulbulproject.bulbul.model.Song;
 import com.squareup.picasso.Picasso;
 
 import java.io.IOException;
@@ -47,7 +48,7 @@ public class AccuracyTest extends AppCompatActivity {
     Handler mHandler;
     Runnable fetcher;
 
-    ArrayList<MySong> mSongs;
+    ArrayList<Song> mSongs;
     private View mProgressView;
     boolean isPlaying;
 
@@ -118,7 +119,7 @@ public class AccuracyTest extends AppCompatActivity {
         }
     }
 
-    void playSong(MySong song) {
+    void playSong(Song song) {
         if (isPlaying)
             return;
         if (mMediaPlayer != null && mMediaPlayer.getAudioSessionId() > 0) {
@@ -139,7 +140,7 @@ public class AccuracyTest extends AppCompatActivity {
         }
     }
 
-    void pauseSong(MySong song) {
+    void pauseSong(Song song) {
         if (song.getPreviewUrl() != null && isPlaying) {
             mMediaPlayer.pause();
         } else {
@@ -167,8 +168,8 @@ public class AccuracyTest extends AppCompatActivity {
     void updateUI() {
         textViewSongCounter.setText("Song: " + (currentOrder + 1) + "/" + songsSize);
 
-        textViewArtistName.setText(mSongs.get(currentOrder).getArtistName());
-        textViewAlbumName.setText(mSongs.get(currentOrder).getAlbumName());
+        textViewArtistName.setText(mSongs.get(currentOrder).getFirstArtistName());
+        textViewAlbumName.setText(mSongs.get(currentOrder).getFirstAlbumName());
         textViewSongName.setText(mSongs.get(currentOrder).getName());
         ((ImageView) findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
 
@@ -222,26 +223,33 @@ public class AccuracyTest extends AppCompatActivity {
                     if (recommendation.tracks() != null) {
                         List<RecommendationsQuery.Data.Track> tracks = recommendation.tracks();
                         for (RecommendationsQuery.Data.Track track : tracks) {
-                            MySong mySong = new MySong(track.id(),
+                            Song mSong = new Song(track.id(),
                                     track.name(),
-                                    (track.albums().size() > 0) ? track.albums().get(0).name() : "Album",
-                                    (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
-//                                                "Artist",
                                     0,
                                     track.spotify_album_img(),
                                     track.spotify_track_preview_url()
 
                             );
-                            mSongs.add(mySong);
-
-                            runOnUiThread(new Runnable() {
-                                @Override
-                                public void run() {
-                                    mProgressView.setVisibility(View.GONE);
-                                    updateUI();
+                            if (track.artists() != null) {
+                                for (RecommendationsQuery.Data.Artist artist : track.artists()) {
+                                    mSong.getArtists().add(new Artist(artist.name()));
                                 }
-                            });
+                            }
+
+                            if (track.albums() != null) {
+                                for (RecommendationsQuery.Data.Album album : track.albums()) {
+                                    mSong.getAlbums().add(new Album(album.name(), album.image()));
+                                }
+                            }
+                            mSongs.add(mSong);
                         }
+                        runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                mProgressView.setVisibility(View.GONE);
+                                updateUI();
+                        }
+                            });
                     }
                 } else {
                     if (fetcher == null) {
