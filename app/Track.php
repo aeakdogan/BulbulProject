@@ -20,7 +20,11 @@ class Track extends Model
     }
 
     public function tags(){
-        return $this->hasMany('App\Track','TAGGED');
+        return $this->hasMany('App\Tag','TAGGED');
+    }
+
+    public function genres(){
+        return $this->hasMany('App\Genre','IN');
     }
 
     public function listenedBy(){

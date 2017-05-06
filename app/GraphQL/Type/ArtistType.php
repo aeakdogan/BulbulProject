@@ -67,7 +67,22 @@ class ArtistType extends GraphQLType
                 'type' => Type::string(),
                 'description' => 'The url of artist biography'
             ],
+            'topTracks' => [
+                'type' => Type::listOf(GraphQL::type('Track')),
+                'description' => 'Top tracks of genre',
+                'args' => [
+                    'limit' => ['description' => 'Number of tracks to be fetched', 'type' => Type::int()],
+                    'skip' => ['description' => 'Number of tracks to be skipped', 'type' => Type::int()],
+                ]
+            ],
         ];
+    }
+
+    protected function resolveTopTracksField($root, $args)
+    {
+        $limit = isset($args['limit']) ? $args['limit'] : 100;
+        $skip = isset($args['skip']) ? $args['skip'] : 0;
+        return $root->getTopTracks($limit, $skip);
     }
 
 }

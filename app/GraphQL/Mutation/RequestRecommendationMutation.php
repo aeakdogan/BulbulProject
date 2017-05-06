@@ -27,24 +27,35 @@ class RequestRecommendationMutation extends Mutation
     public function args()
     {
         return [
-            'ratings' => ['name' => 'ratings', 'type' => Type::listOf(Type::int())],
-            'track_ids' => ['name' => 'track_ids', 'type' => Type::listOf(Type::int())],
+            'ratings' => ['name' => 'ratings', 'type' => Type::nonNull(Type::listOf(Type::int()))],
+            'track_ids' => ['name' => 'track_ids', 'type' => Type::nonNull(Type::listOf(Type::int()))],
+            'artist_ids' => ['name' => 'artist_ids', 'type' => Type::nonNull(Type::listOf(Type::int()))],
+            'genre_ids' => ['name' => 'genre_ids', 'type' => Type::nonNull(Type::listOf(Type::int()))],
             'token' => ['name' => 'token', 'type' => Type::nonNull(Type::string())]
         ];
     }
 
     public function resolve($root, $args)
     {
-        $r = Recommendation::create(['status' => 'NOT_READY']);
+        $r = Recommendation::create(
+            [
+                'status' => 'NOT_READY',
+                'artist_ids' => $args['artist_ids'],
+                'genre_ids' => $args['genre_ids']
+            ]);
         $user = JWTAuth::authenticate($args['token']);
         $user->recommendations()->attach($r);
-        $mbids = Track::find($args['track_ids'])->pluck('mbid');
+        $r->mbids = Track::with('genres')->whereHas('genres',
+            function ($query) use ($args){$query->whereIn('id', $args['genre_ids']);})
+            ->orderBy('playcount', 'DESC')->take(1000/count($args['genre_ids']))->get()->pluck('mbid');
+        $rating_mbids = Track::find($args['track_ids'])->pluck('mbid');
+
         foreach ($args['ratings'] as $key => $rating) {
 
             $rating = Rating::create(
                 [
                     'track_id' => $args['track_ids'][$key],
-                    'mbid' => $mbids[$key],
+                    'mbid' => $rating_mbids[$key],
                     'value' => $args['ratings'][$key]
                 ]);
 

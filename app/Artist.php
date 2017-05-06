@@ -41,4 +41,12 @@ class Artist extends Model
         return $this->hasMany('App\Genre', 'IN');
     }
 
+    public function getTopTracks($limit, $skip)
+    {
+        return Track::with('artists')->whereHas('artists',
+            function ($query) {
+                $query->where('id', $this->id);
+            })->orderBy('playcount', 'DESC')->skip($skip)->take($limit)->get();
+    }
+
 }
