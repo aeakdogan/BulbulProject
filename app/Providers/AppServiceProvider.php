@@ -6,6 +6,7 @@ use App\Events\RecommendationRequested;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Event;
 use App\Recommendation;
+use Log;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -27,9 +28,9 @@ class AppServiceProvider extends ServiceProvider
     public function register()
     {
 //        Database logger
-//        Event::listen('Illuminate\Database\Events\QueryExecuted', function($query)
-//        {
-//            Log::info($query->sql);
-//        });
+        Event::listen('Illuminate\Database\Events\QueryExecuted', function($query)
+        {
+            Log::info($query->sql);
+        });
     }
 }

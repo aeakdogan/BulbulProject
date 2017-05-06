@@ -21,6 +21,7 @@ class GenresQuery extends Query
             'limit' => ['name' => 'limit', 'type' => Type::int()],
             'skip' => ['name' => 'skip', 'type' => Type::int()],
             'ids' => ['name' => 'ids', 'type' => Type::listOf(Type::int())],
+            'query' => ['name' => 'query', 'type' => Type::string()]
         ];
     }
 
@@ -44,10 +45,12 @@ class GenresQuery extends Query
         } else if (isset($args['ids'])) {
              $genres->whereIn('id',$args['ids']);
         } else {
+            if(isset($args['query'])) $genres->where('name','CONTAINS',$args['query'] );
             $limit = isset($args['limit']) ? $args['limit'] : 100;
             $skip = isset($args['skip']) ? $args['skip'] : 0;
              $genres->take($limit)->skip($skip);
         }
+        $genres->orderBy('name','ASC');
         return $genres->get();
     }
 

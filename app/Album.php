@@ -3,7 +3,9 @@
 namespace App;
 
 use Vinelab\NeoEloquent\Eloquent\Model;
-
+use Illuminate\Database\Eloquent\Builder;
+use Everyman\Neo4j\Cypher\Query;
+use DB;
 
 class Album extends Model
 {
@@ -27,4 +29,14 @@ class Album extends Model
         return $this->hasMany('App\Artist', 'BY');
     }
 
+    public static function search(Builder $b,$t, $limit, $skip){
+        $searchText = addslashes($t);
+        $queryString = 'MATCH (n:Album) WHERE toLower(n.name) CONTAINS toLower("'.$searchText.'") RETURN ID(n) SKIP '.intval($skip).' LIMIT '. intval($limit);
+        $client = DB::getClient();
+        $query = new Query($client, $queryString);
+        $result = $query->getResultSet();
+        $s = [];
+        foreach($result as $r) $s[] = $r['n'];
+        return $b->whereIn('id', $s);
+    }
 }

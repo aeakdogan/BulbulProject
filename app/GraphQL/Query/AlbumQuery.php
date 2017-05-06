@@ -21,6 +21,7 @@ class AlbumQuery extends Query
             'limit' => ['name' => 'limit', 'type' => Type::int()],
             'skip' => ['name' => 'skip', 'type' => Type::int()],
             'ids' => ['name' => 'ids', 'type' => Type::listOf(Type::int())],
+            'query' => ['name' => 'query', 'type' => Type::string()]
         ];
     }
 
@@ -49,6 +50,7 @@ class AlbumQuery extends Query
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
             $skip = isset($args['skip']) ? $args['skip'] : 0;
+            if(isset($args['query'])) Album::search($albums, $args['query'],$limit,$skip);
             $albums->take($limit)->skip($skip);
         }
         return $albums->get();

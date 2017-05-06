@@ -41,6 +41,7 @@ class TrackQuery extends Query
             'min_loudness' => ['name' => 'min_loudness', 'type' => Type::float()],
             'max_loudness' => ['name' => 'max_loudness', 'type' => Type::float()],
             'ids' => ['name' => 'ids', 'type' => Type::listOf(Type::int())],
+            'query' => ['name' => 'query', 'type' => Type::string()]
         ];
     }
 
@@ -122,6 +123,8 @@ class TrackQuery extends Query
 
             $limit = isset($args['limit']) ? $args['limit'] : 100;
             $skip = isset($args['skip']) ? $args['skip'] : 0;
+            if(isset($args['query'])) Track::search($tracks, $args['query'],$limit,$skip);
+
             $tracks->take($limit)->skip($skip);
         }
 

@@ -2,8 +2,10 @@
 
 namespace App;
 
+use Illuminate\Database\Eloquent\Builder;
 use Vinelab\NeoEloquent\Eloquent\Model;
-
+use Everyman\Neo4j\Cypher\Query;
+use DB;
 
 class Artist extends Model
 {
@@ -47,6 +49,18 @@ class Artist extends Model
             function ($query) {
                 $query->where('id', $this->id);
             })->orderBy('playcount', 'DESC')->skip($skip)->take($limit)->get();
+    }
+
+    public static function search(Builder $b,$t, $limit, $skip){
+        $searchText = addslashes($t);
+        $queryString = 'MATCH (n:Artist) WHERE toLower(n.name) CONTAINS toLower("'.$searchText.'") RETURN ID(n) ORDER BY n.play_count DESC SKIP '.intval($skip).' LIMIT '. intval($limit);
+        $client = DB::getClient();
+        $query = new Query($client, $queryString);
+        $result = $query->getResultSet();
+        $s = [];
+        foreach($result as $r) $s[] = $r['n'];
+
+        return $b->whereIn('id', $s);
     }
 
 }

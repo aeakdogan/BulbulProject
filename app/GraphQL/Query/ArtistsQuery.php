@@ -7,6 +7,7 @@ use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Query;
 use App\Artist;
 
+
 class ArtistsQuery extends Query
 {
     public function type()
@@ -21,6 +22,7 @@ class ArtistsQuery extends Query
             'limit' => ['name' => 'limit', 'type' => Type::int()],
             'skip' => ['name' => 'skip', 'type' => Type::int()],
             'ids' => ['name' => 'ids', 'type' => Type::listOf(Type::int())],
+            'query' => ['name' => 'query', 'type' => Type::string()]
         ];
     }
 
@@ -47,6 +49,7 @@ class ArtistsQuery extends Query
         } else {
             $limit = isset($args['limit']) ? $args['limit'] : 100;
             $skip = isset($args['skip']) ? $args['skip'] : 0;
+            if(isset($args['query'])) Artist::search($artists, $args['query'],$limit,$skip);
             $artists->take($limit)->skip($skip);
         }
         return $artists->get();
