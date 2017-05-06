@@ -1,0 +1,19 @@
+query ArtistTopTracks($id: Int, $limit: Int, $skip: Int, $ids: [Int]) {
+  artists(id: $id, limit: $limit, skip: $skip, ids: $ids) {
+    id
+    topTracks(limit: $limit) {
+      id
+      name
+      artists {
+        name
+      }
+      albums {
+        name
+      }
+      spotify_album_img
+      spotify_track_preview_url
+      duration
+      spotify_track_id
+    }
+  }
+}

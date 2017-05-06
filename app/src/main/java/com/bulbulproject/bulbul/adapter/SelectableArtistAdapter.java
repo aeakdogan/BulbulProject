@@ -41,12 +41,13 @@ public class SelectableArtistAdapter extends BaseAdapter {
 
     @Override
     public long getItemId(int position) {
-        return ((Category) getItem(position)).getId();
+        return ((Artist) getItem(position)).getId();
     }
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         ImageView i;
+        ImageView c;
         TextView t;
         View v;
         LayoutInflater inflater = (LayoutInflater) mContext
@@ -54,27 +55,34 @@ public class SelectableArtistAdapter extends BaseAdapter {
         final Artist artist = artistList.get(position);
         if (convertView == null) {
             v = inflater.inflate(R.layout.grid_single, null);
-            i = (ImageView) v.findViewById(R.id.grid_image);
-            t = (TextView) v.findViewById(R.id.grid_text);
-
-            t.setText(artist.getName());
-            Picasso.with(mContext).load(artist.getImageUrl()).placeholder(R.drawable.image4).into(i);
-            v.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    if (artist.isSelected()) {
-                        v.findViewById(R.id.grid_selected).setVisibility(View.INVISIBLE);
-                        artist.setSelected(false);
-                    } else {
-                        v.findViewById(R.id.grid_selected).setVisibility(View.VISIBLE);
-                        artist.setSelected(true);
-
-                    }
-                }
-            });
         } else {
             v = convertView;
         }
+        i = (ImageView) v.findViewById(R.id.grid_image);
+        t = (TextView) v.findViewById(R.id.grid_text);
+        c = (ImageView) v.findViewById(R.id.grid_selected);
+        if(artist.isSelected()){
+            c.setVisibility(View.VISIBLE);
+        }else{
+            c.setVisibility(View.INVISIBLE);
+        }
+
+        t.setText(artist.getName());
+        Picasso.with(mContext).load(artist.getImageUrl()).placeholder(R.drawable.artist).into(i);
+        v.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (artist.isSelected()) {
+                    v.findViewById(R.id.grid_selected).setVisibility(View.INVISIBLE);
+                    artist.setSelected(false);
+                } else {
+                    v.findViewById(R.id.grid_selected).setVisibility(View.VISIBLE);
+                    artist.setSelected(true);
+
+                }
+            }
+        });
+
 
         return v;
     }
