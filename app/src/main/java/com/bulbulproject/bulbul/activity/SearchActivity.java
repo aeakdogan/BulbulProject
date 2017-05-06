@@ -1,5 +1,6 @@
 package com.bulbulproject.bulbul.activity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
@@ -9,6 +10,8 @@ import android.support.v7.widget.Toolbar;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -80,7 +83,7 @@ public class SearchActivity extends AppCompatActivity {
 
             @Override
             public void onTextChanged(CharSequence s, int start, int before, int count) {
-                if(s.length() > 3)
+                if (s.length() > 3)
                     getSearchResult(s.toString());
             }
 
@@ -97,11 +100,13 @@ public class SearchActivity extends AppCompatActivity {
         });
         mProgressView.setVisibility(View.GONE);
     }
-    void updateSearchResult(){
+
+    void updateSearchResult() {
         mRVAdapter.notifyDataSetChanged();
         mProgressView.setVisibility(View.GONE);
     }
-    void getSearchResult(String searchText){
+
+    void getSearchResult(String searchText) {
         mProgressView.setVisibility(View.VISIBLE);
         downloadCounter = 0;
         ((App) getApplication()).apolloClient().newCall(
@@ -120,7 +125,7 @@ public class SearchActivity extends AppCompatActivity {
                                                 track.id(),
                                                 track.spotify_track_id(),
                                                 track.name(),
-                                                (track.albums().size()>0)?track.albums().get(0).name():"Album",
+                                                (track.albums().size() > 0) ? track.albums().get(0).name() : "Album",
                                                 (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
                                                 0,
                                                 track.spotify_album_img()
@@ -130,8 +135,8 @@ public class SearchActivity extends AppCompatActivity {
                                     runOnUiThread(new Runnable() {
                                         @Override
                                         public void run() {
-                                            Log.d("bulbul","songs finished");
-                                            if(++downloadCounter == 3){
+                                            Log.d("bulbul", "songs finished");
+                                            if (++downloadCounter == 3) {
                                                 updateSearchResult();
                                             }
                                         }
@@ -164,8 +169,8 @@ public class SearchActivity extends AppCompatActivity {
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
-                            Log.d("bulbul","artists finished");
-                            if(++downloadCounter == 3){
+                            Log.d("bulbul", "artists finished");
+                            if (++downloadCounter == 3) {
                                 updateSearchResult();
                             }
                         }
@@ -222,8 +227,8 @@ public class SearchActivity extends AppCompatActivity {
                             runOnUiThread(new Runnable() {
                                 @Override
                                 public void run() {
-                                    Log.d("bulbul","albums finished");
-                                    if(++downloadCounter == 3){
+                                    Log.d("bulbul", "albums finished");
+                                    if (++downloadCounter == 3) {
                                         updateSearchResult();
                                     }
                                 }
