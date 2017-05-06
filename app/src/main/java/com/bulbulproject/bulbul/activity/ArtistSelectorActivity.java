@@ -58,7 +58,7 @@ public class ArtistSelectorActivity extends AppCompatActivity {
 
         artistList = new ArrayList<Artist>();
 //        initDummyData();
-        fetchArtists(5,0);
+        fetchArtists(5, 0);
 
         mGrid = (GridView) findViewById(R.id.grid_layout);
         mAdapter = new SelectableArtistAdapter(artistList, ArtistSelectorActivity.this);
@@ -88,17 +88,25 @@ public class ArtistSelectorActivity extends AppCompatActivity {
                         for (GenreQuery.Data.Genre genre : response.data().genres()) {
                             if (genre.topArtists() != null) {
                                 for (GenreQuery.Data.TopArtist artist : genre.topArtists()) {
-                                    artistList.add(new Artist(artist.id(), artist.name(), artist.image()));
+                                    boolean exists = false;
+                                    for (Artist topArtist : artistList) {
+                                        if (topArtist.getId() == artist.id()) {
+                                            exists = true;
+                                        }
+                                    }
+                                    if (!exists) {
+                                        artistList.add(new Artist(artist.id(), artist.name(), artist.image()));
+                                    }
                                 }
                             }
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    mAdapter.notifyDataSetChanged();
+                                    mProgressView.setVisibility(View.GONE);
+                                }
+                            });
                         }
-                        runOnUiThread(new Runnable() {
-                            @Override
-                            public void run() {
-                                mAdapter.notifyDataSetChanged();
-                                mProgressView.setVisibility(View.GONE);
-                            }
-                        });
                     }
                 }
             }
@@ -135,7 +143,7 @@ public class ArtistSelectorActivity extends AppCompatActivity {
     private void startTrackSelectorActivity() {
         Intent intent = new Intent(ArtistSelectorActivity.this, AccuracyTraining.class);
         intent.putIntegerArrayListExtra("artist_ids", getSelectedArtistIds());
-        intent.putIntegerArrayListExtra("category_ids",  mCategoryIds);
+        intent.putIntegerArrayListExtra("category_ids", mCategoryIds);
         startActivity(intent);
     }
 
