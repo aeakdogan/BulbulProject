@@ -19,7 +19,9 @@ import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.TrackQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.model.MySong;
+import com.bulbulproject.bulbul.model.Album;
+import com.bulbulproject.bulbul.model.Artist;
+import com.bulbulproject.bulbul.model.Song;
 import com.squareup.picasso.Picasso;
 
 import java.io.IOException;
@@ -42,7 +44,7 @@ public class AccuracyTraining extends AppCompatActivity {
     ImageView imageViewAlbumImage;
     MediaPlayer mMediaPlayer;
 
-    ArrayList<MySong> mSongs;
+    ArrayList<Song> mSongs;
     private View mProgressView;
     boolean isPlaying;
 
@@ -101,16 +103,24 @@ public class AccuracyTraining extends AppCompatActivity {
                                     List<TrackQuery.Data.Track> trackList = response.data().tracks();
                                     for (TrackQuery.Data.Track track : trackList) {
                                         //Mapping api's track model to existing Song model
-                                        MySong mSong = new MySong(track.id(),
+                                        Song mSong = new Song(track.id(),
                                                 track.name(),
-                                                (track.albums().size() > 0) ? track.albums().get(0).name() : "Album",
-                                                (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
-//                                                "Artist",
                                                 0,
                                                 track.spotify_album_img(),
                                                 track.spotify_track_preview_url()
 
                                         );
+                                        if(track.artists() != null) {
+                                            for (TrackQuery.Data.Artist artist : track.artists()) {
+                                                mSong.getArtists().add(new Artist(artist.name()));
+                                            }
+                                        }
+
+                                        if(track.albums()!=null) {
+                                            for (TrackQuery.Data.Album album : track.albums()) {
+                                                mSong.getAlbums().add(new Album(album.name(), album.image()));
+                                            }
+                                        }
                                         mSongs.add(mSong);
                                     }
                                     //Update ui for adding new elements to list
@@ -161,7 +171,7 @@ public class AccuracyTraining extends AppCompatActivity {
                 Intent intent = new Intent(getApplicationContext(), AccuracyTest.class);
                 ArrayList<Integer> trackIds = new ArrayList<Integer>();
                 ArrayList<Integer> ratings = new ArrayList<Integer>();
-                for (MySong song : mSongs) {
+                for (Song song : mSongs) {
                     if (song.getRating() > -1) {
                         trackIds.add(song.getId());
                         ratings.add(Math.round(song.getRating()) * 2);
@@ -186,8 +196,8 @@ public class AccuracyTraining extends AppCompatActivity {
         ratingBarSong.setRating(mSongs.get(currentOrder).getRating());
         textViewRateSong.setText(String.valueOf(mSongs.get(currentOrder).getRating()));
 
-        textViewArtistName.setText(mSongs.get(currentOrder).getArtistName());
-        textViewAlbumName.setText(mSongs.get(currentOrder).getAlbumName());
+        textViewArtistName.setText(mSongs.get(currentOrder).getFirstArtistName());
+        textViewAlbumName.setText(mSongs.get(currentOrder).getFirstAlbumName());
         textViewSongName.setText(mSongs.get(currentOrder).getName());
         ((ImageView) findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
 
@@ -198,7 +208,7 @@ public class AccuracyTraining extends AppCompatActivity {
                 .into(imageViewAlbumImage);
     }
 
-    void playSong(MySong song) {
+    void playSong(Song song) {
         if (isPlaying)
             return;
         if (mMediaPlayer != null && mMediaPlayer.getAudioSessionId() > 0) {
@@ -219,7 +229,7 @@ public class AccuracyTraining extends AppCompatActivity {
         }
     }
 
-    void pauseSong(MySong song) {
+    void pauseSong(Song song) {
         if (song.getPreviewUrl() != null && isPlaying) {
             mMediaPlayer.pause();
         } else {

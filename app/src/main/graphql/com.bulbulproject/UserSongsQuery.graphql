@@ -3,9 +3,15 @@ query UserSongsQuery($token:String,$id: Int, $limit: Int, $skip:Int, $ids: [Int]
     	listenedTracks{
         id
         spotify_track_id
+        spotify_album_img
         name
         artists{
           name
+        }
+        albums{
+            id
+            name
+            image
         }
       }
     }

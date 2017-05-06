@@ -1,6 +1,5 @@
 package com.bulbulproject.bulbul.activity;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
@@ -10,8 +9,6 @@ import android.support.v7.widget.Toolbar;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -22,15 +19,12 @@ import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.AlbumQuery;
 import com.bulbulproject.ArtistQuery;
 import com.bulbulproject.TrackQuery;
-import com.bulbulproject.UserAlbumsQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.adapter.SearchResultRVAdapter;
 import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
-import com.bulbulproject.bulbul.model.MySong;
 import com.bulbulproject.bulbul.model.Song;
-import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -43,7 +37,7 @@ public class SearchActivity extends AppCompatActivity {
     private LinearLayoutManager mLayoutManager;
     private SearchResultRVAdapter mRVAdapter;
 
-    ArrayList<MySong> mSongs;
+    ArrayList<Song> mSongs;
     ArrayList<Artist> mArtists;
     ArrayList<Album> mAlbums;
     private View mProgressView;
@@ -121,15 +115,24 @@ public class SearchActivity extends AppCompatActivity {
                                     List<TrackQuery.Data.Track> trackList = response.data().tracks();
                                     for (TrackQuery.Data.Track track : trackList) {
 
-                                        MySong mSong = new MySong(
+                                        Song mSong = new Song(
                                                 track.id(),
-                                                track.spotify_track_id(),
                                                 track.name(),
-                                                (track.albums().size() > 0) ? track.albums().get(0).name() : "Album",
-                                                (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
+                                                track.spotify_track_id(),
                                                 0,
                                                 track.spotify_album_img()
                                         );
+                                        if(track.artists() != null) {
+                                            for (TrackQuery.Data.Artist artist : track.artists()) {
+                                                mSong.getArtists().add(new Artist(artist.name()));
+                                            }
+                                        }
+
+                                        if(track.albums()!=null) {
+                                            for (TrackQuery.Data.Album album : track.albums()) {
+                                                mSong.getAlbums().add(new Album(album.name(), album.image()));
+                                            }
+                                        }
                                         mSongs.add(mSong);
                                     }
                                     runOnUiThread(new Runnable() {
@@ -212,7 +215,7 @@ public class SearchActivity extends AppCompatActivity {
 
                                 if (album.tracks() != null) {
                                     for (AlbumQuery.Data.Track track : album.tracks()) {
-                                        Song song = new Song(track.id(), track.name(), 0, track.spotify_track_id());
+                                        Song song = new Song(track.id(), track.name(), track.spotify_album_img(), track.spotify_track_id());
 
                                         if (track.artists() != null) {
                                             for (AlbumQuery.Data.Artist1 artist : track.artists()) {

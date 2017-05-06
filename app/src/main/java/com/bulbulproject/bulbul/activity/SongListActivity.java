@@ -11,14 +11,14 @@ import android.view.MenuItem;
 import android.view.View;
 
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.adapter.SongListRVAdapter;
+import com.bulbulproject.bulbul.adapter.SongsRVAdapter;
 import com.bulbulproject.bulbul.service.Globals;
 
 public class SongListActivity extends AppCompatActivity {
 
     RecyclerView mRecyclerView;
     LinearLayoutManager mLayoutManager;
-    SongListRVAdapter rvAdapter;
+    SongsRVAdapter rvAdapter;
     View mProgressView;
 
     @Override
@@ -40,7 +40,7 @@ public class SongListActivity extends AppCompatActivity {
         mLayoutManager = new LinearLayoutManager(this);
         mRecyclerView.setLayoutManager(mLayoutManager);
 
-        rvAdapter = new SongListRVAdapter(Globals.mSongs, getApplicationContext());
+        rvAdapter = new SongsRVAdapter(Globals.mSongs, getApplicationContext());
         mRecyclerView.setAdapter(rvAdapter);
     }
 

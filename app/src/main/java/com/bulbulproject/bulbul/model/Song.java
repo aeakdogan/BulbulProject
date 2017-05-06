@@ -1,56 +1,99 @@
 package com.bulbulproject.bulbul.model;
 
-import android.widget.ImageView;
-
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by mesutgurlek on 2/13/17.
+ * Created by aeakdogan on 22/04/2017.
  */
 
 public class Song {
     private int id;
     private String name;
-    private int year;
-    private int durationSeconds;
-    private String genre;
-    private List<Album> albums;
-
-
-
-    private List<Artist> artists;
-    private int photoId;
+//    private String albumName;
+//    private String artistName;
+    private float rating = -1;
+    private String imageUrl;
+    private String previewUrl;
     private String spotifyUrl;
-    private float rating;
+    private List<Album> albums;
+    private List<Artist> artists;
+    int testResult;
 
-    public Song(int id, String name, int photoId, float rating) {
-        this.id = id;
-        this.name = name;
-        this.photoId = photoId;
-        this.rating = rating;
+    public Song(){
         this.albums = new ArrayList<Album>();
         this.artists = new ArrayList<Artist>();
     }
-
-    public Song(int id, String name, int photoId, float rating, String spotifyTrackId) {
+    public Song(int id, String name, String imageUrl, String spotifyUrl){
+        this();
         this.id = id;
         this.name = name;
-        this.photoId = photoId;
-        this.rating = rating;
-        this.albums = new ArrayList<Album>();
-        this.artists = new ArrayList<Artist>();
-        this.spotifyUrl = "spotify:track:"+spotifyTrackId;
+        this.imageUrl = imageUrl;
+        this.spotifyUrl =  "spotify:track:"+spotifyUrl;
     }
-
-    public Song(int id, String name, float rating, String spotifyTrackId) {
+    public Song(int id, String name, float rating, String imageUrl, String previewUrl) {
+        this();
         this.id = id;
         this.name = name;
+//        this.albumName = albumName;
+//        this.artistName = artistName;
         this.rating = rating;
-        this.albums = new ArrayList<Album>();
-        this.artists = new ArrayList<Artist>();
-        this.spotifyUrl = "spotify:track:"+spotifyTrackId;
+        this.imageUrl = imageUrl;
+        this.previewUrl = previewUrl;
     }
+
+    public Song(int id, String name, String spotifyUrl, float rating, String imageUrl) {
+        this();
+        this.id = id;
+        this.name = name;
+//        this.albumName = albumName;
+//        this.artistName = artistName;
+        this.rating = rating;
+        this.imageUrl = imageUrl;
+        this.spotifyUrl =  "spotify:track:"+spotifyUrl;
+    }
+
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public float getRating() {
+        return rating;
+    }
+
+    public void setRating(float rating) {
+        this.rating = rating;
+    }
+//    public String getAlbumName() {
+//        return albumName;
+//    }
+
+//    public String getArtistName() {
+//        return artistName;
+//    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public int getTestResult() {
+        return testResult;
+    }
+
+    public void setTestResult(int testResult) {
+        this.testResult = testResult;
+    }
+
+    public String getPreviewUrl() {
+        return previewUrl;
+    }
+
+    public String getSpotifyUrl() { return spotifyUrl;}
 
     public int getId() {
         return id;
@@ -58,59 +101,6 @@ public class Song {
 
     public void setId(int id) {
         this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-
-    public void setName(String name) {
-        this.name = name;
-    }
-    
-    public String getArtistsString() {
-        if (this.artists == null || this.artists.size() == 0)
-            return "Unknown Artist";
-
-        String str = "";
-        for (int i = 0; i < artists.size(); i++) {
-            str += artists.get(i).getName() + (i == artists.size() - 1 ? "" : ", ");
-        }
-
-        return str;
-    }
-
-    public int getYear() {
-        return year;
-    }
-
-    public void setYear(int year) {
-        this.year = year;
-    }
-
-    public int getDurationSeconds() {
-        return durationSeconds;
-    }
-
-    public void setDurationSeconds(int durationSeconds) {
-        this.durationSeconds = durationSeconds;
-    }
-
-    public String getGenre() {
-        return genre;
-    }
-
-    public void setGenre(String genre) {
-        this.genre = genre;
-    }
-
-    public List<Artist> getArtists() {
-        return artists;
-    }
-
-    public void setArtists(List<Artist> artists) {
-        this.artists = artists;
     }
 
     public List<Album> getAlbums() {
@@ -121,28 +111,22 @@ public class Song {
         this.albums = albums;
     }
 
-    public int getPhotoId() {
-        return photoId;
+    public List<Artist> getArtists() {
+        return artists;
     }
 
-    public void setPhotoId(int photoId) {
-        this.photoId = photoId;
+    public void setArtists(List<Artist> artists) {
+        this.artists = artists;
     }
 
-    public String getSpotifyUrl() {
-        return spotifyUrl;
+    public String getFirstAlbumName(){
+        if(albums.size() > 0)
+            return albums.get(0).getName();
+        return "Unknown Album";
     }
-
-    public void setSpotifyUrl(String spotifyUrl) {
-        this.spotifyUrl = spotifyUrl;
+    public String getFirstArtistName(){
+        if(artists.size() > 0)
+            return artists.get(0).getName();
+        return "Unknown Artist";
     }
-
-    public float getRating() {
-        return rating;
-    }
-
-    public void setRating(float rating) {
-        this.rating = rating;
-    }
-
 }

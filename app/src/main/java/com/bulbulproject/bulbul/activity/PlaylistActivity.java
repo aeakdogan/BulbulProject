@@ -8,7 +8,6 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.apollographql.apollo.ApolloCall;
@@ -18,14 +17,9 @@ import com.bulbulproject.PlaylistsQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.adapter.SongsRVAdapter;
-import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
-import com.bulbulproject.bulbul.model.Playlist;
 import com.bulbulproject.bulbul.model.Song;
-import com.squareup.picasso.Picasso;
-
-import java.util.ArrayList;
-import java.util.List;
+import com.bulbulproject.bulbul.model.Playlist;
 
 import javax.annotation.Nonnull;
 
@@ -75,7 +69,7 @@ public class PlaylistActivity extends AppCompatActivity {
                         mPlaylist.setId(playlist.id());
                         if (playlist.tracks() != null) {
                             for (PlaylistsQuery.Data.Track track : playlist.tracks()) {
-                                Song song = new Song(track.id(), track.name(), 0, track.spotify_track_id());
+                                Song song = new Song(track.id(), track.name(), track.spotify_album_img(), track.spotify_track_id());
                                 if (track.artists() != null) {
                                     for (PlaylistsQuery.Data.Artist trackArtist : track.artists()) {
                                         song.getArtists().add(new Artist(trackArtist.name()));

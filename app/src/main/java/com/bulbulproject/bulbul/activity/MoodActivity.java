@@ -15,7 +15,7 @@ import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.TrackQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.model.MySong;
+import com.bulbulproject.bulbul.model.Song;
 import com.bulbulproject.bulbul.service.Globals;
 
 import java.util.ArrayList;
@@ -151,7 +151,7 @@ public class MoodActivity extends AppCompatActivity {
         else if(progressSeekBarLoudness == 2)
             min_loudness = -40;
 
-        Globals.mSongs = new ArrayList<MySong>();
+        Globals.mSongs = new ArrayList<Song>();
         ((App) getApplication()).apolloClient().newCall(
                 TrackQuery.builder()
                         .limit(10)
@@ -183,13 +183,10 @@ public class MoodActivity extends AppCompatActivity {
                                     for (TrackQuery.Data.Track track : trackList) {
                                         //Mapping api's track model to existing Song model
 
-                                        MySong mSong = new MySong(
+                                        Song mSong = new Song(
                                                 track.id(),
-                                                track.spotify_track_id(),
                                                 track.name(),
-                                                (track.albums().size()>0)?track.albums().get(0).name():"Album",
-                                                (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
-//                                                "Artist",
+                                                track.spotify_track_id(),
                                                 0,
                                                 track.spotify_album_img()
                                         );

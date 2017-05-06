@@ -11,20 +11,19 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.activity.AlbumActivity;
 import com.bulbulproject.bulbul.activity.StreamActivity;
-import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Song;
+import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardViewHolder> {
-    private List<Song> songs;
+public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardViewHolder>{
+    private List<Song> mSongs;
     private Context context;
 
-    public SongsRVAdapter(List<Song> songs, Context context) {
-        this.songs = songs;
+    public SongsRVAdapter(List<Song> mSongs, Context context){
+        this.mSongs = mSongs;
         this.context = context;
     }
 
@@ -59,14 +58,19 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
 
     @Override
     public void onBindViewHolder(SongsRVAdapter.MyCardViewHolder holder, final int position) {
-        final Song tmpSong = songs.get(position);
+        final Song tmpSong = mSongs.get(position);
         final ArrayList<String> songsList = new ArrayList<String>();
-        for (Song song : songs) {
+        for (Song song : mSongs) {
             songsList.add(song.getSpotifyUrl());
         }
+
         holder.songTitle.setText(tmpSong.getName());
-        holder.songArtists.setText(tmpSong.getArtistsString());
-        holder.songPhoto.setImageResource(R.drawable.album);
+        holder.songArtists.setText(tmpSong.getFirstArtistName());
+        Picasso.with(context)
+                .load(tmpSong.getImageUrl())
+                .placeholder(R.drawable.cover_picture)
+                .error(R.drawable.album)
+                .into(holder.songPhoto);
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -79,8 +83,9 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
         });
     }
 
+
     @Override
     public int getItemCount() {
-        return songs.size();
+        return mSongs.size();
     }
 }
