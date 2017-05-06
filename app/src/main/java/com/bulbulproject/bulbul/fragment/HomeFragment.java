@@ -11,6 +11,7 @@ import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.activity.AccuracyTraining;
 import com.bulbulproject.bulbul.activity.CategorySelectorActivity;
 import com.bulbulproject.bulbul.activity.MoodActivity;
+import com.bulbulproject.bulbul.activity.SearchActivity;
 
 /**
  * Created by mesutgurlek on 2/12/17.
@@ -43,6 +44,14 @@ public class HomeFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(getActivity(), MoodActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        rootView.findViewById(R.id.search_button).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), SearchActivity.class);
                 startActivity(intent);
             }
         });
