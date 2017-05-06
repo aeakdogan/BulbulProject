@@ -49,6 +49,7 @@ public class CategoryAdapter extends BaseAdapter {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         ImageView i;
+        ImageView c;
         TextView t;
         View v;
         LayoutInflater inflater = (LayoutInflater) mContext
@@ -56,29 +57,37 @@ public class CategoryAdapter extends BaseAdapter {
         final Category category = categoryList.get(position);
         if (convertView == null) {
             v = inflater.inflate(R.layout.grid_single, null);
-            i = (ImageView) v.findViewById(R.id.grid_image);
-            t = (TextView) v.findViewById(R.id.grid_text);
-
-            t.setText(category.getName());
-            Picasso.with(mContext).load(category.getImageUrl()).placeholder(R.drawable.image4).into(i);
-            v.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    if (category.isSelected()) {
-                        v.findViewById(R.id.grid_selected).setVisibility(View.INVISIBLE);
-                        category.setSelected(false);
-                    } else {
-                        v.findViewById(R.id.grid_selected).setVisibility(View.VISIBLE);
-                        category.setSelected(true);
-
-                    }
-                }
-            });
         } else {
             v = convertView;
         }
+        i = (ImageView) v.findViewById(R.id.grid_image);
+        t = (TextView) v.findViewById(R.id.grid_text);
+        c = (ImageView) v.findViewById(R.id.grid_selected);
+        if(category.isSelected()){
+            c.setVisibility(View.VISIBLE);
+        }else{
+            c.setVisibility(View.INVISIBLE);
+        }
 
+        t.setText(category.getName());
+        if (category.getImageUrl().length() > 0) {
+            Picasso.with(mContext).load(category.getImageUrl()).placeholder(R.drawable.cover_picture).into(i);
+        }
+        v.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (category.isSelected()) {
+                    v.findViewById(R.id.grid_selected).setVisibility(View.INVISIBLE);
+                    category.setSelected(false);
+                } else {
+                    v.findViewById(R.id.grid_selected).setVisibility(View.VISIBLE);
+                    category.setSelected(true);
+
+                }
+            }
+        });
         return v;
     }
+
 
 }

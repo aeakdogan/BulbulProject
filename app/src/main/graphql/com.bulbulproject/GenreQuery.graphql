@@ -1,0 +1,11 @@
+query GenreQuery($id: Int, $limit: Int, $skip: Int, $ids: [Int], $withTopArtists: Boolean = false) {
+  genres(id: $id, ids: $ids) {
+    id
+    name
+    topArtists(limit: $limit, skip: $skip) @include(if: $withTopArtists) {
+      id
+      name
+      image
+    }
+  }
+}
