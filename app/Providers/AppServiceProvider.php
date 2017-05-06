@@ -28,9 +28,9 @@ class AppServiceProvider extends ServiceProvider
     public function register()
     {
 //        Database logger
-        Event::listen('Illuminate\Database\Events\QueryExecuted', function($query)
-        {
-            Log::info($query->sql);
-        });
+//        Event::listen('Illuminate\Database\Events\QueryExecuted', function($query)
+//        {
+//            Log::info($query->sql);
+//        });
     }
 }
