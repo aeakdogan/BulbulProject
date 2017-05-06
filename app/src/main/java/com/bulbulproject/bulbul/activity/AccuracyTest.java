@@ -43,6 +43,7 @@ public class AccuracyTest extends AppCompatActivity {
     TextView textViewAlbumName;
     TextView textViewSongName;
     ImageView imageViewAlbumImage;
+    ImageView imageViewMusicControl;
     MediaPlayer mMediaPlayer;
 
     Handler mHandler;
@@ -75,23 +76,19 @@ public class AccuracyTest extends AppCompatActivity {
         textViewSongName = (TextView) findViewById(R.id.song_name);
         textViewSongCounter = (TextView) findViewById(R.id.text_song_counter);
         imageViewAlbumImage = (ImageView) findViewById(R.id.album_img);
+        imageViewMusicControl = (ImageView) findViewById(R.id.icon_music_control);
 
         requestRecommendation();
     }
 
     public void clicked_icon(View v) {
         if (v.getId() == R.id.icon_music_control) {
-            ImageView i = (ImageView) v;
-            if (i != null) {
-                ((BitmapDrawable) i.getDrawable()).getBitmap().recycle();
-            }
             if (!isPlaying) {
-
-                i.setImageResource(R.drawable.icon_pause);
+                ((ImageView) v).setImageResource(R.drawable.icon_pause);
                 playSong(mSongs.get(currentOrder));
                 isPlaying = true;
             } else {
-                i.setImageResource(R.drawable.icon_play);
+                ((ImageView) v).setImageResource(R.drawable.icon_play);
                 pauseSong(mSongs.get(currentOrder));
                 isPlaying = false;
             }
@@ -171,7 +168,7 @@ public class AccuracyTest extends AppCompatActivity {
         textViewArtistName.setText(mSongs.get(currentOrder).getFirstArtistName());
         textViewAlbumName.setText(mSongs.get(currentOrder).getFirstAlbumName());
         textViewSongName.setText(mSongs.get(currentOrder).getName());
-        ((ImageView) findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
+        imageViewMusicControl.setImageResource(R.drawable.icon_play);
 
         Picasso.with(getApplicationContext())
                 .load(mSongs.get(currentOrder).getImageUrl())
