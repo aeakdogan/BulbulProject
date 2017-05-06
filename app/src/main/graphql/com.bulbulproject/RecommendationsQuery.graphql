@@ -1,0 +1,19 @@
+query recommendationsQuery($id:Int, $ids:[Int]){
+  recommendations(id:$id, ids:$ids){
+    status
+    tracks{
+      id
+      name
+      artists{
+          name
+      }
+      albums{
+          name
+      }
+      spotify_album_img
+      spotify_track_preview_url
+      spotify_track_id
+
+    }
+  }
+}

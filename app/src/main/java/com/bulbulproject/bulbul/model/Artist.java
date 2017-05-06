@@ -14,6 +14,7 @@ public class Artist {
     private int photoId;
     private String imageUrl;
     private int albumsCount = -1;
+    private boolean selected = false;
 
     public Artist(String name, int photoId) {
         this.name = name;
@@ -25,6 +26,13 @@ public class Artist {
 
         this.name = name;
         this.albums = new ArrayList<Album>();
+    }
+
+    public Artist(int id,String name, String imageUrl) {
+        this.id = id;
+        this.name = name;
+        this.albums = new ArrayList<Album>();
+        this.imageUrl = imageUrl;
     }
 
     public String getImageUrl() {
@@ -68,11 +76,19 @@ public class Artist {
     }
 
     public int getAlbumsCount() {
-        if(albumsCount == -1) return albums.size();
+        if (albumsCount == -1) return albums.size();
         return albumsCount;
     }
 
     public void setAlbumsCount(int albumsCount) {
         this.albumsCount = albumsCount;
+    }
+
+    public boolean isSelected() {
+        return selected;
+    }
+
+    public void setSelected(boolean selected) {
+        this.selected = selected;
     }
 }

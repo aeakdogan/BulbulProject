@@ -9,7 +9,7 @@ public class MySong {
     private String name;
     private String albumName;
     private String artistName;
-    private float rating;
+    private float rating = -1;
     private String imageUrl;
     private String previewUrl;
     private String spotifyUrl;
@@ -35,6 +35,11 @@ public class MySong {
         this.rating = rating;
         this.imageUrl = imageUrl;
         this.spotifyUrl =  "spotify:track:"+spotifyUrl;
+    }
+
+    public MySong(int id, String name){
+        this.id = id;
+        this.name = name;
     }
 
     public String getName() {
@@ -77,4 +82,12 @@ public class MySong {
     }
 
     public String getSpotifyUrl() { return spotifyUrl;}
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 }

@@ -9,7 +9,9 @@ import android.view.ViewGroup;
 
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.activity.AccuracyTraining;
+import com.bulbulproject.bulbul.activity.CategorySelectorActivity;
 import com.bulbulproject.bulbul.activity.MoodActivity;
+import com.bulbulproject.bulbul.activity.SearchActivity;
 
 /**
  * Created by mesutgurlek on 2/12/17.
@@ -33,7 +35,7 @@ public class HomeFragment extends Fragment {
         rootView.findViewById(R.id.test_button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), AccuracyTraining.class);
+                Intent intent = new Intent(getActivity(), CategorySelectorActivity.class);
                 startActivity(intent);
             }
         });
@@ -46,6 +48,13 @@ public class HomeFragment extends Fragment {
             }
         });
 
+        rootView.findViewById(R.id.search_button).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), SearchActivity.class);
+                startActivity(intent);
+            }
+        });
 
         return rootView;
     }

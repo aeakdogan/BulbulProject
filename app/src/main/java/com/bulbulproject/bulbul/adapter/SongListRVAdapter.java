@@ -13,17 +13,16 @@ import android.widget.TextView;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.activity.StreamActivity;
 import com.bulbulproject.bulbul.model.MySong;
-import com.bulbulproject.bulbul.model.Song;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class MoodActivityRVAdapter extends RecyclerView.Adapter<MoodActivityRVAdapter.MyCardViewHolder>{
+public class SongListRVAdapter extends RecyclerView.Adapter<SongListRVAdapter.MyCardViewHolder>{
     private List<MySong> songs;
     private Context context;
 
-    public MoodActivityRVAdapter(List<MySong> songs, Context context){
+    public SongListRVAdapter(List<MySong> songs, Context context){
         this.songs = songs;
         this.context = context;
     }
@@ -49,16 +48,16 @@ public class MoodActivityRVAdapter extends RecyclerView.Adapter<MoodActivityRVAd
     }
 
     @Override
-    public MoodActivityRVAdapter.MyCardViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+    public SongListRVAdapter.MyCardViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         context = parent.getContext();
         CardView cv = (CardView) LayoutInflater.from(context)
-                                    .inflate(R.layout.cv_song, parent, false);
+                .inflate(R.layout.cv_song, parent, false);
         MyCardViewHolder cvh = new MyCardViewHolder(cv);
         return cvh;
     }
 
     @Override
-    public void onBindViewHolder(MoodActivityRVAdapter.MyCardViewHolder holder, final int position) {
+    public void onBindViewHolder(SongListRVAdapter.MyCardViewHolder holder, final int position) {
         final MySong tmpSong = songs.get(position);
         final ArrayList<String> songsList = new ArrayList<String>();
         for (MySong song : songs) {

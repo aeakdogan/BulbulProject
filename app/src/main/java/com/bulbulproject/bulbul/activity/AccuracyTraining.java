@@ -3,6 +3,7 @@ package com.bulbulproject.bulbul.activity;
 import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
@@ -43,6 +44,7 @@ public class AccuracyTraining extends AppCompatActivity {
 
     ArrayList<MySong> mSongs;
     private View mProgressView;
+    boolean isPlaying;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -60,6 +62,7 @@ public class AccuracyTraining extends AppCompatActivity {
         mProgressView.setVisibility(View.VISIBLE);
 
         mSongs = new ArrayList<>();
+        isPlaying = false;
 
         textViewArtistName = (TextView) findViewById(R.id.artist_name);
         textViewAlbumName = (TextView) findViewById(R.id.album_name);
@@ -72,8 +75,17 @@ public class AccuracyTraining extends AppCompatActivity {
         ratingBarSong.setOnRatingBarChangeListener(new RatingBar.OnRatingBarChangeListener() {
             @Override
             public void onRatingChanged(RatingBar ratingBar, float rating, boolean fromUser) {
+                if (mSongs.get(currentOrder).getRating() == 0 && rating != 0) {
+                    Handler handler = new Handler();
+                    handler.postDelayed(new Runnable() {
+                        @Override
+                        public void run() {
+                            clicked_icon(findViewById(R.id.icon_next));
+                        }
+                    }, 100);
+                }
                 mSongs.get(currentOrder).setRating(rating);
-                updateUI();
+                textViewRateSong.setText(String.valueOf(rating));
             }
         });
         //Fetch data and update ui
@@ -91,7 +103,7 @@ public class AccuracyTraining extends AppCompatActivity {
                                         //Mapping api's track model to existing Song model
                                         MySong mSong = new MySong(track.id(),
                                                 track.name(),
-                                                (track.albums().size()>0)?track.albums().get(0).name():"Album",
+                                                (track.albums().size() > 0) ? track.albums().get(0).name() : "Album",
                                                 (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
 //                                                "Artist",
                                                 0,
@@ -106,7 +118,6 @@ public class AccuracyTraining extends AppCompatActivity {
                                         @Override
                                         public void run() {
                                             mProgressView.setVisibility(View.GONE);
-                                            playSong(mSongs.get(currentOrder));
                                             updateUI();
                                         }
                                     });
@@ -127,6 +138,18 @@ public class AccuracyTraining extends AppCompatActivity {
     }
 
     public void clicked_icon(View v) {
+        if (v.getId() == R.id.icon_music_control) {
+            if (!isPlaying) {
+                ((ImageView) v).setImageResource(R.drawable.icon_pause);
+                playSong(mSongs.get(currentOrder));
+                isPlaying = true;
+            } else {
+                ((ImageView) v).setImageResource(R.drawable.icon_play);
+                pauseSong(mSongs.get(currentOrder));
+                isPlaying = false;
+            }
+            return;
+        }
         if (v.getId() == R.id.icon_prev) {
             if (currentOrder == 0)
                 return;
@@ -136,13 +159,25 @@ public class AccuracyTraining extends AppCompatActivity {
             if (currentOrder == songsSize - 1) {
                 releasePlayer();
                 Intent intent = new Intent(getApplicationContext(), AccuracyTest.class);
+                ArrayList<Integer> trackIds = new ArrayList<Integer>();
+                ArrayList<Integer> ratings = new ArrayList<Integer>();
+                for (MySong song : mSongs) {
+                    if (song.getRating() > -1) {
+                        trackIds.add(song.getId());
+                        ratings.add(Math.round(song.getRating()) * 2);
+                    }
+                }
+                intent.putIntegerArrayListExtra("track_ids", trackIds);
+                intent.putIntegerArrayListExtra("ratings", ratings);
                 startActivity(intent);
                 return;
             }
             currentOrder++;
         }
+        isPlaying = false;
+
         updateUI();
-        playSong(mSongs.get(currentOrder));
+        releasePlayer();
     }
 
     void updateUI() {
@@ -154,7 +189,7 @@ public class AccuracyTraining extends AppCompatActivity {
         textViewArtistName.setText(mSongs.get(currentOrder).getArtistName());
         textViewAlbumName.setText(mSongs.get(currentOrder).getAlbumName());
         textViewSongName.setText(mSongs.get(currentOrder).getName());
-
+        ((ImageView) findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
 
         Picasso.with(getApplicationContext())
                 .load(mSongs.get(currentOrder).getImageUrl())
@@ -164,8 +199,12 @@ public class AccuracyTraining extends AppCompatActivity {
     }
 
     void playSong(MySong song) {
-
-        releasePlayer();
+        if (isPlaying)
+            return;
+        if (mMediaPlayer != null && mMediaPlayer.getAudioSessionId() > 0) {
+            mMediaPlayer.start();
+            return;
+        }
         if (song.getPreviewUrl() != null && !song.getPreviewUrl().isEmpty()) {
             mMediaPlayer = new MediaPlayer();
             try {
@@ -180,7 +219,15 @@ public class AccuracyTraining extends AppCompatActivity {
         }
     }
 
-    void releasePlayer(){
+    void pauseSong(MySong song) {
+        if (song.getPreviewUrl() != null && isPlaying) {
+            mMediaPlayer.pause();
+        } else {
+            Toast.makeText(getApplicationContext(), "Pause is unavailable", Toast.LENGTH_SHORT).show();
+        }
+    }
+
+    void releasePlayer() {
         if (mMediaPlayer != null) {
             try {
                 mMediaPlayer.release();
@@ -188,13 +235,20 @@ public class AccuracyTraining extends AppCompatActivity {
                 e.printStackTrace();
             }
         }
+        mMediaPlayer = null;
+    }
+
+    @Override
+    public void finish() {
+        super.finish();
+        releasePlayer();
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case android.R.id.home:
-                Intent intent = new Intent(AccuracyTraining.this, MainActivity.class);
+                Intent intent = new Intent(AccuracyTraining.this, CategorySelectorActivity.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
                 startActivity(intent);
                 finish();
