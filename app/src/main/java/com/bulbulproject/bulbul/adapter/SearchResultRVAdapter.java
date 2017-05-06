@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -197,6 +198,8 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                         Intent intent = new Intent(context.getApplicationContext(), AlbumActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         intent.putExtra("id",tmpAlbum.getId());
+                        Log.d("bulbul","album name: "+ tmpAlbum.getName());
+                        Log.d("bulbul","album id: "+ tmpAlbum.getId());
                         context.getApplicationContext().startActivity(intent);
                     }
                 });
@@ -208,7 +211,7 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                 if(position == mSongs.size() +1)
                     headerHolder.textViewHeader.setText(header_strings[1]);
                 if(position == mSongs.size() + mArtists.size() +2)
-                    headerHolder.textViewHeader.setText(header_strings[1]);
+                    headerHolder.textViewHeader.setText(header_strings[2]);
                 break;
         }
     }

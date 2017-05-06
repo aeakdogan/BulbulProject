@@ -1,9 +1,11 @@
 package com.bulbulproject.bulbul.activity;
 
 import android.os.Bundle;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.Toolbar;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
@@ -52,6 +54,13 @@ public class SearchActivity extends AppCompatActivity {
         mArtists = new ArrayList<>();
         mAlbums = new ArrayList<>();
 
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+        }
 
         editTextSearch = (EditText) findViewById(R.id.editText_search);
         recyclerViewSearchResults = (RecyclerView) findViewById(R.id.search_results);
@@ -186,6 +195,7 @@ public class SearchActivity extends AppCompatActivity {
                             for (AlbumQuery.Data.Album album : response.data().albums()) {
                                 Album mAlbum;
                                 mAlbum = new Album("Loading...", 0, "");
+                                mAlbum.setId(album.id());
                                 mAlbum.setName(album.name());
                                 mAlbum.setImageUrl(album.image());
 
