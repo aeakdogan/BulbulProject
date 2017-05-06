@@ -1,5 +1,5 @@
-mutation requestRecommendationMutation($token:String!, $track_ids:[Int], $ratings:[Int]){
-  requestRecommendation(token:$token, track_ids:$track_ids, ratings:$ratings){
+mutation requestRecommendationMutation($token:String!, $track_ids:[Int]!, $ratings:[Int]!, $artist_ids:[Int]!, $genre_ids:[Int]! ){
+  requestRecommendation(token:$token, track_ids:$track_ids, ratings:$ratings, artist_ids:$artist_ids, genre_ids:$genre_ids){
     id
   }
 }

@@ -16,6 +16,7 @@ import android.widget.Toast;
 import com.apollographql.apollo.ApolloCall;
 import com.apollographql.apollo.api.Response;
 import com.apollographql.apollo.exception.ApolloException;
+import com.bulbulproject.ArtistTopTracks;
 import com.bulbulproject.TrackQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
@@ -31,7 +32,6 @@ import javax.annotation.Nonnull;
 public class AccuracyTraining extends AppCompatActivity {
 
     int currentOrder = 0;
-    int songsSize = 20;
 
     RatingBar ratingBarSong;
     TextView textViewRateSong;
@@ -42,7 +42,9 @@ public class AccuracyTraining extends AppCompatActivity {
     ImageView imageViewAlbumImage;
     MediaPlayer mMediaPlayer;
 
-    ArrayList<MySong> mSongs;
+    List<MySong> mSongs;
+    ArrayList<Integer> artistIds;
+    ArrayList<Integer> categoryIds;
     private View mProgressView;
     boolean isPlaying;
 
@@ -88,53 +90,105 @@ public class AccuracyTraining extends AppCompatActivity {
                 textViewRateSong.setText(String.valueOf(rating));
             }
         });
+
+        artistIds = getIntent().getIntegerArrayListExtra("artist_ids");
+        categoryIds = getIntent().getIntegerArrayListExtra("category_ids");
+
         //Fetch data and update ui
-        ((App) getApplication()).apolloClient().newCall(
-                TrackQuery.builder()
-                        .limit(songsSize)
-                        .build())
-                .enqueue(
-                        new ApolloCall.Callback<TrackQuery.Data>() {
-                            @Override
-                            public void onResponse(@Nonnull Response<TrackQuery.Data> response) {
-                                if (response.isSuccessful()) {
-                                    List<TrackQuery.Data.Track> trackList = response.data().tracks();
-                                    for (TrackQuery.Data.Track track : trackList) {
-                                        //Mapping api's track model to existing Song model
-                                        MySong mSong = new MySong(track.id(),
-                                                track.name(),
-                                                (track.albums().size() > 0) ? track.albums().get(0).name() : "Album",
-                                                (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
+        fetchArtistTopTracks(artistIds, categoryIds);
+//        ((App) getApplication()).apolloClient().newCall(
+//                TrackQuery.builder()
+//                        .limit(songsSize)
+//                        .build())
+//                .enqueue(
+//                        new ApolloCall.Callback<TrackQuery.Data>() {
+//                            @Override
+//                            public void onResponse(@Nonnull Response<TrackQuery.Data> response) {
+//                                if (response.isSuccessful()) {
+//                                    List<TrackQuery.Data.Track> trackList = response.data().tracks();
+//                                    for (TrackQuery.Data.Track track : trackList) {
+//                                        //Mapping api's track model to existing Song model
+//                                        MySong mSong = new MySong(track.id(),
+//                                                track.name(),
+//                                                (track.albums().size() > 0) ? track.albums().get(0).name() : "Album",
+//                                                (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
+////                                                "Artist",
+//                                                0,
+//                                                track.spotify_album_img(),
+//                                                track.spotify_track_preview_url()
+//
+//                                        );
+//                                        mSongs.add(mSong);
+//                                    }
+//                                    //Update ui for adding new elements to list
+//                                    runOnUiThread(new Runnable() {
+//                                        @Override
+//                                        public void run() {
+//                                            mProgressView.setVisibility(View.GONE);
+//                                            updateUI();
+//                                        }
+//                                    });
+//                                }
+//                            }
+//
+//                            @Override
+//                            public void onFailure(@Nonnull ApolloException e) {
+//                                final String text = e.getMessage();
+//                                runOnUiThread(new Runnable() {
+//                                    @Override
+//                                    public void run() {
+//                                        Toast.makeText(AccuracyTraining.this, text, Toast.LENGTH_SHORT).show();
+//                                    }
+//                                });
+//                            }
+//                        });
+    }
+
+    public void fetchArtistTopTracks(List<Integer> artist_ids, List<Integer> genre_ids) {
+        ((App) getApplication()).apolloClient().newCall(ArtistTopTracks.builder().ids(artist_ids).limit(5).build()).enqueue(new ApolloCall.Callback<ArtistTopTracks.Data>() {
+            @Override
+            public void onResponse(@Nonnull Response<ArtistTopTracks.Data> response) {
+                if (response.isSuccessful() && response.data().artists() != null) {
+                    List<ArtistTopTracks.Data.Artist> artistList = response.data().artists();
+                    for (ArtistTopTracks.Data.Artist artist : artistList) {
+                        if (artist.topTracks() != null) {
+                            for (ArtistTopTracks.Data.TopTrack track : artist.topTracks()) {
+                                MySong mSong = new MySong(track.id(),
+                                        track.name(),
+                                        (track.albums().size() > 0) ? track.albums().get(0).name() : "Album",
+                                        (track.artists().size() > 0) ? track.artists().get(0).name() : "Unknown Artist",
 //                                                "Artist",
-                                                0,
-                                                track.spotify_album_img(),
-                                                track.spotify_track_preview_url()
+                                        0,
+                                        track.spotify_album_img(),
+                                        track.spotify_track_preview_url()
 
-                                        );
-                                        mSongs.add(mSong);
-                                    }
-                                    //Update ui for adding new elements to list
-                                    runOnUiThread(new Runnable() {
-                                        @Override
-                                        public void run() {
-                                            mProgressView.setVisibility(View.GONE);
-                                            updateUI();
-                                        }
-                                    });
-                                }
+                                );
+                                mSongs.add(mSong);
                             }
+                        }
+                    }
+                    //Update ui for adding new elements to list
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            mProgressView.setVisibility(View.GONE);
+                            updateUI();
+                        }
+                    });
+                }
+            }
 
-                            @Override
-                            public void onFailure(@Nonnull ApolloException e) {
-                                final String text = e.getMessage();
-                                runOnUiThread(new Runnable() {
-                                    @Override
-                                    public void run() {
-                                        Toast.makeText(AccuracyTraining.this, text, Toast.LENGTH_SHORT).show();
-                                    }
-                                });
-                            }
-                        });
+            @Override
+            public void onFailure(@Nonnull ApolloException e) {
+                final String text = e.getMessage();
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(AccuracyTraining.this, text, Toast.LENGTH_SHORT).show();
+                    }
+                });
+            }
+        });
     }
 
     public void clicked_icon(View v) {
@@ -156,7 +210,7 @@ public class AccuracyTraining extends AppCompatActivity {
             currentOrder--;
 
         } else if (v.getId() == R.id.icon_next) {
-            if (currentOrder == songsSize - 1) {
+            if (currentOrder >= mSongs.size() - 1) {
                 releasePlayer();
                 Intent intent = new Intent(getApplicationContext(), AccuracyTest.class);
                 ArrayList<Integer> trackIds = new ArrayList<Integer>();
@@ -169,6 +223,8 @@ public class AccuracyTraining extends AppCompatActivity {
                 }
                 intent.putIntegerArrayListExtra("track_ids", trackIds);
                 intent.putIntegerArrayListExtra("ratings", ratings);
+                intent.putIntegerArrayListExtra("category_ids", categoryIds);
+                intent.putIntegerArrayListExtra("artist_ids", artistIds);
                 startActivity(intent);
                 return;
             }
@@ -181,7 +237,8 @@ public class AccuracyTraining extends AppCompatActivity {
     }
 
     void updateUI() {
-        textViewSongCounter.setText("Song: " + (currentOrder + 1) + "/" + songsSize);
+        if (mSongs != null)
+            textViewSongCounter.setText("Song: " + (currentOrder + 1) + "/" + mSongs.size());
 
         ratingBarSong.setRating(mSongs.get(currentOrder).getRating());
         textViewRateSong.setText(String.valueOf(mSongs.get(currentOrder).getRating()));

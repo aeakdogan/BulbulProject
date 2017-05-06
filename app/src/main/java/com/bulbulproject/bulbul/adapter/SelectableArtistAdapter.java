@@ -68,7 +68,7 @@ public class SelectableArtistAdapter extends BaseAdapter {
         }
 
         t.setText(artist.getName());
-        Picasso.with(mContext).load(artist.getImageUrl()).placeholder(R.drawable.image4).into(i);
+        Picasso.with(mContext).load(artist.getImageUrl()).placeholder(R.drawable.artist).into(i);
         v.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

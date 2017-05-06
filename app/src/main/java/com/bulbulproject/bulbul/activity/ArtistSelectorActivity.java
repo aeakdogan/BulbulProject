@@ -30,7 +30,7 @@ import javax.annotation.Nonnull;
 
 public class ArtistSelectorActivity extends AppCompatActivity {
     private List<Artist> artistList;
-    private List<Integer> mCategoryIds;
+    private ArrayList<Integer> mCategoryIds;
     private BaseAdapter mAdapter;
     private GridView mGrid;
     private View mProgressView;
@@ -124,8 +124,8 @@ public class ArtistSelectorActivity extends AppCompatActivity {
         artistList.add(new Artist(5, "Tunci", "http://media.sinematurk.com/person/8/a0/bbde8e5fe9a3/mahooo_1.jpg"));
     }
 
-    private List<Integer> getSelectedArtistIds() {
-        List<Integer> ids = new ArrayList<Integer>();
+    private ArrayList<Integer> getSelectedArtistIds() {
+        ArrayList<Integer> ids = new ArrayList<Integer>();
         for (Artist artist : artistList) {
             if (artist.isSelected()) ids.add(artist.getId());
         }
@@ -134,8 +134,8 @@ public class ArtistSelectorActivity extends AppCompatActivity {
 
     private void startTrackSelectorActivity() {
         Intent intent = new Intent(ArtistSelectorActivity.this, AccuracyTraining.class);
-        intent.putIntegerArrayListExtra("artist_ids", (ArrayList<Integer>) getSelectedArtistIds());
-        intent.putIntegerArrayListExtra("category_ids", (ArrayList<Integer>) mCategoryIds);
+        intent.putIntegerArrayListExtra("artist_ids", getSelectedArtistIds());
+        intent.putIntegerArrayListExtra("category_ids",  mCategoryIds);
         startActivity(intent);
     }
 

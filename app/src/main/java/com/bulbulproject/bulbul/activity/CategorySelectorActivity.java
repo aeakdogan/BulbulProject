@@ -105,8 +105,8 @@ public class CategorySelectorActivity extends AppCompatActivity {
         mProgressView.setVisibility(View.GONE);
     }
 
-    private List<Integer> getSelectedCategoryIds() {
-        List<Integer> list = new ArrayList<Integer>();
+    private ArrayList<Integer> getSelectedCategoryIds() {
+        ArrayList<Integer> list = new ArrayList<Integer>();
         for (Category category : categoryList) {
             if (category.isSelected()) list.add(category.getId());
         }
@@ -115,7 +115,7 @@ public class CategorySelectorActivity extends AppCompatActivity {
 
     void startArtistSelectorActivity() {
         Intent intent = new Intent(CategorySelectorActivity.this, ArtistSelectorActivity.class);
-        intent.putIntegerArrayListExtra("category_ids", (ArrayList<Integer>) getSelectedCategoryIds());
+        intent.putIntegerArrayListExtra("category_ids", getSelectedCategoryIds());
         startActivity(intent);
     }
 

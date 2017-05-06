@@ -81,8 +81,8 @@ public class AccuracyTest extends AppCompatActivity {
     public void clicked_icon(View v) {
         if (v.getId() == R.id.icon_music_control) {
             ImageView i = (ImageView) v;
-            if(i != null) {
-                ((BitmapDrawable)i.getDrawable()).getBitmap().recycle();
+            if (i != null) {
+                ((BitmapDrawable) i.getDrawable()).getBitmap().recycle();
             }
             if (!isPlaying) {
 
@@ -182,36 +182,40 @@ public class AccuracyTest extends AppCompatActivity {
     private void requestRecommendation() {
         Intent intent = getIntent();
         final SharedPreferences sp = getApplication().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE);
-        if (intent.hasExtra("track_ids") && intent.hasExtra("ratings")) {
+        if (intent.hasExtra("track_ids") && intent.hasExtra("ratings") && intent.hasExtra("category_ids") && intent.hasExtra("artist_ids")) {
             ((App) getApplication()).apolloClient().newCall(RequestRecommendationMutation.builder()
+                    .artist_ids(intent.getIntegerArrayListExtra("artist_ids"))
+                    .genre_ids(intent.getIntegerArrayListExtra("category_ids"))
                     .track_ids(intent.getIntegerArrayListExtra("track_ids"))
                     .token(sp.getString("AUTH_TOKEN", ""))
-                    .ratings(intent.getIntegerArrayListExtra("ratings")).build()).enqueue(new ApolloCall.Callback<RequestRecommendationMutation.Data>() {
-                @Override
-                public void onResponse(@Nonnull Response<RequestRecommendationMutation.Data> response) {
-                    if (response.isSuccessful()) {
-                        int id = response.data().requestRecommendation().id();
-                        fetchRecommendation(id);
-                    }
-                }
-
-                @Override
-                public void onFailure(@Nonnull ApolloException e) {
-                    final String text = e.getMessage();
-                    e.printStackTrace();
-                    runOnUiThread(new Runnable() {
+                    .ratings(intent.getIntegerArrayListExtra("ratings"))
+                    .build())
+                    .enqueue(new ApolloCall.Callback<RequestRecommendationMutation.Data>() {
                         @Override
-                        public void run() {
-                            Toast.makeText(AccuracyTest.this, text, Toast.LENGTH_SHORT).show();
+                        public void onResponse(@Nonnull Response<RequestRecommendationMutation.Data> response) {
+                            if (response.isSuccessful()) {
+                                int id = response.data().requestRecommendation().id();
+                                fetchRecommendation(id);
+                            }
+                        }
+
+                        @Override
+                        public void onFailure(@Nonnull ApolloException e) {
+                            final String text = e.getMessage();
+                            e.printStackTrace();
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    Toast.makeText(AccuracyTest.this, text, Toast.LENGTH_SHORT).show();
+                                }
+                            });
                         }
                     });
-                }
-            });
         }
     }
 
     private void fetchRecommendation(final int id) {
-        if(fetcher!= null){
+        if (fetcher != null) {
             mHandler.removeCallbacks(fetcher);
         }
         ((App) getApplication()).apolloClient().newCall(RecommendationsQuery.builder().id(id).build()).enqueue(new ApolloCall.Callback<RecommendationsQuery.Data>() {
@@ -252,7 +256,7 @@ public class AccuracyTest extends AppCompatActivity {
                             }
                         };
                     }
-                    mHandler.postDelayed(fetcher, 5000);
+                    mHandler.postDelayed(fetcher, 2500);
                 }
             }
 
