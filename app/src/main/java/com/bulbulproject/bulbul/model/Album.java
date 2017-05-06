@@ -24,6 +24,14 @@ public class Album {
         this.artists = new ArrayList<Artist>();
     }
 
+    public Album(String name, String imageUrl) {
+        this.name = name;
+        this.year = 1994;
+        this.imageUrl = imageUrl;
+        this.songs = new ArrayList<Song>();
+        this.artists = new ArrayList<Artist>();
+    }
+
     public Album(String name, int year, String imageUrl) {
         this.name = name;
         this.year = year;

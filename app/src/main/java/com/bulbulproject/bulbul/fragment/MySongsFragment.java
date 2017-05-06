@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,6 +18,7 @@ import com.bulbulproject.UserSongsQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.adapter.SongsRVAdapter;
+import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Song;
 
@@ -43,7 +45,7 @@ public class MySongsFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        mSongs = new ArrayList<Song>();
+        mSongs = new ArrayList<>();
     }
 
     @Override
@@ -71,14 +73,25 @@ public class MySongsFragment extends Fragment {
                     if (user.listenedTracks() != null) {
 
                         for (UserSongsQuery.Data.ListenedTrack track : user.listenedTracks()) {
-                            Song song = new Song(track.id(), track.name(), 0, track.spotify_track_id());
-
+                            Song mSong = new Song(
+                                    track.id(),
+                                    track.name(),
+                                    track.spotify_album_img(),
+                                    track.spotify_track_id()
+                            );
+                            Log.d("bulbul","track name: " + mSong.getName() + " album_img: " + mSong.getImageUrl());
                             if (track.artists() != null) {
                                 for (UserSongsQuery.Data.Artist artist : track.artists()) {
-                                    song.getArtists().add(new Artist(artist.name()));
+                                    mSong.getArtists().add(new Artist(artist.name()));
                                 }
                             }
-                            mSongs.add(song);
+
+                            if (track.albums() != null) {
+                                for (UserSongsQuery.Data.Album album : track.albums()) {
+                                    mSong.getAlbums().add(new Album(album.name(), album.image()));
+                                }
+                            }
+                            mSongs.add(mSong);
                         }
                     }
                     if (getActivity() != null) {

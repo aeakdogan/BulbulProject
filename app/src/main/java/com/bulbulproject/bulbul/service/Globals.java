@@ -1,6 +1,6 @@
 package com.bulbulproject.bulbul.service;
 
-import com.bulbulproject.bulbul.model.MySong;
+import com.bulbulproject.bulbul.model.Song;
 
 import java.util.ArrayList;
 
@@ -9,5 +9,5 @@ import java.util.ArrayList;
  */
 
 public class Globals {
-    public static ArrayList<MySong> mSongs;
+    public static ArrayList<Song> mSongs;
 }

@@ -8,9 +8,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.bulbulproject.bulbul.R;
@@ -19,10 +17,8 @@ import com.bulbulproject.bulbul.activity.ArtistActivity;
 import com.bulbulproject.bulbul.activity.StreamActivity;
 import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
-import com.bulbulproject.bulbul.model.MySong;
 import com.bulbulproject.bulbul.model.Song;
 import com.squareup.picasso.Picasso;
-import com.truizlop.sectionedrecyclerview.SectionedRecyclerViewAdapter;
 
 import java.util.ArrayList;
 
@@ -31,7 +27,7 @@ import java.util.ArrayList;
  */
 
 public class SearchResultRVAdapter extends RecyclerView.Adapter {
-    private ArrayList<MySong> mSongs;
+    private ArrayList<Song> mSongs;
     private ArrayList<Artist> mArtists;
     private ArrayList<Album> mAlbums;
     Context context;
@@ -42,7 +38,7 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
 
     String[] header_strings = {"Songs", "Artists", "Albums"};
 
-    public SearchResultRVAdapter(Context context, ArrayList<MySong> mSongs, ArrayList<Artist> mArtists, ArrayList<Album> mAlbums) {
+    public SearchResultRVAdapter(Context context, ArrayList<Song> mSongs, ArrayList<Artist> mArtists, ArrayList<Album> mAlbums) {
         this.context = context;
         this.mSongs = mSongs;
         this.mAlbums = mAlbums;
@@ -134,14 +130,14 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
         switch (holder.getItemViewType()) {
             case SONG_VIEW_TYPE:
                 SongViewHolder songHolder = (SongViewHolder) holder;
-                final MySong tmpSong = mSongs.get(position -1);
+                final Song tmpSong = mSongs.get(position -1);
                 final ArrayList<String> songsList = new ArrayList<String>();
-                for (MySong song : mSongs) {
+                for (Song song : mSongs) {
                     songsList.add(song.getSpotifyUrl());
                 }
 
                 songHolder.songTitle.setText(tmpSong.getName());
-                songHolder.songArtists.setText(tmpSong.getArtistName());
+                songHolder.songArtists.setText(tmpSong.getFirstArtistName());
                 Picasso.with(context)
                         .load(tmpSong.getImageUrl())
                         .placeholder(R.drawable.cover_picture)
