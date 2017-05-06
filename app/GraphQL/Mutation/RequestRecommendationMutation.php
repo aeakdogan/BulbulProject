@@ -45,9 +45,9 @@ class RequestRecommendationMutation extends Mutation
             ]);
         $user = JWTAuth::authenticate($args['token']);
         $user->recommendations()->attach($r);
-        $r->mbids = Track::with('genres')->whereHas('genres',
+        $r->mbids = Track::with('genres')->whereNotIn('id', $args['track_ids'])->whereHas('genres',
             function ($query) use ($args){$query->whereIn('id', $args['genre_ids']);})
-            ->orderBy('playcount', 'DESC')->take(1000/count($args['genre_ids']))->get()->pluck('mbid');
+            ->orderBy('playcount', 'DESC')->take(2000/count($args['genre_ids']))->get()->pluck('mbid');
         $rating_mbids = Track::find($args['track_ids'])->pluck('mbid');
 
         foreach ($args['ratings'] as $key => $rating) {
@@ -61,7 +61,7 @@ class RequestRecommendationMutation extends Mutation
 
             $r->ratings()->attach($rating);
         }
-//        Event::fire(new RecommendationRequested($r));
+
         Redis::command('lpush', ['recommendation', [$r->load('ratings')]]);
         return $r;
     }
