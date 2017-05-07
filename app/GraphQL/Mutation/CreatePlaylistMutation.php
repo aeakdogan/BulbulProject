@@ -15,7 +15,7 @@ class CreatePlaylistMutation extends Mutation
 
     public function type()
     {
-        return GraphQL::type('Artist');
+        return GraphQL::type('Playlist');
     }
 
     public function args()
