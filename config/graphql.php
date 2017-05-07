@@ -105,6 +105,8 @@ return [
                 'addTagToArtist' => 'App\GraphQL\Mutation\AddTagToArtistMutation',
                 'register' => 'App\GraphQL\Mutation\RegisterMutation',
                 'requestRecommendation' => 'App\GraphQL\Mutation\RequestRecommendationMutation',
+                'createPlaylist' => 'App\GraphQL\Mutation\CreatePlaylistMutation',
+                'addTrackToPlaylist' => 'App\GraphQL\Mutation\AddTrackToPlaylist',
             ]
         ]
     ],
