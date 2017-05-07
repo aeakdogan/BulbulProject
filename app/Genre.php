@@ -8,7 +8,7 @@ use Vinelab\NeoEloquent\Eloquent\Model;
 class Genre extends Model
 {
     protected $label = 'Genre';
-    protected $fillable = ['id', 'name'];
+    protected $fillable = ['id', 'name','icon_url'];
 
     public function artists()
     {

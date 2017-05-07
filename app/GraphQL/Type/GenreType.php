@@ -23,6 +23,10 @@ class GenreType extends GraphQLType
                 'type' => Type::nonNull(Type::string()),
                 'description' => 'The name of genre'
             ],
+            'icon_url' => [
+                'type' => Type::string(),
+                'description' => 'The name of genre'
+            ],
             'tracks' => TracksField::class,
             'artists' => [
                 'type' => Type::listOf(GraphQL::type('Artist')),
@@ -42,6 +46,10 @@ class GenreType extends GraphQLType
             ],
 
         ];
+    }
+
+    protected function resolveIconUrlField($root, $args){
+        return env('APP_URL', 'http://207.154.244.207/').'i/'.$root->icon_url;
     }
 
     protected function resolveTracksField($root, $args)
