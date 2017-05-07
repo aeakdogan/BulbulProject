@@ -1,0 +1,5 @@
+mutation UserTrackRateMutation($token: String!, $track_id: Int!, $rating: Int!) {
+  rateTrack(token: $token, track_id: $track_id, rating: $rating){
+  	id
+  }
+}

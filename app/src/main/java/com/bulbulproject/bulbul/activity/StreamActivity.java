@@ -25,6 +25,7 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.ListView;
+import android.widget.RatingBar;
 import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -35,6 +36,8 @@ import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.AddTrackToPlaylistMutation;
 import com.bulbulproject.CreatePlaylistMutation;
 import com.bulbulproject.UserPlaylistsQuery;
+import com.bulbulproject.UserTrackRateMutation;
+import com.bulbulproject.UserTrackRateQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.model.Playlist;
@@ -66,8 +69,9 @@ public class StreamActivity extends AppCompatActivity {
     private List<String> songs;
     private int targetProgress = 0;
     private int mSongID;
+    private float mSongRating;
     ArrayList<Playlist> mPlaylists = new ArrayList<>();
-
+    RatingBar ratingBar;
     private ArrayList<String> playlistNames;
 
     private Handler mHandler = new Handler();
@@ -109,7 +113,9 @@ public class StreamActivity extends AppCompatActivity {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             getSupportActionBar().setDisplayShowHomeEnabled(true);
         }
+        token = getApplicationContext().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE).getString("AUTH_TOKEN", "");
 
+        ratingBar = (RatingBar) findViewById(R.id.ratingbar_song);
         mActionButton = (ImageButton) findViewById(R.id.button_action);
         mPreviousButton = (ImageButton) findViewById(R.id.button_previous);
         mNextButton = (ImageButton) findViewById(R.id.button_next);
@@ -180,6 +186,72 @@ public class StreamActivity extends AppCompatActivity {
             public void onClick(View v) {
                 addToPlaylist();
 
+            }
+        });
+
+        ((App) getApplication()).apolloClient().newCall(UserTrackRateQuery.builder().token(token).track_id(mSongID).build()).enqueue(new ApolloCall.Callback<UserTrackRateQuery.Data>() {
+            @Override
+            public void onResponse(@Nonnull final Response<UserTrackRateQuery.Data> response) {
+                if (response.isSuccessful()) {
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            if(response.data().rating().size() > 0) {
+                                mSongRating = response.data().rating().get(0).value() / 2;
+                                ratingBar.setRating(mSongRating);
+//                                Toast.makeText(getApplicationContext(), "rating found: " + mSongRating, Toast.LENGTH_SHORT).show();
+                            }
+                            else{
+//                                Toast.makeText(getApplicationContext(), "Rate not found", Toast.LENGTH_SHORT).show();
+                                mSongRating = 0;
+                                ratingBar.setRating(mSongRating);
+                            }
+                        }
+                    });
+                }
+            }
+
+            @Override
+            public void onFailure(@Nonnull ApolloException e) {
+                final String text = e.getMessage();
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+                    }
+                });
+            }
+        });
+        ratingBar.setOnRatingBarChangeListener(new RatingBar.OnRatingBarChangeListener() {
+            @Override
+            public void onRatingChanged(RatingBar ratingBar, final float rating, boolean fromUser) {
+                if(rating != mSongRating){
+                    mSongRating = rating;
+                    ((App) getApplication()).apolloClient().newCall(UserTrackRateMutation.builder().token(token).track_id(mSongID).rating((int)(2*mSongRating)).build()).enqueue(new ApolloCall.Callback<UserTrackRateMutation.Data>() {
+                        @Override
+                        public void onResponse(@Nonnull final Response<UserTrackRateMutation.Data> response) {
+                            if (response.isSuccessful()) {
+                                runOnUiThread(new Runnable() {
+                                    @Override
+                                    public void run() {
+                                        Toast.makeText(getApplicationContext(), "Song is rated with: " + rating, Toast.LENGTH_SHORT).show();
+                                    }
+                                });
+                            }
+                        }
+
+                        @Override
+                        public void onFailure(@Nonnull ApolloException e) {
+                            final String text = e.getMessage();
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+                                }
+                            });
+                        }
+                    });
+                }
             }
         });
     }
@@ -289,7 +361,6 @@ public class StreamActivity extends AppCompatActivity {
             }
         });
 
-        token = getApplicationContext().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE).getString("AUTH_TOKEN", "");
 
         ((App) getApplication()).apolloClient().newCall(UserPlaylistsQuery.builder().token(token).build()).enqueue(new ApolloCall.Callback<UserPlaylistsQuery.Data>() {
             @Override

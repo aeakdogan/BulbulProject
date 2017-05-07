@@ -1,0 +1,5 @@
+query UserTrackRateQuery($token: String!, $track_id: Int) {
+  rating(token: $token, track_id: $track_id){
+  	value
+  }
+}
