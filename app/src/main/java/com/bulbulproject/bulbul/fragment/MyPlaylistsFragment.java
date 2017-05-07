@@ -71,6 +71,7 @@ public class MyPlaylistsFragment extends Fragment {
             @Override
             public void onResponse(@Nonnull Response<UserPlaylistsQuery.Data> response) {
                 if (response.isSuccessful()) {
+                    mPlaylists.clear();
                     UserPlaylistsQuery.Data.User user = response.data().users().get(0);
                     if (user.playlists() != null) {
                         for (UserPlaylistsQuery.Data.Playlist playlist : user.playlists()) {

@@ -69,6 +69,7 @@ public class MySongsFragment extends Fragment {
             @Override
             public void onResponse(@Nonnull Response<UserSongsQuery.Data> response) {
                 if (response.isSuccessful()) {
+                    mSongs.clear();
                     UserSongsQuery.Data.User user = response.data().users().get(0);
                     if (user.listenedTracks() != null) {
 
