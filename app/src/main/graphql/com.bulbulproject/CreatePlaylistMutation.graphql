@@ -1,0 +1,6 @@
+mutation CreatePlaylistMutation($token: String!, $name: String!) {
+  createPlaylist(token: $token, name: $name){
+    id
+    name
+  }
+}
