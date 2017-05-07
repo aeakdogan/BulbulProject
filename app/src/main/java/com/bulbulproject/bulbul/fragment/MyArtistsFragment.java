@@ -66,6 +66,7 @@ public class MyArtistsFragment extends Fragment {
             @Override
             public void onResponse(@Nonnull Response<UserArtistsQuery.Data> response) {
                 if (response.isSuccessful()) {
+                    artists.clear();
                     UserArtistsQuery.Data.User user = response.data().users().get(0);
                     if (user.listenedArtists() != null) {
                         for (UserArtistsQuery.Data.ListenedArtist artist : user.listenedArtists()) {
