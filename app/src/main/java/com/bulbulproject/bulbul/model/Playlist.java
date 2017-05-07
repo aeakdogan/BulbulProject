@@ -1,5 +1,7 @@
 package com.bulbulproject.bulbul.model;
 
+import com.bulbulproject.bulbul.R;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,6 +20,7 @@ public class Playlist {
         this.id = id;
         this.name = name;
         this.songs = new ArrayList<Song>();
+        this.photoId = R.drawable.dummy_playlist;
     }
 
     public int getId() {

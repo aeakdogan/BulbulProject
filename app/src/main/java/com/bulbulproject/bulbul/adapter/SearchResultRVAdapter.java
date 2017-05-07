@@ -149,6 +149,7 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                         Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         intent.putStringArrayListExtra("songs", songsList);
+                        intent.putExtra("trackID", mSongs.get(holder.getAdapterPosition()).getId());
                         intent.putExtra("position", holder.getAdapterPosition() -1);
                         context.getApplicationContext().startActivity(intent);
                         context.getApplicationContext().startActivity(intent);
