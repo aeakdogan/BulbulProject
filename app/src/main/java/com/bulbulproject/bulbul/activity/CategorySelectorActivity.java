@@ -80,7 +80,7 @@ public class CategorySelectorActivity extends AppCompatActivity {
                 if (response.isSuccessful()) {
                     if (response.data().genres() != null) {
                         for (GenreQuery.Data.Genre genre : response.data().genres()) {
-                            categoryList.add(new Category(genre.name(), "", genre.id()));
+                            categoryList.add(new Category(genre.name(), genre.icon_url(), genre.id()));
                         }
 
                         runOnUiThread(new Runnable() {

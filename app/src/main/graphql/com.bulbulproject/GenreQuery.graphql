@@ -2,6 +2,7 @@ query GenreQuery($id: Int, $limit: Int, $skip: Int, $ids: [Int], $withTopArtists
   genres(id: $id, ids: $ids) {
     id
     name
+    icon_url
     topArtists(limit: $limit, skip: $skip) @include(if: $withTopArtists) {
       id
       name

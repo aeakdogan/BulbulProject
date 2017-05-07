@@ -2674,15 +2674,19 @@
               "description": null,
               "args": [
                 {
-                  "name": "genre_id",
+                  "name": "genre_ids",
                   "description": null,
                   "type": {
                     "kind": "NON_NULL",
                     "name": null,
                     "ofType": {
-                      "kind": "SCALAR",
-                      "name": "Int",
-                      "ofType": null
+                      "kind": "LIST",
+                      "name": null,
+                      "ofType": {
+                        "kind": "SCALAR",
+                        "name": "Int",
+                        "ofType": null
+                      }
                     }
                   },
                   "defaultValue": null

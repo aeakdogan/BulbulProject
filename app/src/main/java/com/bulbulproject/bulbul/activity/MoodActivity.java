@@ -1,6 +1,7 @@
 package com.bulbulproject.bulbul.activity;
 
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -18,10 +19,12 @@ import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.model.Song;
 import com.bulbulproject.bulbul.service.Globals;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
 import javax.annotation.Nonnull;
+import javax.annotation.OverridingMethodsMustInvokeSuper;
 
 
 public class MoodActivity extends AppCompatActivity {
@@ -62,14 +65,35 @@ public class MoodActivity extends AppCompatActivity {
         seekBarEnergy = (SeekBar) findViewById(R.id.seekBar_energy);
         seekBarLoudness = (SeekBar) findViewById(R.id.seekBar_loudness);
 
-
         findViewById(R.id.button_get_songs).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 get_songs();
             }
         });
+
+
     }
+
+
+    private class SeekBarListener implements SeekBar.OnSeekBarChangeListener {
+
+        @Override
+        public void onProgressChanged(SeekBar seekBar, int i, boolean b) {
+
+        }
+
+        @Override
+        public void onStartTrackingTouch(SeekBar seekBar) {
+
+        }
+
+        @Override
+        public void onStopTrackingTouch(SeekBar seekBar) {
+
+        }
+    }
+
 
     void get_songs(){
         mProgressView = findViewById(R.id.login_progress);
@@ -217,6 +241,27 @@ public class MoodActivity extends AppCompatActivity {
                 );
 
     }
+
+    /*void playSong(Song song) {
+        if (isPlaying)
+            return;
+        if (mMediaPlayer != null && mMediaPlayer.getAudioSessionId() > 0) {
+            mMediaPlayer.start();
+            return;
+        }
+        if (song.getPreviewUrl() != null && !song.getPreviewUrl().isEmpty()) {
+            mMediaPlayer = new MediaPlayer();
+            try {
+                mMediaPlayer.setDataSource(song.getPreviewUrl());
+                mMediaPlayer.prepare();
+                mMediaPlayer.start();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        } else {
+            Toast.makeText(getApplicationContext(), "Preview is unavailable", Toast.LENGTH_SHORT).show();
+        }
+    }*/
 
     @Override
     protected void onResume() {
