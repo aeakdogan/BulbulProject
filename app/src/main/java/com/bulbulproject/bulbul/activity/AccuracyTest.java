@@ -51,6 +51,7 @@ public class AccuracyTest extends AppCompatActivity {
     ArrayList<Song> mSongs;
     private View mProgressView;
     boolean isPlaying;
+    private ImageView backgroundImage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -70,6 +71,7 @@ public class AccuracyTest extends AppCompatActivity {
         mSongs = new ArrayList<>();
         isPlaying = false;
 
+        backgroundImage = (ImageView) findViewById(R.id.bg_image);
         textViewArtistName = (TextView) findViewById(R.id.artist_name);
         textViewAlbumName = (TextView) findViewById(R.id.album_name);
         textViewSongName = (TextView) findViewById(R.id.song_name);
@@ -169,6 +171,11 @@ public class AccuracyTest extends AppCompatActivity {
         textViewSongName.setText(mSongs.get(currentOrder).getName());
         imageViewMusicControl.setImageResource(R.drawable.icon_play);
 
+
+        Picasso.with(this).load(mSongs.get(currentOrder).getArtists().get(0).getImageUrl())
+                .placeholder(R.drawable.cover_picture)
+                .error(R.drawable.cover_picture)
+                .into(backgroundImage);
         Picasso.with(getApplicationContext())
                 .load(mSongs.get(currentOrder).getImageUrl())
                 .placeholder(R.drawable.cover_picture)

@@ -5,7 +5,9 @@ query ArtistTopTracks($id: Int, $limit: Int, $skip: Int, $ids: [Int]) {
       id
       name
       artists {
+        id
         name
+        image
       }
       albums {
         name

@@ -72,7 +72,7 @@ public class PlaylistActivity extends AppCompatActivity {
                                 Song song = new Song(track.id(), track.name(), track.spotify_album_img(), track.spotify_track_id());
                                 if (track.artists() != null) {
                                     for (PlaylistsQuery.Data.Artist trackArtist : track.artists()) {
-                                        song.getArtists().add(new Artist(trackArtist.name()));
+                                        song.getArtists().add(new Artist(trackArtist.id(), trackArtist.name(), trackArtist.image()));
                                     }
                                 }
                                 mPlaylist.getSongs().add(song);

@@ -6,7 +6,9 @@ query UserSongsQuery($token:String,$id: Int, $limit: Int, $skip:Int, $ids: [Int]
         spotify_album_img
         name
         artists{
+          id
           name
+          image
         }
         albums{
             id

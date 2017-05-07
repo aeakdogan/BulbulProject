@@ -82,7 +82,7 @@ public class MySongsFragment extends Fragment {
                             Log.d("bulbul","track name: " + mSong.getName() + " album_img: " + mSong.getImageUrl());
                             if (track.artists() != null) {
                                 for (UserSongsQuery.Data.Artist artist : track.artists()) {
-                                    mSong.getArtists().add(new Artist(artist.name()));
+                                    mSong.getArtists().add(new Artist(artist.id(), artist.name(), artist.image()));
                                 }
                             }
 

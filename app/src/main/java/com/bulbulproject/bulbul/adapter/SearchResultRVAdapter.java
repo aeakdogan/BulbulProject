@@ -18,6 +18,7 @@ import com.bulbulproject.bulbul.activity.StreamActivity;
 import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Song;
+import com.bulbulproject.bulbul.service.Globals;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
@@ -146,6 +147,7 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                 songHolder.mCardView.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
+                        Globals.mSongs = mSongs;
                         Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         intent.putStringArrayListExtra("songs", songsList);
