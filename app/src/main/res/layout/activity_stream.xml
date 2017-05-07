@@ -38,46 +38,43 @@
         <TextView
             android:id="@+id/player_list_name"
             android:layout_width="match_parent"
-            android:layout_height="0dp"
+            android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/player_text_margin"
-            android:layout_weight="1"
             android:gravity="center_horizontal"
             android:textColor="@android:color/black"
+            android:text="List Name"
             android:textSize="20sp" />
 
         <ImageView
             android:id="@+id/player_image"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
+            android:layout_width="256dp"
+            android:layout_height="256dp"
             android:layout_gravity="center_horizontal"
             android:layout_margin="@dimen/player_image_margin"
-            android:layout_weight="4"
-            android:gravity="center_horizontal" />
+            android:gravity="center_horizontal"
+            android:src="@drawable/cover_picture" />
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="4"
+            android:layout_height="wrap_content"
             android:orientation="vertical">
-
-
             <TextView
                 android:id="@+id/player_artist_name"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/player_text_margin"
                 android:gravity="center_horizontal"
                 android:textColor="@android:color/black"
-                android:textSize="20sp" />
+                android:text="Artist Name"
+                android:textSize="16sp" />
 
             <TextView
                 android:id="@+id/player_song_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/player_text_margin"
                 android:gravity="center_horizontal"
                 android:textColor="@android:color/black"
-                android:textSize="18sp" />
+                android:text="Song Name"
+                android:textSize="22sp" />
 
             <LinearLayout
                 android:orientation="horizontal"
@@ -148,8 +145,39 @@
                     android:layout_toEndOf="@+id/button_action"
                     android:backgroundTint="@color/colorPrimary"
                     android:src="@android:drawable/ic_media_next" />
-
             </RelativeLayout>
+
+            <RatingBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:layout_gravity="center_horizontal"/>
+
+            <LinearLayout
+                android:id="@+id/layout_open_spotify"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="end"
+                android:onClick="clicked_spotify"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Open On:"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                    android:layout_gravity="center_vertical"
+                    android:onClick="clicked_spotify"/>
+                <ImageButton
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/spotify_icon"
+                    android:background="@null"
+                    android:onClick="clicked_spotify"/>
+            </LinearLayout>
+
+
 
         </LinearLayout>
 
