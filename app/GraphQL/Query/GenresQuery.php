@@ -29,16 +29,6 @@ class GenresQuery extends Query
     {
 
         $genres = Genre::query();
-        $fields = $info->getFieldSelection($depth = 1);
-
-//        foreach ($fields as $field => $keys) {
-//            if ($field === 'artists') {
-//                $genres->with('artists');
-//            }
-//            if ($field === 'tracks') {
-//                $genres->with('tracks');
-//            }
-//        }
 
         if (isset($args['id'])) {
              $genres->where('id', $args['id']);

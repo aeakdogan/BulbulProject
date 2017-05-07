@@ -100,6 +100,8 @@ return [
                 'recommendations' => 'App\GraphQL\Query\RecommendationQuery',
                 'authentication' => 'App\GraphQL\Query\AuthenticationQuery',
                 'genres' => 'App\GraphQL\Query\GenresQuery',
+                'rating' => 'App\GraphQL\Query\RatingQuery',
+
             ],
             'mutation' => [
                 'addTagToArtist' => 'App\GraphQL\Mutation\AddTagToArtistMutation',
