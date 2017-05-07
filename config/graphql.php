@@ -107,6 +107,7 @@ return [
                 'requestRecommendation' => 'App\GraphQL\Mutation\RequestRecommendationMutation',
                 'createPlaylist' => 'App\GraphQL\Mutation\CreatePlaylistMutation',
                 'addTrackToPlaylist' => 'App\GraphQL\Mutation\AddTrackToPlaylist',
+                'removeTrackFromPlaylist' => 'App\GraphQL\Mutation\RemoveTrackFromPlaylist',
             ]
         ]
     ],

@@ -9,10 +9,10 @@ use JWTAuth;
 use App\Playlist;
 use App\Track;
 
-class AddTrackToPlaylist extends Mutation
+class RemoveTrackFromPlaylist extends Mutation
 {
     protected $attributes = [
-        'name' => 'addTrackToPlaylist'
+        'name' => 'removeTrackFromPlaylist'
     ];
 
     public function type()
@@ -41,11 +41,10 @@ class AddTrackToPlaylist extends Mutation
         $tracks = $playlist->tracks;
         if (isset($args['track_ids'])) {
             $removeTracks = $tracks->whereIn('id', $args['track_ids'])->pluck('id')->toArray();
-            $diff = array_diff($args['track_ids'], $removeTracks );
-            $playlist->tracks()->attach($diff);
+            $playlist->tracks()->detach($removeTracks);
         } elseif (isset($args['track_id'])) {
-            if($tracks->where('id', $args['track_id'])->count()==0){
-                $playlist->tracks()->attach($args['track_id']);
+            if($tracks->where('id', $args['track_id'])->count()>=1){
+                $playlist->tracks()->detach($args['track_id']);
             }
         }
         $playlist->load('tracks.artists');
