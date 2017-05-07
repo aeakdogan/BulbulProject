@@ -6,9 +6,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
-import android.text.Editable;
-import android.text.TextWatcher;
-import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -16,9 +13,7 @@ import android.widget.Toast;
 import com.apollographql.apollo.ApolloCall;
 import com.apollographql.apollo.api.Response;
 import com.apollographql.apollo.exception.ApolloException;
-import com.bulbulproject.AlbumQuery;
-import com.bulbulproject.ArtistQuery;
-import com.bulbulproject.TrackQuery;
+import com.bulbulproject.SearchQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.adapter.SearchResultRVAdapter;
@@ -69,23 +64,6 @@ public class SearchActivity extends AppCompatActivity {
 
         mProgressView = findViewById(R.id.progress);
 
-        editTextSearch.addTextChangedListener(new TextWatcher() {
-            @Override
-            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
-
-            }
-
-            @Override
-            public void onTextChanged(CharSequence s, int start, int before, int count) {
-                if (s.length() > 3)
-                    getSearchResult(s.toString());
-            }
-
-            @Override
-            public void afterTextChanged(Editable s) {
-
-            }
-        });
         findViewById(R.id.icon_search).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -101,81 +79,78 @@ public class SearchActivity extends AppCompatActivity {
     }
 
     void getSearchResult(String searchText) {
+        mSongs.clear();
+        mArtists.clear();
+        mAlbums.clear();
         mProgressView.setVisibility(View.VISIBLE);
         downloadCounter = 0;
-        ((App) getApplication()).apolloClient().newCall(
-                TrackQuery.builder()
-                        .limit(3)
-                        .build())
-                .enqueue(
-                        new ApolloCall.Callback<TrackQuery.Data>() {
-                            @Override
-                            public void onResponse(@Nonnull com.apollographql.apollo.api.Response<TrackQuery.Data> response) {
-                                if (response.isSuccessful()) {
-                                    List<TrackQuery.Data.Track> trackList = response.data().tracks();
-                                    for (TrackQuery.Data.Track track : trackList) {
 
-                                        Song mSong = new Song(
-                                                track.id(),
-                                                track.name(),
-                                                track.spotify_track_id(),
-                                                0,
-                                                track.spotify_album_img()
-                                        );
-                                        if(track.artists() != null) {
-                                            for (TrackQuery.Data.Artist artist : track.artists()) {
-                                                mSong.getArtists().add(new Artist(artist.name()));
-                                            }
-                                        }
-
-                                        if(track.albums()!=null) {
-                                            for (TrackQuery.Data.Album album : track.albums()) {
-                                                mSong.getAlbums().add(new Album(album.name(), album.image()));
-                                            }
-                                        }
-                                        mSongs.add(mSong);
-                                    }
-                                    runOnUiThread(new Runnable() {
-                                        @Override
-                                        public void run() {
-                                            Log.d("bulbul", "songs finished");
-                                            if (++downloadCounter == 3) {
-                                                updateSearchResult();
-                                            }
-                                        }
-                                    });
-                                }
-                            }
-
-                            @Override
-                            public void onFailure(@Nonnull ApolloException e) {
-                                final String text = e.getMessage();
-                                runOnUiThread(new Runnable() {
-                                    @Override
-                                    public void run() {
-                                        Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
-                                    }
-                                });
-                            }
-                        }
-                );
-
-        ((App) getApplication()).apolloClient().newCall(ArtistQuery.builder().limit(2).build()).enqueue(new ApolloCall.Callback<ArtistQuery.Data>() {
+        ((App) getApplication()).apolloClient().newCall(SearchQuery.builder().limit(2).query(searchText).build()).enqueue(new ApolloCall.Callback<SearchQuery.Data>() {
             @Override
-            public void onResponse(@Nonnull Response<ArtistQuery.Data> response) {
+            public void onResponse(@Nonnull Response<SearchQuery.Data> response) {
                 if (response.isSuccessful()) {
-                    if (response.data().artists() != null) {
-                        for (ArtistQuery.Data.Artist artist : response.data().artists()) {
-                            mArtists.add(new Artist(artist.id(), artist.name(), artist.image()));
+
+
+                    List<SearchQuery.Data.Track> trackList = response.data().tracks();
+                    for (SearchQuery.Data.Track track : trackList) {
+
+                        Song mSong = new Song(
+                                track.id(),
+                                track.name(),
+                                track.spotify_track_id(),
+                                0,
+                                track.spotify_album_img()
+                        );
+                        if (track.artists() != null) {
+                            for (SearchQuery.Data.Artist artist : track.artists()) {
+                                mSong.getArtists().add(new Artist(artist.name()));
+                            }
                         }
+
+                        if (track.albums() != null) {
+                            for (SearchQuery.Data.Album album : track.albums()) {
+                                mSong.getAlbums().add(new Album(album.name(), album.image()));
+                            }
+                        }
+                        mSongs.add(mSong);
                     }
+
+                    for (SearchQuery.Data.Artist1 artist : response.data().artists()) {
+                        mArtists.add(new Artist(artist.id(), artist.name(), artist.image()));
+                    }
+
+                    for (SearchQuery.Data.Album2 album : response.data().albums()) {
+                        Album mAlbum;
+                        mAlbum = new Album("Loading...", 0, "");
+                        mAlbum.setId(album.id());
+                        mAlbum.setName(album.name());
+                        mAlbum.setImageUrl(album.image());
+
+                        if (album.artists() != null) {
+                            for (SearchQuery.Data.Artist3 artist : album.artists()) {
+                                mAlbum.getArtists().add(new Artist(artist.name()));
+                            }
+                        }
+
+                        if (album.tracks() != null) {
+                            for (SearchQuery.Data.Track1 track : album.tracks()) {
+                                Song song = new Song(track.id(), track.name(), track.spotify_album_img(), track.spotify_track_id());
+
+                                if (track.artists() != null) {
+                                    for (SearchQuery.Data.Artist4 artist : track.artists()) {
+                                        song.getArtists().add(new Artist(artist.name()));
+                                    }
+                                }
+                                mAlbum.getSongs().add(song);
+                            }
+                        }
+                        mAlbums.add(mAlbum);
+                    }
+
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
-                            Log.d("bulbul", "artists finished");
-                            if (++downloadCounter == 3) {
-                                updateSearchResult();
-                            }
+                        updateSearchResult();
                         }
                     });
                 }
@@ -192,64 +167,5 @@ public class SearchActivity extends AppCompatActivity {
                 });
             }
         });
-
-
-        ((App) getApplication()).apolloClient().newCall(AlbumQuery.builder().limit(2).build())
-                .enqueue(new ApolloCall.Callback<AlbumQuery.Data>() {
-                    @Override
-                    public void onResponse(@Nonnull Response<AlbumQuery.Data> response) {
-                        if (response.isSuccessful()) {
-
-                            for (AlbumQuery.Data.Album album : response.data().albums()) {
-                                Album mAlbum;
-                                mAlbum = new Album("Loading...", 0, "");
-                                mAlbum.setId(album.id());
-                                mAlbum.setName(album.name());
-                                mAlbum.setImageUrl(album.image());
-
-                                if (album.artists() != null) {
-                                    for (AlbumQuery.Data.Artist artist : album.artists()) {
-                                        mAlbum.getArtists().add(new Artist(artist.name()));
-                                    }
-                                }
-
-                                if (album.tracks() != null) {
-                                    for (AlbumQuery.Data.Track track : album.tracks()) {
-                                        Song song = new Song(track.id(), track.name(), track.spotify_album_img(), track.spotify_track_id());
-
-                                        if (track.artists() != null) {
-                                            for (AlbumQuery.Data.Artist1 artist : track.artists()) {
-                                                song.getArtists().add(new Artist(artist.name()));
-                                            }
-                                        }
-                                        mAlbum.getSongs().add(song);
-                                    }
-                                }
-                                mAlbums.add(mAlbum);
-                            }
-                            runOnUiThread(new Runnable() {
-                                @Override
-                                public void run() {
-                                    Log.d("bulbul", "albums finished");
-                                    if (++downloadCounter == 3) {
-                                        updateSearchResult();
-                                    }
-                                }
-                            });
-
-                        }
-                    }
-
-                    @Override
-                    public void onFailure(@Nonnull ApolloException e) {
-                        final String text = e.getMessage();
-                        runOnUiThread(new Runnable() {
-                            @Override
-                            public void run() {
-                                Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
-                            }
-                        });
-                    }
-                });
     }
 }
