@@ -10,7 +10,9 @@ use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Mutation;
 use Illuminate\Support\Facades\Redis;
 use JWTAuth;
-use Event;
+use Log;
+use Everyman\Neo4j\Cypher\Query as DBQuery;
+use DB;
 
 
 class RequestRecommendationMutation extends Mutation
@@ -47,13 +49,22 @@ class RequestRecommendationMutation extends Mutation
         $user = JWTAuth::authenticate($args['token']);
         $user->recommendations()->attach($r);
         $user_ratings = $user->ratings;
-        $r->mbids = Track::with('genres')->whereNotIn('id', $args['track_ids'])->whereHas('genres',
-            function ($query) use ($args) {
-                $query->whereIn('id', $args['genre_ids']);
-            })
-            ->orderBy('playcount', 'DESC')->take(1000 / count($args['genre_ids']))->get()->pluck('mbid');
-        $rating_mbids = Track::find($args['track_ids'])->pluck('mbid');
 
+        $queries = [];
+        foreach($args['genre_ids'] as $genre_id){
+            $queries[] = 'MATCH (t:Track)-[:IN]->(genre:Genre) WHERE NOT (id(t) IN {track_ids}) AND id(genre)='.$genre_id.' RETURN t.mbid as mbid ORDER BY t.playcount LIMIT {limit}';
+        }
+
+        $queryString = implode(' UNION ', $queries);
+        $client = DB::getClient();
+        $query = new DBQuery($client, $queryString, ['track_ids'=>$args['track_ids'] ,'limit' => round(2000/count($args['genre_ids']))]);
+        $result = $query->getResultSet();
+        $mbids = [];
+
+        foreach ($result as $row) $mbids[] = $row['mbid'];
+
+        $r->mbids = $mbids;
+        $rating_mbids = Track::find($args['track_ids'])->pluck('mbid');
         foreach ($args['ratings'] as $key => $rating) {
 
             $rating = Rating::create(
@@ -70,8 +81,7 @@ class RequestRecommendationMutation extends Mutation
                 $rating = $existing_ratings->first();
                 $rating->value = $args['ratings'][$key];
                 $rating->save();
-            }
-            else {
+            } else {
                 $user->ratings()->attach($rating);
             }
         }
