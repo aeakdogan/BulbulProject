@@ -36,7 +36,6 @@ import javax.annotation.Nonnull;
 public class AccuracyTest extends AppCompatActivity {
 
     int currentOrder = 0;
-    int songsSize = 10;
 
     TextView textViewSongCounter;
     TextView textViewArtistName;
@@ -103,7 +102,7 @@ public class AccuracyTest extends AppCompatActivity {
             } else if (v.getId() == R.id.icon_good) {
                 mSongs.get(currentOrder).setTestResult(1);
             }
-            if (currentOrder == songsSize - 1) {
+            if (currentOrder == mSongs.size() - 1) {
                 Intent intent = new Intent(getApplicationContext(), AccuracyResult.class);
                 intent.putExtra("accuracy_score", 5);
                 startActivity(intent);
@@ -163,7 +162,7 @@ public class AccuracyTest extends AppCompatActivity {
     }
 
     void updateUI() {
-        textViewSongCounter.setText("Song: " + (currentOrder + 1) + "/" + songsSize);
+        textViewSongCounter.setText("Song: " + (currentOrder + 1) + "/" + mSongs.size());
 
         textViewArtistName.setText(mSongs.get(currentOrder).getFirstArtistName());
         textViewAlbumName.setText(mSongs.get(currentOrder).getFirstAlbumName());

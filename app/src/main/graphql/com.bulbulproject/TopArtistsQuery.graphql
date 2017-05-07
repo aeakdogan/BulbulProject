@@ -1,0 +1,8 @@
+query TopArtistsQuery($genre_ids: [Int]!, $limit: Int, $skip: Int){
+  topArtistsQuery(genre_ids: $genre_ids, limit:$limit, skip:$skip){
+    id
+    name
+    image
+    mbid
+  }
+}

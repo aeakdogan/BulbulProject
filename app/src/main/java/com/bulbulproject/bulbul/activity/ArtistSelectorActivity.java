@@ -17,6 +17,7 @@ import com.apollographql.apollo.ApolloCall;
 import com.apollographql.apollo.api.Response;
 import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.GenreQuery;
+import com.bulbulproject.TopArtistsQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.adapter.ArtistSelectorAdapter;
@@ -90,33 +91,21 @@ public class ArtistSelectorActivity extends AppCompatActivity {
 
     private void fetchArtists(int limit, int skip) {
 
-        ((App) getApplication()).apolloClient().newCall(GenreQuery.builder().ids(mCategoryIds).limit(limit).skip(skip).withTopArtists(true).build()).enqueue(new ApolloCall.Callback<GenreQuery.Data>() {
+        ((App) getApplication()).apolloClient().newCall(TopArtistsQuery.builder().genre_ids(mCategoryIds).limit(limit).skip(skip).build()).enqueue(new ApolloCall.Callback<TopArtistsQuery.Data>() {
             @Override
-            public void onResponse(@Nonnull Response<GenreQuery.Data> response) {
+            public void onResponse(@Nonnull Response<TopArtistsQuery.Data> response) {
                 if (response.isSuccessful()) {
-                    if (response.data().genres() != null) {
-                        for (GenreQuery.Data.Genre genre : response.data().genres()) {
-                            if (genre.topArtists() != null) {
-                                for (GenreQuery.Data.TopArtist artist : genre.topArtists()) {
-                                    boolean exists = false;
-                                    for (Artist topArtist : artistList) {
-                                        if (topArtist.getId() == artist.id()) {
-                                            exists = true;
-                                        }
-                                    }
-                                    if (!exists) {
-                                        artistList.add(new Artist(artist.id(), artist.name(), artist.image()));
-                                    }
-                                }
-                            }
-                            runOnUiThread(new Runnable() {
-                                @Override
-                                public void run() {
-                                    mAdapter.notifyDataSetChanged();
-                                    mProgressView.setVisibility(View.GONE);
-                                }
-                            });
+                    if (response.data().topArtistsQuery() != null) {
+                        for (TopArtistsQuery.Data.TopArtistsQuery1 artist : response.data().topArtistsQuery()) {
+                            artistList.add(new Artist(artist.id(), artist.name(), artist.image()));
                         }
+                        runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                mAdapter.notifyDataSetChanged();
+                                mProgressView.setVisibility(View.GONE);
+                            }
+                        });
                     }
                 }
             }
