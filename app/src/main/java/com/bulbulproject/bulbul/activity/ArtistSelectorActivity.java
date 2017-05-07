@@ -16,11 +16,11 @@ import android.widget.Toast;
 import com.apollographql.apollo.ApolloCall;
 import com.apollographql.apollo.api.Response;
 import com.apollographql.apollo.exception.ApolloException;
-import com.bulbulproject.ArtistQuery;
 import com.bulbulproject.GenreQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.adapter.SelectableArtistAdapter;
+import com.bulbulproject.bulbul.adapter.ArtistSelectorAdapter;
+import com.bulbulproject.bulbul.interfaces.AdapterCallbackInterface;
 import com.bulbulproject.bulbul.model.Artist;
 
 import java.util.ArrayList;
@@ -34,6 +34,7 @@ public class ArtistSelectorActivity extends AppCompatActivity {
     private BaseAdapter mAdapter;
     private GridView mGrid;
     private View mProgressView;
+    private Button button_next;
 
 
     @Override
@@ -55,16 +56,25 @@ public class ArtistSelectorActivity extends AppCompatActivity {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             getSupportActionBar().setDisplayShowHomeEnabled(true);
         }
-
+        button_next = (Button) findViewById(R.id.button_next);
+        
         artistList = new ArrayList<Artist>();
 //        initDummyData();
         fetchArtists(5, 0);
 
         mGrid = (GridView) findViewById(R.id.grid_layout);
-        mAdapter = new SelectableArtistAdapter(artistList, ArtistSelectorActivity.this);
+        mAdapter = new ArtistSelectorAdapter(artistList, ArtistSelectorActivity.this, new AdapterCallbackInterface() {
+            @Override
+            public void onSelectedItemCountChanged(int selectedItemCount) {
+                if(selectedItemCount < 2)
+                    button_next.setEnabled(false);
+                else
+                    button_next.setEnabled(true);
+            }
+        });
         mGrid.setAdapter(mAdapter);
         mGrid.setChoiceMode(GridView.CHOICE_MODE_MULTIPLE_MODAL);
-        ((Button) findViewById(R.id.button_next)).setOnClickListener(new View.OnClickListener() {
+        button_next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startTrackSelectorActivity();

@@ -18,7 +18,8 @@ import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.GenreQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.adapter.CategoryAdapter;
+import com.bulbulproject.bulbul.adapter.CategorySelectorAdapter;
+import com.bulbulproject.bulbul.interfaces.AdapterCallbackInterface;
 import com.bulbulproject.bulbul.model.Category;
 
 import java.util.ArrayList;
@@ -31,6 +32,7 @@ public class CategorySelectorActivity extends AppCompatActivity {
     private List<Category> categoryList;
     private View mProgressView;
     private BaseAdapter mAdapter;
+    Button button_next;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,14 +49,23 @@ public class CategorySelectorActivity extends AppCompatActivity {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             getSupportActionBar().setDisplayShowHomeEnabled(true);
         }
+        button_next = (Button) findViewById(R.id.button_next);
 
 //        initDummyData();
         fetchGenres();
-        mAdapter = new CategoryAdapter(categoryList, CategorySelectorActivity.this);
+        mAdapter = new CategorySelectorAdapter(categoryList, CategorySelectorActivity.this, new AdapterCallbackInterface() {
+            @Override
+            public void onSelectedItemCountChanged(int selectedItemCount) {
+                if(selectedItemCount < 2)
+                    button_next.setEnabled(false);
+                else
+                    button_next.setEnabled(true);
+            }
+        });
         mGrid = (GridView) findViewById(R.id.grid_layout);
         mGrid.setAdapter(mAdapter);
         mGrid.setChoiceMode(GridView.CHOICE_MODE_MULTIPLE_MODAL);
-        ((Button) findViewById(R.id.button_next)).setOnClickListener(new View.OnClickListener() {
+        button_next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startArtistSelectorActivity();
