@@ -4,13 +4,12 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/cv"
-    android:layout_margin="10dp"
-    >
+    android:layout_margin="2dp">
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="16dp"
+        android:padding="5dp"
         >
 
         <ImageView
@@ -20,6 +19,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:layout_marginRight="16dp"
+            android:src="@drawable/cover_picture"
             />
 
         <TextView
@@ -28,7 +28,8 @@
             android:id="@+id/song_title"
             android:layout_toRightOf="@+id/song_photo"
             android:layout_alignParentTop="true"
-            android:textSize="30sp"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+            android:text="Song Name"
             />
 
         <TextView
@@ -37,6 +38,8 @@
             android:id="@+id/song_artists"
             android:layout_toRightOf="@+id/song_photo"
             android:layout_below="@+id/song_title"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+            android:text="Artist Name"
             />
 
     </RelativeLayout>

@@ -4,11 +4,11 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/cv"
-    android:layout_margin="10dp">
+    android:layout_margin="2dp">
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="16dp"
+        android:padding="5dp"
         android:background="@color/cardview_dark_background"
         >
 
