@@ -22,10 +22,7 @@ class Genre extends Model
 
     public function getTopArtists($limit, $skip)
     {
-        return Artist::with('genres')->whereHas('genres',
-            function ($query) {
-                $query->where('id', $this->id);
-            })->orderBy('play_count', 'DESC')->skip($skip)->take($limit)->get();
+        return Artist::with('genres')->whereHas('genres',  function ($query) {                $query->where('id', $this->id);            })->orderBy('play_count', 'DESC')->skip($skip)->take($limit)->get();
     }
 
 }

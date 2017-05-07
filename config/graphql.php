@@ -101,6 +101,7 @@ return [
                 'authentication' => 'App\GraphQL\Query\AuthenticationQuery',
                 'genres' => 'App\GraphQL\Query\GenresQuery',
                 'rating' => 'App\GraphQL\Query\RatingQuery',
+                'topArtistsQuery' => 'App\GraphQL\Query\TopArtistsQuery'
 
             ],
             'mutation' => [
