@@ -23,6 +23,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_gravity="right"
+                android:enabled="false"
                 android:background="@android:color/transparent"
                 android:text="Next" />
         </android.support.v7.widget.Toolbar>

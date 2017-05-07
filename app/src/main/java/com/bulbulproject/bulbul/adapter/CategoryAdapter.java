@@ -12,6 +12,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.interfaces.AdapterCallbackInterface;
 import com.bulbulproject.bulbul.model.Category;
 import com.squareup.picasso.Picasso;
 
@@ -25,10 +26,14 @@ import java.util.List;
 public class CategoryAdapter extends BaseAdapter {
     private List<Category> categoryList;
     private Context mContext;
+    AdapterCallbackInterface adapterCallbackInterface;
+    int selectedCount;
 
-    public CategoryAdapter(List<Category> categoryList, Context context) {
+    public CategoryAdapter(List<Category> categoryList, Context context, AdapterCallbackInterface adapterCallbackInterface) {
         this.categoryList = categoryList;
         this.mContext = context;
+        this.adapterCallbackInterface = adapterCallbackInterface;
+        this.selectedCount = 0;
     }
 
     @Override
@@ -68,7 +73,6 @@ public class CategoryAdapter extends BaseAdapter {
         }else{
             c.setVisibility(View.INVISIBLE);
         }
-
         t.setText(category.getName());
         if (category.getImageUrl().length() > 0) {
             Picasso.with(mContext).load(category.getImageUrl()).placeholder(R.drawable.cover_picture).into(i);
@@ -77,13 +81,16 @@ public class CategoryAdapter extends BaseAdapter {
             @Override
             public void onClick(View v) {
                 if (category.isSelected()) {
+                    selectedCount--;
                     v.findViewById(R.id.grid_selected).setVisibility(View.INVISIBLE);
                     category.setSelected(false);
                 } else {
+                    selectedCount++;
                     v.findViewById(R.id.grid_selected).setVisibility(View.VISIBLE);
                     category.setSelected(true);
 
                 }
+                adapterCallbackInterface.onSelectedItemCountChanged(selectedCount);
             }
         });
         return v;
