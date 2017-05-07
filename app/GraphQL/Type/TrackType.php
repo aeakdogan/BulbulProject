@@ -34,7 +34,7 @@ class TrackType extends GraphQLType
                 'description' => 'Tags of track'
             ],
             'rating' => [
-                'type' => Type::int(),
+                'type' => GraphQL::type('Rating'),
                 'description' => 'The rating of the track'
             ],
             'play_count' => [
@@ -94,6 +94,10 @@ class TrackType extends GraphQLType
                 'description' => 'Spotify album url'
             ],
         ];
+    }
+
+    public function resolveRatingField($root, $args){
+        return $root->rating;
     }
 
 }

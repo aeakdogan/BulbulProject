@@ -105,9 +105,11 @@ return [
                 'addTagToArtist' => 'App\GraphQL\Mutation\AddTagToArtistMutation',
                 'register' => 'App\GraphQL\Mutation\RegisterMutation',
                 'requestRecommendation' => 'App\GraphQL\Mutation\RequestRecommendationMutation',
+                'requestPersonalRecommendation' => 'App\GraphQL\Mutation\RequestPersonalRecommendationMutation',
                 'createPlaylist' => 'App\GraphQL\Mutation\CreatePlaylistMutation',
                 'addTrackToPlaylist' => 'App\GraphQL\Mutation\AddTrackToPlaylist',
                 'removeTrackFromPlaylist' => 'App\GraphQL\Mutation\RemoveTrackFromPlaylist',
+                'rateTrack' => 'App\GraphQL\Mutation\RateTrackMutation',
             ]
         ]
     ],

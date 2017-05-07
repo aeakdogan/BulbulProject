@@ -2,6 +2,7 @@
 
 namespace App\GraphQL\Type;
 
+use App\Track;
 use GraphQL;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Type as GraphQLType;
@@ -32,6 +33,14 @@ class BulbulUserType extends GraphQLType
             'recommendations' => [
                 'type' => Type::listOf(GraphQL::type('Recommendation')),
                 'description' => 'Recommendations belongs to the user'
+            ],
+            'ratedTracks' => [
+                'type' => Type::listOf(GraphQL::type('Track')),
+                'description' => 'The rated tracks of user',
+                'args' => [
+                    'limit' => ['description' => 'Number of tracks to be fetched', 'type' => Type::int()],
+                    'skip' => ['description' => 'Number of tracks to be skipped', 'type' => Type::int()],
+                ]
             ],
             'listenedTracks' => [
                 'type' => Type::listOf(GraphQL::type('Track')),
@@ -151,5 +160,17 @@ class BulbulUserType extends GraphQLType
         return $root->listenedAlbums()->take($limit)->skip($skip)->get();
     }
 
+    protected function resolveRatedTracksField($root, $args)
+    {
+        $limit = isset($args['limit']) ? $args['limit'] : 100;
+        $skip = isset($args['skip']) ? $args['skip'] : 0;
+        $ratings = $root->ratings()->orderBy('updated_at', 'DESC')->take($limit)->skip($skip)->get();
+        $rated_track_ids = $ratings->pluck('track_id')->toArray();
+        $tracks = Track::whereIn('id',$rated_track_ids)->get();
+        foreach($tracks as $key=>$track){
+            $track->rating = $ratings[$key];
+        }
+        return $tracks;
+    }
 
 }

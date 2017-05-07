@@ -24,10 +24,6 @@ class RatingType extends GraphQLType
             'track_id' => [
                 'type' => Type::int(),
                 'description' => 'The track id of rating'
-            ],
-            'track' => [
-                'type' => GraphQL::type('Track'),
-                'description' => 'The track id of rating'
             ]
         ];
     }

@@ -40,14 +40,18 @@ class RequestRecommendationMutation extends Mutation
         $r = Recommendation::create(
             [
                 'status' => 'NOT_READY',
+                'type' => 'REGULAR',
                 'artist_ids' => $args['artist_ids'],
                 'genre_ids' => $args['genre_ids']
             ]);
         $user = JWTAuth::authenticate($args['token']);
         $user->recommendations()->attach($r);
+        $user_ratings = $user->ratings;
         $r->mbids = Track::with('genres')->whereNotIn('id', $args['track_ids'])->whereHas('genres',
-            function ($query) use ($args){$query->whereIn('id', $args['genre_ids']);})
-            ->orderBy('playcount', 'DESC')->take(2000/count($args['genre_ids']))->get()->pluck('mbid');
+            function ($query) use ($args) {
+                $query->whereIn('id', $args['genre_ids']);
+            })
+            ->orderBy('playcount', 'DESC')->take(1000 / count($args['genre_ids']))->get()->pluck('mbid');
         $rating_mbids = Track::find($args['track_ids'])->pluck('mbid');
 
         foreach ($args['ratings'] as $key => $rating) {
@@ -60,6 +64,16 @@ class RequestRecommendationMutation extends Mutation
                 ]);
 
             $r->ratings()->attach($rating);
+
+            $existing_ratings = $user_ratings->where('track_id', $args['track_ids'][$key]);
+            if ($existing_ratings->count() > 0) {
+                $rating = $existing_ratings->first();
+                $rating->value = $args['ratings'][$key];
+                $rating->save();
+            }
+            else {
+                $user->ratings()->attach($rating);
+            }
         }
 
         Redis::command('lpush', ['recommendation', [$r->load('ratings')]]);

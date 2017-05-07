@@ -52,6 +52,10 @@ class BulbulUser extends Model implements AuthenticatableContract,
         return $this->hasMany('App\Recommendation','REQUESTS');
     }
 
+    public function ratings(){
+        return $this->hasMany('App\Rating','HAS');
+    }
+
     public function listenedAlbums()
     {
         return $this->hasMany('App\Album', 'LISTENS');

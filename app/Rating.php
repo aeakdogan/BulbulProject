@@ -15,11 +15,10 @@ class Rating extends Model
 {
     protected $label = 'Rating';
     protected $fillable = ['id','track_id', 'value', 'mbid'];
-    protected $hidden = ['id','track_id'];
-    public $timestamps = false;
+    protected $hidden = ['id','track_id', 'created_at', 'updated_at'];
 
-    public function track(){
-        return $this->hasOne('App\Track','RATED');
+    public function creator(){
+        return $this->belongsTo('App\BulbulUser','HAS');
     }
 
 }

@@ -13,7 +13,7 @@ use Vinelab\NeoEloquent\Eloquent\Model;
 class Recommendation extends Model
 {
     protected $label = 'Recommendation';
-    protected $fillable = ['id','status'];
+    protected $fillable = ['id','status', 'type'];
 
 
     public function ratings()
@@ -34,5 +34,15 @@ class Recommendation extends Model
     public function scopeReady($query)
     {
         return $query->where('status', '!=', 'NOT_READY');
+    }
+
+    public function scopePersonal($query)
+    {
+        return $query->where('type', 'PERSONAL');
+    }
+
+    public function scopeRegular($query)
+    {
+        return $query->where('type', 'PERSONAL');
     }
 }
