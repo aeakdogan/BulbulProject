@@ -40,6 +40,7 @@ class RateTrackMutation extends Mutation
 
         if ($rating) {
             $rating->value = $args['rating'];
+            $rating->save();
         } else {
             $rating = Rating::create(
                 [
