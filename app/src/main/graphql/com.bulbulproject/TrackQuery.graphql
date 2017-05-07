@@ -9,12 +9,8 @@ query TrackQuery($id: Int, $limit: Int, $skip:Int, $ids: [Int], $min_acousticnes
                     tag_name
                 }
                 image
-                biography_text
                 lastfm_url
                 mbid
-                listener_count
-                play_count
-                biography_url
             }
             albums{
                 id
