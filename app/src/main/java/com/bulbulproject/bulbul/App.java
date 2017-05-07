@@ -4,6 +4,9 @@ import android.app.Application;
 import com.apollographql.apollo.ApolloClient;
 
 import com.crashlytics.android.Crashlytics;
+
+import java.util.concurrent.TimeUnit;
+
 import io.fabric.sdk.android.Fabric;
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
@@ -22,6 +25,8 @@ public class App extends Application {
 
         OkHttpClient okHttpClient = new OkHttpClient.Builder()
                 .addNetworkInterceptor(loggingInterceptor)
+                .connectTimeout(120, TimeUnit.SECONDS)
+                .retryOnConnectionFailure(true)
                 .build();
 
         apolloClient = ApolloClient.builder().serverUrl(BASE_URL)
