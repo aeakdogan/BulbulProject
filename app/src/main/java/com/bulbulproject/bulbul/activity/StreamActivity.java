@@ -17,6 +17,7 @@ import android.support.v4.content.LocalBroadcastManager;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
@@ -41,6 +42,7 @@ import com.bulbulproject.UserTrackRateQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.model.Playlist;
+import com.bulbulproject.bulbul.service.Globals;
 import com.bulbulproject.bulbul.service.PlayerService;
 import com.spotify.sdk.android.player.Metadata;
 import com.spotify.sdk.android.player.SpotifyPlayer;
@@ -50,6 +52,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import javax.annotation.Nonnull;
+import javax.microedition.khronos.opengles.GL;
 
 public class StreamActivity extends AppCompatActivity {
 
@@ -77,6 +80,7 @@ public class StreamActivity extends AppCompatActivity {
     private Handler mHandler = new Handler();
     String token;
     Dialog playlistDialog;
+    private ImageView mBackgroundImage;
 
     private final BroadcastReceiver receiver = new BroadcastReceiver() {
         @Override
@@ -94,7 +98,6 @@ public class StreamActivity extends AppCompatActivity {
             }
         }
     };
-
 
 
     @Override
@@ -126,7 +129,7 @@ public class StreamActivity extends AppCompatActivity {
         mSeekbarDuration = (TextView) findViewById(R.id.player_seekbar_duration);
         mImage = (ImageView) findViewById(R.id.player_image);
         mSeekBar = (SeekBar) findViewById(R.id.seekBar);
-
+        mBackgroundImage = (ImageView) findViewById(R.id.bg_image);
 
         Intent intent = getIntent();
         if (intent.hasExtra("song_uri")) {
@@ -424,6 +427,12 @@ public class StreamActivity extends AppCompatActivity {
             track = mPlayer.getMetadata().currentTrack;
         }
         if (track != null) {
+            Log.d("bulbul", "track id: " + mSongID + " track name: " + mPlayer.getMetadata().currentTrack.name + " image url" + Globals.mSongs.get(position).getArtists().get(0).getName());
+            Picasso.with(StreamActivity.this).load(Globals.mSongs.get(position).getArtists().get(0).getImageUrl())
+                    .placeholder(R.drawable.cover_picture)
+                    .error(R.drawable.cover_picture)
+                    .into(mBackgroundImage);
+
             Picasso.with(StreamActivity.this).load(track.albumCoverWebUrl)
                     .placeholder(R.drawable.cover_picture)
                     .error(R.drawable.cover_picture)

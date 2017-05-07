@@ -22,6 +22,7 @@ import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Song;
+import com.bulbulproject.bulbul.service.Globals;
 import com.squareup.picasso.Picasso;
 
 import java.io.IOException;
@@ -49,6 +50,7 @@ public class AccuracyTraining extends AppCompatActivity {
     ArrayList<Integer> categoryIds;
     private View mProgressView;
     boolean isPlaying;
+    private ImageView backgroundImage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -75,6 +77,7 @@ public class AccuracyTraining extends AppCompatActivity {
         textViewRateSong = (TextView) findViewById(R.id.rate_song);
         ratingBarSong = (RatingBar) findViewById(R.id.ratingbar_song);
         imageViewAlbumImage = (ImageView) findViewById(R.id.album_img);
+        backgroundImage = (ImageView) findViewById(R.id.bg_image);
 
         ratingBarSong.setOnRatingBarChangeListener(new RatingBar.OnRatingBarChangeListener() {
             @Override
@@ -214,6 +217,10 @@ public class AccuracyTraining extends AppCompatActivity {
         textViewSongName.setText(mSongs.get(currentOrder).getName());
         ((ImageView) findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
 
+        Picasso.with(this).load(mSongs.get(currentOrder).getArtists().get(0).getImageUrl())
+                .placeholder(R.drawable.cover_picture)
+                .error(R.drawable.cover_picture)
+                .into(backgroundImage);
         Picasso.with(getApplicationContext())
                 .load(mSongs.get(currentOrder).getImageUrl())
                 .placeholder(R.drawable.cover_picture)

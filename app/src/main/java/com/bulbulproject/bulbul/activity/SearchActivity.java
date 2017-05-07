@@ -122,7 +122,7 @@ public class SearchActivity extends AppCompatActivity {
                         );
                         if (track.artists() != null) {
                             for (SearchQuery.Data.Artist artist : track.artists()) {
-                                mSong.getArtists().add(new Artist(artist.name()));
+                                mSong.getArtists().add(new Artist(artist.id(), artist.name(), artist.image()));
                             }
                         }
 
