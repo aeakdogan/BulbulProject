@@ -1,35 +1,52 @@
 package com.bulbulproject.bulbul.activity;
 
-import android.app.ActionBar;
 import android.app.Activity;
+import android.app.Dialog;
 import android.content.BroadcastReceiver;
 import android.content.ComponentName;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.ServiceConnection;
 import android.net.Uri;
+import android.os.Bundle;
 import android.os.Handler;
 import android.os.IBinder;
 import android.support.v4.content.LocalBroadcastManager;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
+import android.widget.ListView;
 import android.widget.SeekBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.apollographql.apollo.ApolloCall;
+import com.apollographql.apollo.api.Response;
+import com.apollographql.apollo.exception.ApolloException;
+import com.bulbulproject.AddTrackToPlaylistMutation;
+import com.bulbulproject.CreatePlaylistMutation;
+import com.bulbulproject.UserPlaylistsQuery;
+import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.model.Playlist;
 import com.bulbulproject.bulbul.service.PlayerService;
 import com.spotify.sdk.android.player.Metadata;
 import com.spotify.sdk.android.player.SpotifyPlayer;
 import com.squareup.picasso.Picasso;
 
+import java.util.ArrayList;
 import java.util.List;
+
+import javax.annotation.Nonnull;
 
 public class StreamActivity extends AppCompatActivity {
 
@@ -48,10 +65,14 @@ public class StreamActivity extends AppCompatActivity {
     private int position;
     private List<String> songs;
     private int targetProgress = 0;
+    private int mSongID;
+    ArrayList<Playlist> mPlaylists = new ArrayList<>();
 
+    private ArrayList<String> playlistNames;
 
     private Handler mHandler = new Handler();
-
+    String token;
+    Dialog playlistDialog;
 
     private final BroadcastReceiver receiver = new BroadcastReceiver() {
         @Override
@@ -69,6 +90,7 @@ public class StreamActivity extends AppCompatActivity {
             }
         }
     };
+
 
 
     @Override
@@ -109,6 +131,7 @@ public class StreamActivity extends AppCompatActivity {
             songs = intent.getStringArrayListExtra("songs");
             mAutoplay = true;
         }
+        mSongID = intent.getIntExtra("trackID", 0);
 
         mActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -149,6 +172,160 @@ public class StreamActivity extends AppCompatActivity {
             public void onStopTrackingTouch(SeekBar seekBar) {
                 mPlayer.seekToPosition(null, targetProgress);
                 updateSeekbarCurrentPos();
+            }
+        });
+
+        findViewById(R.id.button_add_playlist).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                addToPlaylist();
+
+            }
+        });
+    }
+    void createPlaylist(final String mytoken, final String playlistName){
+        ((App) getApplication()).apolloClient().newCall(CreatePlaylistMutation.builder().token(mytoken).name(playlistName).build()).enqueue(new ApolloCall.Callback<CreatePlaylistMutation.Data>() {
+            @Override
+            public void onResponse(@Nonnull Response<CreatePlaylistMutation.Data> response) {
+                if (response.isSuccessful()) {
+//                    response.data().
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            Toast.makeText(getApplicationContext(),  playlistName +" playlist created", Toast.LENGTH_SHORT).show();
+                        }
+                    });
+                    addTrackToPlaylist(mytoken, mSongID, new Playlist(playlistName, response.data().createPlaylist().id()));
+                }
+            }
+
+            @Override
+            public void onFailure(@Nonnull ApolloException e) {
+                final String text = e.getMessage();
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+                    }
+                });
+            }
+        });
+    }
+    void createPlaylistDialog(){
+        AlertDialog.Builder alert = new AlertDialog.Builder(this);
+        final EditText edittext = new EditText(this);
+        alert.setMessage("Enter Playlist Name");
+        alert.setTitle("Create New Playlist");
+
+        alert.setView(edittext);
+
+        alert.setPositiveButton("Create", new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int whichButton) {
+                String playlistName = edittext.getText().toString();
+                playlistDialog.dismiss();
+                createPlaylist(token, playlistName);
+
+            }
+        });
+
+        alert.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int whichButton) {
+                return;
+            }
+        });
+
+        alert.show();
+    }
+    void addTrackToPlaylist(String mytoken, int trackID, final Playlist playlist){
+        ((App) getApplication()).apolloClient().newCall(AddTrackToPlaylistMutation.builder().token(mytoken).track_id(trackID).id(playlist.getId()).build()).enqueue(new ApolloCall.Callback<AddTrackToPlaylistMutation.Data>() {
+            @Override
+            public void onResponse(@Nonnull Response<AddTrackToPlaylistMutation.Data> response) {
+                if (response.isSuccessful()) {
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            Toast.makeText(getApplicationContext(), "Song added to playlist of " + playlist.getName(), Toast.LENGTH_SHORT).show();
+                        }
+                    });
+                }
+            }
+
+            @Override
+            public void onFailure(@Nonnull ApolloException e) {
+                final String text = e.getMessage();
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+                    }
+                });
+            }
+        });
+    }
+    void addToPlaylist(){
+
+        playlistDialog = new Dialog(this);
+        playlistDialog.setContentView(R.layout.dialog_playlists);
+        playlistDialog.setTitle("Add to Playlist");
+        ((TextView) playlistDialog.findViewById(R.id.title_dialog)).setText("Add to Playlist");
+        ListView listViewPlaylists = (ListView) playlistDialog.findViewById(R.id.listview_playlists);
+
+        playlistNames = new ArrayList<>();
+        final ArrayAdapter<String> playlistAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, playlistNames);
+
+        listViewPlaylists.setAdapter(playlistAdapter);
+        listViewPlaylists.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                if(position == 0) {
+                    createPlaylistDialog();
+                    //Toast.makeText(getApplicationContext(), "New Playlist is created", Toast.LENGTH_SHORT).show();
+                }
+                else if(position > 0) {
+                    playlistDialog.dismiss();
+                    addTrackToPlaylist(token, mSongID, mPlaylists.get(position - 1));
+                }
+
+            }
+        });
+
+        token = getApplicationContext().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE).getString("AUTH_TOKEN", "");
+
+        ((App) getApplication()).apolloClient().newCall(UserPlaylistsQuery.builder().token(token).build()).enqueue(new ApolloCall.Callback<UserPlaylistsQuery.Data>() {
+            @Override
+            public void onResponse(@Nonnull Response<UserPlaylistsQuery.Data> response) {
+                if (response.isSuccessful()) {
+                    playlistNames.clear();
+                    mPlaylists.clear();
+                    playlistNames.add("(Create New Playlist)");
+//                    mPlaylists.add(new Playlist("new_playlist", -1));
+                    UserPlaylistsQuery.Data.User user = response.data().users().get(0);
+                    if (user.playlists() != null) {
+                        for (UserPlaylistsQuery.Data.Playlist playlist : user.playlists()) {
+                            mPlaylists.add(new Playlist(playlist.name(), playlist.id()));
+                            playlistNames.add(playlist.name());
+                        }
+                    }
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+//                        mProgressView.setVisibility(View.GONE);
+                        playlistAdapter.notifyDataSetChanged();
+                        playlistDialog.show();
+                        }
+                    });
+                }
+            }
+
+            @Override
+            public void onFailure(@Nonnull ApolloException e) {
+                final String text = e.getMessage();
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+                    }
+                });
             }
         });
     }

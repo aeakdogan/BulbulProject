@@ -60,7 +60,7 @@ public class AlbumsRVAdapter extends RecyclerView.Adapter<AlbumsRVAdapter.MyCard
     }
 
     @Override
-    public void onBindViewHolder(AlbumsRVAdapter.MyCardViewHolder holder, final int position) {
+    public void onBindViewHolder(AlbumsRVAdapter.MyCardViewHolder holder, int position) {
         final Album tmpAlbum = albums.get(position);
         holder.albumName.setText(tmpAlbum.getName());
         String albumMeta = tmpAlbum.getArtistsString() + "\n" +

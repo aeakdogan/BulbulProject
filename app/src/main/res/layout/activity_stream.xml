@@ -23,6 +23,14 @@
             android:background="?attr/colorPrimary"
             app:layout_scrollFlags="enterAlways"
             app:popupTheme="@style/AppTheme.PopupOverlay">
+            <ImageButton
+                android:id="@+id/button_add_playlist"
+                android:layout_width="?attr/actionBarSize"
+                android:layout_height="match_parent"
+                android:layout_gravity="right"
+                android:scaleType="centerInside"
+                android:background="@android:color/transparent"
+                android:src="@drawable/icon_add_to_playlist"/>
 
         </android.support.v7.widget.Toolbar>
 

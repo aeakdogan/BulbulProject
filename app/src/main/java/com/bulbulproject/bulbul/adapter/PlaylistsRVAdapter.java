@@ -59,16 +59,16 @@ public class PlaylistsRVAdapter extends RecyclerView.Adapter<PlaylistsRVAdapter.
     }
 
     @Override
-    public void onBindViewHolder(PlaylistsRVAdapter.MyCardViewHolder holder, final int position) {
+    public void onBindViewHolder(final PlaylistsRVAdapter.MyCardViewHolder holder, int position) {
         holder.playlistName.setText(playlists.get(position).getName());
-        holder.playlistMeta.setText("" + playlists.get(position).getSongs().size() + " songs");
+        holder.playlistMeta.setText("" + playlists.get(position).getSongsCount() + " songs");
         holder.playlistPhoto.setImageResource(playlists.get(position).getPhotoId());
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(context.getApplicationContext(), PlaylistActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                intent.putExtra("id", playlists.get(position).getId());
+                intent.putExtra("id", playlists.get(holder.getAdapterPosition()).getId());
                 context.getApplicationContext().startActivity(intent);
             }
         });
