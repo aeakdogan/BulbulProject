@@ -61,7 +61,7 @@ public class ArtistSelectorActivity extends AppCompatActivity {
         
         artistList = new ArrayList<Artist>();
 //        initDummyData();
-        fetchArtists(5,0);
+        fetchArtists(5, 0);
 
         mGrid = (GridView) findViewById(R.id.grid_layout);
         mAdapter = new ArtistSelectorAdapter(artistList, ArtistSelectorActivity.this, new AdapterCallbackInterface() {
@@ -142,7 +142,7 @@ public class ArtistSelectorActivity extends AppCompatActivity {
     private void startTrackSelectorActivity() {
         Intent intent = new Intent(ArtistSelectorActivity.this, AccuracyTraining.class);
         intent.putIntegerArrayListExtra("artist_ids", getSelectedArtistIds());
-        intent.putIntegerArrayListExtra("category_ids",  mCategoryIds);
+        intent.putIntegerArrayListExtra("category_ids", mCategoryIds);
         startActivity(intent);
     }
 
