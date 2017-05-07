@@ -18,7 +18,7 @@ import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.GenreQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.adapter.CategoryAdapter;
+import com.bulbulproject.bulbul.adapter.CategorySelectorAdapter;
 import com.bulbulproject.bulbul.interfaces.AdapterCallbackInterface;
 import com.bulbulproject.bulbul.model.Category;
 
@@ -53,7 +53,7 @@ public class CategorySelectorActivity extends AppCompatActivity {
 
 //        initDummyData();
         fetchGenres();
-        mAdapter = new CategoryAdapter(categoryList, CategorySelectorActivity.this, new AdapterCallbackInterface() {
+        mAdapter = new CategorySelectorAdapter(categoryList, CategorySelectorActivity.this, new AdapterCallbackInterface() {
             @Override
             public void onSelectedItemCountChanged(int selectedItemCount) {
                 if(selectedItemCount < 2)

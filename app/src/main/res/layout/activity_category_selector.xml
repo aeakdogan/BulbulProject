@@ -37,6 +37,17 @@
         android:layout_margin="128dp"
         android:visibility="gone" />
 
-    <include layout="@layout/content_category_selector" />
+    <GridView
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:id="@+id/grid_layout"
+        android:numColumns="4"
+        android:gravity="center"
+        android:columnWidth="100dp"
+        android:stretchMode="columnWidth"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+    </GridView>
 
 </android.support.design.widget.CoordinatorLayout>

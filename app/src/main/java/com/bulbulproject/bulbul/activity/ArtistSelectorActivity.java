@@ -16,11 +16,10 @@ import android.widget.Toast;
 import com.apollographql.apollo.ApolloCall;
 import com.apollographql.apollo.api.Response;
 import com.apollographql.apollo.exception.ApolloException;
-import com.bulbulproject.ArtistQuery;
 import com.bulbulproject.GenreQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
-import com.bulbulproject.bulbul.adapter.SelectableArtistAdapter;
+import com.bulbulproject.bulbul.adapter.ArtistSelectorAdapter;
 import com.bulbulproject.bulbul.interfaces.AdapterCallbackInterface;
 import com.bulbulproject.bulbul.model.Artist;
 
@@ -64,7 +63,7 @@ public class ArtistSelectorActivity extends AppCompatActivity {
         fetchArtists(5,0);
 
         mGrid = (GridView) findViewById(R.id.grid_layout);
-        mAdapter = new SelectableArtistAdapter(artistList, ArtistSelectorActivity.this, new AdapterCallbackInterface() {
+        mAdapter = new ArtistSelectorAdapter(artistList, ArtistSelectorActivity.this, new AdapterCallbackInterface() {
             @Override
             public void onSelectedItemCountChanged(int selectedItemCount) {
                 if(selectedItemCount < 2)
