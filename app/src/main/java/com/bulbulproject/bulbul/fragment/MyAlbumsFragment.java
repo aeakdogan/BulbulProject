@@ -67,6 +67,7 @@ public class MyAlbumsFragment extends Fragment {
             @Override
             public void onResponse(@Nonnull Response<UserAlbumsQuery.Data> response) {
                 if (response.isSuccessful()) {
+                    albums.clear();
                     UserAlbumsQuery.Data.User user = response.data().users().get(0);
                     if (user.listenedAlbums() != null) {
                         for (UserAlbumsQuery.Data.ListenedAlbum album : user.listenedAlbums()) {

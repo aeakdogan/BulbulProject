@@ -79,6 +79,8 @@ public class DiscoverFragment extends Fragment {
                             @Override
                             public void onResponse(@Nonnull Response<TrackQuery.Data> response) {
                                 if (response.isSuccessful()) {
+                                    mSongs.clear();
+                                    songsList.clear();
                                     List<TrackQuery.Data.Track> trackList = response.data().tracks();
                                     if (trackList != null) {
                                         for (TrackQuery.Data.Track track : trackList) {
