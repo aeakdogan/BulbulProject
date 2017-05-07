@@ -52,7 +52,7 @@ class RequestRecommendationMutation extends Mutation
 
         $queries = [];
         foreach($args['genre_ids'] as $genre_id){
-            $queries[] = 'MATCH (t:Track)-[:IN]->(genre:Genre) WHERE NOT (id(t) IN {track_ids}) AND id(genre)='.$genre_id.' RETURN t.mbid as mbid ORDER BY t.playcount LIMIT {limit}';
+            $queries[] = 'MATCH (t:Track)-[:IN]->(genre:Genre) WHERE NOT (id(t) IN {track_ids}) AND id(genre)='.$genre_id.' RETURN t.mbid as mbid ORDER BY t.playcount DESC LIMIT {limit}';
         }
 
         $queryString = implode(' UNION ', $queries);
