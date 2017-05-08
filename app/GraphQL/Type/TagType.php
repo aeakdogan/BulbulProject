@@ -5,7 +5,7 @@ namespace App\GraphQL\Type;
 use GraphQL;
 use GraphQL\Type\Definition\Type;
 use Folklore\GraphQL\Support\Type as GraphQLType;
-
+use App\GraphQL\Fields\TracksField;
 
 class TagType extends GraphQLType
 {
