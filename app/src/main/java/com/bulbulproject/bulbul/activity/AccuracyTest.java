@@ -63,6 +63,7 @@ public class AccuracyTest extends AppCompatActivity {
         setContentView(R.layout.activity_accuracy_test);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        toolbar.setTitle("Recommended Tracks");
         android.support.v7.app.ActionBar actionBar = getSupportActionBar();
         if (actionBar != null) {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);

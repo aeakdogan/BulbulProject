@@ -60,6 +60,7 @@ public class AccuracyTraining extends AppCompatActivity {
         setContentView(R.layout.activity_accuracy_training);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        toolbar.setTitle("Rate tracks");
         android.support.v7.app.ActionBar actionBar = getSupportActionBar();
         if (actionBar != null) {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
