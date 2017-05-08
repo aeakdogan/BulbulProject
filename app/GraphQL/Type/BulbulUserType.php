@@ -76,7 +76,12 @@ class BulbulUserType extends GraphQLType
             ],
             'playlists' => [
                 'type' => Type::listOf(GraphQL::type('Playlist')),
-                'description' => 'Playists created by user'
+                'description' => 'Playists created by user',
+                'args' => [
+                    'limit' => ['description' => 'Number of playlists to be fetched', 'type' => Type::int()],
+                    'skip' => ['description' => 'Number of playlists to be skipped', 'type' => Type::int()],
+                ]
+
             ],
             'followers' => [
                 'type' => Type::listOf(GraphQL::type('BulbulUser')),
@@ -106,7 +111,13 @@ class BulbulUserType extends GraphQLType
     }
     protected function resolvePlaylistsField($root, $args)
     {
-        return $root->playlists()->orderBy('created_at', 'DESC')->get();
+        if (!isset($args['limit']) && !isset($args['skip'])) {
+            if (!$root->relationLoaded('playlists')) $root->load('playlists');
+            return $root->getRelation('playlists');
+        }
+        $limit = isset($args['limit']) ? $args['limit'] : 100;
+        $skip = isset($args['skip']) ? $args['skip'] : 0;
+        return $root->playlists()->orderBy('created_at', 'DESC')->take($limit)->skip($skip)->get();
     }
 
     protected function resolveFollowersField($root, $args)
