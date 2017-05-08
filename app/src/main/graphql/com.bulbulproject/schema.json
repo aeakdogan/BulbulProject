@@ -2134,7 +2134,28 @@
             {
               "name": "playlists",
               "description": "Playists created by user",
-              "args": [],
+              "args": [
+                {
+                  "name": "limit",
+                  "description": "Number of playlists to be fetched",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                },
+                {
+                  "name": "skip",
+                  "description": "Number of playlists to be skipped",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                }
+              ],
               "type": {
                 "kind": "LIST",
                 "name": null,
