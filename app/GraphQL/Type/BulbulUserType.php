@@ -104,6 +104,10 @@ class BulbulUserType extends GraphQLType
             ]
         ];
     }
+    protected function resolvePlaylistsField($root, $args)
+    {
+        return $root->playlists()->orderBy('created_at', 'DESC')->get();
+    }
 
     protected function resolveFollowersField($root, $args)
     {

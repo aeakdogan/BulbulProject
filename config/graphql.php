@@ -113,6 +113,7 @@ return [
                 'addTrackToPlaylist' => 'App\GraphQL\Mutation\AddTrackToPlaylist',
                 'removeTrackFromPlaylist' => 'App\GraphQL\Mutation\RemoveTrackFromPlaylist',
                 'rateTrack' => 'App\GraphQL\Mutation\RateTrackMutation',
+                'saveAsPlaylist' => 'App\GraphQL\Mutation\SaveAsPlaylistMutation',
             ]
         ]
     ],
