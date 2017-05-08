@@ -27,37 +27,22 @@
             <Button
                 android:id="@+id/test_button"
                 style="@style/Widget.AppCompat.Button"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginEnd="4dp"
-                android:layout_marginStart="4dp"
-                android:layout_marginTop="4dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:padding="25dp"
                 android:background="@color/colorAccent"
-                android:text="Start Test"
+                android:text="Instant Recommendations"
                 android:textColor="?android:attr/textColorPrimaryInverse" />
 
-            <Button
-                android:id="@+id/mood_button"
-                style="@style/Widget.AppCompat.Button"
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rv_user_summary"
+                android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="4dp"
-                android:layout_marginStart="4dp"
-                android:layout_marginTop="4dp"
-                android:background="@color/colorAccent"
-                android:text="Start Mood Activity"
-                android:textColor="?android:attr/textColorPrimaryInverse" />
-            <Button
-                android:id="@+id/search_button"
-                style="@style/Widget.AppCompat.Button"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="4dp"
-                android:layout_marginStart="4dp"
-                android:layout_marginTop="4dp"
-                android:background="@color/colorAccent"
-                android:text="Search"
-                android:textColor="?android:attr/textColorPrimaryInverse" />
+                android:layout_height="wrap_content">
+
+            </android.support.v7.widget.RecyclerView>
         </LinearLayout>
 
     </RelativeLayout>
