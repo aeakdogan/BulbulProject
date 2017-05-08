@@ -152,7 +152,7 @@ public class MyProfile extends AppCompatActivity {
                             mName.setText(mUser.getUsername());
                             mFollowersText.setText("" + mUser.getFollowersCount() + " Followers");
                             mFollowingsText.setText("" + mUser.getFollowingsCount() + " Following");
-                            Picasso.with(MyProfile.this).load(mUser.getProfilePhoto()).into(mProfilePhoto);
+                            Picasso.with(MyProfile.this).load(mUser.getProfilePhoto()).error(R.drawable.dummy_photo).placeholder(R.drawable.dummy_photo).into(mProfilePhoto);
                         }
                     });
                 }
