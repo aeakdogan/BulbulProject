@@ -3,7 +3,6 @@ package com.bulbulproject.bulbul.activity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.graphics.drawable.BitmapDrawable;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.Handler;
@@ -25,6 +24,7 @@ import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Song;
+import com.bulbulproject.bulbul.service.Globals;
 import com.squareup.picasso.Picasso;
 
 import java.io.IOException;
@@ -54,6 +54,7 @@ public class AccuracyTest extends AppCompatActivity {
     private View mProgressView;
     boolean isPlaying;
     private ImageView backgroundImage;
+    private int recommendationId = -1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -107,8 +108,14 @@ public class AccuracyTest extends AppCompatActivity {
                 mSongs.get(currentOrder).setTestResult(1);
             }
             if (currentOrder == mSongs.size() - 1) {
-                Intent intent = new Intent(getApplicationContext(), AccuracyResult.class);
-                intent.putExtra("accuracy_score", 5);
+                if(Globals.mSongs !=null) {
+                    Globals.mSongs.clear();
+                    Globals.mSongs.addAll(mSongs);
+                }else{
+                    Globals.mSongs = mSongs;
+                }
+                Intent intent = new Intent(AccuracyTest.this, SongListActivity.class);
+                intent.putExtra("recommendation_id", recommendationId);
                 startActivity(intent);
                 return;
             }
@@ -230,6 +237,7 @@ public class AccuracyTest extends AppCompatActivity {
                 if (response.isSuccessful() && response.data().recommendations() != null && response.data().recommendations().get(0).status().equals("READY")) {
                     RecommendationsQuery.Data.Recommendation recommendation = response.data().recommendations().get(0);
                     if (recommendation.tracks() != null) {
+                        recommendationId = id;
                         List<RecommendationsQuery.Data.Track> tracks = recommendation.tracks();
                         for (RecommendationsQuery.Data.Track track : tracks) {
                             Song mSong = new Song(track.id(),

@@ -454,6 +454,16 @@
                     }
                   },
                   "defaultValue": null
+                },
+                {
+                  "name": "auto_generated",
+                  "description": null,
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Boolean",
+                    "ofType": null
+                  },
+                  "defaultValue": null
                 }
               ],
               "type": {
@@ -1638,8 +1648,29 @@
             },
             {
               "name": "tracks",
-              "description": "Tracks tagged by this tag",
-              "args": [],
+              "description": "Tracks of the entity",
+              "args": [
+                {
+                  "name": "limit",
+                  "description": "Number of tracks to be fetched",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                },
+                {
+                  "name": "skip",
+                  "description": "Number of tracks to be skipped",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                }
+              ],
               "type": {
                 "kind": "LIST",
                 "name": null,
@@ -2103,7 +2134,28 @@
             {
               "name": "playlists",
               "description": "Playists created by user",
-              "args": [],
+              "args": [
+                {
+                  "name": "limit",
+                  "description": "Number of playlists to be fetched",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                },
+                {
+                  "name": "skip",
+                  "description": "Number of playlists to be skipped",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                }
+              ],
               "type": {
                 "kind": "LIST",
                 "name": null,
@@ -2271,8 +2323,29 @@
             },
             {
               "name": "tracks",
-              "description": "Recommended tracks",
-              "args": [],
+              "description": "Tracks of the entity",
+              "args": [
+                {
+                  "name": "limit",
+                  "description": "Number of tracks to be fetched",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                },
+                {
+                  "name": "skip",
+                  "description": "Number of tracks to be skipped",
+                  "type": {
+                    "kind": "SCALAR",
+                    "name": "Int",
+                    "ofType": null
+                  },
+                  "defaultValue": null
+                }
+              ],
               "type": {
                 "kind": "LIST",
                 "name": null,
@@ -2935,6 +3008,47 @@
               "type": {
                 "kind": "OBJECT",
                 "name": "Track",
+                "ofType": null
+              },
+              "isDeprecated": false,
+              "deprecationReason": null
+            },
+            {
+              "name": "saveAsPlaylist",
+              "description": null,
+              "args": [
+                {
+                  "name": "recommendation_id",
+                  "description": null,
+                  "type": {
+                    "kind": "NON_NULL",
+                    "name": null,
+                    "ofType": {
+                      "kind": "SCALAR",
+                      "name": "Int",
+                      "ofType": null
+                    }
+                  },
+                  "defaultValue": null
+                },
+                {
+                  "name": "token",
+                  "description": null,
+                  "type": {
+                    "kind": "NON_NULL",
+                    "name": null,
+                    "ofType": {
+                      "kind": "SCALAR",
+                      "name": "String",
+                      "ofType": null
+                    }
+                  },
+                  "defaultValue": null
+                }
+              ],
+              "type": {
+                "kind": "OBJECT",
+                "name": "Playlist",
                 "ofType": null
               },
               "isDeprecated": false,

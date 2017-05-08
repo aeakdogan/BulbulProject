@@ -1,0 +1,5 @@
+mutation saveAsPlaylistMutation($token: String! $recommendation_id: Int!) {
+	saveAsPlaylist(token:$token, recommendation_id:$recommendation_id){
+       name
+  }
+}
