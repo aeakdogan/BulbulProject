@@ -42,7 +42,7 @@
             android:id="@+id/bg_image"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:alpha="0.3"
+            android:alpha="0.7"
             android:scaleType="centerCrop"/>
 
         <LinearLayout
@@ -53,12 +53,14 @@
             android:weightSum="9">
 
             <TextView
+                android:shadowColor="#000"
+                android:shadowRadius="10.5"
                 android:id="@+id/player_list_name"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="@dimen/player_text_margin"
                 android:gravity="center_horizontal"
-                android:textColor="@android:color/black"
+                android:textColor="@android:color/white"
                 android:text="List Name"
                 android:textSize="20sp" />
 
@@ -76,20 +78,26 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
                 <TextView
+                    android:shadowColor="#000"
+                    android:shadowRadius="25"
+                    android:shadowDx="5"
+                    android:shadowDy="5"
                     android:id="@+id/player_artist_name"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
-                    android:textColor="@android:color/black"
+                    android:textColor="@android:color/white"
                     android:text="Artist Name"
                     android:textSize="16sp" />
 
                 <TextView
+                    android:shadowColor="#000"
+                    android:shadowRadius="25"
                     android:id="@+id/player_song_title"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
-                    android:textColor="@android:color/black"
+                    android:textColor="@android:color/white"
                     android:text="Song Name"
                     android:textSize="22sp" />
 
@@ -101,13 +109,15 @@
                     android:gravity="center_vertical">
 
                     <TextView
+                        android:shadowColor="#000"
+                        android:shadowRadius="25"
                         android:id="@+id/player_seekbar_currentPos"
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="8dip"
                         android:gravity="left"
                         android:text=""
-                        android:textColor="@color/colorPrimary"
+                        android:textColor="@android:color/white"
                         android:layout_weight="1" />
 
                     <SeekBar
@@ -120,6 +130,8 @@
                         android:layout_weight="5" />
 
                     <TextView
+                        android:shadowColor="#000"
+                        android:shadowRadius="25"
                         android:id="@+id/player_seekbar_duration"
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
@@ -128,7 +140,7 @@
                         android:layout_marginEnd="27dp"
                         android:gravity="right"
                         android:text=""
-                        android:textColor="@color/colorPrimary"
+                        android:textColor="@android:color/white"
                         android:layout_weight="1" />
                 </LinearLayout>
 
@@ -140,28 +152,30 @@
 
                     <ImageButton
                         android:id="@+id/button_previous"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:adjustViewBounds="false"
-                        android:backgroundTint="@color/colorPrimary"
-                        android:elevation="0dp"
-                        android:src="@android:drawable/ic_media_previous" />
+                        android:layout_width="@dimen/media_control_icon_size"
+                        android:layout_height="@dimen/media_control_icon_size"
+                        android:padding="5dp"
+                        android:layout_margin="@dimen/media_control_icon_margin"
+                        android:background="@null"
+                        android:src="@drawable/icon_prev2" />
 
                     <ImageButton
                         android:id="@+id/button_action"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="@dimen/media_control_icon_size"
+                        android:layout_height="@dimen/media_control_icon_size"
                         android:layout_toRightOf="@id/button_previous"
-                        android:backgroundTint="@color/colorPrimary"
-                        android:src="@android:drawable/ic_media_play" />
+                        android:background="@null"
+                        android:layout_margin="@dimen/media_control_icon_margin"
+                        android:src="@drawable/icon_play" />
 
                     <ImageButton
                         android:id="@+id/button_next"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="@dimen/media_control_icon_size"
+                        android:layout_height="@dimen/media_control_icon_size"
                         android:layout_toEndOf="@+id/button_action"
-                        android:backgroundTint="@color/colorPrimary"
-                        android:src="@android:drawable/ic_media_next" />
+                        android:background="@null"
+                        android:layout_margin="@dimen/media_control_icon_margin"
+                        android:src="@drawable/icon_next2" />
                 </RelativeLayout>
 
                 <RatingBar
@@ -181,9 +195,12 @@
                     android:onClick="clicked_spotify"
                     >
                     <TextView
+                        android:shadowColor="#000"
+                        android:shadowRadius="25"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Open On:"
+                        android:textColor="@android:color/white"
                         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
                         android:layout_gravity="center_vertical"
                         android:onClick="clicked_spotify"/>

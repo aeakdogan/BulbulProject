@@ -54,6 +54,8 @@ import java.util.List;
 import javax.annotation.Nonnull;
 import javax.microedition.khronos.opengles.GL;
 
+import jp.wasabeef.picasso.transformations.BlurTransformation;
+
 public class StreamActivity extends AppCompatActivity {
 
     private static final String TEST_SONG_URI = "spotify:user:spotify:playlist:2yLXxKhhziG2xzy7eyD4TD";
@@ -427,25 +429,28 @@ public class StreamActivity extends AppCompatActivity {
             track = mPlayer.getMetadata().currentTrack;
         }
         if (track != null) {
-            Log.d("bulbul", "track id: " + mSongID + " track name: " + mPlayer.getMetadata().currentTrack.name + " image url" + Globals.mSongs.get(position).getArtists().get(0).getName());
-            Picasso.with(StreamActivity.this).load(Globals.mSongs.get(position).getArtists().get(0).getImageUrl())
+//            Picasso.with(StreamActivity.this).load(Globals.mSongs.get(mPlayerService.getPosition()).getArtists().get(0).getImageUrl())
+            Picasso.with(StreamActivity.this).load(track.albumCoverWebUrl)
                     .placeholder(R.drawable.cover_picture)
                     .error(R.drawable.cover_picture)
+                    .transform(new BlurTransformation(this,23))
                     .into(mBackgroundImage);
 
             Picasso.with(StreamActivity.this).load(track.albumCoverWebUrl)
                     .placeholder(R.drawable.cover_picture)
                     .error(R.drawable.cover_picture)
+//                    .transform(new BlurTransformation(this))
                     .into(mImage);
             updateSeekbarCurrentPos();
             updateSeekbarDuration();
             mListName.setText(track.albumName);
             mSongTitle.setText(track.name);
             mArtistName.setText(track.artistName);
+
             if (mPlayer.getPlaybackState().isPlaying) {
-                mActionButton.setImageResource(android.R.drawable.ic_media_pause);
+                mActionButton.setImageResource(R.drawable.icon_play);
             } else {
-                mActionButton.setImageResource(android.R.drawable.ic_media_play);
+                mActionButton.setImageResource(R.drawable.icon_pause);
             }
         }
 
