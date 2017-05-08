@@ -19,112 +19,138 @@
             app:popupTheme="@style/AppTheme.NoActionBar.PopupOverlay" />
 
     </android.support.design.widget.AppBarLayout>
-    <LinearLayout
+    <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="64dp"
-        android:orientation="vertical">
-        <!-- Login progress -->
-        <ProgressBar
-            android:id="@+id/progress"
-            style="?android:attr/progressBarStyleLarge"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/bg_image"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_margin="128dp"
-            android:visibility="gone" />
-        <TextView
-            android:id="@+id/text_song_counter"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
-            android:text="Song: 1/20" />
-        <ImageView
-            android:id="@+id/album_img"
-            android:layout_width="256dp"
-            android:layout_height="256dp"
-            android:layout_gravity="center"
-            android:src="@drawable/cover_picture"/>
-        <TextView
-            android:id="@+id/artist_name"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
-            android:text="Artist Name" />
-        <TextView
-            android:id="@+id/album_name"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
-            android:text="Album Name" />
-        <TextView
-            android:id="@+id/song_name"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
-            android:text="Song Name" />
+            android:alpha="0.3"
+            android:scaleType="centerCrop"/>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="vertical"
-            android:layout_marginBottom="10dp"
-            android:gravity="bottom">
-            <LinearLayout
+            android:layout_marginTop="64dp"
+            android:orientation="vertical">
+            <!-- Login progress -->
+            <ProgressBar
+                android:id="@+id/progress"
+                style="?android:attr/progressBarStyleLarge"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="128dp"
+                android:visibility="gone" />
+            <TextView
+                android:shadowColor="#000"
+                android:shadowRadius="25"
+                android:textColor="@android:color/white"
+                android:id="@+id/text_song_counter"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:gravity="center">
-                <RatingBar
-                    android:id="@+id/ratingbar_song"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center"
-                    android:numStars="5"
-                    android:stepSize="0.1"
-                    />
-                <TextView
-                    android:id="@+id/rate_song"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_vertical"
-                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
-                    android:text="4.7"/>
-            </LinearLayout>
-            <LinearLayout
+                android:gravity="center"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+                android:text="Song: 1/20" />
+            <ImageView
+                android:id="@+id/album_img"
+                android:layout_width="256dp"
+                android:layout_height="256dp"
+                android:layout_gravity="center"
+                android:src="@drawable/cover_picture"/>
+            <TextView
+                android:shadowColor="#000"
+                android:shadowRadius="25"
+                android:textColor="@android:color/white"
+                android:id="@+id/artist_name"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:gravity="center">
-                <ImageView
-                    android:id="@+id/icon_prev"
-                    android:layout_width="64dp"
-                    android:layout_height="64dp"
-                    android:src="@drawable/icon_previous"
-                    android:onClick="clicked_icon"/>
-                <View
-                    android:layout_width="40dp"
-                    android:layout_height="match_parent"/>
-                <ImageView
-                    android:id="@+id/icon_music_control"
-                    android:layout_width="64dp"
-                    android:layout_height="64dp"
-                    android:src="@drawable/icon_play"
-                    android:onClick="clicked_icon"/>
-                <View
-                    android:layout_width="40dp"
-                    android:layout_height="match_parent"/>
-                <ImageView
-                    android:id="@+id/icon_next"
-                    android:layout_width="64dp"
-                    android:layout_height="64dp"
-                    android:src="@drawable/icon_next"
-                    android:onClick="clicked_icon"/>
+                android:gravity="center"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+                android:text="Artist Name" />
+            <TextView
+                android:shadowColor="#000"
+                android:shadowRadius="25"
+                android:textColor="@android:color/white"
+                android:id="@+id/album_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                android:text="Album Name" />
+            <TextView
+                android:shadowColor="#000"
+                android:shadowRadius="25"
+                android:textColor="@android:color/white"
+                android:id="@+id/song_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+                android:text="Song Name" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginBottom="10dp"
+                android:gravity="bottom">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center">
+                    <RatingBar
+                        android:id="@+id/ratingbar_song"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:numStars="5"
+                        android:stepSize="1"
+                        />
+                    <TextView
+                        android:shadowColor="#000"
+                        android:shadowRadius="25"
+                        android:textColor="@android:color/white"
+                        android:id="@+id/rate_song"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+                        android:text="4.7"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center">
+                    <ImageView
+                        android:id="@+id/icon_prev"
+                        android:layout_width="64dp"
+                        android:layout_height="64dp"
+                        android:src="@drawable/icon_previous"
+                        android:onClick="clicked_icon"/>
+                    <View
+                        android:layout_width="40dp"
+                        android:layout_height="match_parent"/>
+                    <ImageView
+                        android:id="@+id/icon_music_control"
+                        android:layout_width="64dp"
+                        android:layout_height="64dp"
+                        android:src="@drawable/icon_play"
+                        android:onClick="clicked_icon"/>
+                    <View
+                        android:layout_width="40dp"
+                        android:layout_height="match_parent"/>
+                    <ImageView
+                        android:id="@+id/icon_next"
+                        android:layout_width="64dp"
+                        android:layout_height="64dp"
+                        android:src="@drawable/icon_next"
+                        android:onClick="clicked_icon"/>
+                </LinearLayout>
             </LinearLayout>
         </LinearLayout>
-    </LinearLayout>
+    </FrameLayout>
 
 
 

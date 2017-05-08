@@ -43,6 +43,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="0.8"
                 android:ems="20"
+                android:imeOptions="actionSearch"
                 android:inputType="textPersonName"
                 android:hint="Search"/>
             <ImageView

@@ -61,7 +61,7 @@ public class ArtistsRVAdapter extends RecyclerView.Adapter<ArtistsRVAdapter.MyCa
     }
 
     @Override
-    public void onBindViewHolder(MyCardViewHolder holder, final int position) {
+    public void onBindViewHolder(final MyCardViewHolder holder, int position) {
         Artist artist = artists.get(position);
         holder.artistName.setText(artist.getName());
         holder.artistMeta.setText("" + artist.getAlbumsCount() + " albums");
@@ -76,7 +76,7 @@ public class ArtistsRVAdapter extends RecyclerView.Adapter<ArtistsRVAdapter.MyCa
             public void onClick(View view) {
                 Intent intent = new Intent(context.getApplicationContext(), ArtistActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                intent.putExtra("id", artists.get(position).getId());
+                intent.putExtra("id", artists.get(holder.getAdapterPosition()).getId());
                 context.getApplicationContext().startActivity(intent);
             }
         });

@@ -1,0 +1,5 @@
+mutation requestPersonalRecommendationMutation($token:String!, $genre_ids:[Int]! ){
+  requestPersonalRecommendation(token:$token, genre_ids:$genre_ids){
+    id
+  }
+}

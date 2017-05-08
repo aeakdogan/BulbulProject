@@ -9,6 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.interfaces.AdapterCallbackInterface;
 import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Category;
 import com.squareup.picasso.Picasso;
@@ -20,13 +21,17 @@ import java.util.List;
  * Created by fatih on 05/05/2017.
  */
 
-public class SelectableArtistAdapter extends BaseAdapter {
+public class ArtistSelectorAdapter extends BaseAdapter {
     private List<Artist> artistList;
     private Context mContext;
+    AdapterCallbackInterface adapterCallbackInterface;
+    int selectedCount;
 
-    public SelectableArtistAdapter(List<Artist> artistList, Context context) {
+    public ArtistSelectorAdapter(List<Artist> artistList, Context context, AdapterCallbackInterface adapterCallbackInterface) {
         this.artistList = artistList;
         this.mContext = context;
+        this.adapterCallbackInterface = adapterCallbackInterface;
+        selectedCount = 0;
     }
 
     @Override
@@ -73,13 +78,15 @@ public class SelectableArtistAdapter extends BaseAdapter {
             @Override
             public void onClick(View v) {
                 if (artist.isSelected()) {
+                    selectedCount--;
                     v.findViewById(R.id.grid_selected).setVisibility(View.INVISIBLE);
                     artist.setSelected(false);
                 } else {
+                    selectedCount++;
                     v.findViewById(R.id.grid_selected).setVisibility(View.VISIBLE);
                     artist.setSelected(true);
-
                 }
+                adapterCallbackInterface.onSelectedItemCountChanged(selectedCount);
             }
         });
 

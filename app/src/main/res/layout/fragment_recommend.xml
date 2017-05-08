@@ -1,18 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#FFFAFA">
 
-    <GridView
-        android:numColumns="auto_fit"
-        android:gravity="center"
-        android:columnWidth="100dp"
-        android:stretchMode="columnWidth"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:id="@+id/grid"
-        />
+    <ProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="128dp"
+        android:visibility="gone" />
 
-</RelativeLayout>
+    <GridView
+        android:id="@+id/grid"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:columnWidth="100dp"
+        android:gravity="center"
+        android:numColumns="4"
+        android:stretchMode="columnWidth"
+        android:layout_weight="0.95">
+
+    </GridView>
+
+    <Button
+        android:id="@+id/request_button"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.05"
+        android:layout_marginEnd="4dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:background="@color/colorAccent"
+        android:text="Get Recommendations"
+        android:enabled="false"
+        android:textColor="?android:attr/textColorPrimaryInverse" />
+
+</LinearLayout>

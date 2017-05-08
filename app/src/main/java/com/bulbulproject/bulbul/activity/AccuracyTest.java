@@ -33,16 +33,18 @@ import java.util.List;
 
 import javax.annotation.Nonnull;
 
+import jp.wasabeef.picasso.transformations.BlurTransformation;
+
 public class AccuracyTest extends AppCompatActivity {
 
     int currentOrder = 0;
-    int songsSize = 10;
 
     TextView textViewSongCounter;
     TextView textViewArtistName;
     TextView textViewAlbumName;
     TextView textViewSongName;
     ImageView imageViewAlbumImage;
+    ImageView imageViewMusicControl;
     MediaPlayer mMediaPlayer;
 
     Handler mHandler;
@@ -51,6 +53,7 @@ public class AccuracyTest extends AppCompatActivity {
     ArrayList<Song> mSongs;
     private View mProgressView;
     boolean isPlaying;
+    private ImageView backgroundImage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -70,28 +73,25 @@ public class AccuracyTest extends AppCompatActivity {
         mSongs = new ArrayList<>();
         isPlaying = false;
 
+        backgroundImage = (ImageView) findViewById(R.id.bg_image);
         textViewArtistName = (TextView) findViewById(R.id.artist_name);
         textViewAlbumName = (TextView) findViewById(R.id.album_name);
         textViewSongName = (TextView) findViewById(R.id.song_name);
         textViewSongCounter = (TextView) findViewById(R.id.text_song_counter);
         imageViewAlbumImage = (ImageView) findViewById(R.id.album_img);
+        imageViewMusicControl = (ImageView) findViewById(R.id.icon_music_control);
 
         requestRecommendation();
     }
 
     public void clicked_icon(View v) {
         if (v.getId() == R.id.icon_music_control) {
-            ImageView i = (ImageView) v;
-            if (i != null) {
-                ((BitmapDrawable) i.getDrawable()).getBitmap().recycle();
-            }
             if (!isPlaying) {
-
-                i.setImageResource(R.drawable.icon_pause);
+                ((ImageView) v).setImageResource(R.drawable.icon_pause);
                 playSong(mSongs.get(currentOrder));
                 isPlaying = true;
             } else {
-                i.setImageResource(R.drawable.icon_play);
+                ((ImageView) v).setImageResource(R.drawable.icon_play);
                 pauseSong(mSongs.get(currentOrder));
                 isPlaying = false;
             }
@@ -106,7 +106,7 @@ public class AccuracyTest extends AppCompatActivity {
             } else if (v.getId() == R.id.icon_good) {
                 mSongs.get(currentOrder).setTestResult(1);
             }
-            if (currentOrder == songsSize - 1) {
+            if (currentOrder == mSongs.size() - 1) {
                 Intent intent = new Intent(getApplicationContext(), AccuracyResult.class);
                 intent.putExtra("accuracy_score", 5);
                 startActivity(intent);
@@ -166,13 +166,18 @@ public class AccuracyTest extends AppCompatActivity {
     }
 
     void updateUI() {
-        textViewSongCounter.setText("Song: " + (currentOrder + 1) + "/" + songsSize);
+        textViewSongCounter.setText("Song: " + (currentOrder + 1) + "/" + mSongs.size());
 
         textViewArtistName.setText(mSongs.get(currentOrder).getFirstArtistName());
         textViewAlbumName.setText(mSongs.get(currentOrder).getFirstAlbumName());
         textViewSongName.setText(mSongs.get(currentOrder).getName());
-        ((ImageView) findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
+        imageViewMusicControl.setImageResource(R.drawable.icon_play);
 
+        Picasso.with(this).load(mSongs.get(currentOrder).getImageUrl())
+                .placeholder(R.drawable.cover_picture)
+                .error(R.drawable.cover_picture)
+                .transform(new BlurTransformation(this,23))
+                .into(backgroundImage);
         Picasso.with(getApplicationContext())
                 .load(mSongs.get(currentOrder).getImageUrl())
                 .placeholder(R.drawable.cover_picture)

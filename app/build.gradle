@@ -65,6 +65,7 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'me.bendik.simplerangeview:simplerangeview:0.1.1'
     compile 'com.truizlop.sectionedrecyclerview:library:1.2.0'
+    compile 'jp.wasabeef:picasso-transformations:2.1.2'
     testCompile 'junit:junit:4.12'
     androidTestCompile 'com.google.code.findbugs:jsr305:3.0.1'
     compile('com.crashlytics.sdk.android:crashlytics:2.6.8@aar') {

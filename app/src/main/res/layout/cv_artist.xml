@@ -4,13 +4,13 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/cv"
-    android:layout_margin="10dp"
+    android:layout_margin="2dp"
     >
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="16dp"
+        android:padding="5dp"
         >
 
         <ImageView
@@ -29,7 +29,8 @@
             android:id="@+id/artist_name"
             android:layout_toRightOf="@+id/artist_photo"
             android:layout_alignParentTop="true"
-            android:textSize="30sp"
+            android:text="Artist Name"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
             />
 
         <TextView
@@ -38,6 +39,8 @@
             android:id="@+id/artist_meta"
             android:layout_toRightOf="@+id/artist_photo"
             android:layout_below="@+id/artist_name"
+            android:text="Meta"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
             />
 
     </RelativeLayout>

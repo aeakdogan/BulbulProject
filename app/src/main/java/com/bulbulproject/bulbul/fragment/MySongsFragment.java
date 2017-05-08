@@ -69,6 +69,7 @@ public class MySongsFragment extends Fragment {
             @Override
             public void onResponse(@Nonnull Response<UserSongsQuery.Data> response) {
                 if (response.isSuccessful()) {
+                    mSongs.clear();
                     UserSongsQuery.Data.User user = response.data().users().get(0);
                     if (user.listenedTracks() != null) {
 
@@ -82,7 +83,7 @@ public class MySongsFragment extends Fragment {
                             Log.d("bulbul","track name: " + mSong.getName() + " album_img: " + mSong.getImageUrl());
                             if (track.artists() != null) {
                                 for (UserSongsQuery.Data.Artist artist : track.artists()) {
-                                    mSong.getArtists().add(new Artist(artist.name()));
+                                    mSong.getArtists().add(new Artist(artist.id(), artist.name(), artist.image()));
                                 }
                             }
 

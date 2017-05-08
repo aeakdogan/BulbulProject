@@ -12,6 +12,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.interfaces.AdapterCallbackInterface;
 import com.bulbulproject.bulbul.model.Category;
 import com.squareup.picasso.Picasso;
 
@@ -68,24 +69,10 @@ public class CategoryAdapter extends BaseAdapter {
         }else{
             c.setVisibility(View.INVISIBLE);
         }
-
         t.setText(category.getName());
         if (category.getImageUrl().length() > 0) {
             Picasso.with(mContext).load(category.getImageUrl()).placeholder(R.drawable.cover_picture).into(i);
         }
-        v.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if (category.isSelected()) {
-                    v.findViewById(R.id.grid_selected).setVisibility(View.INVISIBLE);
-                    category.setSelected(false);
-                } else {
-                    v.findViewById(R.id.grid_selected).setVisibility(View.VISIBLE);
-                    category.setSelected(true);
-
-                }
-            }
-        });
         return v;
     }
 

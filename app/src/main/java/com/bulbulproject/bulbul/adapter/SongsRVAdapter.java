@@ -13,6 +13,7 @@ import android.widget.TextView;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.activity.StreamActivity;
 import com.bulbulproject.bulbul.model.Song;
+import com.bulbulproject.bulbul.service.Globals;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
@@ -57,7 +58,7 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
     }
 
     @Override
-    public void onBindViewHolder(SongsRVAdapter.MyCardViewHolder holder, final int position) {
+    public void onBindViewHolder(final SongsRVAdapter.MyCardViewHolder holder, int position) {
         final Song tmpSong = mSongs.get(position);
         final ArrayList<String> songsList = new ArrayList<String>();
         for (Song song : mSongs) {
@@ -74,10 +75,12 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                Globals.mSongs = mSongs;
                 Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                intent.putExtra("trackID", mSongs.get(holder.getAdapterPosition()).getId());
                 intent.putStringArrayListExtra("songs", songsList);
-                intent.putExtra("position", position);
+                intent.putExtra("position", holder.getAdapterPosition());
                 context.getApplicationContext().startActivity(intent);
             }
         });

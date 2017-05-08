@@ -1,0 +1,53 @@
+query SearchQuery($limit: Int, $skip: Int, $query: String) {
+  tracks(limit: $limit, skip: $skip, query: $query) {
+    id
+    name
+    artists {
+      id
+      name
+      image
+      lastfm_url
+      mbid
+    }
+    albums {
+      id
+      name
+      image
+    }
+    spotify_album_img
+    spotify_track_preview_url
+    duration
+    spotify_track_id
+  }
+  artists(limit: $limit, skip: $skip, query: $query) {
+    id
+    name
+    image
+    albums {
+      id
+      name
+      image
+      artists {
+        name
+      }
+      tracksCount
+    }
+  }
+  albums(limit: $limit, skip: $skip, query: $query) {
+    id
+    name
+    image
+    artists {
+      name
+    }
+    tracks {
+      id
+      name
+      spotify_album_img
+      spotify_track_id
+      artists {
+        name
+      }
+    }
+  }
+}
