@@ -204,6 +204,7 @@ public class MoodActivity extends AppCompatActivity {
                             @Override
                             public void onResponse(@Nonnull com.apollographql.apollo.api.Response<TrackQuery.Data> response) {
                                 if (response.isSuccessful()) {
+                                    Globals.mSongs.clear();
                                     List<TrackQuery.Data.Track> trackList = response.data().tracks();
                                     for (TrackQuery.Data.Track track : trackList) {
                                         //Mapping api's track model to existing Song model
