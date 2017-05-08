@@ -61,7 +61,7 @@ public class ArtistSelectorActivity extends AppCompatActivity {
         
         artistList = new ArrayList<Artist>();
 //        initDummyData();
-        fetchArtists(5, 0);
+        fetchArtists(25, 0);
 
         mGrid = (GridView) findViewById(R.id.grid_layout);
         mAdapter = new ArtistSelectorAdapter(artistList, ArtistSelectorActivity.this, new AdapterCallbackInterface() {
@@ -85,7 +85,7 @@ public class ArtistSelectorActivity extends AppCompatActivity {
     }
 
     private void fetchArtists() {
-        fetchArtists(5, 0);
+        fetchArtists(25, 0);
     }
 
 
