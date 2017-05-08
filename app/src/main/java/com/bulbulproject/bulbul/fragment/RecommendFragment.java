@@ -58,6 +58,7 @@ public class RecommendFragment extends Fragment {
     List<Category> categories = new ArrayList<Category>();
     Handler mHandler;
     Runnable fetcher;
+    CategorySelectorAdapter gridAdapter;
 
     public RecommendFragment() {
 
@@ -80,7 +81,7 @@ public class RecommendFragment extends Fragment {
         mProgressView = rootView.findViewById(R.id.progress);
 
 
-        final CategorySelectorAdapter adapter = new CategorySelectorAdapter(categories, rootView.getContext(), new AdapterCallbackInterface() {
+        gridAdapter = new CategorySelectorAdapter(categories, rootView.getContext(), new AdapterCallbackInterface() {
             @Override
             public void onSelectedItemCountChanged(int selectedItemCount) {
                 if(selectedItemCount < 2)
@@ -89,7 +90,7 @@ public class RecommendFragment extends Fragment {
                     requestButton.setEnabled(true);
             }});
 
-        grid.setAdapter(adapter);
+        grid.setAdapter(gridAdapter);
 
         if (categories.size() == 0) {
             ((App) getActivity().getApplication()).apolloClient().newCall(
@@ -110,7 +111,7 @@ public class RecommendFragment extends Fragment {
                                         getActivity().runOnUiThread(new Runnable() {
                                             @Override
                                             public void run() {
-                                                adapter.notifyDataSetChanged();
+                                                gridAdapter.notifyDataSetChanged();
                                             }
                                         });
                                     }
@@ -149,8 +150,7 @@ public class RecommendFragment extends Fragment {
                 mProgressView.setVisibility(View.VISIBLE);
                 requestRecommendation();
 
-                for(Category category : categories)
-                    category.setSelected(false);
+
 
             }
         });
@@ -168,7 +168,6 @@ public class RecommendFragment extends Fragment {
 
     private void requestRecommendation() {
         final SharedPreferences sp = getActivity().getApplication().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE);
-
 
         ((App) getActivity().getApplication()).apolloClient().newCall(RequestPersonalRecommendationMutation
                 .builder()
@@ -239,9 +238,18 @@ public class RecommendFragment extends Fragment {
                             @Override
                             public void run() {
                                 mProgressView.setVisibility(View.GONE);
+                                requestButton.setVisibility(View.VISIBLE);
+                                requestButton.setEnabled(false);
+                                grid.setVisibility(View.VISIBLE);
+                                for(Category category : categories)
+                                    category.setSelected(false);
+                                gridAdapter.notifyDataSetChanged();
+
+
                                 Intent intent = new Intent(getActivity(), SongListActivity.class);
                                 intent.putExtra("recommendation_id", id);
                                 startActivity(intent);
+
                             }
                         });
                     }
@@ -271,7 +279,10 @@ public class RecommendFragment extends Fragment {
                 });
             }
         });
+
+
     }
+
 
 
 }
