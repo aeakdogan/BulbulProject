@@ -31,6 +31,8 @@ import java.util.List;
 
 import javax.annotation.Nonnull;
 
+import jp.wasabeef.picasso.transformations.BlurTransformation;
+
 public class AccuracyTraining extends AppCompatActivity {
 
     int currentOrder = 0;
@@ -106,7 +108,7 @@ public class AccuracyTraining extends AppCompatActivity {
     }
 
     public void fetchArtistTopTracks(List<Integer> artist_ids, List<Integer> genre_ids) {
-        ((App) getApplication()).apolloClient().newCall(ArtistTopTracks.builder().ids(artist_ids).limit(5).build()).enqueue(new ApolloCall.Callback<ArtistTopTracks.Data>() {
+        ((App) getApplication()).apolloClient().newCall(ArtistTopTracks.builder().ids(artist_ids).limit(Math.round(25/artist_ids.size())).build()).enqueue(new ApolloCall.Callback<ArtistTopTracks.Data>() {
             @Override
             public void onResponse(@Nonnull Response<ArtistTopTracks.Data> response) {
                 if (response.isSuccessful() && response.data().artists() != null) {
@@ -217,9 +219,10 @@ public class AccuracyTraining extends AppCompatActivity {
         textViewSongName.setText(mSongs.get(currentOrder).getName());
         ((ImageView) findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
 
-        Picasso.with(this).load(mSongs.get(currentOrder).getArtists().get(0).getImageUrl())
+        Picasso.with(this).load(mSongs.get(currentOrder).getImageUrl())
                 .placeholder(R.drawable.cover_picture)
                 .error(R.drawable.cover_picture)
+                .transform(new BlurTransformation(this,23))
                 .into(backgroundImage);
         Picasso.with(getApplicationContext())
                 .load(mSongs.get(currentOrder).getImageUrl())

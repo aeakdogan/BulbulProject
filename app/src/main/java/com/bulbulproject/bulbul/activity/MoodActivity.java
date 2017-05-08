@@ -16,6 +16,7 @@ import com.apollographql.apollo.exception.ApolloException;
 import com.bulbulproject.TrackQuery;
 import com.bulbulproject.bulbul.App;
 import com.bulbulproject.bulbul.R;
+import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Song;
 import com.bulbulproject.bulbul.service.Globals;
 
@@ -206,15 +207,13 @@ public class MoodActivity extends AppCompatActivity {
                                     List<TrackQuery.Data.Track> trackList = response.data().tracks();
                                     for (TrackQuery.Data.Track track : trackList) {
                                         //Mapping api's track model to existing Song model
-
-                                        Song mSong = new Song(
-                                                track.id(),
-                                                track.name(),
-                                                track.spotify_track_id(),
-                                                0,
-                                                track.spotify_album_img()
-                                        );
-                                        Globals.mSongs.add(mSong);
+                                        Song song = new Song(track.id(), track.name(), track.spotify_album_img(), track.spotify_track_id());
+                                        if (track.artists() != null) {
+                                            for (TrackQuery.Data.Artist trackArtist : track.artists()) {
+                                                song.getArtists().add(new Artist(trackArtist.id(), trackArtist.name(), trackArtist.image()));
+                                            }
+                                        }
+                                        Globals.mSongs.add(song);
                                     }
                                     //Update ui for adding new elements to list
                                     runOnUiThread(new Runnable() {

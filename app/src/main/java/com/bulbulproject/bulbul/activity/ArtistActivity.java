@@ -2,10 +2,12 @@ package com.bulbulproject.bulbul.activity;
 
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.Toast;
@@ -41,7 +43,12 @@ public class ArtistActivity extends AppCompatActivity {
         setContentView(R.layout.activity_artist);
         artistImage = (ImageView) findViewById(R.id.artist_image);
         listView = (RecyclerView) findViewById(R.id.artist_album_list);
-        toolbar = (Toolbar) findViewById(R.id.toolbar);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+        }
         setSupportActionBar(toolbar);
         mArtist = new Artist("Loading...");
 
@@ -109,4 +116,14 @@ public class ArtistActivity extends AppCompatActivity {
         }
     }
 
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                super.onBackPressed();
+
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
 }
