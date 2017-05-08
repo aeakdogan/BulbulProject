@@ -448,9 +448,9 @@ public class StreamActivity extends AppCompatActivity {
             mArtistName.setText(track.artistName);
 
             if (mPlayer.getPlaybackState().isPlaying) {
-                mActionButton.setImageResource(R.drawable.icon_play);
-            } else {
                 mActionButton.setImageResource(R.drawable.icon_pause);
+            } else {
+                mActionButton.setImageResource(R.drawable.icon_play);
             }
         }
 
