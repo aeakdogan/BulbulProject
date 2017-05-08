@@ -47,6 +47,8 @@ public class DiscoverFragment extends Fragment {
 
     private View mProgressView;
     private View rootView;
+    View linLayoutView;
+
     SeekBar seekBarAcousticness;
     SeekBar seekBarLiveness;
     SeekBar seekBarSpeechiness;
@@ -81,7 +83,10 @@ public class DiscoverFragment extends Fragment {
         rootView.findViewById(R.id.button_get_songs).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-            get_songs();
+                get_songs();
+                linLayoutView.setVisibility(View.VISIBLE);
+                mProgressView.setVisibility(View.GONE);
+
             }
         });
 
@@ -90,7 +95,7 @@ public class DiscoverFragment extends Fragment {
 
     void get_songs(){
         mProgressView = rootView.findViewById(R.id.progress);
-        View linLayoutView = rootView.findViewById(R.id.linear_layout);
+        linLayoutView = rootView.findViewById(R.id.linear_layout);
         linLayoutView.setVisibility(View.GONE);
         mProgressView.setVisibility(View.VISIBLE);
 
@@ -225,11 +230,13 @@ public class DiscoverFragment extends Fragment {
 
                             @Override
                             public void onFailure(@Nonnull ApolloException e) {
+
                                 final String text = e.getMessage();
                                 getActivity().runOnUiThread(new Runnable() {
                                     @Override
                                     public void run() {
                                         Toast.makeText(getActivity(), text, Toast.LENGTH_SHORT).show();
+
                                     }
                                 });
                             }
