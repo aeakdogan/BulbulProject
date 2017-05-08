@@ -36,6 +36,7 @@
         android:layout_marginTop="4dp"
         android:background="@color/colorAccent"
         android:text="Get Recommendations"
+        android:enabled="false"
         android:textColor="?android:attr/textColorPrimaryInverse" />
 
 </LinearLayout>

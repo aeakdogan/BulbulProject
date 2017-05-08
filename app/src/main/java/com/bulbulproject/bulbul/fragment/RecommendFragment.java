@@ -144,10 +144,12 @@ public class RecommendFragment extends Fragment {
         requestButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                requestRecommendation();
                 grid.setVisibility(View.GONE);
                 requestButton.setVisibility(View.GONE);
                 mProgressView.setVisibility(View.VISIBLE);
+                requestRecommendation();
+                for(Category category : categories)
+                    category.setSelected(false);
             }
         });
 
