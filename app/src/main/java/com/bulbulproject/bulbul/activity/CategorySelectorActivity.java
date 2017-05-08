@@ -42,6 +42,7 @@ public class CategorySelectorActivity extends AppCompatActivity {
         mProgressView = findViewById(R.id.progress);
         mProgressView.setVisibility(View.VISIBLE);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        toolbar.setTitle("Select Categories...");
         setSupportActionBar(toolbar);
         setSupportActionBar(toolbar);
         ActionBar actionBar = getSupportActionBar();
