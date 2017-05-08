@@ -75,13 +75,14 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
                 Globals.mSongs = mSongs;
                 Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 intent.putExtra("trackID", mSongs.get(holder.getAdapterPosition()).getId());
                 intent.putStringArrayListExtra("songs", songsList);
                 intent.putExtra("position", holder.getAdapterPosition());
-                context.getApplicationContext().startActivity(intent);
+                context.startActivity(intent);
             }
         });
     }

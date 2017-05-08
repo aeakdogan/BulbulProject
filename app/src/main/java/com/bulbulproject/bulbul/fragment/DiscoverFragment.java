@@ -205,17 +205,17 @@ public class DiscoverFragment extends Fragment {
                             public void onResponse(@Nonnull com.apollographql.apollo.api.Response<TrackQuery.Data> response) {
                                 if (response.isSuccessful()) {
                                     List<TrackQuery.Data.Track> trackList = response.data().tracks();
+                                    Globals.mSongs.clear();
                                     for (TrackQuery.Data.Track track : trackList) {
-                                        //Mapping api's track model to existing Song model
+                                        //Mapping api's tra ck model to existing Song model
 
-                                        Song mSong = new Song(
-                                                track.id(),
-                                                track.name(),
-                                                track.spotify_track_id(),
-                                                0,
-                                                track.spotify_album_img()
-                                        );
-                                        Globals.mSongs.add(mSong);
+                                        Song song = new Song(track.id(), track.name(), track.spotify_album_img(), track.spotify_track_id());
+                                        if (track.artists() != null) {
+                                            for (TrackQuery.Data.Artist trackArtist : track.artists()) {
+                                                song.getArtists().add(new Artist(trackArtist.id(), trackArtist.name(), trackArtist.image()));
+                                            }
+                                        }
+                                        Globals.mSongs.add(song);
                                     }
                                     //Update ui for adding new elements to list
                                     getActivity().runOnUiThread(new Runnable() {
