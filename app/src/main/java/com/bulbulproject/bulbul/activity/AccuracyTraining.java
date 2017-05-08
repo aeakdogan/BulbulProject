@@ -31,6 +31,8 @@ import java.util.List;
 
 import javax.annotation.Nonnull;
 
+import jp.wasabeef.picasso.transformations.BlurTransformation;
+
 public class AccuracyTraining extends AppCompatActivity {
 
     int currentOrder = 0;
@@ -217,9 +219,10 @@ public class AccuracyTraining extends AppCompatActivity {
         textViewSongName.setText(mSongs.get(currentOrder).getName());
         ((ImageView) findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
 
-        Picasso.with(this).load(mSongs.get(currentOrder).getArtists().get(0).getImageUrl())
+        Picasso.with(this).load(mSongs.get(currentOrder).getImageUrl())
                 .placeholder(R.drawable.cover_picture)
                 .error(R.drawable.cover_picture)
+                .transform(new BlurTransformation(this,23))
                 .into(backgroundImage);
         Picasso.with(getApplicationContext())
                 .load(mSongs.get(currentOrder).getImageUrl())
