@@ -148,8 +148,10 @@ public class RecommendFragment extends Fragment {
                 requestButton.setVisibility(View.GONE);
                 mProgressView.setVisibility(View.VISIBLE);
                 requestRecommendation();
+
                 for(Category category : categories)
                     category.setSelected(false);
+
             }
         });
 
@@ -166,6 +168,7 @@ public class RecommendFragment extends Fragment {
 
     private void requestRecommendation() {
         final SharedPreferences sp = getActivity().getApplication().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE);
+
 
         ((App) getActivity().getApplication()).apolloClient().newCall(RequestPersonalRecommendationMutation
                 .builder()

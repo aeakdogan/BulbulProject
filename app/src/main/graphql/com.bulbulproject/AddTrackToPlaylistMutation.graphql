@@ -1,5 +1,5 @@
-mutation AddTrackToPlaylistMutation($id: Int!, $token: String!, $track_id: Int) {
-  addTrackToPlaylist(id: $id, token: $token, track_id: $track_id) {
+mutation AddTrackToPlaylistMutation($id: Int!, $token: String!, $track_id: Int, $track_ids: [Int]) {
+  addTrackToPlaylist(id: $id, token: $token, track_id: $track_id, track_ids: $track_ids) {
     id
     name
   }
