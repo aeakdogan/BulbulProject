@@ -48,7 +48,7 @@ class Artist extends Model
         return Track::with('artists')->whereHas('artists',
             function ($query) {
                 $query->where('id', $this->id);
-            })->orderBy('playcount', 'DESC')->skip($skip)->take($limit)->get();
+            })->whereNotNull('spotify_album_id')->orderBy('playcount', 'DESC')->skip($skip)->take($limit)->get();
     }
 
     public static function search(Builder $b,$t, $limit, $skip){

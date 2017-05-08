@@ -39,6 +39,6 @@ class TracksField extends Field
         }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
-        return $root->tracks()->take($limit)->skip($skip)->get();
+        return $root->tracks()->whereNotNull('spotify_album_id')->take($limit)->skip($skip)->get();
     }
 }

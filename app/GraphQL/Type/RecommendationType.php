@@ -25,10 +25,7 @@ class RecommendationType extends GraphQLType
                 'type' => Type::listOf(GraphQL::type('Rating')),
                 'description' => 'Ratings provided by user for this recommendation'
             ],
-            'tracks' => [
-                'type' => Type::listOf(GraphQL::type('Track')),
-                'description' => 'Recommended tracks'
-            ],
+            'tracks' => TracksField::class,
             'user' => [
                 'type' => GraphQL::type('BulbulUser'),
                 'description' => 'Owner of the recommendation'

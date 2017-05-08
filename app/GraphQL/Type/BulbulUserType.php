@@ -135,7 +135,7 @@ class BulbulUserType extends GraphQLType
         }
         $limit = isset($args['limit']) ? $args['limit'] : 100;
         $skip = isset($args['skip']) ? $args['skip'] : 0;
-        return $root->listenedTracksRelation()->take($limit)->skip($skip)->get();
+        return $root->listenedTracksRelation()->whereNotNull('spotify_album_id')->take($limit)->skip($skip)->get();
     }
 
     protected function resolveListenedArtistsField($root, $args)
@@ -166,7 +166,7 @@ class BulbulUserType extends GraphQLType
         $skip = isset($args['skip']) ? $args['skip'] : 0;
         $ratings = $root->ratings()->orderBy('updated_at', 'DESC')->take($limit)->skip($skip)->get();
         $rated_track_ids = $ratings->pluck('track_id')->toArray();
-        $tracks = Track::whereIn('id',$rated_track_ids)->get();
+        $tracks = Track::whereIn('id',$rated_track_ids)->whereNotNull('spotify_album_id')->get();
         foreach($tracks as $key=>$track){
             $track->rating = $ratings[$key];
         }

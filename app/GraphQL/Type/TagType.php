@@ -29,10 +29,7 @@ class TagType extends GraphQLType
                 'type' => Type::listOf(GraphQL::type('Artist')),
                 'description' => 'Artists tagged by this tag'
             ],
-            'tracks' => [
-                'type' => Type::listOf(GraphQL::type('Track')),
-                'description' => 'Tracks tagged by this tag'
-            ]
+            'tracks' => TracksField::class,
 
         ];
     }
