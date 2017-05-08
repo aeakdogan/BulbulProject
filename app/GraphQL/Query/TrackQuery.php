@@ -60,6 +60,7 @@ class TrackQuery extends Query
                 $tracks->with('tags');
             }
         }
+
         if (isset($args['id'])) {
             $tracks->where('id', $args['id']);
         } else if (isset($args['ids'])) {

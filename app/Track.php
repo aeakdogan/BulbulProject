@@ -6,11 +6,14 @@ use Vinelab\NeoEloquent\Eloquent\Model;
 use Illuminate\Database\Eloquent\Builder;
 use Everyman\Neo4j\Cypher\Query;
 use DB;
+use Vinelab\NeoEloquent\Eloquent\SoftDeletes;
 
 
 class Track extends Model
 {
+    use SoftDeletes;
 
+    protected $dates = ['deleted_at'];
     protected $label = 'Track';
     protected $fillable = ['id', 'name','year','duration','genre'];
     public function artists()
