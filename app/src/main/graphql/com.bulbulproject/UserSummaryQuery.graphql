@@ -1,0 +1,40 @@
+query UserSummaryQuery($token: String, $limit: Int, $skip: Int) {
+  users(token: $token, limit: $limit, skip: $skip) {
+    listenedAlbums(limit: $limit) {
+      id
+      name
+      image
+      tracksCount
+      artists {
+        name
+      }
+    }
+    listenedArtists(limit: $limit) {
+      id
+      name
+      image
+      albumsCount
+    }
+    listenedTracks(limit: $limit) {
+      id
+      spotify_track_id
+      spotify_album_img
+      name
+      artists {
+        id
+        name
+        image
+      }
+      albums {
+        id
+        name
+        image
+      }
+    }
+    playlists(limit: $limit) {
+      id
+      name
+      tracksCount
+    }
+  }
+}

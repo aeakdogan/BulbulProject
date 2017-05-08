@@ -20,7 +20,15 @@
             android:textColor="@color/cardview_light_background"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             />
-
+        <TextView
+            android:id="@+id/header_see_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="[See More]"
+            android:clickable="true"
+            android:textColor="@color/cardview_light_background"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"/>
     </RelativeLayout>
 
 </android.support.v7.widget.CardView>
