@@ -2,10 +2,12 @@ package com.bulbulproject.bulbul.activity;
 
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.Toast;
@@ -45,6 +47,11 @@ public class PlaylistActivity extends AppCompatActivity {
         listView = (RecyclerView) findViewById(R.id.playlist_song_list);
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         playlistImage = (ImageView) findViewById(R.id.playlist_image);
+        ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+        }
         setSupportActionBar(toolbar);
         collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.toolbar_layout);
         mPlaylist = new Playlist("Loading...", R.drawable.playlist);
@@ -105,6 +112,17 @@ public class PlaylistActivity extends AppCompatActivity {
             Toast.makeText(PlaylistActivity.this, R.string.playlist_activity_fetch_error, Toast.LENGTH_SHORT).show();
         }
 
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                super.onBackPressed();
+
+            default:
+                return super.onOptionsItemSelected(item);
+        }
     }
 
 }
