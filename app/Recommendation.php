@@ -13,7 +13,7 @@ use Vinelab\NeoEloquent\Eloquent\Model;
 class Recommendation extends Model
 {
     protected $label = 'Recommendation';
-    protected $fillable = ['id','status', 'type'];
+    protected $fillable = ['id','status', 'type', 'genre_ids'];
 
 
     public function ratings()

@@ -37,7 +37,7 @@ class SaveAsPlaylistMutation extends Mutation
         }
         $genres = Genre::whereIn('id',$recommendation->genre_ids)->get()->pluck('name')->toArray();
         $playlist = Playlist::create([
-            'name'=>'Recommended '.implode(' ',$genres).'tracks for '.$user->username.' ',
+            'name'=>'Recommended '.implode(' ',$genres).' tracks for '.$user->username.' ',
             'type'=>'AUTO_GENERATED'
         ]);
         $playlist->tracks()->attach($recommendation->tracks);
