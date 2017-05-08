@@ -108,7 +108,7 @@ public class AccuracyTraining extends AppCompatActivity {
     }
 
     public void fetchArtistTopTracks(List<Integer> artist_ids, List<Integer> genre_ids) {
-        ((App) getApplication()).apolloClient().newCall(ArtistTopTracks.builder().ids(artist_ids).limit(5).build()).enqueue(new ApolloCall.Callback<ArtistTopTracks.Data>() {
+        ((App) getApplication()).apolloClient().newCall(ArtistTopTracks.builder().ids(artist_ids).limit(Math.round(25/artist_ids.size())).build()).enqueue(new ApolloCall.Callback<ArtistTopTracks.Data>() {
             @Override
             public void onResponse(@Nonnull Response<ArtistTopTracks.Data> response) {
                 if (response.isSuccessful() && response.data().artists() != null) {
