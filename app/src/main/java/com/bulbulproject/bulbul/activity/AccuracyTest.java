@@ -25,6 +25,7 @@ import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Song;
 import com.bulbulproject.bulbul.service.Globals;
+import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 import java.io.IOException;
@@ -159,6 +160,7 @@ public class AccuracyTest extends AppCompatActivity {
     void releasePlayer() {
         if (mMediaPlayer != null) {
             try {
+                mMediaPlayer.stop();
                 mMediaPlayer.release();
             } catch (Exception e) {
                 e.printStackTrace();
@@ -182,14 +184,18 @@ public class AccuracyTest extends AppCompatActivity {
         imageViewMusicControl.setImageResource(R.drawable.icon_play);
 
         Picasso.with(this).load(mSongs.get(currentOrder).getImageUrl())
-                .placeholder(R.drawable.cover_picture)
                 .error(R.drawable.cover_picture)
+                .resize(300,300)
+                .onlyScaleDown()
                 .transform(new BlurTransformation(this,23))
+                .memoryPolicy(MemoryPolicy.NO_CACHE,MemoryPolicy.NO_STORE)
                 .into(backgroundImage);
-        Picasso.with(getApplicationContext())
+        Picasso.with(this)
                 .load(mSongs.get(currentOrder).getImageUrl())
                 .placeholder(R.drawable.cover_picture)
-                .error(R.drawable.album)
+                .error(R.drawable.cover_picture)
+                .fit()
+                .memoryPolicy(MemoryPolicy.NO_CACHE,MemoryPolicy.NO_STORE)
                 .into(imageViewAlbumImage);
     }
 
@@ -245,7 +251,8 @@ public class AccuracyTest extends AppCompatActivity {
                                     track.name(),
                                     0,
                                     track.spotify_album_img(),
-                                    track.spotify_track_preview_url()
+                                    track.spotify_track_preview_url(),
+                                    track.spotify_track_id()
 
                             );
                             if (track.artists() != null) {

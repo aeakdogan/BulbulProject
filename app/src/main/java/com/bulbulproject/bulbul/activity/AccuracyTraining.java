@@ -23,6 +23,7 @@ import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Song;
 import com.bulbulproject.bulbul.service.Globals;
+import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 import java.io.IOException;
@@ -221,14 +222,18 @@ public class AccuracyTraining extends AppCompatActivity {
         ((ImageView) findViewById(R.id.icon_music_control)).setImageResource(R.drawable.icon_play);
 
         Picasso.with(this).load(mSongs.get(currentOrder).getImageUrl())
-                .placeholder(R.drawable.cover_picture)
                 .error(R.drawable.cover_picture)
                 .transform(new BlurTransformation(this,23))
+                .resize(300,300)
+                .onlyScaleDown()
+                .memoryPolicy(MemoryPolicy.NO_CACHE,MemoryPolicy.NO_STORE)
                 .into(backgroundImage);
-        Picasso.with(getApplicationContext())
+        Picasso.with(this)
                 .load(mSongs.get(currentOrder).getImageUrl())
                 .placeholder(R.drawable.cover_picture)
-                .error(R.drawable.album)
+                .error(R.drawable.cover_picture)
+                .fit()
+                .memoryPolicy(MemoryPolicy.NO_CACHE,MemoryPolicy.NO_STORE)
                 .into(imageViewAlbumImage);
     }
 

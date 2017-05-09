@@ -17,7 +17,6 @@ import android.support.v4.content.LocalBroadcastManager;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
@@ -46,13 +45,13 @@ import com.bulbulproject.bulbul.service.Globals;
 import com.bulbulproject.bulbul.service.PlayerService;
 import com.spotify.sdk.android.player.Metadata;
 import com.spotify.sdk.android.player.SpotifyPlayer;
+import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import javax.annotation.Nonnull;
-import javax.microedition.khronos.opengles.GL;
 
 import jp.wasabeef.picasso.transformations.BlurTransformation;
 
@@ -201,12 +200,11 @@ public class StreamActivity extends AppCompatActivity {
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
-                            if(response.data().rating().size() > 0) {
+                            if (response.data().rating().size() > 0) {
                                 mSongRating = response.data().rating().get(0).value() / 2;
                                 ratingBar.setRating(mSongRating);
 //                                Toast.makeText(getApplicationContext(), "rating found: " + mSongRating, Toast.LENGTH_SHORT).show();
-                            }
-                            else{
+                            } else {
 //                                Toast.makeText(getApplicationContext(), "Rate not found", Toast.LENGTH_SHORT).show();
                                 mSongRating = 0;
                                 ratingBar.setRating(mSongRating);
@@ -222,7 +220,7 @@ public class StreamActivity extends AppCompatActivity {
                 runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
-                        Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+                        Toast.makeText(StreamActivity.this, text, Toast.LENGTH_SHORT).show();
                     }
                 });
             }
@@ -230,9 +228,9 @@ public class StreamActivity extends AppCompatActivity {
         ratingBar.setOnRatingBarChangeListener(new RatingBar.OnRatingBarChangeListener() {
             @Override
             public void onRatingChanged(RatingBar ratingBar, final float rating, boolean fromUser) {
-                if(rating != mSongRating){
+                if (rating != mSongRating) {
                     mSongRating = rating;
-                    ((App) getApplication()).apolloClient().newCall(UserTrackRateMutation.builder().token(token).track_id(mSongID).rating((int)(2*mSongRating)).build()).enqueue(new ApolloCall.Callback<UserTrackRateMutation.Data>() {
+                    ((App) getApplication()).apolloClient().newCall(UserTrackRateMutation.builder().token(token).track_id(mSongID).rating((int) (2 * mSongRating)).build()).enqueue(new ApolloCall.Callback<UserTrackRateMutation.Data>() {
                         @Override
                         public void onResponse(@Nonnull final Response<UserTrackRateMutation.Data> response) {
                             if (response.isSuccessful()) {
@@ -260,7 +258,20 @@ public class StreamActivity extends AppCompatActivity {
             }
         });
     }
-    void createPlaylist(final String mytoken, final String playlistName){
+
+    @Override
+    protected void onStop() {
+        LocalBroadcastManager.getInstance(StreamActivity.this).unregisterReceiver(receiver);
+        if (mHandler != null) {
+            mHandler.removeCallbacks(mUpdateTimeTask);
+        }
+        if (mBound) {
+            getApplicationContext().unbindService(mConnection);
+        }
+        super.onStop();
+    }
+
+    void createPlaylist(final String mytoken, final String playlistName) {
         ((App) getApplication()).apolloClient().newCall(CreatePlaylistMutation.builder().token(mytoken).name(playlistName).build()).enqueue(new ApolloCall.Callback<CreatePlaylistMutation.Data>() {
             @Override
             public void onResponse(@Nonnull Response<CreatePlaylistMutation.Data> response) {
@@ -269,7 +280,7 @@ public class StreamActivity extends AppCompatActivity {
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
-                            Toast.makeText(getApplicationContext(),  playlistName +" playlist created", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(getApplicationContext(), playlistName + " playlist created", Toast.LENGTH_SHORT).show();
                         }
                     });
                     addTrackToPlaylist(mytoken, mSongID, new Playlist(playlistName, response.data().createPlaylist().id()));
@@ -288,7 +299,8 @@ public class StreamActivity extends AppCompatActivity {
             }
         });
     }
-    void createPlaylistDialog(){
+
+    void createPlaylistDialog() {
         AlertDialog.Builder alert = new AlertDialog.Builder(this);
         final EditText edittext = new EditText(this);
         alert.setMessage("Enter Playlist Name");
@@ -313,7 +325,8 @@ public class StreamActivity extends AppCompatActivity {
 
         alert.show();
     }
-    void addTrackToPlaylist(String mytoken, int trackID, final Playlist playlist){
+
+    void addTrackToPlaylist(String mytoken, int trackID, final Playlist playlist) {
         ((App) getApplication()).apolloClient().newCall(AddTrackToPlaylistMutation.builder().token(mytoken).track_id(trackID).id(playlist.getId()).build()).enqueue(new ApolloCall.Callback<AddTrackToPlaylistMutation.Data>() {
             @Override
             public void onResponse(@Nonnull Response<AddTrackToPlaylistMutation.Data> response) {
@@ -339,7 +352,8 @@ public class StreamActivity extends AppCompatActivity {
             }
         });
     }
-    void addToPlaylist(){
+
+    void addToPlaylist() {
 
         playlistDialog = new Dialog(this);
         playlistDialog.setContentView(R.layout.dialog_playlists);
@@ -354,11 +368,10 @@ public class StreamActivity extends AppCompatActivity {
         listViewPlaylists.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                if(position == 0) {
+                if (position == 0) {
                     createPlaylistDialog();
                     //Toast.makeText(getApplicationContext(), "New Playlist is created", Toast.LENGTH_SHORT).show();
-                }
-                else if(position > 0) {
+                } else if (position > 0) {
                     playlistDialog.dismiss();
                     addTrackToPlaylist(token, mSongID, mPlaylists.get(position - 1));
                 }
@@ -386,8 +399,8 @@ public class StreamActivity extends AppCompatActivity {
                         @Override
                         public void run() {
 //                        mProgressView.setVisibility(View.GONE);
-                        playlistAdapter.notifyDataSetChanged();
-                        playlistDialog.show();
+                            playlistAdapter.notifyDataSetChanged();
+                            playlistDialog.show();
                         }
                     });
                 }
@@ -417,7 +430,7 @@ public class StreamActivity extends AppCompatActivity {
             mPlayerIntent = new Intent(getApplicationContext(), PlayerService.class);
             mBound = getApplicationContext().bindService(mPlayerIntent, mConnection, Context.BIND_AUTO_CREATE);
             getApplicationContext().startService(mPlayerIntent);
-            LocalBroadcastManager.getInstance(getApplicationContext()).registerReceiver(receiver, new IntentFilter("bulbul.player"));
+            LocalBroadcastManager.getInstance(StreamActivity.this).registerReceiver(receiver, new IntentFilter("bulbul.player"));
         }
     }
 
@@ -430,22 +443,30 @@ public class StreamActivity extends AppCompatActivity {
         }
         if (track != null) {
 //            Picasso.with(StreamActivity.this).load(Globals.mSongs.get(mPlayerService.getPosition()).getArtists().get(0).getImageUrl())
-            Picasso.with(StreamActivity.this).load(track.albumCoverWebUrl)
-                    .placeholder(R.drawable.cover_picture)
-                    .error(R.drawable.cover_picture)
-                    .transform(new BlurTransformation(this,23))
-                    .into(mBackgroundImage);
+            if (!mSongTitle.getText().equals(track.name)
+                    || !mListName.getText().equals(track.albumName)
+                    || !mArtistName.getText().equals(track.artistName)) {
 
-            Picasso.with(StreamActivity.this).load(track.albumCoverWebUrl)
-                    .placeholder(R.drawable.cover_picture)
-                    .error(R.drawable.cover_picture)
-//                    .transform(new BlurTransformation(this))
-                    .into(mImage);
+                Picasso.with(StreamActivity.this).load(track.albumCoverWebUrl)
+                        .error(R.drawable.cover_picture)
+                        .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
+                        .transform(new BlurTransformation(this, 23))
+                        .fit()
+                        .into(mBackgroundImage);
+
+                Picasso.with(StreamActivity.this).load(track.albumCoverWebUrl)
+                        .placeholder(R.drawable.cover_picture)
+                        .error(R.drawable.cover_picture)
+                        .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
+                        .fit()
+                        .into(mImage);
+                mListName.setText(track.albumName);
+                mSongTitle.setText(track.name);
+                mArtistName.setText(track.artistName);
+            }
             updateSeekbarCurrentPos();
             updateSeekbarDuration();
-            mListName.setText(track.albumName);
-            mSongTitle.setText(track.name);
-            mArtistName.setText(track.artistName);
+
 
             if (mPlayer.getPlaybackState().isPlaying) {
                 mActionButton.setImageResource(R.drawable.icon_pause);
@@ -471,14 +492,6 @@ public class StreamActivity extends AppCompatActivity {
         }
     }
 
-
-    @Override
-    public void onDestroy() {
-        if (mBound) {
-            getApplicationContext().unbindService(mConnection);
-        }
-        super.onDestroy();
-    }
 
     public static String getDateTime(long milliseconds) {
         int seconds = (int) milliseconds / 1000;

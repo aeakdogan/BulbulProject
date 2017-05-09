@@ -52,13 +52,12 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
-                android:text="Song: 1/20" />
+                />
             <ImageView
                 android:id="@+id/album_img"
                 android:layout_width="256dp"
                 android:layout_height="256dp"
-                android:layout_gravity="center"
-                android:src="@drawable/cover_picture"/>
+                android:layout_gravity="center" />
             <TextView
                 android:shadowColor="#000"
                 android:shadowRadius="25"
@@ -68,7 +67,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
-                android:text="Artist Name" />
+                />
             <TextView
                 android:shadowColor="#000"
                 android:shadowRadius="25"
@@ -78,7 +77,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
-                android:text="Album Name" />
+                />
             <TextView
                 android:shadowColor="#000"
                 android:shadowRadius="25"
@@ -88,7 +87,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
-                android:text="Song Name" />
+                />
 
             <LinearLayout
                 android:layout_width="match_parent"

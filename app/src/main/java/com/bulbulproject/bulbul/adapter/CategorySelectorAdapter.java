@@ -14,6 +14,7 @@ import android.widget.TextView;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.interfaces.AdapterCallbackInterface;
 import com.bulbulproject.bulbul.model.Category;
+import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
@@ -75,7 +76,12 @@ public class CategorySelectorAdapter extends BaseAdapter {
         }
         t.setText(category.getName());
         if (category.getImageUrl().length() > 0) {
-            Picasso.with(mContext).load(category.getImageUrl()).placeholder(R.drawable.cover_picture).into(i);
+            Picasso.with(mContext)
+                    .load(category.getImageUrl())
+                    .placeholder(R.drawable.cover_picture)
+                    .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
+                    .fit()
+                    .into(i);
         }
         v.setOnClickListener(new View.OnClickListener() {
             @Override

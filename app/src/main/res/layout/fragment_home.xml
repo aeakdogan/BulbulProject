@@ -3,13 +3,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+
     <ImageView
         android:id="@+id/bg_image"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/bg_bulbul"
         android:alpha="0.2"
-        android:scaleType="centerCrop"/>
+        android:background="@drawable/bg_bulbul"
+        android:scaleType="center" />
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"

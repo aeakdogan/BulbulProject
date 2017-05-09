@@ -14,6 +14,7 @@ import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.activity.StreamActivity;
 import com.bulbulproject.bulbul.model.Song;
 import com.bulbulproject.bulbul.service.Globals;
+import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
@@ -69,14 +70,14 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
         holder.songArtists.setText(tmpSong.getFirstArtistName());
         Picasso.with(context)
                 .load(tmpSong.getImageUrl())
+                .fit()
                 .placeholder(R.drawable.cover_picture)
                 .error(R.drawable.album)
+                .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
                 .into(holder.songPhoto);
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
-                Globals.mSongs = mSongs;
                 Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 intent.putExtra("trackID", mSongs.get(holder.getAdapterPosition()).getId());

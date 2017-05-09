@@ -220,7 +220,7 @@ public class MoodActivity extends AppCompatActivity {
                                     runOnUiThread(new Runnable() {
                                         @Override
                                         public void run() {
-                                            Intent intent = new Intent(getApplicationContext(), SongListActivity.class);
+                                            Intent intent = new Intent(MoodActivity.this, SongListActivity.class);
                                             startActivity(intent);
                                         }
                                     });
@@ -233,7 +233,7 @@ public class MoodActivity extends AppCompatActivity {
                                 runOnUiThread(new Runnable() {
                                     @Override
                                     public void run() {
-                                        Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
+                                        Toast.makeText(MoodActivity.this, text, Toast.LENGTH_SHORT).show();
                                     }
                                 });
                             }

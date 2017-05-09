@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.model.BulbulUser;
+import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
@@ -62,7 +63,10 @@ public class UsersRVAdapter extends RecyclerView.Adapter<UsersRVAdapter.ListHold
         if (tmpUser.getProfilePhoto() != null && tmpUser.getProfilePhoto().length() > 0) {
             Picasso.with(context).load(tmpUser.getProfilePhoto())
                     .placeholder(R.drawable.dummy_photo)
-                    .error(R.drawable.dummy_photo).into(holder.userPhoto);
+                    .error(R.drawable.dummy_photo)
+                    .fit()
+                    .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
+                    .into(holder.userPhoto);
         }
 //        holder.linearLayout.setOnClickListener(new View.OnClickListener() {
 //            @Override
