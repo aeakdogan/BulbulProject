@@ -199,7 +199,6 @@ public class UserSummaryRVAdapter extends RecyclerView.Adapter {
                         intent.putExtra("trackID", mSongs.get(holder.getAdapterPosition() - mPlaylists.size() -2).getId());
                         intent.putExtra("position", (holder.getAdapterPosition() - mPlaylists.size() -2));
                         context.getApplicationContext().startActivity(intent);
-                        context.getApplicationContext().startActivity(intent);
                     }
                 });
                 break;
