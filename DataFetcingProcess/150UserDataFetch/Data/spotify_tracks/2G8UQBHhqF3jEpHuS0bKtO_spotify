@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ucLPotcQNI7AViFytdhBz",
+      "id" : "0ucLPotcQNI7AViFytdhBz",
+      "name" : "Ladytron",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ucLPotcQNI7AViFytdhBz"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2lNahiPS9ScBUInf4waakc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2lNahiPS9ScBUInf4waakc",
+    "id" : "2lNahiPS9ScBUInf4waakc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2fdb16ed275f141299dfba602c5d62f6aeb21b46",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f0f1a850b0dc018b7b3e827173be79e72776df49",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c665fadd3aa22eafdababd5be2b336f8ffbf273",
+      "width" : 64
+    } ],
+    "name" : "Velocifero",
+    "type" : "album",
+    "uri" : "spotify:album:2lNahiPS9ScBUInf4waakc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0ucLPotcQNI7AViFytdhBz",
+    "id" : "0ucLPotcQNI7AViFytdhBz",
+    "name" : "Ladytron",
+    "type" : "artist",
+    "uri" : "spotify:artist:0ucLPotcQNI7AViFytdhBz"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN110800037"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2G8UQBHhqF3jEpHuS0bKtO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2G8UQBHhqF3jEpHuS0bKtO",
+  "id" : "2G8UQBHhqF3jEpHuS0bKtO",
+  "name" : "I'm Not Scared",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f8041206c7d7ddc51f1ac4789f50ad4c53e163e0?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2G8UQBHhqF3jEpHuS0bKtO"
+}

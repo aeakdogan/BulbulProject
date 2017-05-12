@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1jf3CssdtSksxNa3uIpPzS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1jf3CssdtSksxNa3uIpPzS",
+      "id" : "1jf3CssdtSksxNa3uIpPzS",
+      "name" : "Dntel",
+      "type" : "artist",
+      "uri" : "spotify:artist:1jf3CssdtSksxNa3uIpPzS"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4pCpjvldgf18O8TLrJwJdl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4pCpjvldgf18O8TLrJwJdl",
+    "id" : "4pCpjvldgf18O8TLrJwJdl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b36667408f857642df1af7b2279eec5aadf51d0c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f0cdc05fe9782599a5de6968fe2e4f9130af9e7b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3effb61c4fc0861eccc5fdc24d91b319aff4d88b",
+      "width" : 64
+    } ],
+    "name" : "Dumb Luck",
+    "type" : "album",
+    "uri" : "spotify:album:4pCpjvldgf18O8TLrJwJdl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1jf3CssdtSksxNa3uIpPzS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1jf3CssdtSksxNa3uIpPzS",
+    "id" : "1jf3CssdtSksxNa3uIpPzS",
+    "name" : "Dntel",
+    "type" : "artist",
+    "uri" : "spotify:artist:1jf3CssdtSksxNa3uIpPzS"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 231880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBGEY0700043"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/452uy3dA6YzXPKrDaBaw8U"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/452uy3dA6YzXPKrDaBaw8U",
+  "id" : "452uy3dA6YzXPKrDaBaw8U",
+  "name" : "Rock My Boat",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ad0f58c12aa43607d5eb3161b28ee788528a5641?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:452uy3dA6YzXPKrDaBaw8U"
+}

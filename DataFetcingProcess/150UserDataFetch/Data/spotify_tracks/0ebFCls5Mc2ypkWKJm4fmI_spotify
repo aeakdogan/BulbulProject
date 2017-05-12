@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6jE04SuLCyI8hZR42qlBmT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6jE04SuLCyI8hZR42qlBmT",
+      "id" : "6jE04SuLCyI8hZR42qlBmT",
+      "name" : "Didier Squiban",
+      "type" : "artist",
+      "uri" : "spotify:artist:6jE04SuLCyI8hZR42qlBmT"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3T9ZEAzlviutQ6ezH7ShEL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3T9ZEAzlviutQ6ezH7ShEL",
+    "id" : "3T9ZEAzlviutQ6ezH7ShEL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f19dbbab97e5aee6b96e7077c7561d3aa8d3029f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6d1737184f1169189cba26ab1c7f4c172b54c7cc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9086eb37220c79e892269ab5aa88bac8628b7f84",
+      "width" : 64
+    } ],
+    "name" : "Molene",
+    "type" : "album",
+    "uri" : "spotify:album:3T9ZEAzlviutQ6ezH7ShEL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6jE04SuLCyI8hZR42qlBmT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6jE04SuLCyI8hZR42qlBmT",
+    "id" : "6jE04SuLCyI8hZR42qlBmT",
+    "name" : "Didier Squiban",
+    "type" : "artist",
+    "uri" : "spotify:artist:6jE04SuLCyI8hZR42qlBmT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 265973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZWS9701701"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ebFCls5Mc2ypkWKJm4fmI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ebFCls5Mc2ypkWKJm4fmI",
+  "id" : "0ebFCls5Mc2ypkWKJm4fmI",
+  "name" : "Ar baradoz",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c0b41c6841c5749887d4666bd37afcac9287bcff?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0ebFCls5Mc2ypkWKJm4fmI"
+}

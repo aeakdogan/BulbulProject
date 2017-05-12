@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5uTJLo3c4ZHpH8oEwGxYUN",
+      "id" : "5uTJLo3c4ZHpH8oEwGxYUN",
+      "name" : "Lower Dens",
+      "type" : "artist",
+      "uri" : "spotify:artist:5uTJLo3c4ZHpH8oEwGxYUN"
+    } ],
+    "available_markets" : [ "AU", "CA", "NZ", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4kZHqNLs6VkpFWBFrfJ6eF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4kZHqNLs6VkpFWBFrfJ6eF",
+    "id" : "4kZHqNLs6VkpFWBFrfJ6eF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/206020d68c87987cea7a667c48312a552ae44593",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7444b84d0f6ef8912ddc1d609e1a67ff8e563bbe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4802ec3b1518cd842b2aa86b54cd792e7d17ef64",
+      "width" : 64
+    } ],
+    "name" : "Twin-Hand Movement",
+    "type" : "album",
+    "uri" : "spotify:album:4kZHqNLs6VkpFWBFrfJ6eF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5uTJLo3c4ZHpH8oEwGxYUN",
+    "id" : "5uTJLo3c4ZHpH8oEwGxYUN",
+    "name" : "Lower Dens",
+    "type" : "artist",
+    "uri" : "spotify:artist:5uTJLo3c4ZHpH8oEwGxYUN"
+  } ],
+  "available_markets" : [ "AU", "CA", "NZ", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 204333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCMJ1010005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3SfPxUOoqIyXZrZou9R1WG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3SfPxUOoqIyXZrZou9R1WG",
+  "id" : "3SfPxUOoqIyXZrZou9R1WG",
+  "name" : "I Get Nervous",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7c6c470e9037ca73b8fb47e23f35ae8642729e77?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3SfPxUOoqIyXZrZou9R1WG"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EuW5xabgZbQPLvJI9ksgZ",
+      "id" : "4EuW5xabgZbQPLvJI9ksgZ",
+      "name" : "Isabelle Antena",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EuW5xabgZbQPLvJI9ksgZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6O20StLk29iz9VXX7xcx0e",
+    "id" : "6O20StLk29iz9VXX7xcx0e",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2098b2036089fd11ea0649af1a6143ce74f4ba98",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/320a79596e24d8712d4787ebe2459d264c709ffb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/594d880ea256e47b3d18d3c62d70bbfdcf00f9d3",
+      "width" : 64
+    } ],
+    "name" : "Hoping for Love",
+    "type" : "album",
+    "uri" : "spotify:album:6O20StLk29iz9VXX7xcx0e"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4EuW5xabgZbQPLvJI9ksgZ",
+    "id" : "4EuW5xabgZbQPLvJI9ksgZ",
+    "name" : "Isabelle Antena",
+    "type" : "artist",
+    "uri" : "spotify:artist:4EuW5xabgZbQPLvJI9ksgZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 253000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTCB0983640"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0OtLnXYlL9nvUDhD5CCVaY",
+  "id" : "0OtLnXYlL9nvUDhD5CCVaY",
+  "name" : "Le Poisson Des Mers Du Sud",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/03927cf5b9262fe593780cf79daa5bc39411b83a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0OtLnXYlL9nvUDhD5CCVaY"
+}

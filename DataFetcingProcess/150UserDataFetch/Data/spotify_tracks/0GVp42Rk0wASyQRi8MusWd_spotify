@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vmrFTWCwK3gFGDzeUzeMg",
+      "id" : "0vmrFTWCwK3gFGDzeUzeMg",
+      "name" : "Patrick Bruel",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vmrFTWCwK3gFGDzeUzeMg"
+    } ],
+    "available_markets" : [ "US", "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7635orjk9y4u1Znb7K7Tvv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7635orjk9y4u1Znb7K7Tvv",
+    "id" : "7635orjk9y4u1Znb7K7Tvv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/20d2590ee2995dda615cded51a0f046876fcb172",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7925b9f19dc0a69bd78c0afc3873b58d964d6cb9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a70a533b999255386be43914c9ad5025c776e77a",
+      "width" : 64
+    } ],
+    "name" : "Juste avant",
+    "type" : "album",
+    "uri" : "spotify:album:7635orjk9y4u1Znb7K7Tvv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0vmrFTWCwK3gFGDzeUzeMg",
+    "id" : "0vmrFTWCwK3gFGDzeUzeMg",
+    "name" : "Patrick Bruel",
+    "type" : "artist",
+    "uri" : "spotify:artist:0vmrFTWCwK3gFGDzeUzeMg"
+  } ],
+  "available_markets" : [ "US", "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 298400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRR069900005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0GVp42Rk0wASyQRi8MusWd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0GVp42Rk0wASyQRi8MusWd",
+  "id" : "0GVp42Rk0wASyQRi8MusWd",
+  "name" : "Elle voulait tout",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8b7b51c5217b6e4d4e8d924dff27ffa8574a173e?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0GVp42Rk0wASyQRi8MusWd"
+}

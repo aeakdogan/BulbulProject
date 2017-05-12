@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0AUwa5xmiy57qdGlOksvea",
+      "id" : "0AUwa5xmiy57qdGlOksvea",
+      "name" : "Mutual Benefit",
+      "type" : "artist",
+      "uri" : "spotify:artist:0AUwa5xmiy57qdGlOksvea"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/63eYXtU9LBjEha4RIFeOsM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/63eYXtU9LBjEha4RIFeOsM",
+    "id" : "63eYXtU9LBjEha4RIFeOsM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/461ce1f4d48eecfc0e4991202c87ef5d8414f27f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b49d52650086f2944fb3219cfadda4b13a161587",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ee7bd3f76dff00e3882c9d26608c16b354bff0c8",
+      "width" : 64
+    } ],
+    "name" : "Love's Crushing Diamond",
+    "type" : "album",
+    "uri" : "spotify:album:63eYXtU9LBjEha4RIFeOsM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0AUwa5xmiy57qdGlOksvea",
+    "id" : "0AUwa5xmiy57qdGlOksvea",
+    "name" : "Mutual Benefit",
+    "type" : "artist",
+    "uri" : "spotify:artist:0AUwa5xmiy57qdGlOksvea"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 214560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFP71341905"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2D1A99WDdmxQ7ZQXdVttTc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2D1A99WDdmxQ7ZQXdVttTc",
+  "id" : "2D1A99WDdmxQ7ZQXdVttTc",
+  "name" : "\"Let's Play\" / Statue of a Man",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1dd2b161eb8579637c494400e3e287d0d28dd35d?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2D1A99WDdmxQ7ZQXdVttTc"
+}

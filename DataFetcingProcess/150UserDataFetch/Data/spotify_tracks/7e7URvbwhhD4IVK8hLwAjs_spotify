@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2NFrAuh8RQdQoS7iYFbckw",
+      "id" : "2NFrAuh8RQdQoS7iYFbckw",
+      "name" : "The Midnight",
+      "type" : "artist",
+      "uri" : "spotify:artist:2NFrAuh8RQdQoS7iYFbckw"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0tZlHRx038Eph8Gmoflzh4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0tZlHRx038Eph8Gmoflzh4",
+    "id" : "0tZlHRx038Eph8Gmoflzh4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5ae1f14a60ca8c0f5c281846f4487496175cf399",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/34e391d9bd982368d1b775b66e843946f4e66858",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e3d705b3bb13eb37d3d899dd1d500bf51c6cf144",
+      "width" : 64
+    } ],
+    "name" : "Endless Summer",
+    "type" : "album",
+    "uri" : "spotify:album:0tZlHRx038Eph8Gmoflzh4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2NFrAuh8RQdQoS7iYFbckw",
+    "id" : "2NFrAuh8RQdQoS7iYFbckw",
+    "name" : "The Midnight",
+    "type" : "artist",
+    "uri" : "spotify:artist:2NFrAuh8RQdQoS7iYFbckw"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 405907,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCACQ1690550"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7e7URvbwhhD4IVK8hLwAjs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7e7URvbwhhD4IVK8hLwAjs",
+  "id" : "7e7URvbwhhD4IVK8hLwAjs",
+  "name" : "Endless Summer",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e8d414776403d094c69efd28beaf12b4a06f1c09?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7e7URvbwhhD4IVK8hLwAjs"
+}

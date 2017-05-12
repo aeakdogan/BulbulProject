@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2mV8aJphiSHYJf43DxL7Gt",
+      "id" : "2mV8aJphiSHYJf43DxL7Gt",
+      "name" : "Chromeo",
+      "type" : "artist",
+      "uri" : "spotify:artist:2mV8aJphiSHYJf43DxL7Gt"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4lPn10rqeU3aSMSApE1Ff8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4lPn10rqeU3aSMSApE1Ff8",
+    "id" : "4lPn10rqeU3aSMSApE1Ff8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6b4fce950bd942ce20d45db40a9ecbf4f32cc950",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b99ee8015ec57ee4b58da2901db4d5c256e5baee",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9b459ecbcf91b9f1ab7dece49ae1dd13a2473523",
+      "width" : 64
+    } ],
+    "name" : "Fancy Footwork: Deluxe Edition",
+    "type" : "album",
+    "uri" : "spotify:album:4lPn10rqeU3aSMSApE1Ff8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2mV8aJphiSHYJf43DxL7Gt",
+    "id" : "2mV8aJphiSHYJf43DxL7Gt",
+    "name" : "Chromeo",
+    "type" : "artist",
+    "uri" : "spotify:artist:2mV8aJphiSHYJf43DxL7Gt"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 272493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USALX0502177"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2si03bj1f2F4X0Hyy0yCPx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2si03bj1f2F4X0Hyy0yCPx",
+  "id" : "2si03bj1f2F4X0Hyy0yCPx",
+  "name" : "Bonafied Lovin (+ Tough Guys Interlude)",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8c97b338e8bf8eb8982cfe5adbc67e23d8c7ad45?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2si03bj1f2F4X0Hyy0yCPx"
+}

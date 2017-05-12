@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0lmPazVDvsQ8FXDcBfKc6r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0lmPazVDvsQ8FXDcBfKc6r",
+      "id" : "0lmPazVDvsQ8FXDcBfKc6r",
+      "name" : "The Twilight Singers",
+      "type" : "artist",
+      "uri" : "spotify:artist:0lmPazVDvsQ8FXDcBfKc6r"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5DC1pil7mVE29Rw3iZfChu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5DC1pil7mVE29Rw3iZfChu",
+    "id" : "5DC1pil7mVE29Rw3iZfChu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/058c0793efe0828b8db73e83bd8776ece67c2cb1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8f80661b51ceceea703c766db2136ee30d0a7dca",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5e58a02645d12a8d9d721a81029fbe47f75ba3e2",
+      "width" : 64
+    } ],
+    "name" : "She Loves You",
+    "type" : "album",
+    "uri" : "spotify:album:5DC1pil7mVE29Rw3iZfChu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0lmPazVDvsQ8FXDcBfKc6r"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0lmPazVDvsQ8FXDcBfKc6r",
+    "id" : "0lmPazVDvsQ8FXDcBfKc6r",
+    "name" : "The Twilight Singers",
+    "type" : "artist",
+    "uri" : "spotify:artist:0lmPazVDvsQ8FXDcBfKc6r"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 296293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBTF0400182"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6XQ5wQqsoygMDJvDFxdqra"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6XQ5wQqsoygMDJvDFxdqra",
+  "id" : "6XQ5wQqsoygMDJvDFxdqra",
+  "name" : "Hyperballad",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/90ea43a70c0e783c0ce8f372f82eeafb4e1d439e?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6XQ5wQqsoygMDJvDFxdqra"
+}

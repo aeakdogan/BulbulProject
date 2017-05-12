@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58OsIXYmSTERQ6rICyWRqB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/58OsIXYmSTERQ6rICyWRqB",
+      "id" : "58OsIXYmSTERQ6rICyWRqB",
+      "name" : "Marsen Jules",
+      "type" : "artist",
+      "uri" : "spotify:artist:58OsIXYmSTERQ6rICyWRqB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6aAD9oKbb1oCtoR4idOaci"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6aAD9oKbb1oCtoR4idOaci",
+    "id" : "6aAD9oKbb1oCtoR4idOaci",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d9d670585692740a1d1d270405e2ef6e380ab8c9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ae18a9ec0cc7e8c601cf893b1c5abbc70dfe3ee6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/69020706835221fe920e54d92a077c3ca9a385df",
+      "width" : 64
+    } ],
+    "name" : "Herbstlaub",
+    "type" : "album",
+    "uri" : "spotify:album:6aAD9oKbb1oCtoR4idOaci"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/58OsIXYmSTERQ6rICyWRqB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/58OsIXYmSTERQ6rICyWRqB",
+    "id" : "58OsIXYmSTERQ6rICyWRqB",
+    "name" : "Marsen Jules",
+    "type" : "artist",
+    "uri" : "spotify:artist:58OsIXYmSTERQ6rICyWRqB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 369120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX700500001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3qF9WLEnhK9cX5ol9sNut0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3qF9WLEnhK9cX5ol9sNut0",
+  "id" : "3qF9WLEnhK9cX5ol9sNut0",
+  "name" : "Fanes D'automne",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a116efb13ca768b37e8ecc827f89b7f5ee970779?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3qF9WLEnhK9cX5ol9sNut0"
+}

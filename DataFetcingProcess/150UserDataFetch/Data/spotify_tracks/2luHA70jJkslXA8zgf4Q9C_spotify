@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LbLWjaweRbO4FDKYlbfNt",
+      "id" : "0LbLWjaweRbO4FDKYlbfNt",
+      "name" : "Kaiser Chiefs",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LbLWjaweRbO4FDKYlbfNt"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4uTrCZIptVPKZZCck200lv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4uTrCZIptVPKZZCck200lv",
+    "id" : "4uTrCZIptVPKZZCck200lv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f2bf13c1304d23ca49b1051bc3d7b66411780a17",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fca08e90f737c5cba6eb876f1f340c6a64ee7779",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/777a8908d40d0fbe76b4b871bea64fddf2d8878f",
+      "width" : 64
+    } ],
+    "name" : "Off With Their Heads",
+    "type" : "album",
+    "uri" : "spotify:album:4uTrCZIptVPKZZCck200lv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0LbLWjaweRbO4FDKYlbfNt",
+    "id" : "0LbLWjaweRbO4FDKYlbfNt",
+    "name" : "Kaiser Chiefs",
+    "type" : "artist",
+    "uri" : "spotify:artist:0LbLWjaweRbO4FDKYlbfNt"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 166600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDVX0800080"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2luHA70jJkslXA8zgf4Q9C"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2luHA70jJkslXA8zgf4Q9C",
+  "id" : "2luHA70jJkslXA8zgf4Q9C",
+  "name" : "Can't Say What I Mean",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a372b7dcb800a32641579a8c83eafc16337dd2b7?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2luHA70jJkslXA8zgf4Q9C"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3KOHpygRuo1ruQAbEneR3t",
+      "id" : "3KOHpygRuo1ruQAbEneR3t",
+      "name" : "George FitzGerald",
+      "type" : "artist",
+      "uri" : "spotify:artist:3KOHpygRuo1ruQAbEneR3t"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0cgSpJxRCmHeoJd3943PrN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0cgSpJxRCmHeoJd3943PrN",
+    "id" : "0cgSpJxRCmHeoJd3943PrN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dfffff076c6bef22ea174aefc71489bd95063202",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/042f79ee48763ad6b8cc201cbe951693a7edcce3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9d168e09c175152bc575d028b6bf3dfa4dce185e",
+      "width" : 64
+    } ],
+    "name" : "Shackled",
+    "type" : "album",
+    "uri" : "spotify:album:0cgSpJxRCmHeoJd3943PrN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3KOHpygRuo1ruQAbEneR3t",
+    "id" : "3KOHpygRuo1ruQAbEneR3t",
+    "name" : "George FitzGerald",
+    "type" : "artist",
+    "uri" : "spotify:artist:3KOHpygRuo1ruQAbEneR3t"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 430628,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBHQT1100062"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0oi2BgdpoNryQxJ3Znh7Kr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0oi2BgdpoNryQxJ3Znh7Kr",
+  "id" : "0oi2BgdpoNryQxJ3Znh7Kr",
+  "name" : "Shackled",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/15645faaae3901b3d4af709774b805e787272b7d?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0oi2BgdpoNryQxJ3Znh7Kr"
+}

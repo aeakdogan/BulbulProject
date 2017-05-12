@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5I7n9qoy56ibexYfrF9ZEL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5I7n9qoy56ibexYfrF9ZEL",
+      "id" : "5I7n9qoy56ibexYfrF9ZEL",
+      "name" : "Berry Weight",
+      "type" : "artist",
+      "uri" : "spotify:artist:5I7n9qoy56ibexYfrF9ZEL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4oO3o4VwadX8bygjTRpTco"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4oO3o4VwadX8bygjTRpTco",
+    "id" : "4oO3o4VwadX8bygjTRpTco",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/49ad548ab6e965944d1ae0bcc94db0e0652af0bf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ad843ad4b6ff639e8234bbde5fa8b56c15f8610e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/99794932d3cafaff76dce1b84866ea5db372e6c4",
+      "width" : 64
+    } ],
+    "name" : "Music for Imaginary Movies",
+    "type" : "album",
+    "uri" : "spotify:album:4oO3o4VwadX8bygjTRpTco"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5I7n9qoy56ibexYfrF9ZEL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5I7n9qoy56ibexYfrF9ZEL",
+    "id" : "5I7n9qoy56ibexYfrF9ZEL",
+    "name" : "Berry Weight",
+    "type" : "artist",
+    "uri" : "spotify:artist:5I7n9qoy56ibexYfrF9ZEL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 210782,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBLFP0986885"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4s4d01dVv1DBSwkytKIfuW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4s4d01dVv1DBSwkytKIfuW",
+  "id" : "4s4d01dVv1DBSwkytKIfuW",
+  "name" : "Yeti's Lament",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/70cb043432f5c8fa6f40194ef34cbc45bedd96a0?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4s4d01dVv1DBSwkytKIfuW"
+}

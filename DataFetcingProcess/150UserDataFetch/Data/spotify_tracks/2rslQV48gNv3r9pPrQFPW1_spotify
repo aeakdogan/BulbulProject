@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+      "id" : "74ASZWbe4lXaubB36ztrGX",
+      "name" : "Bob Dylan",
+      "type" : "artist",
+      "uri" : "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4NP1rhnsPdYpnyJP0p0k0L",
+    "id" : "4NP1rhnsPdYpnyJP0p0k0L",
+    "images" : [ {
+      "height" : 639,
+      "url" : "https://i.scdn.co/image/250662242f34ac54137cd212b92560e8415d0dc7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/54e1567901b85fc16169ad22d3c05b53e73e5382",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c7721409acedb525565678cc4c464af01ef3669a",
+      "width" : 64
+    } ],
+    "name" : "Blonde On Blonde",
+    "type" : "album",
+    "uri" : "spotify:album:4NP1rhnsPdYpnyJP0p0k0L"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+    "id" : "74ASZWbe4lXaubB36ztrGX",
+    "name" : "Bob Dylan",
+    "type" : "artist",
+    "uri" : "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 451133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19921960"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2rslQV48gNv3r9pPrQFPW1",
+  "id" : "2rslQV48gNv3r9pPrQFPW1",
+  "name" : "Visions of Johanna",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a734f0210fbbc0591afab20a0f2a28d2e4d4f61d?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2rslQV48gNv3r9pPrQFPW1"
+}

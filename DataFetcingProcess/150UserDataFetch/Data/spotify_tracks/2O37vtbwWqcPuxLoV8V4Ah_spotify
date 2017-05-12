@@ -1,0 +1,101 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+      "id" : "6s1pCNXcbdtQJlsnM1hRIA",
+      "name" : "Dmitri Shostakovich",
+      "type" : "artist",
+      "uri" : "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1RwbMtpsVLPXVzAhYLoMt8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1RwbMtpsVLPXVzAhYLoMt8",
+      "id" : "1RwbMtpsVLPXVzAhYLoMt8",
+      "name" : "Min Kyung Kim",
+      "type" : "artist",
+      "uri" : "spotify:artist:1RwbMtpsVLPXVzAhYLoMt8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sbN6lFti3oTb060slPoX3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6sbN6lFti3oTb060slPoX3",
+      "id" : "6sbN6lFti3oTb060slPoX3",
+      "name" : "Hyung Jin Moon",
+      "type" : "artist",
+      "uri" : "spotify:artist:6sbN6lFti3oTb060slPoX3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2iz0TtGFgDFzRZjAvEAZ9i"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2iz0TtGFgDFzRZjAvEAZ9i",
+    "id" : "2iz0TtGFgDFzRZjAvEAZ9i",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0041e706a189edd5255cdab7696e755f47530744",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9cdfb3c1e3023b612d67209a343165bed367abbe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5d5896657c50e69e4feff218b903e24cc2a7ccf6",
+      "width" : 64
+    } ],
+    "name" : "Shostakovich: Complete Music for Piano Duo & Duet, Vol. 2",
+    "type" : "album",
+    "uri" : "spotify:album:2iz0TtGFgDFzRZjAvEAZ9i"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6s1pCNXcbdtQJlsnM1hRIA",
+    "id" : "6s1pCNXcbdtQJlsnM1hRIA",
+    "name" : "Dmitri Shostakovich",
+    "type" : "artist",
+    "uri" : "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1RwbMtpsVLPXVzAhYLoMt8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1RwbMtpsVLPXVzAhYLoMt8",
+    "id" : "1RwbMtpsVLPXVzAhYLoMt8",
+    "name" : "Min Kyung Kim",
+    "type" : "artist",
+    "uri" : "spotify:artist:1RwbMtpsVLPXVzAhYLoMt8"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6sbN6lFti3oTb060slPoX3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6sbN6lFti3oTb060slPoX3",
+    "id" : "6sbN6lFti3oTb060slPoX3",
+    "name" : "Hyung Jin Moon",
+    "type" : "artist",
+    "uri" : "spotify:artist:6sbN6lFti3oTb060slPoX3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 333525,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBJZY1629202"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2O37vtbwWqcPuxLoV8V4Ah"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2O37vtbwWqcPuxLoV8V4Ah",
+  "id" : "2O37vtbwWqcPuxLoV8V4Ah",
+  "name" : "Piano Concerto No. 2 in F Major, Op. 102 (Version for Piano Duet): II. Andante",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ed8045498be5fca090e4dc5255e20cd5fb110ff?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2O37vtbwWqcPuxLoV8V4Ah"
+}

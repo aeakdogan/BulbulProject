@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NRN3tnDVDspHMCfyu2ZwT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NRN3tnDVDspHMCfyu2ZwT",
+      "id" : "0NRN3tnDVDspHMCfyu2ZwT",
+      "name" : "The Shadows Of Knight",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NRN3tnDVDspHMCfyu2ZwT"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6wXrXe2x2ADL77uOTc74Ai"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6wXrXe2x2ADL77uOTc74Ai",
+    "id" : "6wXrXe2x2ADL77uOTc74Ai",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dea1d35b63169f1b4a92eaa7d828d505be45b19b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9b3ad6799fce0d6532396344ceece9e0850f5628",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a601f979f0034db0d419f103fdfa3c93d9f16014",
+      "width" : 64
+    } ],
+    "name" : "Gloria",
+    "type" : "album",
+    "uri" : "spotify:album:6wXrXe2x2ADL77uOTc74Ai"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0NRN3tnDVDspHMCfyu2ZwT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0NRN3tnDVDspHMCfyu2ZwT",
+    "id" : "0NRN3tnDVDspHMCfyu2ZwT",
+    "name" : "The Shadows Of Knight",
+    "type" : "artist",
+    "uri" : "spotify:artist:0NRN3tnDVDspHMCfyu2ZwT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 157333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20110933"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5WNcnqDpO5asMaDIthIcu1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5WNcnqDpO5asMaDIthIcu1",
+  "id" : "5WNcnqDpO5asMaDIthIcu1",
+  "name" : "Gloria",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/22adfa47e5213825f638fc2a7ce6bfa5b1363895?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5WNcnqDpO5asMaDIthIcu1"
+}

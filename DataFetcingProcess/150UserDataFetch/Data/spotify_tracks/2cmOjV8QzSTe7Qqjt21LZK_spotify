@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0L8QRAAuWjqvTM8FpQ1gYO",
+      "id" : "0L8QRAAuWjqvTM8FpQ1gYO",
+      "name" : "Annihilator",
+      "type" : "artist",
+      "uri" : "spotify:artist:0L8QRAAuWjqvTM8FpQ1gYO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/79BNMjYGcJR00CCVSvHW94"
+    },
+    "href" : "https://api.spotify.com/v1/albums/79BNMjYGcJR00CCVSvHW94",
+    "id" : "79BNMjYGcJR00CCVSvHW94",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4881df1af57f2af046e0225befbcf9d2eb6513c0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/74907d2977769d40a6f33e1143390905ee7b92e6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c99dd0f4795b43d6e5b28d6d8e36b78dc0d48ac0",
+      "width" : 64
+    } ],
+    "name" : "All For You",
+    "type" : "album",
+    "uri" : "spotify:album:79BNMjYGcJR00CCVSvHW94"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0L8QRAAuWjqvTM8FpQ1gYO",
+    "id" : "0L8QRAAuWjqvTM8FpQ1gYO",
+    "name" : "Annihilator",
+    "type" : "artist",
+    "uri" : "spotify:artist:0L8QRAAuWjqvTM8FpQ1gYO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 272453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DENV61000758"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2cmOjV8QzSTe7Qqjt21LZK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2cmOjV8QzSTe7Qqjt21LZK",
+  "id" : "2cmOjV8QzSTe7Qqjt21LZK",
+  "name" : "The One",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2950199e20485364a77be5a11ff5be2290e44466?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2cmOjV8QzSTe7Qqjt21LZK"
+}

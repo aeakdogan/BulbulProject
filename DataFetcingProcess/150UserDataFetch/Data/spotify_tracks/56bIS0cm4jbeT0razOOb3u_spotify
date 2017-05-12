@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh",
+      "id" : "3bUwxJgNakzYKkqAVgZLlh",
+      "name" : "Travis",
+      "type" : "artist",
+      "uri" : "spotify:artist:3bUwxJgNakzYKkqAVgZLlh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/70E8rpfKRi7LdLqPl8RPi9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/70E8rpfKRi7LdLqPl8RPi9",
+    "id" : "70E8rpfKRi7LdLqPl8RPi9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/183ee3beed4b90703eda378023dc3583ac57e4e3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/332ee8cf00c07c63637ed0bb476e9aa3c0540a73",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/13271f43123b1a12c952879683c1023f98875dd2",
+      "width" : 64
+    } ],
+    "name" : "The Boy with No Name",
+    "type" : "album",
+    "uri" : "spotify:album:70E8rpfKRi7LdLqPl8RPi9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh",
+    "id" : "3bUwxJgNakzYKkqAVgZLlh",
+    "name" : "Travis",
+    "type" : "artist",
+    "uri" : "spotify:artist:3bUwxJgNakzYKkqAVgZLlh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 240626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPF0701578"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/56bIS0cm4jbeT0razOOb3u"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/56bIS0cm4jbeT0razOOb3u",
+  "id" : "56bIS0cm4jbeT0razOOb3u",
+  "name" : "Closer",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5707e7d043aab7400b68bb30091a9c3a63a81201?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:56bIS0cm4jbeT0razOOb3u"
+}

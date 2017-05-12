@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1cXi8ALPQCBHZbf0EgP4Ey",
+      "id" : "1cXi8ALPQCBHZbf0EgP4Ey",
+      "name" : "Misfits",
+      "type" : "artist",
+      "uri" : "spotify:artist:1cXi8ALPQCBHZbf0EgP4Ey"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4pEcCqGx1RFaXWJD0mrG10",
+    "id" : "4pEcCqGx1RFaXWJD0mrG10",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/40f4551b6bb0fe6375fffb26d61028ff32a03012",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5b69d06cb4dd01f329a71a1b0a7a08dfafe28e15",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e6ef0c07641a779258c0299a8ebbf076d6e4f5a5",
+      "width" : 64
+    } ],
+    "name" : "Collection",
+    "type" : "album",
+    "uri" : "spotify:album:4pEcCqGx1RFaXWJD0mrG10"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1cXi8ALPQCBHZbf0EgP4Ey",
+    "id" : "1cXi8ALPQCBHZbf0EgP4Ey",
+    "name" : "Misfits",
+    "type" : "artist",
+    "uri" : "spotify:artist:1cXi8ALPQCBHZbf0EgP4Ey"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 82693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCN38500010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/38T3oJ4ykhLtoHFjhpjOoL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/38T3oJ4ykhLtoHFjhpjOoL",
+  "id" : "38T3oJ4ykhLtoHFjhpjOoL",
+  "name" : "She",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/47b200d67c7834241ff87cc5dfa2b35aaf2e92d3?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:38T3oJ4ykhLtoHFjhpjOoL"
+}

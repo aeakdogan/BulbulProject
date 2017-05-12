@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5bDxAyJiTYBat1YnFJhvEK",
+      "id" : "5bDxAyJiTYBat1YnFJhvEK",
+      "name" : "Joe Walsh",
+      "type" : "artist",
+      "uri" : "spotify:artist:5bDxAyJiTYBat1YnFJhvEK"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/47OzPJeDRl2uRZ1sWCKY89"
+    },
+    "href" : "https://api.spotify.com/v1/albums/47OzPJeDRl2uRZ1sWCKY89",
+    "id" : "47OzPJeDRl2uRZ1sWCKY89",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9af616c53c86dd93ad7b164b92e3ede290b03544",
+      "width" : 629
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e3e469893cc66d0c7dd78637a3817b0fe820dc02",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3f58b689677d78ce3ff30a26e88290f53a9b48c3",
+      "width" : 63
+    } ],
+    "name" : "20th Century Masters: The Millennium Collection: Best Of Joe Walsh",
+    "type" : "album",
+    "uri" : "spotify:album:47OzPJeDRl2uRZ1sWCKY89"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5bDxAyJiTYBat1YnFJhvEK",
+    "id" : "5bDxAyJiTYBat1YnFJhvEK",
+    "name" : "Joe Walsh",
+    "type" : "artist",
+    "uri" : "spotify:artist:5bDxAyJiTYBat1YnFJhvEK"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 301000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0122074"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0KKSPAU9nFzE9CSoITzosW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0KKSPAU9nFzE9CSoITzosW",
+  "id" : "0KKSPAU9nFzE9CSoITzosW",
+  "name" : "Here We Go",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0eeebbb4d3e5f29c4f7d004fcf4da2cff0d697bf?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0KKSPAU9nFzE9CSoITzosW"
+}

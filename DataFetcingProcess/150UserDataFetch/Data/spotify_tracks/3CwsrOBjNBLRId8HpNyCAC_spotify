@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1qnUlfRT7PBIfKQvK9Dc1b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1qnUlfRT7PBIfKQvK9Dc1b",
+      "id" : "1qnUlfRT7PBIfKQvK9Dc1b",
+      "name" : "Los Microwaves",
+      "type" : "artist",
+      "uri" : "spotify:artist:1qnUlfRT7PBIfKQvK9Dc1b"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3mt4ksltHFP1TGELzgQKf7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3mt4ksltHFP1TGELzgQKf7",
+    "id" : "3mt4ksltHFP1TGELzgQKf7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8dc13c0d58dff28dbb51040c3960d293b9ba58e6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4e74979c5386322bfee1be74ac66b987ff1da610",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bc70680d596e7918e9700afa5ac19b8b8e2ff904",
+      "width" : 64
+    } ],
+    "name" : "Life After Breakfast",
+    "type" : "album",
+    "uri" : "spotify:album:3mt4ksltHFP1TGELzgQKf7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1qnUlfRT7PBIfKQvK9Dc1b"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1qnUlfRT7PBIfKQvK9Dc1b",
+    "id" : "1qnUlfRT7PBIfKQvK9Dc1b",
+    "name" : "Los Microwaves",
+    "type" : "artist",
+    "uri" : "spotify:artist:1qnUlfRT7PBIfKQvK9Dc1b"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 201946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEWM1200009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3CwsrOBjNBLRId8HpNyCAC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3CwsrOBjNBLRId8HpNyCAC",
+  "id" : "3CwsrOBjNBLRId8HpNyCAC",
+  "name" : "Coast To Coast",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c444532675632c6c5570cf833082906cdb7630b4?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3CwsrOBjNBLRId8HpNyCAC"
+}

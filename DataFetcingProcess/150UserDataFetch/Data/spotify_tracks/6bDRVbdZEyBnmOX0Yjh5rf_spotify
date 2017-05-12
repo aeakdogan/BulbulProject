@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dmPX6ovclgOy8WWJaFEUU",
+      "id" : "0dmPX6ovclgOy8WWJaFEUU",
+      "name" : "Kraftwerk",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dmPX6ovclgOy8WWJaFEUU"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/07BPkQfT4B5xjDwjCxRiN2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/07BPkQfT4B5xjDwjCxRiN2",
+    "id" : "07BPkQfT4B5xjDwjCxRiN2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cbf1e2b2ae6eb38b691bb0c4ed5718d12f748442",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/25e68ae1e6516494a791ee22f91aaaf6cf6ff75c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2a904fc9d9038f2cdc9a9e6b327e0776d71b2b65",
+      "width" : 64
+    } ],
+    "name" : "Computer World (2009 Remastered Version)",
+    "type" : "album",
+    "uri" : "spotify:album:07BPkQfT4B5xjDwjCxRiN2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0dmPX6ovclgOy8WWJaFEUU",
+    "id" : "0dmPX6ovclgOy8WWJaFEUU",
+    "name" : "Kraftwerk",
+    "type" : "artist",
+    "uri" : "spotify:artist:0dmPX6ovclgOy8WWJaFEUU"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 296800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB01A0900380"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6bDRVbdZEyBnmOX0Yjh5rf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6bDRVbdZEyBnmOX0Yjh5rf",
+  "id" : "6bDRVbdZEyBnmOX0Yjh5rf",
+  "name" : "Pocket Calculator - 2009 Remastered Version",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d126d2cf809813c493350279cc2638c4758be98d?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6bDRVbdZEyBnmOX0Yjh5rf"
+}

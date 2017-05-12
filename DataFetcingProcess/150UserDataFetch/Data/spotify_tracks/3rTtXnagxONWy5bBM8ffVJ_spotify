@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2nszamLjZFgu3Yx77mKxuC",
+      "id" : "2nszamLjZFgu3Yx77mKxuC",
+      "name" : "UNKLE",
+      "type" : "artist",
+      "uri" : "spotify:artist:2nszamLjZFgu3Yx77mKxuC"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1zU4IVCraoTYwL4bFZ2Inh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1zU4IVCraoTYwL4bFZ2Inh",
+    "id" : "1zU4IVCraoTYwL4bFZ2Inh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/db2606788b85ae895ef7eaaba994010cfae2aaa1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9d76ba5744614d49c79b232f6e4192b731756788",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa4eda0f93badfd6c8f276435e608e578d4812d5",
+      "width" : 64
+    } ],
+    "name" : "Where Did The Night Fall: Another Night Out",
+    "type" : "album",
+    "uri" : "spotify:album:1zU4IVCraoTYwL4bFZ2Inh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2nszamLjZFgu3Yx77mKxuC",
+    "id" : "2nszamLjZFgu3Yx77mKxuC",
+    "name" : "UNKLE",
+    "type" : "artist",
+    "uri" : "spotify:artist:2nszamLjZFgu3Yx77mKxuC"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 263066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBPYR1000172"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3rTtXnagxONWy5bBM8ffVJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3rTtXnagxONWy5bBM8ffVJ",
+  "id" : "3rTtXnagxONWy5bBM8ffVJ",
+  "name" : "Follow Me Down (feat. Sleepy Sun)",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1e047ff9b3dfec83604940e800e2cefef93d6732?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3rTtXnagxONWy5bBM8ffVJ"
+}

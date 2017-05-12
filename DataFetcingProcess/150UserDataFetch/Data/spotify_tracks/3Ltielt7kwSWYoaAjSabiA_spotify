@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0hk8VgR64voU5ueK96W2DI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0hk8VgR64voU5ueK96W2DI",
+      "id" : "0hk8VgR64voU5ueK96W2DI",
+      "name" : "DeVotchKa",
+      "type" : "artist",
+      "uri" : "spotify:artist:0hk8VgR64voU5ueK96W2DI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ImN2AW4J6atKQ6GKl13XX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ImN2AW4J6atKQ6GKl13XX",
+    "id" : "4ImN2AW4J6atKQ6GKl13XX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ce109e3c5d13f083c8f040fef57484c3a06104cd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cb5fdcd2a93a3a0d47d40084777b7e5b3857e564",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6274ad6a5304a33b21972f42064d38d7a962b235",
+      "width" : 64
+    } ],
+    "name" : "Curse Your Little Heart EP",
+    "type" : "album",
+    "uri" : "spotify:album:4ImN2AW4J6atKQ6GKl13XX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0hk8VgR64voU5ueK96W2DI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0hk8VgR64voU5ueK96W2DI",
+    "id" : "0hk8VgR64voU5ueK96W2DI",
+    "name" : "DeVotchKa",
+    "type" : "artist",
+    "uri" : "spotify:artist:0hk8VgR64voU5ueK96W2DI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 277786,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US39Z0604005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Ltielt7kwSWYoaAjSabiA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Ltielt7kwSWYoaAjSabiA",
+  "id" : "3Ltielt7kwSWYoaAjSabiA",
+  "name" : "Venus in Furs",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6669fc8381fdab334f8487f472fce72236eef580?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3Ltielt7kwSWYoaAjSabiA"
+}

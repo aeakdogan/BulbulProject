@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tVc31isarO5guX1jYDYt0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tVc31isarO5guX1jYDYt0",
+      "id" : "3tVc31isarO5guX1jYDYt0",
+      "name" : "John Pinette",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tVc31isarO5guX1jYDYt0"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0WnRnUx62g5Vpao2EhQa9B"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0WnRnUx62g5Vpao2EhQa9B",
+    "id" : "0WnRnUx62g5Vpao2EhQa9B",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c9357530378c9aa33c53cce27af0c0ba079cf2f1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4682e96f99cf65f9f075c9965c9664bcbf76e6bb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9d39c3990f06a9476c8622460fb6da1eb7c97946",
+      "width" : 64
+    } ],
+    "name" : "I'm Starvin'",
+    "type" : "album",
+    "uri" : "spotify:album:0WnRnUx62g5Vpao2EhQa9B"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3tVc31isarO5guX1jYDYt0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3tVc31isarO5guX1jYDYt0",
+    "id" : "3tVc31isarO5guX1jYDYt0",
+    "name" : "John Pinette",
+    "type" : "artist",
+    "uri" : "spotify:artist:3tVc31isarO5guX1jYDYt0"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 380106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIM50701840"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5vkVWwXbNugJFcr1cwTDin"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5vkVWwXbNugJFcr1cwTDin",
+  "id" : "5vkVWwXbNugJFcr1cwTDin",
+  "name" : "Camping",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/797848f8eaee5f7be48d4dd2b52b75a77d76f2eb?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:5vkVWwXbNugJFcr1cwTDin"
+}

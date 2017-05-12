@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7IbO8NvxclKsk7WTOZ42bv",
+      "id" : "7IbO8NvxclKsk7WTOZ42bv",
+      "name" : "Terence Blanchard",
+      "type" : "artist",
+      "uri" : "spotify:artist:7IbO8NvxclKsk7WTOZ42bv"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1J7ImllW72eoKLmmXWUGt7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1J7ImllW72eoKLmmXWUGt7",
+    "id" : "1J7ImllW72eoKLmmXWUGt7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7a888ecd725dff7b40414cf394a61880143a216c",
+      "width" : 636
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d32ec638c75eb7c085975cafa44e878b78bf96ba",
+      "width" : 298
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6aa51c0b4d87ad7dbebe0c94be5c93cb3b38440f",
+      "width" : 64
+    } ],
+    "name" : "25th Hour",
+    "type" : "album",
+    "uri" : "spotify:album:1J7ImllW72eoKLmmXWUGt7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7IbO8NvxclKsk7WTOZ42bv",
+    "id" : "7IbO8NvxclKsk7WTOZ42bv",
+    "name" : "Terence Blanchard",
+    "type" : "artist",
+    "uri" : "spotify:artist:7IbO8NvxclKsk7WTOZ42bv"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 335200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USHR10220221"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5uvA7XslH3846QUlfiLSVh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5uvA7XslH3846QUlfiLSVh",
+  "id" : "5uvA7XslH3846QUlfiLSVh",
+  "name" : "Ground Zero - Original Soundtrack Version",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/25b1707d2ea07edf7f8cc30d8a58de2f20c591df?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5uvA7XslH3846QUlfiLSVh"
+}

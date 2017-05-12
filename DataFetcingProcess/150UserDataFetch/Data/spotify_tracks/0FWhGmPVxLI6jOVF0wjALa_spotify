@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7zliF6Q946WznVk3ZMYhZX",
+      "id" : "7zliF6Q946WznVk3ZMYhZX",
+      "name" : "The Sugarhill Gang",
+      "type" : "artist",
+      "uri" : "spotify:artist:7zliF6Q946WznVk3ZMYhZX"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ccON60mNYkYjzOfu3XBoT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ccON60mNYkYjzOfu3XBoT",
+    "id" : "5ccON60mNYkYjzOfu3XBoT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/02c8866a04dafb772601ad85b189e14b507303f9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8666d62d383b40f577496c43beeb310a51b89289",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c4ea731be3b0ba6955e8edfbe649edded5f91353",
+      "width" : 64
+    } ],
+    "name" : "Rhino Hi-Five: The Sugarhill Gang",
+    "type" : "album",
+    "uri" : "spotify:album:5ccON60mNYkYjzOfu3XBoT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7zliF6Q946WznVk3ZMYhZX",
+    "id" : "7zliF6Q946WznVk3ZMYhZX",
+    "name" : "The Sugarhill Gang",
+    "type" : "artist",
+    "uri" : "spotify:artist:7zliF6Q946WznVk3ZMYhZX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 427360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRH10403145"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0FWhGmPVxLI6jOVF0wjALa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0FWhGmPVxLI6jOVF0wjALa",
+  "id" : "0FWhGmPVxLI6jOVF0wjALa",
+  "name" : "Rapper's Delight",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4b9ea6b2d929b4a224c52512761703725acf96a9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0FWhGmPVxLI6jOVF0wjALa"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cXCuJjbyxee1uCILXatYZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cXCuJjbyxee1uCILXatYZ",
+      "id" : "5cXCuJjbyxee1uCILXatYZ",
+      "name" : "Scala & Kolacny Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cXCuJjbyxee1uCILXatYZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Op9gyiC0Bee2CPu5DiJdu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Op9gyiC0Bee2CPu5DiJdu",
+    "id" : "0Op9gyiC0Bee2CPu5DiJdu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f1f13448e93a3f270f0be9f69b286449d73e0fc3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7ce527629fa623795c9406dbdda7215dee7f740c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bdb0902f1b2a75fe8fe2fae0cbe952a8dd95f3bf",
+      "width" : 64
+    } ],
+    "name" : "Circle",
+    "type" : "album",
+    "uri" : "spotify:album:0Op9gyiC0Bee2CPu5DiJdu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5cXCuJjbyxee1uCILXatYZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5cXCuJjbyxee1uCILXatYZ",
+    "id" : "5cXCuJjbyxee1uCILXatYZ",
+    "name" : "Scala & Kolacny Brothers",
+    "type" : "artist",
+    "uri" : "spotify:artist:5cXCuJjbyxee1uCILXatYZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 192720,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEY791000004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7ilSAUShpU2ySw5iGcnCKx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7ilSAUShpU2ySw5iGcnCKx",
+  "id" : "7ilSAUShpU2ySw5iGcnCKx",
+  "name" : "California Dreamin'",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a4854e4d19561ee2187cae6e095e348550e1a330?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7ilSAUShpU2ySw5iGcnCKx"
+}

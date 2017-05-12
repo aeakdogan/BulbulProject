@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+      "name" : "Metallica",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/69oeRoYEpSsNPGVuYRxfoB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/69oeRoYEpSsNPGVuYRxfoB",
+    "id" : "69oeRoYEpSsNPGVuYRxfoB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d915b615ae1f2799d9eed5c9a673536031d45822",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/198283539f6fc4963a9e7f174165a40af12ac27a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c4c28b8d2189aa76c1866d81cabbb29c6de92cc9",
+      "width" : 64
+    } ],
+    "name" : "...And Justice For All",
+    "type" : "album",
+    "uri" : "spotify:album:69oeRoYEpSsNPGVuYRxfoB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+    "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+    "name" : "Metallica",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 447440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10001274"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/64Ret7Tf2M8pDE4aqbW2tX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/64Ret7Tf2M8pDE4aqbW2tX",
+  "id" : "64Ret7Tf2M8pDE4aqbW2tX",
+  "name" : "One",
+  "popularity" : 63,
+  "preview_url" : "https://p.scdn.co/mp3-preview/38701233fcbb321f72ee04c7980dee80915d2667?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:64Ret7Tf2M8pDE4aqbW2tX"
+}

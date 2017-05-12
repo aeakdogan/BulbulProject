@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1o4xLcugkCtDDOw7POAMha",
+      "id" : "1o4xLcugkCtDDOw7POAMha",
+      "name" : "The Notwist",
+      "type" : "artist",
+      "uri" : "spotify:artist:1o4xLcugkCtDDOw7POAMha"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5CYpzARCKeJEjwUv7Sl2gz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5CYpzARCKeJEjwUv7Sl2gz",
+    "id" : "5CYpzARCKeJEjwUv7Sl2gz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/71f601ecd383dbaa70ee2cd1e907f0666fa98ca0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ead7c24963f10eaadc64f42651a7fa448511ca40",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/55cac3a64d3db7856f0ef7a79f7fad7b20ba3cd1",
+      "width" : 64
+    } ],
+    "name" : "Shrink",
+    "type" : "album",
+    "uri" : "spotify:album:5CYpzARCKeJEjwUv7Sl2gz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1o4xLcugkCtDDOw7POAMha",
+    "id" : "1o4xLcugkCtDDOw7POAMha",
+    "name" : "The Notwist",
+    "type" : "artist",
+    "uri" : "spotify:artist:1o4xLcugkCtDDOw7POAMha"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 264840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEAF71346506"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5hFHwbr0u4m2ES0EgJW0L0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5hFHwbr0u4m2ES0EgJW0L0",
+  "id" : "5hFHwbr0u4m2ES0EgJW0L0",
+  "name" : "Shrink",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fc30f26ca015383a0287baa120f4684c84ae4f8f?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5hFHwbr0u4m2ES0EgJW0L0"
+}

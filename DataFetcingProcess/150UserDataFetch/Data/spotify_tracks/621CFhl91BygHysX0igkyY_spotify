@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0FC1LIeQXKib0jOwZqeIwT",
+      "id" : "0FC1LIeQXKib0jOwZqeIwT",
+      "name" : "Brett Dennen",
+      "type" : "artist",
+      "uri" : "spotify:artist:0FC1LIeQXKib0jOwZqeIwT"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7qF9HEA57AL9dPGlipcDvF",
+    "id" : "7qF9HEA57AL9dPGlipcDvF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/96ddf4684c2117d1b0c468c413d59ffbf5fce64c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1d3499b49571bc298131a00222bc1cf710a0dec9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f0f526e29d292a8e4f1ef9beeb895c284c00a4dc",
+      "width" : 64
+    } ],
+    "name" : "The Definitive Collection",
+    "type" : "album",
+    "uri" : "spotify:album:7qF9HEA57AL9dPGlipcDvF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0FC1LIeQXKib0jOwZqeIwT",
+    "id" : "0FC1LIeQXKib0jOwZqeIwT",
+    "name" : "Brett Dennen",
+    "type" : "artist",
+    "uri" : "spotify:artist:0FC1LIeQXKib0jOwZqeIwT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 205213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDMG1262907"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/621CFhl91BygHysX0igkyY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/621CFhl91BygHysX0igkyY",
+  "id" : "621CFhl91BygHysX0igkyY",
+  "name" : "Comeback Kid (That's My Dog)",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c7f7df14f6bf648c54a810f4e0292aaffe2e67be?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:621CFhl91BygHysX0igkyY"
+}

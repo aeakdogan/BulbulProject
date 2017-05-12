@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21ysNsPzHdqYN2fQ75ZswG",
+      "id" : "21ysNsPzHdqYN2fQ75ZswG",
+      "name" : "Ted Nugent",
+      "type" : "artist",
+      "uri" : "spotify:artist:21ysNsPzHdqYN2fQ75ZswG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5vndJ1bTQkvu3HZaJjgomB",
+    "id" : "5vndJ1bTQkvu3HZaJjgomB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/90586c06cfed37253fec695e4e3856b664e10d8b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2d8b6bbc2d26deca53820bb910b5e37595378d84",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8723708b73b44be0caedbe58c6f2aa165f137ea4",
+      "width" : 64
+    } ],
+    "name" : "Cat Scratch Fever",
+    "type" : "album",
+    "uri" : "spotify:album:5vndJ1bTQkvu3HZaJjgomB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/21ysNsPzHdqYN2fQ75ZswG",
+    "id" : "21ysNsPzHdqYN2fQ75ZswG",
+    "name" : "Ted Nugent",
+    "type" : "artist",
+    "uri" : "spotify:artist:21ysNsPzHdqYN2fQ75ZswG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 219400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19804006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0SvfyHYDp2uIsHt53LDlI9",
+  "id" : "0SvfyHYDp2uIsHt53LDlI9",
+  "name" : "Cat Scratch Fever",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1a08de6d022323bdf923f888c65fd6d078706e81?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0SvfyHYDp2uIsHt53LDlI9"
+}

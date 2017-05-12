@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5S0AJvE9NB1kGrXRfYh690",
+      "id" : "5S0AJvE9NB1kGrXRfYh690",
+      "name" : "Daniel Lanois",
+      "type" : "artist",
+      "uri" : "spotify:artist:5S0AJvE9NB1kGrXRfYh690"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/05tAz0b9gHjjlpaIOxNvfy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/05tAz0b9gHjjlpaIOxNvfy",
+    "id" : "05tAz0b9gHjjlpaIOxNvfy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4ac7ff611bd508be2f7516b5d0a55caa5defc372",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8431dfd6a85acded5077a3640943dffda783bccb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4b8797dc6159df002d85ce540aa823ce35f692f9",
+      "width" : 64
+    } ],
+    "name" : "Belladonna",
+    "type" : "album",
+    "uri" : "spotify:album:05tAz0b9gHjjlpaIOxNvfy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5S0AJvE9NB1kGrXRfYh690",
+    "id" : "5S0AJvE9NB1kGrXRfYh690",
+    "name" : "Daniel Lanois",
+    "type" : "artist",
+    "uri" : "spotify:artist:5S0AJvE9NB1kGrXRfYh690"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 147333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP40504112"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3jl34exVXaxO2T0XpBkBZl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3jl34exVXaxO2T0XpBkBZl",
+  "id" : "3jl34exVXaxO2T0XpBkBZl",
+  "name" : "Flametop Green",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/be30a73c6d52ef9a2e6ce6cd8a5c62b90fcb7085?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:3jl34exVXaxO2T0XpBkBZl"
+}

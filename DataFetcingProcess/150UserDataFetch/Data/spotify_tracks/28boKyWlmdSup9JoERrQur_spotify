@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+      "id" : "2tRsMl4eGxwoNabM08Dm4I",
+      "name" : "Judas Priest",
+      "type" : "artist",
+      "uri" : "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2k2m2GaoRsa0aDxo6Z2lEQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2k2m2GaoRsa0aDxo6Z2lEQ",
+    "id" : "2k2m2GaoRsa0aDxo6Z2lEQ",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/39d48dc23c594977d0aa985add38f1b22e281916",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/cd4e320872d2c7d5bb97ddda1850481bcfa92a81",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/43b5e8ec49575d04b5a853592523f69d2e9962d8",
+      "width" : 64
+    } ],
+    "name" : "Nostradamus",
+    "type" : "album",
+    "uri" : "spotify:album:2k2m2GaoRsa0aDxo6Z2lEQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+    "id" : "2tRsMl4eGxwoNabM08Dm4I",
+    "name" : "Judas Priest",
+    "type" : "artist",
+    "uri" : "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 403133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL0800500"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/28boKyWlmdSup9JoERrQur"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/28boKyWlmdSup9JoERrQur",
+  "id" : "28boKyWlmdSup9JoERrQur",
+  "name" : "Nostradamus",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a7f474a973564f22e3eeec55da989af4bedc5209?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:28boKyWlmdSup9JoERrQur"
+}

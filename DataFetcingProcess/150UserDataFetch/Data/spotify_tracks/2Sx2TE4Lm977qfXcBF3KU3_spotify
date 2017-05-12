@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Q9nxD19emMUTTWtFi7jZc",
+      "id" : "1Q9nxD19emMUTTWtFi7jZc",
+      "name" : "The Afters",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Q9nxD19emMUTTWtFi7jZc"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2jfE3gjVUQTWP9N7sNXuA5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2jfE3gjVUQTWP9N7sNXuA5",
+    "id" : "2jfE3gjVUQTWP9N7sNXuA5",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/ac8329d7e342d58dff3e16376f7743f55cfd1956",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/4c091979dbc33121ac563302eef961b4a56e3480",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b0d76fce191093b42b19eeaef889d6b664be8d93",
+      "width" : 64
+    } ],
+    "name" : "I Wish We All Could Win",
+    "type" : "album",
+    "uri" : "spotify:album:2jfE3gjVUQTWP9N7sNXuA5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Q9nxD19emMUTTWtFi7jZc",
+    "id" : "1Q9nxD19emMUTTWtFi7jZc",
+    "name" : "The Afters",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Q9nxD19emMUTTWtFi7jZc"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USM2C0510001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Sx2TE4Lm977qfXcBF3KU3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Sx2TE4Lm977qfXcBF3KU3",
+  "id" : "2Sx2TE4Lm977qfXcBF3KU3",
+  "name" : "Beautiful Love",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0c76e11b3f06e50bfb3a53235dcd9ea32454df76?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2Sx2TE4Lm977qfXcBF3KU3"
+}

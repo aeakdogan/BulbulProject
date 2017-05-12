@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3C8RpaI3Go0yFF9whvKoED",
+      "id" : "3C8RpaI3Go0yFF9whvKoED",
+      "name" : "The Avalanches",
+      "type" : "artist",
+      "uri" : "spotify:artist:3C8RpaI3Go0yFF9whvKoED"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3GBnNRYsxBfEeMSMmTpJ25"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3GBnNRYsxBfEeMSMmTpJ25",
+    "id" : "3GBnNRYsxBfEeMSMmTpJ25",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/69e79754dea584219d46a4956a81ec0e473704a1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f2151cea326a83ce27c6bfd02bf4174b3fa1fcd1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/adcffb67bfa81239f02fb48541b48cc8e36572bc",
+      "width" : 64
+    } ],
+    "name" : "Since I Left You",
+    "type" : "album",
+    "uri" : "spotify:album:3GBnNRYsxBfEeMSMmTpJ25"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3C8RpaI3Go0yFF9whvKoED",
+    "id" : "3C8RpaI3Go0yFF9whvKoED",
+    "name" : "The Avalanches",
+    "type" : "artist",
+    "uri" : "spotify:artist:3C8RpaI3Go0yFF9whvKoED"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 261000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUMP00100095"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/516V4vS25xnGdVgkBWO6Wf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/516V4vS25xnGdVgkBWO6Wf",
+  "id" : "516V4vS25xnGdVgkBWO6Wf",
+  "name" : "Since I Left You",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f95b0155daccfd02423dcdb43f4dae907e63cc3a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:516V4vS25xnGdVgkBWO6Wf"
+}

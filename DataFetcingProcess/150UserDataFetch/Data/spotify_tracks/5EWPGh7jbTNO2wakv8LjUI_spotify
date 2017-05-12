@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4MVyzYMgTwdP7Z49wAZHx0",
+      "id" : "4MVyzYMgTwdP7Z49wAZHx0",
+      "name" : "Lynyrd Skynyrd",
+      "type" : "artist",
+      "uri" : "spotify:artist:4MVyzYMgTwdP7Z49wAZHx0"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6DExt1eX4lflLacVjHHbOs",
+    "id" : "6DExt1eX4lflLacVjHHbOs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a30e6162907f82794bd32351ca8a8e0c6b91d8f5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/be1e6bae0c58ae8cb28fc0ba7e89efd6f995f37c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5db2f07b75476a72f7dfd0254c494fd12ab0f64b",
+      "width" : 64
+    } ],
+    "name" : "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+    "type" : "album",
+    "uri" : "spotify:album:6DExt1eX4lflLacVjHHbOs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4MVyzYMgTwdP7Z49wAZHx0",
+    "id" : "4MVyzYMgTwdP7Z49wAZHx0",
+    "name" : "Lynyrd Skynyrd",
+    "type" : "artist",
+    "uri" : "spotify:artist:4MVyzYMgTwdP7Z49wAZHx0"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 547106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC17301722"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5EWPGh7jbTNO2wakv8LjUI",
+  "id" : "5EWPGh7jbTNO2wakv8LjUI",
+  "name" : "Free Bird",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/82fea86ed3cc7a597c3811b56bbf965b5bba36d1?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5EWPGh7jbTNO2wakv8LjUI"
+}

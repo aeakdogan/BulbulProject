@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2vygNfdnPBXah21ZrqhxYk",
+      "id" : "2vygNfdnPBXah21ZrqhxYk",
+      "name" : "A Certain Ratio",
+      "type" : "artist",
+      "uri" : "spotify:artist:2vygNfdnPBXah21ZrqhxYk"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5HfEUEumsWi3JmUqGCy7Jc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5HfEUEumsWi3JmUqGCy7Jc",
+    "id" : "5HfEUEumsWi3JmUqGCy7Jc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e138411f1025873cc9b15eaa3e6dcf79394d762e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3ce3cca6ed76d0a75373538d3a71d88d6091475e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c83503ffc881f872d4818ec8f174d4ae89908cf7",
+      "width" : 64
+    } ],
+    "name" : "Sextet",
+    "type" : "album",
+    "uri" : "spotify:album:5HfEUEumsWi3JmUqGCy7Jc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2vygNfdnPBXah21ZrqhxYk",
+    "id" : "2vygNfdnPBXah21ZrqhxYk",
+    "name" : "A Certain Ratio",
+    "type" : "artist",
+    "uri" : "spotify:artist:2vygNfdnPBXah21ZrqhxYk"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 131240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBYHX0900042"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Seq1PHktkSfXnltj9dlR1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Seq1PHktkSfXnltj9dlR1",
+  "id" : "0Seq1PHktkSfXnltj9dlR1",
+  "name" : "Skipscada",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6548c24c797a2c45aec2bdb046994ad0d778445e?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0Seq1PHktkSfXnltj9dlR1"
+}

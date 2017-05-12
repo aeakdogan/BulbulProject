@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7EFB09NxZrMi9pGlOnuBpd",
+      "id" : "7EFB09NxZrMi9pGlOnuBpd",
+      "name" : "The Horrors",
+      "type" : "artist",
+      "uri" : "spotify:artist:7EFB09NxZrMi9pGlOnuBpd"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2py8SDBSpqHHlFPlExqDKp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2py8SDBSpqHHlFPlExqDKp",
+    "id" : "2py8SDBSpqHHlFPlExqDKp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/19e2f30c20101e1e6af0a8a71ba5a3f2a82c1eb8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1ff9b29b725af49aa9f6938d48ed20ecedbbeba8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cb82bca06659a5669a295587c8d09d56ddd835db",
+      "width" : 64
+    } ],
+    "name" : "Primary Colours",
+    "type" : "album",
+    "uri" : "spotify:album:2py8SDBSpqHHlFPlExqDKp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7EFB09NxZrMi9pGlOnuBpd",
+    "id" : "7EFB09NxZrMi9pGlOnuBpd",
+    "name" : "The Horrors",
+    "type" : "artist",
+    "uri" : "spotify:artist:7EFB09NxZrMi9pGlOnuBpd"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 290506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0900055"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4scWeerpolAhBZtqTnkYxj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4scWeerpolAhBZtqTnkYxj",
+  "id" : "4scWeerpolAhBZtqTnkYxj",
+  "name" : "Mirror’s Image",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2cbaccf7f74336366aa6d73cbac3db5bc8eb6230?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4scWeerpolAhBZtqTnkYxj"
+}

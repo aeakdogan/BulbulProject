@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN",
+      "id" : "2AM4ilv6UzW0uMRuqKtDgN",
+      "name" : "ZZ Top",
+      "type" : "artist",
+      "uri" : "spotify:artist:2AM4ilv6UzW0uMRuqKtDgN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LV", "MC", "MT", "MX", "MY", "NI", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5LMGAYhn2ywaxGZdtmXGpw",
+    "id" : "5LMGAYhn2ywaxGZdtmXGpw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/339704434b2733dbeb446472e588d03d5423084b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fa3406908c699a75fdaca80e9a615986ced017d1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/599360ea5b3ce14e7686a66e3d4c433c711e551d",
+      "width" : 64
+    } ],
+    "name" : "Eliminator",
+    "type" : "album",
+    "uri" : "spotify:album:5LMGAYhn2ywaxGZdtmXGpw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN",
+    "id" : "2AM4ilv6UzW0uMRuqKtDgN",
+    "name" : "ZZ Top",
+    "type" : "artist",
+    "uri" : "spotify:artist:2AM4ilv6UzW0uMRuqKtDgN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LV", "MC", "MT", "MX", "MY", "NI", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 241080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10702680"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0OBwxFLu6Yj61s2OagYbgY",
+  "id" : "0OBwxFLu6Yj61s2OagYbgY",
+  "name" : "Gimme All Your Lovin'",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/381534e59713aa578d67c8ad3e96cd13ee6a1932?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0OBwxFLu6Yj61s2OagYbgY"
+}

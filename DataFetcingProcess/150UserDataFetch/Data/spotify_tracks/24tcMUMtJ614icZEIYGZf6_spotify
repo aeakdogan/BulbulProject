@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3dkbV4qihUeMsqN4vBGg93",
+      "id" : "3dkbV4qihUeMsqN4vBGg93",
+      "name" : "Al Green",
+      "type" : "artist",
+      "uri" : "spotify:artist:3dkbV4qihUeMsqN4vBGg93"
+    } ],
+    "available_markets" : [ "CA", "HK", "ID", "JP", "MX", "MY", "PH", "SG", "TW", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1qJYJXvBhADUYao9hl8Fnz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1qJYJXvBhADUYao9hl8Fnz",
+    "id" : "1qJYJXvBhADUYao9hl8Fnz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/673aaa96b2847c062da2ff4ffadede919256ea27",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f303250aecf7ce2c250144ec15a9cbd7edfd00e2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eec2efdd4f82e7c095e62564f11084f3b9af3044",
+      "width" : 64
+    } ],
+    "name" : "Al Green Is Blues",
+    "type" : "album",
+    "uri" : "spotify:album:1qJYJXvBhADUYao9hl8Fnz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3dkbV4qihUeMsqN4vBGg93",
+    "id" : "3dkbV4qihUeMsqN4vBGg93",
+    "name" : "Al Green",
+    "type" : "artist",
+    "uri" : "spotify:artist:3dkbV4qihUeMsqN4vBGg93"
+  } ],
+  "available_markets" : [ "CA", "HK", "ID", "JP", "MX", "MY", "PH", "SG", "TW", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 148533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFP71553504"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/24tcMUMtJ614icZEIYGZf6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/24tcMUMtJ614icZEIYGZf6",
+  "id" : "24tcMUMtJ614icZEIYGZf6",
+  "name" : "The Letter",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0c442a3e36e76b8fd13cfa7907ec82526232a1cf?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:24tcMUMtJ614icZEIYGZf6"
+}

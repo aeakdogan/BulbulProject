@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+      "name" : "Metallica",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3wAdN3V06Btox7NjFfBKRC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3wAdN3V06Btox7NjFfBKRC",
+    "id" : "3wAdN3V06Btox7NjFfBKRC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/900671b1f01757f81e584170142baf21a2723f5a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2d2f59e659980a4d1c0df11d99000a8cbb759e98",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/70d0f57cf2671abe513b03bdf6a5264a35e2436f",
+      "width" : 64
+    } ],
+    "name" : "Death Magnetic",
+    "type" : "album",
+    "uri" : "spotify:album:3wAdN3V06Btox7NjFfBKRC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+    "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+    "name" : "Metallica",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 466586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10805469"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6xcpkEEppRQOqmo5MWflyF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6xcpkEEppRQOqmo5MWflyF",
+  "id" : "6xcpkEEppRQOqmo5MWflyF",
+  "name" : "The Unforgiven III",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/057544bfa87620e18d2cc7e2f8ccf018361d47c5?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6xcpkEEppRQOqmo5MWflyF"
+}

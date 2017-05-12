@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/08YvZ2qzFrDSITfHLbPKMP",
+      "id" : "08YvZ2qzFrDSITfHLbPKMP",
+      "name" : "Lamb",
+      "type" : "artist",
+      "uri" : "spotify:artist:08YvZ2qzFrDSITfHLbPKMP"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ZnBHiditkrlmC2wTpNdMZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ZnBHiditkrlmC2wTpNdMZ",
+    "id" : "0ZnBHiditkrlmC2wTpNdMZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/04acc67abd686551958017210154c03befba99d2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1e9ae18d8dc11eff60c3fe90e506a45097e60320",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c09132e6393e5a91fd34f0859b7d4e48703170b6",
+      "width" : 64
+    } ],
+    "name" : "Lamb",
+    "type" : "album",
+    "uri" : "spotify:album:0ZnBHiditkrlmC2wTpNdMZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/08YvZ2qzFrDSITfHLbPKMP",
+    "id" : "08YvZ2qzFrDSITfHLbPKMP",
+    "name" : "Lamb",
+    "type" : "artist",
+    "uri" : "spotify:artist:08YvZ2qzFrDSITfHLbPKMP"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 329973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF089601185"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3wAmPIeTD7VyTXx8TxneLs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3wAmPIeTD7VyTXx8TxneLs",
+  "id" : "3wAmPIeTD7VyTXx8TxneLs",
+  "name" : "Zero",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8874a68a6258bbbd55a0472c8d52c6532cdce8a7?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3wAmPIeTD7VyTXx8TxneLs"
+}

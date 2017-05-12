@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+      },
+      "href" : "https://api.spotify.com/v1/artists/65EXuYHVoehCKqp0kOS6px",
+      "id" : "65EXuYHVoehCKqp0kOS6px",
+      "name" : "Parov Stelar",
+      "type" : "artist",
+      "uri" : "spotify:artist:65EXuYHVoehCKqp0kOS6px"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3UpqazvXFCYmC4yQDL9E8L"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3UpqazvXFCYmC4yQDL9E8L",
+    "id" : "3UpqazvXFCYmC4yQDL9E8L",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/26fd10a5f2ab5a8b9bc537c6803d0746e74ada3c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3823a5e469b7678066abf1ba117f951a68e8fe86",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/05d8bd20a47d3bce43ccc5f6c4975386f1781b0f",
+      "width" : 64
+    } ],
+    "name" : "The Princess",
+    "type" : "album",
+    "uri" : "spotify:album:3UpqazvXFCYmC4yQDL9E8L"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+    },
+    "href" : "https://api.spotify.com/v1/artists/65EXuYHVoehCKqp0kOS6px",
+    "id" : "65EXuYHVoehCKqp0kOS6px",
+    "name" : "Parov Stelar",
+    "type" : "artist",
+    "uri" : "spotify:artist:65EXuYHVoehCKqp0kOS6px"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 71346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATE612000009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3SrQgb7RtNXqlNKPpFXy6g"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3SrQgb7RtNXqlNKPpFXy6g",
+  "id" : "3SrQgb7RtNXqlNKPpFXy6g",
+  "name" : "Requiem for Annie",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/65d99bf4be8133d557f2f38a5d8c7f717e17570a?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3SrQgb7RtNXqlNKPpFXy6g"
+}

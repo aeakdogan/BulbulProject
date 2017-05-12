@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/615PlJiTuB5O3F424mvtHq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/615PlJiTuB5O3F424mvtHq",
+      "id" : "615PlJiTuB5O3F424mvtHq",
+      "name" : "Acid House Kings",
+      "type" : "artist",
+      "uri" : "spotify:artist:615PlJiTuB5O3F424mvtHq"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/78BAR5YhARvtG9OYHnVGAF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/78BAR5YhARvtG9OYHnVGAF",
+    "id" : "78BAR5YhARvtG9OYHnVGAF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dc6285e4eafd636644b6cffce5c916bde148cdb4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c3099081a4eeab1e3d5fdf5f4cf1adbb7d703031",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dce21a70da31eca4cc6fcb7a0264c3b1b61ac9bd",
+      "width" : 64
+    } ],
+    "name" : "Sing Along With Acid House Kings",
+    "type" : "album",
+    "uri" : "spotify:album:78BAR5YhARvtG9OYHnVGAF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/615PlJiTuB5O3F424mvtHq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/615PlJiTuB5O3F424mvtHq",
+    "id" : "615PlJiTuB5O3F424mvtHq",
+    "name" : "Acid House Kings",
+    "type" : "artist",
+    "uri" : "spotify:artist:615PlJiTuB5O3F424mvtHq"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 137040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEVMM0501004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/30Vl1kGBFGb5FshXU679MV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/30Vl1kGBFGb5FshXU679MV",
+  "id" : "30Vl1kGBFGb5FshXU679MV",
+  "name" : "London School of Economics",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/06d94fae2ff7affa50b83eb0d33ef5532679ce92?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:30Vl1kGBFGb5FshXU679MV"
+}

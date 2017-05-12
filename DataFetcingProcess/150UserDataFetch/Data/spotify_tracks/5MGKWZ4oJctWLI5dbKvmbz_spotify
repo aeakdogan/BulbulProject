@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3UbyYnvNIT5DFXU4WgiGpP",
+      "id" : "3UbyYnvNIT5DFXU4WgiGpP",
+      "name" : "Whitesnake",
+      "type" : "artist",
+      "uri" : "spotify:artist:3UbyYnvNIT5DFXU4WgiGpP"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2sVdesGlVT0MKRVFHbpbZn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2sVdesGlVT0MKRVFHbpbZn",
+    "id" : "2sVdesGlVT0MKRVFHbpbZn",
+    "images" : [ {
+      "height" : 638,
+      "url" : "https://i.scdn.co/image/4c161cd53c20124e201e2a14117e368480d871f1",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/3c3b4b6687e7af673b5dacf54e488660b99457d3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3d253ba6625e86c05a5f3a0de55ad5b59d349d16",
+      "width" : 64
+    } ],
+    "name" : "Whitesnake's Greatest Hits",
+    "type" : "album",
+    "uri" : "spotify:album:2sVdesGlVT0MKRVFHbpbZn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3UbyYnvNIT5DFXU4WgiGpP",
+    "id" : "3UbyYnvNIT5DFXU4WgiGpP",
+    "name" : "Whitesnake",
+    "type" : "artist",
+    "uri" : "spotify:artist:3UbyYnvNIT5DFXU4WgiGpP"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 391773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF19962005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5MGKWZ4oJctWLI5dbKvmbz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5MGKWZ4oJctWLI5dbKvmbz",
+  "id" : "5MGKWZ4oJctWLI5dbKvmbz",
+  "name" : "Looking For Love",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1a31685394b46907fc97b7705d2a95c8a36068c5?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5MGKWZ4oJctWLI5dbKvmbz"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DpIDwg8FGD50N9Tfunfsf",
+      "id" : "1DpIDwg8FGD50N9Tfunfsf",
+      "name" : "The Manhattans",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DpIDwg8FGD50N9Tfunfsf"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4shPsyHdXeoYwJeqt10Ttq",
+    "id" : "4shPsyHdXeoYwJeqt10Ttq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cd24be0e20f69c3ba18e9c0a4844f3b91877cc13",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c11f99144f08301470cc9716f6807d7dd151e812",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/abc37dc7f789e5e6d8c5eb7817e8b9daaa5e95ae",
+      "width" : 64
+    } ],
+    "name" : "The Best Of The Manhattans: Kiss And Say Goodbye",
+    "type" : "album",
+    "uri" : "spotify:album:4shPsyHdXeoYwJeqt10Ttq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DpIDwg8FGD50N9Tfunfsf",
+    "id" : "1DpIDwg8FGD50N9Tfunfsf",
+    "name" : "The Manhattans",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DpIDwg8FGD50N9Tfunfsf"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 265626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM17500006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4GBq8IPJieQyxwpHfLCxAx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4GBq8IPJieQyxwpHfLCxAx",
+  "id" : "4GBq8IPJieQyxwpHfLCxAx",
+  "name" : "Kiss and Say Goodbye",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5751de47401b57f9f1f0ac34e3c20e9426ff550b?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4GBq8IPJieQyxwpHfLCxAx"
+}

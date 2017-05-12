@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1yFJnlNMiBUBplMaOP5CMX",
+      "id" : "1yFJnlNMiBUBplMaOP5CMX",
+      "name" : "Lene Lovich",
+      "type" : "artist",
+      "uri" : "spotify:artist:1yFJnlNMiBUBplMaOP5CMX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5qz97wcq8cv3LRLpJr9noR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5qz97wcq8cv3LRLpJr9noR",
+    "id" : "5qz97wcq8cv3LRLpJr9noR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/047f114f36868ef75140b8ddefd012615293362a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f328d8edcc85e0940a1b01bf3e6cdb275c5be42a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f49a7717701327ec3af097d0518e80bac1eb52c6",
+      "width" : 64
+    } ],
+    "name" : "Stateless",
+    "type" : "album",
+    "uri" : "spotify:album:5qz97wcq8cv3LRLpJr9noR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1yFJnlNMiBUBplMaOP5CMX",
+    "id" : "1yFJnlNMiBUBplMaOP5CMX",
+    "name" : "Lene Lovich",
+    "type" : "artist",
+    "uri" : "spotify:artist:1yFJnlNMiBUBplMaOP5CMX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 182373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCCG7900002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/18kanq0EXblDaAEcik91hb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/18kanq0EXblDaAEcik91hb",
+  "id" : "18kanq0EXblDaAEcik91hb",
+  "name" : "Sleeping Beauty",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/48ec9e093871671f5b4afb3192a1a9542126a808?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:18kanq0EXblDaAEcik91hb"
+}

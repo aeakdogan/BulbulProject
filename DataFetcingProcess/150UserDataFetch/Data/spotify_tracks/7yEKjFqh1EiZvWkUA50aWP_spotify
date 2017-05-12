@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1OmdWpAh1pucAuZPzJaxIJ",
+      "id" : "1OmdWpAh1pucAuZPzJaxIJ",
+      "name" : "Calexico",
+      "type" : "artist",
+      "uri" : "spotify:artist:1OmdWpAh1pucAuZPzJaxIJ"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HN", "ID", "MX", "NI", "PA", "PE", "PH", "PY", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7iK9dnURnP9NAcqX73NYsK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7iK9dnURnP9NAcqX73NYsK",
+    "id" : "7iK9dnURnP9NAcqX73NYsK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/592eb9579e50d110ed25241127be1977217961cc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d7d84b125d48e407172dba956c9d9ce903613937",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1e649fd94235bc58741fcebe6989f14463163546",
+      "width" : 64
+    } ],
+    "name" : "Spiritoso",
+    "type" : "album",
+    "uri" : "spotify:album:7iK9dnURnP9NAcqX73NYsK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1OmdWpAh1pucAuZPzJaxIJ",
+    "id" : "1OmdWpAh1pucAuZPzJaxIJ",
+    "name" : "Calexico",
+    "type" : "artist",
+    "uri" : "spotify:artist:1OmdWpAh1pucAuZPzJaxIJ"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HN", "ID", "MX", "NI", "PA", "PE", "PH", "PY", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 330076,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP41307001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7yEKjFqh1EiZvWkUA50aWP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7yEKjFqh1EiZvWkUA50aWP",
+  "id" : "7yEKjFqh1EiZvWkUA50aWP",
+  "name" : "Frontera / Trigger",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/28397ba24ccc5a5784fc90cf8709a4a3f8103011?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7yEKjFqh1EiZvWkUA50aWP"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2eFVsaX3yHLPeWpiqvmeFn",
+      "id" : "2eFVsaX3yHLPeWpiqvmeFn",
+      "name" : "Céu",
+      "type" : "artist",
+      "uri" : "spotify:artist:2eFVsaX3yHLPeWpiqvmeFn"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6irDA0J67XtHKa54RGODl8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6irDA0J67XtHKa54RGODl8",
+    "id" : "6irDA0J67XtHKa54RGODl8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7148d27452a3d616df7f944cf9aa8e60186aaec1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9e77d300dfde54798926323f232d120f757f2f55",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bdc2b65c13b2f194eb06ceda74efdab4efe4530e",
+      "width" : 64
+    } ],
+    "name" : "CéU",
+    "type" : "album",
+    "uri" : "spotify:album:6irDA0J67XtHKa54RGODl8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2eFVsaX3yHLPeWpiqvmeFn",
+    "id" : "2eFVsaX3yHLPeWpiqvmeFn",
+    "name" : "Céu",
+    "type" : "artist",
+    "uri" : "spotify:artist:2eFVsaX3yHLPeWpiqvmeFn"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 207000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BRCUJ0500004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/29U00uc1MqGFQQvKDt9qkg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/29U00uc1MqGFQQvKDt9qkg",
+  "id" : "29U00uc1MqGFQQvKDt9qkg",
+  "name" : "10 Contados",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/75290b4746b6264c1737fc5ff3eaa5623fe906f6?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:29U00uc1MqGFQQvKDt9qkg"
+}

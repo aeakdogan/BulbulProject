@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC",
+      "id" : "5krkohEVJYw0qoB5VWwxaC",
+      "name" : "The Black Crowes",
+      "type" : "artist",
+      "uri" : "spotify:artist:5krkohEVJYw0qoB5VWwxaC"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6MMATL777G4yuW19qIFTtT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6MMATL777G4yuW19qIFTtT",
+    "id" : "6MMATL777G4yuW19qIFTtT",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/05ef62c5f1e895e5e7fdfc19d98293425db68d1e",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/74a2fd300fdb93faa0c503031fa219423a2cc7a3",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/15fb2de21c14781180eda9c5865b188df07a6ba6",
+      "width" : 64
+    } ],
+    "name" : "The Southern Harmony And Musical Companion",
+    "type" : "album",
+    "uri" : "spotify:album:6MMATL777G4yuW19qIFTtT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5krkohEVJYw0qoB5VWwxaC",
+    "id" : "5krkohEVJYw0qoB5VWwxaC",
+    "name" : "The Black Crowes",
+    "type" : "artist",
+    "uri" : "spotify:artist:5krkohEVJYw0qoB5VWwxaC"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 284000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19200291"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4yFoVW30sjXQUccXuy8WW6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4yFoVW30sjXQUccXuy8WW6",
+  "id" : "4yFoVW30sjXQUccXuy8WW6",
+  "name" : "Sometimes Salvation",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/96b49ee412e98bb16bd59bf40e0f141a092d78f3?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:4yFoVW30sjXQUccXuy8WW6"
+}

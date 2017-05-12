@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH",
+      "id" : "6Ghvu1VvMGScGpOUJBAHNH",
+      "name" : "Deftones",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7rLUzHOq0d0mRGGEIqKfli",
+    "id" : "7rLUzHOq0d0mRGGEIqKfli",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/964d363046a148561bfe66c447ea74f43ed5bfc1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a2957f675c1d7da381473d0e5b05ec3d5ddc797d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f79d5537c58e00ed69d3756515cd90adba335b86",
+      "width" : 64
+    } ],
+    "name" : "Covers",
+    "type" : "album",
+    "uri" : "spotify:album:7rLUzHOq0d0mRGGEIqKfli"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH",
+    "id" : "6Ghvu1VvMGScGpOUJBAHNH",
+    "name" : "Deftones",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 330653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMV20500175"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7asm5RVOARNAXcAZP89VCQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7asm5RVOARNAXcAZP89VCQ",
+  "id" : "7asm5RVOARNAXcAZP89VCQ",
+  "name" : "No Ordinary Love",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/de5e21a0f24a7f46740a1447460bb9f3e66d9c23?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7asm5RVOARNAXcAZP89VCQ"
+}

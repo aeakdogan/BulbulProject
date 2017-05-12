@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+      "id" : "6PAt558ZEZl0DmdXlnjMgD",
+      "name" : "Eric Clapton",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5uKWy85xmgOuRrWuXr98b2",
+    "id" : "5uKWy85xmgOuRrWuXr98b2",
+    "images" : [ {
+      "height" : 637,
+      "url" : "https://i.scdn.co/image/4079a2f3e7365a863e12800767107a6c0d6eedb4",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/000e21053522f8fbe1185e63b830949ce38d7528",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f593214678e796e3c9276c572537a7ba0e467f7a",
+      "width" : 64
+    } ],
+    "name" : "Music From The Motion Picture Soundtrack Rush",
+    "type" : "album",
+    "uri" : "spotify:album:5uKWy85xmgOuRrWuXr98b2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6PAt558ZEZl0DmdXlnjMgD",
+    "id" : "6PAt558ZEZl0DmdXlnjMgD",
+    "name" : "Eric Clapton",
+    "type" : "artist",
+    "uri" : "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 200746,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE10001060"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5aVLw54xOoWYV64QHbuWFc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5aVLw54xOoWYV64QHbuWFc",
+  "id" : "5aVLw54xOoWYV64QHbuWFc",
+  "name" : "Preludin Fugue",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fdd57693c9fa7c20d30a757c9b4f0e5a40242dc3?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5aVLw54xOoWYV64QHbuWFc"
+}

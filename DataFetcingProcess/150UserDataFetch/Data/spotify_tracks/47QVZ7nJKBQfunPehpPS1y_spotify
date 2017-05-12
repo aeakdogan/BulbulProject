@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4l2MwXYwUDQKHcUXwCZjEz",
+      "id" : "4l2MwXYwUDQKHcUXwCZjEz",
+      "name" : "José James",
+      "type" : "artist",
+      "uri" : "spotify:artist:4l2MwXYwUDQKHcUXwCZjEz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2AH1K5KVIxR9NeszvMGNIQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2AH1K5KVIxR9NeszvMGNIQ",
+    "id" : "2AH1K5KVIxR9NeszvMGNIQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8bf683d5e3e58cffaac402f532ad4921c0f7576d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6b6a7b79e5731f8782dddce05f8a8c2e30312935",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/de3a903f7013d45136d96abbffb5cc3f61e2a7d6",
+      "width" : 64
+    } ],
+    "name" : "The Dreamer",
+    "type" : "album",
+    "uri" : "spotify:album:2AH1K5KVIxR9NeszvMGNIQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4l2MwXYwUDQKHcUXwCZjEz",
+    "id" : "4l2MwXYwUDQKHcUXwCZjEz",
+    "name" : "José James",
+    "type" : "artist",
+    "uri" : "spotify:artist:4l2MwXYwUDQKHcUXwCZjEz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 300693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBMEF0700091"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/47QVZ7nJKBQfunPehpPS1y"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/47QVZ7nJKBQfunPehpPS1y",
+  "id" : "47QVZ7nJKBQfunPehpPS1y",
+  "name" : "Spirits Up Above",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bb98046bba74660f8d3890573b8d63a28f709e86?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:47QVZ7nJKBQfunPehpPS1y"
+}

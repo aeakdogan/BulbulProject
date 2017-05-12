@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2lmQ4CUnjmLIIfnwZdRmMY",
+      "id" : "2lmQ4CUnjmLIIfnwZdRmMY",
+      "name" : "Blues Pills",
+      "type" : "artist",
+      "uri" : "spotify:artist:2lmQ4CUnjmLIIfnwZdRmMY"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5hXHKqaXLmkGTx7zxbjQDJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5hXHKqaXLmkGTx7zxbjQDJ",
+    "id" : "5hXHKqaXLmkGTx7zxbjQDJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bc05136c025f800d9f36d0ef55f504e716eac601",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/784a828164d05751243e675a21b7337cdcd84f6d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/68886f0b62fb041d21f8260cdab2a0e6fcb8be00",
+      "width" : 64
+    } ],
+    "name" : "Blues Pills",
+    "type" : "album",
+    "uri" : "spotify:album:5hXHKqaXLmkGTx7zxbjQDJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2lmQ4CUnjmLIIfnwZdRmMY",
+    "id" : "2lmQ4CUnjmLIIfnwZdRmMY",
+    "name" : "Blues Pills",
+    "type" : "artist",
+    "uri" : "spotify:artist:2lmQ4CUnjmLIIfnwZdRmMY"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 233586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DED831400537"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2kk3kszElukpGXTTt3HKjH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2kk3kszElukpGXTTt3HKjH",
+  "id" : "2kk3kszElukpGXTTt3HKjH",
+  "name" : "No Hope Left for Me",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b0754affeac8eaad024173819a52049c67d1432e?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2kk3kszElukpGXTTt3HKjH"
+}

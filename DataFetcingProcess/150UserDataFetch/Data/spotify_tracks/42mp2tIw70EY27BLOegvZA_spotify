@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo",
+      "id" : "01C9OoXDvCKkGcf735Tcfo",
+      "name" : "Serge Gainsbourg",
+      "type" : "artist",
+      "uri" : "spotify:artist:01C9OoXDvCKkGcf735Tcfo"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/60Ayl1qqEGtZPTEfJHzTtU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/60Ayl1qqEGtZPTEfJHzTtU",
+    "id" : "60Ayl1qqEGtZPTEfJHzTtU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c62117483fbd5c21be3d92b054016be46f0d0737",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0ea90d209b2276d822630bc6bf1b00b39f2e5a7e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e7a9e1f3c9be4e5e15b3bb6070deb4524ad104fd",
+      "width" : 64
+    } ],
+    "name" : "Intégrale",
+    "type" : "album",
+    "uri" : "spotify:album:60Ayl1qqEGtZPTEfJHzTtU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo",
+    "id" : "01C9OoXDvCKkGcf735Tcfo",
+    "name" : "Serge Gainsbourg",
+    "type" : "artist",
+    "uri" : "spotify:artist:01C9OoXDvCKkGcf735Tcfo"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 8,
+  "duration_ms" : 136066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ036800500"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/42mp2tIw70EY27BLOegvZA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/42mp2tIw70EY27BLOegvZA",
+  "id" : "42mp2tIw70EY27BLOegvZA",
+  "name" : "L'anamour",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9935a11cb9ee5359a54e5cb9595f95792e8e9ebd?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:42mp2tIw70EY27BLOegvZA"
+}

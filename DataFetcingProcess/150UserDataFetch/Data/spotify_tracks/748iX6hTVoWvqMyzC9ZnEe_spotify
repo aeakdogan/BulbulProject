@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4IwOItqRhsIoRuD5HP4vyC",
+      "id" : "4IwOItqRhsIoRuD5HP4vyC",
+      "name" : "Slint",
+      "type" : "artist",
+      "uri" : "spotify:artist:4IwOItqRhsIoRuD5HP4vyC"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1tUKzjfeDtlMwCwwtdM2vp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1tUKzjfeDtlMwCwwtdM2vp",
+    "id" : "1tUKzjfeDtlMwCwwtdM2vp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1909094f4c97fca70dce2f4e6d68041abd2f664b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5f52c3f6cfc9d9b5844f74a638a5f97a40646368",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4d86a52f0929799f0a385c16009f3741a5460d99",
+      "width" : 64
+    } ],
+    "name" : "Tweez",
+    "type" : "album",
+    "uri" : "spotify:album:1tUKzjfeDtlMwCwwtdM2vp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4IwOItqRhsIoRuD5HP4vyC",
+    "id" : "4IwOItqRhsIoRuD5HP4vyC",
+    "name" : "Slint",
+    "type" : "artist",
+    "uri" : "spotify:artist:4IwOItqRhsIoRuD5HP4vyC"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 152506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTG39313807"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/748iX6hTVoWvqMyzC9ZnEe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/748iX6hTVoWvqMyzC9ZnEe",
+  "id" : "748iX6hTVoWvqMyzC9ZnEe",
+  "name" : "Warren",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7f7b6134e17fea540f4531668b48b27fcb994eae?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:748iX6hTVoWvqMyzC9ZnEe"
+}

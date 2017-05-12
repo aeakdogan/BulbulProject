@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2tQ6tsfdwvkyaxc5Lgenve"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2tQ6tsfdwvkyaxc5Lgenve",
+      "id" : "2tQ6tsfdwvkyaxc5Lgenve",
+      "name" : "Devics",
+      "type" : "artist",
+      "uri" : "spotify:artist:2tQ6tsfdwvkyaxc5Lgenve"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3sD8q3mgdqfU5hbafFP4eo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3sD8q3mgdqfU5hbafFP4eo",
+    "id" : "3sD8q3mgdqfU5hbafFP4eo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8d2949cd92a17b29111b78eb71c4735ecccb0a9d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/322cb86c1ddaa1821aa1bc95eddfecb394c2af20",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7e7f323723f490fca77bf68f54731988ba886dbf",
+      "width" : 64
+    } ],
+    "name" : "My Beautiful Sinking Ship",
+    "type" : "album",
+    "uri" : "spotify:album:3sD8q3mgdqfU5hbafFP4eo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2tQ6tsfdwvkyaxc5Lgenve"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2tQ6tsfdwvkyaxc5Lgenve",
+    "id" : "2tQ6tsfdwvkyaxc5Lgenve",
+    "name" : "Devics",
+    "type" : "artist",
+    "uri" : "spotify:artist:2tQ6tsfdwvkyaxc5Lgenve"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 226760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA560447225"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3J6kgfqeGu7lXO557Nabh1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3J6kgfqeGu7lXO557Nabh1",
+  "id" : "3J6kgfqeGu7lXO557Nabh1",
+  "name" : "Heaven Please",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2219f00fe521f14429973787a7142258d6637dcb?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:3J6kgfqeGu7lXO557Nabh1"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2rBcvLKWCZs9w1qIWv560v",
+      "id" : "2rBcvLKWCZs9w1qIWv560v",
+      "name" : "Charlotte Gainsbourg",
+      "type" : "artist",
+      "uri" : "spotify:artist:2rBcvLKWCZs9w1qIWv560v"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4kUNkc7i3s3HHWEZvR5qgq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4kUNkc7i3s3HHWEZvR5qgq",
+    "id" : "4kUNkc7i3s3HHWEZvR5qgq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0e6af348a93c191a39a051b4e0a0f9046b2d451d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bc5729ec048dac6f4b90a770a2e068cff44761e0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7f9ea82b8be205c3a5f42aef407526038444712b",
+      "width" : 64
+    } ],
+    "name" : "5:55",
+    "type" : "album",
+    "uri" : "spotify:album:4kUNkc7i3s3HHWEZvR5qgq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2rBcvLKWCZs9w1qIWv560v",
+    "id" : "2rBcvLKWCZs9w1qIWv560v",
+    "name" : "Charlotte Gainsbourg",
+    "type" : "artist",
+    "uri" : "spotify:artist:2rBcvLKWCZs9w1qIWv560v"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 235933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6P10600150"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2OPLaXTokH4a8oJhbL5dd4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2OPLaXTokH4a8oJhbL5dd4",
+  "id" : "2OPLaXTokH4a8oJhbL5dd4",
+  "name" : "The Operation",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ed13bd0abc86b75eb11d62f9452d2304d710682f?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2OPLaXTokH4a8oJhbL5dd4"
+}

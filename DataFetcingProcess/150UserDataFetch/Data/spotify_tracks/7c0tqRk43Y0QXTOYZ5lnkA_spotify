@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7vWBZm3sQ8yQvfV4nXxHXK",
+      "id" : "7vWBZm3sQ8yQvfV4nXxHXK",
+      "name" : "Cris Cab",
+      "type" : "artist",
+      "uri" : "spotify:artist:7vWBZm3sQ8yQvfV4nXxHXK"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2drxntzHlsigavFiTWYRvF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2drxntzHlsigavFiTWYRvF",
+    "id" : "2drxntzHlsigavFiTWYRvF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/48dec276eccdcc7c1c1542ffdb6cb2bb597e4788",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/77cfeac64fbc9d0edd26cb4aaba54450e1f41cfb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/63f4ec55ef10f1fd88cf7c7f109a1ec9357647b9",
+      "width" : 64
+    } ],
+    "name" : "Where I Belong",
+    "type" : "album",
+    "uri" : "spotify:album:2drxntzHlsigavFiTWYRvF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7vWBZm3sQ8yQvfV4nXxHXK",
+    "id" : "7vWBZm3sQ8yQvfV4nXxHXK",
+    "name" : "Cris Cab",
+    "type" : "artist",
+    "uri" : "spotify:artist:7vWBZm3sQ8yQvfV4nXxHXK"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 213818,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71311524"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7c0tqRk43Y0QXTOYZ5lnkA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7c0tqRk43Y0QXTOYZ5lnkA",
+  "id" : "7c0tqRk43Y0QXTOYZ5lnkA",
+  "name" : "Liar Liar",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f651563644bd354601b0dc531deef5924703a064?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7c0tqRk43Y0QXTOYZ5lnkA"
+}

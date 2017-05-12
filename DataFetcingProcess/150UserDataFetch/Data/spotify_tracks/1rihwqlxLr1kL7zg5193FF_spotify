@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55tif8708yyDQlSjh3Trdu",
+      "id" : "55tif8708yyDQlSjh3Trdu",
+      "name" : "Ben Folds",
+      "type" : "artist",
+      "uri" : "spotify:artist:55tif8708yyDQlSjh3Trdu"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BG", "BO", "BR", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LV", "MC", "MT", "MX", "MY", "NI", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3V8q5Mi44jT2wvKyaMVM3x"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3V8q5Mi44jT2wvKyaMVM3x",
+    "id" : "3V8q5Mi44jT2wvKyaMVM3x",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7b3af84c7c620cc0b9798ca445ac7feef724145f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/be88e4cac2f0f45b8e4cec18483b6a8e0805d0ed",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e4c507278a97a2a035c8a46712569e646ed2386a",
+      "width" : 64
+    } ],
+    "name" : "Way To Normal",
+    "type" : "album",
+    "uri" : "spotify:album:3V8q5Mi44jT2wvKyaMVM3x"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/55tif8708yyDQlSjh3Trdu",
+    "id" : "55tif8708yyDQlSjh3Trdu",
+    "name" : "Ben Folds",
+    "type" : "artist",
+    "uri" : "spotify:artist:55tif8708yyDQlSjh3Trdu"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BG", "BO", "BR", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LV", "MC", "MT", "MX", "MY", "NI", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 189693,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USSM10802782"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1rihwqlxLr1kL7zg5193FF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1rihwqlxLr1kL7zg5193FF",
+  "id" : "1rihwqlxLr1kL7zg5193FF",
+  "name" : "You Don't Know Me (featuring Regina Spektor) - Explicit Album Version",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f657d95d9fc6b7e58afc33901937eff619ef22bf?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1rihwqlxLr1kL7zg5193FF"
+}

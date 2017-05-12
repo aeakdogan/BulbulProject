@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU",
+      "id" : "0kEfub5RzlZOB2zGomqVSU",
+      "name" : "Gil Scott-Heron",
+      "type" : "artist",
+      "uri" : "spotify:artist:0kEfub5RzlZOB2zGomqVSU"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1S5FP0ZGG6XGOIdL8OsrZB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1S5FP0ZGG6XGOIdL8OsrZB",
+    "id" : "1S5FP0ZGG6XGOIdL8OsrZB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/82949c3423fcc79aa122d006b0e718bb77ef9c0d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/631806e3f4f9ce61b8b672000d8f7ad962d24d7a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f2d3224ea2a739bf27d78acaa993a1605d1ebc37",
+      "width" : 64
+    } ],
+    "name" : "I’m New Here",
+    "type" : "album",
+    "uri" : "spotify:album:1S5FP0ZGG6XGOIdL8OsrZB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU",
+    "id" : "0kEfub5RzlZOB2zGomqVSU",
+    "name" : "Gil Scott-Heron",
+    "type" : "artist",
+    "uri" : "spotify:artist:0kEfub5RzlZOB2zGomqVSU"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 74333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS0900552"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5bW6z0wvDgwamB7Ys7R1GU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5bW6z0wvDgwamB7Ys7R1GU",
+  "id" : "5bW6z0wvDgwamB7Ys7R1GU",
+  "name" : "Where Did The Night Go",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f6063357a3991023b85e9757ee2266f2521eea79?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5bW6z0wvDgwamB7Ys7R1GU"
+}

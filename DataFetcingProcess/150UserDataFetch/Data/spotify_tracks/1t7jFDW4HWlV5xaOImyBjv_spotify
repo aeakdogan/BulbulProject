@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ou0138wEd8XWebhc4j7O0",
+      "id" : "0Ou0138wEd8XWebhc4j7O0",
+      "name" : "San Cisco",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ou0138wEd8XWebhc4j7O0"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7pCRUdVwg1S2SSpvsEFxsX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7pCRUdVwg1S2SSpvsEFxsX",
+    "id" : "7pCRUdVwg1S2SSpvsEFxsX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/03ff5e90952bff665c33d2a8b8ff2e017213605d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c2dac61c3155cf95b8e02d09bf82e36bfd3caf2f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dfa070e8e020998872bb03cfa87fcc8ebc71c619",
+      "width" : 64
+    } ],
+    "name" : "San Cisco",
+    "type" : "album",
+    "uri" : "spotify:album:7pCRUdVwg1S2SSpvsEFxsX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Ou0138wEd8XWebhc4j7O0",
+    "id" : "0Ou0138wEd8XWebhc4j7O0",
+    "name" : "San Cisco",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Ou0138wEd8XWebhc4j7O0"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 220560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC11201324"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1t7jFDW4HWlV5xaOImyBjv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1t7jFDW4HWlV5xaOImyBjv",
+  "id" : "1t7jFDW4HWlV5xaOImyBjv",
+  "name" : "Beach",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b0bcba83fe41af05f94eab987bbd2696d7c49075?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1t7jFDW4HWlV5xaOImyBjv"
+}

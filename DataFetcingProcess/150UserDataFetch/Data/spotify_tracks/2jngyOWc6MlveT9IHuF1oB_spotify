@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/61J0BktHv7PuP3tjTPYXSX",
+      "id" : "61J0BktHv7PuP3tjTPYXSX",
+      "name" : "Eros Ramazzotti",
+      "type" : "artist",
+      "uri" : "spotify:artist:61J0BktHv7PuP3tjTPYXSX"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "ES", "GT", "HN", "IT", "MT", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7aCxSW8pYwE5v1lRdw89tF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7aCxSW8pYwE5v1lRdw89tF",
+    "id" : "7aCxSW8pYwE5v1lRdw89tF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/667a337c99eaf6aa60be58098772faf44ce567bc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d7a46c9f4ca1ffa458b611e302c7ebc215c5ab5f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6233c9aea6c9c9d5ccd90d73eb531abef4265e03",
+      "width" : 64
+    } ],
+    "name" : "Eros 30",
+    "type" : "album",
+    "uri" : "spotify:album:7aCxSW8pYwE5v1lRdw89tF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/61J0BktHv7PuP3tjTPYXSX",
+    "id" : "61J0BktHv7PuP3tjTPYXSX",
+    "name" : "Eros Ramazzotti",
+    "type" : "artist",
+    "uri" : "spotify:artist:61J0BktHv7PuP3tjTPYXSX"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "ES", "GT", "HN", "IT", "MT", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 277920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLA200500121"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2jngyOWc6MlveT9IHuF1oB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2jngyOWc6MlveT9IHuF1oB",
+  "id" : "2jngyOWc6MlveT9IHuF1oB",
+  "name" : "Nuestra Vida (La nostra vita)",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c91c00766dbebc0ee8d4495a5e6c3bde5d4d85a8?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:2jngyOWc6MlveT9IHuF1oB"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0RSOEwcMBmhkXmriCCXIXz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0RSOEwcMBmhkXmriCCXIXz",
+      "id" : "0RSOEwcMBmhkXmriCCXIXz",
+      "name" : "Churchill",
+      "type" : "artist",
+      "uri" : "spotify:artist:0RSOEwcMBmhkXmriCCXIXz"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6RP59kp4knE1me35J8X83x"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6RP59kp4knE1me35J8X83x",
+    "id" : "6RP59kp4knE1me35J8X83x",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cca4b36a69cac5fddc6ff18b7ccebcbc583d58b4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/94327e7c292ccd620f9f96900d2ac9d63ecae24f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/170eb683fc179bf9e9364dd064aec690870831ec",
+      "width" : 64
+    } ],
+    "name" : "The War Within - EP",
+    "type" : "album",
+    "uri" : "spotify:album:6RP59kp4knE1me35J8X83x"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0RSOEwcMBmhkXmriCCXIXz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0RSOEwcMBmhkXmriCCXIXz",
+    "id" : "0RSOEwcMBmhkXmriCCXIXz",
+    "name" : "Churchill",
+    "type" : "artist",
+    "uri" : "spotify:artist:0RSOEwcMBmhkXmriCCXIXz"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 198253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71211215"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/331q5cdwo9aq7ih6bSpoOa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/331q5cdwo9aq7ih6bSpoOa",
+  "id" : "331q5cdwo9aq7ih6bSpoOa",
+  "name" : "Change",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/499f6a036c8a1f4e83347e45c6361f6f97dbf09c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:331q5cdwo9aq7ih6bSpoOa"
+}

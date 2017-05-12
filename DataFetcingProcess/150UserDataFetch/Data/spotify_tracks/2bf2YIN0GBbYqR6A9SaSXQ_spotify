@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Vh6UDWfu9PUSXSzAaB3CW",
+      "id" : "6Vh6UDWfu9PUSXSzAaB3CW",
+      "name" : "Example",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Vh6UDWfu9PUSXSzAaB3CW"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7CmFAQWjFw2M5N27ZddxbU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7CmFAQWjFw2M5N27ZddxbU",
+    "id" : "7CmFAQWjFw2M5N27ZddxbU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/92e32b9431877296861991b35796c995009e3460",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/73289228f70c0e7c13e625ef6be531d5d83fc37b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cdfbf751cdb686412613133a4668a2fd6acfd3ca",
+      "width" : 64
+    } ],
+    "name" : "Changed The Way You Kiss Me",
+    "type" : "album",
+    "uri" : "spotify:album:7CmFAQWjFw2M5N27ZddxbU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Vh6UDWfu9PUSXSzAaB3CW",
+    "id" : "6Vh6UDWfu9PUSXSzAaB3CW",
+    "name" : "Example",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Vh6UDWfu9PUSXSzAaB3CW"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 193106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEN1100336"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2bf2YIN0GBbYqR6A9SaSXQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2bf2YIN0GBbYqR6A9SaSXQ",
+  "id" : "2bf2YIN0GBbYqR6A9SaSXQ",
+  "name" : "Changed The Way You Kiss Me",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4711a452fb53edf8a516ace7c0ae3b9372279f81?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2bf2YIN0GBbYqR6A9SaSXQ"
+}

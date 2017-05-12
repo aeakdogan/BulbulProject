@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+      "id" : "7eQZTqEMozBcuSubfu52i4",
+      "name" : "The Knife",
+      "type" : "artist",
+      "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6rdNbdV3T4muFFFSjGdOj9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6rdNbdV3T4muFFFSjGdOj9",
+    "id" : "6rdNbdV3T4muFFFSjGdOj9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4ff9c5c93b86d53d75e7584c718ca176fe659f25",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7eb63eccc75cd8e0737f2d862af5633e589530b2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3d9ef032537e9e7b35d79fe047e941459fe7ecdd",
+      "width" : 64
+    } ],
+    "name" : "Silent Shout",
+    "type" : "album",
+    "uri" : "spotify:album:6rdNbdV3T4muFFFSjGdOj9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+    "id" : "7eQZTqEMozBcuSubfu52i4",
+    "name" : "The Knife",
+    "type" : "artist",
+    "uri" : "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 218200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEWCE0600202"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ONbiyqCsjVSjrrZJISZIY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ONbiyqCsjVSjrrZJISZIY",
+  "id" : "0ONbiyqCsjVSjrrZJISZIY",
+  "name" : "Neverland",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/25de34e1720314ba7eb16cbd6a9b8879a5ed4f94?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0ONbiyqCsjVSjrrZJISZIY"
+}

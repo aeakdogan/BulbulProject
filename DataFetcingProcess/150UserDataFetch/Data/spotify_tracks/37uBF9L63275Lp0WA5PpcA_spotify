@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4S5yXnFzWvHu16wfuDjjfM",
+      "id" : "4S5yXnFzWvHu16wfuDjjfM",
+      "name" : "Jakwob",
+      "type" : "artist",
+      "uri" : "spotify:artist:4S5yXnFzWvHu16wfuDjjfM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2k5Lz3rF0Y6sw2Q9GfL6gi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2k5Lz3rF0Y6sw2Q9GfL6gi",
+    "id" : "2k5Lz3rF0Y6sw2Q9GfL6gi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/19883b9756e411abdae960f2d9122852007e2e53",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/65bcbadf780035c0f5bb937c01615c6b846e829f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/24e89948d7c31beed33c2f070bf0672420757c3e",
+      "width" : 64
+    } ],
+    "name" : "Here With Me",
+    "type" : "album",
+    "uri" : "spotify:album:2k5Lz3rF0Y6sw2Q9GfL6gi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4S5yXnFzWvHu16wfuDjjfM",
+    "id" : "4S5yXnFzWvHu16wfuDjjfM",
+    "name" : "Jakwob",
+    "type" : "artist",
+    "uri" : "spotify:artist:4S5yXnFzWvHu16wfuDjjfM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 258706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBKPL1030830"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/37uBF9L63275Lp0WA5PpcA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/37uBF9L63275Lp0WA5PpcA",
+  "id" : "37uBF9L63275Lp0WA5PpcA",
+  "name" : "Here With Me",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/55de51bd6d426697e90a502cf66be5087fb26d21?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:37uBF9L63275Lp0WA5PpcA"
+}

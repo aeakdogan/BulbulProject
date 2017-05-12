@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6pwHWKweuoCyx3OoFaD0Q5",
+      "id" : "6pwHWKweuoCyx3OoFaD0Q5",
+      "name" : "The Weepies",
+      "type" : "artist",
+      "uri" : "spotify:artist:6pwHWKweuoCyx3OoFaD0Q5"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ZF4upbGbPnqw6JApHiHQ1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ZF4upbGbPnqw6JApHiHQ1",
+    "id" : "0ZF4upbGbPnqw6JApHiHQ1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c8043d9d5035370d3921a54edac951cc18d54057",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/409f92b79b588e7e3c7a5ec200329b00e24d5063",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/95e9fd3bf3e1aaa22740ea03c324ef7d556d7427",
+      "width" : 64
+    } ],
+    "name" : "Say I Am You",
+    "type" : "album",
+    "uri" : "spotify:album:0ZF4upbGbPnqw6JApHiHQ1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6pwHWKweuoCyx3OoFaD0Q5",
+    "id" : "6pwHWKweuoCyx3OoFaD0Q5",
+    "name" : "The Weepies",
+    "type" : "artist",
+    "uri" : "spotify:artist:6pwHWKweuoCyx3OoFaD0Q5"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 165133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN110501047"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0bAM9qivrntXnHyklRRx39"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0bAM9qivrntXnHyklRRx39",
+  "id" : "0bAM9qivrntXnHyklRRx39",
+  "name" : "World Spins Madly On",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/acffb68c8bdd2c49618484ce5e18ae7c4127254f?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0bAM9qivrntXnHyklRRx39"
+}

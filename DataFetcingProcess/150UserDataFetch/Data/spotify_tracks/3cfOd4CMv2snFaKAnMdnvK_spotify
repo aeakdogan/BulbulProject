@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2iEvnFsWxR0Syqu2JNopAd",
+      "id" : "2iEvnFsWxR0Syqu2JNopAd",
+      "name" : "Smash Mouth",
+      "type" : "artist",
+      "uri" : "spotify:artist:2iEvnFsWxR0Syqu2JNopAd"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2kyTLcEZe6nc1s6ve0zW9P",
+    "id" : "2kyTLcEZe6nc1s6ve0zW9P",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ede1f1d01b8024ef1f9ae3fea1b25bfe083783bd",
+      "width" : 630
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/da954f7ead3803db2d95ea07bdd42d7ea3acf5f7",
+      "width" : 296
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d0c5b45a5c3714268c9f3df88bbd0e7ce81d4ec7",
+      "width" : 63
+    } ],
+    "name" : "Astro Lounge",
+    "type" : "album",
+    "uri" : "spotify:album:2kyTLcEZe6nc1s6ve0zW9P"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2iEvnFsWxR0Syqu2JNopAd",
+    "id" : "2iEvnFsWxR0Syqu2JNopAd",
+    "name" : "Smash Mouth",
+    "type" : "artist",
+    "uri" : "spotify:artist:2iEvnFsWxR0Syqu2JNopAd"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR19902220"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3cfOd4CMv2snFaKAnMdnvK",
+  "id" : "3cfOd4CMv2snFaKAnMdnvK",
+  "name" : "All Star",
+  "popularity" : 69,
+  "preview_url" : "https://p.scdn.co/mp3-preview/baf18743c412db2c1fcff31fac079c1c982637d2?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3cfOd4CMv2snFaKAnMdnvK"
+}

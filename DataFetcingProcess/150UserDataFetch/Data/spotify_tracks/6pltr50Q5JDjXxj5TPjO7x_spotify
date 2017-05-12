@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3vIOYTxzWZMXnPJl0G7O0r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3vIOYTxzWZMXnPJl0G7O0r",
+      "id" : "3vIOYTxzWZMXnPJl0G7O0r",
+      "name" : "Jim Norton",
+      "type" : "artist",
+      "uri" : "spotify:artist:3vIOYTxzWZMXnPJl0G7O0r"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7nZAcsS8MtLNB8MeLB3eGo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7nZAcsS8MtLNB8MeLB3eGo",
+    "id" : "7nZAcsS8MtLNB8MeLB3eGo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7c3eae0c9d3f37e0bb684afb30d042ce8495fec1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c2db7720361a0e2ea04c5d4944133cc4380e7c10",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dab3057053e2ab3ba2aa3b53a0791c8186ef8a51",
+      "width" : 64
+    } ],
+    "name" : "Trinkets I Own Made from Gorilla Hands - EP",
+    "type" : "album",
+    "uri" : "spotify:album:7nZAcsS8MtLNB8MeLB3eGo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3vIOYTxzWZMXnPJl0G7O0r"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3vIOYTxzWZMXnPJl0G7O0r",
+    "id" : "3vIOYTxzWZMXnPJl0G7O0r",
+    "name" : "Jim Norton",
+    "type" : "artist",
+    "uri" : "spotify:artist:3vIOYTxzWZMXnPJl0G7O0r"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 45866,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "QMFME1566417"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6pltr50Q5JDjXxj5TPjO7x"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6pltr50Q5JDjXxj5TPjO7x",
+  "id" : "6pltr50Q5JDjXxj5TPjO7x",
+  "name" : "The 'N' Word",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/86152fbd2ad2e232fe63cedf2249883242621452?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6pltr50Q5JDjXxj5TPjO7x"
+}

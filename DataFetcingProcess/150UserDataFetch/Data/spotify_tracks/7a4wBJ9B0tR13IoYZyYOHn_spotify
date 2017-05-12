@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5lModM3s3qlPQKYjtwWuXD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5lModM3s3qlPQKYjtwWuXD",
+      "id" : "5lModM3s3qlPQKYjtwWuXD",
+      "name" : "The Duke Spirit",
+      "type" : "artist",
+      "uri" : "spotify:artist:5lModM3s3qlPQKYjtwWuXD"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1b2jSSIXcrn1cztAXNcxIS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1b2jSSIXcrn1cztAXNcxIS",
+    "id" : "1b2jSSIXcrn1cztAXNcxIS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9c22c18f3db0cba4709b349dd3ebecc8b2b88a84",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8f970254745b25984d723219e8ae59d006225ea4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8d47b0004a60f16b2573daccbe612d4f28b07802",
+      "width" : 64
+    } ],
+    "name" : "Bruiser",
+    "type" : "album",
+    "uri" : "spotify:album:1b2jSSIXcrn1cztAXNcxIS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5lModM3s3qlPQKYjtwWuXD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5lModM3s3qlPQKYjtwWuXD",
+    "id" : "5lModM3s3qlPQKYjtwWuXD",
+    "name" : "The Duke Spirit",
+    "type" : "artist",
+    "uri" : "spotify:artist:5lModM3s3qlPQKYjtwWuXD"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 202573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71103078"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7a4wBJ9B0tR13IoYZyYOHn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7a4wBJ9B0tR13IoYZyYOHn",
+  "id" : "7a4wBJ9B0tR13IoYZyYOHn",
+  "name" : "Everybody's Under Your Spell",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c175ddbc2291dd16411f936892993fc0262d92c9?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:7a4wBJ9B0tR13IoYZyYOHn"
+}

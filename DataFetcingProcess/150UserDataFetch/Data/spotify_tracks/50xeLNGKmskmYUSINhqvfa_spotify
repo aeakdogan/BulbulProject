@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+      "id" : "3r17AfJCCUqC9Lf0OAc73G",
+      "name" : "Fergie",
+      "type" : "artist",
+      "uri" : "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3t8HFQNlwLBW7htwLvFfzA",
+    "id" : "3t8HFQNlwLBW7htwLvFfzA",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/78c5f8d1b4a93e77938862c610df45ab93791df7",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/b545dc417a8c23cda3b11f7f70697f879c5cf814",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/4889a46df7cb8961782bcbea68f4f760ef2971d4",
+      "width" : 64
+    } ],
+    "name" : "The Dutchess",
+    "type" : "album",
+    "uri" : "spotify:album:3t8HFQNlwLBW7htwLvFfzA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G",
+    "id" : "3r17AfJCCUqC9Lf0OAc73G",
+    "name" : "Fergie",
+    "type" : "artist",
+    "uri" : "spotify:artist:3r17AfJCCUqC9Lf0OAc73G"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 240426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70609116"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/50xeLNGKmskmYUSINhqvfa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/50xeLNGKmskmYUSINhqvfa",
+  "id" : "50xeLNGKmskmYUSINhqvfa",
+  "name" : "Clumsy",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a83395b13714c597339326152ec79a26f54f9f08?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:50xeLNGKmskmYUSINhqvfa"
+}

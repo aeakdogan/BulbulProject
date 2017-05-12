@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Pqx4mXYDGIDcg8E5FYjZ8",
+      "id" : "5Pqx4mXYDGIDcg8E5FYjZ8",
+      "name" : "Carl Douglas",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Pqx4mXYDGIDcg8E5FYjZ8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7wA3s9ug9RoJXi9qGQbSjX",
+    "id" : "7wA3s9ug9RoJXi9qGQbSjX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/355cab41b2614a92c1577bd54d53659a083c3f86",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/95b69e61e906af2ae72d84c5122b41bd731e77ce",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d2ee5ee550bb3fcaf7a4cb79f6fd54d199565898",
+      "width" : 64
+    } ],
+    "name" : "The Soul of the Kung Fu Fighter",
+    "type" : "album",
+    "uri" : "spotify:album:7wA3s9ug9RoJXi9qGQbSjX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Pqx4mXYDGIDcg8E5FYjZ8",
+    "id" : "5Pqx4mXYDGIDcg8E5FYjZ8",
+    "name" : "Carl Douglas",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Pqx4mXYDGIDcg8E5FYjZ8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 197693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJE7400014"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/40NRm1ZLvZpUSCUXAGGZ8J",
+  "id" : "40NRm1ZLvZpUSCUXAGGZ8J",
+  "name" : "Kung Fu Fighting",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c0bcf18532290f37d42a25dc1d4e973360c9b575?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:40NRm1ZLvZpUSCUXAGGZ8J"
+}

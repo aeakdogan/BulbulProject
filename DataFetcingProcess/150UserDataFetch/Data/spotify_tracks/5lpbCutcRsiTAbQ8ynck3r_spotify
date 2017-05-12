@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2laFwNRffMM18LvKKDxCs9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2laFwNRffMM18LvKKDxCs9",
+      "id" : "2laFwNRffMM18LvKKDxCs9",
+      "name" : "Habib Koité",
+      "type" : "artist",
+      "uri" : "spotify:artist:2laFwNRffMM18LvKKDxCs9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1C80xB9gOln3TkTSCGFToZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1C80xB9gOln3TkTSCGFToZ",
+      "id" : "1C80xB9gOln3TkTSCGFToZ",
+      "name" : "Bamada",
+      "type" : "artist",
+      "uri" : "spotify:artist:1C80xB9gOln3TkTSCGFToZ"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3m3aJiBMsri7dsm177nnOu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3m3aJiBMsri7dsm177nnOu",
+    "id" : "3m3aJiBMsri7dsm177nnOu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/35689f03c4d361c204402e6057a3ec088936e864",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/611f65d23ef24066f8c9d88a3760058c049907e6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4ca63bf2faf1f87e2504ba94097c5637289b758f",
+      "width" : 64
+    } ],
+    "name" : "Muso Ko",
+    "type" : "album",
+    "uri" : "spotify:album:3m3aJiBMsri7dsm177nnOu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2laFwNRffMM18LvKKDxCs9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2laFwNRffMM18LvKKDxCs9",
+    "id" : "2laFwNRffMM18LvKKDxCs9",
+    "name" : "Habib Koité",
+    "type" : "artist",
+    "uri" : "spotify:artist:2laFwNRffMM18LvKKDxCs9"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1C80xB9gOln3TkTSCGFToZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1C80xB9gOln3TkTSCGFToZ",
+    "id" : "1C80xB9gOln3TkTSCGFToZ",
+    "name" : "Bamada",
+    "type" : "artist",
+    "uri" : "spotify:artist:1C80xB9gOln3TkTSCGFToZ"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 300573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEW099500101"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5lpbCutcRsiTAbQ8ynck3r"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5lpbCutcRsiTAbQ8ynck3r",
+  "id" : "5lpbCutcRsiTAbQ8ynck3r",
+  "name" : "I Ka Barra",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/02f9720c9e329539d2554b301e7922bbb46ebf9e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5lpbCutcRsiTAbQ8ynck3r"
+}

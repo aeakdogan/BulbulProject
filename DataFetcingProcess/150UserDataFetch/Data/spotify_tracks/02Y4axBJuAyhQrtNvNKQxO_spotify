@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+      "id" : "7lOJ7WXyopaxri0dbOiZkd",
+      "name" : "Broken Social Scene",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Awy6Aaczv4aecYZYDSQXu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Awy6Aaczv4aecYZYDSQXu",
+    "id" : "4Awy6Aaczv4aecYZYDSQXu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5395163415062a170d3ba67642e985a36e45f447",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e687298fe34710d8a2f65b5cd1d6b3e985fee34",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/813abef9e50d1c1ca1ebdf7c47e4455bcb50d5f8",
+      "width" : 64
+    } ],
+    "name" : "You Forgot it in People",
+    "type" : "album",
+    "uri" : "spotify:album:4Awy6Aaczv4aecYZYDSQXu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+    "id" : "7lOJ7WXyopaxri0dbOiZkd",
+    "name" : "Broken Social Scene",
+    "type" : "artist",
+    "uri" : "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 230773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAAA10200102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/02Y4axBJuAyhQrtNvNKQxO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/02Y4axBJuAyhQrtNvNKQxO",
+  "id" : "02Y4axBJuAyhQrtNvNKQxO",
+  "name" : "KC Accidental",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/28d7b04083fa1dd876fed826179a0d17272b3637?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:02Y4axBJuAyhQrtNvNKQxO"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1TMMyiSsNzmRiZCAkVLVb2",
+      "id" : "1TMMyiSsNzmRiZCAkVLVb2",
+      "name" : "Lisa Loeb",
+      "type" : "artist",
+      "uri" : "spotify:artist:1TMMyiSsNzmRiZCAkVLVb2"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1LJ568POjiQ73DHZdtJmUN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1LJ568POjiQ73DHZdtJmUN",
+    "id" : "1LJ568POjiQ73DHZdtJmUN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/edeabfc1b732253c1dfb4bb64792cebc3423084f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab0abd67a9003135da1afa78fc9ad061e6581faf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ba89366014b287a6caf235adeffdc44f5828d7a6",
+      "width" : 64
+    } ],
+    "name" : "The Purple Tape Interviews",
+    "type" : "album",
+    "uri" : "spotify:album:1LJ568POjiQ73DHZdtJmUN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1TMMyiSsNzmRiZCAkVLVb2",
+    "id" : "1TMMyiSsNzmRiZCAkVLVb2",
+    "name" : "Lisa Loeb",
+    "type" : "artist",
+    "uri" : "spotify:artist:1TMMyiSsNzmRiZCAkVLVb2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 178280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2B0830433"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1gnsCwG6I2w2AKCBSMJnhJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1gnsCwG6I2w2AKCBSMJnhJ",
+  "id" : "1gnsCwG6I2w2AKCBSMJnhJ",
+  "name" : "Stay (Acoustic)",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e11b5a6303336ebb9bbb5aaa23a0a0bab7fe44fb?cid=null",
+  "track_number" : 23,
+  "type" : "track",
+  "uri" : "spotify:track:1gnsCwG6I2w2AKCBSMJnhJ"
+}

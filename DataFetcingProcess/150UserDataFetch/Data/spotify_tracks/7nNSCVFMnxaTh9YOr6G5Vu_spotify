@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yzxX2DI9LFK8VFTyW2zZ8",
+      "id" : "2yzxX2DI9LFK8VFTyW2zZ8",
+      "name" : "Joe Satriani",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yzxX2DI9LFK8VFTyW2zZ8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5vhvp7K599FbKoxYHnBRFn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5vhvp7K599FbKoxYHnBRFn",
+    "id" : "5vhvp7K599FbKoxYHnBRFn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5c65ce38b854e132383d9327fcc1567618e68e3c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a842e64047e1d852f925a7adf84c13ddf76f1d8e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6bc34facaa301dcb97a481958b83d9dd9c0e7cbd",
+      "width" : 64
+    } ],
+    "name" : "Strange Beautiful Music",
+    "type" : "album",
+    "uri" : "spotify:album:5vhvp7K599FbKoxYHnBRFn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2yzxX2DI9LFK8VFTyW2zZ8",
+    "id" : "2yzxX2DI9LFK8VFTyW2zZ8",
+    "name" : "Joe Satriani",
+    "type" : "artist",
+    "uri" : "spotify:artist:2yzxX2DI9LFK8VFTyW2zZ8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 318133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10203102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7nNSCVFMnxaTh9YOr6G5Vu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7nNSCVFMnxaTh9YOr6G5Vu",
+  "id" : "7nNSCVFMnxaTh9YOr6G5Vu",
+  "name" : "What Breaks a Heart",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e19f6bfdc9c44d8c1804508a005d14d3cf376b7a?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:7nNSCVFMnxaTh9YOr6G5Vu"
+}

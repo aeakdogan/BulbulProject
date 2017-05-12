@@ -1,0 +1,61 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7zeHJIIfNStVfxlbT72UwY",
+      "id" : "7zeHJIIfNStVfxlbT72UwY",
+      "name" : "Peter Murphy",
+      "type" : "artist",
+      "uri" : "spotify:artist:7zeHJIIfNStVfxlbT72UwY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4evNdyZjrJGLHWf2azyaCh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4evNdyZjrJGLHWf2azyaCh",
+    "id" : "4evNdyZjrJGLHWf2azyaCh",
+    "images" : [ {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/2163e52c5dd1151b4d999a6b670dafd9ac3d02fb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa728d53a806302f3624f2b33f60597bd2850933",
+      "width" : 64
+    } ],
+    "name" : "Deep",
+    "type" : "album",
+    "uri" : "spotify:album:4evNdyZjrJGLHWf2azyaCh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7zeHJIIfNStVfxlbT72UwY",
+    "id" : "7zeHJIIfNStVfxlbT72UwY",
+    "name" : "Peter Murphy",
+    "type" : "artist",
+    "uri" : "spotify:artist:7zeHJIIfNStVfxlbT72UwY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 327133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAZP8900105"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4ijNab1GM0JSZoe0I2KCOd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4ijNab1GM0JSZoe0I2KCOd",
+  "id" : "4ijNab1GM0JSZoe0I2KCOd",
+  "name" : "Cuts You Up",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c615d4831bba692c27c85c151ffeff1cfbe6a512?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4ijNab1GM0JSZoe0I2KCOd"
+}

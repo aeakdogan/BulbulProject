@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+      "id" : "4gzpq5DPGxSnKTe4SA8HAU",
+      "name" : "Coldplay",
+      "type" : "artist",
+      "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4E7bV0pzG0LciBSWTszra6",
+    "id" : "4E7bV0pzG0LciBSWTszra6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ce2cb283df41c592e72df1900558d8af97445aa6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3866d7443de4c47b47367d45973afb20e78df161",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b251660ff4f59508e50301ce04749679ccdea5ac",
+      "width" : 64
+    } ],
+    "name" : "X & Y",
+    "type" : "album",
+    "uri" : "spotify:album:4E7bV0pzG0LciBSWTszra6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+    "id" : "4gzpq5DPGxSnKTe4SA8HAU",
+    "name" : "Coldplay",
+    "type" : "artist",
+    "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 328219,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE0500609"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0WWz2AaqxLoO0fa9ou6Fqc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0WWz2AaqxLoO0fa9ou6Fqc",
+  "id" : "0WWz2AaqxLoO0fa9ou6Fqc",
+  "name" : "White Shadows",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/76a345742020272060da010d2891c873992607e1?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0WWz2AaqxLoO0fa9ou6Fqc"
+}

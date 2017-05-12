@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74M3iphMpn1MA2YUe2Iigb",
+      "id" : "74M3iphMpn1MA2YUe2Iigb",
+      "name" : "Aaron Zigman",
+      "type" : "artist",
+      "uri" : "spotify:artist:74M3iphMpn1MA2YUe2Iigb"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1EVM5W3wBvfAW7LXfPSsMT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1EVM5W3wBvfAW7LXfPSsMT",
+    "id" : "1EVM5W3wBvfAW7LXfPSsMT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4eca7d1ebae6cc4aaf3ef43a48bc42186d7d6c91",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d5bb8e0099f0db5397d2ec3129b43048e47c567d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2584f2bfffea2a898d972972db586fa60f065867",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Me (Original Motion Picture Score)",
+    "type" : "album",
+    "uri" : "spotify:album:1EVM5W3wBvfAW7LXfPSsMT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/74M3iphMpn1MA2YUe2Iigb",
+    "id" : "74M3iphMpn1MA2YUe2Iigb",
+    "name" : "Aaron Zigman",
+    "type" : "artist",
+    "uri" : "spotify:artist:74M3iphMpn1MA2YUe2Iigb"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 170506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US6LQ1400025"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6jqgXNUv3UgMsEkQFQ2Ahy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6jqgXNUv3UgMsEkQFQ2Ahy",
+  "id" : "6jqgXNUv3UgMsEkQFQ2Ahy",
+  "name" : "Main Title",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/68429c2d300c92c31e213a4393de2353f0d9a741?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6jqgXNUv3UgMsEkQFQ2Ahy"
+}

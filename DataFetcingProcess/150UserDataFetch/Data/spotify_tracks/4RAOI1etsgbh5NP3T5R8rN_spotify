@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb",
+      "id" : "7FBcuc1gsnv6Y1nwFtNRCb",
+      "name" : "My Chemical Romance",
+      "type" : "artist",
+      "uri" : "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0FZK97MXMm5mUQ8mtudjuK",
+    "id" : "0FZK97MXMm5mUQ8mtudjuK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/767fd98433e0d4ad11bc0e8edf605872bcb7a02c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b2ee36d1fb5876b80f2803580fe6714fc7978f7c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a801c22d36fc32ee7cc787561308274d801075e1",
+      "width" : 64
+    } ],
+    "name" : "The Black Parade",
+    "type" : "album",
+    "uri" : "spotify:album:0FZK97MXMm5mUQ8mtudjuK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb",
+    "id" : "7FBcuc1gsnv6Y1nwFtNRCb",
+    "name" : "My Chemical Romance",
+    "type" : "artist",
+    "uri" : "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 238680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE10602907"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4RAOI1etsgbh5NP3T5R8rN",
+  "id" : "4RAOI1etsgbh5NP3T5R8rN",
+  "name" : "I Don't Love You",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/97d0f98973a4de9f3d08684ab51538fbc5c2376e?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:4RAOI1etsgbh5NP3T5R8rN"
+}

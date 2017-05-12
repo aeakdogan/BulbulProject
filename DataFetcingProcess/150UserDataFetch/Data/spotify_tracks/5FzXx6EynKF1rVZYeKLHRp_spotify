@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UE7nl9mha6s8z0wFQFIZ2",
+      "id" : "6UE7nl9mha6s8z0wFQFIZ2",
+      "name" : "Robyn",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UE7nl9mha6s8z0wFQFIZ2"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Rzg7fqyWE39G6wKipxrns",
+    "id" : "0Rzg7fqyWE39G6wKipxrns",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/00bb64fb3c4a8acedab0cf325b28a5d48042f4cc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/acb89e8a7ffe338c2d543ca3039b948054a756c1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/139d314f026e4ca42eeff8101e0a0f23e5c7761e",
+      "width" : 64
+    } ],
+    "name" : "Body Talk",
+    "type" : "album",
+    "uri" : "spotify:album:0Rzg7fqyWE39G6wKipxrns"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6UE7nl9mha6s8z0wFQFIZ2",
+    "id" : "6UE7nl9mha6s8z0wFQFIZ2",
+    "name" : "Robyn",
+    "type" : "artist",
+    "uri" : "spotify:artist:6UE7nl9mha6s8z0wFQFIZ2"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEWKZ1000005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5FzXx6EynKF1rVZYeKLHRp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5FzXx6EynKF1rVZYeKLHRp",
+  "id" : "5FzXx6EynKF1rVZYeKLHRp",
+  "name" : "Dancehall Queen",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e6bba51823676fe2787e3a8f037bbacb3d41083e?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:5FzXx6EynKF1rVZYeKLHRp"
+}

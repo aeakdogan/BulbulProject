@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/72RlKNzcCZkmb20K5dDwOB",
+      "id" : "72RlKNzcCZkmb20K5dDwOB",
+      "name" : "Govi",
+      "type" : "artist",
+      "uri" : "spotify:artist:72RlKNzcCZkmb20K5dDwOB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2wv00wNnDlQ7y1hF27QERq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2wv00wNnDlQ7y1hF27QERq",
+    "id" : "2wv00wNnDlQ7y1hF27QERq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5fc2ffa18e58dbdb0536ee35a79683ad124414d8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/22f9c0a32843d153407f92d011d76652276f86f9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5d0875a6375adc42a276f48acb84f8c05f8d8797",
+      "width" : 64
+    } ],
+    "name" : "Andalusian Nights",
+    "type" : "album",
+    "uri" : "spotify:album:2wv00wNnDlQ7y1hF27QERq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/72RlKNzcCZkmb20K5dDwOB",
+    "id" : "72RlKNzcCZkmb20K5dDwOB",
+    "name" : "Govi",
+    "type" : "artist",
+    "uri" : "spotify:artist:72RlKNzcCZkmb20K5dDwOB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 307760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGM39900001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/216LJbYjdSrMcxrBFejeFs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/216LJbYjdSrMcxrBFejeFs",
+  "id" : "216LJbYjdSrMcxrBFejeFs",
+  "name" : "Persuasion",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/506565500bcb2155293e1e45893b7ee14fc9c9f0?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:216LJbYjdSrMcxrBFejeFs"
+}

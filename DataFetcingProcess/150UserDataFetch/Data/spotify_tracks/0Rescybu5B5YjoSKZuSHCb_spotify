@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CdbG1eHVjqjkQsGoH2u1V",
+      "id" : "0CdbG1eHVjqjkQsGoH2u1V",
+      "name" : "Peter Bradley Adams",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CdbG1eHVjqjkQsGoH2u1V"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3seUlzw5ujq80ffIypeGRB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3seUlzw5ujq80ffIypeGRB",
+    "id" : "3seUlzw5ujq80ffIypeGRB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2e8b3c80ce1ce7166919d913fb94cd5feae4dc54",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e2dedc5eab2d40d64e9dab1c66192828fd31bf24",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/225cb7744ce8bad5d4a449639328dca5de0a173f",
+      "width" : 64
+    } ],
+    "name" : "Leavetaking",
+    "type" : "album",
+    "uri" : "spotify:album:3seUlzw5ujq80ffIypeGRB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0CdbG1eHVjqjkQsGoH2u1V",
+    "id" : "0CdbG1eHVjqjkQsGoH2u1V",
+    "name" : "Peter Bradley Adams",
+    "type" : "artist",
+    "uri" : "spotify:artist:0CdbG1eHVjqjkQsGoH2u1V"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 144360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US8340800205"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Rescybu5B5YjoSKZuSHCb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Rescybu5B5YjoSKZuSHCb",
+  "id" : "0Rescybu5B5YjoSKZuSHCb",
+  "name" : "Song for Viola",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/df37b036b84bc259f0fab12696ef566686ec080d?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:0Rescybu5B5YjoSKZuSHCb"
+}

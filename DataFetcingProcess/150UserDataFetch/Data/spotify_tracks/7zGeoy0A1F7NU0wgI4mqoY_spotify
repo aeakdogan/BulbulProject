@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2KyHX7CvFoSdXMmuazwuAe",
+      "id" : "2KyHX7CvFoSdXMmuazwuAe",
+      "name" : "AlgoRythmik",
+      "type" : "artist",
+      "uri" : "spotify:artist:2KyHX7CvFoSdXMmuazwuAe"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1NXXCKZkUy2yG4i2kkTY42",
+    "id" : "1NXXCKZkUy2yG4i2kkTY42",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e7e35ccca245137b40a3fc04ebc16400c44fbd5c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7cfac04e0beccfd52da48fe0167e07cdf9a560f9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab6321999a81ddd392adb3c6f9a7fc609f5196ae",
+      "width" : 64
+    } ],
+    "name" : "Show Breaks",
+    "type" : "album",
+    "uri" : "spotify:album:1NXXCKZkUy2yG4i2kkTY42"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2KyHX7CvFoSdXMmuazwuAe",
+    "id" : "2KyHX7CvFoSdXMmuazwuAe",
+    "name" : "AlgoRythmik",
+    "type" : "artist",
+    "uri" : "spotify:artist:2KyHX7CvFoSdXMmuazwuAe"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 218796,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR9Y81010001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7zGeoy0A1F7NU0wgI4mqoY",
+  "id" : "7zGeoy0A1F7NU0wgI4mqoY",
+  "name" : "Andrew's Break",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bd51df6a6c79bfd922c3e4cc75943261a8e6ff84?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7zGeoy0A1F7NU0wgI4mqoY"
+}

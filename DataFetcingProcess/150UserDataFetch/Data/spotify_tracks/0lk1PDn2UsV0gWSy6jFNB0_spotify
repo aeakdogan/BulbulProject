@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb",
+      "id" : "0cmWgDlu9CwTgxPhf403hb",
+      "name" : "Bonobo",
+      "type" : "artist",
+      "uri" : "spotify:artist:0cmWgDlu9CwTgxPhf403hb"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0CmHypC8qAo8S44OnTwboR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0CmHypC8qAo8S44OnTwboR",
+    "id" : "0CmHypC8qAo8S44OnTwboR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/afeb050140cf2fa2758a646ff95b03d315027f41",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0db6cd3ff8815a7cea8d82083cb8694d37c0a464",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ffb5ad2823aad32ca0758486cadc094d10c18de2",
+      "width" : 64
+    } ],
+    "name" : "One Offs Remixes and B Sides",
+    "type" : "album",
+    "uri" : "spotify:album:0CmHypC8qAo8S44OnTwboR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb",
+    "id" : "0cmWgDlu9CwTgxPhf403hb",
+    "name" : "Bonobo",
+    "type" : "artist",
+    "uri" : "spotify:artist:0cmWgDlu9CwTgxPhf403hb"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 262573,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBEUE0400064"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0lk1PDn2UsV0gWSy6jFNB0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0lk1PDn2UsV0gWSy6jFNB0",
+  "id" : "0lk1PDn2UsV0gWSy6jFNB0",
+  "name" : "Scuba",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b9902f8c444794fd95fc20a97df61a9d56723e19?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0lk1PDn2UsV0gWSy6jFNB0"
+}

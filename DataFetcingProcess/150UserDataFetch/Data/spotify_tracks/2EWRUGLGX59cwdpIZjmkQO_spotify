@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0jypmaLN034G9UkeQdqsps",
+      "id" : "0jypmaLN034G9UkeQdqsps",
+      "name" : "James Yuill",
+      "type" : "artist",
+      "uri" : "spotify:artist:0jypmaLN034G9UkeQdqsps"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/20ZH9X9S1TKpYn6Em6kfOM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/20ZH9X9S1TKpYn6Em6kfOM",
+    "id" : "20ZH9X9S1TKpYn6Em6kfOM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a3cec686fb8ef98c4339124f31c13f1809ff727b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fd028e7c47d4cc91d8069d6ae1255b4464441f88",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f5e4cbae8e39ff128ddc4bc4730736bf974097ea",
+      "width" : 64
+    } ],
+    "name" : "Turning Down Water For Air",
+    "type" : "album",
+    "uri" : "spotify:album:20ZH9X9S1TKpYn6Em6kfOM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0jypmaLN034G9UkeQdqsps",
+    "id" : "0jypmaLN034G9UkeQdqsps",
+    "name" : "James Yuill",
+    "type" : "artist",
+    "uri" : "spotify:artist:0jypmaLN034G9UkeQdqsps"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 223613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN110801103"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2EWRUGLGX59cwdpIZjmkQO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2EWRUGLGX59cwdpIZjmkQO",
+  "id" : "2EWRUGLGX59cwdpIZjmkQO",
+  "name" : "This Sweet Love",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/74a90e32f97645b615bcf58676103550cf6a6261?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2EWRUGLGX59cwdpIZjmkQO"
+}

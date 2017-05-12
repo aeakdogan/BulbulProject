@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f",
+      "id" : "1N2FgBLehaq77UEdJhCt7f",
+      "name" : "Saint Etienne",
+      "type" : "artist",
+      "uri" : "spotify:artist:1N2FgBLehaq77UEdJhCt7f"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4pCyqSGb9MXBGdYIRA9MUw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4pCyqSGb9MXBGdYIRA9MUw",
+    "id" : "4pCyqSGb9MXBGdYIRA9MUw",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/fb18f226d9d8bde36a636678f2b6bf6e03e06e65",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/3d44727101783b070d01de354d229553754db641",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d5e93d26851a9fd5e14916903d507c1ed0de60a7",
+      "width" : 64
+    } ],
+    "name" : "Tiger Bay",
+    "type" : "album",
+    "uri" : "spotify:album:4pCyqSGb9MXBGdYIRA9MUw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1N2FgBLehaq77UEdJhCt7f",
+    "id" : "1N2FgBLehaq77UEdJhCt7f",
+    "name" : "Saint Etienne",
+    "type" : "artist",
+    "uri" : "spotify:artist:1N2FgBLehaq77UEdJhCt7f"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 254733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10104242"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/79neP7cNFqrYjq2B7aT0Ct"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/79neP7cNFqrYjq2B7aT0Ct",
+  "id" : "79neP7cNFqrYjq2B7aT0Ct",
+  "name" : "Hug My Soul",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ecc544ede939bb46192aeefcd23886d6130c86b6?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:79neP7cNFqrYjq2B7aT0Ct"
+}

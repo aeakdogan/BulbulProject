@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1kTlYbs28MXw7hwO0NLYif",
+    "id" : "1kTlYbs28MXw7hwO0NLYif",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8fba3e6f88315fff741606f4964800c7a65d1f11",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/55bf336675855c34f3291316e95106f662f61bb9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6b2774e93bfbe35cf6a01d1bc80c02c22607ab28",
+      "width" : 64
+    } ],
+    "name" : "Encore (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:1kTlYbs28MXw7hwO0NLYif"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+    "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+    "name" : "Eminem",
+    "type" : "artist",
+    "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 250760,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USIR10400813"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/561jH07mF1jHuk7KlaeF0s",
+  "id" : "561jH07mF1jHuk7KlaeF0s",
+  "name" : "Mockingbird",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/55a6c82d13097c053b4a5e7b0f2c835e831aa2ac?cid=null",
+  "track_number" : 16,
+  "type" : "track",
+  "uri" : "spotify:track:561jH07mF1jHuk7KlaeF0s"
+}

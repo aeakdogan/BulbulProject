@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4R073T3AVJKqAsbzLmLW9u",
+      "id" : "4R073T3AVJKqAsbzLmLW9u",
+      "name" : "John Maus",
+      "type" : "artist",
+      "uri" : "spotify:artist:4R073T3AVJKqAsbzLmLW9u"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0musLdqbTnPsbMCyN1Xytr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0musLdqbTnPsbMCyN1Xytr",
+    "id" : "0musLdqbTnPsbMCyN1Xytr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6bd78ba769073ce48bab9ee600c11abacc63499a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/96bea0680b60a22d7c7ea8a29211d38068800ec8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d189107d6aae0f865f368a70269a76566fd7ab3e",
+      "width" : 64
+    } ],
+    "name" : "Love Is Real",
+    "type" : "album",
+    "uri" : "spotify:album:0musLdqbTnPsbMCyN1Xytr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4R073T3AVJKqAsbzLmLW9u",
+    "id" : "4R073T3AVJKqAsbzLmLW9u",
+    "name" : "John Maus",
+    "type" : "artist",
+    "uri" : "spotify:artist:4R073T3AVJKqAsbzLmLW9u"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 167253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBVCE0715002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5IwP0zGazWIsct8dcLzHEw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5IwP0zGazWIsct8dcLzHEw",
+  "id" : "5IwP0zGazWIsct8dcLzHEw",
+  "name" : "Do Your Best",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7cb0242ca38f6528ef6d5bde5b73fd0a4e49be2c?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5IwP0zGazWIsct8dcLzHEw"
+}

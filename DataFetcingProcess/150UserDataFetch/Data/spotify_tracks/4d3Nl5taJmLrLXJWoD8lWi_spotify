@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/06bDwgCHeMAwhgI8il4Y5k",
+      "id" : "06bDwgCHeMAwhgI8il4Y5k",
+      "name" : "Set It Off",
+      "type" : "artist",
+      "uri" : "spotify:artist:06bDwgCHeMAwhgI8il4Y5k"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0jGFC44cRkjE2b21aMEbIo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0jGFC44cRkjE2b21aMEbIo",
+    "id" : "0jGFC44cRkjE2b21aMEbIo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/565a4f53e29b1234a8b9cb60abc2b5efc4a62b3d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/779e8c83f0a2e03a2d32b24e3c67f3067f9461e9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6c32243d388401645cb6fcc371380749e59fa5f8",
+      "width" : 64
+    } ],
+    "name" : "Upside Down",
+    "type" : "album",
+    "uri" : "spotify:album:0jGFC44cRkjE2b21aMEbIo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+    },
+    "href" : "https://api.spotify.com/v1/artists/06bDwgCHeMAwhgI8il4Y5k",
+    "id" : "06bDwgCHeMAwhgI8il4Y5k",
+    "name" : "Set It Off",
+    "type" : "artist",
+    "uri" : "spotify:artist:06bDwgCHeMAwhgI8il4Y5k"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 215760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US3X51635004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4d3Nl5taJmLrLXJWoD8lWi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4d3Nl5taJmLrLXJWoD8lWi",
+  "id" : "4d3Nl5taJmLrLXJWoD8lWi",
+  "name" : "Upside Down",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b21572a09318410135be4c3b30b79f8ac9d63039?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4d3Nl5taJmLrLXJWoD8lWi"
+}

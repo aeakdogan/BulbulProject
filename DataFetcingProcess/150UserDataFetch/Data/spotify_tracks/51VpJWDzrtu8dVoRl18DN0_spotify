@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6q7ooPx2ZxV6MJ9I7d1zmn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6q7ooPx2ZxV6MJ9I7d1zmn",
+      "id" : "6q7ooPx2ZxV6MJ9I7d1zmn",
+      "name" : "Tomas Klus",
+      "type" : "artist",
+      "uri" : "spotify:artist:6q7ooPx2ZxV6MJ9I7d1zmn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1KGLSdfXm7Gt3cEPTAgBgN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1KGLSdfXm7Gt3cEPTAgBgN",
+    "id" : "1KGLSdfXm7Gt3cEPTAgBgN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a84daa1ba2bf29d607764c1c5897ad4beab9de4c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/acbcadb83a1d5b3fa1e8fea4e8a3b7c3f2344b12",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/22268fd472936b1868323a3eb5690516244dc62c",
+      "width" : 64
+    } ],
+    "name" : "Racek",
+    "type" : "album",
+    "uri" : "spotify:album:1KGLSdfXm7Gt3cEPTAgBgN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6q7ooPx2ZxV6MJ9I7d1zmn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6q7ooPx2ZxV6MJ9I7d1zmn",
+    "id" : "6q7ooPx2ZxV6MJ9I7d1zmn",
+    "name" : "Tomas Klus",
+    "type" : "artist",
+    "uri" : "spotify:artist:6q7ooPx2ZxV6MJ9I7d1zmn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 230186,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CZA211100090"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/51VpJWDzrtu8dVoRl18DN0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/51VpJWDzrtu8dVoRl18DN0",
+  "id" : "51VpJWDzrtu8dVoRl18DN0",
+  "name" : "Dno za dnem",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/eba28e68e2d06ea79d19d42b15fa216fc971bcae?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:51VpJWDzrtu8dVoRl18DN0"
+}

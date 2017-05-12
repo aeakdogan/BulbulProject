@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+      "id" : "1KCSPY1glIKqW2TotWuXOR",
+      "name" : "P!nk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1FtowJguLCYT0Fe2xAsKMb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1FtowJguLCYT0Fe2xAsKMb",
+    "id" : "1FtowJguLCYT0Fe2xAsKMb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0db70a83d7a6f026c20efd426fa3dea6f369d385",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/12fb1469d76a93fbeefa2d69d5de6ca2660fa691",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ccfed563b9f219fe09730d10e1c100d92b12e6c1",
+      "width" : 64
+    } ],
+    "name" : "Can't Take Me Home",
+    "type" : "album",
+    "uri" : "spotify:album:1FtowJguLCYT0Fe2xAsKMb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+    "id" : "1KCSPY1glIKqW2TotWuXOR",
+    "name" : "P!nk",
+    "type" : "artist",
+    "uri" : "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 202706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USLF29900351"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6LCbPOnvjxSaRnNBKH1JII"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6LCbPOnvjxSaRnNBKH1JII",
+  "id" : "6LCbPOnvjxSaRnNBKH1JII",
+  "name" : "There You Go",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2b1a20585bef0f37949694617b61a2a262b1ab35?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6LCbPOnvjxSaRnNBKH1JII"
+}

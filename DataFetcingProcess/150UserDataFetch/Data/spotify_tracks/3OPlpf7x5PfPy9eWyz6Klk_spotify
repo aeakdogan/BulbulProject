@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4AIo9dEYhuS3AtwhhKgA0M"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4AIo9dEYhuS3AtwhhKgA0M",
+      "id" : "4AIo9dEYhuS3AtwhhKgA0M",
+      "name" : "The Teardrop Explodes",
+      "type" : "artist",
+      "uri" : "spotify:artist:4AIo9dEYhuS3AtwhhKgA0M"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5sMku8iI6FH3ypZTErz4kv",
+      "id" : "5sMku8iI6FH3ypZTErz4kv",
+      "name" : "Julian Cope",
+      "type" : "artist",
+      "uri" : "spotify:artist:5sMku8iI6FH3ypZTErz4kv"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3KbmdHPH6utHYMlsTZBWqk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3KbmdHPH6utHYMlsTZBWqk",
+    "id" : "3KbmdHPH6utHYMlsTZBWqk",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/78628add403d112f2909402c79b91f6d6bdafc6e",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/eb3d1bbde97dfa3377ea61e3f252338632a35750",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/e522eba705d027ff34364fb255cd69aad3991245",
+      "width" : 64
+    } ],
+    "name" : "Floored Genius: The Best Of Julian Cope And The Teardrop Explodes 1979-91",
+    "type" : "album",
+    "uri" : "spotify:album:3KbmdHPH6utHYMlsTZBWqk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4AIo9dEYhuS3AtwhhKgA0M"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4AIo9dEYhuS3AtwhhKgA0M",
+    "id" : "4AIo9dEYhuS3AtwhhKgA0M",
+    "name" : "The Teardrop Explodes",
+    "type" : "artist",
+    "uri" : "spotify:artist:4AIo9dEYhuS3AtwhhKgA0M"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 164600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF088000023"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3OPlpf7x5PfPy9eWyz6Klk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3OPlpf7x5PfPy9eWyz6Klk",
+  "id" : "3OPlpf7x5PfPy9eWyz6Klk",
+  "name" : "Reward",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/45bf41c89b90f03ea74a6b094727e512f3442647?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3OPlpf7x5PfPy9eWyz6Klk"
+}

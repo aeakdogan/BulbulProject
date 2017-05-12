@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4IDoKaZIEacb3QncU8RQMp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4IDoKaZIEacb3QncU8RQMp",
+      "id" : "4IDoKaZIEacb3QncU8RQMp",
+      "name" : "I Am Kloot",
+      "type" : "artist",
+      "uri" : "spotify:artist:4IDoKaZIEacb3QncU8RQMp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/37uyvAGLTNJFEbdJS3yFJC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/37uyvAGLTNJFEbdJS3yFJC",
+    "id" : "37uyvAGLTNJFEbdJS3yFJC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a3f8e6a5e7e341316be598eade3339e8b74af249",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5e83a0bab047a1346086e2c79208dbfc52c54a48",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7b8b25f7b751504ce8d00d40332b1d8323660352",
+      "width" : 64
+    } ],
+    "name" : "I Am Kloot",
+    "type" : "album",
+    "uri" : "spotify:album:37uyvAGLTNJFEbdJS3yFJC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4IDoKaZIEacb3QncU8RQMp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4IDoKaZIEacb3QncU8RQMp",
+    "id" : "4IDoKaZIEacb3QncU8RQMp",
+    "name" : "I Am Kloot",
+    "type" : "artist",
+    "uri" : "spotify:artist:4IDoKaZIEacb3QncU8RQMp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 166333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBND0301011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3cYFyttABxOmTZhscV6sUV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3cYFyttABxOmTZhscV6sUV",
+  "id" : "3cYFyttABxOmTZhscV6sUV",
+  "name" : "From Your Favourite Sky",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d5699cc170dd1b11e82ce78443a053bbb2ce1287?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3cYFyttABxOmTZhscV6sUV"
+}

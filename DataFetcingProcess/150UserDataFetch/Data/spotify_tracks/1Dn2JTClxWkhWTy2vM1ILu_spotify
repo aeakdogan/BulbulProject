@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4mw86zm4QZIL8SksdyE6OU",
+      "id" : "4mw86zm4QZIL8SksdyE6OU",
+      "name" : "múm",
+      "type" : "artist",
+      "uri" : "spotify:artist:4mw86zm4QZIL8SksdyE6OU"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/75dBvrYOmP8Jrn4FDBiwjQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/75dBvrYOmP8Jrn4FDBiwjQ",
+    "id" : "75dBvrYOmP8Jrn4FDBiwjQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/add5be116f9861280316995fe19c9bdc2affc7bb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c756dec5337efd6ff1bca80db9c5ffd3f10ec4af",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4d5fa91e2803ffff6583fb043b2ebc785e44de37",
+      "width" : 64
+    } ],
+    "name" : "Finally We Are No One",
+    "type" : "album",
+    "uri" : "spotify:album:75dBvrYOmP8Jrn4FDBiwjQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4mw86zm4QZIL8SksdyE6OU",
+    "id" : "4mw86zm4QZIL8SksdyE6OU",
+    "name" : "múm",
+    "type" : "artist",
+    "uri" : "spotify:artist:4mw86zm4QZIL8SksdyE6OU"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 291400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDCA0100149"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Dn2JTClxWkhWTy2vM1ILu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Dn2JTClxWkhWTy2vM1ILu",
+  "id" : "1Dn2JTClxWkhWTy2vM1ILu",
+  "name" : "Green Grass of Tunnel",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5756bfee3261e1dd85189806aa4ab3603b28e7c4?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1Dn2JTClxWkhWTy2vM1ILu"
+}

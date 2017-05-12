@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SqxIwLKk4cXkiv6dq3zEu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0SqxIwLKk4cXkiv6dq3zEu",
+      "id" : "0SqxIwLKk4cXkiv6dq3zEu",
+      "name" : "Floex",
+      "type" : "artist",
+      "uri" : "spotify:artist:0SqxIwLKk4cXkiv6dq3zEu"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Ed3AofNpF8OXD5BtgPUeR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Ed3AofNpF8OXD5BtgPUeR",
+    "id" : "6Ed3AofNpF8OXD5BtgPUeR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/edd8232519a7cf4234de41ad7f822d6e9063c30c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dc28ec7281e6f95b012cf910968ac0ecaa9961da",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6ecec1c1d2d66695dd55b09ed95e13304495ac32",
+      "width" : 64
+    } ],
+    "name" : "Zorya",
+    "type" : "album",
+    "uri" : "spotify:album:6Ed3AofNpF8OXD5BtgPUeR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0SqxIwLKk4cXkiv6dq3zEu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0SqxIwLKk4cXkiv6dq3zEu",
+    "id" : "0SqxIwLKk4cXkiv6dq3zEu",
+    "name" : "Floex",
+    "type" : "artist",
+    "uri" : "spotify:artist:0SqxIwLKk4cXkiv6dq3zEu"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 350560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CZG961100020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3C3ZfMwFPTsa3tIPKzQHmo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3C3ZfMwFPTsa3tIPKzQHmo",
+  "id" : "3C3ZfMwFPTsa3tIPKzQHmo",
+  "name" : "Casanova",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4b723e3253cb8117e18122ca8cce3943ceb35585?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3C3ZfMwFPTsa3tIPKzQHmo"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Jtp6m4V3BrrHDSRDs1QQW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Jtp6m4V3BrrHDSRDs1QQW",
+      "id" : "5Jtp6m4V3BrrHDSRDs1QQW",
+      "name" : "Jex Thoth",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Jtp6m4V3BrrHDSRDs1QQW"
+    } ],
+    "available_markets" : [ "AU", "CA", "CR", "DO", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PH", "SG", "SV", "TR", "TW", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ZVuIDt4bFyEcEkHkDsefg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ZVuIDt4bFyEcEkHkDsefg",
+    "id" : "0ZVuIDt4bFyEcEkHkDsefg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4538205faa1ea59e04668efc3f8326c4a1d5dc76",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5470e0547401a4851d7932d6d0919b99e96084b0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/baaf27e5f8a81070c7acc4cc2dcf051935c1a75a",
+      "width" : 64
+    } ],
+    "name" : "Blood Moon Rise",
+    "type" : "album",
+    "uri" : "spotify:album:0ZVuIDt4bFyEcEkHkDsefg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Jtp6m4V3BrrHDSRDs1QQW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Jtp6m4V3BrrHDSRDs1QQW",
+    "id" : "5Jtp6m4V3BrrHDSRDs1QQW",
+    "name" : "Jex Thoth",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Jtp6m4V3BrrHDSRDs1QQW"
+  } ],
+  "available_markets" : [ "AU", "CA", "CR", "DO", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PH", "SG", "SV", "TR", "TW", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 349266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABS1490018"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5kfxBmVPawutiKQU0b3xgG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5kfxBmVPawutiKQU0b3xgG",
+  "id" : "5kfxBmVPawutiKQU0b3xgG",
+  "name" : "Keep Your Weeds",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f064e9b577215a585712a12e8d3d50d3ba2d917c?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5kfxBmVPawutiKQU0b3xgG"
+}

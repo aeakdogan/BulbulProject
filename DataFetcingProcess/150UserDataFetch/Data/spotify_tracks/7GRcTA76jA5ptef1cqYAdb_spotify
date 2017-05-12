@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id" : "7bu3H8JO7d0UbMoVzbo70s",
+      "name" : "The Cure",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/33TDfmEXufojT6jxgb3BTK",
+    "id" : "33TDfmEXufojT6jxgb3BTK",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/fbec42025b461d54853ba6431f4eaaaa69e5a9e1",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/525acedf7d205fc849906b5369cb63d775905902",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d01b135787b1637bfac073c45ceaffe486df7afe",
+      "width" : 64
+    } ],
+    "name" : "Pornography",
+    "type" : "album",
+    "uri" : "spotify:album:33TDfmEXufojT6jxgb3BTK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+    "id" : "7bu3H8JO7d0UbMoVzbo70s",
+    "name" : "The Cure",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 303960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10500797"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7GRcTA76jA5ptef1cqYAdb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7GRcTA76jA5ptef1cqYAdb",
+  "id" : "7GRcTA76jA5ptef1cqYAdb",
+  "name" : "A Strange Day",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c055714e8a03042d88fea72bd0acf3d688d90e80?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:7GRcTA76jA5ptef1cqYAdb"
+}

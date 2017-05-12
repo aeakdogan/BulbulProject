@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+      "id" : "0WwSkZ7LtFUFjGjMZBMt6T",
+      "name" : "Dire Straits",
+      "type" : "artist",
+      "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4dKdxly4ji1vfl7sEYuqBe",
+    "id" : "4dKdxly4ji1vfl7sEYuqBe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a635106f337f4216c7c05f72e43aac71c89c9d77",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dd860f9bed591cce82ae44e075f31053134ba587",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b358ff14c907b1c01de58b8010afa3fb4f4c78b5",
+      "width" : 64
+    } ],
+    "name" : "Dire Straits",
+    "type" : "album",
+    "uri" : "spotify:album:4dKdxly4ji1vfl7sEYuqBe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+    "id" : "0WwSkZ7LtFUFjGjMZBMt6T",
+    "name" : "Dire Straits",
+    "type" : "artist",
+    "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 376706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF089601042"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2XvGUsoEFpDsmfxlNsL5lL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2XvGUsoEFpDsmfxlNsL5lL",
+  "id" : "2XvGUsoEFpDsmfxlNsL5lL",
+  "name" : "In The Gallery",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9ed1136f7b42f8407c748bfaec3fa1d97c9a97c6?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2XvGUsoEFpDsmfxlNsL5lL"
+}

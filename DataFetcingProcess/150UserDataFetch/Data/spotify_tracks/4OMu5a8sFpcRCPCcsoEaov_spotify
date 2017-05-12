@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+      "id" : "36QJpDe2go2KgaRleHCDTp",
+      "name" : "Led Zeppelin",
+      "type" : "artist",
+      "uri" : "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ycjBixZf7S3WpC5WZhhUK",
+    "id" : "3ycjBixZf7S3WpC5WZhhUK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/71e6a72a1b3a00d2ddabee9a3e2d5ade3be25409",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8a9c0ef2062576026977e8a95a262f95da90cd01",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/12b952dadc9614a8893be2eb517c6c5aea9f0ded",
+      "width" : 64
+    } ],
+    "name" : "Led Zeppelin",
+    "type" : "album",
+    "uri" : "spotify:album:3ycjBixZf7S3WpC5WZhhUK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+    "id" : "36QJpDe2go2KgaRleHCDTp",
+    "name" : "Led Zeppelin",
+    "type" : "artist",
+    "uri" : "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 401066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT29900535"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4OMu5a8sFpcRCPCcsoEaov"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4OMu5a8sFpcRCPCcsoEaov",
+  "id" : "4OMu5a8sFpcRCPCcsoEaov",
+  "name" : "Babe I'm Gonna Leave You",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e82d356bea5c8244cee4e6d5447b46b87852dc11?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4OMu5a8sFpcRCPCcsoEaov"
+}

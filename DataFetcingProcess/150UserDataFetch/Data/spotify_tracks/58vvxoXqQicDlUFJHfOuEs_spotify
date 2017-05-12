@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5",
+      "id" : "432R46LaYsJZV2Gmc4jUV5",
+      "name" : "Joy Division",
+      "type" : "artist",
+      "uri" : "spotify:artist:432R46LaYsJZV2Gmc4jUV5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2KPhpTUihx9KRWRwBtpTeJ",
+    "id" : "2KPhpTUihx9KRWRwBtpTeJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9f730a8e03015329e4ec5412c7f3e1139dc2697e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/72dd3060dfa3aa9ac10b57fb7a7cff5ec19b515d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d88070526b82b897741d0e34c94473088d2d3587",
+      "width" : 64
+    } ],
+    "name" : "Substance",
+    "type" : "album",
+    "uri" : "spotify:album:2KPhpTUihx9KRWRwBtpTeJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5",
+    "id" : "432R46LaYsJZV2Gmc4jUV5",
+    "name" : "Joy Division",
+    "type" : "artist",
+    "uri" : "spotify:artist:432R46LaYsJZV2Gmc4jUV5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 144661,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCRL1000159"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/58vvxoXqQicDlUFJHfOuEs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/58vvxoXqQicDlUFJHfOuEs",
+  "id" : "58vvxoXqQicDlUFJHfOuEs",
+  "name" : "Warsaw - 2010 Remastered Version",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f2e55a42d247120aadef84ca78bbc483228b9960?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:58vvxoXqQicDlUFJHfOuEs"
+}

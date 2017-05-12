@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4RVnAU35WRWra6OZ3CbbMA",
+      "id" : "4RVnAU35WRWra6OZ3CbbMA",
+      "name" : "Kylie Minogue",
+      "type" : "artist",
+      "uri" : "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5unws9pNdHI6kENSDaRt84"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5unws9pNdHI6kENSDaRt84",
+    "id" : "5unws9pNdHI6kENSDaRt84",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6a1a69aa87b85ac6657545545ceb5031f413e5b7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/61ea76e6cc05d6bc5b68dafbb9404b9836a65e66",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f0fa58056488e6025c58cd56d9781bd559078edd",
+      "width" : 64
+    } ],
+    "name" : "X",
+    "type" : "album",
+    "uri" : "spotify:album:5unws9pNdHI6kENSDaRt84"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4RVnAU35WRWra6OZ3CbbMA",
+    "id" : "4RVnAU35WRWra6OZ3CbbMA",
+    "name" : "Kylie Minogue",
+    "type" : "artist",
+    "uri" : "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 211906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE0703009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5NsYNCX3Tf8W1tXjmD3xZi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5NsYNCX3Tf8W1tXjmD3xZi",
+  "id" : "5NsYNCX3Tf8W1tXjmD3xZi",
+  "name" : "In My Arms",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1ae83e59f6c201418324c9f9f4ed6184b79ab26a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5NsYNCX3Tf8W1tXjmD3xZi"
+}

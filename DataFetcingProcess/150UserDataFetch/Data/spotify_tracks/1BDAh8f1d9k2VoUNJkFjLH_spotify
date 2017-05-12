@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+      "id" : "4AYkFtEBnNnGuoo8HaHErd",
+      "name" : "Madness",
+      "type" : "artist",
+      "uri" : "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0P4y7gUM4otgBHfWDIRDFN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0P4y7gUM4otgBHfWDIRDFN",
+    "id" : "0P4y7gUM4otgBHfWDIRDFN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ba43902084113c022f8b264eb27265fa7d4989e1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/85fa2829b19df3733db993cecdba56f578bf5079",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7ea74d2ee4f605ea398a83ba1a20504b990da0ae",
+      "width" : 64
+    } ],
+    "name" : "Oui Oui, Si Si, Ja Ja, Da Da",
+    "type" : "album",
+    "uri" : "spotify:album:0P4y7gUM4otgBHfWDIRDFN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4AYkFtEBnNnGuoo8HaHErd",
+    "id" : "4AYkFtEBnNnGuoo8HaHErd",
+    "name" : "Madness",
+    "type" : "artist",
+    "uri" : "spotify:artist:4AYkFtEBnNnGuoo8HaHErd"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 208173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEJ1200403"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1BDAh8f1d9k2VoUNJkFjLH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1BDAh8f1d9k2VoUNJkFjLH",
+  "id" : "1BDAh8f1d9k2VoUNJkFjLH",
+  "name" : "Never Knew Your Name",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cb553824b7d2618a7b2195b0864898b0b1d06135?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1BDAh8f1d9k2VoUNJkFjLH"
+}

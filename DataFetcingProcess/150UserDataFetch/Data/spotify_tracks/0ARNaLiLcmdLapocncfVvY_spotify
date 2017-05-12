@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6pmxr66tMAePxzOLfjGNcX",
+      "id" : "6pmxr66tMAePxzOLfjGNcX",
+      "name" : "Beirut",
+      "type" : "artist",
+      "uri" : "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5o6rAfcrvCMOE2Xdu1SHIz",
+    "id" : "5o6rAfcrvCMOE2Xdu1SHIz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/47ed1d2aa02e16af590f052282ceea88e0796b5f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/529231e57eb5d13f0674204bb8d75edf4569b41d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7ee580e416f1acd422dd7278f88a97a7034278c4",
+      "width" : 64
+    } ],
+    "name" : "The Rip Tide",
+    "type" : "album",
+    "uri" : "spotify:album:5o6rAfcrvCMOE2Xdu1SHIz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6pmxr66tMAePxzOLfjGNcX",
+    "id" : "6pmxr66tMAePxzOLfjGNcX",
+    "name" : "Beirut",
+    "type" : "artist",
+    "uri" : "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 198973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCPT1110007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ARNaLiLcmdLapocncfVvY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ARNaLiLcmdLapocncfVvY",
+  "id" : "0ARNaLiLcmdLapocncfVvY",
+  "name" : "Vagabond",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c71c6f3055382a9ea134a4362e52a75baadce27c?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0ARNaLiLcmdLapocncfVvY"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+      "id" : "4LEiUm1SRbFMgfqnQTwUbQ",
+      "name" : "Bon Iver",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4SxFsOO0h4Nz3lFJuysKq5",
+    "id" : "4SxFsOO0h4Nz3lFJuysKq5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ad034d9c04a3724c8bf4745a460eb22f06fceddf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9b0bcebb4b7f01768ac0fb27284c21b44de4f24d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fc0e2818b4d4bfbaf5c110c69d4ebe0cd8efa9ec",
+      "width" : 64
+    } ],
+    "name" : "For Emma, Forever Ago",
+    "type" : "album",
+    "uri" : "spotify:album:4SxFsOO0h4Nz3lFJuysKq5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+    "id" : "4LEiUm1SRbFMgfqnQTwUbQ",
+    "name" : "Bon Iver",
+    "type" : "artist",
+    "uri" : "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 322040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US38Y0811504"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2K9aNlFNoh2UVY7K7iPMnS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2K9aNlFNoh2UVY7K7iPMnS",
+  "id" : "2K9aNlFNoh2UVY7K7iPMnS",
+  "name" : "The Wolves (Act I and II)",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/954732cb8f82ebab0a9a9ca5400dfa8b8b0e6cd1?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2K9aNlFNoh2UVY7K7iPMnS"
+}

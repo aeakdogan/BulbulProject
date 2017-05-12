@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+      "id" : "7oPftvlwr6VrsViSDV7fJY",
+      "name" : "Green Day",
+      "type" : "artist",
+      "uri" : "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4uG8q3GPuWHQlRbswMIRS6",
+    "id" : "4uG8q3GPuWHQlRbswMIRS6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/927a0b3a207f999eaf94aa1f9b92b8900c95e014",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/39ac4904a22405fcf66d9ab8dea354d5b95a64f2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/882ded5bfb1472be3ddd5862a224f62972c1a49c",
+      "width" : 64
+    } ],
+    "name" : "Dookie",
+    "type" : "album",
+    "uri" : "spotify:album:4uG8q3GPuWHQlRbswMIRS6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY",
+    "id" : "7oPftvlwr6VrsViSDV7fJY",
+    "name" : "Green Day",
+    "type" : "artist",
+    "uri" : "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 181533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE19900151"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6L89mwZXSOwYl76YXfX13s",
+  "id" : "6L89mwZXSOwYl76YXfX13s",
+  "name" : "Basket Case",
+  "popularity" : 73,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a66864fcfd8923c6084fc2000e3086e4e1e0a657?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6L89mwZXSOwYl76YXfX13s"
+}

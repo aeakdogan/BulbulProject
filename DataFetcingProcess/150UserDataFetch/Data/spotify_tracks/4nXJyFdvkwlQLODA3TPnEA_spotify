@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FfjnGXMhxSsJTuGLWBDth",
+      "id" : "6FfjnGXMhxSsJTuGLWBDth",
+      "name" : "HEALTH",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FfjnGXMhxSsJTuGLWBDth"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0SlEoeXaiO8JhQCZE7CTdA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0SlEoeXaiO8JhQCZE7CTdA",
+    "id" : "0SlEoeXaiO8JhQCZE7CTdA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ef2fcbe6b93d8fcdb2803bd1480d32f99c5c1fa4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fb30612f1a6e1a1ad28b46e91227ff6dd2f23807",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9fe1b26450d8487e8530ec9debea3c90ac0c1663",
+      "width" : 64
+    } ],
+    "name" : "DISCO2",
+    "type" : "album",
+    "uri" : "spotify:album:0SlEoeXaiO8JhQCZE7CTdA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6FfjnGXMhxSsJTuGLWBDth",
+    "id" : "6FfjnGXMhxSsJTuGLWBDth",
+    "name" : "HEALTH",
+    "type" : "artist",
+    "uri" : "spotify:artist:6FfjnGXMhxSsJTuGLWBDth"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 245666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US89R1083201"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4nXJyFdvkwlQLODA3TPnEA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4nXJyFdvkwlQLODA3TPnEA",
+  "id" : "4nXJyFdvkwlQLODA3TPnEA",
+  "name" : "USA Boys",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0bab2f33c157b1b3f88eaa31ff597d6e49d6c29b?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4nXJyFdvkwlQLODA3TPnEA"
+}

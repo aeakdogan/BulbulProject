@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+      "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+      "name" : "The Lumineers",
+      "type" : "artist",
+      "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6NWYmlHxAME5KXtxrTlUxW",
+    "id" : "6NWYmlHxAME5KXtxrTlUxW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/178f2aa69928c5880fb16ee26e7dabeecd8d50e3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7e3e1bbd34e8bd12fed109a622a6c76f69830421",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b8a2677a3ade43597bb8d78ca6ad69bc0fd54f8f",
+      "width" : 64
+    } ],
+    "name" : "The Lumineers",
+    "type" : "album",
+    "uri" : "spotify:album:6NWYmlHxAME5KXtxrTlUxW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+    "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+    "name" : "The Lumineers",
+    "type" : "artist",
+    "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 163133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDMG1260805"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0W4Kpfp1w2xkY3PrV714B7",
+  "id" : "0W4Kpfp1w2xkY3PrV714B7",
+  "name" : "Ho Hey",
+  "popularity" : 67,
+  "preview_url" : "https://p.scdn.co/mp3-preview/57e57e6eb594e55de01b85cea4d470243f6121f5?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0W4Kpfp1w2xkY3PrV714B7"
+}

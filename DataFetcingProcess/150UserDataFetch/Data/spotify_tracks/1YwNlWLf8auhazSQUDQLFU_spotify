@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX",
+      "id" : "762310PdDnwsDxAQxzQkfX",
+      "name" : "Depeche Mode",
+      "type" : "artist",
+      "uri" : "spotify:artist:762310PdDnwsDxAQxzQkfX"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/13OoJ5Y23cdo8CDAiQwznb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/13OoJ5Y23cdo8CDAiQwznb",
+    "id" : "13OoJ5Y23cdo8CDAiQwznb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1d155007f0b77801b7b3a929e9e8161ec01ba6b0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/104652f6eda56f2f23a833ebcd203b71d9dbd3f1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e85becf8f6255079dcfea5549da17f632c700fa9",
+      "width" : 64
+    } ],
+    "name" : "Enjoy The Silence (21490)",
+    "type" : "album",
+    "uri" : "spotify:album:13OoJ5Y23cdo8CDAiQwznb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX",
+    "id" : "762310PdDnwsDxAQxzQkfX",
+    "name" : "Depeche Mode",
+    "type" : "artist",
+    "uri" : "spotify:artist:762310PdDnwsDxAQxzQkfX"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4zvLVP1siaenGVnUBDo2nt",
+    "id" : "4zvLVP1siaenGVnUBDo2nt",
+    "name" : "Daniel Miller",
+    "type" : "artist",
+    "uri" : "spotify:artist:4zvLVP1siaenGVnUBDo2nt"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7CXlqxbfckEDH2hQMjrGyZ",
+    "id" : "7CXlqxbfckEDH2hQMjrGyZ",
+    "name" : "Phil Legg",
+    "type" : "artist",
+    "uri" : "spotify:artist:7CXlqxbfckEDH2hQMjrGyZ"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 257333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH9800146"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1YwNlWLf8auhazSQUDQLFU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1YwNlWLf8auhazSQUDQLFU",
+  "id" : "1YwNlWLf8auhazSQUDQLFU",
+  "name" : "Enjoy The Silence - Single Mix",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0abeb731f0e86fa6b47d156e049ea6906e4e449d?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1YwNlWLf8auhazSQUDQLFU"
+}

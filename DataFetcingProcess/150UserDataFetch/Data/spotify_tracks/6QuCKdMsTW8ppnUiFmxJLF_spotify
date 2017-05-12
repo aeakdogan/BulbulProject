@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0s1ec6aPpRZ4DCj15w1EFg",
+      "id" : "0s1ec6aPpRZ4DCj15w1EFg",
+      "name" : "Dario Marianelli",
+      "type" : "artist",
+      "uri" : "spotify:artist:0s1ec6aPpRZ4DCj15w1EFg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Dot4uMsJMx8n1Xi7gAdV6",
+      "id" : "1Dot4uMsJMx8n1Xi7gAdV6",
+      "name" : "Jean-Yves Thibaudet",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Dot4uMsJMx8n1Xi7gAdV6"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/31qEnY1MFmGwOdgjLLClPd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/31qEnY1MFmGwOdgjLLClPd",
+    "id" : "31qEnY1MFmGwOdgjLLClPd",
+    "images" : [ {
+      "height" : 632,
+      "url" : "https://i.scdn.co/image/410ca26e3b4d9e3a4e437330bd4d4372e8c48623",
+      "width" : 640
+    }, {
+      "height" : 296,
+      "url" : "https://i.scdn.co/image/ed96ddf08de024e33b4daf973cd9623df4c3db77",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/5e20eede1d516f48485c01e4c2cd236573debe38",
+      "width" : 64
+    } ],
+    "name" : "Pride and Prejudice OST (US and Canada Version)",
+    "type" : "album",
+    "uri" : "spotify:album:31qEnY1MFmGwOdgjLLClPd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0s1ec6aPpRZ4DCj15w1EFg",
+    "id" : "0s1ec6aPpRZ4DCj15w1EFg",
+    "name" : "Dario Marianelli",
+    "type" : "artist",
+    "uri" : "spotify:artist:0s1ec6aPpRZ4DCj15w1EFg"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Dot4uMsJMx8n1Xi7gAdV6",
+    "id" : "1Dot4uMsJMx8n1Xi7gAdV6",
+    "name" : "Jean-Yves Thibaudet",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Dot4uMsJMx8n1Xi7gAdV6"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 82773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEKZ0500064"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6QuCKdMsTW8ppnUiFmxJLF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6QuCKdMsTW8ppnUiFmxJLF",
+  "id" : "6QuCKdMsTW8ppnUiFmxJLF",
+  "name" : "Liz on Top of the World",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c0b052d172ffbe973b03a1e5e42072ccd3f39203?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:6QuCKdMsTW8ppnUiFmxJLF"
+}

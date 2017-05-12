@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+      "id" : "7lOJ7WXyopaxri0dbOiZkd",
+      "name" : "Broken Social Scene",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Awy6Aaczv4aecYZYDSQXu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Awy6Aaczv4aecYZYDSQXu",
+    "id" : "4Awy6Aaczv4aecYZYDSQXu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5395163415062a170d3ba67642e985a36e45f447",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e687298fe34710d8a2f65b5cd1d6b3e985fee34",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/813abef9e50d1c1ca1ebdf7c47e4455bcb50d5f8",
+      "width" : 64
+    } ],
+    "name" : "You Forgot it in People",
+    "type" : "album",
+    "uri" : "spotify:album:4Awy6Aaczv4aecYZYDSQXu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+    "id" : "7lOJ7WXyopaxri0dbOiZkd",
+    "name" : "Broken Social Scene",
+    "type" : "artist",
+    "uri" : "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 382240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAAA10200111"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/05J5tBOGYj2lbEbm68f7z6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/05J5tBOGYj2lbEbm68f7z6",
+  "id" : "05J5tBOGYj2lbEbm68f7z6",
+  "name" : "Lover's Spit",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/03089c845c45bd7283ed9fa52c53d3f1463de89b?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:05J5tBOGYj2lbEbm68f7z6"
+}

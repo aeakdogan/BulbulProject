@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46MmlFKM8ivDsUnGOejvSM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/46MmlFKM8ivDsUnGOejvSM",
+      "id" : "46MmlFKM8ivDsUnGOejvSM",
+      "name" : "Jonny Craig",
+      "type" : "artist",
+      "uri" : "spotify:artist:46MmlFKM8ivDsUnGOejvSM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2RLzJjaq1XuTb6LmYEDOKz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2RLzJjaq1XuTb6LmYEDOKz",
+    "id" : "2RLzJjaq1XuTb6LmYEDOKz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/485fbc1cf3ffef620585a3e65b457b53b808a89e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/694bf69c56bce1dd3738d89fc82382ace600cd93",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/20c30925eec88608967a523a4f64ff70ce88f236",
+      "width" : 64
+    } ],
+    "name" : "A Dream Is A Question You Don't Know How To Answer",
+    "type" : "album",
+    "uri" : "spotify:album:2RLzJjaq1XuTb6LmYEDOKz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/46MmlFKM8ivDsUnGOejvSM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/46MmlFKM8ivDsUnGOejvSM",
+    "id" : "46MmlFKM8ivDsUnGOejvSM",
+    "name" : "Jonny Craig",
+    "type" : "artist",
+    "uri" : "spotify:artist:46MmlFKM8ivDsUnGOejvSM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 238906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEK70908410"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1kNpW2a50rm2HuouIRTjyT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1kNpW2a50rm2HuouIRTjyT",
+  "id" : "1kNpW2a50rm2HuouIRTjyT",
+  "name" : "Children Of Divorce",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cea8aabd44e3c5cfc76f10643bced165766aa51c?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1kNpW2a50rm2HuouIRTjyT"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1aEYCT7t18aM3VvM6y8oVR",
+      "id" : "1aEYCT7t18aM3VvM6y8oVR",
+      "name" : "Alkaline Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:1aEYCT7t18aM3VvM6y8oVR"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5waByzUzczyEbkV55jcIke"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5waByzUzczyEbkV55jcIke",
+    "id" : "5waByzUzczyEbkV55jcIke",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/59884c4215fafea4b189df5f53817bb2b032d28b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c2ac514fbca5e4425983ae92ad4c64b7e721be37",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8f092f332bda2b156d2a430806e482f3d07f0fee",
+      "width" : 64
+    } ],
+    "name" : "The Alkaline Trio",
+    "type" : "album",
+    "uri" : "spotify:album:5waByzUzczyEbkV55jcIke"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1aEYCT7t18aM3VvM6y8oVR",
+    "id" : "1aEYCT7t18aM3VvM6y8oVR",
+    "name" : "Alkaline Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:1aEYCT7t18aM3VvM6y8oVR"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 170360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4ZV0910097"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3SPNVZvfdJBzvAqzx6szsv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3SPNVZvfdJBzvAqzx6szsv",
+  "id" : "3SPNVZvfdJBzvAqzx6szsv",
+  "name" : "Goodbye Forever",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/90cd784e3b05537e381a755028b7a4cb5588b33c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3SPNVZvfdJBzvAqzx6szsv"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KUngtrmJAZEvlrRIKNYC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KUngtrmJAZEvlrRIKNYC7",
+      "id" : "6KUngtrmJAZEvlrRIKNYC7",
+      "name" : "Orcas",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KUngtrmJAZEvlrRIKNYC7"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0P71ey2uhq83bxfMwAkWSR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0P71ey2uhq83bxfMwAkWSR",
+    "id" : "0P71ey2uhq83bxfMwAkWSR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a81b7bd55f246f1ef96cc96fe31997ec1482cbaa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1fd446d2f51c12bc632b483e39aa66d7e93db213",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5284927d459f38f17a11cf1ab4829af416e04d57",
+      "width" : 64
+    } ],
+    "name" : "Orcas",
+    "type" : "album",
+    "uri" : "spotify:album:0P71ey2uhq83bxfMwAkWSR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6KUngtrmJAZEvlrRIKNYC7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6KUngtrmJAZEvlrRIKNYC7",
+    "id" : "6KUngtrmJAZEvlrRIKNYC7",
+    "name" : "Orcas",
+    "type" : "artist",
+    "uri" : "spotify:artist:6KUngtrmJAZEvlrRIKNYC7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 296520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX261111108"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4g1Pe0vDkp3iLy4Cv1VwOQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4g1Pe0vDkp3iLy4Cv1VwOQ",
+  "id" : "4g1Pe0vDkp3iLy4Cv1VwOQ",
+  "name" : "I Saw My Echo",
+  "popularity" : 6,
+  "preview_url" : "https://p.scdn.co/mp3-preview/29dab28293569b39dd236b776d217c354d59cc55?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4g1Pe0vDkp3iLy4Cv1VwOQ"
+}

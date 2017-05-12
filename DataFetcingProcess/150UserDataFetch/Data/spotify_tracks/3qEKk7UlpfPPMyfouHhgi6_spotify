@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Uz6jx81OY2J5K8Z4wmy2P",
+      "id" : "3Uz6jx81OY2J5K8Z4wmy2P",
+      "name" : "Camel",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Uz6jx81OY2J5K8Z4wmy2P"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1YRwNrwQKhQpEBUeLCtucL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1YRwNrwQKhQpEBUeLCtucL",
+    "id" : "1YRwNrwQKhQpEBUeLCtucL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/730acb77a0c81851e9516c43383d873232fa9265",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6a134ad39aaeaf9aa541de342ff859fec17a5f75",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/072649b9decd397ea6044b9fea762de9529a076b",
+      "width" : 64
+    } ],
+    "name" : "Breathless",
+    "type" : "album",
+    "uri" : "spotify:album:1YRwNrwQKhQpEBUeLCtucL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Uz6jx81OY2J5K8Z4wmy2P",
+    "id" : "3Uz6jx81OY2J5K8Z4wmy2P",
+    "name" : "Camel",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Uz6jx81OY2J5K8Z4wmy2P"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 440000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V80444766"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3qEKk7UlpfPPMyfouHhgi6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3qEKk7UlpfPPMyfouHhgi6",
+  "id" : "3qEKk7UlpfPPMyfouHhgi6",
+  "name" : "Echoes",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b0c55f3d3734e1405ebd5e1fbee998cd55873208?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3qEKk7UlpfPPMyfouHhgi6"
+}

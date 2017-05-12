@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2k4duorvZ5lTq33ljpT0sc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2k4duorvZ5lTq33ljpT0sc",
+      "id" : "2k4duorvZ5lTq33ljpT0sc",
+      "name" : "Antimatter",
+      "type" : "artist",
+      "uri" : "spotify:artist:2k4duorvZ5lTq33ljpT0sc"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Bvrdzqzu0II4d6wMN5AZy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Bvrdzqzu0II4d6wMN5AZy",
+    "id" : "1Bvrdzqzu0II4d6wMN5AZy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5aa1998a3e32617efe4c816795024987f4ffb3a0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b1ad3458727da16fc0e1969c51ed36e160f19c84",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/40707669a6f00e68a721c382137cbe7f7d0c38d9",
+      "width" : 64
+    } ],
+    "name" : "Planetary Confinement",
+    "type" : "album",
+    "uri" : "spotify:album:1Bvrdzqzu0II4d6wMN5AZy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2k4duorvZ5lTq33ljpT0sc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2k4duorvZ5lTq33ljpT0sc",
+    "id" : "2k4duorvZ5lTq33ljpT0sc",
+    "name" : "Antimatter",
+    "type" : "artist",
+    "uri" : "spotify:artist:2k4duorvZ5lTq33ljpT0sc"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 251120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2420505904"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2lj5md637Jp8lM0Mm4jVYC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2lj5md637Jp8lM0Mm4jVYC",
+  "id" : "2lj5md637Jp8lM0Mm4jVYC",
+  "name" : "Epitaph",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2673f70256c7fc1f1f5e2ce054e47fd8ecf66732?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2lj5md637Jp8lM0Mm4jVYC"
+}

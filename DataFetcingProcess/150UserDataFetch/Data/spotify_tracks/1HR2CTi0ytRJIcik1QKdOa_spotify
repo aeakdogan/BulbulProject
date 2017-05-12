@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7MZzYkbHL9Tk3O6WeD4Z0Z",
+    "id" : "7MZzYkbHL9Tk3O6WeD4Z0Z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e74585aca312d5b33cff46b4dbaf20fbe72775c3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5623425bf44fa2cdb32acfc228313e69b3666a4f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7374ce58b0bf30424277eaa05de0fcdf5107ac9a",
+      "width" : 64
+    } ],
+    "name" : "Relapse: Refill",
+    "type" : "album",
+    "uri" : "spotify:album:7MZzYkbHL9Tk3O6WeD4Z0Z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+    "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+    "name" : "Eminem",
+    "type" : "artist",
+    "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 392826,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM70964089"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1HR2CTi0ytRJIcik1QKdOa",
+  "id" : "1HR2CTi0ytRJIcik1QKdOa",
+  "name" : "Beautiful",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ddd9ddf53fa3699979d3c77dacd38a14b4e24207?cid=null",
+  "track_number" : 17,
+  "type" : "track",
+  "uri" : "spotify:track:1HR2CTi0ytRJIcik1QKdOa"
+}

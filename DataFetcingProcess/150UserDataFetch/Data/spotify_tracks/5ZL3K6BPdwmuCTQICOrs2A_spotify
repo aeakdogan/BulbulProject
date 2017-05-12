@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/459INk8vcC0ebEef82WjIK",
+      "id" : "459INk8vcC0ebEef82WjIK",
+      "name" : "Erik Satie",
+      "type" : "artist",
+      "uri" : "spotify:artist:459INk8vcC0ebEef82WjIK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60YDZf6o3FXnne3f6rlxHM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60YDZf6o3FXnne3f6rlxHM",
+      "id" : "60YDZf6o3FXnne3f6rlxHM",
+      "name" : "Alessandro Deljavan",
+      "type" : "artist",
+      "uri" : "spotify:artist:60YDZf6o3FXnne3f6rlxHM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6wMoojBrtsPi5xW6Du66fi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6wMoojBrtsPi5xW6Du66fi",
+    "id" : "6wMoojBrtsPi5xW6Du66fi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1489ccf590fe1e7222ea72207f8cab363dd8b56d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/53d97d79f6a607ba06b0cdc4d23e129e4df9f2df",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0c337779bc50bbf9bfc8c7a7b8ac65c534632eda",
+      "width" : 64
+    } ],
+    "name" : "Satie: Gymnopédies and other Works",
+    "type" : "album",
+    "uri" : "spotify:album:6wMoojBrtsPi5xW6Du66fi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/459INk8vcC0ebEef82WjIK",
+    "id" : "459INk8vcC0ebEef82WjIK",
+    "name" : "Erik Satie",
+    "type" : "artist",
+    "uri" : "spotify:artist:459INk8vcC0ebEef82WjIK"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/60YDZf6o3FXnne3f6rlxHM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/60YDZf6o3FXnne3f6rlxHM",
+    "id" : "60YDZf6o3FXnne3f6rlxHM",
+    "name" : "Alessandro Deljavan",
+    "type" : "artist",
+    "uri" : "spotify:artist:60YDZf6o3FXnne3f6rlxHM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 424540,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITBZ81201302"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5ZL3K6BPdwmuCTQICOrs2A"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5ZL3K6BPdwmuCTQICOrs2A",
+  "id" : "5ZL3K6BPdwmuCTQICOrs2A",
+  "name" : "3 Sarabandes: Sarabande No. 1",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b0ddbdd57b8ff5614188674d158ca2bc4b23bf60?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5ZL3K6BPdwmuCTQICOrs2A"
+}

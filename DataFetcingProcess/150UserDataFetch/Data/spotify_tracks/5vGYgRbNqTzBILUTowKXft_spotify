@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0SD4eZCN4Kr0wQk56hCdh2",
+      "id" : "0SD4eZCN4Kr0wQk56hCdh2",
+      "name" : "Bonnie Tyler",
+      "type" : "artist",
+      "uri" : "spotify:artist:0SD4eZCN4Kr0wQk56hCdh2"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Kbg0CF4C9jHLPcQWnNB2m"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Kbg0CF4C9jHLPcQWnNB2m",
+    "id" : "3Kbg0CF4C9jHLPcQWnNB2m",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/939bb6ee279d6e9bb7648a2f5a0f3768a3898908",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bb4ee9737638ef9c0d6b0517f5636adabeb83ce1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/412c86ff353e38fa1afa91b8aa52c2ab9cbf92fc",
+      "width" : 64
+    } ],
+    "name" : "Bitterblue",
+    "type" : "album",
+    "uri" : "spotify:album:3Kbg0CF4C9jHLPcQWnNB2m"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0SD4eZCN4Kr0wQk56hCdh2",
+    "id" : "0SD4eZCN4Kr0wQk56hCdh2",
+    "name" : "Bonnie Tyler",
+    "type" : "artist",
+    "uri" : "spotify:artist:0SD4eZCN4Kr0wQk56hCdh2"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 236426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V81287436"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5vGYgRbNqTzBILUTowKXft"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5vGYgRbNqTzBILUTowKXft",
+  "id" : "5vGYgRbNqTzBILUTowKXft",
+  "name" : "Why",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c3768f24d509dddcd750cbb5fe7edd89faed7456?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:5vGYgRbNqTzBILUTowKXft"
+}

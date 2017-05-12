@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XolQApHVLzp4L8AeOZ7nx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XolQApHVLzp4L8AeOZ7nx",
+      "id" : "1XolQApHVLzp4L8AeOZ7nx",
+      "name" : "Sanctuary",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XolQApHVLzp4L8AeOZ7nx"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3cXGcD1vNXF2GtNrjJMm6c"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3cXGcD1vNXF2GtNrjJMm6c",
+    "id" : "3cXGcD1vNXF2GtNrjJMm6c",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0f3697cff4c3350c736967bbc24353993dce5277",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/708f4e18f2e4bf725a4f0af509c20363ff272b9c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ac183d6dbde942481ea9646138fd9e7dd8d5e887",
+      "width" : 64
+    } ],
+    "name" : "Into The Mirror Black",
+    "type" : "album",
+    "uri" : "spotify:album:3cXGcD1vNXF2GtNrjJMm6c"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1XolQApHVLzp4L8AeOZ7nx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1XolQApHVLzp4L8AeOZ7nx",
+    "id" : "1XolQApHVLzp4L8AeOZ7nx",
+    "name" : "Sanctuary",
+    "type" : "artist",
+    "uri" : "spotify:artist:1XolQApHVLzp4L8AeOZ7nx"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 323133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19000906"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1CqEGSkd5ES1cMQ7Gq61FS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1CqEGSkd5ES1cMQ7Gq61FS",
+  "id" : "1CqEGSkd5ES1cMQ7Gq61FS",
+  "name" : "Eden Lies Obscured",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d48d9e2a4c0a22b2b6b6232f7e70ffe5e3aa6971?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1CqEGSkd5ES1cMQ7Gq61FS"
+}

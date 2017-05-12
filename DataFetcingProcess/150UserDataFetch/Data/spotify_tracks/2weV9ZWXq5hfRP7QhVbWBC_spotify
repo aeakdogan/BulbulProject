@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6lyku6lhbB3tLc3Dghs5CM",
+      "id" : "6lyku6lhbB3tLc3Dghs5CM",
+      "name" : "The Frames",
+      "type" : "artist",
+      "uri" : "spotify:artist:6lyku6lhbB3tLc3Dghs5CM"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6LtalDfaotsZ0SSeTPYfzD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6LtalDfaotsZ0SSeTPYfzD",
+    "id" : "6LtalDfaotsZ0SSeTPYfzD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f03d4f68e7018b90ee06b5f66e1371c0c51e630f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8c89f7f258d4759ea91a9049d08d9702fdf1eb30",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/806bf1d51ac02e357df44267867e0d94b097b4cb",
+      "width" : 64
+    } ],
+    "name" : "Dance The Devil",
+    "type" : "album",
+    "uri" : "spotify:album:6LtalDfaotsZ0SSeTPYfzD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6lyku6lhbB3tLc3Dghs5CM",
+    "id" : "6lyku6lhbB3tLc3Dghs5CM",
+    "name" : "The Frames",
+    "type" : "artist",
+    "uri" : "spotify:artist:6lyku6lhbB3tLc3Dghs5CM"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 273560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHW9900088"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2weV9ZWXq5hfRP7QhVbWBC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2weV9ZWXq5hfRP7QhVbWBC",
+  "id" : "2weV9ZWXq5hfRP7QhVbWBC",
+  "name" : "Seven Day Mile",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/717f150dee6f35e91fa1959fb25141728a487676?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2weV9ZWXq5hfRP7QhVbWBC"
+}

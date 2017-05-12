@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj",
+      "id" : "4kwxTgCKMipBKhSnEstNKj",
+      "name" : "Animal Collective",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kwxTgCKMipBKhSnEstNKj"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5O9OXl9zAWMJTzawofxuan",
+    "id" : "5O9OXl9zAWMJTzawofxuan",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/27ef09fbaa94c404c964e9db5db47fafbf4dbeb8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/463b2a7c49341e041035bab7966001fca2e04200",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/75398f2b344a966c632a16e950452497d90cbbab",
+      "width" : 64
+    } ],
+    "name" : "Merriweather Post Pavilion",
+    "type" : "album",
+    "uri" : "spotify:album:5O9OXl9zAWMJTzawofxuan"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4kwxTgCKMipBKhSnEstNKj",
+    "id" : "4kwxTgCKMipBKhSnEstNKj",
+    "name" : "Animal Collective",
+    "type" : "artist",
+    "uri" : "spotify:artist:4kwxTgCKMipBKhSnEstNKj"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 340786,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0800810"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2gE0khQ948RYQOeTgCUL2a",
+  "id" : "2gE0khQ948RYQOeTgCUL2a",
+  "name" : "My Girls",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8a10bb8cc7a550c598977985566cd47bed0f3b30?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2gE0khQ948RYQOeTgCUL2a"
+}

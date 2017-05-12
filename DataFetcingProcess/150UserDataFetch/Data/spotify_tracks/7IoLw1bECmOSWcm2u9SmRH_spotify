@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+      "id" : "5a2EaR3hamoenG9rDuVn8j",
+      "name" : "Prince",
+      "type" : "artist",
+      "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0qcgEPOg67XnxGizdAAcGa",
+    "id" : "0qcgEPOg67XnxGizdAAcGa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3e33247313774a0f0f78899dbc693488313d0585",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e262a1831dad2a189e040dce61158e3c253c9cd3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c3316458ae0193a43e01136fd366893e0a8992d8",
+      "width" : 64
+    } ],
+    "name" : "Diamonds And Pearls",
+    "type" : "album",
+    "uri" : "spotify:album:0qcgEPOg67XnxGizdAAcGa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+    "id" : "5a2EaR3hamoenG9rDuVn8j",
+    "name" : "Prince",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 285266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19901188"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7IoLw1bECmOSWcm2u9SmRH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7IoLw1bECmOSWcm2u9SmRH",
+  "id" : "7IoLw1bECmOSWcm2u9SmRH",
+  "name" : "Diamonds And Pearls",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bda42ad0fe8e5ee27e54e3a3ac9f2091a86716ae?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7IoLw1bECmOSWcm2u9SmRH"
+}

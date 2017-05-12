@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2G5cWvHkX9WSrGv6OnmpWD",
+      "id" : "2G5cWvHkX9WSrGv6OnmpWD",
+      "name" : "Stephen Duffy",
+      "type" : "artist",
+      "uri" : "spotify:artist:2G5cWvHkX9WSrGv6OnmpWD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0G4EndQ5njpOcuEKSvrH8S"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0G4EndQ5njpOcuEKSvrH8S",
+    "id" : "0G4EndQ5njpOcuEKSvrH8S",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ad1172acd1f4d874676ed1e2431c988582d69666",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/08ede56343827713b151245e491533120c59fad9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3732689f790e45f987909c4194e6cc71128c2dcd",
+      "width" : 64
+    } ],
+    "name" : "The Ups And Downs",
+    "type" : "album",
+    "uri" : "spotify:album:0G4EndQ5njpOcuEKSvrH8S"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2G5cWvHkX9WSrGv6OnmpWD",
+    "id" : "2G5cWvHkX9WSrGv6OnmpWD",
+    "name" : "Stephen Duffy",
+    "type" : "artist",
+    "uri" : "spotify:artist:2G5cWvHkX9WSrGv6OnmpWD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 212133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA8500037"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0H8dutnUR6fmcKNJvFqCUh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0H8dutnUR6fmcKNJvFqCUh",
+  "id" : "0H8dutnUR6fmcKNJvFqCUh",
+  "name" : "Kiss Me (1985)",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ef6569763cdcde912a53c23ca341bd0e2891a0d8?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0H8dutnUR6fmcKNJvFqCUh"
+}

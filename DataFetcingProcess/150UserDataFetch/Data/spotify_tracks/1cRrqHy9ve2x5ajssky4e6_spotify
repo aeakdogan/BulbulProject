@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+      "id" : "34UhPkLbtFKRq3nmfFgejG",
+      "name" : "Mogwai",
+      "type" : "artist",
+      "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3DJXBtZOugSQhzgnfoWp8k"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3DJXBtZOugSQhzgnfoWp8k",
+    "id" : "3DJXBtZOugSQhzgnfoWp8k",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/db56acb5ee3ffab9884a1c976dcd1a066ce2ea8f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f2a821800b4de7cb82a39253fe59bdd75d5541e8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e619aae0f68e7ec3e69170018902853f45a69082",
+      "width" : 64
+    } ],
+    "name" : "Come On Die Young",
+    "type" : "album",
+    "uri" : "spotify:album:3DJXBtZOugSQhzgnfoWp8k"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+    "id" : "34UhPkLbtFKRq3nmfFgejG",
+    "name" : "Mogwai",
+    "type" : "artist",
+    "uri" : "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 393229,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCGR9960001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1cRrqHy9ve2x5ajssky4e6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1cRrqHy9ve2x5ajssky4e6",
+  "id" : "1cRrqHy9ve2x5ajssky4e6",
+  "name" : "Cody",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/36dfadf4fe26f5af79f5d269e2576b8cf5f1964f?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1cRrqHy9ve2x5ajssky4e6"
+}

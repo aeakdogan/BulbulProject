@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+      "id" : "5a2EaR3hamoenG9rDuVn8j",
+      "name" : "Prince",
+      "type" : "artist",
+      "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3U1ht9EdWEI9nMvaqdQI67",
+    "id" : "3U1ht9EdWEI9nMvaqdQI67",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/17d486fbf9c796cde38eddee1202090ce5a754d9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/45d9e44665a309e37b161dd11b72b2dc6702af60",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/89db66737c65ccb31ab93f95ac3fae56777e5301",
+      "width" : 64
+    } ],
+    "name" : "1999",
+    "type" : "album",
+    "uri" : "spotify:album:3U1ht9EdWEI9nMvaqdQI67"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+    "id" : "5a2EaR3hamoenG9rDuVn8j",
+    "name" : "Prince",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 242813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10003042"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2hABMU63xtaIYChN6eYlEb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2hABMU63xtaIYChN6eYlEb",
+  "id" : "2hABMU63xtaIYChN6eYlEb",
+  "name" : "Something In The Water (Does Not Compute)",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f95a42d258e8ed6bb90c63dc660667806768fec9?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2hABMU63xtaIYChN6eYlEb"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74",
+      "id" : "2LXeJdQVcFkhkWydphLI74",
+      "name" : "Liz Phair",
+      "type" : "artist",
+      "uri" : "spotify:artist:2LXeJdQVcFkhkWydphLI74"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7b2JNONmqJRtIKTofRdcFp",
+    "id" : "7b2JNONmqJRtIKTofRdcFp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0167641834e0aba022b8c3afbc4e543efd8b2a81",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c40e351c44536bd99f6d27880ef5e5ffa6541a2d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eeabc393210f404285796cb8de29e8bb943a79a8",
+      "width" : 64
+    } ],
+    "name" : "Whip-Smart",
+    "type" : "album",
+    "uri" : "spotify:album:7b2JNONmqJRtIKTofRdcFp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2LXeJdQVcFkhkWydphLI74",
+    "id" : "2LXeJdQVcFkhkWydphLI74",
+    "name" : "Liz Phair",
+    "type" : "artist",
+    "uri" : "spotify:artist:2LXeJdQVcFkhkWydphLI74"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 125600,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USCA29400605"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7lB56NWOKcBzKKRuomouZf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7lB56NWOKcBzKKRuomouZf",
+  "id" : "7lB56NWOKcBzKKRuomouZf",
+  "name" : "Chopsticks",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3be0ae52705c74055754b782940092278ecd54cb?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7lB56NWOKcBzKKRuomouZf"
+}

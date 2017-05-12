@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+      "id" : "7guDJrEfX3qb6FEbdPA5qi",
+      "name" : "Stevie Wonder",
+      "type" : "artist",
+      "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/51DUbu4v2tjYXxgy4I8vrG",
+    "id" : "51DUbu4v2tjYXxgy4I8vrG",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/b336170005f4639338c83ab56b2e675b2146db79",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/a35e8c84d6df5ab8b7ef12706ff91ea7089a2416",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/2c492c387747da8b2bc4cac666dd50f31cb36eb9",
+      "width" : 64
+    } ],
+    "name" : "My Cherie Amour",
+    "type" : "album",
+    "uri" : "spotify:album:51DUbu4v2tjYXxgy4I8vrG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+    "id" : "7guDJrEfX3qb6FEbdPA5qi",
+    "name" : "Stevie Wonder",
+    "type" : "artist",
+    "uri" : "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 173306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO18500078"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5ZoDwIP1ntHwciLjydJ8X2",
+  "id" : "5ZoDwIP1ntHwciLjydJ8X2",
+  "name" : "My Cherie Amour",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a681a04a12ec7c98e579d191bfde06d3cd3c05ce?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5ZoDwIP1ntHwciLjydJ8X2"
+}

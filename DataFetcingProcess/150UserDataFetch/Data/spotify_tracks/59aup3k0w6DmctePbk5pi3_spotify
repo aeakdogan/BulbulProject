@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3rqALSvaM6NU1mHBQq9I8B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3rqALSvaM6NU1mHBQq9I8B",
+      "id" : "3rqALSvaM6NU1mHBQq9I8B",
+      "name" : "Melotron",
+      "type" : "artist",
+      "uri" : "spotify:artist:3rqALSvaM6NU1mHBQq9I8B"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2Zf5PEuUONt1h13g71VOrV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2Zf5PEuUONt1h13g71VOrV",
+    "id" : "2Zf5PEuUONt1h13g71VOrV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cccd222f8e16a8a652b5d191702f9ba1b192baac",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/45cc6f7da8f38faa230ee06c50a57d51f52eb3ae",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cd0fa1a6ae84fa4337c9eec8c5a2020e201e224f",
+      "width" : 64
+    } ],
+    "name" : "Fortschritt",
+    "type" : "album",
+    "uri" : "spotify:album:2Zf5PEuUONt1h13g71VOrV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3rqALSvaM6NU1mHBQq9I8B"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3rqALSvaM6NU1mHBQq9I8B",
+    "id" : "3rqALSvaM6NU1mHBQq9I8B",
+    "name" : "Melotron",
+    "type" : "artist",
+    "uri" : "spotify:artist:3rqALSvaM6NU1mHBQq9I8B"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 238520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEH840500113"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/59aup3k0w6DmctePbk5pi3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/59aup3k0w6DmctePbk5pi3",
+  "id" : "59aup3k0w6DmctePbk5pi3",
+  "name" : "Tanz mit dem Teufel",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d7213f25445c8c1d539bd9b4db12a851d0d228d6?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:59aup3k0w6DmctePbk5pi3"
+}

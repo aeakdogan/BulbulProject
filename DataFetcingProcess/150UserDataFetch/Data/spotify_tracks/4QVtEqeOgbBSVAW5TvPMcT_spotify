@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fNmOWQzfOVyHLQ2UqUQew",
+      "id" : "6fNmOWQzfOVyHLQ2UqUQew",
+      "name" : "Eva Cassidy",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fNmOWQzfOVyHLQ2UqUQew"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4yUFiT5N2Wrs8TeEtQT7Iy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4yUFiT5N2Wrs8TeEtQT7Iy",
+    "id" : "4yUFiT5N2Wrs8TeEtQT7Iy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2ffd76d3ecc9a364d876ba7a77423d8469bd1e40",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2ee898dd9926d7664e8b0a4b81dcf6245ce49fcb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/368ad9c73ce4cacdda4178fa18b1b25fa6e811fb",
+      "width" : 64
+    } ],
+    "name" : "Eva by Heart",
+    "type" : "album",
+    "uri" : "spotify:album:4yUFiT5N2Wrs8TeEtQT7Iy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6fNmOWQzfOVyHLQ2UqUQew",
+    "id" : "6fNmOWQzfOVyHLQ2UqUQew",
+    "name" : "Eva Cassidy",
+    "type" : "artist",
+    "uri" : "spotify:artist:6fNmOWQzfOVyHLQ2UqUQew"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 247800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA449847005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4QVtEqeOgbBSVAW5TvPMcT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4QVtEqeOgbBSVAW5TvPMcT",
+  "id" : "4QVtEqeOgbBSVAW5TvPMcT",
+  "name" : "Blues in the Night",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7f89df7f2b84d0735c0d18b37308196546d7f9f4?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:4QVtEqeOgbBSVAW5TvPMcT"
+}

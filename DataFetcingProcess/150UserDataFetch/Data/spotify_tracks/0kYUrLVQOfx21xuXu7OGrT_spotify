@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+      "id" : "0C0XlULifJtAgn6ZNCW2eu",
+      "name" : "The Killers",
+      "type" : "artist",
+      "uri" : "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4undIeGmofnAYKhnDclN1w",
+    "id" : "4undIeGmofnAYKhnDclN1w",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ae33d84ad5b1b47f5c7b73c63ca0f1fd4d131b84",
+      "width" : 629
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e8862e61bc38f868f52bd83c5934b5d41e48500b",
+      "width" : 295
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/74bcf303c0186b19b873a1bbdc2a6c9b3fd0b90b",
+      "width" : 63
+    } ],
+    "name" : "Hot Fuss",
+    "type" : "album",
+    "uri" : "spotify:album:4undIeGmofnAYKhnDclN1w"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+    "id" : "0C0XlULifJtAgn6ZNCW2eu",
+    "name" : "The Killers",
+    "type" : "artist",
+    "uri" : "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 301573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR20400269"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0kYUrLVQOfx21xuXu7OGrT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0kYUrLVQOfx21xuXu7OGrT",
+  "id" : "0kYUrLVQOfx21xuXu7OGrT",
+  "name" : "All These Things That I've Done",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8f89c19af79479745252a593733f55430b078a5d?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0kYUrLVQOfx21xuXu7OGrT"
+}

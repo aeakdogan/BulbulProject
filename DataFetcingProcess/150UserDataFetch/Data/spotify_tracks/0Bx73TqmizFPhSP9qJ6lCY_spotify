@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw",
+      "id" : "3X0tJzVYoWlfjLYI0Ridsw",
+      "name" : "Suzanne Vega",
+      "type" : "artist",
+      "uri" : "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3EtyldoaFhJRA7NOz9O8Jw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3EtyldoaFhJRA7NOz9O8Jw",
+    "id" : "3EtyldoaFhJRA7NOz9O8Jw",
+    "images" : [ {
+      "height" : 625,
+      "url" : "https://i.scdn.co/image/269fe1ff5203a39b95b582bc2fddbdc54bfe4bef",
+      "width" : 640
+    }, {
+      "height" : 293,
+      "url" : "https://i.scdn.co/image/90ee25311134189adecda1a25ab5ded1de23994a",
+      "width" : 300
+    }, {
+      "height" : 62,
+      "url" : "https://i.scdn.co/image/264f8afdfd461de8e9fc7c1933d7b91abd9debb2",
+      "width" : 64
+    } ],
+    "name" : "Suzanne Vega",
+    "type" : "album",
+    "uri" : "spotify:album:3EtyldoaFhJRA7NOz9O8Jw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw",
+    "id" : "3X0tJzVYoWlfjLYI0Ridsw",
+    "name" : "Suzanne Vega",
+    "type" : "artist",
+    "uri" : "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 221106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0129611"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Bx73TqmizFPhSP9qJ6lCY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Bx73TqmizFPhSP9qJ6lCY",
+  "id" : "0Bx73TqmizFPhSP9qJ6lCY",
+  "name" : "Some Journey",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/26faffdcaa11ddbb6ff2da32c68e65cbe63673ef?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0Bx73TqmizFPhSP9qJ6lCY"
+}

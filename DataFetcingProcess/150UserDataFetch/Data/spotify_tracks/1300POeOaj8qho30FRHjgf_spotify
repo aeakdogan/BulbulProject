@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KsASRNugxU85T0u6zSg32",
+      "id" : "1KsASRNugxU85T0u6zSg32",
+      "name" : "Tori Amos",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KsASRNugxU85T0u6zSg32"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6VNuZLF98tsRYgqlIXAVCD",
+    "id" : "6VNuZLF98tsRYgqlIXAVCD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b3a07df998460881131b2c054200290b721c4dc9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c0ce6f3b6fdd609658cf5460b7973b11335a160c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9ae62f0dc2f70465c94d62e784bfacbd8549f539",
+      "width" : 64
+    } ],
+    "name" : "Under the Pink",
+    "type" : "album",
+    "uri" : "spotify:album:6VNuZLF98tsRYgqlIXAVCD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1KsASRNugxU85T0u6zSg32",
+    "id" : "1KsASRNugxU85T0u6zSg32",
+    "name" : "Tori Amos",
+    "type" : "artist",
+    "uri" : "spotify:artist:1KsASRNugxU85T0u6zSg32"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 305493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT29400050"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1300POeOaj8qho30FRHjgf",
+  "id" : "1300POeOaj8qho30FRHjgf",
+  "name" : "Cornflake Girl",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0283d831601ffc044f8935c12f55c6168d5006e5?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1300POeOaj8qho30FRHjgf"
+}

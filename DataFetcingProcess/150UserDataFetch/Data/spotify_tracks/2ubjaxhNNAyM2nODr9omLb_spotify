@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nB0iY1cjSY1KyhYyuIIKH",
+      "id" : "6nB0iY1cjSY1KyhYyuIIKH",
+      "name" : "FKA twigs",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nB0iY1cjSY1KyhYyuIIKH"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5VqGGKeWpIBRFh4M4XmqDK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5VqGGKeWpIBRFh4M4XmqDK",
+    "id" : "5VqGGKeWpIBRFh4M4XmqDK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7a3bd3fd40c7b5f90eaa1c80659cedf2134c0bf9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9a88a6a42e27c73d66f5a0a12a7b78f17b447e2d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b052479f998bec4204631dabc654bccc25a39f9b",
+      "width" : 64
+    } ],
+    "name" : "LP1",
+    "type" : "album",
+    "uri" : "spotify:album:5VqGGKeWpIBRFh4M4XmqDK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6nB0iY1cjSY1KyhYyuIIKH",
+    "id" : "6nB0iY1cjSY1KyhYyuIIKH",
+    "name" : "FKA twigs",
+    "type" : "artist",
+    "uri" : "spotify:artist:6nB0iY1cjSY1KyhYyuIIKH"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 227640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS1400230"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ubjaxhNNAyM2nODr9omLb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ubjaxhNNAyM2nODr9omLb",
+  "id" : "2ubjaxhNNAyM2nODr9omLb",
+  "name" : "Video Girl",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0713fe178078ac3886a0886158d711e049480a4a?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2ubjaxhNNAyM2nODr9omLb"
+}

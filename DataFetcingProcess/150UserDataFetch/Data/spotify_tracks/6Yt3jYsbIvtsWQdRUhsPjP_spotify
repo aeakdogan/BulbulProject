@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+      "id" : "3qm84nBOXUEQ2vnTfUTTFC",
+      "name" : "Guns N' Roses",
+      "type" : "artist",
+      "uri" : "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5mzoB7ggIOyQIzj5sGl0ZH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5mzoB7ggIOyQIzj5sGl0ZH",
+    "id" : "5mzoB7ggIOyQIzj5sGl0ZH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7c89cc6ea3fa049e710dd6c4eb44457303416590",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9bf34d54176ae9b1c56e694cdc8d5dc03f6fd25d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8e0ecf4da1911f03f8166c0bf65f2b2d885ae8e4",
+      "width" : 64
+    } ],
+    "name" : "Use Your Illusion II",
+    "type" : "album",
+    "uri" : "spotify:album:5mzoB7ggIOyQIzj5sGl0ZH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3qm84nBOXUEQ2vnTfUTTFC",
+    "id" : "3qm84nBOXUEQ2vnTfUTTFC",
+    "name" : "Guns N' Roses",
+    "type" : "artist",
+    "uri" : "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 341306,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USGF19124005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6Yt3jYsbIvtsWQdRUhsPjP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6Yt3jYsbIvtsWQdRUhsPjP",
+  "id" : "6Yt3jYsbIvtsWQdRUhsPjP",
+  "name" : "Get In The Ring",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/faf481559c4b79de457935e13b7ac5ca7626af01?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6Yt3jYsbIvtsWQdRUhsPjP"
+}

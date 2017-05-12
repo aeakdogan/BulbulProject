@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1AZ30JnvQU1pbX6sbRE0Yn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1AZ30JnvQU1pbX6sbRE0Yn",
+      "id" : "1AZ30JnvQU1pbX6sbRE0Yn",
+      "name" : "Poets of the Fall",
+      "type" : "artist",
+      "uri" : "spotify:artist:1AZ30JnvQU1pbX6sbRE0Yn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/74uJSYm2QGjljPv2sgp8Fy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/74uJSYm2QGjljPv2sgp8Fy",
+    "id" : "74uJSYm2QGjljPv2sgp8Fy",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/220de0a58cb65c93af063c853d5ac61118dfbae8",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/af4e891ce88d237ccafe33cf90868afece4aa497",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f93778825d985d47f276d0e9cbdd793e6407ffe2",
+      "width" : 64
+    } ],
+    "name" : "Signs of Life",
+    "type" : "album",
+    "uri" : "spotify:album:74uJSYm2QGjljPv2sgp8Fy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1AZ30JnvQU1pbX6sbRE0Yn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1AZ30JnvQU1pbX6sbRE0Yn",
+    "id" : "1AZ30JnvQU1pbX6sbRE0Yn",
+    "name" : "Poets of the Fall",
+    "type" : "artist",
+    "uri" : "spotify:artist:1AZ30JnvQU1pbX6sbRE0Yn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 227693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FIP9F0400002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7e61sMsW9ET6rMkhBaulQp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7e61sMsW9ET6rMkhBaulQp",
+  "id" : "7e61sMsW9ET6rMkhBaulQp",
+  "name" : "Late Goodbye",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0e2c64a8e279c131ed5f44e416c07eac57dd04db?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7e61sMsW9ET6rMkhBaulQp"
+}

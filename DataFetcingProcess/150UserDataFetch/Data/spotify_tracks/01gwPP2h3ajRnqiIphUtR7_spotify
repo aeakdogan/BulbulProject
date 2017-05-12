@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2iE18Oxc8YSumAU232n4rW",
+      "id" : "2iE18Oxc8YSumAU232n4rW",
+      "name" : "The Jackson 5",
+      "type" : "artist",
+      "uri" : "spotify:artist:2iE18Oxc8YSumAU232n4rW"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0EwhxzV0N61hu3S3PkB2Ku",
+    "id" : "0EwhxzV0N61hu3S3PkB2Ku",
+    "images" : [ {
+      "height" : 639,
+      "url" : "https://i.scdn.co/image/0604aa3ceaefd16afc5a41b8d1665aebceb1cf26",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/546e97e0edc5b6f73c74a26cef833e230b46e99b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/68d9dab9c3d592687dbe85c29ea18fcb9fd9ce19",
+      "width" : 64
+    } ],
+    "name" : "Anthology: Jackson 5",
+    "type" : "album",
+    "uri" : "spotify:album:0EwhxzV0N61hu3S3PkB2Ku"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2iE18Oxc8YSumAU232n4rW",
+    "id" : "2iE18Oxc8YSumAU232n4rW",
+    "name" : "The Jackson 5",
+    "type" : "artist",
+    "uri" : "spotify:artist:2iE18Oxc8YSumAU232n4rW"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 177426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO17082628"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/01gwPP2h3ajRnqiIphUtR7",
+  "id" : "01gwPP2h3ajRnqiIphUtR7",
+  "name" : "ABC",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/65b87b2a9c1509731440387583508d93310129b9?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:01gwPP2h3ajRnqiIphUtR7"
+}

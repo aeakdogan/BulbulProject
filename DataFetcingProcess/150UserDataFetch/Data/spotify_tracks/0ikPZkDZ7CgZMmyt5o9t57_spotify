@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FQqZYVfTNQ1pCqfkwVFEa",
+      "id" : "6FQqZYVfTNQ1pCqfkwVFEa",
+      "name" : "Foals",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FQqZYVfTNQ1pCqfkwVFEa"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7vEyoJgU1GnhhfyutZ4Qc6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7vEyoJgU1GnhhfyutZ4Qc6",
+    "id" : "7vEyoJgU1GnhhfyutZ4Qc6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6454d07e5af2d56c6248f0822074ff8714c2f17c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7a447f63551d37dd7a951fdebf959da74be1665e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/04b54fac697168be23e6c5d0832592b2e92b39ad",
+      "width" : 64
+    } ],
+    "name" : "Total Life Forever",
+    "type" : "album",
+    "uri" : "spotify:album:7vEyoJgU1GnhhfyutZ4Qc6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6FQqZYVfTNQ1pCqfkwVFEa",
+    "id" : "6FQqZYVfTNQ1pCqfkwVFEa",
+    "name" : "Foals",
+    "type" : "artist",
+    "uri" : "spotify:artist:6FQqZYVfTNQ1pCqfkwVFEa"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 409560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB1087505"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ikPZkDZ7CgZMmyt5o9t57"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ikPZkDZ7CgZMmyt5o9t57",
+  "id" : "0ikPZkDZ7CgZMmyt5o9t57",
+  "name" : "Spanish Sahara",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2043e30cbc6d9d9518e0028e7f29fe217f01ce90?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0ikPZkDZ7CgZMmyt5o9t57"
+}

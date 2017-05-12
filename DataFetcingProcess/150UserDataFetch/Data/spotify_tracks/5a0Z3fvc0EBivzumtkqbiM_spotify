@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5hE6NCoobhyEu6TRSbjOJY",
+      "id" : "5hE6NCoobhyEu6TRSbjOJY",
+      "name" : "Fever Ray",
+      "type" : "artist",
+      "uri" : "spotify:artist:5hE6NCoobhyEu6TRSbjOJY"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Xj219teW4ALyDkNNDjMAu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Xj219teW4ALyDkNNDjMAu",
+    "id" : "3Xj219teW4ALyDkNNDjMAu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/da004edc5de203722e03e45d03e3f2e0103ca4d3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/55afac62d3ff03020de0f17158a020c4e43a1cee",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/137dfac774f16f151445e1796368249c8b228e66",
+      "width" : 64
+    } ],
+    "name" : "Fever Ray (Deluxe Version)",
+    "type" : "album",
+    "uri" : "spotify:album:3Xj219teW4ALyDkNNDjMAu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5hE6NCoobhyEu6TRSbjOJY",
+    "id" : "5hE6NCoobhyEu6TRSbjOJY",
+    "name" : "Fever Ray",
+    "type" : "artist",
+    "uri" : "spotify:artist:5hE6NCoobhyEu6TRSbjOJY"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 262520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEWCE0900205"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5a0Z3fvc0EBivzumtkqbiM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5a0Z3fvc0EBivzumtkqbiM",
+  "id" : "5a0Z3fvc0EBivzumtkqbiM",
+  "name" : "Triangle Walks",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5011c01f3d84f17b0968266a62bf06c47909dbfc?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5a0Z3fvc0EBivzumtkqbiM"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VH2QabEORUUhN1F1cYQ6N",
+      "id" : "4VH2QabEORUUhN1F1cYQ6N",
+      "name" : "Reamonn",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VH2QabEORUUhN1F1cYQ6N"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7JOqKKTUoGSJKjHWcVV7QE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7JOqKKTUoGSJKjHWcVV7QE",
+    "id" : "7JOqKKTUoGSJKjHWcVV7QE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/10dbd3a3e21a0b4012c7ee30b438c45a296c10b1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2e3953d8eee3bee39332628024505161cfe853a8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5bb5a3fba7b7b888df2e023ef122c7100205917d",
+      "width" : 64
+    } ],
+    "name" : "Tuesday",
+    "type" : "album",
+    "uri" : "spotify:album:7JOqKKTUoGSJKjHWcVV7QE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4VH2QabEORUUhN1F1cYQ6N",
+    "id" : "4VH2QabEORUUhN1F1cYQ6N",
+    "name" : "Reamonn",
+    "type" : "artist",
+    "uri" : "spotify:artist:4VH2QabEORUUhN1F1cYQ6N"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245249,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEG120000973"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3FhNJaCNypOAnZccdYGAWN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3FhNJaCNypOAnZccdYGAWN",
+  "id" : "3FhNJaCNypOAnZccdYGAWN",
+  "name" : "Supergirl",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/989013ae5727d75a4e5c2afb930a89a7cfba1217?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3FhNJaCNypOAnZccdYGAWN"
+}

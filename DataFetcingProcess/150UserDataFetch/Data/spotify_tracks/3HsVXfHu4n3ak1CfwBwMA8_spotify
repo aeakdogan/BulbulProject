@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0hk8VgR64voU5ueK96W2DI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0hk8VgR64voU5ueK96W2DI",
+      "id" : "0hk8VgR64voU5ueK96W2DI",
+      "name" : "DeVotchKa",
+      "type" : "artist",
+      "uri" : "spotify:artist:0hk8VgR64voU5ueK96W2DI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2q7THrY9PErqNXs338Q5ba"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2q7THrY9PErqNXs338Q5ba",
+    "id" : "2q7THrY9PErqNXs338Q5ba",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/27744dd6c01b94abe52793f16e552de78a66d65c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b0258ed452e52777be4f92a05316d6a9905f840d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1aef4002e4bc0d9dfcd2c602ce98d686ae0f4f45",
+      "width" : 64
+    } ],
+    "name" : "How it Ends",
+    "type" : "album",
+    "uri" : "spotify:album:2q7THrY9PErqNXs338Q5ba"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0hk8VgR64voU5ueK96W2DI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0hk8VgR64voU5ueK96W2DI",
+    "id" : "0hk8VgR64voU5ueK96W2DI",
+    "name" : "DeVotchKa",
+    "type" : "artist",
+    "uri" : "spotify:artist:0hk8VgR64voU5ueK96W2DI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 419680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2B0499605"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3HsVXfHu4n3ak1CfwBwMA8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3HsVXfHu4n3ak1CfwBwMA8",
+  "id" : "3HsVXfHu4n3ak1CfwBwMA8",
+  "name" : "How It Ends",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cc28cb1fbc4217c05af11cbf4bc30615531eef7a?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3HsVXfHu4n3ak1CfwBwMA8"
+}

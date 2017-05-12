@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3UpIbyXfGzmHG6TMH4dJEk",
+      "id" : "3UpIbyXfGzmHG6TMH4dJEk",
+      "name" : "Aimee Mann",
+      "type" : "artist",
+      "uri" : "spotify:artist:3UpIbyXfGzmHG6TMH4dJEk"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5gl67XfmbbdmfJKPkR9rIe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5gl67XfmbbdmfJKPkR9rIe",
+    "id" : "5gl67XfmbbdmfJKPkR9rIe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dfa5f2bbc06ce0c03e043ee18a5b51ce3fe53ffd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6be0882054ce9c878a2220f369705bc94e54d36e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/75fb079617ea74028dd90c2440b82a53e2e82f7e",
+      "width" : 64
+    } ],
+    "name" : "Lost In Space",
+    "type" : "album",
+    "uri" : "spotify:album:5gl67XfmbbdmfJKPkR9rIe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3UpIbyXfGzmHG6TMH4dJEk",
+    "id" : "3UpIbyXfGzmHG6TMH4dJEk",
+    "name" : "Aimee Mann",
+    "type" : "artist",
+    "uri" : "spotify:artist:3UpIbyXfGzmHG6TMH4dJEk"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 207600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSE50200013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3uWp4WTufpuMoUxAfP1nws"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3uWp4WTufpuMoUxAfP1nws",
+  "id" : "3uWp4WTufpuMoUxAfP1nws",
+  "name" : "It's Not",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/758e513b116e61652d477f026f32b8ed62ee5197?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:3uWp4WTufpuMoUxAfP1nws"
+}

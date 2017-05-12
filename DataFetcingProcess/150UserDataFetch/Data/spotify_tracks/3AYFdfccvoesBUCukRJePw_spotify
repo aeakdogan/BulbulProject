@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36eSjIksD6fehqxyDUHDA3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36eSjIksD6fehqxyDUHDA3",
+      "id" : "36eSjIksD6fehqxyDUHDA3",
+      "name" : "Chris Rock",
+      "type" : "artist",
+      "uri" : "spotify:artist:36eSjIksD6fehqxyDUHDA3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Puh2bbeZUpvXajIxkSajg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Puh2bbeZUpvXajIxkSajg",
+    "id" : "6Puh2bbeZUpvXajIxkSajg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6e1c06750842d0aa3c2533bd812ed967856072e5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/59e575b771c9b14baf26e1b207921e801075bde3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c47124924aa3e16d37a3cc484b3ca3927b3bcc3f",
+      "width" : 64
+    } ],
+    "name" : "Born Suspect",
+    "type" : "album",
+    "uri" : "spotify:album:6Puh2bbeZUpvXajIxkSajg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36eSjIksD6fehqxyDUHDA3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36eSjIksD6fehqxyDUHDA3",
+    "id" : "36eSjIksD6fehqxyDUHDA3",
+    "name" : "Chris Rock",
+    "type" : "artist",
+    "uri" : "spotify:artist:36eSjIksD6fehqxyDUHDA3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 80266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT29901117"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3AYFdfccvoesBUCukRJePw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3AYFdfccvoesBUCukRJePw",
+  "id" : "3AYFdfccvoesBUCukRJePw",
+  "name" : "Teenage Suicide",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3df3962faba6cd6da334007985571a0e1334471a?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:3AYFdfccvoesBUCukRJePw"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+      "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+      "name" : "The Beatles",
+      "type" : "artist",
+      "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2BtE7qm1qzM80p9vLSiXkj",
+    "id" : "2BtE7qm1qzM80p9vLSiXkj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5efcba83e06ce03ca843b459a4189f861ddc5f23",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/44a8e349f4d580ce4ea15ff8b60a37b2c7595c4b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/da34ae526d3f542db4bb17846628d8ade8923d8e",
+      "width" : 64
+    } ],
+    "name" : "Magical Mystery Tour (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:2BtE7qm1qzM80p9vLSiXkj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+    "id" : "3WrFJ7ztbogyGnTHbHJFl2",
+    "name" : "The Beatles",
+    "type" : "artist",
+    "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 180893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE0601641"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1h04XMpzGzmAudoI6VHBgA",
+  "id" : "1h04XMpzGzmAudoI6VHBgA",
+  "name" : "Penny Lane - Remastered",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f9e702a19091af679ec9223b9494927953b58438?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1h04XMpzGzmAudoI6VHBgA"
+}

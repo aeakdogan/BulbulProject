@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2aaLAng2L2aWD2FClzwiep",
+      "id" : "2aaLAng2L2aWD2FClzwiep",
+      "name" : "Dream Theater",
+      "type" : "artist",
+      "uri" : "spotify:artist:2aaLAng2L2aWD2FClzwiep"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7khFXQNBzcfSfgGjPKerdE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7khFXQNBzcfSfgGjPKerdE",
+    "id" : "7khFXQNBzcfSfgGjPKerdE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d91c2bdd63676ef675eadec7ed8985b50dfbd52e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/92ea15928d94970173d2eabacee9d91be1950e57",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7950b4af7339247ad12c8580809048d8fb29c2fa",
+      "width" : 64
+    } ],
+    "name" : "Black Clouds & Silver Linings",
+    "type" : "album",
+    "uri" : "spotify:album:7khFXQNBzcfSfgGjPKerdE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2aaLAng2L2aWD2FClzwiep",
+    "id" : "2aaLAng2L2aWD2FClzwiep",
+    "name" : "Dream Theater",
+    "type" : "artist",
+    "uri" : "spotify:artist:2aaLAng2L2aWD2FClzwiep"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 325960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLA320988724"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3inuafyrtfbh2g30IFRdip"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3inuafyrtfbh2g30IFRdip",
+  "id" : "3inuafyrtfbh2g30IFRdip",
+  "name" : "Wither",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/81d1da7903c5f7550112fc82afe43c726e755665?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3inuafyrtfbh2g30IFRdip"
+}

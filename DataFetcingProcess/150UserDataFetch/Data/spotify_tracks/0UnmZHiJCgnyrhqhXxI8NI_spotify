@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6sKLLGj7SqbP2qDBdEOoZ6",
+      "id" : "6sKLLGj7SqbP2qDBdEOoZ6",
+      "name" : "Martina Topley-Bird",
+      "type" : "artist",
+      "uri" : "spotify:artist:6sKLLGj7SqbP2qDBdEOoZ6"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/36GLq1cYjHZTXPGwTUrwHN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/36GLq1cYjHZTXPGwTUrwHN",
+    "id" : "36GLq1cYjHZTXPGwTUrwHN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/327c905d32f73879e86ebc240b5da07ec566579b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b27d8c8c2a7b3d95a2bdf95521fccdaaad6ca7db",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6643fd6771dd6c21d7a71b2450e85ae35d34e295",
+      "width" : 64
+    } ],
+    "name" : "Some Place Simple",
+    "type" : "album",
+    "uri" : "spotify:album:36GLq1cYjHZTXPGwTUrwHN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6sKLLGj7SqbP2qDBdEOoZ6",
+    "id" : "6sKLLGj7SqbP2qDBdEOoZ6",
+    "name" : "Martina Topley-Bird",
+    "type" : "artist",
+    "uri" : "spotify:artist:6sKLLGj7SqbP2qDBdEOoZ6"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 159840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEZ651011921"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0UnmZHiJCgnyrhqhXxI8NI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0UnmZHiJCgnyrhqhXxI8NI",
+  "id" : "0UnmZHiJCgnyrhqhXxI8NI",
+  "name" : "Snowman",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4584c69478d9a03f3da291d7295297424bb75837?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0UnmZHiJCgnyrhqhXxI8NI"
+}

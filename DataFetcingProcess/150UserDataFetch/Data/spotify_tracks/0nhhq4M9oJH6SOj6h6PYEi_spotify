@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4QQgXkCYTt3BlENzhyNETg",
+      "id" : "4QQgXkCYTt3BlENzhyNETg",
+      "name" : "Earth, Wind & Fire",
+      "type" : "artist",
+      "uri" : "spotify:artist:4QQgXkCYTt3BlENzhyNETg"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1hj1SYbJYdXloRiSjsCLXg",
+    "id" : "1hj1SYbJYdXloRiSjsCLXg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/65e54949df928699dcd8f94b81d81d35884b26d2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2e17d3e333a884bc1f8e81f553b1c9d829b30ed4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/43e988db8a0f3ebcd5c04809522ac249301ab75c",
+      "width" : 64
+    } ],
+    "name" : "Raise!",
+    "type" : "album",
+    "uri" : "spotify:album:1hj1SYbJYdXloRiSjsCLXg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4QQgXkCYTt3BlENzhyNETg",
+    "id" : "4QQgXkCYTt3BlENzhyNETg",
+    "name" : "Earth, Wind & Fire",
+    "type" : "artist",
+    "uri" : "spotify:artist:4QQgXkCYTt3BlENzhyNETg"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 220933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10011259"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0nhhq4M9oJH6SOj6h6PYEi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0nhhq4M9oJH6SOj6h6PYEi",
+  "id" : "0nhhq4M9oJH6SOj6h6PYEi",
+  "name" : "Lady Sun",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6dbfdbc1541f0da726a0d020d33e2ad9807a2277?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0nhhq4M9oJH6SOj6h6PYEi"
+}

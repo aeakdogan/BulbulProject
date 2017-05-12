@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3cHwmcXlo7XvovQcl5YxlQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3cHwmcXlo7XvovQcl5YxlQ",
+      "id" : "3cHwmcXlo7XvovQcl5YxlQ",
+      "name" : "Yael Naim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3cHwmcXlo7XvovQcl5YxlQ"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3ufKV1PaaW3hdXIgocxPIQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3ufKV1PaaW3hdXIgocxPIQ",
+    "id" : "3ufKV1PaaW3hdXIgocxPIQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/91a9c8b19e4e5c93d1a847f35ca6ea7eb2d65a74",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e149b78fe750fe7d1017979194774807decbed0c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0f4204660019914c2ea48a431a60eaa5cd1ad170",
+      "width" : 64
+    } ],
+    "name" : "Yael Naïm",
+    "type" : "album",
+    "uri" : "spotify:album:3ufKV1PaaW3hdXIgocxPIQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3cHwmcXlo7XvovQcl5YxlQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3cHwmcXlo7XvovQcl5YxlQ",
+    "id" : "3cHwmcXlo7XvovQcl5YxlQ",
+    "name" : "Yael Naim",
+    "type" : "artist",
+    "uri" : "spotify:artist:3cHwmcXlo7XvovQcl5YxlQ"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 225106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR79W0700370"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6obMmMuVhvB0VMTZa5EJIP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6obMmMuVhvB0VMTZa5EJIP",
+  "id" : "6obMmMuVhvB0VMTZa5EJIP",
+  "name" : "New Soul",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4667206bc3b1f27c4df2dade985109acf013e35b?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6obMmMuVhvB0VMTZa5EJIP"
+}

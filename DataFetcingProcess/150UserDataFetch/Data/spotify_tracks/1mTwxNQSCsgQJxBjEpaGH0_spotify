@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2LMR8u7DOMF0FBseDpTsRa",
+      "id" : "2LMR8u7DOMF0FBseDpTsRa",
+      "name" : "The Beta Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:2LMR8u7DOMF0FBseDpTsRa"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5GBPnIYc6qMXwp6n1cW5TT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5GBPnIYc6qMXwp6n1cW5TT",
+    "id" : "5GBPnIYc6qMXwp6n1cW5TT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2ea54294fe80fb2a4503f1778998433d486c22c2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/288e2f5a7c472f890a630a0c0c1aa71ead9f23ca",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/558c37f5ab4c3d17728ef75e37c8ee67b93f1f7a",
+      "width" : 64
+    } ],
+    "name" : "The Three EP's",
+    "type" : "album",
+    "uri" : "spotify:album:5GBPnIYc6qMXwp6n1cW5TT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2LMR8u7DOMF0FBseDpTsRa",
+    "id" : "2LMR8u7DOMF0FBseDpTsRa",
+    "name" : "The Beta Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:2LMR8u7DOMF0FBseDpTsRa"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 366826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE9701387"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1mTwxNQSCsgQJxBjEpaGH0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1mTwxNQSCsgQJxBjEpaGH0",
+  "id" : "1mTwxNQSCsgQJxBjEpaGH0",
+  "name" : "Dry The Rain",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/48f27dd8685abbbd1fe6c67944db4436e00d1ce3?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1mTwxNQSCsgQJxBjEpaGH0"
+}

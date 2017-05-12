@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+      "id" : "4Z8W4fKeB5YxbusRsdQVPb",
+      "name" : "Radiohead",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6XddWLjwauCA6a17FM8pDb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6XddWLjwauCA6a17FM8pDb",
+    "id" : "6XddWLjwauCA6a17FM8pDb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eeecbaabb8ef2b120776924f0df2d93d59e3bfb0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e00b79980350e53d3aa7cb726bbfcb75d55c83d9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3a5659e5a7ebc3e5bd95a2861f00e07f266787da",
+      "width" : 64
+    } ],
+    "name" : "My Iron Lung",
+    "type" : "album",
+    "uri" : "spotify:album:6XddWLjwauCA6a17FM8pDb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+    "id" : "4Z8W4fKeB5YxbusRsdQVPb",
+    "name" : "Radiohead",
+    "type" : "artist",
+    "uri" : "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 282293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE9400673"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5N2h2WxaEZh5MEvW8jgrn6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5N2h2WxaEZh5MEvW8jgrn6",
+  "id" : "5N2h2WxaEZh5MEvW8jgrn6",
+  "name" : "The Trickster",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b15c8647f256465ff4ccaf8233bb94b4056ffc60?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5N2h2WxaEZh5MEvW8jgrn6"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+      "id" : "7w29UYBi0qsHi5RTcv3lmA",
+      "name" : "Björk",
+      "type" : "artist",
+      "uri" : "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/363DbrhHnovVcrNKwS9qmj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/363DbrhHnovVcrNKwS9qmj",
+    "id" : "363DbrhHnovVcrNKwS9qmj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4a655fdf346a4404622b1d8ba746e78571df27d7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a962bba0369dfb1d9840bbc8d13961f82dea617c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5865425be0a372fd8c742fec27227d45cb6175e5",
+      "width" : 64
+    } ],
+    "name" : "Volta",
+    "type" : "album",
+    "uri" : "spotify:album:363DbrhHnovVcrNKwS9qmj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+    "id" : "7w29UYBi0qsHi5RTcv3lmA",
+    "name" : "Björk",
+    "type" : "artist",
+    "uri" : "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 373853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBTF0700095"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7GgzqbrToXcicwk4yBS1BN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7GgzqbrToXcicwk4yBS1BN",
+  "id" : "7GgzqbrToXcicwk4yBS1BN",
+  "name" : "Earth Intruders",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5913c68d4dde9d0c2bc87a6c3f89b5f586d9bc51?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7GgzqbrToXcicwk4yBS1BN"
+}

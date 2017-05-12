@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1s4sgH9k4NlfMB7Wee50MT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1s4sgH9k4NlfMB7Wee50MT",
+    "id" : "1s4sgH9k4NlfMB7Wee50MT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bfd36b7a92b54bea7e499c0e8afe30a3de478a9f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8cff84c6c5f0b358129b4b23bc4684d450274939",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/680406505fdee0a5beb362a8fa770a7df333a0e9",
+      "width" : 64
+    } ],
+    "name" : "Spaced Out: Original Disco Funk Grooves",
+    "type" : "album",
+    "uri" : "spotify:album:1s4sgH9k4NlfMB7Wee50MT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/65kizxg0ldv6bDBKxbm0p9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/65kizxg0ldv6bDBKxbm0p9",
+    "id" : "65kizxg0ldv6bDBKxbm0p9",
+    "name" : "El Coco",
+    "type" : "artist",
+    "uri" : "spotify:artist:65kizxg0ldv6bDBKxbm0p9"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 612840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCLQ9700015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1A8z78NTlu1S2bgO6ta8Xt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1A8z78NTlu1S2bgO6ta8Xt",
+  "id" : "1A8z78NTlu1S2bgO6ta8Xt",
+  "name" : "Cocomotion '79",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5697b8abb9f8f9a3d386c8149a83d42f8a66fa1f?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1A8z78NTlu1S2bgO6ta8Xt"
+}

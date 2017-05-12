@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+      "name" : "Metallica",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0vNBQof86Lv5gLuf26ML7o",
+    "id" : "0vNBQof86Lv5gLuf26ML7o",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f968547e906c0a2b0916b78ac68f42edb3a2d71e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b4254eda594805bdad780e35a3245d0c482aaf22",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c0a13c0650f3b4307e5c002e6bf87c0ad7beb14c",
+      "width" : 64
+    } ],
+    "name" : "Kill 'Em All (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:0vNBQof86Lv5gLuf26ML7o"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+    "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+    "name" : "Metallica",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 248546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE19900916"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4k1IS2uF2dGcU3GzOOZqqb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4k1IS2uF2dGcU3GzOOZqqb",
+  "id" : "4k1IS2uF2dGcU3GzOOZqqb",
+  "name" : "Whiplash (Remastered)",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5a458999949126a4ef4e392b4aaeb0f4bf990d20?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:4k1IS2uF2dGcU3GzOOZqqb"
+}

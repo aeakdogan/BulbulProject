@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5OfhOoKunSnuubxxRML8J3",
+      "id" : "5OfhOoKunSnuubxxRML8J3",
+      "name" : "Mr. Big",
+      "type" : "artist",
+      "uri" : "spotify:artist:5OfhOoKunSnuubxxRML8J3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4wrL5QVjiUchNsFOeKXxwn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4wrL5QVjiUchNsFOeKXxwn",
+    "id" : "4wrL5QVjiUchNsFOeKXxwn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/95063aa2fcf3d3f133e50e0a6b36801d9d7e35f0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a655b82dd403d2e6e2edb8298b94848c90dd7916",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/257dabd3c2334b3695d6a26d02cf4161f9e67886",
+      "width" : 64
+    } ],
+    "name" : "Lean Into It",
+    "type" : "album",
+    "uri" : "spotify:album:4wrL5QVjiUchNsFOeKXxwn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5OfhOoKunSnuubxxRML8J3",
+    "id" : "5OfhOoKunSnuubxxRML8J3",
+    "name" : "Mr. Big",
+    "type" : "artist",
+    "uri" : "spotify:artist:5OfhOoKunSnuubxxRML8J3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 210133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20900833"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2SepFgSVlqhTazF4GxrX3f"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2SepFgSVlqhTazF4GxrX3f",
+  "id" : "2SepFgSVlqhTazF4GxrX3f",
+  "name" : "Green-Tinted Sixties Mind",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c2db84d6738dd8072b40b7833a10d03fcad19dff?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2SepFgSVlqhTazF4GxrX3f"
+}

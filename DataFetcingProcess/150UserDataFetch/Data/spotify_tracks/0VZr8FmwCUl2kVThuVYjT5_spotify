@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rvdl9zqy6xf5eMjxLb1hd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rvdl9zqy6xf5eMjxLb1hd",
+      "id" : "3Rvdl9zqy6xf5eMjxLb1hd",
+      "name" : "Max Sedgley",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rvdl9zqy6xf5eMjxLb1hd"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/18gc0X23GG6H8OJAljwqXd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/18gc0X23GG6H8OJAljwqXd",
+    "id" : "18gc0X23GG6H8OJAljwqXd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3d558702f269acae18729b2eacd368d82ff237a7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e301e83583639c780fbd8717b0710917166d32fc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a954abf2ac6ae4b2bf296877a80eb818d0ac1e38",
+      "width" : 64
+    } ],
+    "name" : "From the Roots to the Shoots",
+    "type" : "album",
+    "uri" : "spotify:album:18gc0X23GG6H8OJAljwqXd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Rvdl9zqy6xf5eMjxLb1hd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Rvdl9zqy6xf5eMjxLb1hd",
+    "id" : "3Rvdl9zqy6xf5eMjxLb1hd",
+    "name" : "Max Sedgley",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Rvdl9zqy6xf5eMjxLb1hd"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 322200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBGNS0600148"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0VZr8FmwCUl2kVThuVYjT5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0VZr8FmwCUl2kVThuVYjT5",
+  "id" : "0VZr8FmwCUl2kVThuVYjT5",
+  "name" : "Slowly",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ec4ac0575142e38314f32c52281d49da24e0b94?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0VZr8FmwCUl2kVThuVYjT5"
+}

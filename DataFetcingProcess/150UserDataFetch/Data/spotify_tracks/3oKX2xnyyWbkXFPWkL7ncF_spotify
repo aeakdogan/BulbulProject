@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/376EkILFaF7BFBHr9Rzn7A",
+      "id" : "376EkILFaF7BFBHr9Rzn7A",
+      "name" : "The American Analog Set",
+      "type" : "artist",
+      "uri" : "spotify:artist:376EkILFaF7BFBHr9Rzn7A"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2V3jlwKVWObfRDzgnL3E2S",
+    "id" : "2V3jlwKVWObfRDzgnL3E2S",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b85ba056dc47fc09a5f1ddf5ae094a93e0ff34ef",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a4df8668db37e13245b39576d7d4597741a6044f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/463701f208531dcc4f0e936d7496e3274de72334",
+      "width" : 64
+    } ],
+    "name" : "Know by Heart",
+    "type" : "album",
+    "uri" : "spotify:album:2V3jlwKVWObfRDzgnL3E2S"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+    },
+    "href" : "https://api.spotify.com/v1/artists/376EkILFaF7BFBHr9Rzn7A",
+    "id" : "376EkILFaF7BFBHr9Rzn7A",
+    "name" : "The American Analog Set",
+    "type" : "artist",
+    "uri" : "spotify:artist:376EkILFaF7BFBHr9Rzn7A"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 206653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTS40111452"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3oKX2xnyyWbkXFPWkL7ncF",
+  "id" : "3oKX2xnyyWbkXFPWkL7ncF",
+  "name" : "The Kindness of Strangers",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fa4f8fc83943d354a61589422c8e3b9e9ed01595?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:3oKX2xnyyWbkXFPWkL7ncF"
+}

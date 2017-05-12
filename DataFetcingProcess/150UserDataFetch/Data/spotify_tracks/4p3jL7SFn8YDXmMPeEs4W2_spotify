@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp",
+      "id" : "6O4EGCCb6DoIiR6B1QCQgp",
+      "name" : "Toro y Moi",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O4EGCCb6DoIiR6B1QCQgp"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "ID", "MX", "MY", "NI", "PA", "PH", "SG", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/00wmVs9BwWaSjLXBAzwUPq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/00wmVs9BwWaSjLXBAzwUPq",
+    "id" : "00wmVs9BwWaSjLXBAzwUPq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2c4509163b47d4d2d89eed90a6549ebb7467ab25",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cee3ec4dbe95ea707593648a1cc147ab7ca257ee",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/63f850ba64c2b46522efedbff5565c184eaa39b9",
+      "width" : 64
+    } ],
+    "name" : "Underneath The Pine",
+    "type" : "album",
+    "uri" : "spotify:album:00wmVs9BwWaSjLXBAzwUPq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6O4EGCCb6DoIiR6B1QCQgp",
+    "id" : "6O4EGCCb6DoIiR6B1QCQgp",
+    "name" : "Toro y Moi",
+    "type" : "artist",
+    "uri" : "spotify:artist:6O4EGCCb6DoIiR6B1QCQgp"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "ID", "MX", "MY", "NI", "PA", "PH", "SG", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 269666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US22N1105909"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4p3jL7SFn8YDXmMPeEs4W2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4p3jL7SFn8YDXmMPeEs4W2",
+  "id" : "4p3jL7SFn8YDXmMPeEs4W2",
+  "name" : "Still Sound",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/76f5f6b39dce77f4470645bfdf0ac7c462507461?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:4p3jL7SFn8YDXmMPeEs4W2"
+}

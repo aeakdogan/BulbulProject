@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/58lV9VcRSjABbAbfWS6skp",
+      "id" : "58lV9VcRSjABbAbfWS6skp",
+      "name" : "Bon Jovi",
+      "type" : "artist",
+      "uri" : "spotify:artist:58lV9VcRSjABbAbfWS6skp"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Q9SljCrM0CL0bR23MuP69",
+    "id" : "0Q9SljCrM0CL0bR23MuP69",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/963057e65dffa1cc9737d9d0fa960061e9937e7e",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/1db41ea015139b05472fa3304b3da978513b6e38",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4ff3382b621f0147b2bc19d044dda6272f87e758",
+      "width" : 64
+    } ],
+    "name" : "Crush",
+    "type" : "album",
+    "uri" : "spotify:album:0Q9SljCrM0CL0bR23MuP69"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/58lV9VcRSjABbAbfWS6skp",
+    "id" : "58lV9VcRSjABbAbfWS6skp",
+    "name" : "Bon Jovi",
+    "type" : "artist",
+    "uri" : "spotify:artist:58lV9VcRSjABbAbfWS6skp"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 308933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR20000163"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/577MNC3o3L0lNIzx9abqOk",
+  "id" : "577MNC3o3L0lNIzx9abqOk",
+  "name" : "Thank You For Loving Me",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/26fbd24716b7ec70b8f90ef8b2e134e678808fbb?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:577MNC3o3L0lNIzx9abqOk"
+}

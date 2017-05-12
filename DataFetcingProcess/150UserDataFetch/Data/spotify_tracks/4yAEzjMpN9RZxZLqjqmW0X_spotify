@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Ayl7mCk0nScecqOzvNp6s",
+      "id" : "3Ayl7mCk0nScecqOzvNp6s",
+      "name" : "Jimmy Eat World",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Ayl7mCk0nScecqOzvNp6s"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2ZuFyQ3E5n1L0VA9iyH0YV",
+    "id" : "2ZuFyQ3E5n1L0VA9iyH0YV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9f78f6b616dea4bb944e4fa20db1171455a4deeb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3a970133d606fc2b5e02af36d9a6244130ffd175",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9e5f532f2b079e46e775e0057a7703e21eef76ad",
+      "width" : 64
+    } ],
+    "name" : "Bleed American (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:2ZuFyQ3E5n1L0VA9iyH0YV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Ayl7mCk0nScecqOzvNp6s",
+    "id" : "3Ayl7mCk0nScecqOzvNp6s",
+    "name" : "Jimmy Eat World",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Ayl7mCk0nScecqOzvNp6s"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 185120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDW10110237"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4yAEzjMpN9RZxZLqjqmW0X"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4yAEzjMpN9RZxZLqjqmW0X",
+  "id" : "4yAEzjMpN9RZxZLqjqmW0X",
+  "name" : "Bleed American",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4e1d84e12e1f17af8b2543d6543a3304ff8cce7a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4yAEzjMpN9RZxZLqjqmW0X"
+}

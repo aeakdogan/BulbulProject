@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id" : "20qISvAhX20dpIbOOzGK3q",
+      "name" : "Nas",
+      "type" : "artist",
+      "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3kEtdS2pH6hKcMU9Wioob1",
+    "id" : "3kEtdS2pH6hKcMU9Wioob1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8e9f89c4fb98d18ab77ddba5e40cb1ebe7886967",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/476588bba6297a033f23a849e401e8b93e1e99f1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0c26888a818f78401f0347832c8d57666dff0006",
+      "width" : 64
+    } ],
+    "name" : "Illmatic",
+    "type" : "album",
+    "uri" : "spotify:album:3kEtdS2pH6hKcMU9Wioob1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+    },
+    "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+    "id" : "20qISvAhX20dpIbOOzGK3q",
+    "name" : "Nas",
+    "type" : "artist",
+    "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 105320,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USSM10022820"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4N0olzsMpr5cAPFrzNErGv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4N0olzsMpr5cAPFrzNErGv",
+  "id" : "4N0olzsMpr5cAPFrzNErGv",
+  "name" : "The Genesis",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/68a414c6e228a771a115383eb4880742ce4da306?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4N0olzsMpr5cAPFrzNErGv"
+}

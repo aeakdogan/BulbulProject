@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6",
+      "id" : "5UqTO8smerMvxHYA5xsXb6",
+      "name" : "Sonic Youth",
+      "type" : "artist",
+      "uri" : "spotify:artist:5UqTO8smerMvxHYA5xsXb6"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5iYYQwB0oH9FVyVlaOXZdr",
+    "id" : "5iYYQwB0oH9FVyVlaOXZdr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/da24265528271b120feb5b10c2b0351139ae3001",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/93e438d4b4e7cecbbfd7d746f37b5ba35200549f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/849d351c9b29c94a4efc91e2c73ff7c37ff12324",
+      "width" : 64
+    } ],
+    "name" : "Goo",
+    "type" : "album",
+    "uri" : "spotify:album:5iYYQwB0oH9FVyVlaOXZdr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6",
+    "id" : "5UqTO8smerMvxHYA5xsXb6",
+    "name" : "Sonic Youth",
+    "type" : "artist",
+    "uri" : "spotify:artist:5UqTO8smerMvxHYA5xsXb6"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 139960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF19029706"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3BbPWMc572VSVDC7okGwJx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3BbPWMc572VSVDC7okGwJx",
+  "id" : "3BbPWMc572VSVDC7okGwJx",
+  "name" : "My Friend Goo",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bebc42a6239fa02b1813e9fd8ec8cb151af3e2b3?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3BbPWMc572VSVDC7okGwJx"
+}

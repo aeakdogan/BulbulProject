@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Xn4iSM6rXebCl4Ub50RFN",
+      "id" : "0Xn4iSM6rXebCl4Ub50RFN",
+      "name" : "Taken By Trees",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Xn4iSM6rXebCl4Ub50RFN"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/28FHLSomgvNph8WHD2Ooom"
+    },
+    "href" : "https://api.spotify.com/v1/albums/28FHLSomgvNph8WHD2Ooom",
+    "id" : "28FHLSomgvNph8WHD2Ooom",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/de603d9a3ce73d857d852a21d5b4c95ae46b726a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d5b98574fd5f570be67caa2af05e09968cd8d34e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/65a01b6460d6729ba9cb35180dc45bc1be986717",
+      "width" : 64
+    } ],
+    "name" : "East Of Eden",
+    "type" : "album",
+    "uri" : "spotify:album:28FHLSomgvNph8WHD2Ooom"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Xn4iSM6rXebCl4Ub50RFN",
+    "id" : "0Xn4iSM6rXebCl4Ub50RFN",
+    "name" : "Taken By Trees",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Xn4iSM6rXebCl4Ub50RFN"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 191626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVZ0902654"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/12lbvgtaBkkdUt7Ldm8afG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/12lbvgtaBkkdUt7Ldm8afG",
+  "id" : "12lbvgtaBkkdUt7Ldm8afG",
+  "name" : "My Boys",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fddc41c8a26bee3725281f2f56a040f2ba7c218a?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:12lbvgtaBkkdUt7Ldm8afG"
+}

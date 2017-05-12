@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+      "id" : "4F84IBURUo98rz4r61KF70",
+      "name" : "The White Stripes",
+      "type" : "artist",
+      "uri" : "spotify:artist:4F84IBURUo98rz4r61KF70"
+    } ],
+    "available_markets" : [ "CA", "HK", "JP", "MX", "TW", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Mu6HgmdfdiQTOZ8mPEyFU",
+    "id" : "1Mu6HgmdfdiQTOZ8mPEyFU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f9dcba0724c8b9b82664c84b277bd4f7302ca81a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/da0a6284323b8b538e4c80f7bfa23a68a1fcfc09",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e1e67149cdc4d157b6d774ad3b15eb7ba11abf21",
+      "width" : 64
+    } ],
+    "name" : "Icky Thump",
+    "type" : "album",
+    "uri" : "spotify:album:1Mu6HgmdfdiQTOZ8mPEyFU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+    "id" : "4F84IBURUo98rz4r61KF70",
+    "name" : "The White Stripes",
+    "type" : "artist",
+    "uri" : "spotify:artist:4F84IBURUo98rz4r61KF70"
+  } ],
+  "available_markets" : [ "CA", "HK", "JP", "MX", "TW", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 168306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10701408"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1ITd91pncftIqQ2tCJsSFT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1ITd91pncftIqQ2tCJsSFT",
+  "id" : "1ITd91pncftIqQ2tCJsSFT",
+  "name" : "Conquest",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3f3a1cd6ecf3c2b8e4e0d2cb565434849ec59573?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1ITd91pncftIqQ2tCJsSFT"
+}

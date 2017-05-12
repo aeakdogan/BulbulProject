@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21egYD1eInY6bGFcniCRT1",
+      "id" : "21egYD1eInY6bGFcniCRT1",
+      "name" : "First Aid Kit",
+      "type" : "artist",
+      "uri" : "spotify:artist:21egYD1eInY6bGFcniCRT1"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DO", "EC", "ES", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IT", "JP", "LI", "MC", "MT", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6toF7GAattD7gLgqKbY8f9",
+    "id" : "6toF7GAattD7gLgqKbY8f9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7ba3fc8c40224c4a2a81a03763ff46388ee2b136",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b7c1f139ee1013a6e12a0b2f6ac9ea3ac6f22606",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0cbb10488090f6cd60c6cf79df71f3f348d6420f",
+      "width" : 64
+    } ],
+    "name" : "Stay Gold",
+    "type" : "album",
+    "uri" : "spotify:album:6toF7GAattD7gLgqKbY8f9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/21egYD1eInY6bGFcniCRT1",
+    "id" : "21egYD1eInY6bGFcniCRT1",
+    "name" : "First Aid Kit",
+    "type" : "artist",
+    "uri" : "spotify:artist:21egYD1eInY6bGFcniCRT1"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DO", "EC", "ES", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IT", "JP", "LI", "MC", "MT", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 215493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11401643"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5BkNCuxzzid0gz9sx3NNbX",
+  "id" : "5BkNCuxzzid0gz9sx3NNbX",
+  "name" : "My Silver Lining",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fa7645e38d0b12b1f18b7542edc543c92e7a4088?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5BkNCuxzzid0gz9sx3NNbX"
+}

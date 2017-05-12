@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1RXP7hGOjKIK0uyhpIFGpM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1RXP7hGOjKIK0uyhpIFGpM",
+      "id" : "1RXP7hGOjKIK0uyhpIFGpM",
+      "name" : "Park",
+      "type" : "artist",
+      "uri" : "spotify:artist:1RXP7hGOjKIK0uyhpIFGpM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5cOTQON9zZaVEq1MGLXtjf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5cOTQON9zZaVEq1MGLXtjf",
+    "id" : "5cOTQON9zZaVEq1MGLXtjf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0ddea5df8d5e31fe16de41e176b8110798723cb5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a76e6409c2287751cb660e9121b203d5a3abc2ee",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3005d94ba3c22bf4d1df91f92f1442a5f40fdc7c",
+      "width" : 64
+    } ],
+    "name" : "Building A Better",
+    "type" : "album",
+    "uri" : "spotify:album:5cOTQON9zZaVEq1MGLXtjf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1RXP7hGOjKIK0uyhpIFGpM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1RXP7hGOjKIK0uyhpIFGpM",
+    "id" : "1RXP7hGOjKIK0uyhpIFGpM",
+    "name" : "Park",
+    "type" : "artist",
+    "uri" : "spotify:artist:1RXP7hGOjKIK0uyhpIFGpM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 225226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2V60632605"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5XXUTJ1MQNP813J3Iny4U3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5XXUTJ1MQNP813J3Iny4U3",
+  "id" : "5XXUTJ1MQNP813J3Iny4U3",
+  "name" : "A Message",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f8a8fc28d457e535a603b1fde2aac066149717c1?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:5XXUTJ1MQNP813J3Iny4U3"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rDWHA1JYXY31soG6Os9cY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5rDWHA1JYXY31soG6Os9cY",
+      "id" : "5rDWHA1JYXY31soG6Os9cY",
+      "name" : "Czesław Śpiewa",
+      "type" : "artist",
+      "uri" : "spotify:artist:5rDWHA1JYXY31soG6Os9cY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4chPLzvIVgYNNOlX2x52oM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4chPLzvIVgYNNOlX2x52oM",
+    "id" : "4chPLzvIVgYNNOlX2x52oM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/43f279c977c5cb4cf23f02b1bb9783ac9e9b0170",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/68e40d90a6a992bdaef1979b06bf8edbeab2bdd2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/39e5782e1aae38a354ddcef36445b6e5f79b464d",
+      "width" : 64
+    } ],
+    "name" : "Pop",
+    "type" : "album",
+    "uri" : "spotify:album:4chPLzvIVgYNNOlX2x52oM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5rDWHA1JYXY31soG6Os9cY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5rDWHA1JYXY31soG6Os9cY",
+    "id" : "5rDWHA1JYXY31soG6Os9cY",
+    "name" : "Czesław Śpiewa",
+    "type" : "artist",
+    "uri" : "spotify:artist:5rDWHA1JYXY31soG6Os9cY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 160333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "PLB820010059"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3JT53c79AErXgLftcwiaYy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3JT53c79AErXgLftcwiaYy",
+  "id" : "3JT53c79AErXgLftcwiaYy",
+  "name" : "O tych w Krakowie",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d988b6d42ed18c929c8c6e2d6679e7b24555c10a?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:3JT53c79AErXgLftcwiaYy"
+}

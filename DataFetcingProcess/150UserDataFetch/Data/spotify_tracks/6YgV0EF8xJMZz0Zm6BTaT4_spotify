@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+      "id" : "04gDigrS5kc9YWfZHwBETP",
+      "name" : "Maroon 5",
+      "type" : "artist",
+      "uri" : "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Rv9WRKyYhFaGbuYDaQunN",
+    "id" : "1Rv9WRKyYhFaGbuYDaQunN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/18af1d5d4fb16668b059746b7eabadab97169e2e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/893e7f4b990c8db6e5ce0a8a35678f475d8c420c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/aa47664ba6905ea51ee79fd9e34f0f339ec3efaf",
+      "width" : 64
+    } ],
+    "name" : "Songs About Jane",
+    "type" : "album",
+    "uri" : "spotify:album:1Rv9WRKyYhFaGbuYDaQunN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+    "id" : "04gDigrS5kc9YWfZHwBETP",
+    "name" : "Maroon 5",
+    "type" : "artist",
+    "uri" : "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 206200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJAY0300080"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6YgV0EF8xJMZz0Zm6BTaT4",
+  "id" : "6YgV0EF8xJMZz0Zm6BTaT4",
+  "name" : "This Love",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/27680ad1d0d0175e206a351af6eeeaa0ff72d4c4?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6YgV0EF8xJMZz0Zm6BTaT4"
+}

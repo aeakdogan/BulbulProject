@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7x5rK9BClDQ8wmCkYAGsQp",
+      "id" : "7x5rK9BClDQ8wmCkYAGsQp",
+      "name" : "Paolo Nutini",
+      "type" : "artist",
+      "uri" : "spotify:artist:7x5rK9BClDQ8wmCkYAGsQp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6L2FiSnFMisCgbhbag4KTl",
+    "id" : "6L2FiSnFMisCgbhbag4KTl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/360ec9a640894b55784849696cc5e40da3abe072",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2a98353a61ec4a403524868ee81d70e00beb6c8c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/eed449b5b73f05d4b0271f6082e04f7bb09c1916",
+      "width" : 64
+    } ],
+    "name" : "These Streets",
+    "type" : "album",
+    "uri" : "spotify:album:6L2FiSnFMisCgbhbag4KTl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7x5rK9BClDQ8wmCkYAGsQp",
+    "id" : "7x5rK9BClDQ8wmCkYAGsQp",
+    "name" : "Paolo Nutini",
+    "type" : "artist",
+    "uri" : "spotify:artist:7x5rK9BClDQ8wmCkYAGsQp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 207133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHS0600226"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3G3GZnfjmypPEdkItAofp8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3G3GZnfjmypPEdkItAofp8",
+  "id" : "3G3GZnfjmypPEdkItAofp8",
+  "name" : "Jenny Don't Be Hasty",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b4449bca5cf6e2437ca757848a7a25be595194e3?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3G3GZnfjmypPEdkItAofp8"
+}

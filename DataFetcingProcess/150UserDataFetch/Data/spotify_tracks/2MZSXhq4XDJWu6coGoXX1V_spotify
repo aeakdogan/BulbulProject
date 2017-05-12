@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG",
+      "id" : "6kBDZFXuLrZgHnvmPu9NsG",
+      "name" : "Aphex Twin",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kBDZFXuLrZgHnvmPu9NsG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1maoQPAmw44bbkNOxKlwsx",
+    "id" : "1maoQPAmw44bbkNOxKlwsx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0ecee6d7885e1e7cbe8ff5284706a3f0046d5748",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e63cea711c0c12dbcbcbb1969efedc19269a606d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ccc6d89cd029325f32f49df05c844f14948ce95d",
+      "width" : 64
+    } ],
+    "name" : "Drukqs",
+    "type" : "album",
+    "uri" : "spotify:album:1maoQPAmw44bbkNOxKlwsx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG",
+    "id" : "6kBDZFXuLrZgHnvmPu9NsG",
+    "name" : "Aphex Twin",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kBDZFXuLrZgHnvmPu9NsG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 125520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPW0100148"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2MZSXhq4XDJWu6coGoXX1V",
+  "id" : "2MZSXhq4XDJWu6coGoXX1V",
+  "name" : "Avril 14th",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8b0ffffe73ff5ba8bc187516b468777969d7a843?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2MZSXhq4XDJWu6coGoXX1V"
+}

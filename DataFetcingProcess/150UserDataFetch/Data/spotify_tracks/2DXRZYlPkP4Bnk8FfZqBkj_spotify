@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34vLhockmYhf3LgznwyNaQ",
+      "id" : "34vLhockmYhf3LgznwyNaQ",
+      "name" : "POLIÇA",
+      "type" : "artist",
+      "uri" : "spotify:artist:34vLhockmYhf3LgznwyNaQ"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HN", "ID", "JP", "MC", "MX", "NI", "PA", "PE", "PY", "SK", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3pEcnNRihvaY27FZ183fMf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3pEcnNRihvaY27FZ183fMf",
+    "id" : "3pEcnNRihvaY27FZ183fMf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c929e9627ffea5fc3e937fff5fae5483a38a1094",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cd6c3678ff20271a85616995da78bb92cb353b0a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d95ab7c4ddfd434634657dee5193e0bc0f728a14",
+      "width" : 64
+    } ],
+    "name" : "Give You The Ghost",
+    "type" : "album",
+    "uri" : "spotify:album:3pEcnNRihvaY27FZ183fMf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/34vLhockmYhf3LgznwyNaQ",
+    "id" : "34vLhockmYhf3LgznwyNaQ",
+    "name" : "POLIÇA",
+    "type" : "artist",
+    "uri" : "spotify:artist:34vLhockmYhf3LgznwyNaQ"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HN", "ID", "JP", "MC", "MX", "NI", "PA", "PE", "PY", "SK", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 301893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNY91112304"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2DXRZYlPkP4Bnk8FfZqBkj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2DXRZYlPkP4Bnk8FfZqBkj",
+  "id" : "2DXRZYlPkP4Bnk8FfZqBkj",
+  "name" : "Dark Star",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dd4d2cc8d15e1375120d91d1b5f050d54ab379e7?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2DXRZYlPkP4Bnk8FfZqBkj"
+}

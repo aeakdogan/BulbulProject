@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2JfVCMa3FlvQRlLT5uH9zb",
+      "id" : "2JfVCMa3FlvQRlLT5uH9zb",
+      "name" : "Nancy Wilson",
+      "type" : "artist",
+      "uri" : "spotify:artist:2JfVCMa3FlvQRlLT5uH9zb"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/09YSSB06HFPsK2E4528gsG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/09YSSB06HFPsK2E4528gsG",
+    "id" : "09YSSB06HFPsK2E4528gsG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/33dae8ed5214e1eb5fc70f48fb21847476f29128",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/43390a1f358f840c754e938ce98e7e05fb16e394",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1a339dc21bdbece22ab4c2ac5ffbaf246f755222",
+      "width" : 64
+    } ],
+    "name" : "I Know I Love Him",
+    "type" : "album",
+    "uri" : "spotify:album:09YSSB06HFPsK2E4528gsG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2JfVCMa3FlvQRlLT5uH9zb",
+    "id" : "2JfVCMa3FlvQRlLT5uH9zb",
+    "name" : "Nancy Wilson",
+    "type" : "artist",
+    "uri" : "spotify:artist:2JfVCMa3FlvQRlLT5uH9zb"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 174973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA20703062"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2b2DDergT3tyO7ZSCWllN7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2b2DDergT3tyO7ZSCWllN7",
+  "id" : "2b2DDergT3tyO7ZSCWllN7",
+  "name" : "The Laughter And The Tears",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9bd6530bdb5586b21c91aa911a165ec76c742d7c?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2b2DDergT3tyO7ZSCWllN7"
+}

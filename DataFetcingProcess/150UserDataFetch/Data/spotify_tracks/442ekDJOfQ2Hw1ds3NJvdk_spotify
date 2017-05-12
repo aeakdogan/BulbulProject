@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5a7c4KGYYGhtrvsZkZMMht"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5a7c4KGYYGhtrvsZkZMMht",
+      "id" : "5a7c4KGYYGhtrvsZkZMMht",
+      "name" : "Chris Joss",
+      "type" : "artist",
+      "uri" : "spotify:artist:5a7c4KGYYGhtrvsZkZMMht"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7nfABKAIyEFviE8eiba9lI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7nfABKAIyEFviE8eiba9lI",
+    "id" : "7nfABKAIyEFviE8eiba9lI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/01394afbdddc7bcb9e8cf94fc0623d769422dd6f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/20291bb3e431385c30d5afefea9c905823feb098",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e740abdae1cfed1b4c18b1b36787cbdc81ccdaae",
+      "width" : 64
+    } ],
+    "name" : "Sticks",
+    "type" : "album",
+    "uri" : "spotify:album:7nfABKAIyEFviE8eiba9lI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a7c4KGYYGhtrvsZkZMMht"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a7c4KGYYGhtrvsZkZMMht",
+    "id" : "5a7c4KGYYGhtrvsZkZMMht",
+    "name" : "Chris Joss",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a7c4KGYYGhtrvsZkZMMht"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 280590,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USESL0914409"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/442ekDJOfQ2Hw1ds3NJvdk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/442ekDJOfQ2Hw1ds3NJvdk",
+  "id" : "442ekDJOfQ2Hw1ds3NJvdk",
+  "name" : "Tune Down",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1d33be70ccf14f09cecf485be8f04996c4c0e8f3?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:442ekDJOfQ2Hw1ds3NJvdk"
+}

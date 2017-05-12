@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0mXTJETA4XUa12MmmXxZJh",
+      "id" : "0mXTJETA4XUa12MmmXxZJh",
+      "name" : "Eddie Vedder",
+      "type" : "artist",
+      "uri" : "spotify:artist:0mXTJETA4XUa12MmmXxZJh"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6aAJSaFsL79u7AGas96NqB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6aAJSaFsL79u7AGas96NqB",
+    "id" : "6aAJSaFsL79u7AGas96NqB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/18456474e4ca6f876b473126f26f09a5f5b3a465",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/daa690373becb71a180099fe35816acc48f0804b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f7df8963f4180001e2abf3cc914929e3501f7bd9",
+      "width" : 64
+    } ],
+    "name" : "Ukulele Songs",
+    "type" : "album",
+    "uri" : "spotify:album:6aAJSaFsL79u7AGas96NqB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0mXTJETA4XUa12MmmXxZJh",
+    "id" : "0mXTJETA4XUa12MmmXxZJh",
+    "name" : "Eddie Vedder",
+    "type" : "artist",
+    "uri" : "spotify:artist:0mXTJETA4XUa12MmmXxZJh"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 113840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJY51100002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6QsIW6YBc1c2GRciGUAr9Q"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6QsIW6YBc1c2GRciGUAr9Q",
+  "id" : "6QsIW6YBc1c2GRciGUAr9Q",
+  "name" : "Sleeping By Myself",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/77f40ca140cb387d67ce28c9e49982d649d24702?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6QsIW6YBc1c2GRciGUAr9Q"
+}

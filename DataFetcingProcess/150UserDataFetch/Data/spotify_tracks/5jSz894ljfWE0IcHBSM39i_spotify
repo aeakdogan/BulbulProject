@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+      "id" : "5a2EaR3hamoenG9rDuVn8j",
+      "name" : "Prince",
+      "type" : "artist",
+      "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5FbrTPPlaNSOsChhKUZxcu",
+    "id" : "5FbrTPPlaNSOsChhKUZxcu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4e84a56eae41f46c7c3d3c31f19b0d8923662d45",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9be48365d7993df856905c0bc8d46020ddfabbff",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/462a147e139a2995377bfab3b794aea572e874e0",
+      "width" : 64
+    } ],
+    "name" : "Around The World In A Day",
+    "type" : "album",
+    "uri" : "spotify:album:5FbrTPPlaNSOsChhKUZxcu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+    "id" : "5a2EaR3hamoenG9rDuVn8j",
+    "name" : "Prince",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 215173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19902876"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5jSz894ljfWE0IcHBSM39i",
+  "id" : "5jSz894ljfWE0IcHBSM39i",
+  "name" : "Raspberry Beret",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/80cd007d427fcfd8c9a9139cfc4fd7b20bfead4c?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5jSz894ljfWE0IcHBSM39i"
+}

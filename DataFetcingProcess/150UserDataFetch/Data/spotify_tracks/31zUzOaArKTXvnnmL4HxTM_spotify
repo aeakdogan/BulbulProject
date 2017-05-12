@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1GNqeRGuSn4v0w452Pxk4p"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1GNqeRGuSn4v0w452Pxk4p",
+    "id" : "1GNqeRGuSn4v0w452Pxk4p",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/40bb38f939b5ce0ccb92f331352e73c61fcb469b",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1f3bd4601e2577e403bc8c28f026504285576d6f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/95a8f4be6c86c7e3e4602c0e978f397a91992eab",
+      "width" : 64
+    } ],
+    "name" : "90's Party Anthems",
+    "type" : "album",
+    "uri" : "spotify:album:1GNqeRGuSn4v0w452Pxk4p"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3k7uMwc8FLJmH8RHMh2HF8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3k7uMwc8FLJmH8RHMh2HF8",
+    "id" : "3k7uMwc8FLJmH8RHMh2HF8",
+    "name" : "Babylon Zoo",
+    "type" : "artist",
+    "uri" : "spotify:artist:3k7uMwc8FLJmH8RHMh2HF8"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 242493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE9500084"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/31zUzOaArKTXvnnmL4HxTM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/31zUzOaArKTXvnnmL4HxTM",
+  "id" : "31zUzOaArKTXvnnmL4HxTM",
+  "name" : "Spaceman",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d02f0087372a77cfe021cab87e189f8a8da318d6?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:31zUzOaArKTXvnnmL4HxTM"
+}

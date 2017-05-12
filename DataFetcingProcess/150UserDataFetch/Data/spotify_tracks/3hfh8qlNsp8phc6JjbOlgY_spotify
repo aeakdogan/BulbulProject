@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iJJD5v7oIFUevW4N5w5cj",
+      "id" : "3iJJD5v7oIFUevW4N5w5cj",
+      "name" : "Arthur Russell",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iJJD5v7oIFUevW4N5w5cj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6MKaaq8TAp1ebJ1FOnTHU8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6MKaaq8TAp1ebJ1FOnTHU8",
+    "id" : "6MKaaq8TAp1ebJ1FOnTHU8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0aaf4de6768a642928c0fd5fa17ce9523b1b145a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/df2b5bea9b1ccf565a17e962f5caf4cc069e0c95",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/24a324ff1b63d492fe6691d551bd788c6ba6be61",
+      "width" : 64
+    } ],
+    "name" : "Calling Out Of Context",
+    "type" : "album",
+    "uri" : "spotify:album:6MKaaq8TAp1ebJ1FOnTHU8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iJJD5v7oIFUevW4N5w5cj",
+    "id" : "3iJJD5v7oIFUevW4N5w5cj",
+    "name" : "Arthur Russell",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iJJD5v7oIFUevW4N5w5cj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 298906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAK20300009"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3hfh8qlNsp8phc6JjbOlgY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3hfh8qlNsp8phc6JjbOlgY",
+  "id" : "3hfh8qlNsp8phc6JjbOlgY",
+  "name" : "Get Around To It",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0999efbe4c961ae82eba419de2be70ab1e7429bb?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3hfh8qlNsp8phc6JjbOlgY"
+}

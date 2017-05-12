@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/39IZHW5XXgKZBfwwS1LtLo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/39IZHW5XXgKZBfwwS1LtLo",
+    "id" : "39IZHW5XXgKZBfwwS1LtLo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/67eb0bac03bf0415ed902b6d46aa73d7e715786d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4ca276ede2c4de0a0aae67df5976fba190d8d017",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ba343ea683df199796b5fa07aab2894880b083d9",
+      "width" : 64
+    } ],
+    "name" : "Isn't This World Enough?? A Nettwerk Christmas",
+    "type" : "album",
+    "uri" : "spotify:album:39IZHW5XXgKZBfwwS1LtLo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1I7oHjCjMrMUz66v67yJJu",
+    "id" : "1I7oHjCjMrMUz66v67yJJu",
+    "name" : "Joshua Hyslop",
+    "type" : "artist",
+    "uri" : "spotify:artist:1I7oHjCjMrMUz66v67yJJu"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 154840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAN111200667"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6JM0aw2CbZHF9G83ZS3a21"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6JM0aw2CbZHF9G83ZS3a21",
+  "id" : "6JM0aw2CbZHF9G83ZS3a21",
+  "name" : "Winter's Night",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/89b0f6d3d470c34601b4f8a41cdf4ee87d219566?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:6JM0aw2CbZHF9G83ZS3a21"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    } ],
+    "available_markets" : [ "AT", "CA", "CH", "DE", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2koUTBXkwUt2uJYv0uezHx",
+    "id" : "2koUTBXkwUt2uJYv0uezHx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/75a0f801d0c3e620462bb13d7f87bbeff2d4a0cf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f678ac7bf02f359b3085b28da0eaa4d863816683",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6273b1a055b94ac1a8d158c0dc10dbf856f3ed9f",
+      "width" : 64
+    } ],
+    "name" : "It's Time (U.S. Version)",
+    "type" : "album",
+    "uri" : "spotify:album:2koUTBXkwUt2uJYv0uezHx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+    "id" : "1GxkXlMwML1oSg5eLPiAz3",
+    "name" : "Michael Bublé",
+    "type" : "artist",
+    "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+  } ],
+  "available_markets" : [ "AT", "CA", "CH", "DE", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 237333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE10401889"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3I09LQbHS3NSU46Ly3tPpR",
+  "id" : "3I09LQbHS3NSU46Ly3tPpR",
+  "name" : "Feeling Good",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/31fc9f95c681542af33e72bda7baa4951117dccd?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3I09LQbHS3NSU46Ly3tPpR"
+}

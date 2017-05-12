@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+      "id" : "3VEG6gxFIMfl4Cdog26avS",
+      "name" : "Bill Evans Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0rdlBkBl9UWoLDcEfxAkU5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0rdlBkBl9UWoLDcEfxAkU5",
+    "id" : "0rdlBkBl9UWoLDcEfxAkU5",
+    "images" : [ {
+      "height" : 554,
+      "url" : "https://i.scdn.co/image/e4211ea39b57d6a6c80a6264be3aadb06845220d",
+      "width" : 640
+    }, {
+      "height" : 260,
+      "url" : "https://i.scdn.co/image/6448e3d07ef17b2d0b62e2fae1e5efe5760a7b98",
+      "width" : 300
+    }, {
+      "height" : 55,
+      "url" : "https://i.scdn.co/image/5d158fe783db86818ddcd9127be639b78999d0aa",
+      "width" : 64
+    } ],
+    "name" : "The Complete Live At The Village Vanguard 1961",
+    "type" : "album",
+    "uri" : "spotify:album:0rdlBkBl9UWoLDcEfxAkU5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+    "id" : "3VEG6gxFIMfl4Cdog26avS",
+    "name" : "Bill Evans Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 3,
+  "duration_ms" : 417666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI86100092"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1rkvbmycHuU3eKVGpijSGE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1rkvbmycHuU3eKVGpijSGE",
+  "id" : "1rkvbmycHuU3eKVGpijSGE",
+  "name" : "Waltz For Debby - Live / Take 2",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/232c255982e4813e18c1c848f8b4103fdab75215?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1rkvbmycHuU3eKVGpijSGE"
+}

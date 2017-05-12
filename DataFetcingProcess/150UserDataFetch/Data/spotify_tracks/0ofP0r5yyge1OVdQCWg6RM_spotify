@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xSl74Iw1sDI6byUPnPqy3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xSl74Iw1sDI6byUPnPqy3",
+      "id" : "6xSl74Iw1sDI6byUPnPqy3",
+      "name" : "Bright Moments",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xSl74Iw1sDI6byUPnPqy3"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3WnVpegfdfJsvdq0ML5xIv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3WnVpegfdfJsvdq0ML5xIv",
+    "id" : "3WnVpegfdfJsvdq0ML5xIv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6c19b19ee741ad072c3ab7a9c59a18cc7871d953",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b1d1d658c9b61e290462760bf0e943cea56c68b9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2f78a7b60a9b3432af6303abf791320e3f3f93c2",
+      "width" : 64
+    } ],
+    "name" : "Natives",
+    "type" : "album",
+    "uri" : "spotify:album:3WnVpegfdfJsvdq0ML5xIv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6xSl74Iw1sDI6byUPnPqy3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6xSl74Iw1sDI6byUPnPqy3",
+    "id" : "6xSl74Iw1sDI6byUPnPqy3",
+    "name" : "Bright Moments",
+    "type" : "artist",
+    "uri" : "spotify:artist:6xSl74Iw1sDI6byUPnPqy3"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 252373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USLB11110060"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ofP0r5yyge1OVdQCWg6RM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ofP0r5yyge1OVdQCWg6RM",
+  "id" : "0ofP0r5yyge1OVdQCWg6RM",
+  "name" : "Tourists",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fb11bcdfcb66bee39bc6c4be76e1de597d353fe7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0ofP0r5yyge1OVdQCWg6RM"
+}

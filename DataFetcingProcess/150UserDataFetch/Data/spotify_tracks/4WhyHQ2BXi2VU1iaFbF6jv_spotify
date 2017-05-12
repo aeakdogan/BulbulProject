@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+      "id" : "0Ty63ceoRnnJKVEYP0VQpk",
+      "name" : "Sting",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1r6NoADkFvVSpyFnJjcuLe",
+    "id" : "1r6NoADkFvVSpyFnJjcuLe",
+    "images" : [ {
+      "height" : 639,
+      "url" : "https://i.scdn.co/image/27c0912bf63292bac8509b73504aa273f1c06964",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/b45aec60531f7eb837e1cf43d246e43dd8030e4f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/679089c9218937ded7521bca26d6c4511cc18b76",
+      "width" : 64
+    } ],
+    "name" : "Brand New Day",
+    "type" : "album",
+    "uri" : "spotify:album:1r6NoADkFvVSpyFnJjcuLe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+    "id" : "0Ty63ceoRnnJKVEYP0VQpk",
+    "name" : "Sting",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 285893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR19902517"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4WhyHQ2BXi2VU1iaFbF6jv",
+  "id" : "4WhyHQ2BXi2VU1iaFbF6jv",
+  "name" : "Desert Rose",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cc7d264587b22ee0a5dfeada6b046d0f9f0774ef?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4WhyHQ2BXi2VU1iaFbF6jv"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp",
+      "id" : "1YzCsTRb22dQkh9lghPIrp",
+      "name" : "Billie Holiday",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YzCsTRb22dQkh9lghPIrp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0FlYabSnlrYUWiiv8NLGLb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0FlYabSnlrYUWiiv8NLGLb",
+    "id" : "0FlYabSnlrYUWiiv8NLGLb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6d26c2984407b3104a5d1cf72628dc59dec8980d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/15fb62af0a4adce31b68352dfcb738f8561ec41a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cfedc221b3fe498fd5f19e8f9d1c34eed7c88956",
+      "width" : 64
+    } ],
+    "name" : "All over Me",
+    "type" : "album",
+    "uri" : "spotify:album:0FlYabSnlrYUWiiv8NLGLb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp",
+    "id" : "1YzCsTRb22dQkh9lghPIrp",
+    "name" : "Billie Holiday",
+    "type" : "artist",
+    "uri" : "spotify:artist:1YzCsTRb22dQkh9lghPIrp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 150314,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES5337505803"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7J0p8pMeOr8mWWDCVS9FmF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7J0p8pMeOr8mWWDCVS9FmF",
+  "id" : "7J0p8pMeOr8mWWDCVS9FmF",
+  "name" : "I Loves You, Porgy",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/71c193f864373048c25e2262a830c62cc56258e6?cid=null",
+  "track_number" : 23,
+  "type" : "track",
+  "uri" : "spotify:track:7J0p8pMeOr8mWWDCVS9FmF"
+}

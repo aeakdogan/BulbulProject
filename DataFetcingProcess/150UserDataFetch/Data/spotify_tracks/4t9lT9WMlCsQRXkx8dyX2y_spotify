@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC",
+      "id" : "0vEsuISMWAKNctLlUAhSZC",
+      "name" : "Counting Crows",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vEsuISMWAKNctLlUAhSZC"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1eONXsSid0vxSPTt7zpImA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1eONXsSid0vxSPTt7zpImA",
+    "id" : "1eONXsSid0vxSPTt7zpImA",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/f9daea9f29a8ca7a9419adff6626367c43379a36",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/5d2df1cec9526d4d1cceb3cc5d9f94b529d05d61",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/40510211ec509df76ac8a62cb58a4269b7676af8",
+      "width" : 64
+    } ],
+    "name" : "Films About Ghosts: The Best Of...",
+    "type" : "album",
+    "uri" : "spotify:album:1eONXsSid0vxSPTt7zpImA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0vEsuISMWAKNctLlUAhSZC",
+    "id" : "0vEsuISMWAKNctLlUAhSZC",
+    "name" : "Counting Crows",
+    "type" : "artist",
+    "uri" : "spotify:artist:0vEsuISMWAKNctLlUAhSZC"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 297293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF19697515"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4t9lT9WMlCsQRXkx8dyX2y"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4t9lT9WMlCsQRXkx8dyX2y",
+  "id" : "4t9lT9WMlCsQRXkx8dyX2y",
+  "name" : "A Long December",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e568c6541746549b042c9f90667d88d86cb25df8?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4t9lT9WMlCsQRXkx8dyX2y"
+}

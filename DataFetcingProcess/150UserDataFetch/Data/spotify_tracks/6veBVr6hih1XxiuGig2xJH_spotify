@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4aEnNH9PuU1HF3TsZTru54",
+      "id" : "4aEnNH9PuU1HF3TsZTru54",
+      "name" : "Caribou",
+      "type" : "artist",
+      "uri" : "spotify:artist:4aEnNH9PuU1HF3TsZTru54"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0UP8fME7u9wS7mSQlkzCCO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0UP8fME7u9wS7mSQlkzCCO",
+    "id" : "0UP8fME7u9wS7mSQlkzCCO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/61553335c2b96a487cb62d204e884fa89327dcd6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b5f2d44cc9b6b8ad1ef2ef9260e9961062c6f861",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e739f48419dc8664bd7945091f3db9eabc61ef70",
+      "width" : 64
+    } ],
+    "name" : "Swim",
+    "type" : "album",
+    "uri" : "spotify:album:0UP8fME7u9wS7mSQlkzCCO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4aEnNH9PuU1HF3TsZTru54",
+    "id" : "4aEnNH9PuU1HF3TsZTru54",
+    "name" : "Caribou",
+    "type" : "artist",
+    "uri" : "spotify:artist:4aEnNH9PuU1HF3TsZTru54"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 375520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DED621000420"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6veBVr6hih1XxiuGig2xJH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6veBVr6hih1XxiuGig2xJH",
+  "id" : "6veBVr6hih1XxiuGig2xJH",
+  "name" : "Hannibal",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bfacb1e1afd91921185a5bb8cabcd1af1795bcbf?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6veBVr6hih1XxiuGig2xJH"
+}

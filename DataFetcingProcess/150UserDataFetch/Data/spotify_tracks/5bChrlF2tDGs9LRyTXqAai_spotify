@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5PA6iCCOkq14PpMWWlhJ5T",
+      "id" : "5PA6iCCOkq14PpMWWlhJ5T",
+      "name" : "Oh No",
+      "type" : "artist",
+      "uri" : "spotify:artist:5PA6iCCOkq14PpMWWlhJ5T"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0L4Z9CjbnPvW71Q8l38TGp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0L4Z9CjbnPvW71Q8l38TGp",
+    "id" : "0L4Z9CjbnPvW71Q8l38TGp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/658322c85ac1d675ec759c729618d929a293822e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e14b405768825364342645b0e141316b19bff54d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5ffd99bc6023f413b0b163bd5e2a55b9f1d7f13f",
+      "width" : 64
+    } ],
+    "name" : "Dr. No's Oxperiment",
+    "type" : "album",
+    "uri" : "spotify:album:0L4Z9CjbnPvW71Q8l38TGp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5PA6iCCOkq14PpMWWlhJ5T",
+    "id" : "5PA6iCCOkq14PpMWWlhJ5T",
+    "name" : "Oh No",
+    "type" : "artist",
+    "uri" : "spotify:artist:5PA6iCCOkq14PpMWWlhJ5T"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 38000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2S70765026"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5bChrlF2tDGs9LRyTXqAai"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5bChrlF2tDGs9LRyTXqAai",
+  "id" : "5bChrlF2tDGs9LRyTXqAai",
+  "name" : "Down Under",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a0a6d9fc3ccb3e3aa10808439c40a4387ad17062?cid=null",
+  "track_number" : 26,
+  "type" : "track",
+  "uri" : "spotify:track:5bChrlF2tDGs9LRyTXqAai"
+}

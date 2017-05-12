@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3bl2ynZYqr4l37MQ2Wense"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3bl2ynZYqr4l37MQ2Wense",
+    "id" : "3bl2ynZYqr4l37MQ2Wense",
+    "images" : [ {
+      "height" : 572,
+      "url" : "https://i.scdn.co/image/dae14a21855d85f249b7a942bfc1eaad595c94a2",
+      "width" : 640
+    }, {
+      "height" : 268,
+      "url" : "https://i.scdn.co/image/08b9f43384478520a32a77c2f185ee1d7a29d660",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/7620ec360e0a5d09576128807a104b391bb8dfec",
+      "width" : 64
+    } ],
+    "name" : "80's Pop Number 1's",
+    "type" : "album",
+    "uri" : "spotify:album:3bl2ynZYqr4l37MQ2Wense"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/771qBvjnXOH9Azr6lKy6FB",
+    "id" : "771qBvjnXOH9Azr6lKy6FB",
+    "name" : "Michael Sembello",
+    "type" : "artist",
+    "uri" : "spotify:artist:771qBvjnXOH9Azr6lKy6FB"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 247440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USF078300090"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/45oFq8ZKV9KDhzYb2Rh1y4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/45oFq8ZKV9KDhzYb2Rh1y4",
+  "id" : "45oFq8ZKV9KDhzYb2Rh1y4",
+  "name" : "Maniac - BOF Flashdance",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6f46a58efd8e405f64da292d99e1e30f93b74aa5?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:45oFq8ZKV9KDhzYb2Rh1y4"
+}

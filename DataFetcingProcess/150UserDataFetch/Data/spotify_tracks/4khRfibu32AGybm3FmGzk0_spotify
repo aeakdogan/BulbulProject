@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4S2yOnmsWW97dT87yVoaSZ",
+      "id" : "4S2yOnmsWW97dT87yVoaSZ",
+      "name" : "NOFX",
+      "type" : "artist",
+      "uri" : "spotify:artist:4S2yOnmsWW97dT87yVoaSZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Z8BYH27wINoUk4QMUx7gh",
+    "id" : "6Z8BYH27wINoUk4QMUx7gh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e85d59b55aa02cf8140af19adf3f9d2fe0042693",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b06a21897c6cc58059f82a3424bc74f08bcc45fa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/af824523d4d6999ac06152e70f4aaeced0281c7b",
+      "width" : 64
+    } ],
+    "name" : "Punk In Drublic",
+    "type" : "album",
+    "uri" : "spotify:album:6Z8BYH27wINoUk4QMUx7gh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4S2yOnmsWW97dT87yVoaSZ",
+    "id" : "4S2yOnmsWW97dT87yVoaSZ",
+    "name" : "NOFX",
+    "type" : "artist",
+    "uri" : "spotify:artist:4S2yOnmsWW97dT87yVoaSZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 160706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP40310208"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4khRfibu32AGybm3FmGzk0",
+  "id" : "4khRfibu32AGybm3FmGzk0",
+  "name" : "The Brews",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/57a78c95e42339a2b531f1789d83fbf7874f4041?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4khRfibu32AGybm3FmGzk0"
+}

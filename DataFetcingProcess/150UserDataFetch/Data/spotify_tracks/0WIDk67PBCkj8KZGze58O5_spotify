@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tGd3HHlV4RVOdlBc5LAW3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tGd3HHlV4RVOdlBc5LAW3",
+      "id" : "4tGd3HHlV4RVOdlBc5LAW3",
+      "name" : "A Lot Like Birds",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tGd3HHlV4RVOdlBc5LAW3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/00WQtQmL9Nh5E4MGwV5UC6"
+    },
+    "href" : "https://api.spotify.com/v1/albums/00WQtQmL9Nh5E4MGwV5UC6",
+    "id" : "00WQtQmL9Nh5E4MGwV5UC6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/822b5e64a6be1223ec441e24c9559916fc91891d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/00ca491f38b960679af6408ea2cf1235fbd82bdd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b2c3c1321c12c5c9215c82772fddad697ec8442b",
+      "width" : 64
+    } ],
+    "name" : "Conversation Piece",
+    "type" : "album",
+    "uri" : "spotify:album:00WQtQmL9Nh5E4MGwV5UC6"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tGd3HHlV4RVOdlBc5LAW3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4tGd3HHlV4RVOdlBc5LAW3",
+    "id" : "4tGd3HHlV4RVOdlBc5LAW3",
+    "name" : "A Lot Like Birds",
+    "type" : "artist",
+    "uri" : "spotify:artist:4tGd3HHlV4RVOdlBc5LAW3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 287200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US3X51326905"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0WIDk67PBCkj8KZGze58O5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0WIDk67PBCkj8KZGze58O5",
+  "id" : "0WIDk67PBCkj8KZGze58O5",
+  "name" : "Truly Random Code",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6adaf9b7791b1e7ab2dc384bcc5e4cd8e4e3138a?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0WIDk67PBCkj8KZGze58O5"
+}

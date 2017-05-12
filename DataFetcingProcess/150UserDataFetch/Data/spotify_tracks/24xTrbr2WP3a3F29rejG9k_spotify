@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ziB7fzrXBoh1HUPS6sVFn",
+      "id" : "2ziB7fzrXBoh1HUPS6sVFn",
+      "name" : "Audioslave",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ziB7fzrXBoh1HUPS6sVFn"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0HQhToIjonHnJRRPN4jeJU",
+    "id" : "0HQhToIjonHnJRRPN4jeJU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2135233efc1cd17247432dc7da4fba8d72844a7e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a2e9a453cbe7a49f78c9d96b494d2dafc8894364",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ed0d69e1e8eeb2d7b9e2fcd0e8394ea47a64f13c",
+      "width" : 64
+    } ],
+    "name" : "Out of Exile",
+    "type" : "album",
+    "uri" : "spotify:album:0HQhToIjonHnJRRPN4jeJU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ziB7fzrXBoh1HUPS6sVFn",
+    "id" : "2ziB7fzrXBoh1HUPS6sVFn",
+    "name" : "Audioslave",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ziB7fzrXBoh1HUPS6sVFn"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 278026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR10500778"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/24xTrbr2WP3a3F29rejG9k"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/24xTrbr2WP3a3F29rejG9k",
+  "id" : "24xTrbr2WP3a3F29rejG9k",
+  "name" : "Dandelion",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a0c4ea5bc660ce35e4370bc231469c9bedede86b?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:24xTrbr2WP3a3F29rejG9k"
+}

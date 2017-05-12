@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5XDeFQDarnwpR5WAfD6S0d",
+      "id" : "5XDeFQDarnwpR5WAfD6S0d",
+      "name" : "Warlock",
+      "type" : "artist",
+      "uri" : "spotify:artist:5XDeFQDarnwpR5WAfD6S0d"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/36xszGjHscPl8xhyw8QkVK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/36xszGjHscPl8xhyw8QkVK",
+    "id" : "36xszGjHscPl8xhyw8QkVK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e5a131968104c3c43fef2307ab260b8ef3cac2a5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1baf03b883862e15b8f81d28a4c195ccc8b2fc6b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/feb691208441b2d82903750ce7323f8bbf67c608",
+      "width" : 64
+    } ],
+    "name" : "Triumph And Agony",
+    "type" : "album",
+    "uri" : "spotify:album:36xszGjHscPl8xhyw8QkVK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5XDeFQDarnwpR5WAfD6S0d",
+    "id" : "5XDeFQDarnwpR5WAfD6S0d",
+    "name" : "Warlock",
+    "type" : "artist",
+    "uri" : "spotify:artist:5XDeFQDarnwpR5WAfD6S0d"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEF078703340"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2dU4FegjbgW5qkdrUdzogT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2dU4FegjbgW5qkdrUdzogT",
+  "id" : "2dU4FegjbgW5qkdrUdzogT",
+  "name" : "All We Are",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/61536591efebf36eea7ac8f3885b09e010b8e3d7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2dU4FegjbgW5qkdrUdzogT"
+}

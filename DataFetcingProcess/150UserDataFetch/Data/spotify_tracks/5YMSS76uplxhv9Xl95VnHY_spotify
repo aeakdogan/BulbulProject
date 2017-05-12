@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4AZab8zo2nTYd7ORDmQu0V",
+      "id" : "4AZab8zo2nTYd7ORDmQu0V",
+      "name" : "The Dead Weather",
+      "type" : "artist",
+      "uri" : "spotify:artist:4AZab8zo2nTYd7ORDmQu0V"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/257tV998taPwX3A5IISS8I"
+    },
+    "href" : "https://api.spotify.com/v1/albums/257tV998taPwX3A5IISS8I",
+    "id" : "257tV998taPwX3A5IISS8I",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/455d0006837304ac5b49aabb7be517eb6d6a88b8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9475868832059d4011536750416cfe130ba0e98f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3171867e968c91994e53c51d913b3a9078f8e736",
+      "width" : 64
+    } ],
+    "name" : "Hang You From The Heavens/Are Friends Electric?",
+    "type" : "album",
+    "uri" : "spotify:album:257tV998taPwX3A5IISS8I"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4AZab8zo2nTYd7ORDmQu0V",
+    "id" : "4AZab8zo2nTYd7ORDmQu0V",
+    "name" : "The Dead Weather",
+    "type" : "artist",
+    "uri" : "spotify:artist:4AZab8zo2nTYd7ORDmQu0V"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 264386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US3JJ0900002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5YMSS76uplxhv9Xl95VnHY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5YMSS76uplxhv9Xl95VnHY",
+  "id" : "5YMSS76uplxhv9Xl95VnHY",
+  "name" : "Are Friends Electric?",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b77183f3ccfbff0f9f77e93464dc36feb367d0ef?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5YMSS76uplxhv9Xl95VnHY"
+}

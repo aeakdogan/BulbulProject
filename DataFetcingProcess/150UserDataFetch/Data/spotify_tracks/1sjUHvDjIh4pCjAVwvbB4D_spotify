@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+      "id" : "5fsDcuclIe8ZiBD5P787K1",
+      "name" : "Stevie Ray Vaughan",
+      "type" : "artist",
+      "uri" : "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1d3gakptaQZQ4zw9YbOagk",
+    "id" : "1d3gakptaQZQ4zw9YbOagk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/93fe12c23dbb1ca3034d68403c4b8616ab153b53",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e3552fa5642d83ec16bd218838d7f6d7bb79d37b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0fafa51007db74f585812772c6bed496df40ff8a",
+      "width" : 64
+    } ],
+    "name" : "In Step",
+    "type" : "album",
+    "uri" : "spotify:album:1d3gakptaQZQ4zw9YbOagk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5fsDcuclIe8ZiBD5P787K1",
+    "id" : "5fsDcuclIe8ZiBD5P787K1",
+    "name" : "Stevie Ray Vaughan",
+    "type" : "artist",
+    "uri" : "spotify:artist:5fsDcuclIe8ZiBD5P787K1"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 198666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM18900395"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1sjUHvDjIh4pCjAVwvbB4D"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1sjUHvDjIh4pCjAVwvbB4D",
+  "id" : "1sjUHvDjIh4pCjAVwvbB4D",
+  "name" : "Love Me Darlin'",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/797a0471f2a9fbaac08157edc63e9f24a2f914eb?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1sjUHvDjIh4pCjAVwvbB4D"
+}

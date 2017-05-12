@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0mnlHIcYkz3TQQ07xiFwuz",
+      "id" : "0mnlHIcYkz3TQQ07xiFwuz",
+      "name" : "Ben Pearce",
+      "type" : "artist",
+      "uri" : "spotify:artist:0mnlHIcYkz3TQQ07xiFwuz"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Jm13WULEvWjTPYpFmOg8x"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Jm13WULEvWjTPYpFmOg8x",
+    "id" : "6Jm13WULEvWjTPYpFmOg8x",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/300b42d54f1a4597a686cf633611391a46c2e218",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ee205a2cd5cc5e4dfe0d2ee616d15e244701663c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0068ae6d5da8ef046fa7ec35926c76c13a3b4600",
+      "width" : 64
+    } ],
+    "name" : "What I Might Do (Remixes Volume II)",
+    "type" : "album",
+    "uri" : "spotify:album:6Jm13WULEvWjTPYpFmOg8x"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0mnlHIcYkz3TQQ07xiFwuz",
+    "id" : "0mnlHIcYkz3TQQ07xiFwuz",
+    "name" : "Ben Pearce",
+    "type" : "artist",
+    "uri" : "spotify:artist:0mnlHIcYkz3TQQ07xiFwuz"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 309063,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUNV01301213"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6codEgrEs41B6j01nkSIqe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6codEgrEs41B6j01nkSIqe",
+  "id" : "6codEgrEs41B6j01nkSIqe",
+  "name" : "What I Might Do - Kilter Remix",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dd7e3fe3e43449440684a1cb6870e901e2c3c31b?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6codEgrEs41B6j01nkSIqe"
+}

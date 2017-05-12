@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Q6pd3dxIXhCNap8bJpWvt",
+      "id" : "5Q6pd3dxIXhCNap8bJpWvt",
+      "name" : "Tony Furtado",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Q6pd3dxIXhCNap8bJpWvt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4VesagBohKOMVRkOmxG3nE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4VesagBohKOMVRkOmxG3nE",
+    "id" : "4VesagBohKOMVRkOmxG3nE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6e6630e358306497f00db5db7afc0996bc064ebc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/93fb6bf87945e27e5871e76f48ebd61e2b6627c9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a92626395f32b9ffad16facfa7aefb719d72ad9a",
+      "width" : 64
+    } ],
+    "name" : "American Gypsy",
+    "type" : "album",
+    "uri" : "spotify:album:4VesagBohKOMVRkOmxG3nE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Q6pd3dxIXhCNap8bJpWvt",
+    "id" : "5Q6pd3dxIXhCNap8bJpWvt",
+    "name" : "Tony Furtado",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Q6pd3dxIXhCNap8bJpWvt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 382293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA6B0206001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7D07RIZO6oBlaLQ5NZHcVn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7D07RIZO6oBlaLQ5NZHcVn",
+  "id" : "7D07RIZO6oBlaLQ5NZHcVn",
+  "name" : "Oh Berta, Berta",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b3ca4b07e5921d620b640380205b8ff321154ee3?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7D07RIZO6oBlaLQ5NZHcVn"
+}

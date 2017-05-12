@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4IT7CS5foj1DTNHT7fjFx2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4IT7CS5foj1DTNHT7fjFx2",
+      "id" : "4IT7CS5foj1DTNHT7fjFx2",
+      "name" : "The Music",
+      "type" : "artist",
+      "uri" : "spotify:artist:4IT7CS5foj1DTNHT7fjFx2"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1yHkYBY4Czqq7fScqT3v00"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1yHkYBY4Czqq7fScqT3v00",
+    "id" : "1yHkYBY4Czqq7fScqT3v00",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e65621408164a3d18b4afa84e45cda47d5ffd510",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b2cff137cdc2f715ddcc4e5f2570f3cbfd23027c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/50380feb51eb6fe5abdd036ac3fcc94af9bcfcb3",
+      "width" : 64
+    } ],
+    "name" : "Welcome To The North",
+    "type" : "album",
+    "uri" : "spotify:album:1yHkYBY4Czqq7fScqT3v00"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4IT7CS5foj1DTNHT7fjFx2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4IT7CS5foj1DTNHT7fjFx2",
+    "id" : "4IT7CS5foj1DTNHT7fjFx2",
+    "name" : "The Music",
+    "type" : "artist",
+    "uri" : "spotify:artist:4IT7CS5foj1DTNHT7fjFx2"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 224600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0400260"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/79B2WGyTh3FCDYnVRvSjXF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/79B2WGyTh3FCDYnVRvSjXF",
+  "id" : "79B2WGyTh3FCDYnVRvSjXF",
+  "name" : "Freedom Fighters",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cff5c85df13735e70cee9f15140f6977e583e32b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:79B2WGyTh3FCDYnVRvSjXF"
+}

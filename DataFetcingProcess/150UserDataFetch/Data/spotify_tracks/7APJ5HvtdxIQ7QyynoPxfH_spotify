@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh",
+      "id" : "3bUwxJgNakzYKkqAVgZLlh",
+      "name" : "Travis",
+      "type" : "artist",
+      "uri" : "spotify:artist:3bUwxJgNakzYKkqAVgZLlh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2T6sux5guHBhtL9AgDrTDQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2T6sux5guHBhtL9AgDrTDQ",
+    "id" : "2T6sux5guHBhtL9AgDrTDQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/13281e6e9997f91685988eafe77bcaac8deb09f5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3260cd6e6526c4eb6d1a3dc2156fbbd8116423ba",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0766a8fa4223e0b52a33bf2f1dcc08e7bfef33c8",
+      "width" : 64
+    } ],
+    "name" : "The Man Who",
+    "type" : "album",
+    "uri" : "spotify:album:2T6sux5guHBhtL9AgDrTDQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3bUwxJgNakzYKkqAVgZLlh",
+    "id" : "3bUwxJgNakzYKkqAVgZLlh",
+    "name" : "Travis",
+    "type" : "artist",
+    "uri" : "spotify:artist:3bUwxJgNakzYKkqAVgZLlh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 631026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBPF9900229"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7APJ5HvtdxIQ7QyynoPxfH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7APJ5HvtdxIQ7QyynoPxfH",
+  "id" : "7APJ5HvtdxIQ7QyynoPxfH",
+  "name" : "Slide Show / Blue Flashing Light",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d1f8af9c3eac8f09ea6d1e235218d85067e5e49f?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:7APJ5HvtdxIQ7QyynoPxfH"
+}

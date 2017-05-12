@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21egYD1eInY6bGFcniCRT1",
+      "id" : "21egYD1eInY6bGFcniCRT1",
+      "name" : "First Aid Kit",
+      "type" : "artist",
+      "uri" : "spotify:artist:21egYD1eInY6bGFcniCRT1"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0sZ3Kkl1X00ObODILIf3Td"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0sZ3Kkl1X00ObODILIf3Td",
+    "id" : "0sZ3Kkl1X00ObODILIf3Td",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fec431f5dce53e6f754c4f0b3ac7d31153dab712",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ff801d8b38f7de56844ef9807ccc94616b099638",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e244a2c55e637cc2911a19be61b10af3146f0cc8",
+      "width" : 64
+    } ],
+    "name" : "Wolf - Single",
+    "type" : "album",
+    "uri" : "spotify:album:0sZ3Kkl1X00ObODILIf3Td"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/21egYD1eInY6bGFcniCRT1",
+    "id" : "21egYD1eInY6bGFcniCRT1",
+    "name" : "First Aid Kit",
+    "type" : "artist",
+    "uri" : "spotify:artist:21egYD1eInY6bGFcniCRT1"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 220333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDNH1100103"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0W4sXm430e78yQCgcvEXwp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0W4sXm430e78yQCgcvEXwp",
+  "id" : "0W4sXm430e78yQCgcvEXwp",
+  "name" : "Wolf",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/70115aa749805b4fde22e06fa543bde8f8c4aea1?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0W4sXm430e78yQCgcvEXwp"
+}

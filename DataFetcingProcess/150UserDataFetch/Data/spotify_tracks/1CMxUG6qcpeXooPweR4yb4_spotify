@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/646StQO8yxIiI3niu1OHnG",
+      "id" : "646StQO8yxIiI3niu1OHnG",
+      "name" : "Sandra",
+      "type" : "artist",
+      "uri" : "spotify:artist:646StQO8yxIiI3niu1OHnG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5R4nunnQpi3Kh2t5UeMxYS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5R4nunnQpi3Kh2t5UeMxYS",
+    "id" : "5R4nunnQpi3Kh2t5UeMxYS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5e56246b026ecef17e0b5894cd53a65356fa7933",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d5aa87739a898587a2fae889101751acc7d2d4a8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c3c44f71747ff85e4671c1fe9a5e7efcaba65554",
+      "width" : 64
+    } ],
+    "name" : "18 Greatest Hits",
+    "type" : "album",
+    "uri" : "spotify:album:5R4nunnQpi3Kh2t5UeMxYS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/646StQO8yxIiI3niu1OHnG",
+    "id" : "646StQO8yxIiI3niu1OHnG",
+    "name" : "Sandra",
+    "type" : "artist",
+    "uri" : "spotify:artist:646StQO8yxIiI3niu1OHnG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 188200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEG129201113"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1CMxUG6qcpeXooPweR4yb4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1CMxUG6qcpeXooPweR4yb4",
+  "id" : "1CMxUG6qcpeXooPweR4yb4",
+  "name" : "Around My Heart",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cd16e03161c1737f74b575220e4cc76f5b79e772?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:1CMxUG6qcpeXooPweR4yb4"
+}

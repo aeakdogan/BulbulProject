@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xBjvWBoQkBXf7BPe2JxuJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3xBjvWBoQkBXf7BPe2JxuJ",
+      "id" : "3xBjvWBoQkBXf7BPe2JxuJ",
+      "name" : "Villeneuve",
+      "type" : "artist",
+      "uri" : "spotify:artist:3xBjvWBoQkBXf7BPe2JxuJ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/29soqSMWdaH7yOHqskWghA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/29soqSMWdaH7yOHqskWghA",
+    "id" : "29soqSMWdaH7yOHqskWghA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ba4954dfe506e4f551d6494bc0a22da22b5ed6cf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6179c09fb8efac6c18012d121bfca48bb90fc166",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6ea5291925f03c8c8a387f0142ad57a25b0d22f6",
+      "width" : 64
+    } ],
+    "name" : "First Date",
+    "type" : "album",
+    "uri" : "spotify:album:29soqSMWdaH7yOHqskWghA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3xBjvWBoQkBXf7BPe2JxuJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3xBjvWBoQkBXf7BPe2JxuJ",
+    "id" : "3xBjvWBoQkBXf7BPe2JxuJ",
+    "name" : "Villeneuve",
+    "type" : "artist",
+    "uri" : "spotify:artist:3xBjvWBoQkBXf7BPe2JxuJ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 225253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRX850500033"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5McGnfMUT0zJf4Ea0kbfWB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5McGnfMUT0zJf4Ea0kbfWB",
+  "id" : "5McGnfMUT0zJf4Ea0kbfWB",
+  "name" : "Things Are Gonna Change",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ca45998d5f53996c00d4b70b13227babcace2664?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5McGnfMUT0zJf4Ea0kbfWB"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3KEixcRfBS5K3E91Vn1Kdy",
+      "id" : "3KEixcRfBS5K3E91Vn1Kdy",
+      "name" : "Iced Earth",
+      "type" : "artist",
+      "uri" : "spotify:artist:3KEixcRfBS5K3E91Vn1Kdy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2LI1sWcLYsWeN1TwZ6VvNK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2LI1sWcLYsWeN1TwZ6VvNK",
+    "id" : "2LI1sWcLYsWeN1TwZ6VvNK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cf0700acac83f038d3d2bbbd91d3d23e9d6778b2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/72234abf4beaddcf248877dcca12b75edd4b0354",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1a4dc9759c8e135ec07b8373c6c80687b725af24",
+      "width" : 64
+    } ],
+    "name" : "Horror Show",
+    "type" : "album",
+    "uri" : "spotify:album:2LI1sWcLYsWeN1TwZ6VvNK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3KEixcRfBS5K3E91Vn1Kdy",
+    "id" : "3KEixcRfBS5K3E91Vn1Kdy",
+    "name" : "Iced Earth",
+    "type" : "artist",
+    "uri" : "spotify:artist:3KEixcRfBS5K3E91Vn1Kdy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 263973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4E40400508"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6vIymkKBcT4xofKgebBxnz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6vIymkKBcT4xofKgebBxnz",
+  "id" : "6vIymkKBcT4xofKgebBxnz",
+  "name" : "Transylvania",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b3cd5445d6a81a85e497eef4c1463a8a62a7503d?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6vIymkKBcT4xofKgebBxnz"
+}

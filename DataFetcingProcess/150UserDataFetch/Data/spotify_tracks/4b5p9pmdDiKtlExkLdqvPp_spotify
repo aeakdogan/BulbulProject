@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2CKaDZ1Yo8YnWega9IeUzB",
+      "id" : "2CKaDZ1Yo8YnWega9IeUzB",
+      "name" : "Booka Shade",
+      "type" : "artist",
+      "uri" : "spotify:artist:2CKaDZ1Yo8YnWega9IeUzB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+    },
+    "href" : "https://api.spotify.com/v1/albums/52YO0uURAvAHYGWK38zP8r",
+    "id" : "52YO0uURAvAHYGWK38zP8r",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2289eaddfdbde7ace244a64db211a9105fd165c4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/39fa8353d9b700ba900b34db3d1e516c9e73184a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9266895a658d2f08c18a1d0311def893f417a8da",
+      "width" : 64
+    } ],
+    "name" : "Movements",
+    "type" : "album",
+    "uri" : "spotify:album:52YO0uURAvAHYGWK38zP8r"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2CKaDZ1Yo8YnWega9IeUzB",
+    "id" : "2CKaDZ1Yo8YnWega9IeUzB",
+    "name" : "Booka Shade",
+    "type" : "artist",
+    "uri" : "spotify:artist:2CKaDZ1Yo8YnWega9IeUzB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 319693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEBE70500174"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4b5p9pmdDiKtlExkLdqvPp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4b5p9pmdDiKtlExkLdqvPp",
+  "id" : "4b5p9pmdDiKtlExkLdqvPp",
+  "name" : "Night Falls",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9f5ce9974eadbaf60cacd5ff95123c00284aa263?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4b5p9pmdDiKtlExkLdqvPp"
+}

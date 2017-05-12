@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YwfENKEZrowcmtR1nALZn",
+      "id" : "1YwfENKEZrowcmtR1nALZn",
+      "name" : "The Derek Trucks Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YwfENKEZrowcmtR1nALZn"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4YT90REEx9jPQeIMgYueyq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4YT90REEx9jPQeIMgYueyq",
+    "id" : "4YT90REEx9jPQeIMgYueyq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d49b7d76e911fe8482a216dc8458cdbf206f3a00",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d325a635f5a3f01de6fc0e9d09ff0e2f23a6ed82",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/de57b348eb4fb97d6fe497daa2c859e0d7cc619c",
+      "width" : 64
+    } ],
+    "name" : "Joyful Noise",
+    "type" : "album",
+    "uri" : "spotify:album:4YT90REEx9jPQeIMgYueyq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1YwfENKEZrowcmtR1nALZn",
+    "id" : "1YwfENKEZrowcmtR1nALZn",
+    "name" : "The Derek Trucks Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:1YwfENKEZrowcmtR1nALZn"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "JP", "LI", "LT", "LU", "LV", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 345866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10208450"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/21Y0fegBPWM255E2KxsGqJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/21Y0fegBPWM255E2KxsGqJ",
+  "id" : "21Y0fegBPWM255E2KxsGqJ",
+  "name" : "Joyful Noise",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3b79e8c0a82d04455438643443430680de916068?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:21Y0fegBPWM255E2KxsGqJ"
+}

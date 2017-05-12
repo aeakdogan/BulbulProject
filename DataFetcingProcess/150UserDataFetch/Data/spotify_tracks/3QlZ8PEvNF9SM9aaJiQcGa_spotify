@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+      "id" : "1moxjboGR7GNWYIMWsRjgG",
+      "name" : "Florence + The Machine",
+      "type" : "artist",
+      "uri" : "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6icauA0OftmxTkEEioCEbs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6icauA0OftmxTkEEioCEbs",
+    "id" : "6icauA0OftmxTkEEioCEbs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b5dab00558e4fabc6dd8aa1d18134a2bf9833d9e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1b96c0ccd6621d93b4ef24ce10522627bf2c0574",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/41991e02f5250a3db3e12b47279fb3415305d1eb",
+      "width" : 64
+    } ],
+    "name" : "Lungs: The B-Sides",
+    "type" : "album",
+    "uri" : "spotify:album:6icauA0OftmxTkEEioCEbs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1moxjboGR7GNWYIMWsRjgG",
+    "id" : "1moxjboGR7GNWYIMWsRjgG",
+    "name" : "Florence + The Machine",
+    "type" : "artist",
+    "uri" : "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 174813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70905781"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3QlZ8PEvNF9SM9aaJiQcGa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3QlZ8PEvNF9SM9aaJiQcGa",
+  "id" : "3QlZ8PEvNF9SM9aaJiQcGa",
+  "name" : "Bird Song",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2c26768e932f481b3ad191e78d43f74bc92c45fd?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3QlZ8PEvNF9SM9aaJiQcGa"
+}

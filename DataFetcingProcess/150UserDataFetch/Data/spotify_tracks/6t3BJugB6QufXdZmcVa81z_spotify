@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4N9nNkpjGuBlGWnYubQI8t",
+      "id" : "4N9nNkpjGuBlGWnYubQI8t",
+      "name" : "Belleruche",
+      "type" : "artist",
+      "uri" : "spotify:artist:4N9nNkpjGuBlGWnYubQI8t"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7oZiIw6No3YZAY5mWzGZVI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7oZiIw6No3YZAY5mWzGZVI",
+    "id" : "7oZiIw6No3YZAY5mWzGZVI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/80034dcceac51f9c8ff4d18dbd7f5259eaf869a0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0ad634ffdc3db7bd2198342f09cc403fac846b36",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/56eeb84dcce18ee0a2efd9afc682a74dba2aee31",
+      "width" : 64
+    } ],
+    "name" : "Turntable Soul Music",
+    "type" : "album",
+    "uri" : "spotify:album:7oZiIw6No3YZAY5mWzGZVI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4N9nNkpjGuBlGWnYubQI8t",
+    "id" : "4N9nNkpjGuBlGWnYubQI8t",
+    "name" : "Belleruche",
+    "type" : "artist",
+    "uri" : "spotify:artist:4N9nNkpjGuBlGWnYubQI8t"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 244453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEUE0700662"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6t3BJugB6QufXdZmcVa81z"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6t3BJugB6QufXdZmcVa81z",
+  "id" : "6t3BJugB6QufXdZmcVa81z",
+  "name" : "Bird Mess",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/390fe6be06d950e6247a4339ba06823ac328f291?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6t3BJugB6QufXdZmcVa81z"
+}

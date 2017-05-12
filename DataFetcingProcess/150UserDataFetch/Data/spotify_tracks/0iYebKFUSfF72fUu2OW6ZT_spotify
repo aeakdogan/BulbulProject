@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+      "id" : "0hCNtLu0JehylgoiP8L4Gh",
+      "name" : "Nicki Minaj",
+      "type" : "artist",
+      "uri" : "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/51HDsvvActcDmYy7NQl6oL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/51HDsvvActcDmYy7NQl6oL",
+    "id" : "51HDsvvActcDmYy7NQl6oL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bfe3e58f2f6c440dfab15937f4af2e3202a2a5af",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/86e6a463b99d25b406664d3fe0ec3af45cc6fbeb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c784c8f9002f191cb5358b1008006e61506b871",
+      "width" : 64
+    } ],
+    "name" : "Pink Friday (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:51HDsvvActcDmYy7NQl6oL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+    "id" : "0hCNtLu0JehylgoiP8L4Gh",
+    "name" : "Nicki Minaj",
+    "type" : "artist",
+    "uri" : "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200013,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USCM51000734"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0iYebKFUSfF72fUu2OW6ZT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0iYebKFUSfF72fUu2OW6ZT",
+  "id" : "0iYebKFUSfF72fUu2OW6ZT",
+  "name" : "Super Bass",
+  "popularity" : 65,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3259a4b5c03abe418773605b0b50bf3a4a2262c0?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:0iYebKFUSfF72fUu2OW6ZT"
+}

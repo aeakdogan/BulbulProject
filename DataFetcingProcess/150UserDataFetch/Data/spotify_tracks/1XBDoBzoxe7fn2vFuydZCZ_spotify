@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pAYkltTzVhqBZuDekCHa3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pAYkltTzVhqBZuDekCHa3",
+      "id" : "4pAYkltTzVhqBZuDekCHa3",
+      "name" : "Deep Forest",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pAYkltTzVhqBZuDekCHa3"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4jeBFcF2olDvOdUt9gdW2v"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4jeBFcF2olDvOdUt9gdW2v",
+    "id" : "4jeBFcF2olDvOdUt9gdW2v",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eb325c01b2e6eadd9ce23808796865ce4d84133a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/03edca6738196ec9c3c4f3df068e13f3344a71e5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8fd8bbfd01a056d2faf46cef1321fc7c71b8cbd6",
+      "width" : 64
+    } ],
+    "name" : "Music Detected",
+    "type" : "album",
+    "uri" : "spotify:album:4jeBFcF2olDvOdUt9gdW2v"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4pAYkltTzVhqBZuDekCHa3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4pAYkltTzVhqBZuDekCHa3",
+    "id" : "4pAYkltTzVhqBZuDekCHa3",
+    "name" : "Deep Forest",
+    "type" : "artist",
+    "uri" : "spotify:artist:4pAYkltTzVhqBZuDekCHa3"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 96533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ080200340"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1XBDoBzoxe7fn2vFuydZCZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1XBDoBzoxe7fn2vFuydZCZ",
+  "id" : "1XBDoBzoxe7fn2vFuydZCZ",
+  "name" : "In the Evening",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/382b54818d81f55e22da99637692596ac1881da8?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:1XBDoBzoxe7fn2vFuydZCZ"
+}

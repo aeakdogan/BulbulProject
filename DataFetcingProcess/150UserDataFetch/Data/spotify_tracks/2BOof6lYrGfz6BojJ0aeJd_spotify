@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+      "id" : "79hrYiudVcFyyxyJW0ipTy",
+      "name" : "The Paper Kites",
+      "type" : "artist",
+      "uri" : "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1n9w0sUkiSat6OCtoL1rwS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1n9w0sUkiSat6OCtoL1rwS",
+    "id" : "1n9w0sUkiSat6OCtoL1rwS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b1c7e9781e24e3e68fe55b183aa92e7f873fff1c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c77007a9b067cf37618df86467c038cce5bb166a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/21515b39cdea263c1d69731e2e4fb4bb0f5e4e84",
+      "width" : 64
+    } ],
+    "name" : "Young North - EP",
+    "type" : "album",
+    "uri" : "spotify:album:1n9w0sUkiSat6OCtoL1rwS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+    "id" : "79hrYiudVcFyyxyJW0ipTy",
+    "name" : "The Paper Kites",
+    "type" : "artist",
+    "uri" : "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 191773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCABI1236519"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2BOof6lYrGfz6BojJ0aeJd",
+  "id" : "2BOof6lYrGfz6BojJ0aeJd",
+  "name" : "Paint",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d6ac8fdb4e70ab6cafb1b86e29758f34346d9032?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2BOof6lYrGfz6BojJ0aeJd"
+}

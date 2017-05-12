@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+      "id" : "64tNsm6TnZe2zpcMVMOoHL",
+      "name" : "Alice In Chains",
+      "type" : "artist",
+      "uri" : "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4FCoFSNIFhK36holxHWCnc",
+    "id" : "4FCoFSNIFhK36holxHWCnc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0446c339525bf8f702f56c51e19e6a68dc9d630c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/884faadfc5ff64830cc60d29d281626a27b78d21",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b2bc7cc1205fd4df3d2aca8944bdf9eecad8862d",
+      "width" : 64
+    } ],
+    "name" : "Jar Of Flies",
+    "type" : "album",
+    "uri" : "spotify:album:4FCoFSNIFhK36holxHWCnc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+    "id" : "64tNsm6TnZe2zpcMVMOoHL",
+    "name" : "Alice In Chains",
+    "type" : "artist",
+    "uri" : "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 259200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10025671"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2JuasWPUodaUxf5nwNpciQ",
+  "id" : "2JuasWPUodaUxf5nwNpciQ",
+  "name" : "Nutshell",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6e3ea9b236672f69ab09b3a3fd719d9e10075d36?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2JuasWPUodaUxf5nwNpciQ"
+}

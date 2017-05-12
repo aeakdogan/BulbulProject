@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+      "id" : "2jw70GZXlAI8QzWeY2bgRc",
+      "name" : "Nelly Furtado",
+      "type" : "artist",
+      "uri" : "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/41ZInNa9EJEfMWcRSxCyJ2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/41ZInNa9EJEfMWcRSxCyJ2",
+    "id" : "41ZInNa9EJEfMWcRSxCyJ2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c24f3a9cc5f06bc8c8b262a345fa0121bd92b3e7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/13fcd7f2105df9c1dcad8b7117be4c91232565cf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/84ff0eee0605aca5d078dfc5fd9291449be509d5",
+      "width" : 64
+    } ],
+    "name" : "Folklore",
+    "type" : "album",
+    "uri" : "spotify:album:41ZInNa9EJEfMWcRSxCyJ2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+    "id" : "2jw70GZXlAI8QzWeY2bgRc",
+    "name" : "Nelly Furtado",
+    "type" : "artist",
+    "uri" : "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 278386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USDW10300649"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6zGoXJf0qNnaqKe7kSn3Fs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6zGoXJf0qNnaqKe7kSn3Fs",
+  "id" : "6zGoXJf0qNnaqKe7kSn3Fs",
+  "name" : "Try",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2e0acb5b78fa379cde4d1d5d3c9804a9461cb66a?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6zGoXJf0qNnaqKe7kSn3Fs"
+}

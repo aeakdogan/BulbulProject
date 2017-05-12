@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4rjlerN21ygkIhmUv55irs",
+      "id" : "4rjlerN21ygkIhmUv55irs",
+      "name" : "The Jesus and Mary Chain",
+      "type" : "artist",
+      "uri" : "spotify:artist:4rjlerN21ygkIhmUv55irs"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1hsluRV3WUPpeSXSdSL5HF",
+    "id" : "1hsluRV3WUPpeSXSdSL5HF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c8c51fda50f1a8957daf43a0fc6981cddd1ad636",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cebf651a5cff819eff43cc7190d453499cb1ecbb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/56e02a52eef2bc99d6c2f862dd5f6dd0e5325735",
+      "width" : 64
+    } ],
+    "name" : "Honey's Dead",
+    "type" : "album",
+    "uri" : "spotify:album:1hsluRV3WUPpeSXSdSL5HF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4rjlerN21ygkIhmUv55irs",
+    "id" : "4rjlerN21ygkIhmUv55irs",
+    "name" : "The Jesus and Mary Chain",
+    "type" : "artist",
+    "uri" : "spotify:artist:4rjlerN21ygkIhmUv55irs"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 186932,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHT1100199"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Y8LGcItkUkRq6EP5OUQj8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Y8LGcItkUkRq6EP5OUQj8",
+  "id" : "4Y8LGcItkUkRq6EP5OUQj8",
+  "name" : "Teenage Lust",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a7ecad352965048ff06d58f414e98f5d6cf1fa17?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4Y8LGcItkUkRq6EP5OUQj8"
+}

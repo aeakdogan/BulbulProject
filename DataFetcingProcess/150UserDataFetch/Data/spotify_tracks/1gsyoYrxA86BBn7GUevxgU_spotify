@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
+      "id" : "0lZoBs4Pzo7R89JM9lxwoT",
+      "name" : "Duran Duran",
+      "type" : "artist",
+      "uri" : "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2XIlp6UgHAQYNg3OTtoD54"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2XIlp6UgHAQYNg3OTtoD54",
+    "id" : "2XIlp6UgHAQYNg3OTtoD54",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a08e95a6b1c9d1bcfe9c4c59883a04f29874c296",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2103367cbb2a79c5a4f451f9f7af0bf69a8b2d83",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/58c3bdb428dd8a53953e83bae17cd1ddbbba2ba6",
+      "width" : 64
+    } ],
+    "name" : "Thank You",
+    "type" : "album",
+    "uri" : "spotify:album:2XIlp6UgHAQYNg3OTtoD54"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
+    "id" : "0lZoBs4Pzo7R89JM9lxwoT",
+    "name" : "Duran Duran",
+    "type" : "artist",
+    "uri" : "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 395666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE9300352"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1gsyoYrxA86BBn7GUevxgU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1gsyoYrxA86BBn7GUevxgU",
+  "id" : "1gsyoYrxA86BBn7GUevxgU",
+  "name" : "Thank You",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/caf4e114787052b89ff7bf8835ef83763ecf0549?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1gsyoYrxA86BBn7GUevxgU"
+}

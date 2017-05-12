@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cBh5lVMg222FFuRU7EfDE",
+      "id" : "2cBh5lVMg222FFuRU7EfDE",
+      "name" : "Sophie Ellis-Bextor",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cBh5lVMg222FFuRU7EfDE"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2vLMz7mNDjeAkCstDKiz7p"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2vLMz7mNDjeAkCstDKiz7p",
+    "id" : "2vLMz7mNDjeAkCstDKiz7p",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fbef926a8edec82c34fa63d80d460ebf8589f331",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8502fa27acfe2a4228c4ea5d63b3f414bb953c4b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/269ec4e6809a62d7b14af29119e472b79ff3bfc6",
+      "width" : 64
+    } ],
+    "name" : "Make a Scene",
+    "type" : "album",
+    "uri" : "spotify:album:2vLMz7mNDjeAkCstDKiz7p"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2cBh5lVMg222FFuRU7EfDE",
+    "id" : "2cBh5lVMg222FFuRU7EfDE",
+    "name" : "Sophie Ellis-Bextor",
+    "type" : "artist",
+    "uri" : "spotify:artist:2cBh5lVMg222FFuRU7EfDE"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 262226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V80068838"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6KnXEVNgJBr4cmC6kjAUGg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6KnXEVNgJBr4cmC6kjAUGg",
+  "id" : "6KnXEVNgJBr4cmC6kjAUGg",
+  "name" : "Starlight",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c61db841be18cc9776f1707e413de1d16142175c?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6KnXEVNgJBr4cmC6kjAUGg"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6pmxr66tMAePxzOLfjGNcX",
+      "id" : "6pmxr66tMAePxzOLfjGNcX",
+      "name" : "Beirut",
+      "type" : "artist",
+      "uri" : "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7vlzmpQrJ7P2bPyag9a4GD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7vlzmpQrJ7P2bPyag9a4GD",
+    "id" : "7vlzmpQrJ7P2bPyag9a4GD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/84ed806dd0ae434c92ff10d2dc24e5632cf6daf3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/02945e3e8dc5da9aeb2942758c2a4dd6ac4db72f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f89d3a58c001bb0b218226cf9dfcc03af15f9033",
+      "width" : 64
+    } ],
+    "name" : "The Flying Club Cup",
+    "type" : "album",
+    "uri" : "spotify:album:7vlzmpQrJ7P2bPyag9a4GD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6pmxr66tMAePxzOLfjGNcX",
+    "id" : "6pmxr66tMAePxzOLfjGNcX",
+    "name" : "Beirut",
+    "type" : "artist",
+    "uri" : "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCPT0700044"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2zPVWY47gjrIAVHXQ5wfd9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2zPVWY47gjrIAVHXQ5wfd9",
+  "id" : "2zPVWY47gjrIAVHXQ5wfd9",
+  "name" : "A Sunday Smile",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d3b85de2ebcf3b91f7436a7a9907668ceb4ba7e8?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2zPVWY47gjrIAVHXQ5wfd9"
+}

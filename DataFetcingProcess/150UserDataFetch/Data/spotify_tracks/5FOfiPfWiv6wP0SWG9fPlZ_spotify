@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+      "id" : "0YC192cP3KPCRWx8zr8MfZ",
+      "name" : "Hans Zimmer",
+      "type" : "artist",
+      "uri" : "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0q3KEEwGPGPPnXJNQ32Wyz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0q3KEEwGPGPPnXJNQ32Wyz",
+    "id" : "0q3KEEwGPGPPnXJNQ32Wyz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9b42795b91389c526a22175c332427a4bdd72dea",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d72e411cf5c41b01df42389d4da3de6106820ba0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/43021fdf9ea3e17adf59a75d16a4c376be8e1fb2",
+      "width" : 64
+    } ],
+    "name" : "The Dark Knight Rises: Original Motion Picture Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:0q3KEEwGPGPPnXJNQ32Wyz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+    "id" : "0YC192cP3KPCRWx8zr8MfZ",
+    "name" : "Hans Zimmer",
+    "type" : "artist",
+    "uri" : "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 445171,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNLR1200303"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5FOfiPfWiv6wP0SWG9fPlZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5FOfiPfWiv6wP0SWG9fPlZ",
+  "id" : "5FOfiPfWiv6wP0SWG9fPlZ",
+  "name" : "Imagine the Fire",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7d908d5bd5cea3bf15d79dc2ccd351d9e03825ef?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:5FOfiPfWiv6wP0SWG9fPlZ"
+}

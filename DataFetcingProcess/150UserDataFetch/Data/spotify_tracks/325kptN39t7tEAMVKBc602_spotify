@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2oyWkw7sq99yqj12hVUHtw",
+      "id" : "2oyWkw7sq99yqj12hVUHtw",
+      "name" : "David Sylvian",
+      "type" : "artist",
+      "uri" : "spotify:artist:2oyWkw7sq99yqj12hVUHtw"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1JA0JOhkNrdj18L7JlEmlT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1JA0JOhkNrdj18L7JlEmlT",
+    "id" : "1JA0JOhkNrdj18L7JlEmlT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c3791d9893732614d685d38b920a9a16b9a36a74",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d676454ae94a7e80183d1e45273c90dc4b6fc38e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e6ec50c591bdd9400dcdca9bb5afe4de2650e1f4",
+      "width" : 64
+    } ],
+    "name" : "Secrets Of The Beehive (Remastered 2003)",
+    "type" : "album",
+    "uri" : "spotify:album:1JA0JOhkNrdj18L7JlEmlT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2oyWkw7sq99yqj12hVUHtw",
+    "id" : "2oyWkw7sq99yqj12hVUHtw",
+    "name" : "David Sylvian",
+    "type" : "artist",
+    "uri" : "spotify:artist:2oyWkw7sq99yqj12hVUHtw"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 78906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA0300435"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/325kptN39t7tEAMVKBc602"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/325kptN39t7tEAMVKBc602",
+  "id" : "325kptN39t7tEAMVKBc602",
+  "name" : "September",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/74f16e5008df533e24d16a3befcae474eb19c206?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:325kptN39t7tEAMVKBc602"
+}

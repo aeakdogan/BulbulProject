@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Joel9mDWSEZfHPE2KooW3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Joel9mDWSEZfHPE2KooW3",
+      "id" : "1Joel9mDWSEZfHPE2KooW3",
+      "name" : "Gazpacho",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Joel9mDWSEZfHPE2KooW3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6ZT9soZZZMEP9yC7mbnsey"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6ZT9soZZZMEP9yC7mbnsey",
+    "id" : "6ZT9soZZZMEP9yC7mbnsey",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d292aa6146864364f76591a922756e2b0b0427f6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/aa452f51c881db65146aafd346c990cc8ac7cd9a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/94719efcd1600ac541b4dd83fc2b05d16b902a4f",
+      "width" : 64
+    } ],
+    "name" : "Night",
+    "type" : "album",
+    "uri" : "spotify:album:6ZT9soZZZMEP9yC7mbnsey"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Joel9mDWSEZfHPE2KooW3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Joel9mDWSEZfHPE2KooW3",
+    "id" : "1Joel9mDWSEZfHPE2KooW3",
+    "name" : "Gazpacho",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Joel9mDWSEZfHPE2KooW3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 581293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "uscgh0771883"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5rZ7TEf2QPsEYQUegsepJc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5rZ7TEf2QPsEYQUegsepJc",
+  "id" : "5rZ7TEf2QPsEYQUegsepJc",
+  "name" : "Upside Down",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d27691e65fa98f1f05af0426c44977ae7309a035?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5rZ7TEf2QPsEYQUegsepJc"
+}

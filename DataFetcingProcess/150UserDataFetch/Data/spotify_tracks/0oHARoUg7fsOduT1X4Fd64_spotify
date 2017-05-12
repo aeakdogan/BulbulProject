@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5wFXmYsg3KFJ8BDsQudJ4f",
+      "id" : "5wFXmYsg3KFJ8BDsQudJ4f",
+      "name" : "Manchester Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:5wFXmYsg3KFJ8BDsQudJ4f"
+    } ],
+    "available_markets" : [ "AU", "NZ", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7criqG4fAIy0N0TdRpL2SA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7criqG4fAIy0N0TdRpL2SA",
+    "id" : "7criqG4fAIy0N0TdRpL2SA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/54fafc4c229cd654ff52abeeefba6e9097dc272c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d9bdbbf65e707265b0404b2d21a2362014d31cd4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f4db286a0a60fa1732a7d40b14d0c3daf26f764a",
+      "width" : 64
+    } ],
+    "name" : "I'm Like A Virgin Losing A Child",
+    "type" : "album",
+    "uri" : "spotify:album:7criqG4fAIy0N0TdRpL2SA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5wFXmYsg3KFJ8BDsQudJ4f",
+    "id" : "5wFXmYsg3KFJ8BDsQudJ4f",
+    "name" : "Manchester Orchestra",
+    "type" : "artist",
+    "uri" : "spotify:artist:5wFXmYsg3KFJ8BDsQudJ4f"
+  } ],
+  "available_markets" : [ "AU", "NZ", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 298840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10702342"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0oHARoUg7fsOduT1X4Fd64"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0oHARoUg7fsOduT1X4Fd64",
+  "id" : "0oHARoUg7fsOduT1X4Fd64",
+  "name" : "I Can Barely Breathe",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/234244a38274bee09499bea4efbefe16b095cdd9?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0oHARoUg7fsOduT1X4Fd64"
+}

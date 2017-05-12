@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6qiGjRyN7TJ1GA2nXF68Hi",
+      "id" : "6qiGjRyN7TJ1GA2nXF68Hi",
+      "name" : "Blind Pilot",
+      "type" : "artist",
+      "uri" : "spotify:artist:6qiGjRyN7TJ1GA2nXF68Hi"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6uhOT07f05wYFC8orkPCjm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6uhOT07f05wYFC8orkPCjm",
+    "id" : "6uhOT07f05wYFC8orkPCjm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0b4015e16e6311b56751497fb46244d9c63eed5f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/93ebf00819e03f498596ba19c26be99cf715e6f8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d309341404ec87599e75012ee432036e4a6dd642",
+      "width" : 64
+    } ],
+    "name" : "3 Rounds And A Sound",
+    "type" : "album",
+    "uri" : "spotify:album:6uhOT07f05wYFC8orkPCjm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6qiGjRyN7TJ1GA2nXF68Hi",
+    "id" : "6qiGjRyN7TJ1GA2nXF68Hi",
+    "name" : "Blind Pilot",
+    "type" : "artist",
+    "uri" : "spotify:artist:6qiGjRyN7TJ1GA2nXF68Hi"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 177560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USATO0900096"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0anYCBah5VfAufzPILmqr0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0anYCBah5VfAufzPILmqr0",
+  "id" : "0anYCBah5VfAufzPILmqr0",
+  "name" : "Two Towns From Me",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a9d1a4e442b3da71bade11b58a3107ff811bab77?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0anYCBah5VfAufzPILmqr0"
+}

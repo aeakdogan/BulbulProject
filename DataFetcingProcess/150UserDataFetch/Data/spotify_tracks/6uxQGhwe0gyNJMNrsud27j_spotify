@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/57anmI1X2hXWPrNagFdzZr",
+      "id" : "57anmI1X2hXWPrNagFdzZr",
+      "name" : "YACHT",
+      "type" : "artist",
+      "uri" : "spotify:artist:57anmI1X2hXWPrNagFdzZr"
+    } ],
+    "available_markets" : [ "CA", "JP", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/352JoZRDMm5fSvGdlGHceH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/352JoZRDMm5fSvGdlGHceH",
+    "id" : "352JoZRDMm5fSvGdlGHceH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/840e37999054f549bccafbfef926f93834a50db0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab782aba32277e3d31ae83b6f819b67d484f054c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/743bc75f02f886c6396a074cad5ffc75b4b72568",
+      "width" : 64
+    } ],
+    "name" : "Shangri-La",
+    "type" : "album",
+    "uri" : "spotify:album:352JoZRDMm5fSvGdlGHceH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/57anmI1X2hXWPrNagFdzZr",
+    "id" : "57anmI1X2hXWPrNagFdzZr",
+    "name" : "YACHT",
+    "type" : "artist",
+    "uri" : "spotify:artist:57anmI1X2hXWPrNagFdzZr"
+  } ],
+  "available_markets" : [ "CA", "JP", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 311173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US4GE1100031"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6uxQGhwe0gyNJMNrsud27j"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6uxQGhwe0gyNJMNrsud27j",
+  "id" : "6uxQGhwe0gyNJMNrsud27j",
+  "name" : "Holy Roller",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/add399a6cac06cc1e1e8dbfa1cee7045de9b9d37?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6uxQGhwe0gyNJMNrsud27j"
+}

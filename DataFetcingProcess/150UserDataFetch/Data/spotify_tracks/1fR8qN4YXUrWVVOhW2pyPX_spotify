@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5HcunTidTUrOaf8V0iJcvl",
+      "id" : "5HcunTidTUrOaf8V0iJcvl",
+      "name" : "Nusrat Fateh Ali Khan",
+      "type" : "artist",
+      "uri" : "spotify:artist:5HcunTidTUrOaf8V0iJcvl"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5z40NZxt7qMkYf8JpNPxII"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5z40NZxt7qMkYf8JpNPxII",
+    "id" : "5z40NZxt7qMkYf8JpNPxII",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bf27e823c43565010d09c239f551baca370f07c8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/99466a92bef22c38f6ea4888f48a50a85e6a2e58",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/305f3a2766d113fd8c94ea945a48f51be3d9518e",
+      "width" : 64
+    } ],
+    "name" : "Night Song",
+    "type" : "album",
+    "uri" : "spotify:album:5z40NZxt7qMkYf8JpNPxII"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5HcunTidTUrOaf8V0iJcvl",
+    "id" : "5HcunTidTUrOaf8V0iJcvl",
+    "name" : "Nusrat Fateh Ali Khan",
+    "type" : "artist",
+    "uri" : "spotify:artist:5HcunTidTUrOaf8V0iJcvl"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 335600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCPA9501129"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1fR8qN4YXUrWVVOhW2pyPX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1fR8qN4YXUrWVVOhW2pyPX",
+  "id" : "1fR8qN4YXUrWVVOhW2pyPX",
+  "name" : "Longing",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/43fb7ec26bbf5888be7a9716d4d12e14a573ed92?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1fR8qN4YXUrWVVOhW2pyPX"
+}

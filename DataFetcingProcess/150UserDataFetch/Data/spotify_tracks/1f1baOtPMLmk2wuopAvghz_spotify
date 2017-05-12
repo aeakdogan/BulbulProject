@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+      "id" : "12Chz98pHFMPJEknJQMWvI",
+      "name" : "Muse",
+      "type" : "artist",
+      "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5eJTvSeghTKoqN3Ly4TqEf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5eJTvSeghTKoqN3Ly4TqEf",
+    "id" : "5eJTvSeghTKoqN3Ly4TqEf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/09f08a5296bed8f5658bdc8d7befc8d04294d41f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/77fdcc5caeb6bd3cb4e84c7cb5ab0979934f48bf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d1e366b2a054053cf668fc33493ae2da440c92df",
+      "width" : 64
+    } ],
+    "name" : "Hullabaloo Soundtrack (Eastwest Release)",
+    "type" : "album",
+    "uri" : "spotify:album:5eJTvSeghTKoqN3Ly4TqEf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+    "id" : "12Chz98pHFMPJEknJQMWvI",
+    "name" : "Muse",
+    "type" : "artist",
+    "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 191066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVT0200010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1f1baOtPMLmk2wuopAvghz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1f1baOtPMLmk2wuopAvghz",
+  "id" : "1f1baOtPMLmk2wuopAvghz",
+  "name" : "In Your World [Live From Le Zenith] - Live",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aa2567498972e44ba8c8a1cadf0ed40804f0c608?cid=null",
+  "track_number" : 19,
+  "type" : "track",
+  "uri" : "spotify:track:1f1baOtPMLmk2wuopAvghz"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Y10boYzeuFCJ4Qgp53w6o",
+      "id" : "3Y10boYzeuFCJ4Qgp53w6o",
+      "name" : "Scissor Sisters",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Y10boYzeuFCJ4Qgp53w6o"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7tAGiSutyYLII5CZLUCcae"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7tAGiSutyYLII5CZLUCcae",
+    "id" : "7tAGiSutyYLII5CZLUCcae",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/891d5e75be44c7d54b99ca43825e39f70e00f0fb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d255fefa3479b271e79d9e79aa094c29298e8ed1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f4dc15a19eafd828b95186b42912c064ce19415f",
+      "width" : 64
+    } ],
+    "name" : "Night Work",
+    "type" : "album",
+    "uri" : "spotify:album:7tAGiSutyYLII5CZLUCcae"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Y10boYzeuFCJ4Qgp53w6o",
+    "id" : "3Y10boYzeuFCJ4Qgp53w6o",
+    "name" : "Scissor Sisters",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Y10boYzeuFCJ4Qgp53w6o"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 253173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71002122"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7myt9xawpwwAMDbb1ljiNk"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7myt9xawpwwAMDbb1ljiNk",
+  "id" : "7myt9xawpwwAMDbb1ljiNk",
+  "name" : "Fire With Fire",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/37f0632e274c71bca81e6325a6d00c7cffa482e4?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7myt9xawpwwAMDbb1ljiNk"
+}

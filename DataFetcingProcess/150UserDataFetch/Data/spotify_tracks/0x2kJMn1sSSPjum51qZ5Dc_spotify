@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0X6blR03hiu6gMITFGSptL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0X6blR03hiu6gMITFGSptL",
+    "id" : "0X6blR03hiu6gMITFGSptL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a73d798c4588d69d4dc75f711f770071aebba85f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fae5e4828ed08ce51e11280a46a47b435686dc90",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fb1da28b72a6e79d341bc0262bcb6eeb2831ea57",
+      "width" : 64
+    } ],
+    "name" : "Hôtel Costes by Stéphane Pompougnac",
+    "type" : "album",
+    "uri" : "spotify:album:0X6blR03hiu6gMITFGSptL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0WLS16S6MJvMgWXrUezleN",
+    "id" : "0WLS16S6MJvMgWXrUezleN",
+    "name" : "De-Phazz",
+    "type" : "artist",
+    "uri" : "spotify:artist:0WLS16S6MJvMgWXrUezleN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 264266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRR640790095"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0x2kJMn1sSSPjum51qZ5Dc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0x2kJMn1sSSPjum51qZ5Dc",
+  "id" : "0x2kJMn1sSSPjum51qZ5Dc",
+  "name" : "No jive",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7990c4838e50533a47b951d31425e637bc04782a?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0x2kJMn1sSSPjum51qZ5Dc"
+}

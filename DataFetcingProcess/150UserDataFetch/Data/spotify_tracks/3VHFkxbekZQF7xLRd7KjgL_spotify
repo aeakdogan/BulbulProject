@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/530Sdm7eqqzWBdDmILMgnu",
+      "id" : "530Sdm7eqqzWBdDmILMgnu",
+      "name" : "Robert Palmer",
+      "type" : "artist",
+      "uri" : "spotify:artist:530Sdm7eqqzWBdDmILMgnu"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7ujkhXrtadhgUy8N5N3b3q"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7ujkhXrtadhgUy8N5N3b3q",
+    "id" : "7ujkhXrtadhgUy8N5N3b3q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c075b2e832b1d467b67a1f5053ccf6a2688ff473",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e3325a2dee1c8fe65d8b9bab14902366587dcb86",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1106610ad14462cb01c9afd43c800975628fb4c6",
+      "width" : 64
+    } ],
+    "name" : "Clues",
+    "type" : "album",
+    "uri" : "spotify:album:7ujkhXrtadhgUy8N5N3b3q"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/530Sdm7eqqzWBdDmILMgnu",
+    "id" : "530Sdm7eqqzWBdDmILMgnu",
+    "name" : "Robert Palmer",
+    "type" : "artist",
+    "uri" : "spotify:artist:530Sdm7eqqzWBdDmILMgnu"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 237973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR28000057"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3VHFkxbekZQF7xLRd7KjgL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3VHFkxbekZQF7xLRd7KjgL",
+  "id" : "3VHFkxbekZQF7xLRd7KjgL",
+  "name" : "Johnny And Mary",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/66c825517c1c1a365df481856cdc21a5d9290970?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3VHFkxbekZQF7xLRd7KjgL"
+}

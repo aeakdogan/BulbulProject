@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0N3oP3Si8ihzFUrU6kITZ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0N3oP3Si8ihzFUrU6kITZ8",
+      "id" : "0N3oP3Si8ihzFUrU6kITZ8",
+      "name" : "Monaco",
+      "type" : "artist",
+      "uri" : "spotify:artist:0N3oP3Si8ihzFUrU6kITZ8"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7gScKKGyOuQioKGEyEJtMR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7gScKKGyOuQioKGEyEJtMR",
+    "id" : "7gScKKGyOuQioKGEyEJtMR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a247754bfdc1698d774e9c6f462dea170b434111",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fb64bf4ffa3d7f4f4f67ad15106d5bd7e9da5f9c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b48aafe79c4b5cf4ac90b68a9d78860fb180909e",
+      "width" : 64
+    } ],
+    "name" : "Music For Pleasure",
+    "type" : "album",
+    "uri" : "spotify:album:7gScKKGyOuQioKGEyEJtMR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0N3oP3Si8ihzFUrU6kITZ8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0N3oP3Si8ihzFUrU6kITZ8",
+    "id" : "0N3oP3Si8ihzFUrU6kITZ8",
+    "name" : "Monaco",
+    "type" : "artist",
+    "uri" : "spotify:artist:0N3oP3Si8ihzFUrU6kITZ8"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 248360,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAKW9601313"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3H097K41pskob32JipdXzK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3H097K41pskob32JipdXzK",
+  "id" : "3H097K41pskob32JipdXzK",
+  "name" : "What Do You Want From Me?",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/46c98555c1ce384ed8bba7cb41bf59c2fb797d46?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3H097K41pskob32JipdXzK"
+}

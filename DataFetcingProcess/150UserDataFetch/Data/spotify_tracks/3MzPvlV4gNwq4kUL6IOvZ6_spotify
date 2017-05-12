@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6pmxr66tMAePxzOLfjGNcX",
+      "id" : "6pmxr66tMAePxzOLfjGNcX",
+      "name" : "Beirut",
+      "type" : "artist",
+      "uri" : "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3WNU7rbYexFHj9DPOZMdLR",
+    "id" : "3WNU7rbYexFHj9DPOZMdLR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6c4a7467f1c445f22fda08df8ea1812e000640a7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bb02241436631edc4dd4720a31fa2ee46b396c68",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2696377ee58261e131731b7a9d392a3506ca1bff",
+      "width" : 64
+    } ],
+    "name" : "Gulag Orkestar",
+    "type" : "album",
+    "uri" : "spotify:album:3WNU7rbYexFHj9DPOZMdLR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6pmxr66tMAePxzOLfjGNcX",
+    "id" : "6pmxr66tMAePxzOLfjGNcX",
+    "name" : "Beirut",
+    "type" : "artist",
+    "uri" : "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 278906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCPT0600020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3MzPvlV4gNwq4kUL6IOvZ6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3MzPvlV4gNwq4kUL6IOvZ6",
+  "id" : "3MzPvlV4gNwq4kUL6IOvZ6",
+  "name" : "The Gulag Orkestar",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/de1254a041eeef465ebd833e333db7b95cdc3d68?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3MzPvlV4gNwq4kUL6IOvZ6"
+}

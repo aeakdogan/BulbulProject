@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+      },
+      "href" : "https://api.spotify.com/v1/artists/46CitWgnWrvF9t70C2p1Me",
+      "id" : "46CitWgnWrvF9t70C2p1Me",
+      "name" : "Daughter",
+      "type" : "artist",
+      "uri" : "spotify:artist:46CitWgnWrvF9t70C2p1Me"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2Y3kTeMHY7GZAvyNwV1jIH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2Y3kTeMHY7GZAvyNwV1jIH",
+    "id" : "2Y3kTeMHY7GZAvyNwV1jIH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/656ec76889ea1e97bcdc3662e8eef45161465734",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/642acf0dceba6135455e3dd3d0bbb7f7297f76df",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/60e54c96cc2730594f39dc80ef4c9416f3248533",
+      "width" : 64
+    } ],
+    "name" : "If You Leave",
+    "type" : "album",
+    "uri" : "spotify:album:2Y3kTeMHY7GZAvyNwV1jIH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+    },
+    "href" : "https://api.spotify.com/v1/artists/46CitWgnWrvF9t70C2p1Me",
+    "id" : "46CitWgnWrvF9t70C2p1Me",
+    "name" : "Daughter",
+    "type" : "artist",
+    "uri" : "spotify:artist:46CitWgnWrvF9t70C2p1Me"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 253013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USYAH1300029"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1vyrrrnb7182SL6iOMor3O"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1vyrrrnb7182SL6iOMor3O",
+  "id" : "1vyrrrnb7182SL6iOMor3O",
+  "name" : "Youth",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5024ac1e49a24cb641e1765067f8cf79647d040f?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1vyrrrnb7182SL6iOMor3O"
+}

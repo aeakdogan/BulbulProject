@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+      "id" : "2ApaG60P4r0yhBoDCGD8YG",
+      "name" : "Elliott Smith",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+    } ],
+    "available_markets" : [ "AU", "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/53F7Hln8r2NAjrzkpSC1GE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/53F7Hln8r2NAjrzkpSC1GE",
+    "id" : "53F7Hln8r2NAjrzkpSC1GE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a81562f803cc720129963743a9a7d8d4ace95cf5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e39db9265cbd3cde4efc5bc1e73fabcbbdf88883",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6555e51db03c2add59f33cb7b78d89433ad1b8ad",
+      "width" : 64
+    } ],
+    "name" : "New Moon",
+    "type" : "album",
+    "uri" : "spotify:album:53F7Hln8r2NAjrzkpSC1GE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+    "id" : "2ApaG60P4r0yhBoDCGD8YG",
+    "name" : "Elliott Smith",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+  } ],
+  "available_markets" : [ "AU", "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 204573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USKRS0745521"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5pSKl3MuFiwpy9UY4uPJT4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5pSKl3MuFiwpy9UY4uPJT4",
+  "id" : "5pSKl3MuFiwpy9UY4uPJT4",
+  "name" : "Pretty Mary K (Other Version)",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/25be1b9d3358a1e47d6df35a3dfdc016e0067ee0?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:5pSKl3MuFiwpy9UY4uPJT4"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/546WiMGysEqWZTzP8hJvB2",
+      "id" : "546WiMGysEqWZTzP8hJvB2",
+      "name" : "Mickey Avalon",
+      "type" : "artist",
+      "uri" : "spotify:artist:546WiMGysEqWZTzP8hJvB2"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3UG9rC8sFazZjbzCsS4tWV",
+    "id" : "3UG9rC8sFazZjbzCsS4tWV",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/766c1fbf370fb9b5d0b5a49665f99c1070c80f6e",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/ea752280bd5a646d8c28e18e0f68f23b09bf4837",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/c2e97c8df2a03a61ab37953239307e3329c2051e",
+      "width" : 64
+    } ],
+    "name" : "Mickey Avalon",
+    "type" : "album",
+    "uri" : "spotify:album:3UG9rC8sFazZjbzCsS4tWV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/546WiMGysEqWZTzP8hJvB2",
+    "id" : "546WiMGysEqWZTzP8hJvB2",
+    "name" : "Mickey Avalon",
+    "type" : "artist",
+    "uri" : "spotify:artist:546WiMGysEqWZTzP8hJvB2"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 206960,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM70614405"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5WMhGD4wrLWQKX8buBT6uj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5WMhGD4wrLWQKX8buBT6uj",
+  "id" : "5WMhGD4wrLWQKX8buBT6uj",
+  "name" : "So Rich, So Pretty",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c02cfe039440db3511bb49e37a9b8e992e8a5e6a?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5WMhGD4wrLWQKX8buBT6uj"
+}

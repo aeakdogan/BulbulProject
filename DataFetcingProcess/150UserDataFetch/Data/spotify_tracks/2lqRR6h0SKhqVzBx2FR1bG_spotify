@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/66TrUkUZ3RM29dqeDQRgyA",
+      "id" : "66TrUkUZ3RM29dqeDQRgyA",
+      "name" : "Ella Eyre",
+      "type" : "artist",
+      "uri" : "spotify:artist:66TrUkUZ3RM29dqeDQRgyA"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4TJaxSj3wX3lPljYeualtE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4TJaxSj3wX3lPljYeualtE",
+    "id" : "4TJaxSj3wX3lPljYeualtE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8fd9bc4cf7d308ffe1d9ecc3d459f4c8a18c46f1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3495432d75a11c1ff51ac54b52c460e6ffa3f19f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b47aacd6e99b016b18a14182a8ab5e6e5e89a49f",
+      "width" : 64
+    } ],
+    "name" : "Deeper",
+    "type" : "album",
+    "uri" : "spotify:album:4TJaxSj3wX3lPljYeualtE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/66TrUkUZ3RM29dqeDQRgyA",
+    "id" : "66TrUkUZ3RM29dqeDQRgyA",
+    "name" : "Ella Eyre",
+    "type" : "artist",
+    "uri" : "spotify:artist:66TrUkUZ3RM29dqeDQRgyA"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 177027,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71308280"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2lqRR6h0SKhqVzBx2FR1bG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2lqRR6h0SKhqVzBx2FR1bG",
+  "id" : "2lqRR6h0SKhqVzBx2FR1bG",
+  "name" : "Love Me Like You",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4bebb8351f4b603d3394295df53506914572f4fe?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2lqRR6h0SKhqVzBx2FR1bG"
+}

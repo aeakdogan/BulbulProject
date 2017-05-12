@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+      "id" : "1aSxMhuvixZ8h9dK9jIDwL",
+      "name" : "Kate Bush",
+      "type" : "artist",
+      "uri" : "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ZeZ9B0IZHk0zXB9lxZaGR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ZeZ9B0IZHk0zXB9lxZaGR",
+    "id" : "4ZeZ9B0IZHk0zXB9lxZaGR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f7b52444b8a9bd52bc7b46458f9a41aa6d757190",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bc2406a80fb0a0e8aa4228f6457dc060729de81b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c90fbeeac643e592226f0fedcecb8f098d5e965d",
+      "width" : 64
+    } ],
+    "name" : "The Sensual World",
+    "type" : "album",
+    "uri" : "spotify:album:4ZeZ9B0IZHk0zXB9lxZaGR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+    "id" : "1aSxMhuvixZ8h9dK9jIDwL",
+    "name" : "Kate Bush",
+    "type" : "artist",
+    "uri" : "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 222000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10026371"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2aVMd3KxafZi73MGuSSSgV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2aVMd3KxafZi73MGuSSSgV",
+  "id" : "2aVMd3KxafZi73MGuSSSgV",
+  "name" : "Never Be Mine",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b470b5e5e666981c2ce105132b124ed72c6bd5a9?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2aVMd3KxafZi73MGuSSSgV"
+}

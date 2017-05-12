@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0cQbJU1aAzvbEmTuljWLlF",
+      "id" : "0cQbJU1aAzvbEmTuljWLlF",
+      "name" : "No Doubt",
+      "type" : "artist",
+      "uri" : "spotify:artist:0cQbJU1aAzvbEmTuljWLlF"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5fSlrmZPalwAAQDwu6shK2",
+    "id" : "5fSlrmZPalwAAQDwu6shK2",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/83959735e494ab16e1f300aad152246b68402a48",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/4c608e20b38c66db6dcce4e1702d1f9a437d4e33",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c74a09e3200f6f46217be99796493b6fcfd0ae02",
+      "width" : 64
+    } ],
+    "name" : "The Singles Collection",
+    "type" : "album",
+    "uri" : "spotify:album:5fSlrmZPalwAAQDwu6shK2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0cQbJU1aAzvbEmTuljWLlF",
+    "id" : "0cQbJU1aAzvbEmTuljWLlF",
+    "name" : "No Doubt",
+    "type" : "artist",
+    "uri" : "spotify:artist:0cQbJU1aAzvbEmTuljWLlF"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6UuT0BJZ9vF8Y1sxXnJl2s",
+    "id" : "6UuT0BJZ9vF8Y1sxXnJl2s",
+    "name" : "Bounty Killer",
+    "type" : "artist",
+    "uri" : "spotify:artist:6UuT0BJZ9vF8Y1sxXnJl2s"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 206760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR10120513"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ySdXfvOy7zCc59yz2Dx8q"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ySdXfvOy7zCc59yz2Dx8q",
+  "id" : "0ySdXfvOy7zCc59yz2Dx8q",
+  "name" : "Hey Baby",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f755ff02064f318331155e589e1b099798e1153d?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0ySdXfvOy7zCc59yz2Dx8q"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2wvUfjKGoXvcnDHq7GgMOa",
+      "id" : "2wvUfjKGoXvcnDHq7GgMOa",
+      "name" : "The Ting Tings",
+      "type" : "artist",
+      "uri" : "spotify:artist:2wvUfjKGoXvcnDHq7GgMOa"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1aWIPcWf3fDEZT6geXjCfU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1aWIPcWf3fDEZT6geXjCfU",
+    "id" : "1aWIPcWf3fDEZT6geXjCfU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/faa067f369f8cec9e797ac657ea0a28e6fdfe81d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/364f64d018e55f9294dc2fed1392f978a2ab8603",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4f965592203ea6c579e0303f066cfeeb9b4759a4",
+      "width" : 64
+    } ],
+    "name" : "We Started Nothing",
+    "type" : "album",
+    "uri" : "spotify:album:1aWIPcWf3fDEZT6geXjCfU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2wvUfjKGoXvcnDHq7GgMOa",
+    "id" : "2wvUfjKGoXvcnDHq7GgMOa",
+    "name" : "The Ting Tings",
+    "type" : "artist",
+    "uri" : "spotify:artist:2wvUfjKGoXvcnDHq7GgMOa"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 202813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL0701283"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5xwzZJ5GNmAdHVTHyoQBHL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5xwzZJ5GNmAdHVTHyoQBHL",
+  "id" : "5xwzZJ5GNmAdHVTHyoQBHL",
+  "name" : "Great DJ",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/772b4d87fbc97aad3f5e05a3a36a57acb756f0a8?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5xwzZJ5GNmAdHVTHyoQBHL"
+}

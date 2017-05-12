@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YtbaDXlnc2YMDeOqO4lmq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YtbaDXlnc2YMDeOqO4lmq",
+      "id" : "1YtbaDXlnc2YMDeOqO4lmq",
+      "name" : "C.C. Catch",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YtbaDXlnc2YMDeOqO4lmq"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ttsu3fxQvRHY890hot8mR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ttsu3fxQvRHY890hot8mR",
+    "id" : "5ttsu3fxQvRHY890hot8mR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c6a31ec34cddaebf5da5eded6371905c161bff97",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2bf93151f8662b4768801a203b7a0be9069a41d8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/236ae08e4072184388e49cc7e7970bbf30ae4c57",
+      "width" : 64
+    } ],
+    "name" : "Greatest Hits",
+    "type" : "album",
+    "uri" : "spotify:album:5ttsu3fxQvRHY890hot8mR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1YtbaDXlnc2YMDeOqO4lmq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1YtbaDXlnc2YMDeOqO4lmq",
+    "id" : "1YtbaDXlnc2YMDeOqO4lmq",
+    "name" : "C.C. Catch",
+    "type" : "artist",
+    "uri" : "spotify:artist:1YtbaDXlnc2YMDeOqO4lmq"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 357066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6V81714425"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0beX2FWmS6tCm7llENe6Zc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0beX2FWmS6tCm7llENe6Zc",
+  "id" : "0beX2FWmS6tCm7llENe6Zc",
+  "name" : "I Can Lose My Heart Tonight",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8faba12af4e6b978d4df1c60010f0919ceed65d4?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0beX2FWmS6tCm7llENe6Zc"
+}

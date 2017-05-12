@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4FTDSkWpchgZy2axPEGDJW",
+      "id" : "4FTDSkWpchgZy2axPEGDJW",
+      "name" : "Van She",
+      "type" : "artist",
+      "uri" : "spotify:artist:4FTDSkWpchgZy2axPEGDJW"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/73xAq4bIDlzjt0w04OCiEX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/73xAq4bIDlzjt0w04OCiEX",
+    "id" : "73xAq4bIDlzjt0w04OCiEX",
+    "images" : [ {
+      "height" : 571,
+      "url" : "https://i.scdn.co/image/16f1ded788a8676a290277c9555c1b3fe124ccaf",
+      "width" : 640
+    }, {
+      "height" : 268,
+      "url" : "https://i.scdn.co/image/8faa150a3a86f44ab61c9d19f5f0477088f882c1",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/14894602b5fa08bfc163f649f0168d8f7a90c6c3",
+      "width" : 64
+    } ],
+    "name" : "V",
+    "type" : "album",
+    "uri" : "spotify:album:73xAq4bIDlzjt0w04OCiEX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4FTDSkWpchgZy2axPEGDJW",
+    "id" : "4FTDSkWpchgZy2axPEGDJW",
+    "name" : "Van She",
+    "type" : "artist",
+    "uri" : "spotify:artist:4FTDSkWpchgZy2axPEGDJW"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 239453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUUM70800642"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Iu4nGm6k2s0IGccs8unBW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Iu4nGm6k2s0IGccs8unBW",
+  "id" : "2Iu4nGm6k2s0IGccs8unBW",
+  "name" : "It Could Be The Same",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ffcc3dccd474cc33b28e50858a5f707a037c123b?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:2Iu4nGm6k2s0IGccs8unBW"
+}

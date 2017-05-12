@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6RZUqkomCmb8zCRqc9eznB",
+      "id" : "6RZUqkomCmb8zCRqc9eznB",
+      "name" : "Placebo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6RZUqkomCmb8zCRqc9eznB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/57d7iI3YmpeAvbJGmvLBVu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/57d7iI3YmpeAvbJGmvLBVu",
+    "id" : "57d7iI3YmpeAvbJGmvLBVu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/38b872443895db50efa2c2891234ee8ece3c453a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e49dd45dc056559baec4f1b00f7c5db6ad20e16",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/97deb36ce1af4cd111820d2d1cfab52a7d851ed1",
+      "width" : 64
+    } ],
+    "name" : "Placebo",
+    "type" : "album",
+    "uri" : "spotify:album:57d7iI3YmpeAvbJGmvLBVu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6RZUqkomCmb8zCRqc9eznB",
+    "id" : "6RZUqkomCmb8zCRqc9eznB",
+    "name" : "Placebo",
+    "type" : "artist",
+    "uri" : "spotify:artist:6RZUqkomCmb8zCRqc9eznB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 284000,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBAAA9600240"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1N8UZjYJarJpclLKBdaGwd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1N8UZjYJarJpclLKBdaGwd",
+  "id" : "1N8UZjYJarJpclLKBdaGwd",
+  "name" : "I Know",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e77d36de8b92c4b147cc6a67c9456a0f3235c30d?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:1N8UZjYJarJpclLKBdaGwd"
+}

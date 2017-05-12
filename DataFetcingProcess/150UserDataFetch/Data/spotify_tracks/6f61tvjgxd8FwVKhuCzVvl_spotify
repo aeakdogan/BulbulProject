@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+      "id" : "7G1GBhoKtEPnP86X2PvEYO",
+      "name" : "Nina Simone",
+      "type" : "artist",
+      "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5gHvTZO4alH9wVcWgTjJat"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5gHvTZO4alH9wVcWgTjJat",
+    "id" : "5gHvTZO4alH9wVcWgTjJat",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/c0637c48efc0ee95fd898d605e74dc0282984a5c",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/3f16a081663919db10884f08589dd8dc93b0e5eb",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/3b4c93c8505e49cd217183a7c2a3983d062ed785",
+      "width" : 64
+    } ],
+    "name" : "Wild Is The Wind",
+    "type" : "album",
+    "uri" : "spotify:album:5gHvTZO4alH9wVcWgTjJat"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+    "id" : "7G1GBhoKtEPnP86X2PvEYO",
+    "name" : "Nina Simone",
+    "type" : "artist",
+    "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 416693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR36400087"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6f61tvjgxd8FwVKhuCzVvl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6f61tvjgxd8FwVKhuCzVvl",
+  "id" : "6f61tvjgxd8FwVKhuCzVvl",
+  "name" : "Wild Is The Wind - Live In New York/1964",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/84c9a13b4e7781678633d6cb0f7f950e59ac9a87?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6f61tvjgxd8FwVKhuCzVvl"
+}

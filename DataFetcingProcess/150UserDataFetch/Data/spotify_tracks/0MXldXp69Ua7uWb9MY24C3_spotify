@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2v5ISZSv7ULCeQUT7x8G5B"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2v5ISZSv7ULCeQUT7x8G5B",
+    "id" : "2v5ISZSv7ULCeQUT7x8G5B",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/79fbf939ef2f3a5c86ca3a700b188cab72816d77",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/32697fe1fa0f6d21edd9cce43ad321a537c17a62",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e9adda328b78cc1d79f613a5eb82c2f74795057b",
+      "width" : 64
+    } ],
+    "name" : "How To Lose A Guy In 10 Days: Music From The Motion Picture",
+    "type" : "album",
+    "uri" : "spotify:album:2v5ISZSv7ULCeQUT7x8G5B"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3dkbV4qihUeMsqN4vBGg93",
+    "id" : "3dkbV4qihUeMsqN4vBGg93",
+    "name" : "Al Green",
+    "type" : "artist",
+    "uri" : "spotify:artist:3dkbV4qihUeMsqN4vBGg93"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 195573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USHC17100002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0MXldXp69Ua7uWb9MY24C3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0MXldXp69Ua7uWb9MY24C3",
+  "id" : "0MXldXp69Ua7uWb9MY24C3",
+  "name" : "Let's Stay Together",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5957cdcde4a68eb878cd76a987d0c076beb4c4dc?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0MXldXp69Ua7uWb9MY24C3"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ",
+      "id" : "3iTsJGG39nMg9YiolUgLMQ",
+      "name" : "Morrissey",
+      "type" : "artist",
+      "uri" : "spotify:artist:3iTsJGG39nMg9YiolUgLMQ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/33Jo51fOzjQsN8hGBO0Q3E"
+    },
+    "href" : "https://api.spotify.com/v1/albums/33Jo51fOzjQsN8hGBO0Q3E",
+    "id" : "33Jo51fOzjQsN8hGBO0Q3E",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f2bc6d9b64e01cef9d823eb12afcb26fbe119c69",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fd8d076f30bae046f79a2d382ef27f67a7593fae",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/79630017ea9652e76692e1142d24d8a637372be7",
+      "width" : 64
+    } ],
+    "name" : "Vauxhall And I",
+    "type" : "album",
+    "uri" : "spotify:album:33Jo51fOzjQsN8hGBO0Q3E"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ",
+    "id" : "3iTsJGG39nMg9YiolUgLMQ",
+    "name" : "Morrissey",
+    "type" : "artist",
+    "uri" : "spotify:artist:3iTsJGG39nMg9YiolUgLMQ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 223493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE19400073"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/77d0w7w4olSAyh3F8UHWaN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/77d0w7w4olSAyh3F8UHWaN",
+  "id" : "77d0w7w4olSAyh3F8UHWaN",
+  "name" : "The More You Ignore Me, The Closer I Get",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bb8da8cdea1f77e0c5ae18c04704aae0d30e691d?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:77d0w7w4olSAyh3F8UHWaN"
+}

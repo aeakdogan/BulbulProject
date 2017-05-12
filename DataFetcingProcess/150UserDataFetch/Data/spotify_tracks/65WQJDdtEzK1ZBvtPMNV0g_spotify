@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7bAIYB0KGbYXlGbIjyFAcI",
+      "id" : "7bAIYB0KGbYXlGbIjyFAcI",
+      "name" : "Paolo Conte",
+      "type" : "artist",
+      "uri" : "spotify:artist:7bAIYB0KGbYXlGbIjyFAcI"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ZyrbtCXOe2tIzjr5BmcvR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ZyrbtCXOe2tIzjr5BmcvR",
+    "id" : "0ZyrbtCXOe2tIzjr5BmcvR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e97d48e4200bcf3f27c6fc5df279d98411b1c2c3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e10be49c62f1b3e2b56c96dd6053886919597054",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/902d970cf1a11eabbbe17b65da8c68865215c0b5",
+      "width" : 64
+    } ],
+    "name" : "Best Of Paolo Conte",
+    "type" : "album",
+    "uri" : "spotify:album:0ZyrbtCXOe2tIzjr5BmcvR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bAIYB0KGbYXlGbIjyFAcI",
+    "id" : "7bAIYB0KGbYXlGbIjyFAcI",
+    "name" : "Paolo Conte",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bAIYB0KGbYXlGbIjyFAcI"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 235053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITB008200449"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/65WQJDdtEzK1ZBvtPMNV0g"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/65WQJDdtEzK1ZBvtPMNV0g",
+  "id" : "65WQJDdtEzK1ZBvtPMNV0g",
+  "name" : "Hemingway",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6d426bbfe6bb1df3be5b63d81804e7365f500eb5?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:65WQJDdtEzK1ZBvtPMNV0g"
+}

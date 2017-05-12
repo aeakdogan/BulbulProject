@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/662bj9rCw8Twt6JDAMmMDb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/662bj9rCw8Twt6JDAMmMDb",
+      "id" : "662bj9rCw8Twt6JDAMmMDb",
+      "name" : "Stereo Total",
+      "type" : "artist",
+      "uri" : "spotify:artist:662bj9rCw8Twt6JDAMmMDb"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3DDx2UkglaFWQ1yDStQqyd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3DDx2UkglaFWQ1yDStQqyd",
+    "id" : "3DDx2UkglaFWQ1yDStQqyd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f14da138760e46d61d68d13ae217a6f5110bf42e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8f9c292411a7afcd60ead4ebfe408fe1e7d8666e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9b8e134ef73c2df4e888f5e2240b1e465e3f588c",
+      "width" : 64
+    } ],
+    "name" : "Baby Ouh!",
+    "type" : "album",
+    "uri" : "spotify:album:3DDx2UkglaFWQ1yDStQqyd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/662bj9rCw8Twt6JDAMmMDb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/662bj9rCw8Twt6JDAMmMDb",
+    "id" : "662bj9rCw8Twt6JDAMmMDb",
+    "name" : "Stereo Total",
+    "type" : "artist",
+    "uri" : "spotify:artist:662bj9rCw8Twt6JDAMmMDb"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 307213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USKRS1052116"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4hWDZSDG7mwmkbILS2dsI5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4hWDZSDG7mwmkbILS2dsI5",
+  "id" : "4hWDZSDG7mwmkbILS2dsI5",
+  "name" : "Baby Ouh",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a16645e0bbf562674d30a0cf4ec8db845f12bb0e?cid=null",
+  "track_number" : 16,
+  "type" : "track",
+  "uri" : "spotify:track:4hWDZSDG7mwmkbILS2dsI5"
+}

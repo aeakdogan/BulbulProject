@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+      "id" : "7EQ0qTo7fWT7DPxmxtSYEc",
+      "name" : "Bastille",
+      "type" : "artist",
+      "uri" : "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/64fQ94AVziavTPdnkCS6Nj",
+    "id" : "64fQ94AVziavTPdnkCS6Nj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4627f2fcd0f5299bb8577ddbe26a5e919095c781",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f823241969b5dae21fa03d34252842609ba9e2ea",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c011f00b99131631c73bd69f49e24c2246a1f6d4",
+      "width" : 64
+    } ],
+    "name" : "Bad Blood",
+    "type" : "album",
+    "uri" : "spotify:album:64fQ94AVziavTPdnkCS6Nj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7EQ0qTo7fWT7DPxmxtSYEc",
+    "id" : "7EQ0qTo7fWT7DPxmxtSYEc",
+    "name" : "Bastille",
+    "type" : "artist",
+    "uri" : "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 214147,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA1200795"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3gbBpTdY8lnQwqxNCcf795",
+  "id" : "3gbBpTdY8lnQwqxNCcf795",
+  "name" : "Pompeii",
+  "popularity" : 66,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bbc1e33c92519556df22cb1193e68e10780a86e0?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3gbBpTdY8lnQwqxNCcf795"
+}

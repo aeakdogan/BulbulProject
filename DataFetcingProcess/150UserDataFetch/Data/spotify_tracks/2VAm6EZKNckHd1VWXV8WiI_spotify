@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Zi9cVUyWeAFjxEHn3bCqZ",
+      "id" : "3Zi9cVUyWeAFjxEHn3bCqZ",
+      "name" : "Sylvie Vartan",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Zi9cVUyWeAFjxEHn3bCqZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "FR", "GT", "HN", "MC", "MX", "NI", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2esvftu44r8Q9nZUG8chWh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2esvftu44r8Q9nZUG8chWh",
+    "id" : "2esvftu44r8Q9nZUG8chWh",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/4fa68f5712a542a06ebb2fe1e83813e64066e181",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/57cb36f89100033248270de624153512f6266917",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/0ec76b8336f191de613806d78743fbffa6371f4d",
+      "width" : 64
+    } ],
+    "name" : "Le Meilleur Des Années RCA",
+    "type" : "album",
+    "uri" : "spotify:album:2esvftu44r8Q9nZUG8chWh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Zi9cVUyWeAFjxEHn3bCqZ",
+    "id" : "3Zi9cVUyWeAFjxEHn3bCqZ",
+    "name" : "Sylvie Vartan",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Zi9cVUyWeAFjxEHn3bCqZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "FR", "GT", "HN", "MC", "MX", "NI", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 153933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ056400030"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2VAm6EZKNckHd1VWXV8WiI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2VAm6EZKNckHd1VWXV8WiI",
+  "id" : "2VAm6EZKNckHd1VWXV8WiI",
+  "name" : "La plus belle pour aller danser",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/74509b07071432b906f8b6acbe363fdd1a786573?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2VAm6EZKNckHd1VWXV8WiI"
+}

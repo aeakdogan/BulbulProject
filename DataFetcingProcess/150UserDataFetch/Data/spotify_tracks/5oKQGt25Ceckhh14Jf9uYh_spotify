@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0P2q6xyNc2hVFkG3ThjYcJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0P2q6xyNc2hVFkG3ThjYcJ",
+      "id" : "0P2q6xyNc2hVFkG3ThjYcJ",
+      "name" : "The Magic Numbers",
+      "type" : "artist",
+      "uri" : "spotify:artist:0P2q6xyNc2hVFkG3ThjYcJ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5bWlmPy78V7LAiR10u8bqh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5bWlmPy78V7LAiR10u8bqh",
+    "id" : "5bWlmPy78V7LAiR10u8bqh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8beff53890b1aff34ff78cd538eb41bd32b6ff18",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bde82365592e1d87401e3dedfb50e7af96bc1df0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0f4df0b11c9620a3527eb4d01195f952fe0f1611",
+      "width" : 64
+    } ],
+    "name" : "Those The Brokes",
+    "type" : "album",
+    "uri" : "spotify:album:5bWlmPy78V7LAiR10u8bqh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0P2q6xyNc2hVFkG3ThjYcJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0P2q6xyNc2hVFkG3ThjYcJ",
+    "id" : "0P2q6xyNc2hVFkG3ThjYcJ",
+    "name" : "The Magic Numbers",
+    "type" : "artist",
+    "uri" : "spotify:artist:0P2q6xyNc2hVFkG3ThjYcJ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 320920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDGG0600064"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5oKQGt25Ceckhh14Jf9uYh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5oKQGt25Ceckhh14Jf9uYh",
+  "id" : "5oKQGt25Ceckhh14Jf9uYh",
+  "name" : "This Is A Song",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c143d6da65b366dbc9306f34cd45f46e65e50711?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5oKQGt25Ceckhh14Jf9uYh"
+}

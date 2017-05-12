@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7t51dSX8ZkKC7VoKRd0lME",
+      "id" : "7t51dSX8ZkKC7VoKRd0lME",
+      "name" : "Asaf Avidan",
+      "type" : "artist",
+      "uri" : "spotify:artist:7t51dSX8ZkKC7VoKRd0lME"
+    } ],
+    "available_markets" : [ "AR", "BR", "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5oMSR7TMFi2T3GavpZWphk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5oMSR7TMFi2T3GavpZWphk",
+    "id" : "5oMSR7TMFi2T3GavpZWphk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6daa05c2caa4d9bef17d9eae7ed33ebfb8ea2df7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b1f715d340154b3747ac628ee18d89aaa47419f9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f35256be381fb9000fedb57d1ecde962ee9501be",
+      "width" : 64
+    } ],
+    "name" : "Over My Head",
+    "type" : "album",
+    "uri" : "spotify:album:5oMSR7TMFi2T3GavpZWphk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7t51dSX8ZkKC7VoKRd0lME",
+    "id" : "7t51dSX8ZkKC7VoKRd0lME",
+    "name" : "Asaf Avidan",
+    "type" : "artist",
+    "uri" : "spotify:artist:7t51dSX8ZkKC7VoKRd0lME"
+  } ],
+  "available_markets" : [ "AR", "BR", "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 158414,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "IL6171400001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2JJNypokDJGxWtyzaZdvfn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2JJNypokDJGxWtyzaZdvfn",
+  "id" : "2JJNypokDJGxWtyzaZdvfn",
+  "name" : "Over My Head",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3944da173d24eb3c64a81a9aab0835fa2e63d195?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2JJNypokDJGxWtyzaZdvfn"
+}

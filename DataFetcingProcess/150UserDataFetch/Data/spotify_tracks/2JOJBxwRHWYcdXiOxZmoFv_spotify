@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04"
+      },
+      "href" : "https://api.spotify.com/v1/artists/03cwCzIWQ8BRmXjGPDAL04",
+      "id" : "03cwCzIWQ8BRmXjGPDAL04",
+      "name" : "Cab Calloway",
+      "type" : "artist",
+      "uri" : "spotify:artist:03cwCzIWQ8BRmXjGPDAL04"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2EY7dWuTxkOrm4CDllJmZk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2EY7dWuTxkOrm4CDllJmZk",
+    "id" : "2EY7dWuTxkOrm4CDllJmZk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dac71895f9990fe02723caa52e4ed569862b4c1e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c2fb8573f07c5bd46baa75090bcec13a0f666fb6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c05efae8711dd73a3afe1c082ec21cb383a0f73f",
+      "width" : 64
+    } ],
+    "name" : "Best Of The Big Bands",
+    "type" : "album",
+    "uri" : "spotify:album:2EY7dWuTxkOrm4CDllJmZk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04"
+    },
+    "href" : "https://api.spotify.com/v1/artists/03cwCzIWQ8BRmXjGPDAL04",
+    "id" : "03cwCzIWQ8BRmXjGPDAL04",
+    "name" : "Cab Calloway",
+    "type" : "artist",
+    "uri" : "spotify:artist:03cwCzIWQ8BRmXjGPDAL04"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 194133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10026333"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2JOJBxwRHWYcdXiOxZmoFv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2JOJBxwRHWYcdXiOxZmoFv",
+  "id" : "2JOJBxwRHWYcdXiOxZmoFv",
+  "name" : "Minnie the Moocher (Theme Song)",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/75dc138c577e6019404d2af58141de5f23d66827?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2JOJBxwRHWYcdXiOxZmoFv"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6mo0UbyIvIePdXNyLwQlk5",
+      "id" : "6mo0UbyIvIePdXNyLwQlk5",
+      "name" : "Milow",
+      "type" : "artist",
+      "uri" : "spotify:artist:6mo0UbyIvIePdXNyLwQlk5"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6OtA1RszyuxoQfgq3aLhDX",
+    "id" : "6OtA1RszyuxoQfgq3aLhDX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/824b14b291df878546ec0ea7223b9c21ee4afc2b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/56d0d3f57964a5047d4e303ab7a3dcee240a7247",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/70ecb0bca559522020ee9aae9420157883267d7e",
+      "width" : 64
+    } ],
+    "name" : "Born in the Eighties",
+    "type" : "album",
+    "uri" : "spotify:album:6OtA1RszyuxoQfgq3aLhDX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6mo0UbyIvIePdXNyLwQlk5",
+    "id" : "6mo0UbyIvIePdXNyLwQlk5",
+    "name" : "Milow",
+    "type" : "artist",
+    "uri" : "spotify:artist:6mo0UbyIvIePdXNyLwQlk5"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 167840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEA890600001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6dMQuOXNGWXlSXesJvfUgd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6dMQuOXNGWXlSXesJvfUgd",
+  "id" : "6dMQuOXNGWXlSXesJvfUgd",
+  "name" : "You Don't Know",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1977e9886481450e51b7035203a4de0342446f5b?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6dMQuOXNGWXlSXesJvfUgd"
+}

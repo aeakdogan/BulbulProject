@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7nXyULtoL8k7wP9l6kg8Ef",
+      "id" : "7nXyULtoL8k7wP9l6kg8Ef",
+      "name" : "Madeleine Peyroux",
+      "type" : "artist",
+      "uri" : "spotify:artist:7nXyULtoL8k7wP9l6kg8Ef"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4DE9KRgAibQ5ZnmDtuGJNB",
+    "id" : "4DE9KRgAibQ5ZnmDtuGJNB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eda7f66674c28c953a04e6359520fc764ffb475c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ed76c82c7ca3b44e9cd4912ea00c9018099073ae",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/74166caa34668f9579cebbafd14bd4aa44036b13",
+      "width" : 64
+    } ],
+    "name" : "Dreamland",
+    "type" : "album",
+    "uri" : "spotify:album:4DE9KRgAibQ5ZnmDtuGJNB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7nXyULtoL8k7wP9l6kg8Ef",
+    "id" : "7nXyULtoL8k7wP9l6kg8Ef",
+    "name" : "Madeleine Peyroux",
+    "type" : "artist",
+    "uri" : "spotify:artist:7nXyULtoL8k7wP9l6kg8Ef"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 201200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT29600157"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1njxWb5fM5L5eEq9MyWddU",
+  "id" : "1njxWb5fM5L5eEq9MyWddU",
+  "name" : "La Vie En Rose",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5142eae54ccaec1305f5788a20404e10c4066ca8?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:1njxWb5fM5L5eEq9MyWddU"
+}

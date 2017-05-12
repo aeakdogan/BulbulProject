@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1tpXaFf2F55E7kVJON4j4G",
+      "id" : "1tpXaFf2F55E7kVJON4j4G",
+      "name" : "Black Rebel Motorcycle Club",
+      "type" : "artist",
+      "uri" : "spotify:artist:1tpXaFf2F55E7kVJON4j4G"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/63itEgIR6kDwhUTQLTi5mG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/63itEgIR6kDwhUTQLTi5mG",
+    "id" : "63itEgIR6kDwhUTQLTi5mG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a44569b5457d49ee05684ce625086fcd14e44fa5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/52ce508a3332a0538cfd4a78fde6f6479ec69246",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0424beb3ea39ed7bd72914b8ef53514b29e1e1c3",
+      "width" : 64
+    } ],
+    "name" : "Specter At The Feast",
+    "type" : "album",
+    "uri" : "spotify:album:63itEgIR6kDwhUTQLTi5mG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1tpXaFf2F55E7kVJON4j4G",
+    "id" : "1tpXaFf2F55E7kVJON4j4G",
+    "name" : "Black Rebel Motorcycle Club",
+    "type" : "artist",
+    "uri" : "spotify:artist:1tpXaFf2F55E7kVJON4j4G"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 406573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVR91379310"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6iZyUaHkMRCPrY0DMeEpdo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6iZyUaHkMRCPrY0DMeEpdo",
+  "id" : "6iZyUaHkMRCPrY0DMeEpdo",
+  "name" : "Sell It",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6d6ec078377473bc1baf65c7a880c099a3e6226c?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:6iZyUaHkMRCPrY0DMeEpdo"
+}

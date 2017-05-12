@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yTUYhIf8fxptTIy3KLuJD",
+      "id" : "2yTUYhIf8fxptTIy3KLuJD",
+      "name" : "Mike & The Mechanics",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yTUYhIf8fxptTIy3KLuJD"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7pXUIU9n8JXEbQS95sodGr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7pXUIU9n8JXEbQS95sodGr",
+    "id" : "7pXUIU9n8JXEbQS95sodGr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b480c8b77a195aef8b120fa38e1fa72efaa38d0a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/224622ea1e429c5862379b7612d5b073bb33d4f4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1985d6facee40a18048104be2816223aef76b7c5",
+      "width" : 64
+    } ],
+    "name" : "Mike + The Mechanics",
+    "type" : "album",
+    "uri" : "spotify:album:7pXUIU9n8JXEbQS95sodGr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2yTUYhIf8fxptTIy3KLuJD",
+    "id" : "2yTUYhIf8fxptTIy3KLuJD",
+    "name" : "Mike & The Mechanics",
+    "type" : "artist",
+    "uri" : "spotify:artist:2yTUYhIf8fxptTIy3KLuJD"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 373933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT28600028"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4ae0AmiDt3o18FvSmQOOYc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4ae0AmiDt3o18FvSmQOOYc",
+  "id" : "4ae0AmiDt3o18FvSmQOOYc",
+  "name" : "Silent Running",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0e50741146ff888883cc1742b241e802d8385a64?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4ae0AmiDt3o18FvSmQOOYc"
+}

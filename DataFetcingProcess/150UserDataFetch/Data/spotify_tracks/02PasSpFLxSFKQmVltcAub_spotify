@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/15qI5w4XJFLRMwOp2VrlD5",
+      "id" : "15qI5w4XJFLRMwOp2VrlD5",
+      "name" : "The Saturdays",
+      "type" : "artist",
+      "uri" : "spotify:artist:15qI5w4XJFLRMwOp2VrlD5"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3gmgTl5uY3dc4EQw34fuXw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3gmgTl5uY3dc4EQw34fuXw",
+    "id" : "3gmgTl5uY3dc4EQw34fuXw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b75eeb752a7e5e3d14f6b8a97f3d2099134734af",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/130b376d18c000124c3d3e44dbafbcc0af330cf4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/69e8ed25542ea69e28b5ad39c693fafb84c13274",
+      "width" : 64
+    } ],
+    "name" : "Chasing The Saturdays",
+    "type" : "album",
+    "uri" : "spotify:album:3gmgTl5uY3dc4EQw34fuXw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/15qI5w4XJFLRMwOp2VrlD5",
+    "id" : "15qI5w4XJFLRMwOp2VrlD5",
+    "name" : "The Saturdays",
+    "type" : "artist",
+    "uri" : "spotify:artist:15qI5w4XJFLRMwOp2VrlD5"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 191666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71105947"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/02PasSpFLxSFKQmVltcAub"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/02PasSpFLxSFKQmVltcAub",
+  "id" : "02PasSpFLxSFKQmVltcAub",
+  "name" : "All Fired Up",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e5ba1c2c48538b7eb818656ba65e14a5aa00b3b1?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:02PasSpFLxSFKQmVltcAub"
+}

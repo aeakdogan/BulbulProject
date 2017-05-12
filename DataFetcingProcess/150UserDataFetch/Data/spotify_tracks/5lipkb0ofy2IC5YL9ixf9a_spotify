@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI",
+      "id" : "5CE2IfdYZEQGIDsfiRm8SI",
+      "name" : "DJ Shadow",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3vjXOJiEMjfGCoWohPaNnb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3vjXOJiEMjfGCoWohPaNnb",
+    "id" : "3vjXOJiEMjfGCoWohPaNnb",
+    "images" : [ {
+      "height" : 565,
+      "url" : "https://i.scdn.co/image/352b22781d6723ad55a7636e78e349d3265f3e0c",
+      "width" : 640
+    }, {
+      "height" : 265,
+      "url" : "https://i.scdn.co/image/d01083f78828972ae4a2454b990245fb8b742171",
+      "width" : 300
+    }, {
+      "height" : 56,
+      "url" : "https://i.scdn.co/image/ee3750793f657413c408e61f6111cba06960821e",
+      "width" : 63
+    } ],
+    "name" : "The Private Press (Limited Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:3vjXOJiEMjfGCoWohPaNnb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI",
+    "id" : "5CE2IfdYZEQGIDsfiRm8SI",
+    "name" : "DJ Shadow",
+    "type" : "artist",
+    "uri" : "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 178186,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "GBAQH0200018"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5lipkb0ofy2IC5YL9ixf9a"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5lipkb0ofy2IC5YL9ixf9a",
+  "id" : "5lipkb0ofy2IC5YL9ixf9a",
+  "name" : "Mashin' On The Motorway",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f0cd1a55228f57dd9ae65903192443c8807a030d?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:5lipkb0ofy2IC5YL9ixf9a"
+}

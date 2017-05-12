@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+      "id" : "5c3GLXai8YOMid29ZEuR9y",
+      "name" : "Nick Drake",
+      "type" : "artist",
+      "uri" : "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7IpcJbVxLLEfW0KXB7ndE2",
+    "id" : "7IpcJbVxLLEfW0KXB7ndE2",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/c02f9629c57d3996fe2610c973f4523590e097fe",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/8cc6e7fef874dd8d5e43a3b8c7b59ce152d6ec4e",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/1214fba3a68fde6df4175fb126393ac46a543dd8",
+      "width" : 64
+    } ],
+    "name" : "Five Leaves Left",
+    "type" : "album",
+    "uri" : "spotify:album:7IpcJbVxLLEfW0KXB7ndE2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+    "id" : "5c3GLXai8YOMid29ZEuR9y",
+    "name" : "Nick Drake",
+    "type" : "artist",
+    "uri" : "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 145973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN7000092"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/66790TBuwlIrGxWWTVc6yl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/66790TBuwlIrGxWWTVc6yl",
+  "id" : "66790TBuwlIrGxWWTVc6yl",
+  "name" : "Day Is Done",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/215937883094ee51a1f323dce917deaa8133e9e2?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:66790TBuwlIrGxWWTVc6yl"
+}

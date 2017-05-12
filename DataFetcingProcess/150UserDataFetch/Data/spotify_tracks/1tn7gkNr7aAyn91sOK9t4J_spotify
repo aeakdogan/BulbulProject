@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0f8MDDzIc6M4uH1xH0o0gy",
+      "id" : "0f8MDDzIc6M4uH1xH0o0gy",
+      "name" : "Robert Johnson",
+      "type" : "artist",
+      "uri" : "spotify:artist:0f8MDDzIc6M4uH1xH0o0gy"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6QwHn86Rw53qli3Y6b41Rd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6QwHn86Rw53qli3Y6b41Rd",
+    "id" : "6QwHn86Rw53qli3Y6b41Rd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4fe1591296be4615b93423074ea8619f6308d931",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/93a5026c8430475fe49d1fb079a9a922ee1d8776",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e27c74cb1889a1774ac99195618fbe092d922a2b",
+      "width" : 64
+    } ],
+    "name" : "The Complete Recordings",
+    "type" : "album",
+    "uri" : "spotify:album:6QwHn86Rw53qli3Y6b41Rd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0f8MDDzIc6M4uH1xH0o0gy",
+    "id" : "0f8MDDzIc6M4uH1xH0o0gy",
+    "name" : "Robert Johnson",
+    "type" : "artist",
+    "uri" : "spotify:artist:0f8MDDzIc6M4uH1xH0o0gy"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 2,
+  "duration_ms" : 145733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19000102"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1tn7gkNr7aAyn91sOK9t4J"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1tn7gkNr7aAyn91sOK9t4J",
+  "id" : "1tn7gkNr7aAyn91sOK9t4J",
+  "name" : "Drunken Hearted Man - Take 1",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/04cf1301483380ada38ac37197422a468433c44b?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1tn7gkNr7aAyn91sOK9t4J"
+}

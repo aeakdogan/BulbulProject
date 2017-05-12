@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/28dHzwKBKuJZUGQKAwlpln"
+      },
+      "href" : "https://api.spotify.com/v1/artists/28dHzwKBKuJZUGQKAwlpln",
+      "id" : "28dHzwKBKuJZUGQKAwlpln",
+      "name" : "Magic Box",
+      "type" : "artist",
+      "uri" : "spotify:artist:28dHzwKBKuJZUGQKAwlpln"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7amawQwuOmX5Fr4x9R6C1w"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7amawQwuOmX5Fr4x9R6C1w",
+    "id" : "7amawQwuOmX5Fr4x9R6C1w",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9f3f524efd506b3c959f2359c9946ab342713670",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fbde446410a2abb24c53e5ddd9638320faae6e1e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/87b433608bc5740254fb36f8517ecf3cec89c169",
+      "width" : 64
+    } ],
+    "name" : "Sorry Marin",
+    "type" : "album",
+    "uri" : "spotify:album:7amawQwuOmX5Fr4x9R6C1w"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/28dHzwKBKuJZUGQKAwlpln"
+    },
+    "href" : "https://api.spotify.com/v1/artists/28dHzwKBKuJZUGQKAwlpln",
+    "id" : "28dHzwKBKuJZUGQKAwlpln",
+    "name" : "Magic Box",
+    "type" : "artist",
+    "uri" : "spotify:artist:28dHzwKBKuJZUGQKAwlpln"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 214840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITL010400355"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0kb83fAeZmKpd5GJNRTQ7A"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0kb83fAeZmKpd5GJNRTQ7A",
+  "id" : "0kb83fAeZmKpd5GJNRTQ7A",
+  "name" : "Sorry Marin",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2fd48b09d01e6b92012b69382bd4f447741eda03?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0kb83fAeZmKpd5GJNRTQ7A"
+}

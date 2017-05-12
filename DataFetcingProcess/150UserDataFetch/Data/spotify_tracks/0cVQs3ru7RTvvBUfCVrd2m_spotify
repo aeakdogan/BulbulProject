@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2RiGIRDi4GoJpDbjDnPVJl",
+      "id" : "2RiGIRDi4GoJpDbjDnPVJl",
+      "name" : "Sylosis",
+      "type" : "artist",
+      "uri" : "spotify:artist:2RiGIRDi4GoJpDbjDnPVJl"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2crrKYuSrusgq70ZhWnZlp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2crrKYuSrusgq70ZhWnZlp",
+    "id" : "2crrKYuSrusgq70ZhWnZlp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/df27c52f9b46b728ca73e62b10ca39e590c5942c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/78fa73b4fff986fe9e73c1430b7545f2ef0484bd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/80c7a8b4e8ee96009049d859791995e90f03db88",
+      "width" : 64
+    } ],
+    "name" : "Dormant Heart",
+    "type" : "album",
+    "uri" : "spotify:album:2crrKYuSrusgq70ZhWnZlp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2RiGIRDi4GoJpDbjDnPVJl",
+    "id" : "2RiGIRDi4GoJpDbjDnPVJl",
+    "name" : "Sylosis",
+    "type" : "artist",
+    "uri" : "spotify:artist:2RiGIRDi4GoJpDbjDnPVJl"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 301028,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DED831400836"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0cVQs3ru7RTvvBUfCVrd2m"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0cVQs3ru7RTvvBUfCVrd2m",
+  "id" : "0cVQs3ru7RTvvBUfCVrd2m",
+  "name" : "Leech",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/89937e03328a383309a3e7e24439fe0ae20d9363?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0cVQs3ru7RTvvBUfCVrd2m"
+}

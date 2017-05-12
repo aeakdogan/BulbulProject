@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3UbyYnvNIT5DFXU4WgiGpP",
+      "id" : "3UbyYnvNIT5DFXU4WgiGpP",
+      "name" : "Whitesnake",
+      "type" : "artist",
+      "uri" : "spotify:artist:3UbyYnvNIT5DFXU4WgiGpP"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/34gmKCHEbAKXWBSGsTR7Jg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/34gmKCHEbAKXWBSGsTR7Jg",
+    "id" : "34gmKCHEbAKXWBSGsTR7Jg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/730e2da04db3d6488aa4fda7860d7975a5a9f982",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/446343a9b0fc8dd77afa4505e3563fa71d0b5a56",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c22acd178a572015ce7711a3070912d05accd494",
+      "width" : 64
+    } ],
+    "name" : "Slip Of The Tongue - 20th Anniversary Deluxe Edition",
+    "type" : "album",
+    "uri" : "spotify:album:34gmKCHEbAKXWBSGsTR7Jg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3UbyYnvNIT5DFXU4WgiGpP",
+    "id" : "3UbyYnvNIT5DFXU4WgiGpP",
+    "name" : "Whitesnake",
+    "type" : "artist",
+    "uri" : "spotify:artist:3UbyYnvNIT5DFXU4WgiGpP"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 247946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB01A0900151"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3jiDHn0af37W1ZrTezdSfS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3jiDHn0af37W1ZrTezdSfS",
+  "id" : "3jiDHn0af37W1ZrTezdSfS",
+  "name" : "Now You're Gone - 2009 Remaster",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a1937571cc701230caaef463f4d931dac74603b5?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3jiDHn0af37W1ZrTezdSfS"
+}

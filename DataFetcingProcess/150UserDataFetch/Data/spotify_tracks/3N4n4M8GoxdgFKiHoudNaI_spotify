@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dLSQG3IV62UNVhWUe6mx6",
+      "id" : "0dLSQG3IV62UNVhWUe6mx6",
+      "name" : "Gruff Rhys",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dLSQG3IV62UNVhWUe6mx6"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1z7znKEShLw6zMo4m2hegh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1z7znKEShLw6zMo4m2hegh",
+    "id" : "1z7znKEShLw6zMo4m2hegh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d158732e054aba3cdfb5bead6d06e9b26c66a463",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f90fa5f85fea2b0fb2f58e3e7a9d10227f6f21ae",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/63d701ee8f97f323a9b5a67a56e6cc2dcb1dd257",
+      "width" : 64
+    } ],
+    "name" : "Candylion",
+    "type" : "album",
+    "uri" : "spotify:album:1z7znKEShLw6zMo4m2hegh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0dLSQG3IV62UNVhWUe6mx6",
+    "id" : "0dLSQG3IV62UNVhWUe6mx6",
+    "name" : "Gruff Rhys",
+    "type" : "artist",
+    "uri" : "spotify:artist:0dLSQG3IV62UNVhWUe6mx6"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 138266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVZ0601789"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3N4n4M8GoxdgFKiHoudNaI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3N4n4M8GoxdgFKiHoudNaI",
+  "id" : "3N4n4M8GoxdgFKiHoudNaI",
+  "name" : "Con Cariño",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0fc30d0be2b3d0de2e2a785b8225d8e206611a06?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:3N4n4M8GoxdgFKiHoudNaI"
+}

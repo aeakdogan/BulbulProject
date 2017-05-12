@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3",
+      "id" : "4BFMTELQyWJU1SwqcXMBm3",
+      "name" : "The Stooges",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BFMTELQyWJU1SwqcXMBm3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3MANoCcmaHWeXSuWiO3iVo",
+    "id" : "3MANoCcmaHWeXSuWiO3iVo",
+    "images" : [ {
+      "height" : 633,
+      "url" : "https://i.scdn.co/image/e8c790bcdd6516c13d59cc47876a1664b2f81f4d",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/d8af9b263c266e0fb72a1d2e24cfa0d482304459",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/0c4b9efc89f9fce9b6598bfcd73ad31b60db3898",
+      "width" : 64
+    } ],
+    "name" : "The Stooges",
+    "type" : "album",
+    "uri" : "spotify:album:3MANoCcmaHWeXSuWiO3iVo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3",
+    "id" : "4BFMTELQyWJU1SwqcXMBm3",
+    "name" : "The Stooges",
+    "type" : "artist",
+    "uri" : "spotify:artist:4BFMTELQyWJU1SwqcXMBm3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 315866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10000950"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6JCkmtc6yDQW1w8jh3iFqS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6JCkmtc6yDQW1w8jh3iFqS",
+  "id" : "6JCkmtc6yDQW1w8jh3iFqS",
+  "name" : "No Fun",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3eff13601b0a6b866ad1eda56c5247434e5cecb7?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6JCkmtc6yDQW1w8jh3iFqS"
+}

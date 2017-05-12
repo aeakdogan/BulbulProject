@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i",
+      "id" : "40Yq4vzPs9VNUrIBG5Jr2i",
+      "name" : "The Smashing Pumpkins",
+      "type" : "artist",
+      "uri" : "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3YDm8Vu6IOjjVdLNHlJtj0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3YDm8Vu6IOjjVdLNHlJtj0",
+    "id" : "3YDm8Vu6IOjjVdLNHlJtj0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0139b7d3d070df2f78f6ff5fbd92e5a1e20b127c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/62a120cb5c72cba2c943b901114ee33352b71cfa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8d0deb2d144692b5d809559ee06879bd518f64be",
+      "width" : 64
+    } ],
+    "name" : "Siamese Dream (2011 - Remaster)",
+    "type" : "album",
+    "uri" : "spotify:album:3YDm8Vu6IOjjVdLNHlJtj0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+    },
+    "href" : "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i",
+    "id" : "40Yq4vzPs9VNUrIBG5Jr2i",
+    "name" : "The Smashing Pumpkins",
+    "type" : "artist",
+    "uri" : "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 313266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVI21100153"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5QCb9xKVNlXm4P2lMSETGB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5QCb9xKVNlXm4P2lMSETGB",
+  "id" : "5QCb9xKVNlXm4P2lMSETGB",
+  "name" : "Geek U.S.A.",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8bc1fe6ed02edf902fa16f55e95e1945d301dcb3?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5QCb9xKVNlXm4P2lMSETGB"
+}

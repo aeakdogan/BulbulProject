@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+      "id" : "5Mq7iqCWBzofK39FBqblNc",
+      "name" : "Jessie Ware",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3S7kgjELBj9meeboligeZo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3S7kgjELBj9meeboligeZo",
+    "id" : "3S7kgjELBj9meeboligeZo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/af026700c2e5d9b1ab32222997e8d5e48e284f90",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/26fb541eec8220b02fd2318a3a86e8ac1d9ea92a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/00281cd0232f683037877ac67c3b4ac620baabc6",
+      "width" : 64
+    } ],
+    "name" : "Running (Disclosure Remix)",
+    "type" : "album",
+    "uri" : "spotify:album:3S7kgjELBj9meeboligeZo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Mq7iqCWBzofK39FBqblNc",
+    "id" : "5Mq7iqCWBzofK39FBqblNc",
+    "name" : "Jessie Ware",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Mq7iqCWBzofK39FBqblNc"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 317013,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71201185"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6WcIIWTXCkFHN2OqlyxCMl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6WcIIWTXCkFHN2OqlyxCMl",
+  "id" : "6WcIIWTXCkFHN2OqlyxCMl",
+  "name" : "Running - Disclosure Remix",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7459c5caa9aa6d7951844faad936f7c98691481c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6WcIIWTXCkFHN2OqlyxCMl"
+}

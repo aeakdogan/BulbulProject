@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+      "id" : "6xrCU6zdcSTsG2hLrojpmI",
+      "name" : "José González",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4zhb7QX3fvyamvbcYGnKMv",
+    "id" : "4zhb7QX3fvyamvbcYGnKMv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/afc133e00ce8e36eb9f8eb171e1cb036d95a8ca2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6178c16e091ac8bb69599febeb653413355cae05",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/921901cc34f5b5e73979454c516ff441d8b83d3d",
+      "width" : 64
+    } ],
+    "name" : "In Our Nature",
+    "type" : "album",
+    "uri" : "spotify:album:4zhb7QX3fvyamvbcYGnKMv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+    "id" : "6xrCU6zdcSTsG2hLrojpmI",
+    "name" : "José González",
+    "type" : "artist",
+    "uri" : "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 213173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEVVX0700305"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/02C433ZVoi5cPFOSEKKzUX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/02C433ZVoi5cPFOSEKKzUX",
+  "id" : "02C433ZVoi5cPFOSEKKzUX",
+  "name" : "Teardrop",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/40cc06e61d5a7d21d310656700a1a19390a2c6e3?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:02C433ZVoi5cPFOSEKKzUX"
+}

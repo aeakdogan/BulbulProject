@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5lbM4g6bhxjNX7R5QHP2nD",
+      "id" : "5lbM4g6bhxjNX7R5QHP2nD",
+      "name" : "Xavier Rudd",
+      "type" : "artist",
+      "uri" : "spotify:artist:5lbM4g6bhxjNX7R5QHP2nD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1EKasDeDwsn6HyaAZaSa1e"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1EKasDeDwsn6HyaAZaSa1e",
+    "id" : "1EKasDeDwsn6HyaAZaSa1e",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fb1faf00d27b410931275a7faeebfacde87f51dc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7fb97cc913b26cb8e6a9793be44a617daea646ad",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6f80a46af767cd31a846ffdc54b6f04249d4b508",
+      "width" : 64
+    } ],
+    "name" : "Spirit Bird",
+    "type" : "album",
+    "uri" : "spotify:album:1EKasDeDwsn6HyaAZaSa1e"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5lbM4g6bhxjNX7R5QHP2nD",
+    "id" : "5lbM4g6bhxjNX7R5QHP2nD",
+    "name" : "Xavier Rudd",
+    "type" : "artist",
+    "uri" : "spotify:artist:5lbM4g6bhxjNX7R5QHP2nD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 255493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA6G1249406"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3KS09EvUKTtPgTHbBBsLCw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3KS09EvUKTtPgTHbBBsLCw",
+  "id" : "3KS09EvUKTtPgTHbBBsLCw",
+  "name" : "Follow the Sun",
+  "popularity" : 64,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2edd787beaaa6fadc74a5e3fc2b529b091a3cf3a?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3KS09EvUKTtPgTHbBBsLCw"
+}

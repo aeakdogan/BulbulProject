@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y",
+      "id" : "6liAMWkVf5LH7YR9yfFy1Y",
+      "name" : "Portishead",
+      "type" : "artist",
+      "uri" : "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3G36754KQVLyGuskraEAVA",
+    "id" : "3G36754KQVLyGuskraEAVA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b62fb758ec82f8b8ec8e49f610cad8668b069281",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a49b4a776a2dace62b32ea85836575d99e69617c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9dd5bb127de69bda0507b47e276cefb4d0c5e2aa",
+      "width" : 64
+    } ],
+    "name" : "Portishead",
+    "type" : "album",
+    "uri" : "spotify:album:3G36754KQVLyGuskraEAVA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y",
+    "id" : "6liAMWkVf5LH7YR9yfFy1Y",
+    "name" : "Portishead",
+    "type" : "artist",
+    "uri" : "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 240626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARA9700034"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/785Qya5mtMUwBQtuypVqrx",
+  "id" : "785Qya5mtMUwBQtuypVqrx",
+  "name" : "All Mine",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/70ae4b5fa84a05db3da08f65eda81823b495f573?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:785Qya5mtMUwBQtuypVqrx"
+}

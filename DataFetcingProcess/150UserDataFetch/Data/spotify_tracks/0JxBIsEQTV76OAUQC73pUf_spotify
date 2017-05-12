@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2hc3wJYs3eHHjvSAhI3VjV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2hc3wJYs3eHHjvSAhI3VjV",
+    "id" : "2hc3wJYs3eHHjvSAhI3VjV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a0ca8495ea8d7cbf559e9a1d893866089c658b7d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d9f40216412a75fe6ef1e32a8a9bf2a2dc2fe629",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4ea37034693c682f278a944ff7dafc631e32c39d",
+      "width" : 64
+    } ],
+    "name" : "Dan In Real Life (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:2hc3wJYs3eHHjvSAhI3VjV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Q6X1jqwOVQuclYp2P1bub",
+    "id" : "0Q6X1jqwOVQuclYp2P1bub",
+    "name" : "Sondre Lerche",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Q6X1jqwOVQuclYp2P1bub"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 91000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USHR10723533"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0JxBIsEQTV76OAUQC73pUf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0JxBIsEQTV76OAUQC73pUf",
+  "id" : "0JxBIsEQTV76OAUQC73pUf",
+  "name" : "Dan In Real Life",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/32310544c9d0afe284f7fdb38597f066f090b4e9?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0JxBIsEQTV76OAUQC73pUf"
+}

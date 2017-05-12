@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX",
+      "id" : "6TIYQ3jFPwQSRmorSezPxX",
+      "name" : "Machine Gun Kelly",
+      "type" : "artist",
+      "uri" : "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5NzdnPboXcqvuvyEH1wSEJ",
+    "id" : "5NzdnPboXcqvuvyEH1wSEJ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3061163bd70e87ea5524c17cfecb7030519900cb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0a883c187a0de60368fd0bf1f1650cfc0e18f199",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fac18ae03a7eb52b54846ece929b934eb0fbb188",
+      "width" : 64
+    } ],
+    "name" : "Lace Up (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:5NzdnPboXcqvuvyEH1wSEJ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX",
+    "id" : "6TIYQ3jFPwQSRmorSezPxX",
+    "name" : "Machine Gun Kelly",
+    "type" : "artist",
+    "uri" : "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/379WcR9ezqhiCqXt9oWBtT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/379WcR9ezqhiCqXt9oWBtT",
+    "id" : "379WcR9ezqhiCqXt9oWBtT",
+    "name" : "M Shadows",
+    "type" : "artist",
+    "uri" : "spotify:artist:379WcR9ezqhiCqXt9oWBtT"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6CMRSGy7UBDGUFUj5OQex1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6CMRSGy7UBDGUFUj5OQex1",
+    "id" : "6CMRSGy7UBDGUFUj5OQex1",
+    "name" : "Synyster Gates",
+    "type" : "artist",
+    "uri" : "spotify:artist:6CMRSGy7UBDGUFUj5OQex1"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 192533,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM71209151"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/74xmwuNap4wOuhFzSZJnZ0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/74xmwuNap4wOuhFzSZJnZ0",
+  "id" : "74xmwuNap4wOuhFzSZJnZ0",
+  "name" : "Save Me",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c21d851c651979b52f1dfaa68b4d9431117d39e5?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:74xmwuNap4wOuhFzSZJnZ0"
+}

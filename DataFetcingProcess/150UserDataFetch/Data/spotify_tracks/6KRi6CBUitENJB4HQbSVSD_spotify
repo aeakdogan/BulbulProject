@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7qG3b048QCHVRO5Pv1T5lw",
+      "id" : "7qG3b048QCHVRO5Pv1T5lw",
+      "name" : "Enrique Iglesias",
+      "type" : "artist",
+      "uri" : "spotify:artist:7qG3b048QCHVRO5Pv1T5lw"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6whfi6LNFoQnkvrQAWwZix"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6whfi6LNFoQnkvrQAWwZix",
+    "id" : "6whfi6LNFoQnkvrQAWwZix",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/618b67f4306667f3994cc646582f0df7a519e37f",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/69e979227fc159d5dd7226e81e6c039f8a96ac3f",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/d96f7951dcb12c3cecce31538d8ef39f2a8d9ac2",
+      "width" : 64
+    } ],
+    "name" : "Escape",
+    "type" : "album",
+    "uri" : "spotify:album:6whfi6LNFoQnkvrQAWwZix"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7qG3b048QCHVRO5Pv1T5lw",
+    "id" : "7qG3b048QCHVRO5Pv1T5lw",
+    "name" : "Enrique Iglesias",
+    "type" : "artist",
+    "uri" : "spotify:artist:7qG3b048QCHVRO5Pv1T5lw"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 208040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR10120228"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6KRi6CBUitENJB4HQbSVSD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6KRi6CBUitENJB4HQbSVSD",
+  "id" : "6KRi6CBUitENJB4HQbSVSD",
+  "name" : "Escape",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/89c4480dd3e70583ba665183738a64f068069ba4?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6KRi6CBUitENJB4HQbSVSD"
+}

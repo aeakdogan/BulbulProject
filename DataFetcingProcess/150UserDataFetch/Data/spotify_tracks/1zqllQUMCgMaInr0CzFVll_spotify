@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+      "id" : "04gDigrS5kc9YWfZHwBETP",
+      "name" : "Maroon 5",
+      "type" : "artist",
+      "uri" : "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/29hJ8AFYZU98OzenrMr6iU",
+    "id" : "29hJ8AFYZU98OzenrMr6iU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/67f506acec8b49ca4d2cebc3812e4376f95e5eed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/97e2eca10b6eb03c1a96ec816e040de278592c0c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4c236cac0787b456d8c82d1d7f70ba661f894aaf",
+      "width" : 64
+    } ],
+    "name" : "It Won't Be Soon Before Long.",
+    "type" : "album",
+    "uri" : "spotify:album:29hJ8AFYZU98OzenrMr6iU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+    "id" : "04gDigrS5kc9YWfZHwBETP",
+    "name" : "Maroon 5",
+    "type" : "artist",
+    "uri" : "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 201306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70731561"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1zqllQUMCgMaInr0CzFVll"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1zqllQUMCgMaInr0CzFVll",
+  "id" : "1zqllQUMCgMaInr0CzFVll",
+  "name" : "Wake Up Call",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/59482792277ab61bcba383bdfb08132e755436e9?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1zqllQUMCgMaInr0CzFVll"
+}

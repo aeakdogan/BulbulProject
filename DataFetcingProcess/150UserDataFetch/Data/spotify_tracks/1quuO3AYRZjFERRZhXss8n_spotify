@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0AiTwNtYX8m4uhfU7rJ8RD",
+      "id" : "0AiTwNtYX8m4uhfU7rJ8RD",
+      "name" : "Ani Difranco",
+      "type" : "artist",
+      "uri" : "spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/02A88lwY3pgpnT491ay7Sp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/02A88lwY3pgpnT491ay7Sp",
+    "id" : "02A88lwY3pgpnT491ay7Sp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b705c42683ad98463a6d60ce20948a0da391484a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9eda58bb618220f3fd39c85cdad42a328c883a24",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3b10cb9c833d2b0381e6f1cdefae8977cd544dbc",
+      "width" : 64
+    } ],
+    "name" : "Out Of Range",
+    "type" : "album",
+    "uri" : "spotify:album:02A88lwY3pgpnT491ay7Sp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0AiTwNtYX8m4uhfU7rJ8RD",
+    "id" : "0AiTwNtYX8m4uhfU7rJ8RD",
+    "name" : "Ani Difranco",
+    "type" : "artist",
+    "uri" : "spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 345853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRB49400010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1quuO3AYRZjFERRZhXss8n"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1quuO3AYRZjFERRZhXss8n",
+  "id" : "1quuO3AYRZjFERRZhXss8n",
+  "name" : "You Had Time",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5e6c0f0d49f42c88196fdfcb775e4e59736b0ded?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:1quuO3AYRZjFERRZhXss8n"
+}

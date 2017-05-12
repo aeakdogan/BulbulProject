@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/41EfC0kQmOWfbW2FBGttze"
+      },
+      "href" : "https://api.spotify.com/v1/artists/41EfC0kQmOWfbW2FBGttze",
+      "id" : "41EfC0kQmOWfbW2FBGttze",
+      "name" : "La Maison Tellier",
+      "type" : "artist",
+      "uri" : "spotify:artist:41EfC0kQmOWfbW2FBGttze"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5Aqi0GvOzJuVGjiqQqorlH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5Aqi0GvOzJuVGjiqQqorlH",
+    "id" : "5Aqi0GvOzJuVGjiqQqorlH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5e49ade4a77cafbe9710c5c7ec33f5cc8377b554",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0a5746e408ab1f0d9d198f000a8c581c8a972a29",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/01c7454685b894fcec85c68fd4c1c56fbcc38a3b",
+      "width" : 64
+    } ],
+    "name" : "Beauté pour tous",
+    "type" : "album",
+    "uri" : "spotify:album:5Aqi0GvOzJuVGjiqQqorlH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/41EfC0kQmOWfbW2FBGttze"
+    },
+    "href" : "https://api.spotify.com/v1/artists/41EfC0kQmOWfbW2FBGttze",
+    "id" : "41EfC0kQmOWfbW2FBGttze",
+    "name" : "La Maison Tellier",
+    "type" : "artist",
+    "uri" : "spotify:artist:41EfC0kQmOWfbW2FBGttze"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 300310,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR19X1300033"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3oGO1Ko1BoQAj1Fg52DDfx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3oGO1Ko1BoQAj1Fg52DDfx",
+  "id" : "3oGO1Ko1BoQAj1Fg52DDfx",
+  "name" : "Exposition universelle",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/84e5174ca299e9cca99b27af57533212c43fc3d1?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3oGO1Ko1BoQAj1Fg52DDfx"
+}

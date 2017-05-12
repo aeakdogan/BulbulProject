@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YcBF2ttyueytpXtEzn1Za",
+      "id" : "3YcBF2ttyueytpXtEzn1Za",
+      "name" : "Incubus",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YcBF2ttyueytpXtEzn1Za"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7GiQea3fTxqZ3tdxkR4deE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7GiQea3fTxqZ3tdxkR4deE",
+    "id" : "7GiQea3fTxqZ3tdxkR4deE",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/e88e3d56fe40dbb9f55994688a810002220dd5d7",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/c42b9ba517b908b1cc7d4b4756cc46d2ec6aff6a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b940e21d52e0423347fe5a9bbf32e71476507dc6",
+      "width" : 64
+    } ],
+    "name" : "The Essential Incubus",
+    "type" : "album",
+    "uri" : "spotify:album:7GiQea3fTxqZ3tdxkR4deE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3YcBF2ttyueytpXtEzn1Za",
+    "id" : "3YcBF2ttyueytpXtEzn1Za",
+    "name" : "Incubus",
+    "type" : "artist",
+    "uri" : "spotify:artist:3YcBF2ttyueytpXtEzn1Za"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 288786,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11102208"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1LiHz1habAqQcFnXI73Qbt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1LiHz1habAqQcFnXI73Qbt",
+  "id" : "1LiHz1habAqQcFnXI73Qbt",
+  "name" : "Adolescents",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/295d88c472f42eff8a9369febd3ff2bc39c5cae2?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:1LiHz1habAqQcFnXI73Qbt"
+}

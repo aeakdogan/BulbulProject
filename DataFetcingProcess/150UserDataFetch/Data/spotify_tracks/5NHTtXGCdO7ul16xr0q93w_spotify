@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD",
+      "id" : "3RNrq3jvMZxD9ZyoOZbQOD",
+      "name" : "Korn",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1MqmDK2xw4isOPhiUb9eXO",
+    "id" : "1MqmDK2xw4isOPhiUb9eXO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/443d95cddfe999686a116e647706f024047660a1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f31f259d3e50f9d097ce3ba92fc61c3b84890a6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9627b04b5581399343f764ab36caa6d8fa5085a6",
+      "width" : 64
+    } ],
+    "name" : "Untouchables",
+    "type" : "album",
+    "uri" : "spotify:album:1MqmDK2xw4isOPhiUb9eXO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3RNrq3jvMZxD9ZyoOZbQOD",
+    "id" : "3RNrq3jvMZxD9ZyoOZbQOD",
+    "name" : "Korn",
+    "type" : "artist",
+    "uri" : "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 270960,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USSM10200769"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5NHTtXGCdO7ul16xr0q93w",
+  "id" : "5NHTtXGCdO7ul16xr0q93w",
+  "name" : "Here to Stay",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a7c7c40ad61c1be29eee3747e3e9989ef8d2f4db?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5NHTtXGCdO7ul16xr0q93w"
+}

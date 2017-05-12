@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC",
+      "id" : "1nJvji2KIlWSseXRSlNYsC",
+      "name" : "The Velvet Underground",
+      "type" : "artist",
+      "uri" : "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0IwlY33zbBXN7zlS9DP2Cj",
+      "id" : "0IwlY33zbBXN7zlS9DP2Cj",
+      "name" : "Nico",
+      "type" : "artist",
+      "uri" : "spotify:artist:0IwlY33zbBXN7zlS9DP2Cj"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4xwx0x7k6c5VuThz5qVqmV",
+    "id" : "4xwx0x7k6c5VuThz5qVqmV",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/4ce9f240d1a14d46f1fee662a0efca6e4e187280",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/15d1c4895e1a4740316a6776975a304b7509d53f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7ebbe5083c0a0752c77b405db21d2c0e60349be7",
+      "width" : 64
+    } ],
+    "name" : "The Velvet Underground & Nico 45th Anniversary",
+    "type" : "album",
+    "uri" : "spotify:album:4xwx0x7k6c5VuThz5qVqmV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC",
+    "id" : "1nJvji2KIlWSseXRSlNYsC",
+    "name" : "The Velvet Underground",
+    "type" : "artist",
+    "uri" : "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0IwlY33zbBXN7zlS9DP2Cj",
+    "id" : "0IwlY33zbBXN7zlS9DP2Cj",
+    "name" : "Nico",
+    "type" : "artist",
+    "uri" : "spotify:artist:0IwlY33zbBXN7zlS9DP2Cj"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 359680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR36702764"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1mL6q0gbifm2dBTvMBx4px"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1mL6q0gbifm2dBTvMBx4px",
+  "id" : "1mL6q0gbifm2dBTvMBx4px",
+  "name" : "All Tomorrow's Parties",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fcbf13ef4e518a8d80ebea9de7b2eb93ccaebb38?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1mL6q0gbifm2dBTvMBx4px"
+}

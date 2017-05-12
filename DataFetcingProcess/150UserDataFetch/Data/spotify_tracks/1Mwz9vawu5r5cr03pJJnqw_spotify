@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2JfVCMa3FlvQRlLT5uH9zb",
+      "id" : "2JfVCMa3FlvQRlLT5uH9zb",
+      "name" : "Nancy Wilson",
+      "type" : "artist",
+      "uri" : "spotify:artist:2JfVCMa3FlvQRlLT5uH9zb"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/19WwZOZ7hnSSYj4vbaarYz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/19WwZOZ7hnSSYj4vbaarYz",
+    "id" : "19WwZOZ7hnSSYj4vbaarYz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/81cefa9fbc79d170e10ae046a38ca1b01438654b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7d5f160982d2d8916918109f539aeff93f66f523",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c78e9ad87f37368014d6a9b8e1b747a55f9e0b97",
+      "width" : 64
+    } ],
+    "name" : "Now I'm A Woman",
+    "type" : "album",
+    "uri" : "spotify:album:19WwZOZ7hnSSYj4vbaarYz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2JfVCMa3FlvQRlLT5uH9zb",
+    "id" : "2JfVCMa3FlvQRlLT5uH9zb",
+    "name" : "Nancy Wilson",
+    "type" : "artist",
+    "uri" : "spotify:artist:2JfVCMa3FlvQRlLT5uH9zb"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 213613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA29400628"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Mwz9vawu5r5cr03pJJnqw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Mwz9vawu5r5cr03pJJnqw",
+  "id" : "1Mwz9vawu5r5cr03pJJnqw",
+  "name" : "The Long And Winding Road",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/01369ccfdfc553d496bdd75df968412ce44a7a7e?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1Mwz9vawu5r5cr03pJJnqw"
+}

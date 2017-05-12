@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+      "id" : "7G1GBhoKtEPnP86X2PvEYO",
+      "name" : "Nina Simone",
+      "type" : "artist",
+      "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3bm8jq96m8I1FZc8BsfG8g",
+    "id" : "3bm8jq96m8I1FZc8BsfG8g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a15bcdc7f63e81eb446a0564572798be9795b58b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2bd38172bbc7551600d79468234dbfbc009c7657",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5145e88918646335927791cb2bdbd735ef456a6c",
+      "width" : 64
+    } ],
+    "name" : "Here Comes The Sun",
+    "type" : "album",
+    "uri" : "spotify:album:3bm8jq96m8I1FZc8BsfG8g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+    "id" : "7G1GBhoKtEPnP86X2PvEYO",
+    "name" : "Nina Simone",
+    "type" : "artist",
+    "uri" : "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 214093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC11100728"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1x9ahz0ALGHgbN9wwDjmre"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1x9ahz0ALGHgbN9wwDjmre",
+  "id" : "1x9ahz0ALGHgbN9wwDjmre",
+  "name" : "Here Comes the Sun - Remastered",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/330e0f66a968a1b67036dc06d3affc3e3c9e5bef?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1x9ahz0ALGHgbN9wwDjmre"
+}

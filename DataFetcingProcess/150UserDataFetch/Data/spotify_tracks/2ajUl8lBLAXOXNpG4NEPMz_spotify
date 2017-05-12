@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+      "id" : "1GxkXlMwML1oSg5eLPiAz3",
+      "name" : "Michael Bublé",
+      "type" : "artist",
+      "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3rpSksJSFdNFqk5vne8at2",
+    "id" : "3rpSksJSFdNFqk5vne8at2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8ae66995dec128b3bfe6a8c110370ca78b4a6008",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d5e17982305abe8eb2bbbf609f79cc9353b144eb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5cf46a525eac76f34f494a84020bce622a9a523a",
+      "width" : 64
+    } ],
+    "name" : "Michael Bublé (US Version)",
+    "type" : "album",
+    "uri" : "spotify:album:3rpSksJSFdNFqk5vne8at2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+    "id" : "1GxkXlMwML1oSg5eLPiAz3",
+    "name" : "Michael Bublé",
+    "type" : "artist",
+    "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 188000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE10201551"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ajUl8lBLAXOXNpG4NEPMz",
+  "id" : "2ajUl8lBLAXOXNpG4NEPMz",
+  "name" : "Sway",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c62ca981258a5a09b03f777abf859d06a40300e5?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2ajUl8lBLAXOXNpG4NEPMz"
+}

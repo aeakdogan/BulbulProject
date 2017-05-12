@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4XeVhjTp485r7duDSL3PmU",
+      "id" : "4XeVhjTp485r7duDSL3PmU",
+      "name" : "Pleasure",
+      "type" : "artist",
+      "uri" : "spotify:artist:4XeVhjTp485r7duDSL3PmU"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0BfTmodv9ef2YH0YhSYtUl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0BfTmodv9ef2YH0YhSYtUl",
+    "id" : "0BfTmodv9ef2YH0YhSYtUl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fafa95a92d3acf076768aadfedf87b6da725681d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/254e47eae3b7832393cc9f3976e898da1b90b224",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2a793e02ece524ffe1a19bf83fc4a29d4e7e161b",
+      "width" : 64
+    } ],
+    "name" : "Glide: The Essential Selection 1975 - 1982",
+    "type" : "album",
+    "uri" : "spotify:album:0BfTmodv9ef2YH0YhSYtUl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4XeVhjTp485r7duDSL3PmU",
+    "id" : "4XeVhjTp485r7duDSL3PmU",
+    "name" : "Pleasure",
+    "type" : "artist",
+    "uri" : "spotify:artist:4XeVhjTp485r7duDSL3PmU"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 253666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R1302056"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0fzuc6pId9DH1CPLSfXmE7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0fzuc6pId9DH1CPLSfXmE7",
+  "id" : "0fzuc6pId9DH1CPLSfXmE7",
+  "name" : "Thoughts of Old Flames",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/684418d33b9bbd9b7850113cbbdf4940e9c3ae3d?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0fzuc6pId9DH1CPLSfXmE7"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+      },
+      "href" : "https://api.spotify.com/v1/artists/65EXuYHVoehCKqp0kOS6px",
+      "id" : "65EXuYHVoehCKqp0kOS6px",
+      "name" : "Parov Stelar",
+      "type" : "artist",
+      "uri" : "spotify:artist:65EXuYHVoehCKqp0kOS6px"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1HQDilWZaUmUR3JkqQwdJv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1HQDilWZaUmUR3JkqQwdJv",
+    "id" : "1HQDilWZaUmUR3JkqQwdJv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bdec7c9d17a1edfc4539fb3a51c24d72b176796d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/394ce9b0dcf7816a5d6c8108e3b2ae7bb6ead96d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f93fee62698fa3890f80670e55375bad21bd227d",
+      "width" : 64
+    } ],
+    "name" : "Shine",
+    "type" : "album",
+    "uri" : "spotify:album:1HQDilWZaUmUR3JkqQwdJv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+    },
+    "href" : "https://api.spotify.com/v1/artists/65EXuYHVoehCKqp0kOS6px",
+    "id" : "65EXuYHVoehCKqp0kOS6px",
+    "name" : "Parov Stelar",
+    "type" : "artist",
+    "uri" : "spotify:artist:65EXuYHVoehCKqp0kOS6px"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 221760,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATE610800007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5GssUy0gHBIXNGMOwq4H1s"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5GssUy0gHBIXNGMOwq4H1s",
+  "id" : "5GssUy0gHBIXNGMOwq4H1s",
+  "name" : "Tango Muerte",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2dbff1225f4d10e44ae78c74b3084e728653d6d0?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5GssUy0gHBIXNGMOwq4H1s"
+}

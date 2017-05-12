@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43mhFhQ4JAknA7Ik1bOZuV",
+      "id" : "43mhFhQ4JAknA7Ik1bOZuV",
+      "name" : "Pat Benatar",
+      "type" : "artist",
+      "uri" : "spotify:artist:43mhFhQ4JAknA7Ik1bOZuV"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Nrz0eEXlIM0Nbtak7PFcH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Nrz0eEXlIM0Nbtak7PFcH",
+    "id" : "3Nrz0eEXlIM0Nbtak7PFcH",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/b8a850c9365797726bba74e813403092301a76ac",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/aaa0a378595dc6ecc180efbe3a2938fcc843196e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2de7d72de90aed052273d123e263d060d0cd6c1e",
+      "width" : 64
+    } ],
+    "name" : "Ultimate Collection",
+    "type" : "album",
+    "uri" : "spotify:album:3Nrz0eEXlIM0Nbtak7PFcH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/43mhFhQ4JAknA7Ik1bOZuV",
+    "id" : "43mhFhQ4JAknA7Ik1bOZuV",
+    "name" : "Pat Benatar",
+    "type" : "artist",
+    "uri" : "spotify:artist:43mhFhQ4JAknA7Ik1bOZuV"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 207333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCH38400033"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7Crfr7SSFmcxNXi64fKEaB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7Crfr7SSFmcxNXi64fKEaB",
+  "id" : "7Crfr7SSFmcxNXi64fKEaB",
+  "name" : "Heartbreaker",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/616f8c8aa1eecdcba8dd51d027c489d421001872?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7Crfr7SSFmcxNXi64fKEaB"
+}

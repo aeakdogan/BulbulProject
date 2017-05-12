@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5o8Wylae9k23IEJMIiwd8s",
+      "id" : "5o8Wylae9k23IEJMIiwd8s",
+      "name" : "The Antlers",
+      "type" : "artist",
+      "uri" : "spotify:artist:5o8Wylae9k23IEJMIiwd8s"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6fFp2F91noBeodV88bRwTD",
+    "id" : "6fFp2F91noBeodV88bRwTD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6bae5d01e577c1fad255bd304f42af40b856e2ee",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cded7fe6369dbcbd84a81c48a62bb4a37c031fc6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ae29313e59fc88dbd0da41d852c987398f4cac91",
+      "width" : 64
+    } ],
+    "name" : "Hospice",
+    "type" : "album",
+    "uri" : "spotify:album:6fFp2F91noBeodV88bRwTD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5o8Wylae9k23IEJMIiwd8s",
+    "id" : "5o8Wylae9k23IEJMIiwd8s",
+    "name" : "The Antlers",
+    "type" : "artist",
+    "uri" : "spotify:artist:5o8Wylae9k23IEJMIiwd8s"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 311240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJMZ0900024"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/453spNn4mGdYErYt3rGhSX",
+  "id" : "453spNn4mGdYErYt3rGhSX",
+  "name" : "Kettering",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5597ae435008d3d0104598a1314053066429feba?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:453spNn4mGdYErYt3rGhSX"
+}

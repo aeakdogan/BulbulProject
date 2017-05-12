@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NkORBViEBhR6j6PruH0Qv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NkORBViEBhR6j6PruH0Qv",
+      "id" : "0NkORBViEBhR6j6PruH0Qv",
+      "name" : "Chester French",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NkORBViEBhR6j6PruH0Qv"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/379C93Mfx3RV6D3IgUN9zq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/379C93Mfx3RV6D3IgUN9zq",
+    "id" : "379C93Mfx3RV6D3IgUN9zq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/facb97bb62d4d7b54a6f76ff04cb297fd5f3de4a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/444ab9524594400eade38da91e9dcd071a8b7d4e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a417c867be6c18fe93d94502f71afa61083a9ca2",
+      "width" : 64
+    } ],
+    "name" : "Love The Future",
+    "type" : "album",
+    "uri" : "spotify:album:379C93Mfx3RV6D3IgUN9zq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0NkORBViEBhR6j6PruH0Qv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0NkORBViEBhR6j6PruH0Qv",
+    "id" : "0NkORBViEBhR6j6PruH0Qv",
+    "name" : "Chester French",
+    "type" : "artist",
+    "uri" : "spotify:artist:0NkORBViEBhR6j6PruH0Qv"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 239106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70842359"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3YBrkaI1hxxjo6AvqBLiWv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3YBrkaI1hxxjo6AvqBLiWv",
+  "id" : "3YBrkaI1hxxjo6AvqBLiWv",
+  "name" : "She Loves Everybody",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f67cae72fe6d4072986bc2ecd7bc57e5a253b215?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:3YBrkaI1hxxjo6AvqBLiWv"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/591yCCsZCLXvaJ0Rg38vLZ",
+      "id" : "591yCCsZCLXvaJ0Rg38vLZ",
+      "name" : "Senses Fail",
+      "type" : "artist",
+      "uri" : "spotify:artist:591yCCsZCLXvaJ0Rg38vLZ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5mBjuORzY0nkBKCNMz6ceB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5mBjuORzY0nkBKCNMz6ceB",
+    "id" : "5mBjuORzY0nkBKCNMz6ceB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/44fba1bae9603048d5d0607f94ae28b989c19abe",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ff23facf5804352822e4e99be6af52feb6b95cde",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e756c1f865782a692ddcc6bf05e23744c225f624",
+      "width" : 64
+    } ],
+    "name" : "Follow Your Bliss: The Best of Senses Fail",
+    "type" : "album",
+    "uri" : "spotify:album:5mBjuORzY0nkBKCNMz6ceB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/591yCCsZCLXvaJ0Rg38vLZ",
+    "id" : "591yCCsZCLXvaJ0Rg38vLZ",
+    "name" : "Senses Fail",
+    "type" : "artist",
+    "uri" : "spotify:artist:591yCCsZCLXvaJ0Rg38vLZ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 203546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVR90643905"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4rFLB0HAYhmAoYa3apcszU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4rFLB0HAYhmAoYa3apcszU",
+  "id" : "4rFLB0HAYhmAoYa3apcszU",
+  "name" : "Calling All Cars",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/cf6d99951eeb6823e87e791b64f852848e8cfaa3?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:4rFLB0HAYhmAoYa3apcszU"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/53wZLCnhshZKDRs3uopFBc",
+      "id" : "53wZLCnhshZKDRs3uopFBc",
+      "name" : "Jai Paul",
+      "type" : "artist",
+      "uri" : "spotify:artist:53wZLCnhshZKDRs3uopFBc"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6KSoqRuevAguR3m0R11sAr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6KSoqRuevAguR3m0R11sAr",
+    "id" : "6KSoqRuevAguR3m0R11sAr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0b5bea53b2016808204911e12cfa69110e929265",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/73951c4fa159d4b95648cdfffedd4a0377f370e6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e81ed258e00f49b1633329db7a06c2fb09279765",
+      "width" : 64
+    } ],
+    "name" : "jasmine (demo)",
+    "type" : "album",
+    "uri" : "spotify:album:6KSoqRuevAguR3m0R11sAr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/53wZLCnhshZKDRs3uopFBc",
+    "id" : "53wZLCnhshZKDRs3uopFBc",
+    "name" : "Jai Paul",
+    "type" : "artist",
+    "uri" : "spotify:artist:53wZLCnhshZKDRs3uopFBc"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 253611,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS1200035"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/59tpgfXjTc3QR7mWJj8Wln"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/59tpgfXjTc3QR7mWJj8Wln",
+  "id" : "59tpgfXjTc3QR7mWJj8Wln",
+  "name" : "jasmine (demo)",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2b3c8449847b3cc774bf73451a2c1bd391f53b2e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:59tpgfXjTc3QR7mWJj8Wln"
+}

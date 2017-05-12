@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3c8BXo73tAg7XZiNHJugZm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3c8BXo73tAg7XZiNHJugZm",
+      "id" : "3c8BXo73tAg7XZiNHJugZm",
+      "name" : "Boots Randolph",
+      "type" : "artist",
+      "uri" : "spotify:artist:3c8BXo73tAg7XZiNHJugZm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4hIhFO4EvZF4uOWg9PxgtQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4hIhFO4EvZF4uOWg9PxgtQ",
+    "id" : "4hIhFO4EvZF4uOWg9PxgtQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3245af34f852a7892487ab5a0618c79ff66f0c69",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2025785702d9bf15676e38e496db1cb39c7834d2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fa173a524f7b673702179161cc64dbc504c462b8",
+      "width" : 64
+    } ],
+    "name" : "Some Favorite Songs",
+    "type" : "album",
+    "uri" : "spotify:album:4hIhFO4EvZF4uOWg9PxgtQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3c8BXo73tAg7XZiNHJugZm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3c8BXo73tAg7XZiNHJugZm",
+    "id" : "3c8BXo73tAg7XZiNHJugZm",
+    "name" : "Boots Randolph",
+    "type" : "artist",
+    "uri" : "spotify:artist:3c8BXo73tAg7XZiNHJugZm"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 345453,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USY251659506"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ghwIRM0GZJy8kSJeejO13"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ghwIRM0GZJy8kSJeejO13",
+  "id" : "2ghwIRM0GZJy8kSJeejO13",
+  "name" : "Billie's Bounce",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c15e6403b3fa30518632307c26c14ad11f4bab1e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2ghwIRM0GZJy8kSJeejO13"
+}

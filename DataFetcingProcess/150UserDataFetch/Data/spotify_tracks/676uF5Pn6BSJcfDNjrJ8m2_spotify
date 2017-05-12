@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+      },
+      "href" : "https://api.spotify.com/v1/artists/450o9jw6AtiQlQkHCdH6Ru",
+      "id" : "450o9jw6AtiQlQkHCdH6Ru",
+      "name" : "Funkadelic",
+      "type" : "artist",
+      "uri" : "spotify:artist:450o9jw6AtiQlQkHCdH6Ru"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1cDsLx993o1ozxr0oMRUR8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1cDsLx993o1ozxr0oMRUR8",
+    "id" : "1cDsLx993o1ozxr0oMRUR8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c868862e736a11d4551ad2a1d9d5f1beaf611181",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/35b5008215f05f062dc44408979b1e5c63f26598",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d8c3d9edc02a26ee55665c4fb2a816244cdda6ed",
+      "width" : 64
+    } ],
+    "name" : "Maggot Brain",
+    "type" : "album",
+    "uri" : "spotify:album:1cDsLx993o1ozxr0oMRUR8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+    },
+    "href" : "https://api.spotify.com/v1/artists/450o9jw6AtiQlQkHCdH6Ru",
+    "id" : "450o9jw6AtiQlQkHCdH6Ru",
+    "name" : "Funkadelic",
+    "type" : "artist",
+    "uri" : "spotify:artist:450o9jw6AtiQlQkHCdH6Ru"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 621106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US25X0588947"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/676uF5Pn6BSJcfDNjrJ8m2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/676uF5Pn6BSJcfDNjrJ8m2",
+  "id" : "676uF5Pn6BSJcfDNjrJ8m2",
+  "name" : "Maggot Brain",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/783a56a664ac7062a8148bcd273ae33ff4ac060d?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:676uF5Pn6BSJcfDNjrJ8m2"
+}

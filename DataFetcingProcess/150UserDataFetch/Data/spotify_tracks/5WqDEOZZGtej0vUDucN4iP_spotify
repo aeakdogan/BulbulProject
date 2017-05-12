@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4x6Z1sHvEsk3m14RWm64sZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4x6Z1sHvEsk3m14RWm64sZ",
+    "id" : "4x6Z1sHvEsk3m14RWm64sZ",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/88cf57de76f52db490e2241858fc54d8d9a6e6a5",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cf1f89e72d0e47ea96882f5708ba3acdb401dad6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d5b21f30a71b598bf9f8428c0b761393671790ef",
+      "width" : 64
+    } ],
+    "name" : "Soft Jazz",
+    "type" : "album",
+    "uri" : "spotify:album:4x6Z1sHvEsk3m14RWm64sZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+    "id" : "5V0MlUE1Bft0mbLlND7FJz",
+    "name" : "Ella Fitzgerald",
+    "type" : "artist",
+    "uri" : "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 132293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR36202480"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5WqDEOZZGtej0vUDucN4iP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5WqDEOZZGtej0vUDucN4iP",
+  "id" : "5WqDEOZZGtej0vUDucN4iP",
+  "name" : "Desafinado",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/82aec72b6a61809282d2b6433a562f35da561a21?cid=null",
+  "track_number" : 47,
+  "type" : "track",
+  "uri" : "spotify:track:5WqDEOZZGtej0vUDucN4iP"
+}

@@ -1,0 +1,92 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4XDJurjQCnWLlE7KLZCT9x",
+      "id" : "4XDJurjQCnWLlE7KLZCT9x",
+      "name" : "Samuel Barber",
+      "type" : "artist",
+      "uri" : "spotify:artist:4XDJurjQCnWLlE7KLZCT9x"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6l1kWLbMBg7O3ByglwP197"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6l1kWLbMBg7O3ByglwP197",
+    "id" : "6l1kWLbMBg7O3ByglwP197",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fcb5363e3e2f1a673e2c45468ec94de47e2428ea",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/273cd0b6cc065c5ba7c4bd86221c6aed68332368",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8a09b0c6f13b9c0862eaac4e256df4c168929e1a",
+      "width" : 64
+    } ],
+    "name" : "Barber: Violin Concerto / Serenade for Strings / Souvenirs",
+    "type" : "album",
+    "uri" : "spotify:album:6l1kWLbMBg7O3ByglwP197"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4XDJurjQCnWLlE7KLZCT9x",
+    "id" : "4XDJurjQCnWLlE7KLZCT9x",
+    "name" : "Samuel Barber",
+    "type" : "artist",
+    "uri" : "spotify:artist:4XDJurjQCnWLlE7KLZCT9x"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/41v2YlMp8WhdibEcjXJHQ3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/41v2YlMp8WhdibEcjXJHQ3",
+    "id" : "41v2YlMp8WhdibEcjXJHQ3",
+    "name" : "James Buswell",
+    "type" : "artist",
+    "uri" : "spotify:artist:41v2YlMp8WhdibEcjXJHQ3"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5xBSsPfZtPItmn72C2EHVf",
+    "id" : "5xBSsPfZtPItmn72C2EHVf",
+    "name" : "Royal Scottish National Orchestra",
+    "type" : "artist",
+    "uri" : "spotify:artist:5xBSsPfZtPItmn72C2EHVf"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0lluGWFB8hZ6HFktcH6kkr",
+    "id" : "0lluGWFB8hZ6HFktcH6kkr",
+    "name" : "Marin Alsop",
+    "type" : "artist",
+    "uri" : "spotify:artist:0lluGWFB8hZ6HFktcH6kkr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 522000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "HKI190024202"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Qdjdqme2V6sZ6rzrok43m"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Qdjdqme2V6sZ6rzrok43m",
+  "id" : "1Qdjdqme2V6sZ6rzrok43m",
+  "name" : "Violin Concerto, Op. 14: II. Andante",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b341e13ee6d0b60d06fa94c5d8454b1effa922af?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1Qdjdqme2V6sZ6rzrok43m"
+}

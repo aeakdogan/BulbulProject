@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2vsXeWGC8rILp3rpSN2Fyk",
+      "id" : "2vsXeWGC8rILp3rpSN2Fyk",
+      "name" : "ISIS",
+      "type" : "artist",
+      "uri" : "spotify:artist:2vsXeWGC8rILp3rpSN2Fyk"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3LaJRyMUuXKayYL9nhDWxr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3LaJRyMUuXKayYL9nhDWxr",
+    "id" : "3LaJRyMUuXKayYL9nhDWxr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5a41b218f719ec3172aeb7f994295f661ea791fb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bb897d22ed043061d19de0e6964970afd3033632",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f00cff431e887d40b9f6492c68dbf60b4ba8bfaa",
+      "width" : 64
+    } ],
+    "name" : "Oceanic (Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:3LaJRyMUuXKayYL9nhDWxr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2vsXeWGC8rILp3rpSN2Fyk",
+    "id" : "2vsXeWGC8rILp3rpSN2Fyk",
+    "name" : "ISIS",
+    "type" : "artist",
+    "uri" : "spotify:artist:2vsXeWGC8rILp3rpSN2Fyk"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 548146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USV351474215"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3nhefMOYQC1HubwxEgU9bu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3nhefMOYQC1HubwxEgU9bu",
+  "id" : "3nhefMOYQC1HubwxEgU9bu",
+  "name" : "Hym",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f1563f3e24ed51c5be5a193bdcabc2e366bdfdbd?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3nhefMOYQC1HubwxEgU9bu"
+}

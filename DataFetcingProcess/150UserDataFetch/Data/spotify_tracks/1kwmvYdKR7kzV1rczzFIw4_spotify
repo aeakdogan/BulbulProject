@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5zfF4ZY5QA60ht5cjDrv2b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5zfF4ZY5QA60ht5cjDrv2b",
+      "id" : "5zfF4ZY5QA60ht5cjDrv2b",
+      "name" : "Fatih Erkoç",
+      "type" : "artist",
+      "uri" : "spotify:artist:5zfF4ZY5QA60ht5cjDrv2b"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0VOwOjkHUAaZjKAkOV5EDc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0VOwOjkHUAaZjKAkOV5EDc",
+    "id" : "0VOwOjkHUAaZjKAkOV5EDc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/08149fa484faad28647f58a9c4aafb0f6ad05d1f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0fdfc5e542614515ac15d5bd78235e54ef323e1f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8b914569f15d72279d324617764b864930c16b93",
+      "width" : 64
+    } ],
+    "name" : "Ellerim Bomboş",
+    "type" : "album",
+    "uri" : "spotify:album:0VOwOjkHUAaZjKAkOV5EDc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5zfF4ZY5QA60ht5cjDrv2b"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5zfF4ZY5QA60ht5cjDrv2b",
+    "id" : "5zfF4ZY5QA60ht5cjDrv2b",
+    "name" : "Fatih Erkoç",
+    "type" : "artist",
+    "uri" : "spotify:artist:5zfF4ZY5QA60ht5cjDrv2b"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 235102,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TR8571000916"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1kwmvYdKR7kzV1rczzFIw4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1kwmvYdKR7kzV1rczzFIw4",
+  "id" : "1kwmvYdKR7kzV1rczzFIw4",
+  "name" : "Oynatmaya Az Kaldı",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/149c88061ac58c231d9023f0976725b71a382797?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1kwmvYdKR7kzV1rczzFIw4"
+}

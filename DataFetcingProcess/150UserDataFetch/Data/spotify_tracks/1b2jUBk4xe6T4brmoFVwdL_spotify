@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xrzXKnScjOEoy172vsJMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3xrzXKnScjOEoy172vsJMW",
+      "id" : "3xrzXKnScjOEoy172vsJMW",
+      "name" : "Blackfield",
+      "type" : "artist",
+      "uri" : "spotify:artist:3xrzXKnScjOEoy172vsJMW"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0eOqcRD7o9mQI2hFSKkPgC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0eOqcRD7o9mQI2hFSKkPgC",
+    "id" : "0eOqcRD7o9mQI2hFSKkPgC",
+    "images" : [ {
+      "height" : 580,
+      "url" : "https://i.scdn.co/image/64ff3b770e913ffee89e46d1310e9fc9900054ed",
+      "width" : 640
+    }, {
+      "height" : 272,
+      "url" : "https://i.scdn.co/image/c3fb71e1e64fd089387292820e93efe3801e8bef",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/e4d8e9ad4fa005f5fdda84f008880cb4fb85facd",
+      "width" : 64
+    } ],
+    "name" : "Blackfield",
+    "type" : "album",
+    "uri" : "spotify:album:0eOqcRD7o9mQI2hFSKkPgC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3xrzXKnScjOEoy172vsJMW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3xrzXKnScjOEoy172vsJMW",
+    "id" : "3xrzXKnScjOEoy172vsJMW",
+    "name" : "Blackfield",
+    "type" : "artist",
+    "uri" : "spotify:artist:3xrzXKnScjOEoy172vsJMW"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 215573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USKO10408747"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1b2jUBk4xe6T4brmoFVwdL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1b2jUBk4xe6T4brmoFVwdL",
+  "id" : "1b2jUBk4xe6T4brmoFVwdL",
+  "name" : "Cloudy Now",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7e90788cc6e770b71f595f453725ad3fca5eecff?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1b2jUBk4xe6T4brmoFVwdL"
+}

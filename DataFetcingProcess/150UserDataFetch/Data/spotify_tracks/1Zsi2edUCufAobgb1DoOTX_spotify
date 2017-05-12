@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4k1ELeJKT1ISyDv8JivPpB",
+      "id" : "4k1ELeJKT1ISyDv8JivPpB",
+      "name" : "The Prodigy",
+      "type" : "artist",
+      "uri" : "spotify:artist:4k1ELeJKT1ISyDv8JivPpB"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0f7cnZG2zf7uZaTwoqgpkR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0f7cnZG2zf7uZaTwoqgpkR",
+    "id" : "0f7cnZG2zf7uZaTwoqgpkR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0e5fa0f38f7e997d6e8f936f9b5ad48aefe076fa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5d2405fbf3ea125e93e6d8b3f98b1ba14ed33eca",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7e25920fb1c64c1590a3f897bd68a9d7d19d5121",
+      "width" : 64
+    } ],
+    "name" : "Music For The Jilted Generation",
+    "type" : "album",
+    "uri" : "spotify:album:0f7cnZG2zf7uZaTwoqgpkR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4k1ELeJKT1ISyDv8JivPpB",
+    "id" : "4k1ELeJKT1ISyDv8JivPpB",
+    "name" : "The Prodigy",
+    "type" : "artist",
+    "uri" : "spotify:artist:4k1ELeJKT1ISyDv8JivPpB"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 402466,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS9400116"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Zsi2edUCufAobgb1DoOTX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Zsi2edUCufAobgb1DoOTX",
+  "id" : "1Zsi2edUCufAobgb1DoOTX",
+  "name" : "Poison",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b8a592749d19b1024738f919f4f1a2a1e55e2a71?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:1Zsi2edUCufAobgb1DoOTX"
+}

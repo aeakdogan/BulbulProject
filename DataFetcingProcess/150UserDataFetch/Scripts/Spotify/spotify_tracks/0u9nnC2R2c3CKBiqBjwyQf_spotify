@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2i1bsNQ67uC1t792EZkOo2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2i1bsNQ67uC1t792EZkOo2",
+      "id" : "2i1bsNQ67uC1t792EZkOo2",
+      "name" : "Marie Möör",
+      "type" : "artist",
+      "uri" : "spotify:artist:2i1bsNQ67uC1t792EZkOo2"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0NUSXFv60xVbKwXxjqWzpY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0NUSXFv60xVbKwXxjqWzpY",
+    "id" : "0NUSXFv60xVbKwXxjqWzpY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d12dcbd772b7ba39477130e97563c4d56d99b30f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b856a794c0051cf3be8751f74efef9e155777573",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c6a1e538085e1a66a40d35ae78ea12d5c8cc7116",
+      "width" : 64
+    } ],
+    "name" : "Pretty Day",
+    "type" : "album",
+    "uri" : "spotify:album:0NUSXFv60xVbKwXxjqWzpY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2i1bsNQ67uC1t792EZkOo2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2i1bsNQ67uC1t792EZkOo2",
+    "id" : "2i1bsNQ67uC1t792EZkOo2",
+    "name" : "Marie Möör",
+    "type" : "artist",
+    "uri" : "spotify:artist:2i1bsNQ67uC1t792EZkOo2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 179487,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCACW1602979"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0u9nnC2R2c3CKBiqBjwyQf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0u9nnC2R2c3CKBiqBjwyQf",
+  "id" : "0u9nnC2R2c3CKBiqBjwyQf",
+  "name" : "Pretty Day",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4a42f3703df7f845052bc34c94cbe2d447ba0ec0?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0u9nnC2R2c3CKBiqBjwyQf"
+}

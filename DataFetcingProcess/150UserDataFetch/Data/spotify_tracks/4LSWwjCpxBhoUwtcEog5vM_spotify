@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sIZakv0uaA3qQmOOPTOQt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6sIZakv0uaA3qQmOOPTOQt",
+      "id" : "6sIZakv0uaA3qQmOOPTOQt",
+      "name" : "Piano Magic",
+      "type" : "artist",
+      "uri" : "spotify:artist:6sIZakv0uaA3qQmOOPTOQt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/19ygQrKdkCzk4XHRP82aLq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/19ygQrKdkCzk4XHRP82aLq",
+    "id" : "19ygQrKdkCzk4XHRP82aLq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/af53e075957d451fe6f5d6bcead7cebb20c01c14",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ca0cc57ffc2f23678b41ac95d87bd8529eb563c2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/71f77fdde04e26816b05e45499f7f7bab1bce3e7",
+      "width" : 64
+    } ],
+    "name" : "Part Monster",
+    "type" : "album",
+    "uri" : "spotify:album:19ygQrKdkCzk4XHRP82aLq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6sIZakv0uaA3qQmOOPTOQt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6sIZakv0uaA3qQmOOPTOQt",
+    "id" : "6sIZakv0uaA3qQmOOPTOQt",
+    "name" : "Piano Magic",
+    "type" : "artist",
+    "uri" : "spotify:artist:6sIZakv0uaA3qQmOOPTOQt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 178259,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR2X41421572"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4LSWwjCpxBhoUwtcEog5vM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4LSWwjCpxBhoUwtcEog5vM",
+  "id" : "4LSWwjCpxBhoUwtcEog5vM",
+  "name" : "Part Monster",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dc0b2a6945c38997f9f2ec256579406a9b05e243?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:4LSWwjCpxBhoUwtcEog5vM"
+}

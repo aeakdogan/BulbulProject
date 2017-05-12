@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5jtGuhEEDh07yaFfm8qHg7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5jtGuhEEDh07yaFfm8qHg7",
+      "id" : "5jtGuhEEDh07yaFfm8qHg7",
+      "name" : "Cecil Taylor",
+      "type" : "artist",
+      "uri" : "spotify:artist:5jtGuhEEDh07yaFfm8qHg7"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Bon69G0JyfqLeRHuRtevw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Bon69G0JyfqLeRHuRtevw",
+    "id" : "4Bon69G0JyfqLeRHuRtevw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/775fccb99716f5104485927ac897caa9304369a5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b22d45673e1718839c5b1d8a64ebca3b68026ccc",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cb34c6b17728ea0da816544d54729175d1dbca95",
+      "width" : 64
+    } ],
+    "name" : "Jazz Advance",
+    "type" : "album",
+    "uri" : "spotify:album:4Bon69G0JyfqLeRHuRtevw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5jtGuhEEDh07yaFfm8qHg7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5jtGuhEEDh07yaFfm8qHg7",
+    "id" : "5jtGuhEEDh07yaFfm8qHg7",
+    "name" : "Cecil Taylor",
+    "type" : "artist",
+    "uri" : "spotify:artist:5jtGuhEEDh07yaFfm8qHg7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 449693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN29100277"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1Za4wg7HgCEdPqnjdFmUde"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1Za4wg7HgCEdPqnjdFmUde",
+  "id" : "1Za4wg7HgCEdPqnjdFmUde",
+  "name" : "Azure",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6e33c67fc9ea20e1131cc14a2fd243fe50d6c83c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1Za4wg7HgCEdPqnjdFmUde"
+}

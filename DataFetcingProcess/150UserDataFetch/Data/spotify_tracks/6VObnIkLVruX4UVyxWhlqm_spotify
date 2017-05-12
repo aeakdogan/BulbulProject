@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id" : "4dpARuHxo51G3z768sgnrY",
+      "name" : "Adele",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6TwN6Lq9glwnG8kNp6chHY",
+    "id" : "6TwN6Lq9glwnG8kNp6chHY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fa4b5df1d6897d2db1fe8e7d508ae9a30d667b27",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/34460896cb7e9380575d492797915cdf6cc221e8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9c99f0c2ae72aa77fce0952cf17bdb38e3c18be7",
+      "width" : 64
+    } ],
+    "name" : "Skyfall",
+    "type" : "album",
+    "uri" : "spotify:album:6TwN6Lq9glwnG8kNp6chHY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+    "id" : "4dpARuHxo51G3z768sgnrY",
+    "name" : "Adele",
+    "type" : "artist",
+    "uri" : "spotify:artist:4dpARuHxo51G3z768sgnrY"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 286480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBKS1200164"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6VObnIkLVruX4UVyxWhlqm",
+  "id" : "6VObnIkLVruX4UVyxWhlqm",
+  "name" : "Skyfall - Full Length",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/68c26fb120ac16730ad0ac1c46e5bb9d9d60c70e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6VObnIkLVruX4UVyxWhlqm"
+}

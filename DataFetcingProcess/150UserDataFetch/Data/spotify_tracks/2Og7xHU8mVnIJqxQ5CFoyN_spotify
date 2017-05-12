@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3H457QTSRwzamTOKMpazOn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3H457QTSRwzamTOKMpazOn",
+    "id" : "3H457QTSRwzamTOKMpazOn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9f0f739f7b0513e4a381b6d9934c50447dfedaf7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/340207f36b64cf8e34fe7f9250503ef86fdac0f0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d09bcbd3f3acd0025914c52ba496425b7fcc8b84",
+      "width" : 64
+    } ],
+    "name" : "Under The Covers",
+    "type" : "album",
+    "uri" : "spotify:album:3H457QTSRwzamTOKMpazOn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1wvqnNcuPa2TpcFvfh3co5",
+    "id" : "1wvqnNcuPa2TpcFvfh3co5",
+    "name" : "Dawn Landes",
+    "type" : "artist",
+    "uri" : "spotify:artist:1wvqnNcuPa2TpcFvfh3co5"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 205320,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDNM0700050"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Og7xHU8mVnIJqxQ5CFoyN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Og7xHU8mVnIJqxQ5CFoyN",
+  "id" : "2Og7xHU8mVnIJqxQ5CFoyN",
+  "name" : "Young Folks",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b11163cafc4818b89418b8a0280c0f40f0e8a293?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2Og7xHU8mVnIJqxQ5CFoyN"
+}

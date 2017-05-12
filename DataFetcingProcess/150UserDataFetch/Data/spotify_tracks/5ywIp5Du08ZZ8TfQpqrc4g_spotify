@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55LyOQNIa9J8wX6y6eJfc0",
+      "id" : "55LyOQNIa9J8wX6y6eJfc0",
+      "name" : "Aswad",
+      "type" : "artist",
+      "uri" : "spotify:artist:55LyOQNIa9J8wX6y6eJfc0"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2IFAlvJy7qDWoKlIVLZ66q"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2IFAlvJy7qDWoKlIVLZ66q",
+    "id" : "2IFAlvJy7qDWoKlIVLZ66q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ba6d567c710ab178a867eae6abed8f4b6ae717df",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4b9bf21aad30709715fd822c88b2ee4049bcf7ed",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6dc8c4725b51e1f620ff9c5f6785b9561c0ba2c1",
+      "width" : 64
+    } ],
+    "name" : "Aswad",
+    "type" : "album",
+    "uri" : "spotify:album:2IFAlvJy7qDWoKlIVLZ66q"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/55LyOQNIa9J8wX6y6eJfc0",
+    "id" : "55LyOQNIa9J8wX6y6eJfc0",
+    "name" : "Aswad",
+    "type" : "artist",
+    "uri" : "spotify:artist:55LyOQNIa9J8wX6y6eJfc0"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 508066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAPA7600044"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5ywIp5Du08ZZ8TfQpqrc4g"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5ywIp5Du08ZZ8TfQpqrc4g",
+  "id" : "5ywIp5Du08ZZ8TfQpqrc4g",
+  "name" : "Concrete Slaveship",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6aef20e46ded041751c50983c27a568d94d9960e?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5ywIp5Du08ZZ8TfQpqrc4g"
+}

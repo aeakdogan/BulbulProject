@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2pTCZ9C1fXdaVlv6d5EIXM",
+      "id" : "2pTCZ9C1fXdaVlv6d5EIXM",
+      "name" : "Chrome Sparks",
+      "type" : "artist",
+      "uri" : "spotify:artist:2pTCZ9C1fXdaVlv6d5EIXM"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2yt27CaN3hjii0G1aWNBA7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2yt27CaN3hjii0G1aWNBA7",
+    "id" : "2yt27CaN3hjii0G1aWNBA7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/45a1836a7dfc5380defebe9fc27a8f886079e4f4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/be0e091fc20c9c00f329ae190ad8aee47c877c20",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dc79583e466ce0d69d9105dd086f652c9833a51a",
+      "width" : 64
+    } ],
+    "name" : "Sparks EP",
+    "type" : "album",
+    "uri" : "spotify:album:2yt27CaN3hjii0G1aWNBA7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2pTCZ9C1fXdaVlv6d5EIXM",
+    "id" : "2pTCZ9C1fXdaVlv6d5EIXM",
+    "name" : "Chrome Sparks",
+    "type" : "artist",
+    "uri" : "spotify:artist:2pTCZ9C1fXdaVlv6d5EIXM"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 181149,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMHHY1300002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1RiuVQWyC7g7tL3niYzHKP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1RiuVQWyC7g7tL3niYzHKP",
+  "id" : "1RiuVQWyC7g7tL3niYzHKP",
+  "name" : "Marijuana",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/776bea97eccf739967efc67dfc6df1688fdc6bc5?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1RiuVQWyC7g7tL3niYzHKP"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ",
+      "id" : "5LfGQac0EIXyAN8aUwmNAQ",
+      "name" : "The Offspring",
+      "type" : "artist",
+      "uri" : "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2RNTBrSO8U8XjjEj9RVvZ5",
+    "id" : "2RNTBrSO8U8XjjEj9RVvZ5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f866b2003f7cd5a6874d8fed9282fb521f148ca2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c77a1f3a2de72c2a8fde481a016376ca8ef81b33",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9e8d1824b0eac23d41de8f2f7e05511a09178e69",
+      "width" : 64
+    } ],
+    "name" : "Americana",
+    "type" : "album",
+    "uri" : "spotify:album:2RNTBrSO8U8XjjEj9RVvZ5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ",
+    "id" : "5LfGQac0EIXyAN8aUwmNAQ",
+    "name" : "The Offspring",
+    "type" : "artist",
+    "uri" : "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 172466,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USSM19804369"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0sNKiz82ATCvT3f3XVVUUj",
+  "id" : "0sNKiz82ATCvT3f3XVVUUj",
+  "name" : "Why Don't You Get A Job",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f2344674a03af3c5dd4ac6a4a0f8e035995ca51e?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0sNKiz82ATCvT3f3XVVUUj"
+}

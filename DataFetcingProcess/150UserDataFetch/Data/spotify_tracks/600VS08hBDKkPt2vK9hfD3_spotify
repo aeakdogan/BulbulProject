@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Caot8EtHX6wLpNF2wRzS0",
+      "id" : "3Caot8EtHX6wLpNF2wRzS0",
+      "name" : "Glen Hansard",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Caot8EtHX6wLpNF2wRzS0"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5MqCESCpPOV6kvh2m6qM9z",
+    "id" : "5MqCESCpPOV6kvh2m6qM9z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/209bde443a8599bd819645fc196efffb42063c28",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ea6dc42765ee9b141fee7ad7c23243566cf9b158",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a1fa550588fc19dc6d63772e221734ecf708c51c",
+      "width" : 64
+    } ],
+    "name" : "Drive All Night",
+    "type" : "album",
+    "uri" : "spotify:album:5MqCESCpPOV6kvh2m6qM9z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Caot8EtHX6wLpNF2wRzS0",
+    "id" : "3Caot8EtHX6wLpNF2wRzS0",
+    "name" : "Glen Hansard",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Caot8EtHX6wLpNF2wRzS0"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 295586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP41325002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/600VS08hBDKkPt2vK9hfD3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/600VS08hBDKkPt2vK9hfD3",
+  "id" : "600VS08hBDKkPt2vK9hfD3",
+  "name" : "Pennies in the Fountain",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0eb44a772ad816ccab68aadd1d35b25820bd22bd?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:600VS08hBDKkPt2vK9hfD3"
+}

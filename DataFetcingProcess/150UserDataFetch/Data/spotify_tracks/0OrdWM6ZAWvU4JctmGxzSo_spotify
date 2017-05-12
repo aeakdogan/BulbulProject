@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Xg5Wkm15BuAJASLssgPPo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Xg5Wkm15BuAJASLssgPPo",
+    "id" : "4Xg5Wkm15BuAJASLssgPPo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/40884f0866d3cfa790264d6b7b511d9542a706e9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/486ac18f1d942a870009012f69b76dedad891435",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ae47d3c8597846aea2436fe246bbda0f32b14186",
+      "width" : 64
+    } ],
+    "name" : "Italia Amore Mio",
+    "type" : "album",
+    "uri" : "spotify:album:4Xg5Wkm15BuAJASLssgPPo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4F9VFl80sWpvTfXwLJZbhK",
+    "id" : "4F9VFl80sWpvTfXwLJZbhK",
+    "name" : "Luigi Tenco",
+    "type" : "artist",
+    "uri" : "spotify:artist:4F9VFl80sWpvTfXwLJZbhK"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 148386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QM4TW1515488"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0OrdWM6ZAWvU4JctmGxzSo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0OrdWM6ZAWvU4JctmGxzSo",
+  "id" : "0OrdWM6ZAWvU4JctmGxzSo",
+  "name" : "Vedrai, vedrai",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4cb2782eb2283ed880936be1e11a76dc319aac03?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0OrdWM6ZAWvU4JctmGxzSo"
+}

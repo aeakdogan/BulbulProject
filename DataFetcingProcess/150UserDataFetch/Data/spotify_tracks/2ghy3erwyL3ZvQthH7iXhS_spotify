@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0CUpzKPDfIVzYqMn47jiV3",
+      "id" : "0CUpzKPDfIVzYqMn47jiV3",
+      "name" : "Curtis Harding",
+      "type" : "artist",
+      "uri" : "spotify:artist:0CUpzKPDfIVzYqMn47jiV3"
+    } ],
+    "available_markets" : [ "CA", "JP", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0UAbtMMkowQPojeuXnGsMG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0UAbtMMkowQPojeuXnGsMG",
+    "id" : "0UAbtMMkowQPojeuXnGsMG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2fdbc11aea0c68ef2b7d7292ebaa3d3a54e0da93",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/80d3ea7149c8587ae717f44517af7bc35b1a465a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e1cae23b48db83da181068cd83c85e53302c2c57",
+      "width" : 64
+    } ],
+    "name" : "Soul Power",
+    "type" : "album",
+    "uri" : "spotify:album:0UAbtMMkowQPojeuXnGsMG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0CUpzKPDfIVzYqMn47jiV3",
+    "id" : "0CUpzKPDfIVzYqMn47jiV3",
+    "name" : "Curtis Harding",
+    "type" : "artist",
+    "uri" : "spotify:artist:0CUpzKPDfIVzYqMn47jiV3"
+  } ],
+  "available_markets" : [ "CA", "JP", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 270306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2B1400663"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2ghy3erwyL3ZvQthH7iXhS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2ghy3erwyL3ZvQthH7iXhS",
+  "id" : "2ghy3erwyL3ZvQthH7iXhS",
+  "name" : "Next Time",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/dc67a45b4f4ded829e6b4510ec0f9c1ee5e33316?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2ghy3erwyL3ZvQthH7iXhS"
+}

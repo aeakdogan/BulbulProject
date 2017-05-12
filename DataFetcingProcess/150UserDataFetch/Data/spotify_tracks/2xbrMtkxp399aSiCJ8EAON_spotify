@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+      "id" : "4Z8W4fKeB5YxbusRsdQVPb",
+      "name" : "Radiohead",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6V9YnBmFjWmXCBaUVRCVXP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6V9YnBmFjWmXCBaUVRCVXP",
+    "id" : "6V9YnBmFjWmXCBaUVRCVXP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7d2a9481f3136f8f9dda19bffa04c215257714c7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b468b3f09ec4770493a8abf1ee17629be2276346",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/15dac5d7f55f6b52fc299b1f175831be4e0f3008",
+      "width" : 64
+    } ],
+    "name" : "Amnesiac",
+    "type" : "album",
+    "uri" : "spotify:album:6V9YnBmFjWmXCBaUVRCVXP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+    "id" : "4Z8W4fKeB5YxbusRsdQVPb",
+    "name" : "Radiohead",
+    "type" : "artist",
+    "uri" : "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 254866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE0001582"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2xbrMtkxp399aSiCJ8EAON"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2xbrMtkxp399aSiCJ8EAON",
+  "id" : "2xbrMtkxp399aSiCJ8EAON",
+  "name" : "Knives Out",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0c55876d4417508e04e68e00295bc76bd5b2aa33?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2xbrMtkxp399aSiCJ8EAON"
+}

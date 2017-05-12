@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3AOaXpjJhtHFlxL49gGuGj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3AOaXpjJhtHFlxL49gGuGj",
+      "id" : "3AOaXpjJhtHFlxL49gGuGj",
+      "name" : "Waxwing",
+      "type" : "artist",
+      "uri" : "spotify:artist:3AOaXpjJhtHFlxL49gGuGj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7l0f1DxZtAjaC5vllxElh9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7l0f1DxZtAjaC5vllxElh9",
+    "id" : "7l0f1DxZtAjaC5vllxElh9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cc9bfc6067f5dc663974e2ccf23c70ea828d8699",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/20b222e021bb3fb9eeab53aa7123f9c3ee45eb6b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f4e57307be444a1c781efd830ad765d7d44c9c5b",
+      "width" : 64
+    } ],
+    "name" : "Nobody Can Take What Everybody Owns",
+    "type" : "album",
+    "uri" : "spotify:album:7l0f1DxZtAjaC5vllxElh9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3AOaXpjJhtHFlxL49gGuGj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3AOaXpjJhtHFlxL49gGuGj",
+    "id" : "3AOaXpjJhtHFlxL49gGuGj",
+    "name" : "Waxwing",
+    "type" : "artist",
+    "uri" : "spotify:artist:3AOaXpjJhtHFlxL49gGuGj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 344773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US22L0403710"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/680tUzcLeElvTMGSbAFr7B"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/680tUzcLeElvTMGSbAFr7B",
+  "id" : "680tUzcLeElvTMGSbAFr7B",
+  "name" : "Schoolmaker",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/83616c59c22daa647f3b90eadd47aa3b6b47b87b?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:680tUzcLeElvTMGSbAFr7B"
+}

@@ -1,0 +1,101 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SOpoqmNUwB9rZyizrebqJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SOpoqmNUwB9rZyizrebqJ",
+      "id" : "5SOpoqmNUwB9rZyizrebqJ",
+      "name" : "Andre Crom feat. Dennis Degenhardt",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SOpoqmNUwB9rZyizrebqJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Qz30d7mkqvt8G8NQa2Us8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Qz30d7mkqvt8G8NQa2Us8",
+      "id" : "0Qz30d7mkqvt8G8NQa2Us8",
+      "name" : "Andre Crom",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Qz30d7mkqvt8G8NQa2Us8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ETXfoFxqLr2jBFNpB04Zt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ETXfoFxqLr2jBFNpB04Zt",
+      "id" : "6ETXfoFxqLr2jBFNpB04Zt",
+      "name" : "Dennis Degenhardt",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ETXfoFxqLr2jBFNpB04Zt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1TXMPeUewLCx7P6vrscMHI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1TXMPeUewLCx7P6vrscMHI",
+    "id" : "1TXMPeUewLCx7P6vrscMHI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/43243c0f2a6a4fcb896308238fdbf1140137b673",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d688af23cb4cd5d15c4e5a7d1cefb88a1157f8ec",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/55211fa404e707bdfb6df2863465a66d3a79aa4e",
+      "width" : 64
+    } ],
+    "name" : "Tell Me",
+    "type" : "album",
+    "uri" : "spotify:album:1TXMPeUewLCx7P6vrscMHI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5SOpoqmNUwB9rZyizrebqJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5SOpoqmNUwB9rZyizrebqJ",
+    "id" : "5SOpoqmNUwB9rZyizrebqJ",
+    "name" : "Andre Crom feat. Dennis Degenhardt",
+    "type" : "artist",
+    "uri" : "spotify:artist:5SOpoqmNUwB9rZyizrebqJ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Qz30d7mkqvt8G8NQa2Us8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Qz30d7mkqvt8G8NQa2Us8",
+    "id" : "0Qz30d7mkqvt8G8NQa2Us8",
+    "name" : "Andre Crom",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Qz30d7mkqvt8G8NQa2Us8"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6ETXfoFxqLr2jBFNpB04Zt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6ETXfoFxqLr2jBFNpB04Zt",
+    "id" : "6ETXfoFxqLr2jBFNpB04Zt",
+    "name" : "Dennis Degenhardt",
+    "type" : "artist",
+    "uri" : "spotify:artist:6ETXfoFxqLr2jBFNpB04Zt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 463410,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDLP1200773"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0jDE3fxY0yMUhdMhC9yu2S"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0jDE3fxY0yMUhdMhC9yu2S",
+  "id" : "0jDE3fxY0yMUhdMhC9yu2S",
+  "name" : "Tell Me - David August Remix",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2be300cc1b23acdf36e82218da61e715ded96d5e?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0jDE3fxY0yMUhdMhC9yu2S"
+}

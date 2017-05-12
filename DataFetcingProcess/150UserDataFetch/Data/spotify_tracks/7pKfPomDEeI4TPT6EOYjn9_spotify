@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4x1nvY2FN8jxqAFA0DA02H",
+      "id" : "4x1nvY2FN8jxqAFA0DA02H",
+      "name" : "John Lennon",
+      "type" : "artist",
+      "uri" : "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0xzaemKucrJpYhyl7TltAk",
+    "id" : "0xzaemKucrJpYhyl7TltAk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7fa941f3c67c5125dc131930acfd7b6717ec8c17",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dd09209145f6d5b1eecb8a632949577504dcf6f9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f342024446e4517d9ec49f708d99eea696ca4928",
+      "width" : 64
+    } ],
+    "name" : "Imagine",
+    "type" : "album",
+    "uri" : "spotify:album:0xzaemKucrJpYhyl7TltAk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4x1nvY2FN8jxqAFA0DA02H",
+    "id" : "4x1nvY2FN8jxqAFA0DA02H",
+    "name" : "John Lennon",
+    "type" : "artist",
+    "uri" : "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 187866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE1000769"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7pKfPomDEeI4TPT6EOYjn9",
+  "id" : "7pKfPomDEeI4TPT6EOYjn9",
+  "name" : "Imagine - 2010 - Remaster",
+  "popularity" : 68,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8995c11b9e4a866f37eced30cdc2038667f50cb7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7pKfPomDEeI4TPT6EOYjn9"
+}

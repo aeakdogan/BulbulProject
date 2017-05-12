@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1u7kkVrr14iBvrpYnZILJR",
+      "id" : "1u7kkVrr14iBvrpYnZILJR",
+      "name" : "Sex Pistols",
+      "type" : "artist",
+      "uri" : "spotify:artist:1u7kkVrr14iBvrpYnZILJR"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5fxYu3rqjCNTSPKN8mtEl2",
+    "id" : "5fxYu3rqjCNTSPKN8mtEl2",
+    "images" : [ {
+      "height" : 639,
+      "url" : "https://i.scdn.co/image/56eb20c58f1b61707791ba796008870270d7d4b7",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/1902aaf1e851147e51ec95f669069e5804651afe",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8f879a4f02edb1dbdfaf645b1cc24da0bcefc8d6",
+      "width" : 64
+    } ],
+    "name" : "Never Mind The Bollocks, Here's The Sex Pistols",
+    "type" : "album",
+    "uri" : "spotify:album:5fxYu3rqjCNTSPKN8mtEl2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1u7kkVrr14iBvrpYnZILJR",
+    "id" : "1u7kkVrr14iBvrpYnZILJR",
+    "name" : "Sex Pistols",
+    "type" : "artist",
+    "uri" : "spotify:artist:1u7kkVrr14iBvrpYnZILJR"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB17700045"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ui6l3ZNvlrGQZArwo8195",
+  "id" : "6ui6l3ZNvlrGQZArwo8195",
+  "name" : "God Save The Queen",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/08728395f55962314c19e3f7be18a24e46ec9502?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6ui6l3ZNvlrGQZArwo8195"
+}

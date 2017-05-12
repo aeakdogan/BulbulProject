@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/32ogthv0BdaSMPml02X9YB",
+      "id" : "32ogthv0BdaSMPml02X9YB",
+      "name" : "The Cinematic Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:32ogthv0BdaSMPml02X9YB"
+    } ],
+    "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6ZVCrF07StXn4qZtA9bJtE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6ZVCrF07StXn4qZtA9bJtE",
+    "id" : "6ZVCrF07StXn4qZtA9bJtE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9169db62be7ada443eeda28e9ed33307af50c6fe",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e13f5cdd6ab7fbb4a3a552039beaf56b12837663",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/04201cd23bfba11231d0b569c22bbdea2bffd21b",
+      "width" : 64
+    } ],
+    "name" : "Live At The Royal Albert Hall",
+    "type" : "album",
+    "uri" : "spotify:album:6ZVCrF07StXn4qZtA9bJtE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/32ogthv0BdaSMPml02X9YB",
+    "id" : "32ogthv0BdaSMPml02X9YB",
+    "name" : "The Cinematic Orchestra",
+    "type" : "artist",
+    "uri" : "spotify:artist:32ogthv0BdaSMPml02X9YB"
+  } ],
+  "available_markets" : [ "CA", "CR", "DO", "GT", "HN", "MX", "NI", "PA", "SV", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 457546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0800132"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2XonffiIsN79jBvAXkpHNW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2XonffiIsN79jBvAXkpHNW",
+  "id" : "2XonffiIsN79jBvAXkpHNW",
+  "name" : "Child Song",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f6b078129004a496e47321b8d3cfab25b4506e55?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2XonffiIsN79jBvAXkpHNW"
+}

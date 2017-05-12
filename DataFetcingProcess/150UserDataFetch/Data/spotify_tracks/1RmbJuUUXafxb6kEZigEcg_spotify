@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+      "id" : "4W48hZAnAHVOC2c8WH8pcq",
+      "name" : "The Temper Trap",
+      "type" : "artist",
+      "uri" : "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3KQtomPjY6Cgvo0mMDFY8s"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3KQtomPjY6Cgvo0mMDFY8s",
+    "id" : "3KQtomPjY6Cgvo0mMDFY8s",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/31a160c311070faaf01fb0900caa69c581b8c07b",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/acca9d70d8a2d02471753e412201cf52c22df8b4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/574c3c318ff1f5893948d2ac77245dc1f520cad3",
+      "width" : 64
+    } ],
+    "name" : "The Temper Trap",
+    "type" : "album",
+    "uri" : "spotify:album:3KQtomPjY6Cgvo0mMDFY8s"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4W48hZAnAHVOC2c8WH8pcq",
+    "id" : "4W48hZAnAHVOC2c8WH8pcq",
+    "name" : "The Temper Trap",
+    "type" : "artist",
+    "uri" : "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 279693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AULI01281160"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1RmbJuUUXafxb6kEZigEcg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1RmbJuUUXafxb6kEZigEcg",
+  "id" : "1RmbJuUUXafxb6kEZigEcg",
+  "name" : "Trembling Hands",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d1b1a275e2c5c7c6d132e1f3929b0101b65384ba?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1RmbJuUUXafxb6kEZigEcg"
+}

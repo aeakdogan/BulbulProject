@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL",
+      "id" : "3g2kUQ6tHLLbmkV7T4GPtL",
+      "name" : "Fiona Apple",
+      "type" : "artist",
+      "uri" : "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7uccppFArLf9dNOwDftOZa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7uccppFArLf9dNOwDftOZa",
+    "id" : "7uccppFArLf9dNOwDftOZa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/38b79583f47661a8f643eb7ff8c974d271155718",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/71abd95e377b814814ce4130630df9464f06f4e8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d35b36a29e090579ac4c0ab601efda432f826403",
+      "width" : 64
+    } ],
+    "name" : "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do",
+    "type" : "album",
+    "uri" : "spotify:album:7uccppFArLf9dNOwDftOZa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL",
+    "id" : "3g2kUQ6tHLLbmkV7T4GPtL",
+    "name" : "Fiona Apple",
+    "type" : "artist",
+    "uri" : "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 242040,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11202386"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/65zNwPFQfl6gQLdYaqTb7K"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/65zNwPFQfl6gQLdYaqTb7K",
+  "id" : "65zNwPFQfl6gQLdYaqTb7K",
+  "name" : "Hot Knife",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2584a147287c210dbc8151114779caa82c25b635?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:65zNwPFQfl6gQLdYaqTb7K"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+      "id" : "1l9d7B8W0IHy3LqWsxP2SH",
+      "name" : "Phantogram",
+      "type" : "artist",
+      "uri" : "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4rERYF4GxjbLPblH5yN6Lt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4rERYF4GxjbLPblH5yN6Lt",
+    "id" : "4rERYF4GxjbLPblH5yN6Lt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7da8ebccbfbdb114950636891ad5c460f72c1027",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7dc583b30e1e8b572e6f7c12c85e8accd02cc27b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d5b5307b14c72c013235fd324615da5eba507377",
+      "width" : 64
+    } ],
+    "name" : "Eyelid Movies",
+    "type" : "album",
+    "uri" : "spotify:album:4rERYF4GxjbLPblH5yN6Lt"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+    "id" : "1l9d7B8W0IHy3LqWsxP2SH",
+    "name" : "Phantogram",
+    "type" : "artist",
+    "uri" : "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 249066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBS50931058"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3498wF96LsgVgMkGmJzJOC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3498wF96LsgVgMkGmJzJOC",
+  "id" : "3498wF96LsgVgMkGmJzJOC",
+  "name" : "When I'm Small",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e6229c2b4d0bbe54ef3ae91a03b03ebaf518efeb?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3498wF96LsgVgMkGmJzJOC"
+}

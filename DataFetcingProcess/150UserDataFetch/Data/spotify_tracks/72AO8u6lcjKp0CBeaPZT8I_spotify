@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+      "id" : "51Blml2LZPmy7TTiAg47vQ",
+      "name" : "U2",
+      "type" : "artist",
+      "uri" : "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4mULDK6YXrFXTfSwvwm4M3",
+    "id" : "4mULDK6YXrFXTfSwvwm4M3",
+    "images" : [ {
+      "height" : 585,
+      "url" : "https://i.scdn.co/image/860f9325db4f3dc15af448db1ef22136a73fd880",
+      "width" : 640
+    }, {
+      "height" : 274,
+      "url" : "https://i.scdn.co/image/68131623c79375ccfbd1dbfb459d74980b257517",
+      "width" : 300
+    }, {
+      "height" : 59,
+      "url" : "https://i.scdn.co/image/2793adf267a210e4c4251897101a904cbe37f7da",
+      "width" : 64
+    } ],
+    "name" : "The Joshua Tree (Deluxe Edition Remastered)",
+    "type" : "album",
+    "uri" : "spotify:album:4mULDK6YXrFXTfSwvwm4M3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+    "id" : "51Blml2LZPmy7TTiAg47vQ",
+    "name" : "U2",
+    "type" : "artist",
+    "uri" : "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 277480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70709783"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/72AO8u6lcjKp0CBeaPZT8I"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/72AO8u6lcjKp0CBeaPZT8I",
+  "id" : "72AO8u6lcjKp0CBeaPZT8I",
+  "name" : "I Still Haven't Found What I'm Looking For - Remastered 2007",
+  "popularity" : 60,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3843178aee3e928c546ef3da5e79e62a12373b16?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:72AO8u6lcjKp0CBeaPZT8I"
+}

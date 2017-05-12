@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6t1ROzJE4gyiguRxYYDLxq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6t1ROzJE4gyiguRxYYDLxq",
+      "id" : "6t1ROzJE4gyiguRxYYDLxq",
+      "name" : "Party of Five",
+      "type" : "artist",
+      "uri" : "spotify:artist:6t1ROzJE4gyiguRxYYDLxq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/16rXhq1Hnf0568QnzYpHn3",
+    "id" : "16rXhq1Hnf0568QnzYpHn3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2f3581a524e5ac4a0538c3ab8eadb2b8ce696361",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f03df618bb7017bf1536a0746e57aa947a75b93e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8d65d595e0e157914cbf9893bde7373f875a9305",
+      "width" : 64
+    } ],
+    "name" : "Music From Party of Five",
+    "type" : "album",
+    "uri" : "spotify:album:16rXhq1Hnf0568QnzYpHn3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2M3vnW1p5w4uPRkLYTbvdB",
+    "id" : "2M3vnW1p5w4uPRkLYTbvdB",
+    "name" : "Rusted Root",
+    "type" : "artist",
+    "uri" : "spotify:artist:2M3vnW1p5w4uPRkLYTbvdB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 263333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE19600337"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6hs3SDnbO3f6VQuPO4KBEb",
+  "id" : "6hs3SDnbO3f6VQuPO4KBEb",
+  "name" : "Send Me On My Way",
+  "popularity" : 67,
+  "preview_url" : "https://p.scdn.co/mp3-preview/54067f16358d1a0f18be88f186590b271241bd6a?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:6hs3SDnbO3f6VQuPO4KBEb"
+}

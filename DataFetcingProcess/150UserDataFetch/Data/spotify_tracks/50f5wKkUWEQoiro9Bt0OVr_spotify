@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36YE6h8aN09ZKG4EhneDSf",
+      "id" : "36YE6h8aN09ZKG4EhneDSf",
+      "name" : "Joe Lovano",
+      "type" : "artist",
+      "uri" : "spotify:artist:36YE6h8aN09ZKG4EhneDSf"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4jdRWzxentnlaBY3ZCQsdL",
+    "id" : "4jdRWzxentnlaBY3ZCQsdL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ddf9ba6ddcdd6122a65bdb14e17ca41d32a11ddf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5cf685bed352336e2cdcc31cc044bdeee96e0165",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/837c63e71440bb4ed4630d35c16ce675da0c6788",
+      "width" : 64
+    } ],
+    "name" : "I'm All For You (Ballad Songbook)",
+    "type" : "album",
+    "uri" : "spotify:album:4jdRWzxentnlaBY3ZCQsdL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36YE6h8aN09ZKG4EhneDSf",
+    "id" : "36YE6h8aN09ZKG4EhneDSf",
+    "name" : "Joe Lovano",
+    "type" : "artist",
+    "uri" : "spotify:artist:36YE6h8aN09ZKG4EhneDSf"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 451440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN20300733"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/50f5wKkUWEQoiro9Bt0OVr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/50f5wKkUWEQoiro9Bt0OVr",
+  "id" : "50f5wKkUWEQoiro9Bt0OVr",
+  "name" : "Early Autumn",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4f355492540a76de6da26e163b2c9329b3c71ed8?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:50f5wKkUWEQoiro9Bt0OVr"
+}

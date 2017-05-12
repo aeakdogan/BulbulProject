@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ggvQmZMjLvFmADhssxuLv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ggvQmZMjLvFmADhssxuLv",
+    "id" : "4ggvQmZMjLvFmADhssxuLv",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/86f57e6cc16622955d110d92557f24ff1e6f97ff",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0a3e8e3014d47e8e16be786f3b8b1a6a8739fa6f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2e6c41ffe45bb260867b3a27a527e0a70712b148",
+      "width" : 64
+    } ],
+    "name" : "Studying with Classical Music",
+    "type" : "album",
+    "uri" : "spotify:album:4ggvQmZMjLvFmADhssxuLv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/17OArJzEhRR3OmhtGcnfBq",
+    "id" : "17OArJzEhRR3OmhtGcnfBq",
+    "name" : "Tomaso Albinoni",
+    "type" : "artist",
+    "uri" : "spotify:artist:17OArJzEhRR3OmhtGcnfBq"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2nhApVkD1mcbeH3ubJHiGg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2nhApVkD1mcbeH3ubJHiGg",
+    "id" : "2nhApVkD1mcbeH3ubJHiGg",
+    "name" : "Karl Münchinger",
+    "type" : "artist",
+    "uri" : "spotify:artist:2nhApVkD1mcbeH3ubJHiGg"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/51RiZjPgKKJ1uDsZVmntmF",
+    "id" : "51RiZjPgKKJ1uDsZVmntmF",
+    "name" : "Stuttgart Chamber Orchestra",
+    "type" : "artist",
+    "uri" : "spotify:artist:51RiZjPgKKJ1uDsZVmntmF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 442306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF077710231"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4ZpnV0cB73JsrHGnOP0cMQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4ZpnV0cB73JsrHGnOP0cMQ",
+  "id" : "4ZpnV0cB73JsrHGnOP0cMQ",
+  "name" : "Adagio for Strings and Organ in G minor",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f2f6be9747c19644b31e77ec30d69f68b4f7167c?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4ZpnV0cB73JsrHGnOP0cMQ"
+}

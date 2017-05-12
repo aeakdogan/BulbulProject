@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ",
+      "id" : "5LfGQac0EIXyAN8aUwmNAQ",
+      "name" : "The Offspring",
+      "type" : "artist",
+      "uri" : "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2PSgMApk089eV6e5LPbQeS",
+    "id" : "2PSgMApk089eV6e5LPbQeS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ce39c8575e310e5f112526102f1cd21049b60bb4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cc28dbafc4e0e07760905881ac007d6a407b4872",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9b2a61e5155db27964a2d6157a692a23c21ab54d",
+      "width" : 64
+    } ],
+    "name" : "Ixnay On The Hombre",
+    "type" : "album",
+    "uri" : "spotify:album:2PSgMApk089eV6e5LPbQeS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5LfGQac0EIXyAN8aUwmNAQ",
+    "id" : "5LfGQac0EIXyAN8aUwmNAQ",
+    "name" : "The Offspring",
+    "type" : "artist",
+    "uri" : "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 44826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19603676"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1uP738C0sljK8eCsCttj53"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1uP738C0sljK8eCsCttj53",
+  "id" : "1uP738C0sljK8eCsCttj53",
+  "name" : "Disclaimer",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/26213ab7a60c9d7eca53775a70af9b28ffd26325?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1uP738C0sljK8eCsCttj53"
+}

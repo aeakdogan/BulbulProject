@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+      "id" : "5a2EaR3hamoenG9rDuVn8j",
+      "name" : "Prince",
+      "type" : "artist",
+      "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0qcgEPOg67XnxGizdAAcGa",
+    "id" : "0qcgEPOg67XnxGizdAAcGa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3e33247313774a0f0f78899dbc693488313d0585",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e262a1831dad2a189e040dce61158e3c253c9cd3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c3316458ae0193a43e01136fd366893e0a8992d8",
+      "width" : 64
+    } ],
+    "name" : "Diamonds And Pearls",
+    "type" : "album",
+    "uri" : "spotify:album:0qcgEPOg67XnxGizdAAcGa"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+    "id" : "5a2EaR3hamoenG9rDuVn8j",
+    "name" : "Prince",
+    "type" : "artist",
+    "uri" : "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bNJ8B2kMi9urGEfKPsBGP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7bNJ8B2kMi9urGEfKPsBGP",
+    "id" : "7bNJ8B2kMi9urGEfKPsBGP",
+    "name" : "Eric Leeds",
+    "type" : "artist",
+    "uri" : "spotify:artist:7bNJ8B2kMi9urGEfKPsBGP"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 271666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10600319"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0wFkjAM4VVoepQdYB6kl4U"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0wFkjAM4VVoepQdYB6kl4U",
+  "id" : "0wFkjAM4VVoepQdYB6kl4U",
+  "name" : "Gett Off",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3c7b6b30b832fd600196ca1ca7fe911c6ea0390a?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0wFkjAM4VVoepQdYB6kl4U"
+}

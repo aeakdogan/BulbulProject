@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4UzQ37Y0rzonVpsXpcNyFH",
+      "id" : "4UzQ37Y0rzonVpsXpcNyFH",
+      "name" : "Josh Pyke",
+      "type" : "artist",
+      "uri" : "spotify:artist:4UzQ37Y0rzonVpsXpcNyFH"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/217DdV7hSgOEzZvxVpFVFF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/217DdV7hSgOEzZvxVpFVFF",
+    "id" : "217DdV7hSgOEzZvxVpFVFF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ec94bb178fc5dea949c36cbd200e4e76c3fa37d5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2149f2cfb9527b2086d8f8c0ab32cc207ee4c10d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2bafe014a1b5bb56be7dc568af3856685ec4afd4",
+      "width" : 64
+    } ],
+    "name" : "Only Sparrows",
+    "type" : "album",
+    "uri" : "spotify:album:217DdV7hSgOEzZvxVpFVFF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4UzQ37Y0rzonVpsXpcNyFH",
+    "id" : "4UzQ37Y0rzonVpsXpcNyFH",
+    "name" : "Josh Pyke",
+    "type" : "artist",
+    "uri" : "spotify:artist:4UzQ37Y0rzonVpsXpcNyFH"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 184933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AULI01177450"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0liEyVpXYxVQH3phokXXku"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0liEyVpXYxVQH3phokXXku",
+  "id" : "0liEyVpXYxVQH3phokXXku",
+  "name" : "Coffee Cups",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f777ab255ca4299a474ac5008a1b787defd7d712?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0liEyVpXYxVQH3phokXXku"
+}

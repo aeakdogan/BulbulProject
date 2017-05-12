@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76oeXwztPqAxVg9oqozK3z",
+      "id" : "76oeXwztPqAxVg9oqozK3z",
+      "name" : "Heather Nova",
+      "type" : "artist",
+      "uri" : "spotify:artist:76oeXwztPqAxVg9oqozK3z"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5P2QD4RUFQo9iSwAAq8VSf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5P2QD4RUFQo9iSwAAq8VSf",
+    "id" : "5P2QD4RUFQo9iSwAAq8VSf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/179f59938c17403afad13ea1a47eb2b7310de7bc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/19b9646910ae2f249abacc6e09ac74bdfca236d8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1bbd27b394ee4cb436b6393f7a345e6ee24685fc",
+      "width" : 64
+    } ],
+    "name" : "Oyster",
+    "type" : "album",
+    "uri" : "spotify:album:5P2QD4RUFQo9iSwAAq8VSf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/76oeXwztPqAxVg9oqozK3z",
+    "id" : "76oeXwztPqAxVg9oqozK3z",
+    "name" : "Heather Nova",
+    "type" : "artist",
+    "uri" : "spotify:artist:76oeXwztPqAxVg9oqozK3z"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 380333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19400130"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/33OKxxPWyeVfybg8ytaj7G"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/33OKxxPWyeVfybg8ytaj7G",
+  "id" : "33OKxxPWyeVfybg8ytaj7G",
+  "name" : "Island",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/885dfb027c0f5fa64c6ab2c7ad83823559ab225e?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:33OKxxPWyeVfybg8ytaj7G"
+}

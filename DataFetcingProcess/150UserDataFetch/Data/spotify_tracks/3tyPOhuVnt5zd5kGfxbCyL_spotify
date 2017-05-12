@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+      "id" : "5pKCCKE2ajJHZ9KAiaK11H",
+      "name" : "Rihanna",
+      "type" : "artist",
+      "uri" : "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Kw1bVd07oRqcjrcjQKC8T",
+    "id" : "1Kw1bVd07oRqcjrcjQKC8T",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a24962248982845a6a22f90949c36ba2b4858b42",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4fe20081c2e1d0e59d76fc36c39f2cee0a131433",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8cfb37e964f927769ceadaf5f42b4ea03bb3c391",
+      "width" : 64
+    } ],
+    "name" : "Talk That Talk",
+    "type" : "album",
+    "uri" : "spotify:album:1Kw1bVd07oRqcjrcjQKC8T"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+    "id" : "5pKCCKE2ajJHZ9KAiaK11H",
+    "name" : "Rihanna",
+    "type" : "artist",
+    "uri" : "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 242680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71118074"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3tyPOhuVnt5zd5kGfxbCyL",
+  "id" : "3tyPOhuVnt5zd5kGfxbCyL",
+  "name" : "Where Have You Been",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3d9275ac2f086cb8e1ec896856dfc906fd3fbca3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3tyPOhuVnt5zd5kGfxbCyL"
+}

@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+      "id" : "74ASZWbe4lXaubB36ztrGX",
+      "name" : "Bob Dylan",
+      "type" : "artist",
+      "uri" : "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5WBx64FIN04CvM2T1MGrUN",
+    "id" : "5WBx64FIN04CvM2T1MGrUN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/31386b861860f35b0810f0c4e72916c8a1d87206",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d6bc311e82bebc66e4688de9acdce8bcb5eacd44",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/be01ec89bf3531ca40af47db69a38745833b86e0",
+      "width" : 64
+    } ],
+    "name" : "Nashville Skyline",
+    "type" : "album",
+    "uri" : "spotify:album:5WBx64FIN04CvM2T1MGrUN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+    "id" : "74ASZWbe4lXaubB36ztrGX",
+    "name" : "Bob Dylan",
+    "type" : "artist",
+    "uri" : "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+    "id" : "6kACVPfCOnqzgfEF5ryl0x",
+    "name" : "Johnny Cash",
+    "type" : "artist",
+    "uri" : "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 220400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM16301119"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4K1imZQQ0yKtJ40vGmUajS",
+  "id" : "4K1imZQQ0yKtJ40vGmUajS",
+  "name" : "Girl from the North Country",
+  "popularity" : 56,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ef6d7428a8d62408825df6bf65f8ee4c8619af91?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:4K1imZQQ0yKtJ40vGmUajS"
+}

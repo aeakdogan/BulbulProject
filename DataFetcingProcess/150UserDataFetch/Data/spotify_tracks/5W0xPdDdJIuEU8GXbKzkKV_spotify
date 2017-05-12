@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC",
+      "id" : "5RNFFojXkPRmlJZIwXeKQC",
+      "name" : "Bryan Ferry",
+      "type" : "artist",
+      "uri" : "spotify:artist:5RNFFojXkPRmlJZIwXeKQC"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7foiLbQUOIK8kzTuKtd4to"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7foiLbQUOIK8kzTuKtd4to",
+    "id" : "7foiLbQUOIK8kzTuKtd4to",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eb2aca756dd50721ab5fd46dad879b6363a157e2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/82b10e0ffcf5153061abb8953292fef309b16302",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7ca13272dd97d7fd4926f137949d99afe4058df6",
+      "width" : 64
+    } ],
+    "name" : "As Time Goes By",
+    "type" : "album",
+    "uri" : "spotify:album:7foiLbQUOIK8kzTuKtd4to"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5RNFFojXkPRmlJZIwXeKQC",
+    "id" : "5RNFFojXkPRmlJZIwXeKQC",
+    "name" : "Bryan Ferry",
+    "type" : "artist",
+    "uri" : "spotify:artist:5RNFFojXkPRmlJZIwXeKQC"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 257493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEG129903804"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5W0xPdDdJIuEU8GXbKzkKV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5W0xPdDdJIuEU8GXbKzkKV",
+  "id" : "5W0xPdDdJIuEU8GXbKzkKV",
+  "name" : "I'M In The Mood For Love",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/14b4899d44b4fa4bb47b2ce38ecd682b876becd1?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5W0xPdDdJIuEU8GXbKzkKV"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3CYSRCHfilgR8DSbkCMp5j",
+      "id" : "3CYSRCHfilgR8DSbkCMp5j",
+      "name" : "Cowboy Junkies",
+      "type" : "artist",
+      "uri" : "spotify:artist:3CYSRCHfilgR8DSbkCMp5j"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6RwWWgyax82t3ErtxzNX5i"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6RwWWgyax82t3ErtxzNX5i",
+    "id" : "6RwWWgyax82t3ErtxzNX5i",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/22394ca571d0919d58ed7621e6f32afec58004da",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/8f4980073c0fd891ea9644a19bc5adcf0ccb8e7d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/905dfb9acbd1c583c643fb44ff7fafe6b995f912",
+      "width" : 64
+    } ],
+    "name" : "Best Of Cowboy Junkies",
+    "type" : "album",
+    "uri" : "spotify:album:6RwWWgyax82t3ErtxzNX5i"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3CYSRCHfilgR8DSbkCMp5j",
+    "id" : "3CYSRCHfilgR8DSbkCMp5j",
+    "name" : "Cowboy Junkies",
+    "type" : "artist",
+    "uri" : "spotify:artist:3CYSRCHfilgR8DSbkCMp5j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 268866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAV160000903"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/34vHFbkmUvwvPyzUvFbbex"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/34vHFbkmUvwvPyzUvFbbex",
+  "id" : "34vHFbkmUvwvPyzUvFbbex",
+  "name" : "Blue Moon Revisited (Song For Elvis)",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/961d6236557e3b377563940a4af44eff55cfdbd9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:34vHFbkmUvwvPyzUvFbbex"
+}

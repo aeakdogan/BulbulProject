@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3kdrMtLybQIl93rXJlvF3w",
+      "id" : "3kdrMtLybQIl93rXJlvF3w",
+      "name" : "New Young Pony Club",
+      "type" : "artist",
+      "uri" : "spotify:artist:3kdrMtLybQIl93rXJlvF3w"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1v1Yp8sNjnCqx5YRf8ZaJA",
+    "id" : "1v1Yp8sNjnCqx5YRf8ZaJA",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/5dfef91244a296a20bda8bcdd7e8d89d361acf1b",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/b3e6a9344d4131fc75b1f4bca968ecaf3f1a37c8",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/c0e5bfa1e946a8b6780815b9ac28f11afac6f638",
+      "width" : 64
+    } ],
+    "name" : "Fantastic Playroom",
+    "type" : "album",
+    "uri" : "spotify:album:1v1Yp8sNjnCqx5YRf8ZaJA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3kdrMtLybQIl93rXJlvF3w",
+    "id" : "3kdrMtLybQIl93rXJlvF3w",
+    "name" : "New Young Pony Club",
+    "type" : "artist",
+    "uri" : "spotify:artist:3kdrMtLybQIl93rXJlvF3w"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 235213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUUM70700075"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/21Vxcadp5nOc9p4YYhSfK2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/21Vxcadp5nOc9p4YYhSfK2",
+  "id" : "21Vxcadp5nOc9p4YYhSfK2",
+  "name" : "Tight Fit",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a457fa1fd1b84e3649d51e4b68a84a641abadc46?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:21Vxcadp5nOc9p4YYhSfK2"
+}

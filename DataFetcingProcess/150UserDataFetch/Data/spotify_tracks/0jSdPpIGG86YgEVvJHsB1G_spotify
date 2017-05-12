@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/36OJA0CFoB1DTYYojj3EEi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/36OJA0CFoB1DTYYojj3EEi",
+    "id" : "36OJA0CFoB1DTYYojj3EEi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7c5477b8e7179cd92d5d6782aab6c6d4b9c5ec32",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/97120a31075299e46ca3fcf67bd9a4f02c3e57d1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/12fe720a1928c7390344f2abd0693d5f19c39e9e",
+      "width" : 64
+    } ],
+    "name" : "Verve Remixed 3",
+    "type" : "album",
+    "uri" : "spotify:album:36OJA0CFoB1DTYYojj3EEi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5rX2c1zow6hCph8PnnU3kF",
+    "id" : "5rX2c1zow6hCph8PnnU3kF",
+    "name" : "Astrud Gilberto",
+    "type" : "artist",
+    "uri" : "spotify:artist:5rX2c1zow6hCph8PnnU3kF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 359413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGR10500028"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0jSdPpIGG86YgEVvJHsB1G"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0jSdPpIGG86YgEVvJHsB1G",
+  "id" : "0jSdPpIGG86YgEVvJHsB1G",
+  "name" : "The Gentle Rain - RJD2 Remix",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f5ffeda6d06cac7a7b806c0dfd9e62eaf46062b7?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:0jSdPpIGG86YgEVvJHsB1G"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5SP6T04F8Ic9oftMVfdKkp",
+      "id" : "5SP6T04F8Ic9oftMVfdKkp",
+      "name" : "King Creosote",
+      "type" : "artist",
+      "uri" : "spotify:artist:5SP6T04F8Ic9oftMVfdKkp"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1NcKClEnVkDvnSWmmzdpEk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1NcKClEnVkDvnSWmmzdpEk",
+    "id" : "1NcKClEnVkDvnSWmmzdpEk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/06d9bb13a9630d6751aab3b1bb7b83c05fb15cfc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/95250dad48ed9f338b115272a49c9a51107eedb5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4406323fbd813dba04a7882acaacbd73a6cd0788",
+      "width" : 64
+    } ],
+    "name" : "Thrawn",
+    "type" : "album",
+    "uri" : "spotify:album:1NcKClEnVkDvnSWmmzdpEk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5SP6T04F8Ic9oftMVfdKkp",
+    "id" : "5SP6T04F8Ic9oftMVfdKkp",
+    "name" : "King Creosote",
+    "type" : "artist",
+    "uri" : "spotify:artist:5SP6T04F8Ic9oftMVfdKkp"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 265733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0900163"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/35yQOq7BgW4myxP0dQqHSy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/35yQOq7BgW4myxP0dQqHSy",
+  "id" : "35yQOq7BgW4myxP0dQqHSy",
+  "name" : "No Way She Exists",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bac344ac69cf67e48aaedf1f50a38015254e00c1?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:35yQOq7BgW4myxP0dQqHSy"
+}

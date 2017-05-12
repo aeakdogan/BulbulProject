@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Mdvy9zKAuJeWcnlQh5XuJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Mdvy9zKAuJeWcnlQh5XuJ",
+      "id" : "1Mdvy9zKAuJeWcnlQh5XuJ",
+      "name" : "The Luyas & Twin Sister",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Mdvy9zKAuJeWcnlQh5XuJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3yVH6DulVn7iKBitWpj225"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3yVH6DulVn7iKBitWpj225",
+      "id" : "3yVH6DulVn7iKBitWpj225",
+      "name" : "The Luyas",
+      "type" : "artist",
+      "uri" : "spotify:artist:3yVH6DulVn7iKBitWpj225"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/27hASS8wRDj9c7cayllAmQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/27hASS8wRDj9c7cayllAmQ",
+      "id" : "27hASS8wRDj9c7cayllAmQ",
+      "name" : "Twin Sister",
+      "type" : "artist",
+      "uri" : "spotify:artist:27hASS8wRDj9c7cayllAmQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "SE", "SK", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4vOk17UPoOWEwDNiCcj1Qb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4vOk17UPoOWEwDNiCcj1Qb",
+    "id" : "4vOk17UPoOWEwDNiCcj1Qb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d35bf2072eab7853b31d3b562a707de67336b174",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1e32cfc8a0b7132ac3e530c27a3b054bccbd823e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d7ecb31391f0a1285dcab80e627f969814b15b9e",
+      "width" : 64
+    } ],
+    "name" : "Split",
+    "type" : "album",
+    "uri" : "spotify:album:4vOk17UPoOWEwDNiCcj1Qb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/27hASS8wRDj9c7cayllAmQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/27hASS8wRDj9c7cayllAmQ",
+    "id" : "27hASS8wRDj9c7cayllAmQ",
+    "name" : "Twin Sister",
+    "type" : "artist",
+    "uri" : "spotify:artist:27hASS8wRDj9c7cayllAmQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "PA", "PE", "PL", "PT", "PY", "SE", "SK", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 240493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJ5G1135702"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3CHJFleuQ0dwzc2tzKmTYj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3CHJFleuQ0dwzc2tzKmTYj",
+  "id" : "3CHJFleuQ0dwzc2tzKmTYj",
+  "name" : "Meet the Frownies",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2a8942bcb928892c98b7e4a7e31f4fb821d33bb1?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3CHJFleuQ0dwzc2tzKmTYj"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hj9reFCa9oYp8CzpB5Y0y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2hj9reFCa9oYp8CzpB5Y0y",
+      "id" : "2hj9reFCa9oYp8CzpB5Y0y",
+      "name" : "Virus",
+      "type" : "artist",
+      "uri" : "spotify:artist:2hj9reFCa9oYp8CzpB5Y0y"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2BKpOyxLYGmf1kStnkiQli"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2BKpOyxLYGmf1kStnkiQli",
+    "id" : "2BKpOyxLYGmf1kStnkiQli",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e35885f5321297e039cfba70e31c9612ff9b18b6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/962ad7a22053e53d821069d79a0f700f8bfa3c47",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7eaec369ec4277bc57b9249b8865ff9afc74daf4",
+      "width" : 64
+    } ],
+    "name" : "The Black Flux",
+    "type" : "album",
+    "uri" : "spotify:album:2BKpOyxLYGmf1kStnkiQli"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2hj9reFCa9oYp8CzpB5Y0y"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2hj9reFCa9oYp8CzpB5Y0y",
+    "id" : "2hj9reFCa9oYp8CzpB5Y0y",
+    "name" : "Virus",
+    "type" : "artist",
+    "uri" : "spotify:artist:2hj9reFCa9oYp8CzpB5Y0y"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 268053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR33T0818801"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Zf2P72OdiP0vgHyYZHfxW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Zf2P72OdiP0vgHyYZHfxW",
+  "id" : "5Zf2P72OdiP0vgHyYZHfxW",
+  "name" : "Stalkers of the Drift",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2d7b540785e280c23aa07e4e798fd954ba273369?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5Zf2P72OdiP0vgHyYZHfxW"
+}

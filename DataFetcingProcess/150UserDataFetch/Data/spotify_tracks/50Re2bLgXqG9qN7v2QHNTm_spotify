@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5KDIH2gF0VpelTqyQS7udb",
+      "id" : "5KDIH2gF0VpelTqyQS7udb",
+      "name" : "Staind",
+      "type" : "artist",
+      "uri" : "spotify:artist:5KDIH2gF0VpelTqyQS7udb"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2JHjVEvYNVQ9FUUMB2LcMl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2JHjVEvYNVQ9FUUMB2LcMl",
+    "id" : "2JHjVEvYNVQ9FUUMB2LcMl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fc0c6d9d84d6f0ff52ef8961f482b68cc54bdd18",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/55d4301d9184459f2793525eecf8cf6310c61ef2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f79466de147683a7002a396b76945248d44e2242",
+      "width" : 64
+    } ],
+    "name" : "Break The Cycle",
+    "type" : "album",
+    "uri" : "spotify:album:2JHjVEvYNVQ9FUUMB2LcMl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5KDIH2gF0VpelTqyQS7udb",
+    "id" : "5KDIH2gF0VpelTqyQS7udb",
+    "name" : "Staind",
+    "type" : "artist",
+    "uri" : "spotify:artist:5KDIH2gF0VpelTqyQS7udb"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 293133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEE10100309"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/50Re2bLgXqG9qN7v2QHNTm",
+  "id" : "50Re2bLgXqG9qN7v2QHNTm",
+  "name" : "Outside - Original",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8c8cabbec9e6538aa3121e1b61b802dda9c319d0?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:50Re2bLgXqG9qN7v2QHNTm"
+}

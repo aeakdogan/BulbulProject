@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5rX2c1zow6hCph8PnnU3kF",
+      "id" : "5rX2c1zow6hCph8PnnU3kF",
+      "name" : "Astrud Gilberto",
+      "type" : "artist",
+      "uri" : "spotify:artist:5rX2c1zow6hCph8PnnU3kF"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6QoLnm7tA6mPHuJQnT2XKq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6QoLnm7tA6mPHuJQnT2XKq",
+    "id" : "6QoLnm7tA6mPHuJQnT2XKq",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/938b59bf3ef7f570c824491a60d552dd9354ed4c",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/bffc0fbd3590431bb23eeae5c515c0b10d13c9a3",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/99e3d35dcc2708564a3e53edf78fab502fbe5c7d",
+      "width" : 64
+    } ],
+    "name" : "Best Of/20th Century",
+    "type" : "album",
+    "uri" : "spotify:album:6QoLnm7tA6mPHuJQnT2XKq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5rX2c1zow6hCph8PnnU3kF",
+    "id" : "5rX2c1zow6hCph8PnnU3kF",
+    "name" : "Astrud Gilberto",
+    "type" : "artist",
+    "uri" : "spotify:artist:5rX2c1zow6hCph8PnnU3kF"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 139133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR36409921"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0CEcSIShaDQgRicHLPI7ko"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0CEcSIShaDQgRicHLPI7ko",
+  "id" : "0CEcSIShaDQgRicHLPI7ko",
+  "name" : "Fly Me To The Moon",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/70c4dc952de50b686e6ad4dbef978e90d4ddf4e5?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0CEcSIShaDQgRicHLPI7ko"
+}

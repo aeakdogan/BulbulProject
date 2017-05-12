@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+      "id" : "7jy3rLJdDQY21OgRLCZ9sD",
+      "name" : "Foo Fighters",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4EnNuo8fG7dMoxMefbApRY",
+    "id" : "4EnNuo8fG7dMoxMefbApRY",
+    "images" : [ {
+      "height" : 638,
+      "url" : "https://i.scdn.co/image/ed8981be29fdae9019e377f16b101c839f9555b6",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/7dc149ec6e930118babf06db961794450fb7198d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8f8e14b11bc8d204b3258985268c0401ac8b233a",
+      "width" : 64
+    } ],
+    "name" : "Foo Fighters",
+    "type" : "album",
+    "uri" : "spotify:album:4EnNuo8fG7dMoxMefbApRY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+    "id" : "7jy3rLJdDQY21OgRLCZ9sD",
+    "name" : "Foo Fighters",
+    "type" : "artist",
+    "uri" : "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 165400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRW29500015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5FafTKnxl219ZUWFzaufRQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5FafTKnxl219ZUWFzaufRQ",
+  "id" : "5FafTKnxl219ZUWFzaufRQ",
+  "name" : "Weenie Beenie",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2aa957a5ca0a4df0ba7deab54fb3e54a1a8763e4?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5FafTKnxl219ZUWFzaufRQ"
+}

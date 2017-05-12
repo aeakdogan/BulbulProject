@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+      "id" : "7rN3Agir6FaZNfhf5V7mfN",
+      "name" : "John Frusciante",
+      "type" : "artist",
+      "uri" : "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3a9g6ueh2eVIYGTfmSoKkb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3a9g6ueh2eVIYGTfmSoKkb",
+    "id" : "3a9g6ueh2eVIYGTfmSoKkb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/847ddc478387d0f557331a75f6ac7a436987949d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/37285d6fa83b31a4a1af0dfbea3d51f994a019cf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1b4ed74684f0bbcdbc0a377ea04bc6649b2f41ac",
+      "width" : 64
+    } ],
+    "name" : "To Record Only Water For Ten Days (U.S. Version)",
+    "type" : "album",
+    "uri" : "spotify:album:3a9g6ueh2eVIYGTfmSoKkb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+    "id" : "7rN3Agir6FaZNfhf5V7mfN",
+    "name" : "John Frusciante",
+    "type" : "artist",
+    "uri" : "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 160310,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10003085"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Lt6XpDCo3xETDwWgvZJIY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Lt6XpDCo3xETDwWgvZJIY",
+  "id" : "2Lt6XpDCo3xETDwWgvZJIY",
+  "name" : "Murderers",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/88df2ea1a0e35c709975be72b4fafaf90e552722?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:2Lt6XpDCo3xETDwWgvZJIY"
+}

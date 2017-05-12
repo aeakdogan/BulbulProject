@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7KomCxZv6D5qCVvefwMnwB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7KomCxZv6D5qCVvefwMnwB",
+      "id" : "7KomCxZv6D5qCVvefwMnwB",
+      "name" : "Einstürzende Neubauten",
+      "type" : "artist",
+      "uri" : "spotify:artist:7KomCxZv6D5qCVvefwMnwB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0ehEZEeFV2f1z1pg80f0BB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0ehEZEeFV2f1z1pg80f0BB",
+    "id" : "0ehEZEeFV2f1z1pg80f0BB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/df22e56b44469320866a986c3a3da7c9447b3a90",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/77804c0859d9dde0f63e10349220bf701c3ce5e2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ba9545428b1dbd46ee8d34359f95d91b7bed90a2",
+      "width" : 64
+    } ],
+    "name" : "Perpetuum Mobile",
+    "type" : "album",
+    "uri" : "spotify:album:0ehEZEeFV2f1z1pg80f0BB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7KomCxZv6D5qCVvefwMnwB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7KomCxZv6D5qCVvefwMnwB",
+    "id" : "7KomCxZv6D5qCVvefwMnwB",
+    "name" : "Einstürzende Neubauten",
+    "type" : "artist",
+    "uri" : "spotify:artist:7KomCxZv6D5qCVvefwMnwB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 280173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0300549"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2joFI8C3DCB3H6rB4aKaxM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2joFI8C3DCB3H6rB4aKaxM",
+  "id" : "2joFI8C3DCB3H6rB4aKaxM",
+  "name" : "Youme & Meyou",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e7ab01f9a8a102fc0b4947b17f625b8e5c066228?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2joFI8C3DCB3H6rB4aKaxM"
+}

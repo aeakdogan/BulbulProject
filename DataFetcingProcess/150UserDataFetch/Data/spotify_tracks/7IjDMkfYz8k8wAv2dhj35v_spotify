@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6bLPZMOlLH9wiaQ0kO5nZh",
+      "id" : "6bLPZMOlLH9wiaQ0kO5nZh",
+      "name" : "John Norum",
+      "type" : "artist",
+      "uri" : "spotify:artist:6bLPZMOlLH9wiaQ0kO5nZh"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/31OtEf59d3MSS5ckc5TZ2H"
+    },
+    "href" : "https://api.spotify.com/v1/albums/31OtEf59d3MSS5ckc5TZ2H",
+    "id" : "31OtEf59d3MSS5ckc5TZ2H",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2044b83b55f04cec4ec2307b39f5c1ebdc80df82",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7a580fbbd4e7bfe9c63135352b33803a5f3fe70a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/651df9377730b8d2f481c83ad1f125683be7fb3c",
+      "width" : 64
+    } ],
+    "name" : "Another Destination",
+    "type" : "album",
+    "uri" : "spotify:album:31OtEf59d3MSS5ckc5TZ2H"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6bLPZMOlLH9wiaQ0kO5nZh",
+    "id" : "6bLPZMOlLH9wiaQ0kO5nZh",
+    "name" : "John Norum",
+    "type" : "artist",
+    "uri" : "spotify:artist:6bLPZMOlLH9wiaQ0kO5nZh"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 369626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEBGB9401050"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7IjDMkfYz8k8wAv2dhj35v"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7IjDMkfYz8k8wAv2dhj35v",
+  "id" : "7IjDMkfYz8k8wAv2dhj35v",
+  "name" : "Shimmering Highs",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6f655670c8c119f4741ea82060dd8c11cc2cabb8?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7IjDMkfYz8k8wAv2dhj35v"
+}

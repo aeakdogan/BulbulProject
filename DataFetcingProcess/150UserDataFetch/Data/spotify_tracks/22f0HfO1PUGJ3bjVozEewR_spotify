@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+      "name" : "Metallica",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7HcHPb1P9mubh0vyDdawAv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7HcHPb1P9mubh0vyDdawAv",
+    "id" : "7HcHPb1P9mubh0vyDdawAv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c42ba360722f512d3334f2fecdec03e67ff6dda7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/15c4ebbba1a1d057b423db7364985260b35e94cb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/84d708cb3de322eb23ce42dead3c39853c8adf3b",
+      "width" : 64
+    } ],
+    "name" : "S&M",
+    "type" : "album",
+    "uri" : "spotify:album:7HcHPb1P9mubh0vyDdawAv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+    "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+    "name" : "Metallica",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 446666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEV19900033"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/22f0HfO1PUGJ3bjVozEewR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/22f0HfO1PUGJ3bjVozEewR",
+  "id" : "22f0HfO1PUGJ3bjVozEewR",
+  "name" : "The Thing That Should Not Be (Live with the SFSO)",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f28440041d3161898e423ef83b599e899c3a3fc9?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:22f0HfO1PUGJ3bjVozEewR"
+}

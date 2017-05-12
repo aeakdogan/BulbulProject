@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Qj55LNePxFqsslmw1TvNb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Qj55LNePxFqsslmw1TvNb",
+      "id" : "0Qj55LNePxFqsslmw1TvNb",
+      "name" : "Adam Ficek",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Qj55LNePxFqsslmw1TvNb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O7wyI1qVbHaNu6TiBvZiT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O7wyI1qVbHaNu6TiBvZiT",
+      "id" : "6O7wyI1qVbHaNu6TiBvZiT",
+      "name" : "Roses Kings Castles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O7wyI1qVbHaNu6TiBvZiT"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0SriwOoQSbxcOOm2DJQvF9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0SriwOoQSbxcOOm2DJQvF9",
+    "id" : "0SriwOoQSbxcOOm2DJQvF9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/771e818be114000150810c645bd901e987c5412e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c8423b45e10863b36f14f8929488c1508f0e86b9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1ce732cce89b10f948f4dd6e0b95cc4409b3b471",
+      "width" : 64
+    } ],
+    "name" : "Roses Kings Castles",
+    "type" : "album",
+    "uri" : "spotify:album:0SriwOoQSbxcOOm2DJQvF9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0Qj55LNePxFqsslmw1TvNb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0Qj55LNePxFqsslmw1TvNb",
+    "id" : "0Qj55LNePxFqsslmw1TvNb",
+    "name" : "Adam Ficek",
+    "type" : "artist",
+    "uri" : "spotify:artist:0Qj55LNePxFqsslmw1TvNb"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6O7wyI1qVbHaNu6TiBvZiT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6O7wyI1qVbHaNu6TiBvZiT",
+    "id" : "6O7wyI1qVbHaNu6TiBvZiT",
+    "name" : "Roses Kings Castles",
+    "type" : "artist",
+    "uri" : "spotify:artist:6O7wyI1qVbHaNu6TiBvZiT"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 179880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBLLT1511766"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6ILLxZZmLvJNHMcYmK7ZiH"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6ILLxZZmLvJNHMcYmK7ZiH",
+  "id" : "6ILLxZZmLvJNHMcYmK7ZiH",
+  "name" : "Brass Winter",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/35a026baa0ede65488c3037ed0ec143cd44975ab?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6ILLxZZmLvJNHMcYmK7ZiH"
+}

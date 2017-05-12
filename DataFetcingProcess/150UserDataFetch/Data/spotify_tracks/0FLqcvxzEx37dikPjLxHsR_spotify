@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+      "id" : "7lOJ7WXyopaxri0dbOiZkd",
+      "name" : "Broken Social Scene",
+      "type" : "artist",
+      "uri" : "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Awy6Aaczv4aecYZYDSQXu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Awy6Aaczv4aecYZYDSQXu",
+    "id" : "4Awy6Aaczv4aecYZYDSQXu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5395163415062a170d3ba67642e985a36e45f447",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e687298fe34710d8a2f65b5cd1d6b3e985fee34",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/813abef9e50d1c1ca1ebdf7c47e4455bcb50d5f8",
+      "width" : 64
+    } ],
+    "name" : "You Forgot it in People",
+    "type" : "album",
+    "uri" : "spotify:album:4Awy6Aaczv4aecYZYDSQXu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7lOJ7WXyopaxri0dbOiZkd",
+    "id" : "7lOJ7WXyopaxri0dbOiZkd",
+    "name" : "Broken Social Scene",
+    "type" : "artist",
+    "uri" : "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 263093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAAA10200105"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0FLqcvxzEx37dikPjLxHsR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0FLqcvxzEx37dikPjLxHsR",
+  "id" : "0FLqcvxzEx37dikPjLxHsR",
+  "name" : "Looks Just Like the Sun",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b8d61a0e5c444c51edcf8f0fb94703fcaf3b842c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0FLqcvxzEx37dikPjLxHsR"
+}

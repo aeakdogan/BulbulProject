@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+      "id" : "26dSoYclwsYLMAKD3tpOr4",
+      "name" : "Britney Spears",
+      "type" : "artist",
+      "uri" : "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1ePkYcH5ZQCb1b4tQeiEDj",
+    "id" : "1ePkYcH5ZQCb1b4tQeiEDj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/42a16c05b3ac0dd994790bd026bff8852b4e504c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f16eacc82e11a3a06efa2c0ce9cd73fb677d6224",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9844d82b796e3cc535b6470b5bbd06a738a611cb",
+      "width" : 64
+    } ],
+    "name" : "Blackout",
+    "type" : "album",
+    "uri" : "spotify:album:1ePkYcH5ZQCb1b4tQeiEDj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+    "id" : "26dSoYclwsYLMAKD3tpOr4",
+    "name" : "Britney Spears",
+    "type" : "artist",
+    "uri" : "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 208133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJI10700737"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/68rqXl8LTdwEd2u0QMkWvi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/68rqXl8LTdwEd2u0QMkWvi",
+  "id" : "68rqXl8LTdwEd2u0QMkWvi",
+  "name" : "Ooh Ooh Baby",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/92da52efcd2d4262aabd88b5e49ce9f9a148449a?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:68rqXl8LTdwEd2u0QMkWvi"
+}

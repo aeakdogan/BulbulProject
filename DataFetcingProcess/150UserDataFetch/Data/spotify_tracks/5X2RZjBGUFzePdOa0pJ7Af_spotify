@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+      "id" : "7mlge4peaoNgzTsY6M32RB",
+      "name" : "Marianne Faithfull",
+      "type" : "artist",
+      "uri" : "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1RNDMROPFPIzWtRgmGaTkN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1RNDMROPFPIzWtRgmGaTkN",
+    "id" : "1RNDMROPFPIzWtRgmGaTkN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c22a996ac5c2f335cfd8d5579d08be77ce71efe8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e04bd9377593d367e8d47fa481a1375a243a362a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5152abaf9221e696ec131ab9175695427ec42580",
+      "width" : 64
+    } ],
+    "name" : "Marianne Faithfull's Greatest Hits",
+    "type" : "album",
+    "uri" : "spotify:album:1RNDMROPFPIzWtRgmGaTkN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+    "id" : "7mlge4peaoNgzTsY6M32RB",
+    "name" : "Marianne Faithfull",
+    "type" : "artist",
+    "uri" : "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 158093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA170550020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5X2RZjBGUFzePdOa0pJ7Af"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5X2RZjBGUFzePdOa0pJ7Af",
+  "id" : "5X2RZjBGUFzePdOa0pJ7Af",
+  "name" : "As Tears Go By",
+  "popularity" : 23,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8a37f508acccb2b095fc1317d0ae5e10c6e41123?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5X2RZjBGUFzePdOa0pJ7Af"
+}

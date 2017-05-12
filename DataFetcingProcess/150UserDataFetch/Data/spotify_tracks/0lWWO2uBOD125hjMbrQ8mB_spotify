@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hrruNuPITt3N9zLMdbjGz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hrruNuPITt3N9zLMdbjGz",
+      "id" : "7hrruNuPITt3N9zLMdbjGz",
+      "name" : "Saint Privat",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hrruNuPITt3N9zLMdbjGz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3wlKEA23KzMJOzPfWpkDZF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3wlKEA23KzMJOzPfWpkDZF",
+    "id" : "3wlKEA23KzMJOzPfWpkDZF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/33a6b77c3b9044e99b3979be64401515f9e11004",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6549b6be8081b5488106f30bcebe5ea89fb9e495",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c9d88d70d99aa2cfc220cbaaeca7d3f59aa019ff",
+      "width" : 64
+    } ],
+    "name" : "Superflu, Un, Deux, Trois",
+    "type" : "album",
+    "uri" : "spotify:album:3wlKEA23KzMJOzPfWpkDZF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7hrruNuPITt3N9zLMdbjGz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7hrruNuPITt3N9zLMdbjGz",
+    "id" : "7hrruNuPITt3N9zLMdbjGz",
+    "name" : "Saint Privat",
+    "type" : "artist",
+    "uri" : "spotify:artist:7hrruNuPITt3N9zLMdbjGz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 264889,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATW630601702"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0lWWO2uBOD125hjMbrQ8mB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0lWWO2uBOD125hjMbrQ8mB",
+  "id" : "0lWWO2uBOD125hjMbrQ8mB",
+  "name" : "Somebody To Love",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/90324fcf2250c5af8f8eec61f44d0e3fee6fa092?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0lWWO2uBOD125hjMbrQ8mB"
+}

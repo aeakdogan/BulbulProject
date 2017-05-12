@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LbLWjaweRbO4FDKYlbfNt",
+      "id" : "0LbLWjaweRbO4FDKYlbfNt",
+      "name" : "Kaiser Chiefs",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LbLWjaweRbO4FDKYlbfNt"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/04sr0EUQWLrByyOKYZNS2K"
+    },
+    "href" : "https://api.spotify.com/v1/albums/04sr0EUQWLrByyOKYZNS2K",
+    "id" : "04sr0EUQWLrByyOKYZNS2K",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/9fae8770b010a0c30096096933289e00d4aa2fc2",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/4a4dc9c59b369bae70bfd1fb8adba3b11c42b25d",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/9263d9d9b55c43662fbc7fd26f3ba9319b9e1684",
+      "width" : 64
+    } ],
+    "name" : "Employment",
+    "type" : "album",
+    "uri" : "spotify:album:04sr0EUQWLrByyOKYZNS2K"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0LbLWjaweRbO4FDKYlbfNt",
+    "id" : "0LbLWjaweRbO4FDKYlbfNt",
+    "name" : "Kaiser Chiefs",
+    "type" : "artist",
+    "uri" : "spotify:artist:0LbLWjaweRbO4FDKYlbfNt"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 214880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDVX0400055"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2IHf50wpk9ppvZzlteW1H3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2IHf50wpk9ppvZzlteW1H3",
+  "id" : "2IHf50wpk9ppvZzlteW1H3",
+  "name" : "Oh My God",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ce0ce8074fca15cd3c521fda4184044b240ca272?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2IHf50wpk9ppvZzlteW1H3"
+}

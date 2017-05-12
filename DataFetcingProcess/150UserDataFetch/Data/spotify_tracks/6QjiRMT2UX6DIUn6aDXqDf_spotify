@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QIHd0B2VIKlmLyoq4lUr7",
+      "id" : "2QIHd0B2VIKlmLyoq4lUr7",
+      "name" : "Alela Diane",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QIHd0B2VIKlmLyoq4lUr7"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "JP", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4cbZ94wBTQCvivwA7VxKdb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4cbZ94wBTQCvivwA7VxKdb",
+    "id" : "4cbZ94wBTQCvivwA7VxKdb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/01e135e0376ac0105af0c4cea842fc130449e8d8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cb9365e2fcaaa3708195734257dd63398a9670a3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a3fb35d0e6c74d5f74187936de756d4d9ee159bd",
+      "width" : 64
+    } ],
+    "name" : "The Pirate's Gospel",
+    "type" : "album",
+    "uri" : "spotify:album:4cbZ94wBTQCvivwA7VxKdb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2QIHd0B2VIKlmLyoq4lUr7",
+    "id" : "2QIHd0B2VIKlmLyoq4lUr7",
+    "name" : "Alela Diane",
+    "type" : "artist",
+    "uri" : "spotify:artist:2QIHd0B2VIKlmLyoq4lUr7"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "JP", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 230346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMFMG1454897"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6QjiRMT2UX6DIUn6aDXqDf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6QjiRMT2UX6DIUn6aDXqDf",
+  "id" : "6QjiRMT2UX6DIUn6aDXqDf",
+  "name" : "Clickity Clack",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0437f772bca998c8cf28b84f1da472de81109530?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6QjiRMT2UX6DIUn6aDXqDf"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6dyWpK4qjCSoIvuOLXdjTv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6dyWpK4qjCSoIvuOLXdjTv",
+      "id" : "6dyWpK4qjCSoIvuOLXdjTv",
+      "name" : "Ballet School",
+      "type" : "artist",
+      "uri" : "spotify:artist:6dyWpK4qjCSoIvuOLXdjTv"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/46kfHawZtwUJ3JRiwwEU34"
+    },
+    "href" : "https://api.spotify.com/v1/albums/46kfHawZtwUJ3JRiwwEU34",
+    "id" : "46kfHawZtwUJ3JRiwwEU34",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eac5e492e69c53501c0a97ff7f54c706914905b6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3d55c5fb8200f857967d4f2179b316553f8d9e0e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/84df85a29ac76d4e9d552a7e28ac83200cadb129",
+      "width" : 64
+    } ],
+    "name" : "The Dew Lasts an Hour",
+    "type" : "album",
+    "uri" : "spotify:album:46kfHawZtwUJ3JRiwwEU34"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6dyWpK4qjCSoIvuOLXdjTv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6dyWpK4qjCSoIvuOLXdjTv",
+    "id" : "6dyWpK4qjCSoIvuOLXdjTv",
+    "name" : "Ballet School",
+    "type" : "artist",
+    "uri" : "spotify:artist:6dyWpK4qjCSoIvuOLXdjTv"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 288268,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBRP1445307"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4701HtRNHiPI2zBRWtn5KI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4701HtRNHiPI2zBRWtn5KI",
+  "id" : "4701HtRNHiPI2zBRWtn5KI",
+  "name" : "Heartbeat Overdrive",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8a4ebd8ecd2c4855a16c21ff4ccc84bf823ff173?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4701HtRNHiPI2zBRWtn5KI"
+}

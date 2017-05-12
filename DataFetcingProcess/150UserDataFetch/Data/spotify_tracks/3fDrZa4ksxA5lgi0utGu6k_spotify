@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5UVzX8pQe6bb5ueNdfViih",
+      "id" : "5UVzX8pQe6bb5ueNdfViih",
+      "name" : "Chris Malinchak",
+      "type" : "artist",
+      "uri" : "spotify:artist:5UVzX8pQe6bb5ueNdfViih"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5z6aqbVipcLm2KtFLYMhfj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5z6aqbVipcLm2KtFLYMhfj",
+    "id" : "5z6aqbVipcLm2KtFLYMhfj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d2a7edece884d010d5c39d5899171d5e858e25a6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ef809152906d93746829c1aa2c04972326592bde",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7ba59cfa3084c7eb982a0b571f67a40a614a1e0d",
+      "width" : 64
+    } ],
+    "name" : "So Good to Me (Radio Edit)",
+    "type" : "album",
+    "uri" : "spotify:album:5z6aqbVipcLm2KtFLYMhfj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5UVzX8pQe6bb5ueNdfViih",
+    "id" : "5UVzX8pQe6bb5ueNdfViih",
+    "name" : "Chris Malinchak",
+    "type" : "artist",
+    "uri" : "spotify:artist:5UVzX8pQe6bb5ueNdfViih"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 226120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL1301455"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3fDrZa4ksxA5lgi0utGu6k",
+  "id" : "3fDrZa4ksxA5lgi0utGu6k",
+  "name" : "So Good to Me - Radio Edit",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/acaac8a5673ed25e1354cb2700ceb787d4432329?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3fDrZa4ksxA5lgi0utGu6k"
+}

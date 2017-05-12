@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6gk4ierjjSVPoZep27VfZz",
+      "id" : "6gk4ierjjSVPoZep27VfZz",
+      "name" : "Bebel Gilberto",
+      "type" : "artist",
+      "uri" : "spotify:artist:6gk4ierjjSVPoZep27VfZz"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1tXgKnnhbeWdqegfSTCoTZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1tXgKnnhbeWdqegfSTCoTZ",
+    "id" : "1tXgKnnhbeWdqegfSTCoTZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a9a995bfa4bbf9dfb15d252a845bcc2f63a3381e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/091099faca6362002db27c702e2906ebef2d538e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4735c772111af2a268b16f2b853297a9f312b910",
+      "width" : 64
+    } ],
+    "name" : "Bebel Gilberto",
+    "type" : "album",
+    "uri" : "spotify:album:1tXgKnnhbeWdqegfSTCoTZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6gk4ierjjSVPoZep27VfZz",
+    "id" : "6gk4ierjjSVPoZep27VfZz",
+    "name" : "Bebel Gilberto",
+    "type" : "artist",
+    "uri" : "spotify:artist:6gk4ierjjSVPoZep27VfZz"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 289160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BE6F50401400"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/60o90rDmrMQnnoptmbyAZY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/60o90rDmrMQnnoptmbyAZY",
+  "id" : "60o90rDmrMQnnoptmbyAZY",
+  "name" : "Simplesmente",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f096631a602a4a46b99b5489256c755625bfcbb2?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:60o90rDmrMQnnoptmbyAZY"
+}

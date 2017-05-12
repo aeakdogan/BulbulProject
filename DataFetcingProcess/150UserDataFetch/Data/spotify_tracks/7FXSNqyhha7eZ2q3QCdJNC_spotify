@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36zSkwftotDHslP3KUQpew",
+      "id" : "36zSkwftotDHslP3KUQpew",
+      "name" : "MED",
+      "type" : "artist",
+      "uri" : "spotify:artist:36zSkwftotDHslP3KUQpew"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/79JR2t9AZzb5HhXx6KB1kK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/79JR2t9AZzb5HhXx6KB1kK",
+    "id" : "79JR2t9AZzb5HhXx6KB1kK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/db22278aea4a6eea42237b7ea40a47ea04860f44",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0689721d1510ad9b320a7e6e9cf7b6b36860bab8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2ecc181a37e14f119b4ab6ae527b097194cb18b9",
+      "width" : 64
+    } ],
+    "name" : "Push Comes To Shove",
+    "type" : "album",
+    "uri" : "spotify:album:79JR2t9AZzb5HhXx6KB1kK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36zSkwftotDHslP3KUQpew",
+    "id" : "36zSkwftotDHslP3KUQpew",
+    "name" : "MED",
+    "type" : "artist",
+    "uri" : "spotify:artist:36zSkwftotDHslP3KUQpew"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 166826,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "US2S70508015"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7FXSNqyhha7eZ2q3QCdJNC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7FXSNqyhha7eZ2q3QCdJNC",
+  "id" : "7FXSNqyhha7eZ2q3QCdJNC",
+  "name" : "Get Back",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9a5921c6e24eacb7b527760b999b7cf36b4e5372?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:7FXSNqyhha7eZ2q3QCdJNC"
+}

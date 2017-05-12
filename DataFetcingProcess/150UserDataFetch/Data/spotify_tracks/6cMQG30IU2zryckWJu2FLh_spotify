@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+      "id" : "36E7oYfz3LLRto6l2WmDcD",
+      "name" : "Pulp",
+      "type" : "artist",
+      "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3mXmnl0kDY3JmBQBKqy8Zk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3mXmnl0kDY3JmBQBKqy8Zk",
+    "id" : "3mXmnl0kDY3JmBQBKqy8Zk",
+    "images" : [ {
+      "height" : 628,
+      "url" : "https://i.scdn.co/image/3aea22444f92686dcc82a0df754822cfe26d428c",
+      "width" : 640
+    }, {
+      "height" : 294,
+      "url" : "https://i.scdn.co/image/7962c590615de7e9e096e3145e52f5d26fb7583b",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/4247c850966d41256a1fd2db5e5eea5787cded94",
+      "width" : 64
+    } ],
+    "name" : "His 'N' Hers",
+    "type" : "album",
+    "uri" : "spotify:album:3mXmnl0kDY3JmBQBKqy8Zk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+    "id" : "36E7oYfz3LLRto6l2WmDcD",
+    "name" : "Pulp",
+    "type" : "artist",
+    "uri" : "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 262533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN9400020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6cMQG30IU2zryckWJu2FLh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6cMQG30IU2zryckWJu2FLh",
+  "id" : "6cMQG30IU2zryckWJu2FLh",
+  "name" : "Do You Remember The First Time?",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1883da98625197c441d055206e756e33c8c63e01?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6cMQG30IU2zryckWJu2FLh"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UG577caeaVBmMU2WbWZdR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UG577caeaVBmMU2WbWZdR",
+      "id" : "6UG577caeaVBmMU2WbWZdR",
+      "name" : "Houston Calls",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UG577caeaVBmMU2WbWZdR"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6BT9m6LM46CtVP7smCkNmh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6BT9m6LM46CtVP7smCkNmh",
+    "id" : "6BT9m6LM46CtVP7smCkNmh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9d2c562d8a092aa96c420bd955252fe018df1fd3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/eca58f2c823be46518a3e48382f94820db619284",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/05aff7f7ba1ab17605a0d4ffc1d3f8833e246b64",
+      "width" : 64
+    } ],
+    "name" : "A Collection of Short Stories",
+    "type" : "album",
+    "uri" : "spotify:album:6BT9m6LM46CtVP7smCkNmh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6UG577caeaVBmMU2WbWZdR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6UG577caeaVBmMU2WbWZdR",
+    "id" : "6UG577caeaVBmMU2WbWZdR",
+    "name" : "Houston Calls",
+    "type" : "artist",
+    "uri" : "spotify:artist:6UG577caeaVBmMU2WbWZdR"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 225462,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TCACG1598535"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3ul1PQwKe496FQexLgJacQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3ul1PQwKe496FQexLgJacQ",
+  "id" : "3ul1PQwKe496FQexLgJacQ",
+  "name" : "Bob and Bonnie",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e750ffe1769fe312b099a7d2eecadf7387074d4f?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3ul1PQwKe496FQexLgJacQ"
+}

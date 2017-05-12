@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6hH9xgYqNz2YtBKZvk1Jox"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6hH9xgYqNz2YtBKZvk1Jox",
+      "id" : "6hH9xgYqNz2YtBKZvk1Jox",
+      "name" : "Tinpan Orange",
+      "type" : "artist",
+      "uri" : "spotify:artist:6hH9xgYqNz2YtBKZvk1Jox"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4HNvnoaD016tXnr1wdTmLl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4HNvnoaD016tXnr1wdTmLl",
+    "id" : "4HNvnoaD016tXnr1wdTmLl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/80d5bbbed03322bd9234126f9da0143f32214347",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fa6ed5b745ef5c0c261d22d29ed625b351ea41c0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/82ad24a1df3e6bcb905f68a5e7167b3788dff6e8",
+      "width" : 64
+    } ],
+    "name" : "Love is a Dog",
+    "type" : "album",
+    "uri" : "spotify:album:4HNvnoaD016tXnr1wdTmLl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6hH9xgYqNz2YtBKZvk1Jox"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6hH9xgYqNz2YtBKZvk1Jox",
+    "id" : "6hH9xgYqNz2YtBKZvk1Jox",
+    "name" : "Tinpan Orange",
+    "type" : "artist",
+    "uri" : "spotify:artist:6hH9xgYqNz2YtBKZvk1Jox"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 236920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUMWH1500002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/79Ifx94MCuw7jIBmTfBdi4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/79Ifx94MCuw7jIBmTfBdi4",
+  "id" : "79Ifx94MCuw7jIBmTfBdi4",
+  "name" : "Cities of Gold",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d5c73ba39dcab6e4e35ca5dd04b7b1f40099cb5e?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:79Ifx94MCuw7jIBmTfBdi4"
+}

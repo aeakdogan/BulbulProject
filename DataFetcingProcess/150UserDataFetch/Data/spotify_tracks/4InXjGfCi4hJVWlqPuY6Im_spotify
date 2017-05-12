@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB",
+      "id" : "4STHEaNw4mPZ2tzheohgXB",
+      "name" : "Paul McCartney",
+      "type" : "artist",
+      "uri" : "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1i7RwnOguDqvZ7myr8VDrh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1i7RwnOguDqvZ7myr8VDrh",
+    "id" : "1i7RwnOguDqvZ7myr8VDrh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ea0e6d051ca89f7e60d4e3f772812feb8aa65728",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a64039c00a576ce70b72a0e1af8f09b22571fa3c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6f871f3563169db1c9dbb49cd366d8f21291dd35",
+      "width" : 64
+    } ],
+    "name" : "All The Best",
+    "type" : "album",
+    "uri" : "spotify:album:1i7RwnOguDqvZ7myr8VDrh"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB",
+    "id" : "4STHEaNw4mPZ2tzheohgXB",
+    "name" : "Paul McCartney",
+    "type" : "artist",
+    "uri" : "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+    "id" : "3fMbdgg4jU18AjLCKBhRSm",
+    "name" : "Michael Jackson",
+    "type" : "artist",
+    "uri" : "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCCS8300875"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4InXjGfCi4hJVWlqPuY6Im"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4InXjGfCi4hJVWlqPuY6Im",
+  "id" : "4InXjGfCi4hJVWlqPuY6Im",
+  "name" : "Say Say Say",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/504ec6b502cc9f97bcd26a802f92521a0b94857d?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4InXjGfCi4hJVWlqPuY6Im"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3zvJxttjhlh1VrAoaN8ZpD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3zvJxttjhlh1VrAoaN8ZpD",
+    "id" : "3zvJxttjhlh1VrAoaN8ZpD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c28f23d0799400a3159edc555b037b90d0e27eb2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0a282687a564743981eb3f23ba5ad1d0bb0076fd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6800a30e6bcef7dc0aeff24a4ddee3615953ffd1",
+      "width" : 64
+    } ],
+    "name" : "Backyard - The Soundtrack",
+    "type" : "album",
+    "uri" : "spotify:album:3zvJxttjhlh1VrAoaN8ZpD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4mw86zm4QZIL8SksdyE6OU",
+    "id" : "4mw86zm4QZIL8SksdyE6OU",
+    "name" : "múm",
+    "type" : "artist",
+    "uri" : "spotify:artist:4mw86zm4QZIL8SksdyE6OU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 279680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEX261110803"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/672wrRuDSg41Facn77O23D"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/672wrRuDSg41Facn77O23D",
+  "id" : "672wrRuDSg41Facn77O23D",
+  "name" : "If I Were A Fish - Live At Backyard",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/abf1b66d20c6f96a6958cdfbe292f60eebb6d437?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:672wrRuDSg41Facn77O23D"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+      "id" : "4I2BJf80C0skQpp1sQmA0h",
+      "name" : "Belle & Sebastian",
+      "type" : "artist",
+      "uri" : "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3XjYSStZD8Y78JtTJwLetP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3XjYSStZD8Y78JtTJwLetP",
+    "id" : "3XjYSStZD8Y78JtTJwLetP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/96b10d6305011a44b67548beb83d7a29ed00c5f3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/80b68f10b6e38653f9831c2b69e64c63d3c7199e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2b33cc6d3d75794693070393a581653afb0bcb18",
+      "width" : 64
+    } ],
+    "name" : "Tigermilk",
+    "type" : "album",
+    "uri" : "spotify:album:3XjYSStZD8Y78JtTJwLetP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+    "id" : "4I2BJf80C0skQpp1sQmA0h",
+    "name" : "Belle & Sebastian",
+    "type" : "artist",
+    "uri" : "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 290893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCAX9901605"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4pbCTogu2yi0cNSkjTTEbR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4pbCTogu2yi0cNSkjTTEbR",
+  "id" : "4pbCTogu2yi0cNSkjTTEbR",
+  "name" : "Electronic Renaissance",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8b80522d28b9261a718be07715ca82bc40fc6c12?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:4pbCTogu2yi0cNSkjTTEbR"
+}

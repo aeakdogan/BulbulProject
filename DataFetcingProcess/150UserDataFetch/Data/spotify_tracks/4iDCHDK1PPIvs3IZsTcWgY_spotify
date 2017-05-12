@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69lxxQvsfAIoQbB20bEPFC",
+      "id" : "69lxxQvsfAIoQbB20bEPFC",
+      "name" : "Philip Glass",
+      "type" : "artist",
+      "uri" : "spotify:artist:69lxxQvsfAIoQbB20bEPFC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/400JXdqRhBKf0A6qNoLCSJ",
+      "id" : "400JXdqRhBKf0A6qNoLCSJ",
+      "name" : "Bruce Brubaker",
+      "type" : "artist",
+      "uri" : "spotify:artist:400JXdqRhBKf0A6qNoLCSJ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3AIqPGYQi416SvJiXYtAQS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3AIqPGYQi416SvJiXYtAQS",
+    "id" : "3AIqPGYQi416SvJiXYtAQS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/91de964c2ac3cac8436addd9e2a9e7e552c5b6f3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8b6dd5ad5d082ed2275199484ea27298f4456e8c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4275ecdc13d0895ae8de1ce029df4051f3792c83",
+      "width" : 64
+    } ],
+    "name" : "Glass Piano (Extended Version)",
+    "type" : "album",
+    "uri" : "spotify:album:3AIqPGYQi416SvJiXYtAQS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/69lxxQvsfAIoQbB20bEPFC",
+    "id" : "69lxxQvsfAIoQbB20bEPFC",
+    "name" : "Philip Glass",
+    "type" : "artist",
+    "uri" : "spotify:artist:69lxxQvsfAIoQbB20bEPFC"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/400JXdqRhBKf0A6qNoLCSJ",
+    "id" : "400JXdqRhBKf0A6qNoLCSJ",
+    "name" : "Bruce Brubaker",
+    "type" : "artist",
+    "uri" : "spotify:artist:400JXdqRhBKf0A6qNoLCSJ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 387490,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRT091400007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4iDCHDK1PPIvs3IZsTcWgY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4iDCHDK1PPIvs3IZsTcWgY",
+  "id" : "4iDCHDK1PPIvs3IZsTcWgY",
+  "name" : "Metamorphosis 1",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fb44e3cf0f76cbb2c747b11ff3842900ced65939?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4iDCHDK1PPIvs3IZsTcWgY"
+}

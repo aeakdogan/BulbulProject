@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3S6gaE89XewFAvZqsMuJDJ",
+      "id" : "3S6gaE89XewFAvZqsMuJDJ",
+      "name" : "Norm Ender",
+      "type" : "artist",
+      "uri" : "spotify:artist:3S6gaE89XewFAvZqsMuJDJ"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6D0FQ3cH3klqXsTN1qVbQX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6D0FQ3cH3klqXsTN1qVbQX",
+    "id" : "6D0FQ3cH3klqXsTN1qVbQX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/93721cbb72a10849856268a5a4d44f2801816bc3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/43471bd5f89b3b42b71d4fa15b577f44e0d22e75",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cabab2485116ce047ba055ebffccab169f2b99b8",
+      "width" : 64
+    } ],
+    "name" : "Aura",
+    "type" : "album",
+    "uri" : "spotify:album:6D0FQ3cH3klqXsTN1qVbQX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3S6gaE89XewFAvZqsMuJDJ",
+    "id" : "3S6gaE89XewFAvZqsMuJDJ",
+    "name" : "Norm Ender",
+    "type" : "artist",
+    "uri" : "spotify:artist:3S6gaE89XewFAvZqsMuJDJ"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 205429,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "TRUM71600046"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7E9dMvw48AbqaLH4dp2DMz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7E9dMvw48AbqaLH4dp2DMz",
+  "id" : "7E9dMvw48AbqaLH4dp2DMz",
+  "name" : "O Zaman Dans",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/28797600eb784caccd09f781bb15dacc72f710d6?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:7E9dMvw48AbqaLH4dp2DMz"
+}

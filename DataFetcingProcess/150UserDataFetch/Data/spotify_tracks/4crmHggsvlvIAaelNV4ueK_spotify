@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3MM8mtgFzaEJsqbjZBSsHJ",
+      "id" : "3MM8mtgFzaEJsqbjZBSsHJ",
+      "name" : "Bloc Party",
+      "type" : "artist",
+      "uri" : "spotify:artist:3MM8mtgFzaEJsqbjZBSsHJ"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5qGqM14bpZCa1qQ7jt5W7R",
+    "id" : "5qGqM14bpZCa1qQ7jt5W7R",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1f620b7c0646fcda028d79e825342454321d0bb9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d1b82bde37a3e2b94fbdd91b587f1f6c5d18d695",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/35e938962414e4c2009c8f4875e34b7abc5b6465",
+      "width" : 64
+    } ],
+    "name" : "A Weekend In The City (Re-release)",
+    "type" : "album",
+    "uri" : "spotify:album:5qGqM14bpZCa1qQ7jt5W7R"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3MM8mtgFzaEJsqbjZBSsHJ",
+    "id" : "3MM8mtgFzaEJsqbjZBSsHJ",
+    "name" : "Bloc Party",
+    "type" : "artist",
+    "uri" : "spotify:artist:3MM8mtgFzaEJsqbjZBSsHJ"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 325120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDNH0600852"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4crmHggsvlvIAaelNV4ueK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4crmHggsvlvIAaelNV4ueK",
+  "id" : "4crmHggsvlvIAaelNV4ueK",
+  "name" : "Kreuzberg",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/96c6eccd039be36f4c7469298d9941f7f624670e?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:4crmHggsvlvIAaelNV4ueK"
+}

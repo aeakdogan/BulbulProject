@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3dmSPhg0tdao8ePj4pySJ5",
+      "id" : "3dmSPhg0tdao8ePj4pySJ5",
+      "name" : "Tindersticks",
+      "type" : "artist",
+      "uri" : "spotify:artist:3dmSPhg0tdao8ePj4pySJ5"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1h5RPHMghpcUh5wz6jvkqg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1h5RPHMghpcUh5wz6jvkqg",
+    "id" : "1h5RPHMghpcUh5wz6jvkqg",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/6370dfec57fa7512c13424e3a2061bb35e874589",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/5cc5c24232d33c00fb57f1cb744aa8da3ddf6e87",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/a2471eed086a825dbc566eefb6c5117e050e8b93",
+      "width" : 64
+    } ],
+    "name" : "Tindersticks (2nd album)",
+    "type" : "album",
+    "uri" : "spotify:album:1h5RPHMghpcUh5wz6jvkqg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3dmSPhg0tdao8ePj4pySJ5",
+    "id" : "3dmSPhg0tdao8ePj4pySJ5",
+    "name" : "Tindersticks",
+    "type" : "artist",
+    "uri" : "spotify:artist:3dmSPhg0tdao8ePj4pySJ5"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 490733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAUP9400058"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7r0s35m2DRdwjECMEKMLMw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7r0s35m2DRdwjECMEKMLMw",
+  "id" : "7r0s35m2DRdwjECMEKMLMw",
+  "name" : "My Sister",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7c6d576d6f08c10b506b2d79cf002e12d9232dc6?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:7r0s35m2DRdwjECMEKMLMw"
+}

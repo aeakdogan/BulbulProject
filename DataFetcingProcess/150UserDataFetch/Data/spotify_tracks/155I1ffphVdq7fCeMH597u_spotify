@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+      "id" : "7t0rwkOPGlDPEhaOcVtOt9",
+      "name" : "The Cranberries",
+      "type" : "artist",
+      "uri" : "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2v9PjvIkQVnyQdtD1iQD7e",
+    "id" : "2v9PjvIkQVnyQdtD1iQD7e",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/5704b0a383e58ca6f24bb3046ce1ab16f6e11796",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/c42d5635908293be66a9357e37e80c424c2dbaca",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab58892a24841b8d0dd4761804ab85b2fb7ebd5b",
+      "width" : 64
+    } ],
+    "name" : "Bury The Hatchet",
+    "type" : "album",
+    "uri" : "spotify:album:2v9PjvIkQVnyQdtD1iQD7e"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+    "id" : "7t0rwkOPGlDPEhaOcVtOt9",
+    "name" : "The Cranberries",
+    "type" : "artist",
+    "uri" : "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 222200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR29900006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/155I1ffphVdq7fCeMH597u"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/155I1ffphVdq7fCeMH597u",
+  "id" : "155I1ffphVdq7fCeMH597u",
+  "name" : "Shattered",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9792aebb78a1eafb97ccc77a1999e1a76d2b189e?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:155I1ffphVdq7fCeMH597u"
+}

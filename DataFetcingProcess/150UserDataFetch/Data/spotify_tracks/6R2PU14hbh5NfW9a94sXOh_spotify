@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yk35uHNQclPXFGFoTU44w",
+      "id" : "7yk35uHNQclPXFGFoTU44w",
+      "name" : "The Pharcyde",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yk35uHNQclPXFGFoTU44w"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/25TUVygHpPTMBO4qq22MI0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/25TUVygHpPTMBO4qq22MI0",
+    "id" : "25TUVygHpPTMBO4qq22MI0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/206559319acf78e4f6d645e6640cc2fa033d1f4c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5693e7d6016d866792b4cd578ce2357ce72dfcc8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/316eb912a2b027544aa780c62a086b3c024637fa",
+      "width" : 64
+    } ],
+    "name" : "Labcabincalifornia",
+    "type" : "album",
+    "uri" : "spotify:album:25TUVygHpPTMBO4qq22MI0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7yk35uHNQclPXFGFoTU44w",
+    "id" : "7yk35uHNQclPXFGFoTU44w",
+    "name" : "The Pharcyde",
+    "type" : "artist",
+    "uri" : "spotify:artist:7yk35uHNQclPXFGFoTU44w"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 91333,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USA370507670"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6R2PU14hbh5NfW9a94sXOh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6R2PU14hbh5NfW9a94sXOh",
+  "id" : "6R2PU14hbh5NfW9a94sXOh",
+  "name" : "Little D",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e5db81ca2dae5286f36f1399d812704c68bf785e?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:6R2PU14hbh5NfW9a94sXOh"
+}

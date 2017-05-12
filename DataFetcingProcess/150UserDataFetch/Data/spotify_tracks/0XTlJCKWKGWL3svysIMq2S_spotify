@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7tuBWiixe5LwMEGlrfGSrv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7tuBWiixe5LwMEGlrfGSrv",
+      "id" : "7tuBWiixe5LwMEGlrfGSrv",
+      "name" : "Wise Blood",
+      "type" : "artist",
+      "uri" : "spotify:artist:7tuBWiixe5LwMEGlrfGSrv"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0jiXkFUEu8QfEAUSs7MJco"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0jiXkFUEu8QfEAUSs7MJco",
+    "id" : "0jiXkFUEu8QfEAUSs7MJco",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/db2bc1ec52e8b1c83372599c36f0d6c42fea9055",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/202270736070831415314d794666f6b4ea459196",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fc156e4196424d8b6ddb71c6630e318fe3964c9b",
+      "width" : 64
+    } ],
+    "name" : "These Wings",
+    "type" : "album",
+    "uri" : "spotify:album:0jiXkFUEu8QfEAUSs7MJco"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7tuBWiixe5LwMEGlrfGSrv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7tuBWiixe5LwMEGlrfGSrv",
+    "id" : "7tuBWiixe5LwMEGlrfGSrv",
+    "name" : "Wise Blood",
+    "type" : "artist",
+    "uri" : "spotify:artist:7tuBWiixe5LwMEGlrfGSrv"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 168306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USH9B1100040"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0XTlJCKWKGWL3svysIMq2S"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0XTlJCKWKGWL3svysIMq2S",
+  "id" : "0XTlJCKWKGWL3svysIMq2S",
+  "name" : "Nosferatu",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/050b111269d6bfcb81f5d2cbeda3dd74e95099a4?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0XTlJCKWKGWL3svysIMq2S"
+}

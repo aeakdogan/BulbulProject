@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+      "id" : "7mlge4peaoNgzTsY6M32RB",
+      "name" : "Marianne Faithfull",
+      "type" : "artist",
+      "uri" : "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/14g5YLUmzu27Rowd4DulUb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/14g5YLUmzu27Rowd4DulUb",
+    "id" : "14g5YLUmzu27Rowd4DulUb",
+    "images" : [ {
+      "height" : 639,
+      "url" : "https://i.scdn.co/image/3ea7cc23f8659dbd8829e0f688b1bc0058ddec95",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/557b30befe4d12f02dd2f0599c90daece8e029a3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/79f0d66f4f147f14f6dec88e737dee5ec69d27a7",
+      "width" : 64
+    } ],
+    "name" : "The Best Of Marianne Faithfull 20th Century Masters The Millennium Collection",
+    "type" : "album",
+    "uri" : "spotify:album:14g5YLUmzu27Rowd4DulUb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+    "id" : "7mlge4peaoNgzTsY6M32RB",
+    "name" : "Marianne Faithfull",
+    "type" : "artist",
+    "uri" : "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 224000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR29400396"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3LhdKSLiXz2z025iNykRpl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3LhdKSLiXz2z025iNykRpl",
+  "id" : "3LhdKSLiXz2z025iNykRpl",
+  "name" : "Ghost Dance",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/19ac29f91c1e0082be3bd02b1b7f3b9c2b5c6d06?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:3LhdKSLiXz2z025iNykRpl"
+}

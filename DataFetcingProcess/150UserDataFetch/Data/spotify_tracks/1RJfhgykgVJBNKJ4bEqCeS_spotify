@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1xUhNgw4eJDZfvumIpcz1B",
+      "id" : "1xUhNgw4eJDZfvumIpcz1B",
+      "name" : "Children Of Bodom",
+      "type" : "artist",
+      "uri" : "spotify:artist:1xUhNgw4eJDZfvumIpcz1B"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3XoY2CTmKFB0MdlKAOnXau"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3XoY2CTmKFB0MdlKAOnXau",
+    "id" : "3XoY2CTmKFB0MdlKAOnXau",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ed8ddfb4acd3f7ceae01ffbd9feb9f6d61e47bad",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6e0ab14b0a4385c94c063b275057945d153e3af5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/39fbd54076c228d458e5ae34f38b9fea01c23a4b",
+      "width" : 64
+    } ],
+    "name" : "Holiday At Lake Bodom, 15 Years of Wasted Youth",
+    "type" : "album",
+    "uri" : "spotify:album:3XoY2CTmKFB0MdlKAOnXau"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1xUhNgw4eJDZfvumIpcz1B",
+    "id" : "1xUhNgw4eJDZfvumIpcz1B",
+    "name" : "Children Of Bodom",
+    "type" : "artist",
+    "uri" : "spotify:artist:1xUhNgw4eJDZfvumIpcz1B"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FISFS0500157"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1RJfhgykgVJBNKJ4bEqCeS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1RJfhgykgVJBNKJ4bEqCeS",
+  "id" : "1RJfhgykgVJBNKJ4bEqCeS",
+  "name" : "Are You Dead Yet",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d437143a0ac767ab03dd541ef55484eb6727b7e2?cid=null",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:1RJfhgykgVJBNKJ4bEqCeS"
+}

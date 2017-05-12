@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+      "id" : "4gzpq5DPGxSnKTe4SA8HAU",
+      "name" : "Coldplay",
+      "type" : "artist",
+      "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1As5m9qcOZtuFzdlzCkrzI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1As5m9qcOZtuFzdlzCkrzI",
+    "id" : "1As5m9qcOZtuFzdlzCkrzI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8822f8c6f094dc56f3e8dd7f28ee8a735a221d52",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/29f95a5ca9bfb1813720e464cc90d5cdce3a7971",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/76326fb0808861314de166edc56e2b7b345d1cdd",
+      "width" : 64
+    } ],
+    "name" : "Brothers & Sisters",
+    "type" : "album",
+    "uri" : "spotify:album:1As5m9qcOZtuFzdlzCkrzI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+    "id" : "4gzpq5DPGxSnKTe4SA8HAU",
+    "name" : "Coldplay",
+    "type" : "artist",
+    "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 181960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA560440699"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6KHZ9SElsSmjQI7B9D0e4P"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6KHZ9SElsSmjQI7B9D0e4P",
+  "id" : "6KHZ9SElsSmjQI7B9D0e4P",
+  "name" : "Easy To Please",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c2d0fb408cf902fc68a27e3dc898b1fe5a788357?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6KHZ9SElsSmjQI7B9D0e4P"
+}

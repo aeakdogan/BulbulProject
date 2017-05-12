@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1qcU8NabUQ5efQf8UGW6CV",
+      "id" : "1qcU8NabUQ5efQf8UGW6CV",
+      "name" : "The Whitest Boy Alive",
+      "type" : "artist",
+      "uri" : "spotify:artist:1qcU8NabUQ5efQf8UGW6CV"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/422pW8gJCF3flJ32Uimywj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/422pW8gJCF3flJ32Uimywj",
+    "id" : "422pW8gJCF3flJ32Uimywj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/121d70769f574338ef8b81fcc21a236bb102562b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1593c8df6f8d4ea8e47e162a962b85664448e7ee",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1b8a613c1d5b60e4aafed8cc46d11f1dbe4bf744",
+      "width" : 64
+    } ],
+    "name" : "Rules",
+    "type" : "album",
+    "uri" : "spotify:album:422pW8gJCF3flJ32Uimywj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1qcU8NabUQ5efQf8UGW6CV",
+    "id" : "1qcU8NabUQ5efQf8UGW6CV",
+    "name" : "The Whitest Boy Alive",
+    "type" : "artist",
+    "uri" : "spotify:artist:1qcU8NabUQ5efQf8UGW6CV"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 200213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEKM50902006"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3ksQ4poca5YvW3pLcXptyg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3ksQ4poca5YvW3pLcXptyg",
+  "id" : "3ksQ4poca5YvW3pLcXptyg",
+  "name" : "High On The Heels",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d472b637ebce34b4f2b835863257df99ac4dc629?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3ksQ4poca5YvW3pLcXptyg"
+}

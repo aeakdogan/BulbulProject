@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0MkAzpDHUZpuDnWGUII4RN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0MkAzpDHUZpuDnWGUII4RN",
+      "id" : "0MkAzpDHUZpuDnWGUII4RN",
+      "name" : "The Appleseed Cast",
+      "type" : "artist",
+      "uri" : "spotify:artist:0MkAzpDHUZpuDnWGUII4RN"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2ShQDtkDQP458eMcULWHQb"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2ShQDtkDQP458eMcULWHQb",
+    "id" : "2ShQDtkDQP458eMcULWHQb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/818fc47df19fd1268aef3865bbc59ef00bd64b73",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8563e21b5230f5d91eb45815df6b746528979b83",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dab919755639cefbcaa0cd3778bfc9667678fd45",
+      "width" : 64
+    } ],
+    "name" : "Sagarmatha",
+    "type" : "album",
+    "uri" : "spotify:album:2ShQDtkDQP458eMcULWHQb"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0MkAzpDHUZpuDnWGUII4RN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0MkAzpDHUZpuDnWGUII4RN",
+    "id" : "0MkAzpDHUZpuDnWGUII4RN",
+    "name" : "The Appleseed Cast",
+    "type" : "artist",
+    "uri" : "spotify:artist:0MkAzpDHUZpuDnWGUII4RN"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 386866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US7WZ1100061"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6Iil3xFYPIkcWbnSB53iXp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6Iil3xFYPIkcWbnSB53iXp",
+  "id" : "6Iil3xFYPIkcWbnSB53iXp",
+  "name" : "Raise the Sails",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ec1b76232271058f9c6fa37bdb2228a115f50a0a?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6Iil3xFYPIkcWbnSB53iXp"
+}

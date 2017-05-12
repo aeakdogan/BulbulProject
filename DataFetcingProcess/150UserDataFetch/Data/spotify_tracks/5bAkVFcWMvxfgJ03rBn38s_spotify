@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0mpFXzm8CkqkhvN4PLCYkV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0mpFXzm8CkqkhvN4PLCYkV",
+      "id" : "0mpFXzm8CkqkhvN4PLCYkV",
+      "name" : "Chachi",
+      "type" : "artist",
+      "uri" : "spotify:artist:0mpFXzm8CkqkhvN4PLCYkV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Z99ysbztLlZqmYK3urV7w",
+      "id" : "4Z99ysbztLlZqmYK3urV7w",
+      "name" : "Paige",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Z99ysbztLlZqmYK3urV7w"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0XywQVB10g0VwSZi9FXLp9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0XywQVB10g0VwSZi9FXLp9",
+    "id" : "0XywQVB10g0VwSZi9FXLp9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d6367cf62192ecd717ffc3433888ee406e3a926f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5296c3571c590294bc709dba168450d19a88f781",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e89cefcb7e0a959abfdbd6ee99fed7944f5a8130",
+      "width" : 64
+    } ],
+    "name" : "Land Down Under",
+    "type" : "album",
+    "uri" : "spotify:album:0XywQVB10g0VwSZi9FXLp9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0mpFXzm8CkqkhvN4PLCYkV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0mpFXzm8CkqkhvN4PLCYkV",
+    "id" : "0mpFXzm8CkqkhvN4PLCYkV",
+    "name" : "Chachi",
+    "type" : "artist",
+    "uri" : "spotify:artist:0mpFXzm8CkqkhvN4PLCYkV"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4Z99ysbztLlZqmYK3urV7w",
+    "id" : "4Z99ysbztLlZqmYK3urV7w",
+    "name" : "Paige",
+    "type" : "artist",
+    "uri" : "spotify:artist:4Z99ysbztLlZqmYK3urV7w"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 213707,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLZ541500238"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5bAkVFcWMvxfgJ03rBn38s"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5bAkVFcWMvxfgJ03rBn38s",
+  "id" : "5bAkVFcWMvxfgJ03rBn38s",
+  "name" : "Land Down Under",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/86eca6fcb1157f21de9f658c0d65358f32b95350?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5bAkVFcWMvxfgJ03rBn38s"
+}

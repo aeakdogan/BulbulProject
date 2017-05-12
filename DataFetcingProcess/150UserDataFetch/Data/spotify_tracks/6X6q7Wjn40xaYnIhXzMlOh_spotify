@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6dAtGAnHCQ1ujMUZ9Ep82k",
+      "id" : "6dAtGAnHCQ1ujMUZ9Ep82k",
+      "name" : "Grant Green",
+      "type" : "artist",
+      "uri" : "spotify:artist:6dAtGAnHCQ1ujMUZ9Ep82k"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1RmoKOfLnMAafzhWRJCI8q",
+    "id" : "1RmoKOfLnMAafzhWRJCI8q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/df3187bca21b4ee97369a49c76d02d2fb50b2c78",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8862baf56d363f51f4cb713c503ae4d9cda810dd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5208d4084cf4742a98d347fa6be6393fef8704d8",
+      "width" : 64
+    } ],
+    "name" : "Green Street",
+    "type" : "album",
+    "uri" : "spotify:album:1RmoKOfLnMAafzhWRJCI8q"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6dAtGAnHCQ1ujMUZ9Ep82k",
+    "id" : "6dAtGAnHCQ1ujMUZ9Ep82k",
+    "name" : "Grant Green",
+    "type" : "artist",
+    "uri" : "spotify:artist:6dAtGAnHCQ1ujMUZ9Ep82k"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 423866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN20200139"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6X6q7Wjn40xaYnIhXzMlOh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6X6q7Wjn40xaYnIhXzMlOh",
+  "id" : "6X6q7Wjn40xaYnIhXzMlOh",
+  "name" : "'Round About Midnight - 2002 Digital Remaster",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a4b8869f3c3688cca075f4e82d7081aee4350325?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6X6q7Wjn40xaYnIhXzMlOh"
+}

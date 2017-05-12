@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2O8QAJmRrwkFXq2aWZnHYB",
+      "id" : "2O8QAJmRrwkFXq2aWZnHYB",
+      "name" : "Shannon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2O8QAJmRrwkFXq2aWZnHYB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4cj641XM0e3LcGSTWr2oEV",
+    "id" : "4cj641XM0e3LcGSTWr2oEV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6c7a522c2f1afd6b8d73bd87fb9e99d125e4a4f6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/26be953672d8d4dba50daef61cc782e9a4c887d1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/14a2e2c119160ade8b8a89fb3a906d1105d9b968",
+      "width" : 64
+    } ],
+    "name" : "The Best Is Yet To Come",
+    "type" : "album",
+    "uri" : "spotify:album:4cj641XM0e3LcGSTWr2oEV"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2O8QAJmRrwkFXq2aWZnHYB",
+    "id" : "2O8QAJmRrwkFXq2aWZnHYB",
+    "name" : "Shannon",
+    "type" : "artist",
+    "uri" : "spotify:artist:2O8QAJmRrwkFXq2aWZnHYB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 216000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2P0505202"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4d8Bqtm7ODdQLFXxPSuK64",
+  "id" : "4d8Bqtm7ODdQLFXxPSuK64",
+  "name" : "Let The Music Play",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0108e3928f6a7d5a9de4238c6099fc11e8f0a94b?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:4d8Bqtm7ODdQLFXxPSuK64"
+}

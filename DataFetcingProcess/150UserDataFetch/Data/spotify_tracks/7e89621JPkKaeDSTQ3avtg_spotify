@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4MVyzYMgTwdP7Z49wAZHx0",
+      "id" : "4MVyzYMgTwdP7Z49wAZHx0",
+      "name" : "Lynyrd Skynyrd",
+      "type" : "artist",
+      "uri" : "spotify:artist:4MVyzYMgTwdP7Z49wAZHx0"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+    },
+    "href" : "https://api.spotify.com/v1/albums/54V1ljNtyzAm053oJqi0SH",
+    "id" : "54V1ljNtyzAm053oJqi0SH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1b4fb0428ec234d416b1794e7e072db64be10dea",
+      "width" : 621
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9beadedc75936dd39be9b0202baa95bdc8fd9a99",
+      "width" : 291
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0721aa99049fcd7f6e6f0515e2d6a842f8e2cd82",
+      "width" : 62
+    } ],
+    "name" : "Second Helping",
+    "type" : "album",
+    "uri" : "spotify:album:54V1ljNtyzAm053oJqi0SH"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4MVyzYMgTwdP7Z49wAZHx0",
+    "id" : "4MVyzYMgTwdP7Z49wAZHx0",
+    "name" : "Lynyrd Skynyrd",
+    "type" : "artist",
+    "uri" : "spotify:artist:4MVyzYMgTwdP7Z49wAZHx0"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 283800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC17446153"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7e89621JPkKaeDSTQ3avtg",
+  "id" : "7e89621JPkKaeDSTQ3avtg",
+  "name" : "Sweet Home Alabama",
+  "popularity" : 68,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2b1f21a861bafb24091bd955cdf79ba8ece034d7?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7e89621JPkKaeDSTQ3avtg"
+}

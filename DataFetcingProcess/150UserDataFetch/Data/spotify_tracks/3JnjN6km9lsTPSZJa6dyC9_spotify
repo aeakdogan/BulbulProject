@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2rBcvLKWCZs9w1qIWv560v",
+      "id" : "2rBcvLKWCZs9w1qIWv560v",
+      "name" : "Charlotte Gainsbourg",
+      "type" : "artist",
+      "uri" : "spotify:artist:2rBcvLKWCZs9w1qIWv560v"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4kUNkc7i3s3HHWEZvR5qgq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4kUNkc7i3s3HHWEZvR5qgq",
+    "id" : "4kUNkc7i3s3HHWEZvR5qgq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0e6af348a93c191a39a051b4e0a0f9046b2d451d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bc5729ec048dac6f4b90a770a2e068cff44761e0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7f9ea82b8be205c3a5f42aef407526038444712b",
+      "width" : 64
+    } ],
+    "name" : "5:55",
+    "type" : "album",
+    "uri" : "spotify:album:4kUNkc7i3s3HHWEZvR5qgq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2rBcvLKWCZs9w1qIWv560v",
+    "id" : "2rBcvLKWCZs9w1qIWv560v",
+    "name" : "Charlotte Gainsbourg",
+    "type" : "artist",
+    "uri" : "spotify:artist:2rBcvLKWCZs9w1qIWv560v"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 292226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR6P10600100"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3JnjN6km9lsTPSZJa6dyC9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3JnjN6km9lsTPSZJa6dyC9",
+  "id" : "3JnjN6km9lsTPSZJa6dyC9",
+  "name" : "5:55",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d6a097bfc06d06f4ec0ab03115cd65c068f6e9bc?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3JnjN6km9lsTPSZJa6dyC9"
+}

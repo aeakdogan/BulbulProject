@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2bBl9eQ2H5TAMX1bytrqJT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2bBl9eQ2H5TAMX1bytrqJT",
+    "id" : "2bBl9eQ2H5TAMX1bytrqJT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dc7e3a22792c52f4b3d78b61943b8c3266a60dde",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/dd615a9168b825dc9487bf7d9b96c1dbedf28a87",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3d1130a32655d4ed8727eee5e48704ca4f58a429",
+      "width" : 64
+    } ],
+    "name" : "Spectral Sound Vol. 1",
+    "type" : "album",
+    "uri" : "spotify:album:2bBl9eQ2H5TAMX1bytrqJT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2kSdN6nN2KC4Lz0F4soiU2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2kSdN6nN2KC4Lz0F4soiU2",
+    "id" : "2kSdN6nN2KC4Lz0F4soiU2",
+    "name" : "Jeff Samuel",
+    "type" : "artist",
+    "uri" : "spotify:artist:2kSdN6nN2KC4Lz0F4soiU2"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 393160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2J70512509"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/01NPUG429ZirEk0rSxyoQi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/01NPUG429ZirEk0rSxyoQi",
+  "id" : "01NPUG429ZirEk0rSxyoQi",
+  "name" : "HeB. GBz",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f6a6ccfbca450478a9b96732ab2b17576f0f5295?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:01NPUG429ZirEk0rSxyoQi"
+}

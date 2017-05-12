@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ozUXaDjc4mfVyDIWCJH4E",
+      "id" : "5ozUXaDjc4mfVyDIWCJH4E",
+      "name" : "Little Barrie",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ozUXaDjc4mfVyDIWCJH4E"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6xwZAL2wM3t3yHKAmZxsmi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6xwZAL2wM3t3yHKAmZxsmi",
+    "id" : "6xwZAL2wM3t3yHKAmZxsmi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6c5ad10518483d1ceb531c1ae23d5512f3133df3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/004bb720c46787b37d7d0595b3edff3324393ac3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4bb33b7f856cb5ad12e6f13acdf434f37a30ef89",
+      "width" : 64
+    } ],
+    "name" : "Stand Your Ground",
+    "type" : "album",
+    "uri" : "spotify:album:6xwZAL2wM3t3yHKAmZxsmi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5ozUXaDjc4mfVyDIWCJH4E",
+    "id" : "5ozUXaDjc4mfVyDIWCJH4E",
+    "name" : "Little Barrie",
+    "type" : "artist",
+    "uri" : "spotify:artist:5ozUXaDjc4mfVyDIWCJH4E"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 190866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBENL0600644"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1e9UnjTBIssbz5SH9sgqLS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1e9UnjTBIssbz5SH9sgqLS",
+  "id" : "1e9UnjTBIssbz5SH9sgqLS",
+  "name" : "Why Don't You Do It",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d1082f1b58145bef2ba50e581082a5e55b9d7e8c?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1e9UnjTBIssbz5SH9sgqLS"
+}

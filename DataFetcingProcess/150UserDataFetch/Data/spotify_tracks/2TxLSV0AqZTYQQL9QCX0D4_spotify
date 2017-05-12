@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+      "id" : "26dSoYclwsYLMAKD3tpOr4",
+      "name" : "Britney Spears",
+      "type" : "artist",
+      "uri" : "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/574xhx2X0G9MkqACxqi4cg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/574xhx2X0G9MkqACxqi4cg",
+    "id" : "574xhx2X0G9MkqACxqi4cg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9fb853ac7e56183a835366513aee6985f7991e50",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/61a0fbdd9233b654c223767c7f361cb3ac01080d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2b830ad5c15f131ef854e3ada3554b8fcb8ff1ac",
+      "width" : 64
+    } ],
+    "name" : "Greatest Hits: My Prerogative",
+    "type" : "album",
+    "uri" : "spotify:album:574xhx2X0G9MkqACxqi4cg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+    "id" : "26dSoYclwsYLMAKD3tpOr4",
+    "name" : "Britney Spears",
+    "type" : "artist",
+    "uri" : "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 213893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJI10400852"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2TxLSV0AqZTYQQL9QCX0D4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2TxLSV0AqZTYQQL9QCX0D4",
+  "id" : "2TxLSV0AqZTYQQL9QCX0D4",
+  "name" : "My Prerogative",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7db72fc57d3d46b0c6de805179e6a0371a5131bf?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2TxLSV0AqZTYQQL9QCX0D4"
+}

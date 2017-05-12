@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Q776wzj2mrtXrNu3iH6nk",
+      "id" : "1Q776wzj2mrtXrNu3iH6nk",
+      "name" : "Archive",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Q776wzj2mrtXrNu3iH6nk"
+    } ],
+    "available_markets" : [ "AU", "CA", "GB", "IE", "JP", "MX", "NZ", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6sfVOzxKGkjE9KOBJoQ1pQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6sfVOzxKGkjE9KOBJoQ1pQ",
+    "id" : "6sfVOzxKGkjE9KOBJoQ1pQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1a3c94998fb49a61e8dc892c81765559266cd496",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a0b3c61ece602b8f075e6ac1adce598e355c1cda",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ed40be043f01a92871ee47986509695b226ef69c",
+      "width" : 64
+    } ],
+    "name" : "Controlling Crowds (Part IV)",
+    "type" : "album",
+    "uri" : "spotify:album:6sfVOzxKGkjE9KOBJoQ1pQ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Q776wzj2mrtXrNu3iH6nk",
+    "id" : "1Q776wzj2mrtXrNu3iH6nk",
+    "name" : "Archive",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Q776wzj2mrtXrNu3iH6nk"
+  } ],
+  "available_markets" : [ "AU", "CA", "GB", "IE", "JP", "MX", "NZ", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 234840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEYA0800135"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7MdQ7l36MFgIyHGYPdJM36"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7MdQ7l36MFgIyHGYPdJM36",
+  "id" : "7MdQ7l36MFgIyHGYPdJM36",
+  "name" : "Pictures",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7dcebca0f7c1bb7bcaf72c40b487fda11adfeb28?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:7MdQ7l36MFgIyHGYPdJM36"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6XpaIBNiVzIetEPCWDvAFP",
+      "id" : "6XpaIBNiVzIetEPCWDvAFP",
+      "name" : "Whitney Houston",
+      "type" : "artist",
+      "uri" : "spotify:artist:6XpaIBNiVzIetEPCWDvAFP"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5LaUUDnUTySWnJLj1xiBnw",
+    "id" : "5LaUUDnUTySWnJLj1xiBnw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0221a0a50f3b59dda67fcbfd050614c246dd78bd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/be94093ed344b2edac120ce8188312e5b53c2264",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9ff8dd19eec25200b915f40f273795fe7c013e74",
+      "width" : 64
+    } ],
+    "name" : "I'm Your Baby Tonight",
+    "type" : "album",
+    "uri" : "spotify:album:5LaUUDnUTySWnJLj1xiBnw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6XpaIBNiVzIetEPCWDvAFP",
+    "id" : "6XpaIBNiVzIetEPCWDvAFP",
+    "name" : "Whitney Houston",
+    "type" : "artist",
+    "uri" : "spotify:artist:6XpaIBNiVzIetEPCWDvAFP"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 248906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR19000121"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/07M76e7IXxYdnC1BBiJxEX",
+  "id" : "07M76e7IXxYdnC1BBiJxEX",
+  "name" : "All The Man That I Need",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d44d85211f4628e643b02b87b0ab919f783e9053?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:07M76e7IXxYdnC1BBiJxEX"
+}

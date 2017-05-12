@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+      "id" : "7rN3Agir6FaZNfhf5V7mfN",
+      "name" : "John Frusciante",
+      "type" : "artist",
+      "uri" : "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1EkDDSzpRXubBm5VQyFrTe"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1EkDDSzpRXubBm5VQyFrTe",
+    "id" : "1EkDDSzpRXubBm5VQyFrTe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ac632ce3513077a976f71476617d194cd47cc100",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8e8c34c7e8af55d3a22c005e26dc5660780d2626",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b5f65fe7e576a1da228de120594869ddb97b8073",
+      "width" : 64
+    } ],
+    "name" : "Curtains",
+    "type" : "album",
+    "uri" : "spotify:album:1EkDDSzpRXubBm5VQyFrTe"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+    "id" : "7rN3Agir6FaZNfhf5V7mfN",
+    "name" : "John Frusciante",
+    "type" : "artist",
+    "uri" : "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 233693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC20400098"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6UJyU6gBWdE2oTzuPJODNG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6UJyU6gBWdE2oTzuPJODNG",
+  "id" : "6UJyU6gBWdE2oTzuPJODNG",
+  "name" : "The Past Recedes",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/53915f2b660ccbd075b0f5845c9824ca33e1dec3?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6UJyU6gBWdE2oTzuPJODNG"
+}

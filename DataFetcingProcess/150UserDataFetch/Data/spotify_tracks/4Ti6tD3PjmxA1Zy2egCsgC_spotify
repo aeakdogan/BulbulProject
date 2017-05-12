@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY",
+      "id" : "2SHhfs4BiDxGQ3oxqf0UHY",
+      "name" : "Roxette",
+      "type" : "artist",
+      "uri" : "spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6SzgQ8gDjo3OFZF38joUp0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6SzgQ8gDjo3OFZF38joUp0",
+    "id" : "6SzgQ8gDjo3OFZF38joUp0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/635db0e11118051c826e15cf799125823cad606e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cd8b0fc988c00adc55c9bd00a5e98bb430cca786",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/224df3adc8a6f2e61383e87dd957bbbef5e62ac9",
+      "width" : 64
+    } ],
+    "name" : "Room Service",
+    "type" : "album",
+    "uri" : "spotify:album:6SzgQ8gDjo3OFZF38joUp0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY",
+    "id" : "2SHhfs4BiDxGQ3oxqf0UHY",
+    "name" : "Roxette",
+    "type" : "artist",
+    "uri" : "spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 232306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SEVEV0101100"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Ti6tD3PjmxA1Zy2egCsgC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Ti6tD3PjmxA1Zy2egCsgC",
+  "id" : "4Ti6tD3PjmxA1Zy2egCsgC",
+  "name" : "Fool",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/495e963e77c017ccaef578127210c0ab27d8e2b5?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:4Ti6tD3PjmxA1Zy2egCsgC"
+}

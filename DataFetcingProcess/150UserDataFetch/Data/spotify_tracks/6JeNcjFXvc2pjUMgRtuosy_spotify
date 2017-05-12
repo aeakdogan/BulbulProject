@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ns6XAOsw4B0nDUIovAOUO",
+      "id" : "6ns6XAOsw4B0nDUIovAOUO",
+      "name" : "GZA",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ns6XAOsw4B0nDUIovAOUO"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4QMKELvG0VNODbiFigj4K9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4QMKELvG0VNODbiFigj4K9",
+    "id" : "4QMKELvG0VNODbiFigj4K9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bc7cecb262168eed02b526e05d8be13b3400e613",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/53fb5587c0612423fcf77c3bad776b57e7e6087f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fdc42a464a911e781876058593f054c1b1afbffb",
+      "width" : 64
+    } ],
+    "name" : "Beneath The Surface",
+    "type" : "album",
+    "uri" : "spotify:album:4QMKELvG0VNODbiFigj4K9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6ns6XAOsw4B0nDUIovAOUO",
+    "id" : "6ns6XAOsw4B0nDUIovAOUO",
+    "name" : "GZA",
+    "type" : "artist",
+    "uri" : "spotify:artist:6ns6XAOsw4B0nDUIovAOUO"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 218200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMC19959112"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6JeNcjFXvc2pjUMgRtuosy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6JeNcjFXvc2pjUMgRtuosy",
+  "id" : "6JeNcjFXvc2pjUMgRtuosy",
+  "name" : "Breaker, Breaker",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b180ff33fbbf64acb69cc7c0550a9af8bd3c29d0?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:6JeNcjFXvc2pjUMgRtuosy"
+}

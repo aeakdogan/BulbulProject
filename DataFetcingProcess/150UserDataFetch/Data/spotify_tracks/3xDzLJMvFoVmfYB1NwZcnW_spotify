@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Q776wzj2mrtXrNu3iH6nk",
+      "id" : "1Q776wzj2mrtXrNu3iH6nk",
+      "name" : "Archive",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Q776wzj2mrtXrNu3iH6nk"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0hiS5XSQFh2GI7mONq2L94"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0hiS5XSQFh2GI7mONq2L94",
+    "id" : "0hiS5XSQFh2GI7mONq2L94",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/df1444f89778920b12563c265ff969fa23d64d23",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/89a33a63e887776ae612445f464f030507a6e18a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/916c6417249162485ad000ea1fbe4748f27872ff",
+      "width" : 64
+    } ],
+    "name" : "Restriction",
+    "type" : "album",
+    "uri" : "spotify:album:0hiS5XSQFh2GI7mONq2L94"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1Q776wzj2mrtXrNu3iH6nk",
+    "id" : "1Q776wzj2mrtXrNu3iH6nk",
+    "name" : "Archive",
+    "type" : "artist",
+    "uri" : "spotify:artist:1Q776wzj2mrtXrNu3iH6nk"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 231990,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "UK32S1400359"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3xDzLJMvFoVmfYB1NwZcnW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3xDzLJMvFoVmfYB1NwZcnW",
+  "id" : "3xDzLJMvFoVmfYB1NwZcnW",
+  "name" : "Ruination",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/99d974fdd2f0f1a8d586e955b51b7043fd6a5cb6?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:3xDzLJMvFoVmfYB1NwZcnW"
+}

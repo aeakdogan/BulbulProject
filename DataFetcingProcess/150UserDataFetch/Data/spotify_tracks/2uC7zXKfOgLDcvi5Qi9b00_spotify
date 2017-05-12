@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68g1s6VqLLLBI3tXR0Bb7C"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68g1s6VqLLLBI3tXR0Bb7C",
+      "id" : "68g1s6VqLLLBI3tXR0Bb7C",
+      "name" : "The Asteroids Galaxy Tour",
+      "type" : "artist",
+      "uri" : "spotify:artist:68g1s6VqLLLBI3tXR0Bb7C"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7FUGPkDR2TTylQCGQuZV9M"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7FUGPkDR2TTylQCGQuZV9M",
+    "id" : "7FUGPkDR2TTylQCGQuZV9M",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d9f22826f125e4ad0bfefb28257dcef896d4c9ee",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1d933e977a7d11864fdb0b15eeab38f8a34f069e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f0e69dcb7fb93ab3867967d4c123daf8922fc017",
+      "width" : 64
+    } ],
+    "name" : "Out of Frequency",
+    "type" : "album",
+    "uri" : "spotify:album:7FUGPkDR2TTylQCGQuZV9M"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/68g1s6VqLLLBI3tXR0Bb7C"
+    },
+    "href" : "https://api.spotify.com/v1/artists/68g1s6VqLLLBI3tXR0Bb7C",
+    "id" : "68g1s6VqLLLBI3tXR0Bb7C",
+    "name" : "The Asteroids Galaxy Tour",
+    "type" : "artist",
+    "uri" : "spotify:artist:68g1s6VqLLLBI3tXR0Bb7C"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB5KW1100031"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2uC7zXKfOgLDcvi5Qi9b00"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2uC7zXKfOgLDcvi5Qi9b00",
+  "id" : "2uC7zXKfOgLDcvi5Qi9b00",
+  "name" : "Major",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/72d00cde6cf8e216c64bf11018e497952e04cd30?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2uC7zXKfOgLDcvi5Qi9b00"
+}

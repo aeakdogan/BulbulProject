@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+      "id" : "3VEG6gxFIMfl4Cdog26avS",
+      "name" : "Bill Evans Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3uwufR7PwniMX7t3v4I5oB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3uwufR7PwniMX7t3v4I5oB",
+    "id" : "3uwufR7PwniMX7t3v4I5oB",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/7132432784b6a67c88dfdb6b809b3be1157c6ae1",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/52bd9e90c8aa8902c1073a7cb39199b48fa33f4a",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/c13676dddb3412bba41f3e769cde68973713996b",
+      "width" : 64
+    } ],
+    "name" : "Sunday At The Village Vanguard [Keepnews Collection]",
+    "type" : "album",
+    "uri" : "spotify:album:3uwufR7PwniMX7t3v4I5oB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+    "id" : "3VEG6gxFIMfl4Cdog26avS",
+    "name" : "Bill Evans Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 384880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R0816908"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1wCe7Rl3SRopd2hZxny2Zg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1wCe7Rl3SRopd2hZxny2Zg",
+  "id" : "1wCe7Rl3SRopd2hZxny2Zg",
+  "name" : "My Man's Gone Now",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/50b0ea3ff2fd0bb5ab7d9a4dd4e2d0cf29af00f3?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1wCe7Rl3SRopd2hZxny2Zg"
+}

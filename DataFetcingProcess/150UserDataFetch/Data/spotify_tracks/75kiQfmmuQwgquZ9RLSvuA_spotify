@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+      "id" : "4V8LLVI7PbaPR0K2TGSxFF",
+      "name" : "Tyler, The Creator",
+      "type" : "artist",
+      "uri" : "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/40QTqOBBxCEIQlLNdSjFQB",
+    "id" : "40QTqOBBxCEIQlLNdSjFQB",
+    "images" : [ {
+      "height" : 574,
+      "url" : "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "width" : 640
+    }, {
+      "height" : 269,
+      "url" : "https://i.scdn.co/image/30ab8978adb990daf6b789fba78d64b81bd006b1",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/c8ae055a1efba88d15656ac79de4e5c402a65665",
+      "width" : 64
+    } ],
+    "name" : "Wolf",
+    "type" : "album",
+    "uri" : "spotify:album:40QTqOBBxCEIQlLNdSjFQB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+    "id" : "4V8LLVI7PbaPR0K2TGSxFF",
+    "name" : "Tyler, The Creator",
+    "type" : "artist",
+    "uri" : "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 158760,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USQX91300206"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/75kiQfmmuQwgquZ9RLSvuA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/75kiQfmmuQwgquZ9RLSvuA",
+  "id" : "75kiQfmmuQwgquZ9RLSvuA",
+  "name" : "Domo23",
+  "popularity" : 61,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3c67368ca23a5d3f4dfbc43862f183b4ae8489bd?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:75kiQfmmuQwgquZ9RLSvuA"
+}

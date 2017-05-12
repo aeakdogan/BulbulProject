@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+      "id" : "3VEG6gxFIMfl4Cdog26avS",
+      "name" : "Bill Evans Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3PGsNODk3bl8GYvAtgbBBw",
+    "id" : "3PGsNODk3bl8GYvAtgbBBw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/124a4eb6e01028b4c2a3e16e2f843c68ae5a16e6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8e7df78221f05c6cd726da9717ee1b05491ab32f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7902bd7a1a2ad7d536a57b1c1168229cb78d64dd",
+      "width" : 64
+    } ],
+    "name" : "Explorations [Original Jazz Classics Remasters]",
+    "type" : "album",
+    "uri" : "spotify:album:3PGsNODk3bl8GYvAtgbBBw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3VEG6gxFIMfl4Cdog26avS",
+    "id" : "3VEG6gxFIMfl4Cdog26avS",
+    "name" : "Bill Evans Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:3VEG6gxFIMfl4Cdog26avS"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 366786,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USC4R1116931"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4DLOOs0FmQeEO6BWVxEwpX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4DLOOs0FmQeEO6BWVxEwpX",
+  "id" : "4DLOOs0FmQeEO6BWVxEwpX",
+  "name" : "Beautiful Love (Take 1)",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/41285d6ce4e847dd3a28351fd1e9d67388a08513?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:4DLOOs0FmQeEO6BWVxEwpX"
+}

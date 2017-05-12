@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+      "id" : "3koiLjNrgRTNbOwViDipeA",
+      "name" : "Marvin Gaye",
+      "type" : "artist",
+      "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6AmnVWOxXYucWxgidEgwhy",
+    "id" : "6AmnVWOxXYucWxgidEgwhy",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/9ce1da27292e8ae2d1b4486e336e4adbc2affc3a",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/219f1a1302a48b2373dda84f1e82237f4a98dce0",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/6f4efe6c71831316273f1cd56fc484d96e6784e5",
+      "width" : 64
+    } ],
+    "name" : "Let's Get It On (Remastered w/ Bonus Tracks)",
+    "type" : "album",
+    "uri" : "spotify:album:6AmnVWOxXYucWxgidEgwhy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+    "id" : "3koiLjNrgRTNbOwViDipeA",
+    "name" : "Marvin Gaye",
+    "type" : "artist",
+    "uri" : "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 255986,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO17300042"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Xt3RUiOkiH2pGYtMTVeNS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Xt3RUiOkiH2pGYtMTVeNS",
+  "id" : "5Xt3RUiOkiH2pGYtMTVeNS",
+  "name" : "Distant Lover",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b39ddc72d99a2426697b9a9b1393e6cf1008ca3c?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5Xt3RUiOkiH2pGYtMTVeNS"
+}

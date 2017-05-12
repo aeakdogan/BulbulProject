@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FsVA4kCeWeuzhll2D8HtT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FsVA4kCeWeuzhll2D8HtT",
+      "id" : "2FsVA4kCeWeuzhll2D8HtT",
+      "name" : "Recoil",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FsVA4kCeWeuzhll2D8HtT"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3TplwghFmTTDSfDMQ1gFzG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3TplwghFmTTDSfDMQ1gFzG",
+    "id" : "3TplwghFmTTDSfDMQ1gFzG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9574207a59e2419c371869339a29dc21c37802ec",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/37fa7b096e4e542dd76c421289231c7105d48083",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/699b7077a097f82063c4bc644f91da1edc78e3a9",
+      "width" : 64
+    } ],
+    "name" : "Subhuman",
+    "type" : "album",
+    "uri" : "spotify:album:3TplwghFmTTDSfDMQ1gFzG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2FsVA4kCeWeuzhll2D8HtT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2FsVA4kCeWeuzhll2D8HtT",
+    "id" : "2FsVA4kCeWeuzhll2D8HtT",
+    "name" : "Recoil",
+    "type" : "artist",
+    "uri" : "spotify:artist:2FsVA4kCeWeuzhll2D8HtT"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 595680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0700274"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4TO703ZoI5BBF9VwLoatq7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4TO703ZoI5BBF9VwLoatq7",
+  "id" : "4TO703ZoI5BBF9VwLoatq7",
+  "name" : "The Killing Ground",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ce387420fe6f841d6c9ad9d3adc53fe8578f9e85?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4TO703ZoI5BBF9VwLoatq7"
+}

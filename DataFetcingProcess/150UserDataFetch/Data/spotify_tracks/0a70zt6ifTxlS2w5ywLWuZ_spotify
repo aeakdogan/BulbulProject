@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6BF0bXbsdujMSMeFZBGcBq",
+      "id" : "6BF0bXbsdujMSMeFZBGcBq",
+      "name" : "Thomas Bergersen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6BF0bXbsdujMSMeFZBGcBq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2nQgBPmjeF9hzuNogW3oHG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2nQgBPmjeF9hzuNogW3oHG",
+    "id" : "2nQgBPmjeF9hzuNogW3oHG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1866afb54198e6f77cec7ff142e385ea2ec6733e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/889966502b47172449b73fe720ba7efc54dbb6c4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7edb788f355a0ab3b6b36491432b60ac8bf847b0",
+      "width" : 64
+    } ],
+    "name" : "Illusions",
+    "type" : "album",
+    "uri" : "spotify:album:2nQgBPmjeF9hzuNogW3oHG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6BF0bXbsdujMSMeFZBGcBq",
+    "id" : "6BF0bXbsdujMSMeFZBGcBq",
+    "name" : "Thomas Bergersen",
+    "type" : "artist",
+    "uri" : "spotify:artist:6BF0bXbsdujMSMeFZBGcBq"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 266722,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ushm21136451"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0a70zt6ifTxlS2w5ywLWuZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0a70zt6ifTxlS2w5ywLWuZ",
+  "id" : "0a70zt6ifTxlS2w5ywLWuZ",
+  "name" : "Starvation",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6a4d7edbd7d63e856ea6ed9f7b1bd259fa23e842?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0a70zt6ifTxlS2w5ywLWuZ"
+}

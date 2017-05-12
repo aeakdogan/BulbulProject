@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6sz0k1q2aEtG5dxEgr4YWV",
+      "id" : "6sz0k1q2aEtG5dxEgr4YWV",
+      "name" : "Rokia Traoré",
+      "type" : "artist",
+      "uri" : "spotify:artist:6sz0k1q2aEtG5dxEgr4YWV"
+    } ],
+    "available_markets" : [ "CA", "GB", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7fzlbT0KWe5H0fI0zO1f8Q"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7fzlbT0KWe5H0fI0zO1f8Q",
+    "id" : "7fzlbT0KWe5H0fI0zO1f8Q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/55a2aea2165fa8f06f42b3138e76c62849742f30",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5fd1ce813dc5ffa51e951dbcd7d51999cd3b2417",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d790cf24fafc74509c7ed65404c89082c6114657",
+      "width" : 64
+    } ],
+    "name" : "Tchamantché",
+    "type" : "album",
+    "uri" : "spotify:album:7fzlbT0KWe5H0fI0zO1f8Q"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6sz0k1q2aEtG5dxEgr4YWV",
+    "id" : "6sz0k1q2aEtG5dxEgr4YWV",
+    "name" : "Rokia Traoré",
+    "type" : "artist",
+    "uri" : "spotify:artist:6sz0k1q2aEtG5dxEgr4YWV"
+  } ],
+  "available_markets" : [ "CA", "GB", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 380613,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRUM70702245"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/36tIPdhTe49U4gvp6mwCaU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/36tIPdhTe49U4gvp6mwCaU",
+  "id" : "36tIPdhTe49U4gvp6mwCaU",
+  "name" : "Dounia",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a7e61ac8ff7ffe9e43804ce06f0bb2b81086d1ff?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:36tIPdhTe49U4gvp6mwCaU"
+}

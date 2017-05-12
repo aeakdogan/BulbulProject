@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+      "id" : "6tbjWDEIzxoDsBA1FuhfPW",
+      "name" : "Madonna",
+      "type" : "artist",
+      "uri" : "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7kUiJdXqLkMTkpY0PmXUv5",
+    "id" : "7kUiJdXqLkMTkpY0PmXUv5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/64962583cd9a21a7d61582f818c15702794561e7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/22b6d890c63f635398d008733d24f63cb790af60",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/001938e2582686f12615f07c4e0a979d17e41114",
+      "width" : 64
+    } ],
+    "name" : "Something To Remember (U.S. Version)",
+    "type" : "album",
+    "uri" : "spotify:album:7kUiJdXqLkMTkpY0PmXUv5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+    "id" : "6tbjWDEIzxoDsBA1FuhfPW",
+    "name" : "Madonna",
+    "type" : "artist",
+    "uri" : "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 310266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19903143"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/637V2ymBt4Ljlbz4EmRys8",
+  "id" : "637V2ymBt4Ljlbz4EmRys8",
+  "name" : "This Used To Be My Playground",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ae8225da79feeee00a784067afe5ea30f44341b?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:637V2ymBt4Ljlbz4EmRys8"
+}

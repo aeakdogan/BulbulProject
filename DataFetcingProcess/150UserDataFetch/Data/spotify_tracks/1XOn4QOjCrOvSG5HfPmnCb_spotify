@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/568ZhdwyaiCyOGJRtNYhWf",
+      "id" : "568ZhdwyaiCyOGJRtNYhWf",
+      "name" : "Deep Purple",
+      "type" : "artist",
+      "uri" : "spotify:artist:568ZhdwyaiCyOGJRtNYhWf"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0bYajtRIqIDLyEeZTNST2t"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0bYajtRIqIDLyEeZTNST2t",
+    "id" : "0bYajtRIqIDLyEeZTNST2t",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2129c821e3cf1342b937b4bdd03c9aba7e1c57d8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3211258f5f1a53d0e056d42e277b0549ff531366",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/920bf886054bb0c53fae42b7dcbc4a5c1990ff90",
+      "width" : 64
+    } ],
+    "name" : "The Battle Rages On",
+    "type" : "album",
+    "uri" : "spotify:album:0bYajtRIqIDLyEeZTNST2t"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/568ZhdwyaiCyOGJRtNYhWf",
+    "id" : "568ZhdwyaiCyOGJRtNYhWf",
+    "name" : "Deep Purple",
+    "type" : "artist",
+    "uri" : "spotify:artist:568ZhdwyaiCyOGJRtNYhWf"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 391533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBI10000372"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1XOn4QOjCrOvSG5HfPmnCb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1XOn4QOjCrOvSG5HfPmnCb",
+  "id" : "1XOn4QOjCrOvSG5HfPmnCb",
+  "name" : "Anya",
+  "popularity" : 5,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a01da16f1f82bd9b00e24fa67bc87d3978c1f53f?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1XOn4QOjCrOvSG5HfPmnCb"
+}

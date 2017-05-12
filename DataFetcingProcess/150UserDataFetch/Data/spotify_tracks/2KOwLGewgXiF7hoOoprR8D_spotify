@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/08Ut1tYxtmgIInVyQqohkM",
+      "id" : "08Ut1tYxtmgIInVyQqohkM",
+      "name" : "Fritz Kalkbrenner",
+      "type" : "artist",
+      "uri" : "spotify:artist:08Ut1tYxtmgIInVyQqohkM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6DdtJwuspKZtOw6qKt0tBy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6DdtJwuspKZtOw6qKt0tBy",
+    "id" : "6DdtJwuspKZtOw6qKt0tBy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/560830788903f3412129f7f937f44ed6a0af150d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fa71003810cc84280e9e52315f2dae43025a4207",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7b863ed6a4e86f3ddb311422a6ce84141cb80f54",
+      "width" : 64
+    } ],
+    "name" : "Here Today Gone Tomorrow",
+    "type" : "album",
+    "uri" : "spotify:album:6DdtJwuspKZtOw6qKt0tBy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/08Ut1tYxtmgIInVyQqohkM",
+    "id" : "08Ut1tYxtmgIInVyQqohkM",
+    "name" : "Fritz Kalkbrenner",
+    "type" : "artist",
+    "uri" : "spotify:artist:08Ut1tYxtmgIInVyQqohkM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 313084,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEAF70932132"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2KOwLGewgXiF7hoOoprR8D"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2KOwLGewgXiF7hoOoprR8D",
+  "id" : "2KOwLGewgXiF7hoOoprR8D",
+  "name" : "Facing The Sun",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9843fc8961bae5b6974522340b710d491812447f?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2KOwLGewgXiF7hoOoprR8D"
+}

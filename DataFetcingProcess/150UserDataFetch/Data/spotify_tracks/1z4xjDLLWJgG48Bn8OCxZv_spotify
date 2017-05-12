@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1rCIEwPp5OnXW0ornlSsRl",
+      "id" : "1rCIEwPp5OnXW0ornlSsRl",
+      "name" : "Metric",
+      "type" : "artist",
+      "uri" : "spotify:artist:1rCIEwPp5OnXW0ornlSsRl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Oj8FdHcV6kAiOVWfkqRaA",
+    "id" : "3Oj8FdHcV6kAiOVWfkqRaA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c4f84c3c4027a149393e2f010772d2688b3a1f27",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/93696bd2b77f39d915ee1b4544728d13f3f3af43",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/19261bbe985db1657e82afa03a37d959aad11b46",
+      "width" : 64
+    } ],
+    "name" : "Fantasies",
+    "type" : "album",
+    "uri" : "spotify:album:3Oj8FdHcV6kAiOVWfkqRaA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1rCIEwPp5OnXW0ornlSsRl",
+    "id" : "1rCIEwPp5OnXW0ornlSsRl",
+    "name" : "Metric",
+    "type" : "artist",
+    "uri" : "spotify:artist:1rCIEwPp5OnXW0ornlSsRl"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 285920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CARB70901901"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1z4xjDLLWJgG48Bn8OCxZv",
+  "id" : "1z4xjDLLWJgG48Bn8OCxZv",
+  "name" : "Help I'm Alive",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a37196269a921d238a2e7054e682abc9f3195242?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1z4xjDLLWJgG48Bn8OCxZv"
+}

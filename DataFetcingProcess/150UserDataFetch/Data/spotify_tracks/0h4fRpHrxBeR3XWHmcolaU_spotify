@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6S0GHTqz5sxK5f9HtLXn9q",
+      "id" : "6S0GHTqz5sxK5f9HtLXn9q",
+      "name" : "Garbage",
+      "type" : "artist",
+      "uri" : "spotify:artist:6S0GHTqz5sxK5f9HtLXn9q"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6nZQaZ0is5KhtuJeay9wxP",
+    "id" : "6nZQaZ0is5KhtuJeay9wxP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e9bbdf397d2a57eb116c8ea31e2964748289923c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f23a1c0b46650e924286e9752819bf137d8f80bf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/11e6af4a3569c9952af3ff41bba7e5e772d96fe8",
+      "width" : 64
+    } ],
+    "name" : "Absolute Garbage",
+    "type" : "album",
+    "uri" : "spotify:album:6nZQaZ0is5KhtuJeay9wxP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6S0GHTqz5sxK5f9HtLXn9q",
+    "id" : "6S0GHTqz5sxK5f9HtLXn9q",
+    "name" : "Garbage",
+    "type" : "artist",
+    "uri" : "spotify:artist:6S0GHTqz5sxK5f9HtLXn9q"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 258133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF19500408"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0h4fRpHrxBeR3XWHmcolaU",
+  "id" : "0h4fRpHrxBeR3XWHmcolaU",
+  "name" : "Stupid Girl",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c72c2c40816b7e5628e9aef73a959468851ffb9f?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0h4fRpHrxBeR3XWHmcolaU"
+}

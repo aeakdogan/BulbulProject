@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+      "id" : "3yY2gUcIsjMr8hjo51PoJ8",
+      "name" : "The Smiths",
+      "type" : "artist",
+      "uri" : "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1j57Q5ntVi7crpibb0h4sv",
+    "id" : "1j57Q5ntVi7crpibb0h4sv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/20fcd90058a4b889e3fdf2d3a297cb3cc16d9b4a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3c17736bf01eb170161e3a5bee168df3588c001f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c807d818716b02479ce829de1acb644f35a63bf",
+      "width" : 64
+    } ],
+    "name" : "Hatful Of Hollow",
+    "type" : "album",
+    "uri" : "spotify:album:1j57Q5ntVi7crpibb0h4sv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+    "id" : "3yY2gUcIsjMr8hjo51PoJ8",
+    "name" : "The Smiths",
+    "type" : "artist",
+    "uri" : "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 131600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCRL1100067"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6SwqPZs0XuSnyqkbnkkAjQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6SwqPZs0XuSnyqkbnkkAjQ",
+  "id" : "6SwqPZs0XuSnyqkbnkkAjQ",
+  "name" : "William, It Was Really Nothing - 2011 Remastered Version",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/318ca6d5c0f709f9945e8c233068e4a573a37c30?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6SwqPZs0XuSnyqkbnkkAjQ"
+}

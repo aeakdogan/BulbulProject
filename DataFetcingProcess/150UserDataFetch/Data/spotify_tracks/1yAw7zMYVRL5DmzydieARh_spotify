@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09K1H1DgyIXHsMx2j7KTFX",
+      "id" : "09K1H1DgyIXHsMx2j7KTFX",
+      "name" : "Mystery Jets",
+      "type" : "artist",
+      "uri" : "spotify:artist:09K1H1DgyIXHsMx2j7KTFX"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6lRNMjTwUI5dAAmbdSeJCs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6lRNMjTwUI5dAAmbdSeJCs",
+    "id" : "6lRNMjTwUI5dAAmbdSeJCs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/76bba9e4378dc00d7a7b8f9c5ad69411a375303d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fbd43b6c0471a9cb7effe45cb7d1af4a8f8ec283",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3ca4f33187ff61f63fe74ef973f97e5981ad66ab",
+      "width" : 64
+    } ],
+    "name" : "Radlands",
+    "type" : "album",
+    "uri" : "spotify:album:6lRNMjTwUI5dAAmbdSeJCs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/09K1H1DgyIXHsMx2j7KTFX",
+    "id" : "09K1H1DgyIXHsMx2j7KTFX",
+    "name" : "Mystery Jets",
+    "type" : "artist",
+    "uri" : "spotify:artist:09K1H1DgyIXHsMx2j7KTFX"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 318053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCVZ1203181"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1yAw7zMYVRL5DmzydieARh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1yAw7zMYVRL5DmzydieARh",
+  "id" : "1yAw7zMYVRL5DmzydieARh",
+  "name" : "Someone Purer",
+  "popularity" : 25,
+  "preview_url" : "https://p.scdn.co/mp3-preview/729be9ce91a78980a6670f39215957ec017d768c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1yAw7zMYVRL5DmzydieARh"
+}

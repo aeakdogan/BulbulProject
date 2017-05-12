@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3UbyYnvNIT5DFXU4WgiGpP",
+      "id" : "3UbyYnvNIT5DFXU4WgiGpP",
+      "name" : "Whitesnake",
+      "type" : "artist",
+      "uri" : "spotify:artist:3UbyYnvNIT5DFXU4WgiGpP"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4VFnPOLeGFOTB7yuU0W2bT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4VFnPOLeGFOTB7yuU0W2bT",
+    "id" : "4VFnPOLeGFOTB7yuU0W2bT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f7ef102e1bc607864e0b5fc1a687dd75a2d6658e",
+      "width" : 638
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8b2d5a12d72d5467e0bd72c9e5065eee11b65e54",
+      "width" : 299
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8bf87a6a44741ee08c1f931e81aa474e3cced94e",
+      "width" : 64
+    } ],
+    "name" : "Whitesnake",
+    "type" : "album",
+    "uri" : "spotify:album:4VFnPOLeGFOTB7yuU0W2bT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3UbyYnvNIT5DFXU4WgiGpP",
+    "id" : "3UbyYnvNIT5DFXU4WgiGpP",
+    "name" : "Whitesnake",
+    "type" : "artist",
+    "uri" : "spotify:artist:3UbyYnvNIT5DFXU4WgiGpP"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 285066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USGF18709906"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2PoIKrT2WSEvJlJjlO6eKY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2PoIKrT2WSEvJlJjlO6eKY",
+  "id" : "2PoIKrT2WSEvJlJjlO6eKY",
+  "name" : "Is This Love",
+  "popularity" : 52,
+  "preview_url" : "https://p.scdn.co/mp3-preview/81c6e137107624604698fe1c8fad80c26461157d?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2PoIKrT2WSEvJlJjlO6eKY"
+}

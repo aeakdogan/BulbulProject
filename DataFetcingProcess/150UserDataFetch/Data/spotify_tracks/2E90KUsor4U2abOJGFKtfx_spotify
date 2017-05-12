@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vfezMIyCr4XUdYRaKIKi3",
+      "id" : "1vfezMIyCr4XUdYRaKIKi3",
+      "name" : "Keyshia Cole",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vfezMIyCr4XUdYRaKIKi3"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7mdy09EO4q6F9VWBtXDDjK",
+    "id" : "7mdy09EO4q6F9VWBtXDDjK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/53d1ef911a50f6e43a581399aa0658cb25d7546c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/94cc9506d88337cb166f947e150f0c9be184d67c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4e0ed430a2e9067c74f754b657ec00f585dd1327",
+      "width" : 64
+    } ],
+    "name" : "Just Like You",
+    "type" : "album",
+    "uri" : "spotify:album:7mdy09EO4q6F9VWBtXDDjK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1vfezMIyCr4XUdYRaKIKi3",
+    "id" : "1vfezMIyCr4XUdYRaKIKi3",
+    "name" : "Keyshia Cole",
+    "type" : "artist",
+    "uri" : "spotify:artist:1vfezMIyCr4XUdYRaKIKi3"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 232880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70750466"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2E90KUsor4U2abOJGFKtfx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2E90KUsor4U2abOJGFKtfx",
+  "id" : "2E90KUsor4U2abOJGFKtfx",
+  "name" : "Heaven Sent",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a4d0329233c7c1499291f415ffc739e832ee8a56?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2E90KUsor4U2abOJGFKtfx"
+}

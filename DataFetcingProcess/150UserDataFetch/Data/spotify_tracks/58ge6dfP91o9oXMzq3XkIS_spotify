@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+      "id" : "7Ln80lUS6He07XvHI8qqHH",
+      "name" : "Arctic Monkeys",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6rsQnwaoJHxXJRCDBPkBRw",
+    "id" : "6rsQnwaoJHxXJRCDBPkBRw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ed8f3f372b872b9ac58329b26937bffe1563a70e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/57c1dff629b79d33aeb0b193e8c915c5cb359b9e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7c6948acc70ef547ace56aa4f24787725664f2c8",
+      "width" : 64
+    } ],
+    "name" : "Favourite Worst Nightmare (Standard Version)",
+    "type" : "album",
+    "uri" : "spotify:album:6rsQnwaoJHxXJRCDBPkBRw"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+    "id" : "7Ln80lUS6He07XvHI8qqHH",
+    "name" : "Arctic Monkeys",
+    "type" : "artist",
+    "uri" : "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 253586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0700074"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/58ge6dfP91o9oXMzq3XkIS",
+  "id" : "58ge6dfP91o9oXMzq3XkIS",
+  "name" : "505",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/971776090b85e536f69e19a80598bdaa29d14a88?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:58ge6dfP91o9oXMzq3XkIS"
+}

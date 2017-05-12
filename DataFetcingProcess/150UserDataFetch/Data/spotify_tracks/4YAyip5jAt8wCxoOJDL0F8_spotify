@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7zW6wPmVLv4JDJM271gbFc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7zW6wPmVLv4JDJM271gbFc",
+      "id" : "7zW6wPmVLv4JDJM271gbFc",
+      "name" : "Wim Mertens",
+      "type" : "artist",
+      "uri" : "spotify:artist:7zW6wPmVLv4JDJM271gbFc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3z7H03POQkEoVG122Al3c3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3z7H03POQkEoVG122Al3c3",
+      "id" : "3z7H03POQkEoVG122Al3c3",
+      "name" : "Wim Mertens Ensemble",
+      "type" : "artist",
+      "uri" : "spotify:artist:3z7H03POQkEoVG122Al3c3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4jOzKMd4xW4UfwqMo0m80E"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4jOzKMd4xW4UfwqMo0m80E",
+    "id" : "4jOzKMd4xW4UfwqMo0m80E",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bd98a60dff31dbbd4b2503899e4e2e1c07b77770",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a9c2db83c7d62c3739a00c6a975f722fa4a33a56",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f214a19c59fbd0eac0ccee09430374eb81d3d1c5",
+      "width" : 64
+    } ],
+    "name" : "Jardin clos",
+    "type" : "album",
+    "uri" : "spotify:album:4jOzKMd4xW4UfwqMo0m80E"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7zW6wPmVLv4JDJM271gbFc"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7zW6wPmVLv4JDJM271gbFc",
+    "id" : "7zW6wPmVLv4JDJM271gbFc",
+    "name" : "Wim Mertens",
+    "type" : "artist",
+    "uri" : "spotify:artist:7zW6wPmVLv4JDJM271gbFc"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 231688,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BEZ769910202"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4YAyip5jAt8wCxoOJDL0F8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4YAyip5jAt8wCxoOJDL0F8",
+  "id" : "4YAyip5jAt8wCxoOJDL0F8",
+  "name" : "Often a Bird",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ed7477254a56a47aa1f7b5710408248ec0f62ec?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4YAyip5jAt8wCxoOJDL0F8"
+}

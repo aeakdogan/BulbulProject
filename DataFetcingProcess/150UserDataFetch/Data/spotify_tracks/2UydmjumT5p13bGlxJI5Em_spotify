@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2SSdblgmnqndjtA3Hvp9hW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2SSdblgmnqndjtA3Hvp9hW",
+    "id" : "2SSdblgmnqndjtA3Hvp9hW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/30276c079a86598dfa416449a3d1be3271b37d10",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6e64131d1b8c730575da9d29eaafc3582dce42ec",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ca738fc09350c36d99f636007dc891a8837c9bcc",
+      "width" : 64
+    } ],
+    "name" : "Las 100 Mejores Canciones de los 80",
+    "type" : "album",
+    "uri" : "spotify:album:2SSdblgmnqndjtA3Hvp9hW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4uiuj3kqeIHmTH87B7VMnr",
+    "id" : "4uiuj3kqeIHmTH87B7VMnr",
+    "name" : "Los Enemigos",
+    "type" : "artist",
+    "uri" : "spotify:artist:4uiuj3kqeIHmTH87B7VMnr"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 228279,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ES5018852001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2UydmjumT5p13bGlxJI5Em"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2UydmjumT5p13bGlxJI5Em",
+  "id" : "2UydmjumT5p13bGlxJI5Em",
+  "name" : "John Wayne",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c297832257c81bd67de6eead6d420b6313b241bf?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:2UydmjumT5p13bGlxJI5Em"
+}

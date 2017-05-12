@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1MkCtMVtwdvi8G7qfYQUd8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1MkCtMVtwdvi8G7qfYQUd8",
+      "id" : "1MkCtMVtwdvi8G7qfYQUd8",
+      "name" : "Paavoharju",
+      "type" : "artist",
+      "uri" : "spotify:artist:1MkCtMVtwdvi8G7qfYQUd8"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1W7sz7V7HpvQNAF1j7yehP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1W7sz7V7HpvQNAF1j7yehP",
+    "id" : "1W7sz7V7HpvQNAF1j7yehP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/424e47844c89570f001d0f66d49d5ac86694823e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/47fc5343bd36e5e8c79ad11d997172469fe7bccd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/138616899d838d1af121f967cb8bed7865ebf235",
+      "width" : 64
+    } ],
+    "name" : "Joko sinä tulet tänne alas tai minä nousen sinne",
+    "type" : "album",
+    "uri" : "spotify:album:1W7sz7V7HpvQNAF1j7yehP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1MkCtMVtwdvi8G7qfYQUd8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1MkCtMVtwdvi8G7qfYQUd8",
+    "id" : "1MkCtMVtwdvi8G7qfYQUd8",
+    "name" : "Paavoharju",
+    "type" : "artist",
+    "uri" : "spotify:artist:1MkCtMVtwdvi8G7qfYQUd8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 269093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEZ651333052"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3L6ZypbykDgivetROtOFDr"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3L6ZypbykDgivetROtOFDr",
+  "id" : "3L6ZypbykDgivetROtOFDr",
+  "name" : "Tumulus",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/af766428257421c3eb0f9ec95b28d20fab7badd2?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3L6ZypbykDgivetROtOFDr"
+}

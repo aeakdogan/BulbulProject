@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+      "id" : "7t0rwkOPGlDPEhaOcVtOt9",
+      "name" : "The Cranberries",
+      "type" : "artist",
+      "uri" : "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5G3I9bLpCZxK4XeLyJ69iu",
+    "id" : "5G3I9bLpCZxK4XeLyJ69iu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/de3825669b62fa56b3696235dd070ad39bce060c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/38b809d88e8209a41993732412f4b0466cfd03d2",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/13b41e17e365e060f4877341b1a4172567062a9c",
+      "width" : 64
+    } ],
+    "name" : "To The Faithful Departed",
+    "type" : "album",
+    "uri" : "spotify:album:5G3I9bLpCZxK4XeLyJ69iu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+    "id" : "7t0rwkOPGlDPEhaOcVtOt9",
+    "name" : "The Cranberries",
+    "type" : "artist",
+    "uri" : "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 161400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR29600122"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5vz4vA3NK4VeraJD22n8PB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5vz4vA3NK4VeraJD22n8PB",
+  "id" : "5vz4vA3NK4VeraJD22n8PB",
+  "name" : "I Just Shot John Lennon",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/de72169917ffec10ee624c6f8bd270b6fb921e1e?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:5vz4vA3NK4VeraJD22n8PB"
+}

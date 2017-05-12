@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WCm2GGhHPv9hNDbirGHKZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WCm2GGhHPv9hNDbirGHKZ",
+      "id" : "6WCm2GGhHPv9hNDbirGHKZ",
+      "name" : "Eric Martin",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WCm2GGhHPv9hNDbirGHKZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7KdMIsje0OZjIwvi6IjibD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7KdMIsje0OZjIwvi6IjibD",
+    "id" : "7KdMIsje0OZjIwvi6IjibD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6d651c7875b7d23a89b5c8beba5a919cc3f202d4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0a0ef29984d284d3a3fb60a6142cf21765b7297f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4c4df88905a308c9a506df7265cecb3049ab5a5c",
+      "width" : 64
+    } ],
+    "name" : "Somewhere In The Middle",
+    "type" : "album",
+    "uri" : "spotify:album:7KdMIsje0OZjIwvi6IjibD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6WCm2GGhHPv9hNDbirGHKZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6WCm2GGhHPv9hNDbirGHKZ",
+    "id" : "6WCm2GGhHPv9hNDbirGHKZ",
+    "name" : "Eric Martin",
+    "type" : "artist",
+    "uri" : "spotify:artist:6WCm2GGhHPv9hNDbirGHKZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 217000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "usx9p0671989"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6RW5iCYkTOmfuDn53yqOiZ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6RW5iCYkTOmfuDn53yqOiZ",
+  "id" : "6RW5iCYkTOmfuDn53yqOiZ",
+  "name" : "I Love The Way You Love Me",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/432a01a7a8e10962180e8a7b21b6d2d3a422d9bc?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:6RW5iCYkTOmfuDn53yqOiZ"
+}

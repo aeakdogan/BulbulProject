@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZTpSMKKljfomqVgeJGwDL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ZTpSMKKljfomqVgeJGwDL",
+      "id" : "3ZTpSMKKljfomqVgeJGwDL",
+      "name" : "Pavlov's Dog",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZTpSMKKljfomqVgeJGwDL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/03BFbmitmmKvoqjVkeA42O"
+    },
+    "href" : "https://api.spotify.com/v1/albums/03BFbmitmmKvoqjVkeA42O",
+    "id" : "03BFbmitmmKvoqjVkeA42O",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f54c004cd8067f958cc56955d1d138980b75b177",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3dfbf569e6b6a684f0f05b7196ffbdbbab41c40a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/863be111abb974f51700a6cf27b13277175323f1",
+      "width" : 64
+    } ],
+    "name" : "Live And Unleashed",
+    "type" : "album",
+    "uri" : "spotify:album:03BFbmitmmKvoqjVkeA42O"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3ZTpSMKKljfomqVgeJGwDL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3ZTpSMKKljfomqVgeJGwDL",
+    "id" : "3ZTpSMKKljfomqVgeJGwDL",
+    "name" : "Pavlov's Dog",
+    "type" : "artist",
+    "uri" : "spotify:artist:3ZTpSMKKljfomqVgeJGwDL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 204053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEKP91000606"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6z7TLXrmdsOiuyaq2HAutX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6z7TLXrmdsOiuyaq2HAutX",
+  "id" : "6z7TLXrmdsOiuyaq2HAutX",
+  "name" : "Late November",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/77fc71ba2852a4ec7fb32c01276df9a6ae336d52?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:6z7TLXrmdsOiuyaq2HAutX"
+}

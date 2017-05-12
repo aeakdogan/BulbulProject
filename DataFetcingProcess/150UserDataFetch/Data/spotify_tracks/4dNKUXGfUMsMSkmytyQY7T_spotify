@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6l40OFJhuTbHQ9V12evc9K",
+      "id" : "6l40OFJhuTbHQ9V12evc9K",
+      "name" : "Gerry Mulligan",
+      "type" : "artist",
+      "uri" : "spotify:artist:6l40OFJhuTbHQ9V12evc9K"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0NUxMpyjIOP71y3NaThnTW",
+    "id" : "0NUxMpyjIOP71y3NaThnTW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c9b71f8a09c6e63b8df4abe33a8f22871e9335e3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f09a4b4c91ca72c6c422396194320e0ce10e91d7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8feb842062e3564327333103e669cbf53c46d6a8",
+      "width" : 64
+    } ],
+    "name" : "What Is There To Say?",
+    "type" : "album",
+    "uri" : "spotify:album:0NUxMpyjIOP71y3NaThnTW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6l40OFJhuTbHQ9V12evc9K",
+    "id" : "6l40OFJhuTbHQ9V12evc9K",
+    "name" : "Gerry Mulligan",
+    "type" : "artist",
+    "uri" : "spotify:artist:6l40OFJhuTbHQ9V12evc9K"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 250426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19910354"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4dNKUXGfUMsMSkmytyQY7T"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4dNKUXGfUMsMSkmytyQY7T",
+  "id" : "4dNKUXGfUMsMSkmytyQY7T",
+  "name" : "Just In Time",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/895f76127e934427f32dddb79a5569082ccb1c64?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:4dNKUXGfUMsMSkmytyQY7T"
+}

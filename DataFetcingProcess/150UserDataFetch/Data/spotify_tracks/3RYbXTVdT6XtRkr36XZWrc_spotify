@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+      "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+      "name" : "Feist",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+    } ],
+    "available_markets" : [ "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1dukVxiix2ckr6CMs1T1zI",
+    "id" : "1dukVxiix2ckr6CMs1T1zI",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/0e995f3280034cd1538428789b896c1c59c55683",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/7bebbcf2dfa1da4113b9b87f81d91563b4d7bad5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/23e6927518c22f382ffbd3083502b4a6eeabfa88",
+      "width" : 64
+    } ],
+    "name" : "Let It Die",
+    "type" : "album",
+    "uri" : "spotify:album:1dukVxiix2ckr6CMs1T1zI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+    "id" : "6CWTBjOJK75cTE8Xv8u1kj",
+    "name" : "Feist",
+    "type" : "artist",
+    "uri" : "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+  } ],
+  "available_markets" : [ "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 136426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRZ020302430"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3RYbXTVdT6XtRkr36XZWrc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3RYbXTVdT6XtRkr36XZWrc",
+  "id" : "3RYbXTVdT6XtRkr36XZWrc",
+  "name" : "Gatekeeper",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d74004c4aa2ac47070b2ff04e0149437d4ffa3c6?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3RYbXTVdT6XtRkr36XZWrc"
+}

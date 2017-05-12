@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7icDkrFloDss50hoqQ3Kkj",
+      "id" : "7icDkrFloDss50hoqQ3Kkj",
+      "name" : "Clinic",
+      "type" : "artist",
+      "uri" : "spotify:artist:7icDkrFloDss50hoqQ3Kkj"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6bdriNC4L02OnnLBooLHRn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6bdriNC4L02OnnLBooLHRn",
+    "id" : "6bdriNC4L02OnnLBooLHRn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c6b77b7cdc3c5065a55c9a805318868d891bd24b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4acd209bbef680abbf11c1fee40e028283da222a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8e76f3746d030869421611b43e379746b219321f",
+      "width" : 64
+    } ],
+    "name" : "Bubblegum",
+    "type" : "album",
+    "uri" : "spotify:album:6bdriNC4L02OnnLBooLHRn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7icDkrFloDss50hoqQ3Kkj",
+    "id" : "7icDkrFloDss50hoqQ3Kkj",
+    "name" : "Clinic",
+    "type" : "artist",
+    "uri" : "spotify:artist:7icDkrFloDss50hoqQ3Kkj"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 180346,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL1000387"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3OiI4Q2tpHf3J4wL0sbNYO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3OiI4Q2tpHf3J4wL0sbNYO",
+  "id" : "3OiI4Q2tpHf3J4wL0sbNYO",
+  "name" : "I'm Aware",
+  "popularity" : 3,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c6cb19d011d6d29a4b3616a0e3e6a58aa7c65cf0?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3OiI4Q2tpHf3J4wL0sbNYO"
+}

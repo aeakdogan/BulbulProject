@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4MXUO7sVCaFgFjoTI5ox5c",
+      "id" : "4MXUO7sVCaFgFjoTI5ox5c",
+      "name" : "Sufjan Stevens",
+      "type" : "artist",
+      "uri" : "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4mIfqTE8DOnFRFWUQH02Og"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4mIfqTE8DOnFRFWUQH02Og",
+    "id" : "4mIfqTE8DOnFRFWUQH02Og",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1ba7c23172045f4cec6fc498bf267133ef3e859a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5d06fc0e6823f93bff288df2b1e9fbe6f309ea97",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ef37a45857f009310b0fb4e2c171581952f83e8c",
+      "width" : 64
+    } ],
+    "name" : "Michigan",
+    "type" : "album",
+    "uri" : "spotify:album:4mIfqTE8DOnFRFWUQH02Og"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4MXUO7sVCaFgFjoTI5ox5c",
+    "id" : "4MXUO7sVCaFgFjoTI5ox5c",
+    "name" : "Sufjan Stevens",
+    "type" : "artist",
+    "uri" : "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 203493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US64G0300705"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3k69COwXI0NHzBeQ5Q9MFB"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3k69COwXI0NHzBeQ5Q9MFB",
+  "id" : "3k69COwXI0NHzBeQ5Q9MFB",
+  "name" : "The Upper Peninsula",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/37634f40cdf7597bed445ac1bbabd196507b0be9?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3k69COwXI0NHzBeQ5Q9MFB"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB",
+      "id" : "3kjuyTCjPG1WMFCiyc5IuB",
+      "name" : "Arcade Fire",
+      "type" : "artist",
+      "uri" : "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4E0m7AIVc2d2QZMrMNXdMZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4E0m7AIVc2d2QZMrMNXdMZ",
+    "id" : "4E0m7AIVc2d2QZMrMNXdMZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9b6b75f5325c12deb0e5ef9754f60026bbbbbb47",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b5c6831817c71854d4cf36ac11b5a5063a29e323",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e7286cd56a61c3702410f9929938772ad5274a0d",
+      "width" : 64
+    } ],
+    "name" : "Reflektor",
+    "type" : "album",
+    "uri" : "spotify:album:4E0m7AIVc2d2QZMrMNXdMZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB",
+    "id" : "3kjuyTCjPG1WMFCiyc5IuB",
+    "name" : "Arcade Fire",
+    "type" : "artist",
+    "uri" : "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 453949,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71305894"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2LWMF10STZqYY9a3YqBiOG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2LWMF10STZqYY9a3YqBiOG",
+  "id" : "2LWMF10STZqYY9a3YqBiOG",
+  "name" : "Reflektor",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9dca8428b9fa7a2b0b51a1856523fd256294d471?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2LWMF10STZqYY9a3YqBiOG"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EENT7N7rCBwrddM3s0vFS",
+      "id" : "4EENT7N7rCBwrddM3s0vFS",
+      "name" : "Cut Copy",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EENT7N7rCBwrddM3s0vFS"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1rSouiIqjxYWVfZdWdNrHi"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1rSouiIqjxYWVfZdWdNrHi",
+    "id" : "1rSouiIqjxYWVfZdWdNrHi",
+    "images" : [ {
+      "height" : 576,
+      "url" : "https://i.scdn.co/image/5ee92e3f29bb8e35913c639975b7aa83f4930a90",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/972cea4f2434da14a01f1a07535e544e777f2be7",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/e21935156f4b1602d1ff087a9bd9127bd1b71e76",
+      "width" : 64
+    } ],
+    "name" : "Bright Like Neon Love",
+    "type" : "album",
+    "uri" : "spotify:album:1rSouiIqjxYWVfZdWdNrHi"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4EENT7N7rCBwrddM3s0vFS",
+    "id" : "4EENT7N7rCBwrddM3s0vFS",
+    "name" : "Cut Copy",
+    "type" : "artist",
+    "uri" : "spotify:artist:4EENT7N7rCBwrddM3s0vFS"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 312026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUMP00300035"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2sAu3cnJ6VKgD8YNroxBMo"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2sAu3cnJ6VKgD8YNroxBMo",
+  "id" : "2sAu3cnJ6VKgD8YNroxBMo",
+  "name" : "Future",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c8aaae3c90c5d5e75df4e70455ef460c47d8ac63?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2sAu3cnJ6VKgD8YNroxBMo"
+}

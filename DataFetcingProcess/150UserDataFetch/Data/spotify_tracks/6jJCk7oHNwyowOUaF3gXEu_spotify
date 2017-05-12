@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+      },
+      "href" : "https://api.spotify.com/v1/artists/32lVGr0fSRGT6okLKHiP68",
+      "id" : "32lVGr0fSRGT6okLKHiP68",
+      "name" : "Taylor Dayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:32lVGr0fSRGT6okLKHiP68"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GB", "GT", "HK", "HN", "ID", "IE", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5sZeWcdXYHq9MbNDSOMqCP",
+    "id" : "5sZeWcdXYHq9MbNDSOMqCP",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/f2cf804255dec8bb947479ffd5f78b1449aa41fe",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/c27da9405b54607ad2187a579c9a1edf78d554b7",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/e61d0d2e8c75bbd0b8946fd30564c66a7b74126e",
+      "width" : 64
+    } ],
+    "name" : "Platinum & Gold Collection",
+    "type" : "album",
+    "uri" : "spotify:album:5sZeWcdXYHq9MbNDSOMqCP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+    },
+    "href" : "https://api.spotify.com/v1/artists/32lVGr0fSRGT6okLKHiP68",
+    "id" : "32lVGr0fSRGT6okLKHiP68",
+    "name" : "Taylor Dayne",
+    "type" : "artist",
+    "uri" : "spotify:artist:32lVGr0fSRGT6okLKHiP68"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GB", "GT", "HK", "HN", "ID", "IE", "JP", "MX", "MY", "NI", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 220226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR18700139"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6jJCk7oHNwyowOUaF3gXEu",
+  "id" : "6jJCk7oHNwyowOUaF3gXEu",
+  "name" : "Tell It to My Heart",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7335a4b09fa94aa697b04a0eb53304631f0cdd55?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6jJCk7oHNwyowOUaF3gXEu"
+}

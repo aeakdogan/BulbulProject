@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6u11Qbko2N2hP4lTBYjX86",
+      "id" : "6u11Qbko2N2hP4lTBYjX86",
+      "name" : "Peter Bjorn and John",
+      "type" : "artist",
+      "uri" : "spotify:artist:6u11Qbko2N2hP4lTBYjX86"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2SrSvVDVASfEPqXnnHAciS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2SrSvVDVASfEPqXnnHAciS",
+    "id" : "2SrSvVDVASfEPqXnnHAciS",
+    "images" : [ {
+      "height" : 574,
+      "url" : "https://i.scdn.co/image/3d212bb9781aeab62bae7209d854f005434b73d6",
+      "width" : 640
+    }, {
+      "height" : 269,
+      "url" : "https://i.scdn.co/image/bec9f9fc2887737841a285daf2285e48469a3d79",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/82d5846779c5836cb47c1fd3c3659978490f3b75",
+      "width" : 64
+    } ],
+    "name" : "Gimme Some",
+    "type" : "album",
+    "uri" : "spotify:album:2SrSvVDVASfEPqXnnHAciS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6u11Qbko2N2hP4lTBYjX86",
+    "id" : "6u11Qbko2N2hP4lTBYjX86",
+    "name" : "Peter Bjorn and John",
+    "type" : "artist",
+    "uri" : "spotify:artist:6u11Qbko2N2hP4lTBYjX86"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 252853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "SE2KV1000103"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2p5ieZMPXzUSec8yaiGTvY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2p5ieZMPXzUSec8yaiGTvY",
+  "id" : "2p5ieZMPXzUSec8yaiGTvY",
+  "name" : "Second Chance",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6298bf93a13c5a297c459e8b3832970d2ee61e68?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2p5ieZMPXzUSec8yaiGTvY"
+}

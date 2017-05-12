@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+      "id" : "1KCSPY1glIKqW2TotWuXOR",
+      "name" : "P!nk",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+    } ],
+    "available_markets" : [ "BG", "CA", "CY", "EE", "ES", "FI", "GR", "HU", "LT", "LV", "NO", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0wcuOAo2w5jxwp7N57QKNN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0wcuOAo2w5jxwp7N57QKNN",
+    "id" : "0wcuOAo2w5jxwp7N57QKNN",
+    "images" : [ {
+      "height" : 636,
+      "url" : "https://i.scdn.co/image/7d8a69912dc14f7f838bc564dae1d41db882f648",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/10214a96f8d8a403ed9ecfa6e284fdb55469c36b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5fa21b6e5f581f48f973b9f8addfa834d7109809",
+      "width" : 64
+    } ],
+    "name" : "Funhouse",
+    "type" : "album",
+    "uri" : "spotify:album:0wcuOAo2w5jxwp7N57QKNN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR",
+    "id" : "1KCSPY1glIKqW2TotWuXOR",
+    "name" : "P!nk",
+    "type" : "artist",
+    "uri" : "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+  } ],
+  "available_markets" : [ "BG", "CA", "CY", "EE", "ES", "FI", "GR", "HU", "LT", "LV", "NO", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 215160,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USLF20800067"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6qYGUxPjQt5PJtWdiNppZx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6qYGUxPjQt5PJtWdiNppZx",
+  "id" : "6qYGUxPjQt5PJtWdiNppZx",
+  "name" : "So What",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/29f5e690459b9fd4716efbae5d220c20f9dd5ebe?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6qYGUxPjQt5PJtWdiNppZx"
+}

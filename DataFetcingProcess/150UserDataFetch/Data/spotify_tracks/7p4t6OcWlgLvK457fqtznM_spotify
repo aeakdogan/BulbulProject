@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0z9s3P5vCzKcUBSxgBDyLU",
+      "id" : "0z9s3P5vCzKcUBSxgBDyLU",
+      "name" : "Jonny Greenwood",
+      "type" : "artist",
+      "uri" : "spotify:artist:0z9s3P5vCzKcUBSxgBDyLU"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0K7xCNs6QjWl1B2mPKCnk3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0K7xCNs6QjWl1B2mPKCnk3",
+    "id" : "0K7xCNs6QjWl1B2mPKCnk3",
+    "images" : [ {
+      "height" : 562,
+      "url" : "https://i.scdn.co/image/cb6a74540d2d04d50fb6d65fa5ba4c5b430b9a2f",
+      "width" : 640
+    }, {
+      "height" : 263,
+      "url" : "https://i.scdn.co/image/3804d40938095a10db63dff96591b278e2643a4d",
+      "width" : 300
+    }, {
+      "height" : 56,
+      "url" : "https://i.scdn.co/image/553c7c63ec7243de0b8885c8d070b7a369b08533",
+      "width" : 64
+    } ],
+    "name" : "There Will Be Blood",
+    "type" : "album",
+    "uri" : "spotify:album:0K7xCNs6QjWl1B2mPKCnk3"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0z9s3P5vCzKcUBSxgBDyLU",
+    "id" : "0z9s3P5vCzKcUBSxgBDyLU",
+    "name" : "Jonny Greenwood",
+    "type" : "artist",
+    "uri" : "spotify:artist:0z9s3P5vCzKcUBSxgBDyLU"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 125213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO10750776"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7p4t6OcWlgLvK457fqtznM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7p4t6OcWlgLvK457fqtznM",
+  "id" : "7p4t6OcWlgLvK457fqtznM",
+  "name" : "There Will Be Blood",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/efc2b015cf2020e43260c6d12f9325092646bdec?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:7p4t6OcWlgLvK457fqtznM"
+}

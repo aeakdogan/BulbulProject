@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/75U40yZLLPglFgXbDVnmVs",
+      "id" : "75U40yZLLPglFgXbDVnmVs",
+      "name" : "The Mars Volta",
+      "type" : "artist",
+      "uri" : "spotify:artist:75U40yZLLPglFgXbDVnmVs"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1pQKYMBJfYfDFtBwptQGqB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1pQKYMBJfYfDFtBwptQGqB",
+    "id" : "1pQKYMBJfYfDFtBwptQGqB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9519c9fcfdff932f01a72cf49f409b4b2af598cf",
+      "width" : 625
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8be98f624e648ef2ede5561396e62a9ff94c9c31",
+      "width" : 293
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/83320b2a013cc0b4422aee25c8e8e51fbb593128",
+      "width" : 63
+    } ],
+    "name" : "The Widow",
+    "type" : "album",
+    "uri" : "spotify:album:1pQKYMBJfYfDFtBwptQGqB"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/75U40yZLLPglFgXbDVnmVs",
+    "id" : "75U40yZLLPglFgXbDVnmVs",
+    "name" : "The Mars Volta",
+    "type" : "artist",
+    "uri" : "spotify:artist:75U40yZLLPglFgXbDVnmVs"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 199946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUR10401120"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1XFvDQjWp0FxNxUm9FEAEd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1XFvDQjWp0FxNxUm9FEAEd",
+  "id" : "1XFvDQjWp0FxNxUm9FEAEd",
+  "name" : "The Widow",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3f3f29c9aa8b39d65b7a81c7c9e1d2c530188c24?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1XFvDQjWp0FxNxUm9FEAEd"
+}

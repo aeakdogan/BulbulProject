@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YFKPea38AMhGqGSqkFF1Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2YFKPea38AMhGqGSqkFF1Q",
+      "id" : "2YFKPea38AMhGqGSqkFF1Q",
+      "name" : "Kingdom Come",
+      "type" : "artist",
+      "uri" : "spotify:artist:2YFKPea38AMhGqGSqkFF1Q"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7Cr06FZmR09K2cTeH8Gzn4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7Cr06FZmR09K2cTeH8Gzn4",
+    "id" : "7Cr06FZmR09K2cTeH8Gzn4",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/76096632dca96a7611db7ad31e7e9fe751ce6d9e",
+      "width" : 639
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/ee7c303916b3e072cc93ee17ddada94c787d1664",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e5de056905cdc63d54b056b1baddcef3a7a1c366",
+      "width" : 64
+    } ],
+    "name" : "20th Century Masters: The Millennium Collection: Best Of Kingdom Come",
+    "type" : "album",
+    "uri" : "spotify:album:7Cr06FZmR09K2cTeH8Gzn4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2YFKPea38AMhGqGSqkFF1Q"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2YFKPea38AMhGqGSqkFF1Q",
+    "id" : "2YFKPea38AMhGqGSqkFF1Q",
+    "name" : "Kingdom Come",
+    "type" : "artist",
+    "uri" : "spotify:artist:2YFKPea38AMhGqGSqkFF1Q"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 256399,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUR10200914"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/18E8ianG0dSHXJCuCUgIAF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/18E8ianG0dSHXJCuCUgIAF",
+  "id" : "18E8ianG0dSHXJCuCUgIAF",
+  "name" : "You're Not The Only... I Know",
+  "popularity" : 4,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4909b62ea2f40a8f529ec7a3170c7b52fe0eae19?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:18E8ianG0dSHXJCuCUgIAF"
+}

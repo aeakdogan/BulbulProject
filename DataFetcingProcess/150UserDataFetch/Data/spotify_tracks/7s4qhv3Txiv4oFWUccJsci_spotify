@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+      "id" : "3GBPw9NK25X1Wt2OUvOwY3",
+      "name" : "Jack Johnson",
+      "type" : "artist",
+      "uri" : "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3fa8r86AofGDNs1S2d3xgz",
+    "id" : "3fa8r86AofGDNs1S2d3xgz",
+    "images" : [ {
+      "height" : 590,
+      "url" : "https://i.scdn.co/image/2def4c8b5963cef3eb6d071d5d75e62c7c68203e",
+      "width" : 640
+    }, {
+      "height" : 276,
+      "url" : "https://i.scdn.co/image/919c3bb52642952b33d614b9ef722743267e440f",
+      "width" : 300
+    }, {
+      "height" : 59,
+      "url" : "https://i.scdn.co/image/d385e1633b74889a96d88f0825189a13261cebaa",
+      "width" : 64
+    } ],
+    "name" : "Sleep Through The Static",
+    "type" : "album",
+    "uri" : "spotify:album:3fa8r86AofGDNs1S2d3xgz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+    "id" : "3GBPw9NK25X1Wt2OUvOwY3",
+    "name" : "Jack Johnson",
+    "type" : "artist",
+    "uri" : "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 256813,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70766319"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7s4qhv3Txiv4oFWUccJsci"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7s4qhv3Txiv4oFWUccJsci",
+  "id" : "7s4qhv3Txiv4oFWUccJsci",
+  "name" : "Monsoon",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6c58ab4f632c80a665e283e281c57e5cf51f78e7?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:7s4qhv3Txiv4oFWUccJsci"
+}

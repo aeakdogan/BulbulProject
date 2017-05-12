@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/14H7ag1wpQOsPPQJOD6Dqr",
+      "id" : "14H7ag1wpQOsPPQJOD6Dqr",
+      "name" : "Zero 7",
+      "type" : "artist",
+      "uri" : "spotify:artist:14H7ag1wpQOsPPQJOD6Dqr"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3EFPjlP8JBwdbxqbSFWIS2"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3EFPjlP8JBwdbxqbSFWIS2",
+    "id" : "3EFPjlP8JBwdbxqbSFWIS2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/065d7d8a228d2f9dd9386a9d7c3c3a211b6b9a42",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/772c74e3244c1aa0ebc565ab673cc55e4971387d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/57185f918f225a9e04111caef0704212686bf95e",
+      "width" : 64
+    } ],
+    "name" : "Simple Things",
+    "type" : "album",
+    "uri" : "spotify:album:3EFPjlP8JBwdbxqbSFWIS2"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/14H7ag1wpQOsPPQJOD6Dqr",
+    "id" : "14H7ag1wpQOsPPQJOD6Dqr",
+    "name" : "Zero 7",
+    "type" : "artist",
+    "uri" : "spotify:artist:14H7ag1wpQOsPPQJOD6Dqr"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 316373,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCHV0150167"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4ZthTbbpGLb2sEor9MsacM"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4ZthTbbpGLb2sEor9MsacM",
+  "id" : "4ZthTbbpGLb2sEor9MsacM",
+  "name" : "Distractions",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bf767bbb607f792e7ae14e24135b62dc7bf47047?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4ZthTbbpGLb2sEor9MsacM"
+}

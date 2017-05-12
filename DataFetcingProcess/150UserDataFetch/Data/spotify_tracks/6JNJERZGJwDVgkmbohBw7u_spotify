@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4463nfFMmK1cwAWBQDwT5e",
+      "id" : "4463nfFMmK1cwAWBQDwT5e",
+      "name" : "Laura Branigan",
+      "type" : "artist",
+      "uri" : "spotify:artist:4463nfFMmK1cwAWBQDwT5e"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5cwUCXPFFfNsnk4qipc40D",
+    "id" : "5cwUCXPFFfNsnk4qipc40D",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ae756aa919fbfa724893c6940e8c7392d44c70bf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6c64943b696e6de5aad567a04e3f7c0a5181c076",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f00a05c795473ca45af10f57b03e3af17efe7d88",
+      "width" : 64
+    } ],
+    "name" : "Self Control",
+    "type" : "album",
+    "uri" : "spotify:album:5cwUCXPFFfNsnk4qipc40D"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4463nfFMmK1cwAWBQDwT5e",
+    "id" : "4463nfFMmK1cwAWBQDwT5e",
+    "name" : "Laura Branigan",
+    "type" : "artist",
+    "uri" : "spotify:artist:4463nfFMmK1cwAWBQDwT5e"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 246440,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20903047"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6JNJERZGJwDVgkmbohBw7u",
+  "id" : "6JNJERZGJwDVgkmbohBw7u",
+  "name" : "Self Control",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6725dca8ed9f6750d534268c7ed7d5355e8d5174?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6JNJERZGJwDVgkmbohBw7u"
+}

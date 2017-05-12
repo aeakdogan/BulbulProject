@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+      "id" : "4Z8W4fKeB5YxbusRsdQVPb",
+      "name" : "Radiohead",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7dxKtc08dYeRVHt3p9CZJn",
+    "id" : "7dxKtc08dYeRVHt3p9CZJn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f89c1ecdd0cc5a23d5ad7303d4ae231d197dde98",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1b898f0b8e3ce499d0fc629a1918c144d982e475",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/faf295a70a6531826a8c25d33aad7d2cd9c75c7a",
+      "width" : 64
+    } ],
+    "name" : "OK Computer",
+    "type" : "album",
+    "uri" : "spotify:album:7dxKtc08dYeRVHt3p9CZJn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+    "id" : "4Z8W4fKeB5YxbusRsdQVPb",
+    "name" : "Radiohead",
+    "type" : "artist",
+    "uri" : "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 287880,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE9701274"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3OsUjkcv1C1v5udFhgRSFg"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3OsUjkcv1C1v5udFhgRSFg",
+  "id" : "3OsUjkcv1C1v5udFhgRSFg",
+  "name" : "Airbag",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d0f6278fcf67c3c76212d293fa2623f2763087ce?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3OsUjkcv1C1v5udFhgRSFg"
+}

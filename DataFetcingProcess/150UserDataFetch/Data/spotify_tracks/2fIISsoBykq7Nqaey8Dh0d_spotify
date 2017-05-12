@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6gk4ierjjSVPoZep27VfZz",
+      "id" : "6gk4ierjjSVPoZep27VfZz",
+      "name" : "Bebel Gilberto",
+      "type" : "artist",
+      "uri" : "spotify:artist:6gk4ierjjSVPoZep27VfZz"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Z4pW2hvnmlTLWSGEozZ5n"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Z4pW2hvnmlTLWSGEozZ5n",
+    "id" : "0Z4pW2hvnmlTLWSGEozZ5n",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a207a64a07c4040a57b097f044c9771c91a45877",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/89981f62c7e1b38dcda287921cca2aeb58777556",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7a6f0bdf86b54fdc8967ebf55c3ffda40e9bf000",
+      "width" : 64
+    } ],
+    "name" : "Tanto Tempo",
+    "type" : "album",
+    "uri" : "spotify:album:0Z4pW2hvnmlTLWSGEozZ5n"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6gk4ierjjSVPoZep27VfZz",
+    "id" : "6gk4ierjjSVPoZep27VfZz",
+    "name" : "Bebel Gilberto",
+    "type" : "artist",
+    "uri" : "spotify:artist:6gk4ierjjSVPoZep27VfZz"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 144640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "BE6F50001670"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2fIISsoBykq7Nqaey8Dh0d"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2fIISsoBykq7Nqaey8Dh0d",
+  "id" : "2fIISsoBykq7Nqaey8Dh0d",
+  "name" : "Lonely",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/74e0f387776f3613b449c2aee7ac9115c3088b3d?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2fIISsoBykq7Nqaey8Dh0d"
+}

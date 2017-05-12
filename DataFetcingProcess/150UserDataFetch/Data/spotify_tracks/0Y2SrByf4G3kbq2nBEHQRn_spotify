@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
+    },
+    "href" : "https://api.spotify.com/v1/albums/52LfK1ML8u7Xj1ArC8oC22",
+    "id" : "52LfK1ML8u7Xj1ArC8oC22",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/14b685a90f4de9015434fc9d83e5ef12c6e512d9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/58977e516bd895b03706e3a80d8d99283394f727",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cc8772656ed87a7da22872968b3eb3e7db1301b2",
+      "width" : 64
+    } ],
+    "name" : "Music From The Motion Picture Michael",
+    "type" : "album",
+    "uri" : "spotify:album:52LfK1ML8u7Xj1ArC8oC22"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7f8LNBVXN0h35veHrpxQFL",
+    "id" : "7f8LNBVXN0h35veHrpxQFL",
+    "name" : "Norman Greenbaum",
+    "type" : "artist",
+    "uri" : "spotify:artist:7f8LNBVXN0h35veHrpxQFL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 239600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE19600416"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0Y2SrByf4G3kbq2nBEHQRn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0Y2SrByf4G3kbq2nBEHQRn",
+  "id" : "0Y2SrByf4G3kbq2nBEHQRn",
+  "name" : "Spirit In The Sky",
+  "popularity" : 66,
+  "preview_url" : "https://p.scdn.co/mp3-preview/08acafb7154f671e6c85f1136239ab4b401c41a0?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0Y2SrByf4G3kbq2nBEHQRn"
+}

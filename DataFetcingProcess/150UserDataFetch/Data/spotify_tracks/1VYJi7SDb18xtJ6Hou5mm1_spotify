@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5H4t4yeimHOxZrPwcsdw2V"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5H4t4yeimHOxZrPwcsdw2V",
+    "id" : "5H4t4yeimHOxZrPwcsdw2V",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/02bd189433691a8eb843f7bc3a82d8355938469a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bae1743fb58dbe6432e13bfbd523dd6a6105b890",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2dcaf9d0a3606f9f350059223f37a8aa96bac3c5",
+      "width" : 64
+    } ],
+    "name" : "Cruel Intentions",
+    "type" : "album",
+    "uri" : "spotify:album:5H4t4yeimHOxZrPwcsdw2V"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/526q7RxT5KA1VGeQ5GMSHO",
+    "id" : "526q7RxT5KA1VGeQ5GMSHO",
+    "name" : "Craig Armstrong",
+    "type" : "artist",
+    "uri" : "spotify:artist:526q7RxT5KA1VGeQ5GMSHO"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 387266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAA9710079"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1VYJi7SDb18xtJ6Hou5mm1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1VYJi7SDb18xtJ6Hou5mm1",
+  "id" : "1VYJi7SDb18xtJ6Hou5mm1",
+  "name" : "This Love",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/eacab76b670b3790bc7ad1703ef4055b349a1815?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1VYJi7SDb18xtJ6Hou5mm1"
+}

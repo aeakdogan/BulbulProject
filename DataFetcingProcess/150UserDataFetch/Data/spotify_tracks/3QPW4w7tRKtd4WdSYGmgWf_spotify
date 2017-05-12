@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4lrBMUSk8PiNnCEZfsmPAk",
+      "id" : "4lrBMUSk8PiNnCEZfsmPAk",
+      "name" : "The Pineapple Thief",
+      "type" : "artist",
+      "uri" : "spotify:artist:4lrBMUSk8PiNnCEZfsmPAk"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6OuXNlOk4KQ6lJxm45MtVC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6OuXNlOk4KQ6lJxm45MtVC",
+    "id" : "6OuXNlOk4KQ6lJxm45MtVC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7c4f5fea28c8b90f3d82cd5c134ffa6d705e340b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/798fd22ba8ee6bda8fdb1c25196e58544290b01c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/21f1370f2d6ecd5e2a73c49fbc663c4b98a247f5",
+      "width" : 64
+    } ],
+    "name" : "Tightly Unwound (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:6OuXNlOk4KQ6lJxm45MtVC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4lrBMUSk8PiNnCEZfsmPAk",
+    "id" : "4lrBMUSk8PiNnCEZfsmPAk",
+    "name" : "The Pineapple Thief",
+    "type" : "artist",
+    "uri" : "spotify:artist:4lrBMUSk8PiNnCEZfsmPAk"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 889920,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCQV0800043"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3QPW4w7tRKtd4WdSYGmgWf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3QPW4w7tRKtd4WdSYGmgWf",
+  "id" : "3QPW4w7tRKtd4WdSYGmgWf",
+  "name" : "Too Much To Lose",
+  "popularity" : 2,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fdd3b148a1eb45fd48a6eeda1d57b7a42bd115ea?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3QPW4w7tRKtd4WdSYGmgWf"
+}

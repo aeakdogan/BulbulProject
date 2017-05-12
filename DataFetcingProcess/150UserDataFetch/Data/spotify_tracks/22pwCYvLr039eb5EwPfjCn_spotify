@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5rX2c1zow6hCph8PnnU3kF",
+      "id" : "5rX2c1zow6hCph8PnnU3kF",
+      "name" : "Astrud Gilberto",
+      "type" : "artist",
+      "uri" : "spotify:artist:5rX2c1zow6hCph8PnnU3kF"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6VKiHAldVRYvSB0T3k3epg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6VKiHAldVRYvSB0T3k3epg",
+    "id" : "6VKiHAldVRYvSB0T3k3epg",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/80846cdcc9a14a9a2bdc27232d571aa40f116e5f",
+      "width" : 640
+    }, {
+      "height" : 298,
+      "url" : "https://i.scdn.co/image/3ffbf7958b2fcbfef52e7ceeb59ddffb9993c3be",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/955f349eb6c6999ff485efc7eefe8ddda60e0e0a",
+      "width" : 64
+    } ],
+    "name" : "Gold",
+    "type" : "album",
+    "uri" : "spotify:album:6VKiHAldVRYvSB0T3k3epg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5rX2c1zow6hCph8PnnU3kF",
+    "id" : "5rX2c1zow6hCph8PnnU3kF",
+    "name" : "Astrud Gilberto",
+    "type" : "artist",
+    "uri" : "spotify:artist:5rX2c1zow6hCph8PnnU3kF"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 179520,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USF096500570"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/22pwCYvLr039eb5EwPfjCn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/22pwCYvLr039eb5EwPfjCn",
+  "id" : "22pwCYvLr039eb5EwPfjCn",
+  "name" : "O Morro (Nao Tem Vez)",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f34cec31e8355e8076ff569824c9122d86541218?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:22pwCYvLr039eb5EwPfjCn"
+}

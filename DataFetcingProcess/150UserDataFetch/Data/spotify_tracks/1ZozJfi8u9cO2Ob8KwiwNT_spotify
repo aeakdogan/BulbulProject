@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+      "id" : "43sZBwHjahUvgbx1WNIkIz",
+      "name" : "Creed",
+      "type" : "artist",
+      "uri" : "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Nyjm9NBEdiaiWr2BEaV46",
+    "id" : "3Nyjm9NBEdiaiWr2BEaV46",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6f30a62ab93d8cb4caae35d9cb3d961c071c0265",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a9f28022b3c6112c4507076bb144ba745bb6e6de",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/212f283b93a7747ce0117946de64cf549fe1cde1",
+      "width" : 64
+    } ],
+    "name" : "Human Clay",
+    "type" : "album",
+    "uri" : "spotify:album:3Nyjm9NBEdiaiWr2BEaV46"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+    "id" : "43sZBwHjahUvgbx1WNIkIz",
+    "name" : "Creed",
+    "type" : "artist",
+    "uri" : "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 316733,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWU39909053"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1ZozJfi8u9cO2Ob8KwiwNT",
+  "id" : "1ZozJfi8u9cO2Ob8KwiwNT",
+  "name" : "Higher",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/53ce6ee85ed1df537934bdb605b19ea1e0ad4b7e?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:1ZozJfi8u9cO2Ob8KwiwNT"
+}

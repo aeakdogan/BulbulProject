@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz",
+      "id" : "7mnBLXK823vNxN3UWB7Gfz",
+      "name" : "The Black Keys",
+      "type" : "artist",
+      "uri" : "spotify:artist:7mnBLXK823vNxN3UWB7Gfz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5DLhV9yOvZ7IxVmljMXtNm",
+    "id" : "5DLhV9yOvZ7IxVmljMXtNm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c765b38b45009654a06f756110f8277c6b1ddd4a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4e70d2befac151644e1b03c9669c88547688897d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/625f7f7be253150976583d65cef3649fa30c52d8",
+      "width" : 64
+    } ],
+    "name" : "El Camino",
+    "type" : "album",
+    "uri" : "spotify:album:5DLhV9yOvZ7IxVmljMXtNm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz",
+    "id" : "7mnBLXK823vNxN3UWB7Gfz",
+    "name" : "The Black Keys",
+    "type" : "artist",
+    "uri" : "spotify:artist:7mnBLXK823vNxN3UWB7Gfz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 197000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO11100278"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5HgAZuHFAU5qLLMYuIQkgq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5HgAZuHFAU5qLLMYuIQkgq",
+  "id" : "5HgAZuHFAU5qLLMYuIQkgq",
+  "name" : "Run Right Back",
+  "popularity" : 49,
+  "preview_url" : "https://p.scdn.co/mp3-preview/26e16b2e6608d655f4648b85fcd7e751ddf5966d?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5HgAZuHFAU5qLLMYuIQkgq"
+}

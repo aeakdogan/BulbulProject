@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ggwAqZD3lyT2sbovlmfQY",
+      "id" : "3ggwAqZD3lyT2sbovlmfQY",
+      "name" : "Meshuggah",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ggwAqZD3lyT2sbovlmfQY"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MT", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7nwiqJBpMfvX7SNua996Jf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7nwiqJBpMfvX7SNua996Jf",
+    "id" : "7nwiqJBpMfvX7SNua996Jf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/84e115e70b6ad6caf4505ce0f2176bdb78814419",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a9df835250447ef41f7fb89e34ee7f20c60c6141",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/904707169bf8c20e07f7d6546f671fb2d73f8d4b",
+      "width" : 64
+    } ],
+    "name" : "Catch ThirtyThree",
+    "type" : "album",
+    "uri" : "spotify:album:7nwiqJBpMfvX7SNua996Jf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3ggwAqZD3lyT2sbovlmfQY",
+    "id" : "3ggwAqZD3lyT2sbovlmfQY",
+    "name" : "Meshuggah",
+    "type" : "artist",
+    "uri" : "spotify:artist:3ggwAqZD3lyT2sbovlmfQY"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MT", "MX", "NI", "NZ", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 191906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DED830583604"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1K1JnMJJRlywjuS4k7tZHx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1K1JnMJJRlywjuS4k7tZHx",
+  "id" : "1K1JnMJJRlywjuS4k7tZHx",
+  "name" : "The Paradoxical Spiral",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4e4b1df4227ec1fc48b8c30a89a72fd091c933bc?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:1K1JnMJJRlywjuS4k7tZHx"
+}

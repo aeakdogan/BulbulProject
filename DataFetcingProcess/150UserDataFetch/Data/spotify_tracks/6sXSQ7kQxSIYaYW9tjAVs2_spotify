@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+      },
+      "href" : "https://api.spotify.com/v1/artists/18RkLKfeoUgZflWv9os25W",
+      "id" : "18RkLKfeoUgZflWv9os25W",
+      "name" : "Miriam Makeba",
+      "type" : "artist",
+      "uri" : "spotify:artist:18RkLKfeoUgZflWv9os25W"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2uswx6G0mHAATyEB2Lkd98"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2uswx6G0mHAATyEB2Lkd98",
+    "id" : "2uswx6G0mHAATyEB2Lkd98",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/730c57ad75c86f88f46e28b48bc6ccf805930c6d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3872d3342960a0fb5743b16a7a4d9e726e61f620",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/52aa0f2e28bcd7be9aaa1e9f212c4d487c33955a",
+      "width" : 64
+    } ],
+    "name" : "The Best Of",
+    "type" : "album",
+    "uri" : "spotify:album:2uswx6G0mHAATyEB2Lkd98"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+    },
+    "href" : "https://api.spotify.com/v1/artists/18RkLKfeoUgZflWv9os25W",
+    "id" : "18RkLKfeoUgZflWv9os25W",
+    "name" : "Miriam Makeba",
+    "type" : "artist",
+    "uri" : "spotify:artist:18RkLKfeoUgZflWv9os25W"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "EC", "GT", "HN", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 152600,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC16007385"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6sXSQ7kQxSIYaYW9tjAVs2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6sXSQ7kQxSIYaYW9tjAVs2",
+  "id" : "6sXSQ7kQxSIYaYW9tjAVs2",
+  "name" : "The Click Song",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/25aefdca067bc8bbc18648be4357666645522c63?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6sXSQ7kQxSIYaYW9tjAVs2"
+}

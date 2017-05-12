@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0qLNsNKm8bQcMoRFkR8Hmh",
+      "id" : "0qLNsNKm8bQcMoRFkR8Hmh",
+      "name" : "James",
+      "type" : "artist",
+      "uri" : "spotify:artist:0qLNsNKm8bQcMoRFkR8Hmh"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/379HctFmaWUiHTlfUjF5qN",
+    "id" : "379HctFmaWUiHTlfUjF5qN",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/29735d681e977352080c07704a2a2ec2f00ba47f",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/c10781d5ab65ece10fc9cd99d9f4656f6c739fed",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/a78053eac6d8eb22fa84d6869b979f52776a4679",
+      "width" : 64
+    } ],
+    "name" : "James: The Best Of",
+    "type" : "album",
+    "uri" : "spotify:album:379HctFmaWUiHTlfUjF5qN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0qLNsNKm8bQcMoRFkR8Hmh",
+    "id" : "0qLNsNKm8bQcMoRFkR8Hmh",
+    "name" : "James",
+    "type" : "artist",
+    "uri" : "spotify:artist:0qLNsNKm8bQcMoRFkR8Hmh"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 249333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF089800032"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0RoFKojH4DhkXlLFWFSUnW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0RoFKojH4DhkXlLFWFSUnW",
+  "id" : "0RoFKojH4DhkXlLFWFSUnW",
+  "name" : "Runaground",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b2a1cc5fe4e19b36d3684ace805b183b8e4306e2?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:0RoFKojH4DhkXlLFWFSUnW"
+}

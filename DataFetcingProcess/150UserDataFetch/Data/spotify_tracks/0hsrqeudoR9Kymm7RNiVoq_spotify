@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19ra5tSw0tWufvUp8GotLo",
+      "id" : "19ra5tSw0tWufvUp8GotLo",
+      "name" : "George Michael",
+      "type" : "artist",
+      "uri" : "spotify:artist:19ra5tSw0tWufvUp8GotLo"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Ys4joU6TESJ4eh00lvUoI",
+    "id" : "1Ys4joU6TESJ4eh00lvUoI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/81422a857d8ab8531d6eb967465789ee3081fdf4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a8b1aabde9ef0bd1d7b2bfc5ca6f82c30f87fe41",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d239d5e54ef8f693a1fa1138a9544ada186606fe",
+      "width" : 64
+    } ],
+    "name" : "Patience",
+    "type" : "album",
+    "uri" : "spotify:album:1Ys4joU6TESJ4eh00lvUoI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+    },
+    "href" : "https://api.spotify.com/v1/artists/19ra5tSw0tWufvUp8GotLo",
+    "id" : "19ra5tSw0tWufvUp8GotLo",
+    "name" : "George Michael",
+    "type" : "artist",
+    "uri" : "spotify:artist:19ra5tSw0tWufvUp8GotLo"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 265826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBN0300681"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0hsrqeudoR9Kymm7RNiVoq",
+  "id" : "0hsrqeudoR9Kymm7RNiVoq",
+  "name" : "Amazing",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d2e885fae7a179b077ee6aa9f999c0d7a94b2ba0?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0hsrqeudoR9Kymm7RNiVoq"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4EVpmkEwrLYEg6jIsiPMIb",
+      "id" : "4EVpmkEwrLYEg6jIsiPMIb",
+      "name" : "Fleet Foxes",
+      "type" : "artist",
+      "uri" : "spotify:artist:4EVpmkEwrLYEg6jIsiPMIb"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6spTDEWQfiSsKjkR9NmuDX",
+    "id" : "6spTDEWQfiSsKjkR9NmuDX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6e183bec30e9765bb171beaa5899a033ad7b278c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/37ce9cb991b471730be58c5d16f5cd35cae8eb0a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5473000bb2b73acc3db476649c390ee5b0699b36",
+      "width" : 64
+    } ],
+    "name" : "Fleet Foxes",
+    "type" : "album",
+    "uri" : "spotify:album:6spTDEWQfiSsKjkR9NmuDX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4EVpmkEwrLYEg6jIsiPMIb",
+    "id" : "4EVpmkEwrLYEg6jIsiPMIb",
+    "name" : "Fleet Foxes",
+    "type" : "artist",
+    "uri" : "spotify:artist:4EVpmkEwrLYEg6jIsiPMIb"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HK", "HN", "ID", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 208973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSUB0877704"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5oYkuJL2VQ3Ss2oxNuRk3L"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5oYkuJL2VQ3Ss2oxNuRk3L",
+  "id" : "5oYkuJL2VQ3Ss2oxNuRk3L",
+  "name" : "Tiger Mountain Peasant Song",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/84958bef472e761c8ffa33ff1ac12d324a280fcb?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5oYkuJL2VQ3Ss2oxNuRk3L"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3",
+      "id" : "6aVjo0xHSiuW5hkasoYSR3",
+      "name" : "Melvins",
+      "type" : "artist",
+      "uri" : "spotify:artist:6aVjo0xHSiuW5hkasoYSR3"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3hAEZH07Rme4RfmSbd7KMC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3hAEZH07Rme4RfmSbd7KMC",
+    "id" : "3hAEZH07Rme4RfmSbd7KMC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fdf74235fab1e7e3ee42053fe4a36d37d2e01068",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b413c25dc233df287566d1993058dd90d3b4607f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/73fddf761c1e794e63038e8a348055091690bc7d",
+      "width" : 64
+    } ],
+    "name" : "Bullhead",
+    "type" : "album",
+    "uri" : "spotify:album:3hAEZH07Rme4RfmSbd7KMC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3",
+    "id" : "6aVjo0xHSiuW5hkasoYSR3",
+    "name" : "Melvins",
+    "type" : "artist",
+    "uri" : "spotify:artist:6aVjo0xHSiuW5hkasoYSR3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 254026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA2Z0400005"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0F1oPyEZ7fyNsYJstJBKD0"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0F1oPyEZ7fyNsYJstJBKD0",
+  "id" : "0F1oPyEZ7fyNsYJstJBKD0",
+  "name" : "Zodiac",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/02b2372b952ff5a91f0d1f5577a9cfba491b1a32?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:0F1oPyEZ7fyNsYJstJBKD0"
+}

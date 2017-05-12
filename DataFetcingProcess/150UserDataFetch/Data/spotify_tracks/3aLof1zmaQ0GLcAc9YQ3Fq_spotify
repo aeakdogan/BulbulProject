@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2uFUBdaVGtyMqckSeCl0Qj",
+      "id" : "2uFUBdaVGtyMqckSeCl0Qj",
+      "name" : "Ludovico Einaudi",
+      "type" : "artist",
+      "uri" : "spotify:artist:2uFUBdaVGtyMqckSeCl0Qj"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4aSt14A98gEpCUpKecrl4V"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4aSt14A98gEpCUpKecrl4V",
+    "id" : "4aSt14A98gEpCUpKecrl4V",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/573e6b189d2b75ffbdcc7ba8f0b62e2a0151e46a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/8569ba0e6c17ce5803818f4241fe1d8004f9e76f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e507269c6d34af2634c9e6501cc1bbd0bfd2e6e9",
+      "width" : 64
+    } ],
+    "name" : "Una Mattina",
+    "type" : "album",
+    "uri" : "spotify:album:4aSt14A98gEpCUpKecrl4V"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2uFUBdaVGtyMqckSeCl0Qj",
+    "id" : "2uFUBdaVGtyMqckSeCl0Qj",
+    "name" : "Ludovico Einaudi",
+    "type" : "artist",
+    "uri" : "spotify:artist:2uFUBdaVGtyMqckSeCl0Qj"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 357706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ITC490700125"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3aLof1zmaQ0GLcAc9YQ3Fq"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3aLof1zmaQ0GLcAc9YQ3Fq",
+  "id" : "3aLof1zmaQ0GLcAc9YQ3Fq",
+  "name" : "Nuvole bianche",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/421e1d6b1514982e078a9dc36b04e87284227402?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:3aLof1zmaQ0GLcAc9YQ3Fq"
+}

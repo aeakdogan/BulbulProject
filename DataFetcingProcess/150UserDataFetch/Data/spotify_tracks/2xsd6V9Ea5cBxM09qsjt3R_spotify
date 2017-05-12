@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NyNPJaemMYsL14DK2tO01",
+      "id" : "3NyNPJaemMYsL14DK2tO01",
+      "name" : "Cheryl",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NyNPJaemMYsL14DK2tO01"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1iHdZkwznhRLn34yIQmefD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1iHdZkwznhRLn34yIQmefD",
+    "id" : "1iHdZkwznhRLn34yIQmefD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8750f830092215f25abaf9130c57f834689655a8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4ba8d3bbd0d01e07e300e4c05cf8fe797777032a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5338adc3f337addc9d26ec9c97a2a5518e8064cd",
+      "width" : 64
+    } ],
+    "name" : "3 Words",
+    "type" : "album",
+    "uri" : "spotify:album:1iHdZkwznhRLn34yIQmefD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3NyNPJaemMYsL14DK2tO01",
+    "id" : "3NyNPJaemMYsL14DK2tO01",
+    "name" : "Cheryl",
+    "type" : "artist",
+    "uri" : "spotify:artist:3NyNPJaemMYsL14DK2tO01"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 275266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70912616"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2xsd6V9Ea5cBxM09qsjt3R"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2xsd6V9Ea5cBxM09qsjt3R",
+  "id" : "2xsd6V9Ea5cBxM09qsjt3R",
+  "name" : "Make Me Cry",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ba780648bf809396e46fe7d9fff594bbb7026a48?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:2xsd6V9Ea5cBxM09qsjt3R"
+}

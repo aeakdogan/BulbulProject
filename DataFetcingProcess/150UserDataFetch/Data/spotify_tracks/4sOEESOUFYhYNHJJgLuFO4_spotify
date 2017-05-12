@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6gR4EDasZlQDkwNVpEHENK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6gR4EDasZlQDkwNVpEHENK",
+    "id" : "6gR4EDasZlQDkwNVpEHENK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1c9b1435a52760383555bc5e64624726231d5644",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/114c15a4b901686557c970b0eff9cd4aca58516d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/098763cf1ed8154a6e81e620d18e50a34cc4cb36",
+      "width" : 64
+    } ],
+    "name" : "Shame",
+    "type" : "album",
+    "uri" : "spotify:album:6gR4EDasZlQDkwNVpEHENK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1kB9272dj9VkUElky5CLXP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1kB9272dj9VkUElky5CLXP",
+    "id" : "1kB9272dj9VkUElky5CLXP",
+    "name" : "Harry Escott",
+    "type" : "artist",
+    "uri" : "spotify:artist:1kB9272dj9VkUElky5CLXP"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 575413,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11106079"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4sOEESOUFYhYNHJJgLuFO4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4sOEESOUFYhYNHJJgLuFO4",
+  "id" : "4sOEESOUFYhYNHJJgLuFO4",
+  "name" : "Unravelling",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5f496146ef2051f89aeae9f5feb413e020f79121?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:4sOEESOUFYhYNHJJgLuFO4"
+}

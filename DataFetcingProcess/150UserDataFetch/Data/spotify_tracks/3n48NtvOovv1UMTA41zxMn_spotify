@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2eogQKWWoohI3BSnoG7E2U",
+      "id" : "2eogQKWWoohI3BSnoG7E2U",
+      "name" : "Donna Summer",
+      "type" : "artist",
+      "uri" : "spotify:artist:2eogQKWWoohI3BSnoG7E2U"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7eJH6omaUJc3iAOw4CieNf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7eJH6omaUJc3iAOw4CieNf",
+    "id" : "7eJH6omaUJc3iAOw4CieNf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/170a5e366ef87855ceb9661c27d304ba1aed4153",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/42d35f78240a617144a4445dc9588ba23f5c0d63",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2f04a7e08e63bc3591e1da5b7e564dda62fc14a2",
+      "width" : 64
+    } ],
+    "name" : "Bad Girls [Deluxe Edition (US Version)]",
+    "type" : "album",
+    "uri" : "spotify:album:7eJH6omaUJc3iAOw4CieNf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2eogQKWWoohI3BSnoG7E2U",
+    "id" : "2eogQKWWoohI3BSnoG7E2U",
+    "name" : "Donna Summer",
+    "type" : "artist",
+    "uri" : "spotify:artist:2eogQKWWoohI3BSnoG7E2U"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 295125,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR37900069"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3n48NtvOovv1UMTA41zxMn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3n48NtvOovv1UMTA41zxMn",
+  "id" : "3n48NtvOovv1UMTA41zxMn",
+  "name" : "Bad Girls - 12\" Version",
+  "popularity" : 39,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ec4aac23a087e8029ee6176077a70d9562645d8?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3n48NtvOovv1UMTA41zxMn"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+      "id" : "4tZwfgrHOc3mvqYlEYSvVi",
+      "name" : "Daft Punk",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4US3nmuLIKELhVZdBPiKxx",
+    "id" : "4US3nmuLIKELhVZdBPiKxx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6d72297fd301ea6af947b776c2946326376ada23",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3eb0a10efe080a43388d15bc7e9d2b2b2c07e91d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/af96424b71f15f3d37c7ec4745e414a703f327a4",
+      "width" : 64
+    } ],
+    "name" : "TRON: Legacy",
+    "type" : "album",
+    "uri" : "spotify:album:4US3nmuLIKELhVZdBPiKxx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+    "id" : "4tZwfgrHOc3mvqYlEYSvVi",
+    "name" : "Daft Punk",
+    "type" : "artist",
+    "uri" : "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 137640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWD11054882"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2xP7MLAMo06fuhne2M8pXA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2xP7MLAMo06fuhne2M8pXA",
+  "id" : "2xP7MLAMo06fuhne2M8pXA",
+  "name" : "Rinzler",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fa2691da5491e543959b06cbc363d3e82e13bc30?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2xP7MLAMo06fuhne2M8pXA"
+}

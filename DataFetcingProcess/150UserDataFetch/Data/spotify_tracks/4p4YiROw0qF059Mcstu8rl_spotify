@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1VaIDrxow5xfLmB9R26JVZ",
+      "id" : "1VaIDrxow5xfLmB9R26JVZ",
+      "name" : "Danger Danger",
+      "type" : "artist",
+      "uri" : "spotify:artist:1VaIDrxow5xfLmB9R26JVZ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3fkdfqYl5Ky1jbpEWqDe5U"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3fkdfqYl5Ky1jbpEWqDe5U",
+    "id" : "3fkdfqYl5Ky1jbpEWqDe5U",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a6cb3da32be40cd5384c9838a553f76763caf487",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9698742466aae77c407c8712cc75d6c8192423df",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/59439da930e662a9895df7692a6baf899a051acb",
+      "width" : 64
+    } ],
+    "name" : "Danger Danger",
+    "type" : "album",
+    "uri" : "spotify:album:3fkdfqYl5Ky1jbpEWqDe5U"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1VaIDrxow5xfLmB9R26JVZ",
+    "id" : "1VaIDrxow5xfLmB9R26JVZ",
+    "name" : "Danger Danger",
+    "type" : "artist",
+    "uri" : "spotify:artist:1VaIDrxow5xfLmB9R26JVZ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 236933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19916684"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4p4YiROw0qF059Mcstu8rl"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4p4YiROw0qF059Mcstu8rl",
+  "id" : "4p4YiROw0qF059Mcstu8rl",
+  "name" : "Bang Bang",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6ed27faf26c78183c7e50567929aafe7eedcfb31?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:4p4YiROw0qF059Mcstu8rl"
+}

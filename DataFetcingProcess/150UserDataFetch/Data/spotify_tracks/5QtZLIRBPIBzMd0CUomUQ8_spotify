@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2d2nsDptWp7mtiXE6eWFVF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2d2nsDptWp7mtiXE6eWFVF",
+      "id" : "2d2nsDptWp7mtiXE6eWFVF",
+      "name" : "Salim Nourallah",
+      "type" : "artist",
+      "uri" : "spotify:artist:2d2nsDptWp7mtiXE6eWFVF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7innGK8e68YUuDWnpDhe8u"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7innGK8e68YUuDWnpDhe8u",
+    "id" : "7innGK8e68YUuDWnpDhe8u",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9598c790d359cfbb90fe2cadef0d3dd0870d0b18",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e988a5b872b44da35c0438ecdc0d21e6c74e6fd1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/59f324f4fd59719f47d25b673b1fbcabef87a61a",
+      "width" : 64
+    } ],
+    "name" : "Beautiful Noise",
+    "type" : "album",
+    "uri" : "spotify:album:7innGK8e68YUuDWnpDhe8u"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2d2nsDptWp7mtiXE6eWFVF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2d2nsDptWp7mtiXE6eWFVF",
+    "id" : "2d2nsDptWp7mtiXE6eWFVF",
+    "name" : "Salim Nourallah",
+    "type" : "artist",
+    "uri" : "spotify:artist:2d2nsDptWp7mtiXE6eWFVF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 249120,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US78L0510305"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5QtZLIRBPIBzMd0CUomUQ8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5QtZLIRBPIBzMd0CUomUQ8",
+  "id" : "5QtZLIRBPIBzMd0CUomUQ8",
+  "name" : "The Beautiful Noise",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fdf4bcda4862c9d9a8bc9b0e9812cc4bd7b72d1e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5QtZLIRBPIBzMd0CUomUQ8"
+}

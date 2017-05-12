@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Fe3pszR2t4TOBVz41B1WR",
+      "id" : "3Fe3pszR2t4TOBVz41B1WR",
+      "name" : "The Oh Hellos",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Fe3pszR2t4TOBVz41B1WR"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7cJyN85qjzHZBjeo9LRry8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7cJyN85qjzHZBjeo9LRry8",
+    "id" : "7cJyN85qjzHZBjeo9LRry8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d0f4f7ff52f90adc841a48bb9d75bb69d6f298f9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fb6480f12a06bdf742fe3294cc35af9703a46848",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bd4c58ea87dfc808559983ff9f63925a741c11c6",
+      "width" : 64
+    } ],
+    "name" : "Through the Deep, Dark Valley",
+    "type" : "album",
+    "uri" : "spotify:album:7cJyN85qjzHZBjeo9LRry8"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Fe3pszR2t4TOBVz41B1WR",
+    "id" : "3Fe3pszR2t4TOBVz41B1WR",
+    "name" : "The Oh Hellos",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Fe3pszR2t4TOBVz41B1WR"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 305000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USHM91283385"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3rhyMywAzKIALXc1uQYB1d"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3rhyMywAzKIALXc1uQYB1d",
+  "id" : "3rhyMywAzKIALXc1uQYB1d",
+  "name" : "Like The Dawn",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1ac519346bd52300077d474f57757f740af76039?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3rhyMywAzKIALXc1uQYB1d"
+}

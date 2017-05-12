@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4rjlerN21ygkIhmUv55irs",
+      "id" : "4rjlerN21ygkIhmUv55irs",
+      "name" : "The Jesus and Mary Chain",
+      "type" : "artist",
+      "uri" : "spotify:artist:4rjlerN21ygkIhmUv55irs"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1vtsYpapUeoDNMJOWRql9b"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1vtsYpapUeoDNMJOWRql9b",
+    "id" : "1vtsYpapUeoDNMJOWRql9b",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bdd691c5153cdce7701747daca7f5138a350430a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/69c43bb2c7e483e8f323e649b1632fc691ef59e0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ea17995ddd3882dc43bcc4431ee334e880ce1692",
+      "width" : 64
+    } ],
+    "name" : "Darklands",
+    "type" : "album",
+    "uri" : "spotify:album:1vtsYpapUeoDNMJOWRql9b"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4rjlerN21ygkIhmUv55irs",
+    "id" : "4rjlerN21ygkIhmUv55irs",
+    "name" : "The Jesus and Mary Chain",
+    "type" : "artist",
+    "uri" : "spotify:artist:4rjlerN21ygkIhmUv55irs"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 217240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHT0200232"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3N46STykuPaGLw2lHl3e3R"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3N46STykuPaGLw2lHl3e3R",
+  "id" : "3N46STykuPaGLw2lHl3e3R",
+  "name" : "Happy When It Rains",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/00bcbb93a54ddffc33420643c77f6f3bc001cc91?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3N46STykuPaGLw2lHl3e3R"
+}

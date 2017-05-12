@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zYQWYmtimAEmI6WWEzGfO",
+      "id" : "4zYQWYmtimAEmI6WWEzGfO",
+      "name" : "Them Crooked Vultures",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zYQWYmtimAEmI6WWEzGfO"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2J1Su4rQL12Nf3v6w3MBvl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2J1Su4rQL12Nf3v6w3MBvl",
+    "id" : "2J1Su4rQL12Nf3v6w3MBvl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ccdda40c30b8d65d8302c3d198d2e9e2a6751fb4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4bd4f98c8d51c12ce04048444434ffa013c51223",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ef77cb67ecdd4f018b9029c2a2846b74062263b2",
+      "width" : 64
+    } ],
+    "name" : "Them Crooked Vultures",
+    "type" : "album",
+    "uri" : "spotify:album:2J1Su4rQL12Nf3v6w3MBvl"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4zYQWYmtimAEmI6WWEzGfO",
+    "id" : "4zYQWYmtimAEmI6WWEzGfO",
+    "name" : "Them Crooked Vultures",
+    "type" : "artist",
+    "uri" : "spotify:artist:4zYQWYmtimAEmI6WWEzGfO"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 295280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRW30900013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5o3Ry6h5lN7Abhn3SugK6F"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5o3Ry6h5lN7Abhn3SugK6F",
+  "id" : "5o3Ry6h5lN7Abhn3SugK6F",
+  "name" : "Caligulove",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c2a30be210d0544b18bc9f0ebecb31dee6ef7821?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:5o3Ry6h5lN7Abhn3SugK6F"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/53QzNeFpzAaXYnrDBbDrIp",
+      "id" : "53QzNeFpzAaXYnrDBbDrIp",
+      "name" : "The Isley Brothers",
+      "type" : "artist",
+      "uri" : "spotify:artist:53QzNeFpzAaXYnrDBbDrIp"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/35EP5dBkQWS0Lta6GE2VOu",
+    "id" : "35EP5dBkQWS0Lta6GE2VOu",
+    "images" : [ {
+      "height" : 628,
+      "url" : "https://i.scdn.co/image/bdbd9863ce2bd239c5aaa614a1d844ee1c895411",
+      "width" : 640
+    }, {
+      "height" : 294,
+      "url" : "https://i.scdn.co/image/a4112159dd7fc4359956630403e8dfdb047bbbf5",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/75b01dfb0cdf9772d715a93ae17dfda10748f771",
+      "width" : 64
+    } ],
+    "name" : "Between the Sheets",
+    "type" : "album",
+    "uri" : "spotify:album:35EP5dBkQWS0Lta6GE2VOu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/53QzNeFpzAaXYnrDBbDrIp",
+    "id" : "53QzNeFpzAaXYnrDBbDrIp",
+    "name" : "The Isley Brothers",
+    "type" : "artist",
+    "uri" : "spotify:artist:53QzNeFpzAaXYnrDBbDrIp"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 282800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19915048"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7rYoS50ucgBq7tfJUxxn9Z"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7rYoS50ucgBq7tfJUxxn9Z",
+  "id" : "7rYoS50ucgBq7tfJUxxn9Z",
+  "name" : "Choosey Lover",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5c14ca0fa58559afa33b790b3e4c9b3d36e4d3b3?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:7rYoS50ucgBq7tfJUxxn9Z"
+}

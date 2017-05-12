@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/674k9z9PERhPAZF7osTrxs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/674k9z9PERhPAZF7osTrxs",
+    "id" : "674k9z9PERhPAZF7osTrxs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8d1648c052dbe0a5d723e9491b25cb8d98df3f32",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/40a1d2dcdd0ae183fb8a65d30967b38620a3e74c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/dcc12e828a928a83f73fff89853ed93cfbc87f5f",
+      "width" : 64
+    } ],
+    "name" : "After Dark",
+    "type" : "album",
+    "uri" : "spotify:album:674k9z9PERhPAZF7osTrxs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2V6gEFlkPMTuaL4ZldHvJm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2V6gEFlkPMTuaL4ZldHvJm",
+    "id" : "2V6gEFlkPMTuaL4ZldHvJm",
+    "name" : "Farah",
+    "type" : "artist",
+    "uri" : "spotify:artist:2V6gEFlkPMTuaL4ZldHvJm"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 336133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USL840710011"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7phuNFDnBgTJsDcLOSznr6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7phuNFDnBgTJsDcLOSznr6",
+  "id" : "7phuNFDnBgTJsDcLOSznr6",
+  "name" : "Dancing Girls (Suite 304 Demo)",
+  "popularity" : 22,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0670edce85a183bef68009c7ba9dc21878c86455?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:7phuNFDnBgTJsDcLOSznr6"
+}

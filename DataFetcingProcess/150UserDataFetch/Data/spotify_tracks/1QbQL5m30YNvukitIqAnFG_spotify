@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0smy8yDrRoI4CnhpOuthg0",
+      "id" : "0smy8yDrRoI4CnhpOuthg0",
+      "name" : "Corey Hart",
+      "type" : "artist",
+      "uri" : "spotify:artist:0smy8yDrRoI4CnhpOuthg0"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5BDE3Z6clvwbPoWWwiSyGp",
+    "id" : "5BDE3Z6clvwbPoWWwiSyGp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b2ec98831ce27940848e6c8e4702ed73eb6694d9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2b855b4ff13c6881a092920aa9b67f1266c0f7f6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0de49ae654a285a1148eb68bea51d0431594dcc0",
+      "width" : 64
+    } ],
+    "name" : "The Singles",
+    "type" : "album",
+    "uri" : "spotify:album:5BDE3Z6clvwbPoWWwiSyGp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0smy8yDrRoI4CnhpOuthg0",
+    "id" : "0smy8yDrRoI4CnhpOuthg0",
+    "name" : "Corey Hart",
+    "type" : "artist",
+    "uri" : "spotify:artist:0smy8yDrRoI4CnhpOuthg0"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 320573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEM38400043"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1QbQL5m30YNvukitIqAnFG",
+  "id" : "1QbQL5m30YNvukitIqAnFG",
+  "name" : "Sunglasses At Night",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/32660bd016ae58790af52e99aca4da439d64c86d?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1QbQL5m30YNvukitIqAnFG"
+}

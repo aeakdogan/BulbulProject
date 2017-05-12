@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4fxp616ALtFWnXfwxnjLzW",
+      "id" : "4fxp616ALtFWnXfwxnjLzW",
+      "name" : "Antony and the Johnsons",
+      "type" : "artist",
+      "uri" : "spotify:artist:4fxp616ALtFWnXfwxnjLzW"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2nPIp8ZQR55pyZA238s8Wp"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2nPIp8ZQR55pyZA238s8Wp",
+    "id" : "2nPIp8ZQR55pyZA238s8Wp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/19563e2da416039be147f568c1a5ec57c6810bb7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/54ac57122f8a50b6b0e7822fea56bf40c97c65d0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/910448a8aeb267151d1457c43a943464442c7a51",
+      "width" : 64
+    } ],
+    "name" : "Turning",
+    "type" : "album",
+    "uri" : "spotify:album:2nPIp8ZQR55pyZA238s8Wp"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4fxp616ALtFWnXfwxnjLzW",
+    "id" : "4fxp616ALtFWnXfwxnjLzW",
+    "name" : "Antony and the Johnsons",
+    "type" : "artist",
+    "uri" : "spotify:artist:4fxp616ALtFWnXfwxnjLzW"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "TR", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 343586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US38W1422111"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7JyI0Svxvm0iTKOAWIxTV1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7JyI0Svxvm0iTKOAWIxTV1",
+  "id" : "7JyI0Svxvm0iTKOAWIxTV1",
+  "name" : "Daylight and the Sun - Live",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4452ede31072e4f1f0717e9128c1eb07d661ee1a?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:7JyI0Svxvm0iTKOAWIxTV1"
+}

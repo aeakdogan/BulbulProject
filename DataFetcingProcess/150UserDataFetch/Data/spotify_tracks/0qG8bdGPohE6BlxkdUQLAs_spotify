@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ",
+      "id" : "1CYsQCypByMVgnv17qsSbQ",
+      "name" : "Crosby, Stills, Nash & Young",
+      "type" : "artist",
+      "uri" : "spotify:artist:1CYsQCypByMVgnv17qsSbQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0T0iwwI0nHiFcF0HDW59UO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0T0iwwI0nHiFcF0HDW59UO",
+    "id" : "0T0iwwI0nHiFcF0HDW59UO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2aa4f91e09cffdd01ddc73f76c1ee025c5101baf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7f31182f97eb588884660420118222b8fcb7b5ed",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ef81452817267236edd299eabae369ec5cf1181a",
+      "width" : 64
+    } ],
+    "name" : "4 Way Street",
+    "type" : "album",
+    "uri" : "spotify:album:0T0iwwI0nHiFcF0HDW59UO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1CYsQCypByMVgnv17qsSbQ",
+    "id" : "1CYsQCypByMVgnv17qsSbQ",
+    "name" : "Crosby, Stills, Nash & Young",
+    "type" : "artist",
+    "uri" : "spotify:artist:1CYsQCypByMVgnv17qsSbQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 414960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20100548"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0qG8bdGPohE6BlxkdUQLAs"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0qG8bdGPohE6BlxkdUQLAs",
+  "id" : "0qG8bdGPohE6BlxkdUQLAs",
+  "name" : "Triad - Live",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2b5408d57b76d20cb9458fdbe87cc59d0f820027?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:0qG8bdGPohE6BlxkdUQLAs"
+}

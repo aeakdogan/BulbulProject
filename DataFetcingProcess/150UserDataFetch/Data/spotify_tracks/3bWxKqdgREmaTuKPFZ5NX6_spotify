@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6imbHAlhHrFwtsOgqpeBK2",
+      "id" : "6imbHAlhHrFwtsOgqpeBK2",
+      "name" : "The Middle East",
+      "type" : "artist",
+      "uri" : "spotify:artist:6imbHAlhHrFwtsOgqpeBK2"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3zmet1FFuxVNeyvsmivg5y"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3zmet1FFuxVNeyvsmivg5y",
+    "id" : "3zmet1FFuxVNeyvsmivg5y",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2c3262466fde42242f217767ef37f1a1d443244a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b0c91e4927aabf2ec056fa5b4fa56fcb153dd784",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/deb42b230a630ace8594ae446888c479f9a1511c",
+      "width" : 64
+    } ],
+    "name" : "I Want That You Are Always Happy",
+    "type" : "album",
+    "uri" : "spotify:album:3zmet1FFuxVNeyvsmivg5y"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6imbHAlhHrFwtsOgqpeBK2",
+    "id" : "6imbHAlhHrFwtsOgqpeBK2",
+    "name" : "The Middle East",
+    "type" : "artist",
+    "uri" : "spotify:artist:6imbHAlhHrFwtsOgqpeBK2"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 616560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA371300365"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3bWxKqdgREmaTuKPFZ5NX6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3bWxKqdgREmaTuKPFZ5NX6",
+  "id" : "3bWxKqdgREmaTuKPFZ5NX6",
+  "name" : "Deep Water",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3dd0557c22453e49e96932dfb18d1f7a14e2c256?cid=null",
+  "track_number" : 13,
+  "type" : "track",
+  "uri" : "spotify:track:3bWxKqdgREmaTuKPFZ5NX6"
+}

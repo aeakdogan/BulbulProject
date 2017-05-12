@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dhUEswrKf1aUf6375EPSx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dhUEswrKf1aUf6375EPSx",
+      "id" : "1dhUEswrKf1aUf6375EPSx",
+      "name" : "She Keeps Bees",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dhUEswrKf1aUf6375EPSx"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/78ky7c5vCc7QIwARargaJq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/78ky7c5vCc7QIwARargaJq",
+    "id" : "78ky7c5vCc7QIwARargaJq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ee266eacdfecf0e1517b38303dc1a75c3d65c7ba",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f0d0c1ae9be429c9ec1cc49d88a3a767ef9b336a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d74bbf3927139b5920040b9f2d990767370fe79",
+      "width" : 64
+    } ],
+    "name" : "Eight Houses",
+    "type" : "album",
+    "uri" : "spotify:album:78ky7c5vCc7QIwARargaJq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dhUEswrKf1aUf6375EPSx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dhUEswrKf1aUf6375EPSx",
+    "id" : "1dhUEswrKf1aUf6375EPSx",
+    "name" : "She Keeps Bees",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dhUEswrKf1aUf6375EPSx"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 214073,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USQY51487278"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5YAwBLFaykBjwNl4W6PZXL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5YAwBLFaykBjwNl4W6PZXL",
+  "id" : "5YAwBLFaykBjwNl4W6PZXL",
+  "name" : "Owl",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3e01910acfcc41d42c3e7aeefe31e873358c165c?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5YAwBLFaykBjwNl4W6PZXL"
+}

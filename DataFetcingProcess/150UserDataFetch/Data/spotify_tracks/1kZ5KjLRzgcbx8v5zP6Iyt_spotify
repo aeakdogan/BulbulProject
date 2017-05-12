@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3NUsiT2JSyaWAnWaXxDzhQ",
+      "id" : "3NUsiT2JSyaWAnWaXxDzhQ",
+      "name" : "Dexter Gordon",
+      "type" : "artist",
+      "uri" : "spotify:artist:3NUsiT2JSyaWAnWaXxDzhQ"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5nEJj9bjoarnzlS88NiWet",
+    "id" : "5nEJj9bjoarnzlS88NiWet",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b6d3d0695982d8ce2f16f4b1e730fa8bcca0b501",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d470150b124112e3998cde1abec317432ddb3cff",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9e6ade1d4cc0e685f2a21ee273f1224b8b9c3023",
+      "width" : 64
+    } ],
+    "name" : "Go! (The Rudy Van Gelder Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:5nEJj9bjoarnzlS88NiWet"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3NUsiT2JSyaWAnWaXxDzhQ",
+    "id" : "3NUsiT2JSyaWAnWaXxDzhQ",
+    "name" : "Dexter Gordon",
+    "type" : "artist",
+    "uri" : "spotify:artist:3NUsiT2JSyaWAnWaXxDzhQ"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 341666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USBN29800934"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1kZ5KjLRzgcbx8v5zP6Iyt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1kZ5KjLRzgcbx8v5zP6Iyt",
+  "id" : "1kZ5KjLRzgcbx8v5zP6Iyt",
+  "name" : "Three O'Clock In The Morning - 1999 Digital Remaster",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a971c83edb66bf28e099ea9f06f690b0b58e1f92?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:1kZ5KjLRzgcbx8v5zP6Iyt"
+}

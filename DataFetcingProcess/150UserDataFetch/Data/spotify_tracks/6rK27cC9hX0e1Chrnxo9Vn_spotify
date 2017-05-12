@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/338mC0yGyX0C9of8QMJ5hK",
+      "id" : "338mC0yGyX0C9of8QMJ5hK",
+      "name" : "Gene Ammons",
+      "type" : "artist",
+      "uri" : "spotify:artist:338mC0yGyX0C9of8QMJ5hK"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/04l5TDoVZFNPvExGNdVjOj",
+    "id" : "04l5TDoVZFNPvExGNdVjOj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/860d9db312ef5e249e9416b94785a8b130f0a95b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c1321626f7687338f60ab6f65f7cca23966cd1e8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/47e3fae0bdefaae187d6892ebf67c39cd091a6a4",
+      "width" : 64
+    } ],
+    "name" : "Boss Tenor",
+    "type" : "album",
+    "uri" : "spotify:album:04l5TDoVZFNPvExGNdVjOj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/338mC0yGyX0C9of8QMJ5hK",
+    "id" : "338mC0yGyX0C9of8QMJ5hK",
+    "name" : "Gene Ammons",
+    "type" : "artist",
+    "uri" : "spotify:artist:338mC0yGyX0C9of8QMJ5hK"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 252946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI86000083"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6rK27cC9hX0e1Chrnxo9Vn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6rK27cC9hX0e1Chrnxo9Vn",
+  "id" : "6rK27cC9hX0e1Chrnxo9Vn",
+  "name" : "My Romance",
+  "popularity" : 48,
+  "preview_url" : "https://p.scdn.co/mp3-preview/849c323a52eb5b849f7d3cdcf9c1ebe0b80646fc?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6rK27cC9hX0e1Chrnxo9Vn"
+}

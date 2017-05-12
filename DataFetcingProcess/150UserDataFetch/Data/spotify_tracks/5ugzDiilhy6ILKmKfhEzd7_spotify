@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO",
+      "id" : "0X380XXQSNBYuleKzav5UO",
+      "name" : "Nine Inch Nails",
+      "type" : "artist",
+      "uri" : "spotify:artist:0X380XXQSNBYuleKzav5UO"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/56Us3Q6UIM4jKJZlWhqddL",
+    "id" : "56Us3Q6UIM4jKJZlWhqddL",
+    "images" : [ {
+      "height" : 574,
+      "url" : "https://i.scdn.co/image/669255cdcf2261c268f747280248456a8d959cd1",
+      "width" : 640
+    }, {
+      "height" : 269,
+      "url" : "https://i.scdn.co/image/740e5354526501656e28d1d7cc98358003657986",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/ee878cef2632f188a2410f2da8afa0413184a9d5",
+      "width" : 64
+    } ],
+    "name" : "With Teeth",
+    "type" : "album",
+    "uri" : "spotify:album:56Us3Q6UIM4jKJZlWhqddL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0X380XXQSNBYuleKzav5UO",
+    "id" : "0X380XXQSNBYuleKzav5UO",
+    "name" : "Nine Inch Nails",
+    "type" : "artist",
+    "uri" : "spotify:artist:0X380XXQSNBYuleKzav5UO"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 211680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR10500420"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5ugzDiilhy6ILKmKfhEzd7",
+  "id" : "5ugzDiilhy6ILKmKfhEzd7",
+  "name" : "The Hand That Feeds",
+  "popularity" : 54,
+  "preview_url" : "https://p.scdn.co/mp3-preview/c1be716cd60107ed21e7817a5cad61894c1dfaff?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:5ugzDiilhy6ILKmKfhEzd7"
+}

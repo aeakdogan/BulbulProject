@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/18H0sAptzdwid08XGg1Lcj",
+      "id" : "18H0sAptzdwid08XGg1Lcj",
+      "name" : "Death From Above 1979",
+      "type" : "artist",
+      "uri" : "spotify:artist:18H0sAptzdwid08XGg1Lcj"
+    } ],
+    "available_markets" : [ "AT", "BE", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "SE", "SK", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5AGKxoQIJ6MKDOiITKwH9z"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5AGKxoQIJ6MKDOiITKwH9z",
+    "id" : "5AGKxoQIJ6MKDOiITKwH9z",
+    "images" : [ {
+      "height" : 567,
+      "url" : "https://i.scdn.co/image/f6196d33c92310f406317b1cfe5c61ca442b7113",
+      "width" : 640
+    }, {
+      "height" : 266,
+      "url" : "https://i.scdn.co/image/ed766c3fc6c0df22ed9f456023de4789a1d188ce",
+      "width" : 300
+    }, {
+      "height" : 57,
+      "url" : "https://i.scdn.co/image/b76543563802be96f735d0177551df3fcc5dfce7",
+      "width" : 64
+    } ],
+    "name" : "You're A Woman, I'm A Machine",
+    "type" : "album",
+    "uri" : "spotify:album:5AGKxoQIJ6MKDOiITKwH9z"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/18H0sAptzdwid08XGg1Lcj",
+    "id" : "18H0sAptzdwid08XGg1Lcj",
+    "name" : "Death From Above 1979",
+    "type" : "artist",
+    "uri" : "spotify:artist:18H0sAptzdwid08XGg1Lcj"
+  } ],
+  "available_markets" : [ "AT", "BE", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "SE", "SK", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 195106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAL450490202"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2PKgrfkc1HRaN9FnGlz9o5"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2PKgrfkc1HRaN9FnGlz9o5",
+  "id" : "2PKgrfkc1HRaN9FnGlz9o5",
+  "name" : "Romantic Rights",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6864d5a76b55f0966caf2ac9bc031e992e5e9b8d?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:2PKgrfkc1HRaN9FnGlz9o5"
+}

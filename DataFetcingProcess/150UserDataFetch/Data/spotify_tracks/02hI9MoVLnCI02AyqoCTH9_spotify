@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1hPgyZ5YatVFXQBhsXKTpq",
+      "id" : "1hPgyZ5YatVFXQBhsXKTpq",
+      "name" : "Alberta Cross",
+      "type" : "artist",
+      "uri" : "spotify:artist:1hPgyZ5YatVFXQBhsXKTpq"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0z0jtDCtuSxbYpbzCln3jC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0z0jtDCtuSxbYpbzCln3jC",
+    "id" : "0z0jtDCtuSxbYpbzCln3jC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cf7a1a9a4417d578b9c9d380cbbe142531347087",
+      "width" : 610
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/561896bc1f7bfcd2f05c25bb2db167cfccc1d31f",
+      "width" : 286
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a8f5d6a16d3dea5323716324229d3d4806963ac0",
+      "width" : 61
+    } ],
+    "name" : "The Thief and The Heartbreaker",
+    "type" : "album",
+    "uri" : "spotify:album:0z0jtDCtuSxbYpbzCln3jC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1hPgyZ5YatVFXQBhsXKTpq",
+    "id" : "1hPgyZ5YatVFXQBhsXKTpq",
+    "name" : "Alberta Cross",
+    "type" : "artist",
+    "uri" : "spotify:artist:1hPgyZ5YatVFXQBhsXKTpq"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 190533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70607228"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/02hI9MoVLnCI02AyqoCTH9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/02hI9MoVLnCI02AyqoCTH9",
+  "id" : "02hI9MoVLnCI02AyqoCTH9",
+  "name" : "Old Man Chicago",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6414bea1320577ace324a3cae22b5a3b4cfe1fd8?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:02hI9MoVLnCI02AyqoCTH9"
+}

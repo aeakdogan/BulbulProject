@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6e6GkaF6uiSEFuTrlvDJUF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6e6GkaF6uiSEFuTrlvDJUF",
+      "id" : "6e6GkaF6uiSEFuTrlvDJUF",
+      "name" : "The Twilight Sad",
+      "type" : "artist",
+      "uri" : "spotify:artist:6e6GkaF6uiSEFuTrlvDJUF"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/27nqejWecQjuqdqxjJjwN9"
+    },
+    "href" : "https://api.spotify.com/v1/albums/27nqejWecQjuqdqxjJjwN9",
+    "id" : "27nqejWecQjuqdqxjJjwN9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/71958ca8c69ef5d4fa725bdf9ca3871e6427f3d0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/995109f16e6921e877c8bbc9305f4ab9b2691001",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c59639782fd00303a84619a58a65e800071aafd9",
+      "width" : 64
+    } ],
+    "name" : "Nobody Wants to Be Here and Nobody Wants to Leave",
+    "type" : "album",
+    "uri" : "spotify:album:27nqejWecQjuqdqxjJjwN9"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6e6GkaF6uiSEFuTrlvDJUF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6e6GkaF6uiSEFuTrlvDJUF",
+    "id" : "6e6GkaF6uiSEFuTrlvDJUF",
+    "name" : "The Twilight Sad",
+    "type" : "artist",
+    "uri" : "spotify:artist:6e6GkaF6uiSEFuTrlvDJUF"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 257446,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBDCA1402817"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3VVUEa6AmvdJ67u0sEJP4m"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3VVUEa6AmvdJ67u0sEJP4m",
+  "id" : "3VVUEa6AmvdJ67u0sEJP4m",
+  "name" : "I Could Give You All That You Don’t Want",
+  "popularity" : 24,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3ff17126f5ba78a6c47e2554bce433afb059550a?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3VVUEa6AmvdJ67u0sEJP4m"
+}

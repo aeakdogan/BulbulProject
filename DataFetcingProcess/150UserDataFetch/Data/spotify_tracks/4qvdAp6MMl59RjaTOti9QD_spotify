@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3oDbviiivRWhXwIE8hxkVV",
+      "id" : "3oDbviiivRWhXwIE8hxkVV",
+      "name" : "The Beach Boys",
+      "type" : "artist",
+      "uri" : "spotify:artist:3oDbviiivRWhXwIE8hxkVV"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6cSZPNsr3tMEHo5QrMjk1F",
+    "id" : "6cSZPNsr3tMEHo5QrMjk1F",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6a8c0521f0fabdb728b58288e032d0f8f92a3f7c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4b7d4ac609869008163eb1b9191657b08c932de1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e0f9ac029ad9a5e3521aabd83aea31f7275e7e2b",
+      "width" : 64
+    } ],
+    "name" : "50 Big Ones: Greatest Hits",
+    "type" : "album",
+    "uri" : "spotify:album:6cSZPNsr3tMEHo5QrMjk1F"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3oDbviiivRWhXwIE8hxkVV",
+    "id" : "3oDbviiivRWhXwIE8hxkVV",
+    "name" : "The Beach Boys",
+    "type" : "artist",
+    "uri" : "spotify:artist:3oDbviiivRWhXwIE8hxkVV"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 167506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCA21202092"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4qvdAp6MMl59RjaTOti9QD"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4qvdAp6MMl59RjaTOti9QD",
+  "id" : "4qvdAp6MMl59RjaTOti9QD",
+  "name" : "Help Me, Rhonda",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4b5c1b58d2640d31f8155cbca148696433f31b77?cid=null",
+  "track_number" : 24,
+  "type" : "track",
+  "uri" : "spotify:track:4qvdAp6MMl59RjaTOti9QD"
+}

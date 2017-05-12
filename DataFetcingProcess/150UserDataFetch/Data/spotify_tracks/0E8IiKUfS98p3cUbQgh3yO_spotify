@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3",
+      "id" : "0yNLKJebCb8Aueb54LYya3",
+      "name" : "New Order",
+      "type" : "artist",
+      "uri" : "spotify:artist:0yNLKJebCb8Aueb54LYya3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/432R46LaYsJZV2Gmc4jUV5",
+      "id" : "432R46LaYsJZV2Gmc4jUV5",
+      "name" : "Joy Division",
+      "type" : "artist",
+      "uri" : "spotify:artist:432R46LaYsJZV2Gmc4jUV5"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3rPC5Y8e9S6dGGkWvRYPRD"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3rPC5Y8e9S6dGGkWvRYPRD",
+    "id" : "3rPC5Y8e9S6dGGkWvRYPRD",
+    "images" : [ {
+      "height" : 629,
+      "url" : "https://i.scdn.co/image/66592439e1b15a0ad718aaf99be7c539f66af1c1",
+      "width" : 640
+    }, {
+      "height" : 295,
+      "url" : "https://i.scdn.co/image/9a71f1e7ad9b2fa234f80554ffb3e2ec46ae512e",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/7a44a0e829bd82c2db9d132877420464c9733af5",
+      "width" : 64
+    } ],
+    "name" : "TOTAL",
+    "type" : "album",
+    "uri" : "spotify:album:3rPC5Y8e9S6dGGkWvRYPRD"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0yNLKJebCb8Aueb54LYya3",
+    "id" : "0yNLKJebCb8Aueb54LYya3",
+    "name" : "New Order",
+    "type" : "artist",
+    "uri" : "spotify:artist:0yNLKJebCb8Aueb54LYya3"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 252680,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCRL1100220"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0E8IiKUfS98p3cUbQgh3yO"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0E8IiKUfS98p3cUbQgh3yO",
+  "id" : "0E8IiKUfS98p3cUbQgh3yO",
+  "name" : "True Faith - 2011 Total Version",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/87532a77741d494cca6c192e52d9df0b8d0e12f0?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:0E8IiKUfS98p3cUbQgh3yO"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6qk2W9h3eE5UtPJlIatzsY",
+      "id" : "6qk2W9h3eE5UtPJlIatzsY",
+      "name" : "Meredith Andrews",
+      "type" : "artist",
+      "uri" : "spotify:artist:6qk2W9h3eE5UtPJlIatzsY"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4RODZrIJKC1KugQp24dgdY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4RODZrIJKC1KugQp24dgdY",
+    "id" : "4RODZrIJKC1KugQp24dgdY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2fd6aac89e2af67bfc6a355c10509b08a188cb9c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/71eab8afee553db2b8a4d16cab146783cc52c507",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ca22b10f52db19ba897df33ca5272c556615a691",
+      "width" : 64
+    } ],
+    "name" : "The Invitation",
+    "type" : "album",
+    "uri" : "spotify:album:4RODZrIJKC1KugQp24dgdY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6qk2W9h3eE5UtPJlIatzsY",
+    "id" : "6qk2W9h3eE5UtPJlIatzsY",
+    "name" : "Meredith Andrews",
+    "type" : "artist",
+    "uri" : "spotify:artist:6qk2W9h3eE5UtPJlIatzsY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 245213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWR60703076"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3qq6kaaIEguGyhsrlbUyT1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3qq6kaaIEguGyhsrlbUyT1",
+  "id" : "3qq6kaaIEguGyhsrlbUyT1",
+  "name" : "You're Not Alone",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2efc2d148dd716cffd50c850bd9823f290917957?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:3qq6kaaIEguGyhsrlbUyT1"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/16nn7kCHPWIB6uK09GQCNI",
+      "id" : "16nn7kCHPWIB6uK09GQCNI",
+      "name" : "Social Distortion",
+      "type" : "artist",
+      "uri" : "spotify:artist:16nn7kCHPWIB6uK09GQCNI"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0eoVVIX8aw2UANWcMDBez7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0eoVVIX8aw2UANWcMDBez7",
+    "id" : "0eoVVIX8aw2UANWcMDBez7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cfa90efc0af5cc886cc5f47890c70d841176691a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b2d4c3dea8d68d22ef5ff9bad152dd6b12268d79",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/75e1f56b9d17a241d69579b7f77ce5eafa39f249",
+      "width" : 64
+    } ],
+    "name" : "Prison Bound",
+    "type" : "album",
+    "uri" : "spotify:album:0eoVVIX8aw2UANWcMDBez7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+    },
+    "href" : "https://api.spotify.com/v1/artists/16nn7kCHPWIB6uK09GQCNI",
+    "id" : "16nn7kCHPWIB6uK09GQCNI",
+    "name" : "Social Distortion",
+    "type" : "artist",
+    "uri" : "spotify:artist:16nn7kCHPWIB6uK09GQCNI"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 324933,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USTB30000107"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/03XgizfW9XLiRccI2pxcWa"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/03XgizfW9XLiRccI2pxcWa",
+  "id" : "03XgizfW9XLiRccI2pxcWa",
+  "name" : "Prison Bound",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3933364c4676f5ede447ebaa38de33a00971d7eb?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:03XgizfW9XLiRccI2pxcWa"
+}

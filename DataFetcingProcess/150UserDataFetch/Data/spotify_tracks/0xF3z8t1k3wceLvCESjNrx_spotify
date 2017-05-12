@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2oW4mU5x2VbOgkEKzOxOX0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2oW4mU5x2VbOgkEKzOxOX0",
+    "id" : "2oW4mU5x2VbOgkEKzOxOX0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d9854920d2e7a17ed0b5b306fc3587016d8c2e57",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f684fbd35a7cbf09c1261a828c8706e5f73ceec1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b8d3196a1862ea58299a4f2372b3fe15f125cd03",
+      "width" : 64
+    } ],
+    "name" : "Repo Men (Original Motion Picture Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:2oW4mU5x2VbOgkEKzOxOX0"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2nszamLjZFgu3Yx77mKxuC",
+    "id" : "2nszamLjZFgu3Yx77mKxuC",
+    "name" : "UNKLE",
+    "type" : "artist",
+    "uri" : "spotify:artist:2nszamLjZFgu3Yx77mKxuC"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 295546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBPYR0700057"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0xF3z8t1k3wceLvCESjNrx"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0xF3z8t1k3wceLvCESjNrx",
+  "id" : "0xF3z8t1k3wceLvCESjNrx",
+  "name" : "Burn My Shadow",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bab54a5c7154603fcbc3bb9c47969e9bc9ad7885?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0xF3z8t1k3wceLvCESjNrx"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/70Yc3h8nqnLWI7DgytZ6oM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/70Yc3h8nqnLWI7DgytZ6oM",
+      "id" : "70Yc3h8nqnLWI7DgytZ6oM",
+      "name" : "Cinerama",
+      "type" : "artist",
+      "uri" : "spotify:artist:70Yc3h8nqnLWI7DgytZ6oM"
+    } ],
+    "available_markets" : [ "CA", "HK", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6LKncWDVpnmH2UxskJrfSY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6LKncWDVpnmH2UxskJrfSY",
+    "id" : "6LKncWDVpnmH2UxskJrfSY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fa830f555acc74c4188387056a3845c56ee419c9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3ff0f312a4ad6bef2a1249ceb4ff93fcb38f100b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3a4d406461291748eeacc06fcd7004c7f8f0853d",
+      "width" : 64
+    } ],
+    "name" : "Disco Volante",
+    "type" : "album",
+    "uri" : "spotify:album:6LKncWDVpnmH2UxskJrfSY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/70Yc3h8nqnLWI7DgytZ6oM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/70Yc3h8nqnLWI7DgytZ6oM",
+    "id" : "70Yc3h8nqnLWI7DgytZ6oM",
+    "name" : "Cinerama",
+    "type" : "artist",
+    "uri" : "spotify:artist:70Yc3h8nqnLWI7DgytZ6oM"
+  } ],
+  "available_markets" : [ "CA", "HK", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 155133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA560455485"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/56BjS0QzxrmptYG7t6806z"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/56BjS0QzxrmptYG7t6806z",
+  "id" : "56BjS0QzxrmptYG7t6806z",
+  "name" : "Let's Pretend",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/d8c63cf062d7211cc3e76c66149c1623a33b5dfb?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:56BjS0QzxrmptYG7t6806z"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM",
+      "id" : "6wH6iStAh4KIaWfuhf0NYM",
+      "name" : "Manu Chao",
+      "type" : "artist",
+      "uri" : "spotify:artist:6wH6iStAh4KIaWfuhf0NYM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0Gr1aiMbMuM6emLhsIkB4L"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0Gr1aiMbMuM6emLhsIkB4L",
+    "id" : "0Gr1aiMbMuM6emLhsIkB4L",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/55afb350f9bfe43eb1fce58f3511fc1bbc501e8b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a95bc15cff8470b9f785420c263d5b89c7dbeb17",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f373d0cb4dc84ace8db7a8509dd293f0c42a28a2",
+      "width" : 64
+    } ],
+    "name" : "Baïonarena (Live)",
+    "type" : "album",
+    "uri" : "spotify:album:0Gr1aiMbMuM6emLhsIkB4L"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6wH6iStAh4KIaWfuhf0NYM",
+    "id" : "6wH6iStAh4KIaWfuhf0NYM",
+    "name" : "Manu Chao",
+    "type" : "artist",
+    "uri" : "spotify:artist:6wH6iStAh4KIaWfuhf0NYM"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "FI", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 301333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FR84R0900140"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3uAG4b82Knxju0d9uSCoLC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3uAG4b82Knxju0d9uSCoLC",
+  "id" : "3uAG4b82Knxju0d9uSCoLC",
+  "name" : "Rumba de Barcelona",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b032017d17b685f0ed7a2dfc6c64c4b4c71a9c23?cid=null",
+  "track_number" : 14,
+  "type" : "track",
+  "uri" : "spotify:track:3uAG4b82Knxju0d9uSCoLC"
+}

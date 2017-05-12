@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5UVftEhSsIg0kkXlmfhB6M",
+      "id" : "5UVftEhSsIg0kkXlmfhB6M",
+      "name" : "Hot Hot Heat",
+      "type" : "artist",
+      "uri" : "spotify:artist:5UVftEhSsIg0kkXlmfhB6M"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5zkTfnruMTl1BTiLi4l2WE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5zkTfnruMTl1BTiLi4l2WE",
+    "id" : "5zkTfnruMTl1BTiLi4l2WE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d542f46f47036c42e059be461ba196c8d71b12dd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5d6f5b4912185f1f0048a0114ea2d929179f3e90",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/87adf69188b0620805da595e192ed4ed22ce9f45",
+      "width" : 64
+    } ],
+    "name" : "Elevator",
+    "type" : "album",
+    "uri" : "spotify:album:5zkTfnruMTl1BTiLi4l2WE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5UVftEhSsIg0kkXlmfhB6M",
+    "id" : "5UVftEhSsIg0kkXlmfhB6M",
+    "name" : "Hot Hot Heat",
+    "type" : "artist",
+    "uri" : "spotify:artist:5UVftEhSsIg0kkXlmfhB6M"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 241333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRE10500174"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/07qJ3q0PCBU1uVI6sL4JWX"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/07qJ3q0PCBU1uVI6sL4JWX",
+  "id" : "07qJ3q0PCBU1uVI6sL4JWX",
+  "name" : "Middle Of Nowhere",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3263d15be27ce2b63cad7a03e58e515ad365406f?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:07qJ3q0PCBU1uVI6sL4JWX"
+}

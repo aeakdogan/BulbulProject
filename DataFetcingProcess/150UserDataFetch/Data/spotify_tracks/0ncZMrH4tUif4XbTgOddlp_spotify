@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4M5nCE77Qaxayuhp3fVn4V",
+      "id" : "4M5nCE77Qaxayuhp3fVn4V",
+      "name" : "Iron & Wine",
+      "type" : "artist",
+      "uri" : "spotify:artist:4M5nCE77Qaxayuhp3fVn4V"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4hQrMKUocaKJjrv2jxgI9l"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4hQrMKUocaKJjrv2jxgI9l",
+    "id" : "4hQrMKUocaKJjrv2jxgI9l",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4079518c9ec284155835baaad016642d47593a0e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3f844703e0d3d930083c02b28d5e21cb1aefbd6f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a6ab0b3cb5fb1272f82cbc5470a0548162c152d1",
+      "width" : 64
+    } ],
+    "name" : "Kiss Each Other Clean",
+    "type" : "album",
+    "uri" : "spotify:album:4hQrMKUocaKJjrv2jxgI9l"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4M5nCE77Qaxayuhp3fVn4V",
+    "id" : "4M5nCE77Qaxayuhp3fVn4V",
+    "name" : "Iron & Wine",
+    "type" : "artist",
+    "uri" : "spotify:artist:4M5nCE77Qaxayuhp3fVn4V"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PY", "SV", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 286306,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11002927"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0ncZMrH4tUif4XbTgOddlp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0ncZMrH4tUif4XbTgOddlp",
+  "id" : "0ncZMrH4tUif4XbTgOddlp",
+  "name" : "Walking Far From Home",
+  "popularity" : 36,
+  "preview_url" : "https://p.scdn.co/mp3-preview/970183c641d5719d9e3a378d093e90decab3dce2?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0ncZMrH4tUif4XbTgOddlp"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3f8b2H7fazJlShrwj38XiS",
+      "id" : "3f8b2H7fazJlShrwj38XiS",
+      "name" : "Deptford Goth",
+      "type" : "artist",
+      "uri" : "spotify:artist:3f8b2H7fazJlShrwj38XiS"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6opaJ8ayBc1miOtsFDpiY4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6opaJ8ayBc1miOtsFDpiY4",
+    "id" : "6opaJ8ayBc1miOtsFDpiY4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/515caea9f7d36bfd25fd13ef32be6e233ad50baf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/947b4ca9288a63e7aafc7a89f1b325ce51118d8f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a90f632a04bf77467d3029e91309d8bedfccd751",
+      "width" : 64
+    } ],
+    "name" : "Life After Defo",
+    "type" : "album",
+    "uri" : "spotify:album:6opaJ8ayBc1miOtsFDpiY4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3f8b2H7fazJlShrwj38XiS",
+    "id" : "3f8b2H7fazJlShrwj38XiS",
+    "name" : "Deptford Goth",
+    "type" : "artist",
+    "uri" : "spotify:artist:3f8b2H7fazJlShrwj38XiS"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 241064,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71207679"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2NeVPPyNJAIJ4qvZ2UH0o8"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2NeVPPyNJAIJ4qvZ2UH0o8",
+  "id" : "2NeVPPyNJAIJ4qvZ2UH0o8",
+  "name" : "Union",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4a301382cf8f32162d971ae42e3d94443fc008c5?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2NeVPPyNJAIJ4qvZ2UH0o8"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7sgWBYtJpblXpJl2lU5WVs",
+      "id" : "7sgWBYtJpblXpJl2lU5WVs",
+      "name" : "Electric Guest",
+      "type" : "artist",
+      "uri" : "spotify:artist:7sgWBYtJpblXpJl2lU5WVs"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6AbrLabiBsj3yzk5H2g1al",
+    "id" : "6AbrLabiBsj3yzk5H2g1al",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cdee6c063cb9367a390fd5c51ca045857e8c06d6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/342ec9668b45599fd7cb31ff0d29ea03ac538f60",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/acf718d6a1211c17e0eeea3ed0c0a7ee0b22d859",
+      "width" : 64
+    } ],
+    "name" : "Mondo",
+    "type" : "album",
+    "uri" : "spotify:album:6AbrLabiBsj3yzk5H2g1al"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7sgWBYtJpblXpJl2lU5WVs",
+    "id" : "7sgWBYtJpblXpJl2lU5WVs",
+    "name" : "Electric Guest",
+    "type" : "artist",
+    "uri" : "spotify:artist:7sgWBYtJpblXpJl2lU5WVs"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 168626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCJ81100713"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2r0lAM25q5tJE1H4SesviY"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2r0lAM25q5tJE1H4SesviY",
+  "id" : "2r0lAM25q5tJE1H4SesviY",
+  "name" : "American Daydream",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a4fca161a510a3c817a671de833bdb6714ba6b33?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:2r0lAM25q5tJE1H4SesviY"
+}

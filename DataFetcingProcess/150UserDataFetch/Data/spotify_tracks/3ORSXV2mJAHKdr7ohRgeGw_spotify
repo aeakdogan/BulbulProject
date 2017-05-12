@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2jT6aBupO5X5ybwUsjzws4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2jT6aBupO5X5ybwUsjzws4",
+      "id" : "2jT6aBupO5X5ybwUsjzws4",
+      "name" : "Jenny And Johnny",
+      "type" : "artist",
+      "uri" : "spotify:artist:2jT6aBupO5X5ybwUsjzws4"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Tma0D5vBup8Y0vldEyHuW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Tma0D5vBup8Y0vldEyHuW",
+    "id" : "3Tma0D5vBup8Y0vldEyHuW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b06c2328ad84bd30e4a30dd11efe0d409ffb8905",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/bae8e6c4bd32e900ee05b5e99d673551fa2cfa26",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/91bdef9d8cd119c72339bfca67c137faa8b013cc",
+      "width" : 64
+    } ],
+    "name" : "I'm Having Fun Now",
+    "type" : "album",
+    "uri" : "spotify:album:3Tma0D5vBup8Y0vldEyHuW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2jT6aBupO5X5ybwUsjzws4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2jT6aBupO5X5ybwUsjzws4",
+    "id" : "2jT6aBupO5X5ybwUsjzws4",
+    "name" : "Jenny And Johnny",
+    "type" : "artist",
+    "uri" : "spotify:artist:2jT6aBupO5X5ybwUsjzws4"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 178386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB11001396"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3ORSXV2mJAHKdr7ohRgeGw"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3ORSXV2mJAHKdr7ohRgeGw",
+  "id" : "3ORSXV2mJAHKdr7ohRgeGw",
+  "name" : "Scissor Runner",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/62d7f3db206182a03120c9f313f9d50363a78efd?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3ORSXV2mJAHKdr7ohRgeGw"
+}

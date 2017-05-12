@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xklw3WodFZiNNmQt3DIgp",
+      "id" : "7xklw3WodFZiNNmQt3DIgp",
+      "name" : "Angels & Airwaves",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xklw3WodFZiNNmQt3DIgp"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/55drvPTRV1FgJkuaztyS5X"
+    },
+    "href" : "https://api.spotify.com/v1/albums/55drvPTRV1FgJkuaztyS5X",
+    "id" : "55drvPTRV1FgJkuaztyS5X",
+    "images" : [ {
+      "height" : 634,
+      "url" : "https://i.scdn.co/image/4cc97810ae7827d77b5f871d1d0dade471640923",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/a91ad2c1d5db75b1c2e9ca420b03a91e1570bd79",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/e24b0ec84a8e61b6a47ec47f746f4e14f5bd2087",
+      "width" : 64
+    } ],
+    "name" : "We Don't Need To Whisper",
+    "type" : "album",
+    "uri" : "spotify:album:55drvPTRV1FgJkuaztyS5X"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7xklw3WodFZiNNmQt3DIgp",
+    "id" : "7xklw3WodFZiNNmQt3DIgp",
+    "name" : "Angels & Airwaves",
+    "type" : "artist",
+    "uri" : "spotify:artist:7xklw3WodFZiNNmQt3DIgp"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 254933,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM70602048"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0xpqHC9KtOKIZDIwC8Sdby"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0xpqHC9KtOKIZDIwC8Sdby",
+  "id" : "0xpqHC9KtOKIZDIwC8Sdby",
+  "name" : "It Hurts",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a6e9cb92cb145fff86dc9e0847cfceb0fd045e73?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0xpqHC9KtOKIZDIwC8Sdby"
+}

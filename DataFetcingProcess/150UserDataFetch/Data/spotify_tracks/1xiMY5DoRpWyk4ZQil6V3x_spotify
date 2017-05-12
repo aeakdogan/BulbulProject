@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4QaiDw2kGhHm0JPqZ166D9",
+      "id" : "4QaiDw2kGhHm0JPqZ166D9",
+      "name" : "Narcotango",
+      "type" : "artist",
+      "uri" : "spotify:artist:4QaiDw2kGhHm0JPqZ166D9"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5L7da1jBEE1Q3MFfywAA9x"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5L7da1jBEE1Q3MFfywAA9x",
+    "id" : "5L7da1jBEE1Q3MFfywAA9x",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/08a1cbe1d3dd4a33edd6c4086899f12f50960cb5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e624630a7d496c8b8d75171294c700fca4d5a58",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/201d65a0f04a1af502f3eb8b2f4ef661831e8c66",
+      "width" : 64
+    } ],
+    "name" : "Narcotango",
+    "type" : "album",
+    "uri" : "spotify:album:5L7da1jBEE1Q3MFfywAA9x"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4QaiDw2kGhHm0JPqZ166D9",
+    "id" : "4QaiDw2kGhHm0JPqZ166D9",
+    "name" : "Narcotango",
+    "type" : "artist",
+    "uri" : "spotify:artist:4QaiDw2kGhHm0JPqZ166D9"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 222840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ARGNN0300003"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1xiMY5DoRpWyk4ZQil6V3x"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1xiMY5DoRpWyk4ZQil6V3x",
+  "id" : "1xiMY5DoRpWyk4ZQil6V3x",
+  "name" : "Otra Luna",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2f808d8d8c7af42b624ff6ff5fdd6f9a624f3118?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1xiMY5DoRpWyk4ZQil6V3x"
+}

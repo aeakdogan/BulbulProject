@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0lVlNsuGaOr9vMHCZIAKMt",
+      "id" : "0lVlNsuGaOr9vMHCZIAKMt",
+      "name" : "Machine Head",
+      "type" : "artist",
+      "uri" : "spotify:artist:0lVlNsuGaOr9vMHCZIAKMt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3hOfgUH1xNzCeJgANjO5dA",
+    "id" : "3hOfgUH1xNzCeJgANjO5dA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7fed8590c566ea9c48752dbfc37277be3ee70c95",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/415b4ce4ae269cd427bc1411946be9c44fd5a724",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cf03a477800a4fceb2cbcd908f5e73a8d68a7df8",
+      "width" : 64
+    } ],
+    "name" : "The Burning Red",
+    "type" : "album",
+    "uri" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0lVlNsuGaOr9vMHCZIAKMt",
+    "id" : "0lVlNsuGaOr9vMHCZIAKMt",
+    "name" : "Machine Head",
+    "type" : "artist",
+    "uri" : "spotify:artist:0lVlNsuGaOr9vMHCZIAKMt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 211973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLA329980229"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6Iy5KEB1kO2BVOGnAgVV65",
+  "id" : "6Iy5KEB1kO2BVOGnAgVV65",
+  "name" : "Message In A Bottle",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/171e442ae5049511c1f631b8cddb486c90f06c47?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:6Iy5KEB1kO2BVOGnAgVV65"
+}

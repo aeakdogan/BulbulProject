@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb",
+      "id" : "0cmWgDlu9CwTgxPhf403hb",
+      "name" : "Bonobo",
+      "type" : "artist",
+      "uri" : "spotify:artist:0cmWgDlu9CwTgxPhf403hb"
+    } ],
+    "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4Q6GFUer2JGX1zboddPPcr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4Q6GFUer2JGX1zboddPPcr",
+    "id" : "4Q6GFUer2JGX1zboddPPcr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dfaac13e5b5cb4c8e5c93dbd6e7e2245d3695e1c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/881057379e9b00d5f6701531b4ba366fcc20f7cb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2eaa07008811f2c42076652cf8419562822085b6",
+      "width" : 64
+    } ],
+    "name" : "Animal Magic",
+    "type" : "album",
+    "uri" : "spotify:album:4Q6GFUer2JGX1zboddPPcr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb",
+    "id" : "0cmWgDlu9CwTgxPhf403hb",
+    "name" : "Bonobo",
+    "type" : "artist",
+    "uri" : "spotify:artist:0cmWgDlu9CwTgxPhf403hb"
+  } ],
+  "available_markets" : [ "AR", "BO", "BR", "CA", "CL", "CO", "EC", "MX", "PE", "PY", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 322173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBEUE0300002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Achk72P6z4oinW8iBew1i"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Achk72P6z4oinW8iBew1i",
+  "id" : "3Achk72P6z4oinW8iBew1i",
+  "name" : "Sleepy Seven",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ddfdd377afe1eb31188b3eac94bf05a19594281?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:3Achk72P6z4oinW8iBew1i"
+}

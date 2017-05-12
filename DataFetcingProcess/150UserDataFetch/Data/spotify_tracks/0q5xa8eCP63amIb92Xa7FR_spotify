@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tx8fyu3c4OBP5nejYtUOb",
+      "id" : "3tx8fyu3c4OBP5nejYtUOb",
+      "name" : "Average White Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tx8fyu3c4OBP5nejYtUOb"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6MYKUn7lmDnZ6F5kqqpgIf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6MYKUn7lmDnZ6F5kqqpgIf",
+    "id" : "6MYKUn7lmDnZ6F5kqqpgIf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4565f77152382bdc267a3a3abd5a44c999b65492",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d60b8d56ee29d124133d90b6fdec95686bc38a02",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f782c6763575be1214e30ef622d8dc2e3a5dfedd",
+      "width" : 64
+    } ],
+    "name" : "The Essentials: Average White Band",
+    "type" : "album",
+    "uri" : "spotify:album:6MYKUn7lmDnZ6F5kqqpgIf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3tx8fyu3c4OBP5nejYtUOb",
+    "id" : "3tx8fyu3c4OBP5nejYtUOb",
+    "name" : "Average White Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:3tx8fyu3c4OBP5nejYtUOb"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 336038,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAT20105952"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0q5xa8eCP63amIb92Xa7FR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0q5xa8eCP63amIb92Xa7FR",
+  "id" : "0q5xa8eCP63amIb92Xa7FR",
+  "name" : "A Love of Your Own",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/fd88a33d34c60c95c5da34708b50e7d371ed3b7f?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:0q5xa8eCP63amIb92Xa7FR"
+}

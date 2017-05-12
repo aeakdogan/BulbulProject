@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6pmxr66tMAePxzOLfjGNcX",
+      "id" : "6pmxr66tMAePxzOLfjGNcX",
+      "name" : "Beirut",
+      "type" : "artist",
+      "uri" : "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7L8xc5bEIpSyIxQpSosSNx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7L8xc5bEIpSyIxQpSosSNx",
+    "id" : "7L8xc5bEIpSyIxQpSosSNx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/836746661faefc900c7690033e77f2e39c171199",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1019b6b5beba15d7075191b5bcedf0d06e0f057a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/48c300f5e3f4401e09e0541e40ec9df7d036e72b",
+      "width" : 64
+    } ],
+    "name" : "Lon Gisland EP",
+    "type" : "album",
+    "uri" : "spotify:album:7L8xc5bEIpSyIxQpSosSNx"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6pmxr66tMAePxzOLfjGNcX",
+    "id" : "6pmxr66tMAePxzOLfjGNcX",
+    "name" : "Beirut",
+    "type" : "artist",
+    "uri" : "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 173480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USCPT0600055"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5FutvFoBF8xTa7jW1mqwQC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5FutvFoBF8xTa7jW1mqwQC",
+  "id" : "5FutvFoBF8xTa7jW1mqwQC",
+  "name" : "Scenic World (Version)",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7b13fa871186a3d2fa33dbf4bed4215e532e607b?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:5FutvFoBF8xTa7jW1mqwQC"
+}

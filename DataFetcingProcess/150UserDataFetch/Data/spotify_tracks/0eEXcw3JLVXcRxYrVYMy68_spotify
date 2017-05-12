@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3FAK4h4t9uV4JxzESXllAU",
+    "id" : "3FAK4h4t9uV4JxzESXllAU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/633b816c7ac68949a6180c18d5a19206b71b8db0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e20b24258374abd4b8448e5ca617f612cce3c1e7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fcdffa63ddf2070486c176ff2c7437b405458d78",
+      "width" : 64
+    } ],
+    "name" : "The Anthology",
+    "type" : "album",
+    "uri" : "spotify:album:3FAK4h4t9uV4JxzESXllAU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+    "id" : "09hVIj6vWgoCDtT03h8ZCa",
+    "name" : "A Tribe Called Quest",
+    "type" : "artist",
+    "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 226133,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USJI19300020"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0eEXcw3JLVXcRxYrVYMy68",
+  "id" : "0eEXcw3JLVXcRxYrVYMy68",
+  "name" : "Electric Relaxation",
+  "popularity" : 57,
+  "preview_url" : "https://p.scdn.co/mp3-preview/01950f7c36f294494f677b7d9ea571a57ac06dba?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0eEXcw3JLVXcRxYrVYMy68"
+}

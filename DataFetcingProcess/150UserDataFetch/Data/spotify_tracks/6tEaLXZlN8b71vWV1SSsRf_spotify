@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ",
+      "id" : "1P6U1dCeHxPui5pIrGmndZ",
+      "name" : "Air",
+      "type" : "artist",
+      "uri" : "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
+    },
+    "href" : "https://api.spotify.com/v1/albums/206GTDefY2qRMQxYXmfb0a",
+    "id" : "206GTDefY2qRMQxYXmfb0a",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d3394a6482b301cce4e29b76f523a82b1ce4eee1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2809893505162b55132370f3171fdc92128e28f0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/017ad23e4e103c06a4bb589e753f5b9b56faf6be",
+      "width" : 64
+    } ],
+    "name" : "Moon Safari",
+    "type" : "album",
+    "uri" : "spotify:album:206GTDefY2qRMQxYXmfb0a"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ",
+    "id" : "1P6U1dCeHxPui5pIrGmndZ",
+    "name" : "Air",
+    "type" : "artist",
+    "uri" : "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 431293,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRS639700550"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6tEaLXZlN8b71vWV1SSsRf",
+  "id" : "6tEaLXZlN8b71vWV1SSsRf",
+  "name" : "La femme d'argent",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2cef34bdc1ded40bc342c023be052ee8255bb7c6?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6tEaLXZlN8b71vWV1SSsRf"
+}

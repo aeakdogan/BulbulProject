@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2E3nXyfocf7qfHAIFNbBuj",
+      "id" : "2E3nXyfocf7qfHAIFNbBuj",
+      "name" : "Carmen McRae",
+      "type" : "artist",
+      "uri" : "spotify:artist:2E3nXyfocf7qfHAIFNbBuj"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7MvkGDzG01H7iXOchYv1Ax"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7MvkGDzG01H7iXOchYv1Ax",
+    "id" : "7MvkGDzG01H7iXOchYv1Ax",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a31328e676f9615e583634a3640a20f60f8be0cd",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/775b5f79a5822619c5590aac41076fa83fc4be49",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6cb7407892cff6bef4e71d19d1b81a9179fe78a1",
+      "width" : 64
+    } ],
+    "name" : "Please Be Kind",
+    "type" : "album",
+    "uri" : "spotify:album:7MvkGDzG01H7iXOchYv1Ax"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2E3nXyfocf7qfHAIFNbBuj",
+    "id" : "2E3nXyfocf7qfHAIFNbBuj",
+    "name" : "Carmen McRae",
+    "type" : "artist",
+    "uri" : "spotify:artist:2E3nXyfocf7qfHAIFNbBuj"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 234693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA561408004"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6TWpA7mVK3sYvgCtgOHLQe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6TWpA7mVK3sYvgCtgOHLQe",
+  "id" : "6TWpA7mVK3sYvgCtgOHLQe",
+  "name" : "The Thrill Is Gone",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/aac927f67aa66a9d9bbefa38d5a3a57b0f904f69?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6TWpA7mVK3sYvgCtgOHLQe"
+}

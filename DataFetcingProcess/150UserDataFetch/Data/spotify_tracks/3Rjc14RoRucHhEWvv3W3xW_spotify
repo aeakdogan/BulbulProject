@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2weA6hhVqTIN2gSn9PUB9U",
+      "id" : "2weA6hhVqTIN2gSn9PUB9U",
+      "name" : "Celia Cruz",
+      "type" : "artist",
+      "uri" : "spotify:artist:2weA6hhVqTIN2gSn9PUB9U"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2clEi9iP3VkzZzkydAjFDA",
+    "id" : "2clEi9iP3VkzZzkydAjFDA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c3fceb22d0fa56cf264e0138458ae1427267466d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f3b1784bb2a4877128e940e0a2bab2da14944a78",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/b2f65baa5797ebcb9d140ee3bbe6f229b48ea028",
+      "width" : 64
+    } ],
+    "name" : "Mi Vida Es Cantar",
+    "type" : "album",
+    "uri" : "spotify:album:2clEi9iP3VkzZzkydAjFDA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2weA6hhVqTIN2gSn9PUB9U",
+    "id" : "2weA6hhVqTIN2gSn9PUB9U",
+    "name" : "Celia Cruz",
+    "type" : "artist",
+    "uri" : "spotify:artist:2weA6hhVqTIN2gSn9PUB9U"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 275253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0202664"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3Rjc14RoRucHhEWvv3W3xW",
+  "id" : "3Rjc14RoRucHhEWvv3W3xW",
+  "name" : "La Vida Es Un Carnaval",
+  "popularity" : 51,
+  "preview_url" : "https://p.scdn.co/mp3-preview/db4ab6adfd58326b0bbc0169632fe91ca80ecd1a?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:3Rjc14RoRucHhEWvv3W3xW"
+}

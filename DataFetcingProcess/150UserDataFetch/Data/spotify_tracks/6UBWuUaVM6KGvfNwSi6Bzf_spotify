@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0gadJ2b9A4SKsB1RFkBb66",
+      "id" : "0gadJ2b9A4SKsB1RFkBb66",
+      "name" : "Passenger",
+      "type" : "artist",
+      "uri" : "spotify:artist:0gadJ2b9A4SKsB1RFkBb66"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/07zipwkXiiNMgvtyQlc4W4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/07zipwkXiiNMgvtyQlc4W4",
+    "id" : "07zipwkXiiNMgvtyQlc4W4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aaf07af712ef05819c62f42a60b36ea350a45c2d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/37303cd8c69f719bd9911005925d81e9a69c219b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/859f0d46844fcd6e6a0ba33c10bc6841b058d470",
+      "width" : 64
+    } ],
+    "name" : "Whispers (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:07zipwkXiiNMgvtyQlc4W4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0gadJ2b9A4SKsB1RFkBb66",
+    "id" : "0gadJ2b9A4SKsB1RFkBb66",
+    "name" : "Passenger",
+    "type" : "artist",
+    "uri" : "spotify:artist:0gadJ2b9A4SKsB1RFkBb66"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 184146,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBMQN1400001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6UBWuUaVM6KGvfNwSi6Bzf"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6UBWuUaVM6KGvfNwSi6Bzf",
+  "id" : "6UBWuUaVM6KGvfNwSi6Bzf",
+  "name" : "Coins In A Fountain",
+  "popularity" : 33,
+  "preview_url" : "https://p.scdn.co/mp3-preview/16d052f6df39d6dfe6365d82e7f80aef5733f41e?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6UBWuUaVM6KGvfNwSi6Bzf"
+}

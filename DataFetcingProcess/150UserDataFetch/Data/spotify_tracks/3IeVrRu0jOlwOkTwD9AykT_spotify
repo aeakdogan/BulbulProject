@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d",
+      "id" : "2m62cc253Xvd9qYQ8d2X3d",
+      "name" : "The Alan Parsons Project",
+      "type" : "artist",
+      "uri" : "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0RuvKbx3Zwa1LDkL9uEuTX"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0RuvKbx3Zwa1LDkL9uEuTX",
+    "id" : "0RuvKbx3Zwa1LDkL9uEuTX",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/b1f91a0b6db011149d2be0b43a0502b0ccf3f6ba",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/de15496e188f6eb751497829d4bde727e29f8e25",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/60069708c00c4270f15904f2899f7da5f3f59cde",
+      "width" : 64
+    } ],
+    "name" : "Ammonia Avenue",
+    "type" : "album",
+    "uri" : "spotify:album:0RuvKbx3Zwa1LDkL9uEuTX"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2m62cc253Xvd9qYQ8d2X3d",
+    "id" : "2m62cc253Xvd9qYQ8d2X3d",
+    "name" : "The Alan Parsons Project",
+    "type" : "artist",
+    "uri" : "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 251853,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USAR18400007"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3IeVrRu0jOlwOkTwD9AykT"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3IeVrRu0jOlwOkTwD9AykT",
+  "id" : "3IeVrRu0jOlwOkTwD9AykT",
+  "name" : "Don't Answer Me",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/5876681aaf69a399de72ba54b9d13465575f8549?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3IeVrRu0jOlwOkTwD9AykT"
+}

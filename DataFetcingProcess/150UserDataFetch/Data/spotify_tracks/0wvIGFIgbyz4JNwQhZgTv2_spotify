@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+      "id" : "64tNsm6TnZe2zpcMVMOoHL",
+      "name" : "Alice In Chains",
+      "type" : "artist",
+      "uri" : "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
+    "id" : "58NXIEYqmq5dQHg9nV9duM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/04c554f661d6b2c1bb8994f47c2a80874c976d6e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/546f440ab718f50441342ef7a3223d7e1149b907",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e898661b5aec3bd2dd8a2df3547a4ea56f4bd11b",
+      "width" : 64
+    } ],
+    "name" : "Dirt",
+    "type" : "album",
+    "uri" : "spotify:album:58NXIEYqmq5dQHg9nV9duM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+    "id" : "64tNsm6TnZe2zpcMVMOoHL",
+    "name" : "Alice In Chains",
+    "type" : "artist",
+    "uri" : "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 374333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM19200881"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
+  "id" : "0wvIGFIgbyz4JNwQhZgTv2",
+  "name" : "Rooster",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/28ceb0383cd9710e7e01f7a8fafd0c6e84973c5a?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
+}

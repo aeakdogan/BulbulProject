@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rXLC3lGmx2JjclFJYZud4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5rXLC3lGmx2JjclFJYZud4",
+      "id" : "5rXLC3lGmx2JjclFJYZud4",
+      "name" : "Hidden In Plain View",
+      "type" : "artist",
+      "uri" : "spotify:artist:5rXLC3lGmx2JjclFJYZud4"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4HGhXExvgwP0MhcvrFy4fv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4HGhXExvgwP0MhcvrFy4fv",
+    "id" : "4HGhXExvgwP0MhcvrFy4fv",
+    "images" : [ {
+      "height" : 629,
+      "url" : "https://i.scdn.co/image/08910ffa159dde1c3bb3d4a3133a3e326bc74504",
+      "width" : 640
+    }, {
+      "height" : 295,
+      "url" : "https://i.scdn.co/image/29ec0f4dcafba79b2aa020a5bc354863cdfd3092",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/e1d683dc7809d8eb1470550bd9d6717846276c13",
+      "width" : 64
+    } ],
+    "name" : "Life In Dreaming",
+    "type" : "album",
+    "uri" : "spotify:album:4HGhXExvgwP0MhcvrFy4fv"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5rXLC3lGmx2JjclFJYZud4"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5rXLC3lGmx2JjclFJYZud4",
+    "id" : "5rXLC3lGmx2JjclFJYZud4",
+    "name" : "Hidden In Plain View",
+    "type" : "artist",
+    "uri" : "spotify:artist:5rXLC3lGmx2JjclFJYZud4"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 188893,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJE0401842"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0lJhbIJ86uCleqZF154bqG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0lJhbIJ86uCleqZF154bqG",
+  "id" : "0lJhbIJ86uCleqZF154bqG",
+  "name" : "American Classic",
+  "popularity" : 15,
+  "preview_url" : "https://p.scdn.co/mp3-preview/b2e5e79ca8b4ffe1e7170d2a2556fa6c3b6bd03b?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:0lJhbIJ86uCleqZF154bqG"
+}

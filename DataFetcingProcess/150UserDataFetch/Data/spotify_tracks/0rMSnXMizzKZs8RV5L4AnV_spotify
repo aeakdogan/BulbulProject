@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WiZz4d759EPtACSUBEfmt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1WiZz4d759EPtACSUBEfmt",
+      "id" : "1WiZz4d759EPtACSUBEfmt",
+      "name" : "Portal",
+      "type" : "artist",
+      "uri" : "spotify:artist:1WiZz4d759EPtACSUBEfmt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0PtGwwqM6zFvawkY3JHtfq"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0PtGwwqM6zFvawkY3JHtfq",
+    "id" : "0PtGwwqM6zFvawkY3JHtfq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/132ca8037c9e3ab9c26be3c3f20ce9eea22bbdeb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7f3f5ea7787a64d2c096bf517bf12d18ae40500a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9a327d131150ed7a106f2d6964684fea415b9d37",
+      "width" : 64
+    } ],
+    "name" : "Vexovoid",
+    "type" : "album",
+    "uri" : "spotify:album:0PtGwwqM6zFvawkY3JHtfq"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1WiZz4d759EPtACSUBEfmt"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1WiZz4d759EPtACSUBEfmt",
+    "id" : "1WiZz4d759EPtACSUBEfmt",
+    "name" : "Portal",
+    "type" : "artist",
+    "uri" : "spotify:artist:1WiZz4d759EPtACSUBEfmt"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 357173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USN681310014"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0rMSnXMizzKZs8RV5L4AnV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0rMSnXMizzKZs8RV5L4AnV",
+  "id" : "0rMSnXMizzKZs8RV5L4AnV",
+  "name" : "Curtain",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/08524dfbfcd32b4a241eb43370ded9843a39686e?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:0rMSnXMizzKZs8RV5L4AnV"
+}

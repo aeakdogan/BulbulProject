@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5wCNzQ86Wfer6KdOxaPlQG",
+      "id" : "5wCNzQ86Wfer6KdOxaPlQG",
+      "name" : "Galliano",
+      "type" : "artist",
+      "uri" : "spotify:artist:5wCNzQ86Wfer6KdOxaPlQG"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3S0vU5XVBVYhsreP21AW8j",
+    "id" : "3S0vU5XVBVYhsreP21AW8j",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/0e483932f67d78b895a097946a1bace71f123967",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/e3781e96a711f8a339167fcf7dfca9eca194948d",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/ae74ce7d2c0fd8132d91cc67d722b63e6912900b",
+      "width" : 64
+    } ],
+    "name" : "A Joyful Noise Unto The Creator",
+    "type" : "album",
+    "uri" : "spotify:album:3S0vU5XVBVYhsreP21AW8j"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5wCNzQ86Wfer6KdOxaPlQG",
+    "id" : "5wCNzQ86Wfer6KdOxaPlQG",
+    "name" : "Galliano",
+    "type" : "artist",
+    "uri" : "spotify:artist:5wCNzQ86Wfer6KdOxaPlQG"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 286160,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF080080368"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6NwKK2jmAWgEFKtfODI2l6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6NwKK2jmAWgEFKtfODI2l6",
+  "id" : "6NwKK2jmAWgEFKtfODI2l6",
+  "name" : "Phantom",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e5d491ef13b73a439d32e992035c7efce7546342?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:6NwKK2jmAWgEFKtfODI2l6"
+}

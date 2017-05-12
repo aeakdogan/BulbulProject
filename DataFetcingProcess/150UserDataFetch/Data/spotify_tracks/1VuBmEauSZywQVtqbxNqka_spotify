@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+      "id" : "51Blml2LZPmy7TTiAg47vQ",
+      "name" : "U2",
+      "type" : "artist",
+      "uri" : "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7gskILm9UyDvFlmmAoqn2g",
+    "id" : "7gskILm9UyDvFlmmAoqn2g",
+    "images" : [ {
+      "height" : 635,
+      "url" : "https://i.scdn.co/image/a48d13ddf477327cdfa249d6db40d0c77b9ddf29",
+      "width" : 640
+    }, {
+      "height" : 297,
+      "url" : "https://i.scdn.co/image/3a9e1da412a1e389c40cf4629b4c4ae8d326ac57",
+      "width" : 300
+    }, {
+      "height" : 63,
+      "url" : "https://i.scdn.co/image/ed4a400eee70d8c52d162b7aa0928b7f7a4043db",
+      "width" : 64
+    } ],
+    "name" : "All That You Can't Leave Behind",
+    "type" : "album",
+    "uri" : "spotify:album:7gskILm9UyDvFlmmAoqn2g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+    "id" : "51Blml2LZPmy7TTiAg47vQ",
+    "name" : "U2",
+    "type" : "artist",
+    "uri" : "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5i4HVbspJSEBsvLJzcL0AS"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5i4HVbspJSEBsvLJzcL0AS",
+    "id" : "5i4HVbspJSEBsvLJzcL0AS",
+    "name" : "Duke Erikson",
+    "type" : "artist",
+    "uri" : "spotify:artist:5i4HVbspJSEBsvLJzcL0AS"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 248066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAAN0000196"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1VuBmEauSZywQVtqbxNqka",
+  "id" : "1VuBmEauSZywQVtqbxNqka",
+  "name" : "Beautiful Day",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/eb915a99b9a21b82071d3e7f3a0b9cd02105b215?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1VuBmEauSZywQVtqbxNqka"
+}

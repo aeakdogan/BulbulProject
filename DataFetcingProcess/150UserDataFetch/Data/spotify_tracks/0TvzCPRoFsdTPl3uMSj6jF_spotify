@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2D2svlzUpyTfcEEq0t3dgV",
+      "id" : "2D2svlzUpyTfcEEq0t3dgV",
+      "name" : "Sebastian Bach",
+      "type" : "artist",
+      "uri" : "spotify:artist:2D2svlzUpyTfcEEq0t3dgV"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4D7ybHM9XXRJn8DpkTjf17"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4D7ybHM9XXRJn8DpkTjf17",
+    "id" : "4D7ybHM9XXRJn8DpkTjf17",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/84cde2b257b4fede55d43adbbbc6d67c3121ccbe",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6724fdafc98e3ed85d34b4446ae3699fd0782adf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/42d8546d2397e3a6024821c1494dc2c23728386b",
+      "width" : 64
+    } ],
+    "name" : "Angel Down",
+    "type" : "album",
+    "uri" : "spotify:album:4D7ybHM9XXRJn8DpkTjf17"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2D2svlzUpyTfcEEq0t3dgV",
+    "id" : "2D2svlzUpyTfcEEq0t3dgV",
+    "name" : "Sebastian Bach",
+    "type" : "artist",
+    "uri" : "spotify:artist:2D2svlzUpyTfcEEq0t3dgV"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 327533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USZZ40700509"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0TvzCPRoFsdTPl3uMSj6jF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0TvzCPRoFsdTPl3uMSj6jF",
+  "id" : "0TvzCPRoFsdTPl3uMSj6jF",
+  "name" : "By Your Side",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2d2efebcdc509b6666c4803e6b97e73889aeb420?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:0TvzCPRoFsdTPl3uMSj6jF"
+}

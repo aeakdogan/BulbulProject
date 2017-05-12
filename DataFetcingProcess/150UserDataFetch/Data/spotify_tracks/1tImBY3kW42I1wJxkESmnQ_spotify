@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0lGu56L3evYBeuS6wNQPnL"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0lGu56L3evYBeuS6wNQPnL",
+    "id" : "0lGu56L3evYBeuS6wNQPnL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b0b8c06f906460faf0ea5f1e1a92fb027f7aaa12",
+      "width" : 621
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e90bf8d72628ee1c15282a17bab9c5436e7d6544",
+      "width" : 291
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a568ea5283e8d952168b85069c1da804aa9ac793",
+      "width" : 62
+    } ],
+    "name" : "I Am Sam (Original Soundtrack)",
+    "type" : "album",
+    "uri" : "spotify:album:0lGu56L3evYBeuS6wNQPnL"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4TKTii6gnOnUXQHyuo9JaD",
+    "id" : "4TKTii6gnOnUXQHyuo9JaD",
+    "name" : "Sheryl Crow",
+    "type" : "artist",
+    "uri" : "spotify:artist:4TKTii6gnOnUXQHyuo9JaD"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 162640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USVT10100154"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1tImBY3kW42I1wJxkESmnQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1tImBY3kW42I1wJxkESmnQ",
+  "id" : "1tImBY3kW42I1wJxkESmnQ",
+  "name" : "Mother Nature's Son",
+  "popularity" : 17,
+  "preview_url" : "https://p.scdn.co/mp3-preview/223496c71c9336c3bd797265279445ce00f1d0a8?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:1tImBY3kW42I1wJxkESmnQ"
+}

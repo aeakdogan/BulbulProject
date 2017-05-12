@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6H1RjVyNruCmrBEWRbD0VZ",
+      "id" : "6H1RjVyNruCmrBEWRbD0VZ",
+      "name" : "Def Leppard",
+      "type" : "artist",
+      "uri" : "spotify:artist:6H1RjVyNruCmrBEWRbD0VZ"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3BO4hNrSnspOVwlloqedRc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3BO4hNrSnspOVwlloqedRc",
+    "id" : "3BO4hNrSnspOVwlloqedRc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e3016c532fdf58a643130684a82a42e52255fddc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2430647461bbe1f7d2c9c16504a807e27517ae37",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f1d7f86ead2e7398e525e851bb490c94c0932645",
+      "width" : 64
+    } ],
+    "name" : "Mirror Ball - Live & More",
+    "type" : "album",
+    "uri" : "spotify:album:3BO4hNrSnspOVwlloqedRc"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6H1RjVyNruCmrBEWRbD0VZ",
+    "id" : "6H1RjVyNruCmrBEWRbD0VZ",
+    "name" : "Def Leppard",
+    "type" : "artist",
+    "uri" : "spotify:artist:6H1RjVyNruCmrBEWRbD0VZ"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 317106,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMB51100025"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4Yr7FyEh3lI97hRS7HvkEI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4Yr7FyEh3lI97hRS7HvkEI",
+  "id" : "4Yr7FyEh3lI97hRS7HvkEI",
+  "name" : "Too Late For Love - Live",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/98f6bfefeee146b1d1fe4472a3e78111cb32c2a7?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:4Yr7FyEh3lI97hRS7HvkEI"
+}

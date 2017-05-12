@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Xb4ezwoAQC4516kI89nWz",
+      "id" : "6Xb4ezwoAQC4516kI89nWz",
+      "name" : "Imogen Heap",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Xb4ezwoAQC4516kI89nWz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1H8velOQ9zUFqpuQPd2bkO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1H8velOQ9zUFqpuQPd2bkO",
+    "id" : "1H8velOQ9zUFqpuQPd2bkO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e1287ba626f74622edfe7ed83f7c162cd6153c0b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/42e168927779f498faee2cc8550c67ae1974e7c1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ea8067a3e9e586674942a434b3362b860e5e891e",
+      "width" : 64
+    } ],
+    "name" : "Ellipse",
+    "type" : "album",
+    "uri" : "spotify:album:1H8velOQ9zUFqpuQPd2bkO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Xb4ezwoAQC4516kI89nWz",
+    "id" : "6Xb4ezwoAQC4516kI89nWz",
+    "name" : "Imogen Heap",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Xb4ezwoAQC4516kI89nWz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 253480,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBJPX0900064"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6Qy5mfrRPveNNXjEDOG2iV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6Qy5mfrRPveNNXjEDOG2iV",
+  "id" : "6Qy5mfrRPveNNXjEDOG2iV",
+  "name" : "First Train Home",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/62be3c5622a0845468524c6c2aaa061768dc2393?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6Qy5mfrRPveNNXjEDOG2iV"
+}

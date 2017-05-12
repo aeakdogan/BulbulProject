@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+      "id" : "2tRsMl4eGxwoNabM08Dm4I",
+      "name" : "Judas Priest",
+      "type" : "artist",
+      "uri" : "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/12rTdEhRhwPpV0XJvZW9u1",
+    "id" : "12rTdEhRhwPpV0XJvZW9u1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a5d3cfa3618ab5b67a5aaeb7890a3b5bace3db2a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7da39ed4c32819db66118b57013c7f6e64f1b6ef",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1f0a1b6d18be44a199b6056771c42102acb90bcf",
+      "width" : 64
+    } ],
+    "name" : "Angel Of Retribution",
+    "type" : "album",
+    "uri" : "spotify:album:12rTdEhRhwPpV0XJvZW9u1"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+    "id" : "2tRsMl4eGxwoNabM08Dm4I",
+    "name" : "Judas Priest",
+    "type" : "artist",
+    "uri" : "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 258666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBBBN0401320"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4jDY1o3ACRhpbD6LiRNScd"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4jDY1o3ACRhpbD6LiRNScd",
+  "id" : "4jDY1o3ACRhpbD6LiRNScd",
+  "name" : "Worth Fighting For",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4514c20ccf806e269934459a6a5e90c916cd5833?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4jDY1o3ACRhpbD6LiRNScd"
+}

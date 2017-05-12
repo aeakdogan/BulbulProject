@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+      "id" : "0k17h0D3J5VfsdmQ1iZtE9",
+      "name" : "Pink Floyd",
+      "type" : "artist",
+      "uri" : "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+    } ],
+    "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2cUpAOlQjV5uSjkWj5bEQY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2cUpAOlQjV5uSjkWj5bEQY",
+    "id" : "2cUpAOlQjV5uSjkWj5bEQY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ced1db4d281c4f7da64ca4036acb28cf7091a941",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/71612ea25ca14a29cb95696620803f681e90c61a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c747fc3a3c661b43a3da851a026c3aaeef85c732",
+      "width" : 64
+    } ],
+    "name" : "Atom Heart Mother",
+    "type" : "album",
+    "uri" : "spotify:album:2cUpAOlQjV5uSjkWj5bEQY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+    "id" : "0k17h0D3J5VfsdmQ1iZtE9",
+    "name" : "Pink Floyd",
+    "type" : "artist",
+    "uri" : "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+  } ],
+  "available_markets" : [ "AR", "AU", "BO", "BR", "CA", "CL", "CO", "CR", "DO", "EC", "GT", "HK", "HN", "ID", "JP", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PY", "SG", "SV", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 270773,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBN9Y1100054"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/63brgJhrcNFW8ncUhM1mhG"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/63brgJhrcNFW8ncUhM1mhG",
+  "id" : "63brgJhrcNFW8ncUhM1mhG",
+  "name" : "If",
+  "popularity" : 37,
+  "preview_url" : "https://p.scdn.co/mp3-preview/89545f80a0112318f5a682503ed1fb8d9d6d9b29?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:63brgJhrcNFW8ncUhM1mhG"
+}

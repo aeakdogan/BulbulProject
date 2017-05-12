@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Pwc4xIPtQLFEnJriah9YJ",
+      "id" : "5Pwc4xIPtQLFEnJriah9YJ",
+      "name" : "OneRepublic",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2pLAOZiilrhOrTQNqrF8qr",
+    "id" : "2pLAOZiilrhOrTQNqrF8qr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/63db8aefac988824ad66f6e3d36a9bea386c0521",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ec1beabb340e7a8ead24450a865d15788091752b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a593e287c3775ca3c1e2ec432a96afe5d0c053a7",
+      "width" : 64
+    } ],
+    "name" : "Waking Up",
+    "type" : "album",
+    "uri" : "spotify:album:2pLAOZiilrhOrTQNqrF8qr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Pwc4xIPtQLFEnJriah9YJ",
+    "id" : "5Pwc4xIPtQLFEnJriah9YJ",
+    "name" : "OneRepublic",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 238000,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM70984099"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5XRHGXut00SrJUFmcn2lQF",
+  "id" : "5XRHGXut00SrJUFmcn2lQF",
+  "name" : "All The Right Moves",
+  "popularity" : 53,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ed78e36489119b1aa4ee6699110c68bfaa8fd2e9?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5XRHGXut00SrJUFmcn2lQF"
+}

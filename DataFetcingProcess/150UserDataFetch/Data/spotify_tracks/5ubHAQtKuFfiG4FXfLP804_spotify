@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id" : "6eUKZXaKkcviH0Ku9w2n3V",
+      "name" : "Ed Sheeran",
+      "type" : "artist",
+      "uri" : "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/02pi98kE0nra0yBqCStzbC",
+    "id" : "02pi98kE0nra0yBqCStzbC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/43bf97e5b621230110d3d515bd272bde91059d1f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/827a384cd45e4c3c15e9bfdfb16045fde639ebeb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/da454788652457417f02b1b67643401791f90d8c",
+      "width" : 64
+    } ],
+    "name" : "+",
+    "type" : "album",
+    "uri" : "spotify:album:02pi98kE0nra0yBqCStzbC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+    "id" : "6eUKZXaKkcviH0Ku9w2n3V",
+    "name" : "Ed Sheeran",
+    "type" : "artist",
+    "uri" : "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 185093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAHS1100206"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5ubHAQtKuFfiG4FXfLP804"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5ubHAQtKuFfiG4FXfLP804",
+  "id" : "5ubHAQtKuFfiG4FXfLP804",
+  "name" : "Lego House",
+  "popularity" : 69,
+  "preview_url" : "https://p.scdn.co/mp3-preview/12eb90aa64be1b349b479f8dde7ca7175ac11513?cid=null",
+  "track_number" : 9,
+  "type" : "track",
+  "uri" : "spotify:track:5ubHAQtKuFfiG4FXfLP804"
+}

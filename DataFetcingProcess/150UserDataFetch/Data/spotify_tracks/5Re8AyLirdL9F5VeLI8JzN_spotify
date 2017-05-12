@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0zOcE3mg9nS6l3yxt1Y0bK",
+      "id" : "0zOcE3mg9nS6l3yxt1Y0bK",
+      "name" : "The Fray",
+      "type" : "artist",
+      "uri" : "spotify:artist:0zOcE3mg9nS6l3yxt1Y0bK"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1IM3GwptCGYjRkzCBolyFK",
+    "id" : "1IM3GwptCGYjRkzCBolyFK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/42b5ca946ea6f72de75263476f66ec6721c5849d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/628ec923dcfc71f4cded332f172802b6f1df6977",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/399db5f01576588daa43b293111ecf432411e713",
+      "width" : 64
+    } ],
+    "name" : "How To Save A Life",
+    "type" : "album",
+    "uri" : "spotify:album:1IM3GwptCGYjRkzCBolyFK"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0zOcE3mg9nS6l3yxt1Y0bK",
+    "id" : "0zOcE3mg9nS6l3yxt1Y0bK",
+    "name" : "The Fray",
+    "type" : "artist",
+    "uri" : "spotify:artist:0zOcE3mg9nS6l3yxt1Y0bK"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 236533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM10503838"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5Re8AyLirdL9F5VeLI8JzN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5Re8AyLirdL9F5VeLI8JzN",
+  "id" : "5Re8AyLirdL9F5VeLI8JzN",
+  "name" : "She Is",
+  "popularity" : 47,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3278cac8c801ab39b183300d3ef68f786edccc6a?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5Re8AyLirdL9F5VeLI8JzN"
+}

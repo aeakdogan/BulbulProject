@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19YNLS5KAI2mjgFb4s9HjZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19YNLS5KAI2mjgFb4s9HjZ",
+      "id" : "19YNLS5KAI2mjgFb4s9HjZ",
+      "name" : "Jack Johnson and Friends",
+      "type" : "artist",
+      "uri" : "spotify:artist:19YNLS5KAI2mjgFb4s9HjZ"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Jl7i9Vo0Ht4co9SqTFjQy",
+    "id" : "3Jl7i9Vo0Ht4co9SqTFjQy",
+    "images" : [ {
+      "height" : 576,
+      "url" : "https://i.scdn.co/image/35dc75a2b65196480dd72c49fab286cdbe40e390",
+      "width" : 640
+    }, {
+      "height" : 270,
+      "url" : "https://i.scdn.co/image/d805e2335faffa6e01d75a5f84b8e8c6fc79d1ab",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/0e12bd19a4011dee9f29ae7f6690c6f7a3d6488e",
+      "width" : 64
+    } ],
+    "name" : "Sing-A-Longs & Lullabies For The Film Curious George",
+    "type" : "album",
+    "uri" : "spotify:album:3Jl7i9Vo0Ht4co9SqTFjQy"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+    "id" : "3GBPw9NK25X1Wt2OUvOwY3",
+    "name" : "Jack Johnson",
+    "type" : "artist",
+    "uri" : "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 208653,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUG10500591"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6shRGWCtBUOPFLFTTqXZIC",
+  "id" : "6shRGWCtBUOPFLFTTqXZIC",
+  "name" : "Upside Down",
+  "popularity" : 59,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3c3a9da593ba09740545c682cfe0bd3f89362b30?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6shRGWCtBUOPFLFTTqXZIC"
+}

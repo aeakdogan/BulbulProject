@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6u5axd0rpDsWSmzhFfb2VB",
+      "id" : "6u5axd0rpDsWSmzhFfb2VB",
+      "name" : "William Basinski",
+      "type" : "artist",
+      "uri" : "spotify:artist:6u5axd0rpDsWSmzhFfb2VB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6IyvlXaZDjNVelZstqasWG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6IyvlXaZDjNVelZstqasWG",
+    "id" : "6IyvlXaZDjNVelZstqasWG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ccab057d2d435ac1aed757ed0bc1a9877abfa747",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/764b8dd7996a5992d7970abcec81bea65b872e05",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/abf05c51123739e9d8c82fea20a014183dc74113",
+      "width" : 64
+    } ],
+    "name" : "Nocturnes",
+    "type" : "album",
+    "uri" : "spotify:album:6IyvlXaZDjNVelZstqasWG"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6u5axd0rpDsWSmzhFfb2VB",
+    "id" : "6u5axd0rpDsWSmzhFfb2VB",
+    "name" : "William Basinski",
+    "type" : "artist",
+    "uri" : "spotify:artist:6u5axd0rpDsWSmzhFfb2VB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 2455866,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USM5X1300001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6xGTbVWX8t8tIQ751cc0pA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6xGTbVWX8t8tIQ751cc0pA",
+  "id" : "6xGTbVWX8t8tIQ751cc0pA",
+  "name" : "Nocturnes",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/268b5ad4b580dcc9768e9e2c13a02bf8af4904a4?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:6xGTbVWX8t8tIQ751cc0pA"
+}

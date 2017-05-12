@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+      "name" : "Metallica",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/73E6u02YIL3dK6UConUUv4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/73E6u02YIL3dK6UConUUv4",
+    "id" : "73E6u02YIL3dK6UConUUv4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c196efb3722883c17a098e258b2571839c3ab7ed",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/39da9c9568cb7f9f8e249397f88720bfb708be4b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/356595e0dacc43b85b75e2bea60663e9cb26d2c8",
+      "width" : 64
+    } ],
+    "name" : "Reload",
+    "type" : "album",
+    "uri" : "spotify:album:73E6u02YIL3dK6UConUUv4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+    "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+    "name" : "Metallica",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 316240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEV19719684"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7F2oqVrAB0u9nSDdhiJsAK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7F2oqVrAB0u9nSDdhiJsAK",
+  "id" : "7F2oqVrAB0u9nSDdhiJsAK",
+  "name" : "Attitude",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a0fb124f49d8ef2fc736a182f7831d4265ef2cd1?cid=null",
+  "track_number" : 12,
+  "type" : "track",
+  "uri" : "spotify:track:7F2oqVrAB0u9nSDdhiJsAK"
+}

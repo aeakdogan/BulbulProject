@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+      "id" : "5V0MlUE1Bft0mbLlND7FJz",
+      "name" : "Ella Fitzgerald",
+      "type" : "artist",
+      "uri" : "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4IEzif6WznmB0UaZxLqqIo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4IEzif6WznmB0UaZxLqqIo",
+    "id" : "4IEzif6WznmB0UaZxLqqIo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cebf29c2f25c026e8115eb63021e9b7ef98a396c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3e001aac02fb9de43ede453a0be218fb9dac322b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0f720c19c224233b5ac463d088c53147448e403e",
+      "width" : 64
+    } ],
+    "name" : "Ella Fitzgerald Sings The Cole Porter Songbook (Expanded Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:4IEzif6WznmB0UaZxLqqIo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+    "id" : "5V0MlUE1Bft0mbLlND7FJz",
+    "name" : "Ella Fitzgerald",
+    "type" : "artist",
+    "uri" : "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 2,
+  "duration_ms" : 184093,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWWW0200770"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/48V3fV60uzSwWcW6Hd9wu9"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/48V3fV60uzSwWcW6Hd9wu9",
+  "id" : "48V3fV60uzSwWcW6Hd9wu9",
+  "name" : "Night And Day",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/afab6727af4307b89c1f052d413d2c770175fe33?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:48V3fV60uzSwWcW6Hd9wu9"
+}

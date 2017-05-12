@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/338mC0yGyX0C9of8QMJ5hK",
+      "id" : "338mC0yGyX0C9of8QMJ5hK",
+      "name" : "Gene Ammons",
+      "type" : "artist",
+      "uri" : "spotify:artist:338mC0yGyX0C9of8QMJ5hK"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj"
+    },
+    "href" : "https://api.spotify.com/v1/albums/04l5TDoVZFNPvExGNdVjOj",
+    "id" : "04l5TDoVZFNPvExGNdVjOj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/860d9db312ef5e249e9416b94785a8b130f0a95b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c1321626f7687338f60ab6f65f7cca23966cd1e8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/47e3fae0bdefaae187d6892ebf67c39cd091a6a4",
+      "width" : 64
+    } ],
+    "name" : "Boss Tenor",
+    "type" : "album",
+    "uri" : "spotify:album:04l5TDoVZFNPvExGNdVjOj"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/338mC0yGyX0C9of8QMJ5hK",
+    "id" : "338mC0yGyX0C9of8QMJ5hK",
+    "name" : "Gene Ammons",
+    "type" : "artist",
+    "uri" : "spotify:artist:338mC0yGyX0C9of8QMJ5hK"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 322546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI86000084"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2Twr6ASBvFcCJQBsTAk4GJ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2Twr6ASBvFcCJQBsTAk4GJ",
+  "id" : "2Twr6ASBvFcCJQBsTAk4GJ",
+  "name" : "Canadian Sunset",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/04e6c1107a8bad52ea4f3515264ac1b86737333e?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:2Twr6ASBvFcCJQBsTAk4GJ"
+}

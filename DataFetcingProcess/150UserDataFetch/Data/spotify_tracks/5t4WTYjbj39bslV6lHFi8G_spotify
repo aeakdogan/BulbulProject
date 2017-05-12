@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4LtKoRSDo1uGlaGGEqsIhz",
+      "id" : "4LtKoRSDo1uGlaGGEqsIhz",
+      "name" : "Lacrimas Profundere",
+      "type" : "artist",
+      "uri" : "spotify:artist:4LtKoRSDo1uGlaGGEqsIhz"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4KhQ8GzYRyXeAKqxiRALZ7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4KhQ8GzYRyXeAKqxiRALZ7",
+    "id" : "4KhQ8GzYRyXeAKqxiRALZ7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/83779da9849d9c49ad437a387a25711c479eece5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9035fbc332fb6f0dfc2143b01981e1995fc8a5a7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/16b0c464de544eec2d56451119d61184c89bcd9d",
+      "width" : 64
+    } ],
+    "name" : "Antiadore",
+    "type" : "album",
+    "uri" : "spotify:album:4KhQ8GzYRyXeAKqxiRALZ7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4LtKoRSDo1uGlaGGEqsIhz",
+    "id" : "4LtKoRSDo1uGlaGGEqsIhz",
+    "name" : "Lacrimas Profundere",
+    "type" : "artist",
+    "uri" : "spotify:artist:4LtKoRSDo1uGlaGGEqsIhz"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 185240,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "ATN261348701"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5t4WTYjbj39bslV6lHFi8G"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5t4WTYjbj39bslV6lHFi8G",
+  "id" : "5t4WTYjbj39bslV6lHFi8G",
+  "name" : "My Release In Pain",
+  "popularity" : 16,
+  "preview_url" : "https://p.scdn.co/mp3-preview/372b2232f852ef6614dda89e2b8b3e0e8975e246?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5t4WTYjbj39bslV6lHFi8G"
+}

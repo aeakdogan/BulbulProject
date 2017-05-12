@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2eixF9V5bbfSJNkZ1hUOb8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2eixF9V5bbfSJNkZ1hUOb8",
+      "id" : "2eixF9V5bbfSJNkZ1hUOb8",
+      "name" : "Robert Gorl",
+      "type" : "artist",
+      "uri" : "spotify:artist:2eixF9V5bbfSJNkZ1hUOb8"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1a48xcA7BpKm5RtfRX9xZo"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1a48xcA7BpKm5RtfRX9xZo",
+    "id" : "1a48xcA7BpKm5RtfRX9xZo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0b745d2e820c2c28478257c6e13b8ee5c69a50d0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f94ca0932c0c53e7c2abf5964bfe1a1dc1debee6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3161681361f3a9aafde54443a49576403f409c47",
+      "width" : 64
+    } ],
+    "name" : "Night Full Of Tension",
+    "type" : "album",
+    "uri" : "spotify:album:1a48xcA7BpKm5RtfRX9xZo"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2eixF9V5bbfSJNkZ1hUOb8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2eixF9V5bbfSJNkZ1hUOb8",
+    "id" : "2eixF9V5bbfSJNkZ1hUOb8",
+    "name" : "Robert Gorl",
+    "type" : "artist",
+    "uri" : "spotify:artist:2eixF9V5bbfSJNkZ1hUOb8"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 421533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJH0700091"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2heI4f0pcKNFjOKKQjYZwW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2heI4f0pcKNFjOKKQjYZwW",
+  "id" : "2heI4f0pcKNFjOKKQjYZwW",
+  "name" : "Darling Don't Leave Me - Extended",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4c32048c26935f25cdb2db8c2de4bc3e3bab8450?cid=null",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2heI4f0pcKNFjOKKQjYZwW"
+}

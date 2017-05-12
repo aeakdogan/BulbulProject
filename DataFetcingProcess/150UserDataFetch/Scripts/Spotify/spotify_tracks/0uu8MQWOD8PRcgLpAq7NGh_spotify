@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BpbniLbphgEZo1xQbmfQl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6BpbniLbphgEZo1xQbmfQl",
+      "id" : "6BpbniLbphgEZo1xQbmfQl",
+      "name" : "Ruben Hoeke Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:6BpbniLbphgEZo1xQbmfQl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/22andYm1ezWqMZD7FcuaOt"
+    },
+    "href" : "https://api.spotify.com/v1/albums/22andYm1ezWqMZD7FcuaOt",
+    "id" : "22andYm1ezWqMZD7FcuaOt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ac8dfc076ede449a7c4ab873e91edca6ad2bd3b7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/11aa9104fd5df22e357d85b93e53795cff86767c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6a307feffa7aa6755eebe97bd507b0c8a01bd5ed",
+      "width" : 64
+    } ],
+    "name" : "Sugar",
+    "type" : "album",
+    "uri" : "spotify:album:22andYm1ezWqMZD7FcuaOt"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6BpbniLbphgEZo1xQbmfQl"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6BpbniLbphgEZo1xQbmfQl",
+    "id" : "6BpbniLbphgEZo1xQbmfQl",
+    "name" : "Ruben Hoeke Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:6BpbniLbphgEZo1xQbmfQl"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 282560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "NLK530800227"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0uu8MQWOD8PRcgLpAq7NGh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0uu8MQWOD8PRcgLpAq7NGh",
+  "id" : "0uu8MQWOD8PRcgLpAq7NGh",
+  "name" : "Swamp",
+  "popularity" : 1,
+  "preview_url" : "https://p.scdn.co/mp3-preview/76b4e13fb18841dc65139deca13e86f83210b973?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:0uu8MQWOD8PRcgLpAq7NGh"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zrFO6P7G6EZry0pfxMfKT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zrFO6P7G6EZry0pfxMfKT",
+      "id" : "4zrFO6P7G6EZry0pfxMfKT",
+      "name" : "Wild Beasts",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zrFO6P7G6EZry0pfxMfKT"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0EHUUM82UcNrDLWKh7jN8U"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0EHUUM82UcNrDLWKh7jN8U",
+    "id" : "0EHUUM82UcNrDLWKh7jN8U",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d87533003efca317e39c68d1b67b61fe500f40af",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9b8d934c9a7d04033b6da710f969d5311c989c43",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/61e4a715d6821b5ac9dc066010993b25db72ab73",
+      "width" : 64
+    } ],
+    "name" : "Two Dancers",
+    "type" : "album",
+    "uri" : "spotify:album:0EHUUM82UcNrDLWKh7jN8U"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4zrFO6P7G6EZry0pfxMfKT"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4zrFO6P7G6EZry0pfxMfKT",
+    "id" : "4zrFO6P7G6EZry0pfxMfKT",
+    "name" : "Wild Beasts",
+    "type" : "artist",
+    "uri" : "spotify:artist:4zrFO6P7G6EZry0pfxMfKT"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 275066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBCEL0900337"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5GhqXf7zDfIVA16mkTVtIW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5GhqXf7zDfIVA16mkTVtIW",
+  "id" : "5GhqXf7zDfIVA16mkTVtIW",
+  "name" : "Hooting & Howling",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/693e347626908fafe77248a97eafa18c06d0125f?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5GhqXf7zDfIVA16mkTVtIW"
+}

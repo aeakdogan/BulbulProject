@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7c9O0hfRy2u32JVcWhoope",
+      "id" : "7c9O0hfRy2u32JVcWhoope",
+      "name" : "Lars Danielsson",
+      "type" : "artist",
+      "uri" : "spotify:artist:7c9O0hfRy2u32JVcWhoope"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7KOGT89lKdtNopWnvBWYzz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7KOGT89lKdtNopWnvBWYzz",
+    "id" : "7KOGT89lKdtNopWnvBWYzz",
+    "images" : [ {
+      "height" : 600,
+      "url" : "https://i.scdn.co/image/15eece17c6b69b233410a98ed4cc39d2dfb9c276",
+      "width" : 600
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/55c6df04c82ed1b3e927db3087b3a1f208c85922",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3d12cb271ad33485c6276bef9661d5723751c93c",
+      "width" : 64
+    } ],
+    "name" : "Tarantella",
+    "type" : "album",
+    "uri" : "spotify:album:7KOGT89lKdtNopWnvBWYzz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7c9O0hfRy2u32JVcWhoope",
+    "id" : "7c9O0hfRy2u32JVcWhoope",
+    "name" : "Lars Danielsson",
+    "type" : "artist",
+    "uri" : "spotify:artist:7c9O0hfRy2u32JVcWhoope"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 167834,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEA890900052"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1WkchSv03I2rodROx09tPe"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1WkchSv03I2rodROx09tPe",
+  "id" : "1WkchSv03I2rodROx09tPe",
+  "name" : "Traveller's Wife",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/f0ae43b6ca647267a8059b39a4d086e37b6921b2?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1WkchSv03I2rodROx09tPe"
+}

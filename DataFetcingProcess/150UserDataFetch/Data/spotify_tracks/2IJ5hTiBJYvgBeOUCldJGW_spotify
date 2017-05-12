@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+      "id" : "1DFr97A9HnbV3SKTJFu62M",
+      "name" : "Motörhead",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3xqjaGS3zK0WQPLg6Qdb50"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3xqjaGS3zK0WQPLg6Qdb50",
+    "id" : "3xqjaGS3zK0WQPLg6Qdb50",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/97b54678c2d9c31022978dc62daad77811a8713a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7252aaaf3c10ed03a54ee39b2095b834c2972748",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7a4e3b5b98945a0d64f159420b99add7d7f16df9",
+      "width" : 64
+    } ],
+    "name" : "Overkill (Deluxe Edition)",
+    "type" : "album",
+    "uri" : "spotify:album:3xqjaGS3zK0WQPLg6Qdb50"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+    "id" : "1DFr97A9HnbV3SKTJFu62M",
+    "name" : "Motörhead",
+    "type" : "artist",
+    "uri" : "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 160280,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAJE9700061"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2IJ5hTiBJYvgBeOUCldJGW"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2IJ5hTiBJYvgBeOUCldJGW",
+  "id" : "2IJ5hTiBJYvgBeOUCldJGW",
+  "name" : "Tear Ya Down",
+  "popularity" : 21,
+  "preview_url" : "https://p.scdn.co/mp3-preview/91c3aafb6425eb1867739dbd32947bbf3d0ba416?cid=null",
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:2IJ5hTiBJYvgBeOUCldJGW"
+}

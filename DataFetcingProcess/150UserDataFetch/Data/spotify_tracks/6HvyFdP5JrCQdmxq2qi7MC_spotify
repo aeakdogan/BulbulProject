@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+      "id" : "4iRZAbYvBqnxrbs6K25aJ7",
+      "name" : "The Dave Brubeck Quartet",
+      "type" : "artist",
+      "uri" : "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0nTTEAhCZsbbeplyDMIFuA",
+    "id" : "0nTTEAhCZsbbeplyDMIFuA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ea04d96e16a9f4c483fd854e47accb8e3e9ddc3e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c802f3432473acd809760da577996ae2890c75aa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c852e5b7abaf27e817bcd75cc1bd370ea975627c",
+      "width" : 64
+    } ],
+    "name" : "Time Out",
+    "type" : "album",
+    "uri" : "spotify:album:0nTTEAhCZsbbeplyDMIFuA"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4iRZAbYvBqnxrbs6K25aJ7",
+    "id" : "4iRZAbYvBqnxrbs6K25aJ7",
+    "name" : "The Dave Brubeck Quartet",
+    "type" : "artist",
+    "uri" : "spotify:artist:4iRZAbYvBqnxrbs6K25aJ7"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 442226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM15900107"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6HvyFdP5JrCQdmxq2qi7MC",
+  "id" : "6HvyFdP5JrCQdmxq2qi7MC",
+  "name" : "Strange Meadow Lark",
+  "popularity" : 42,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2e01e4b73c4266af97571587acf5f2a63145a357?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6HvyFdP5JrCQdmxq2qi7MC"
+}

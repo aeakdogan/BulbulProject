@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fxk3UXHTFYET8qCT9WlBF",
+      "id" : "6fxk3UXHTFYET8qCT9WlBF",
+      "name" : "Kevin Morby",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fxk3UXHTFYET8qCT9WlBF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3tQTQZ8oy2IDwpmkYP08Fr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3tQTQZ8oy2IDwpmkYP08Fr",
+    "id" : "3tQTQZ8oy2IDwpmkYP08Fr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f4503def6f47a0427166c281ea26fb4ae33e3b7d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4653d827ff49daebe68c4d719a85bca73d38b10e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cc5659feb019cd2ea795aa85ca8dcb672043cdf2",
+      "width" : 64
+    } ],
+    "name" : "Still Life",
+    "type" : "album",
+    "uri" : "spotify:album:3tQTQZ8oy2IDwpmkYP08Fr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6fxk3UXHTFYET8qCT9WlBF",
+    "id" : "6fxk3UXHTFYET8qCT9WlBF",
+    "name" : "Kevin Morby",
+    "type" : "artist",
+    "uri" : "spotify:artist:6fxk3UXHTFYET8qCT9WlBF"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 325426,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2FD1410047"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2kkX9IzielZhUBybezdE0m"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2kkX9IzielZhUBybezdE0m",
+  "id" : "2kkX9IzielZhUBybezdE0m",
+  "name" : "Parade",
+  "popularity" : 50,
+  "preview_url" : "https://p.scdn.co/mp3-preview/979c0d3bfb157627420033fc3d6807fa31a0d1bf?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:2kkX9IzielZhUBybezdE0m"
+}

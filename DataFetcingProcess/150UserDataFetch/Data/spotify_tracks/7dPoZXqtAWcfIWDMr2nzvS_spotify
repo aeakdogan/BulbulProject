@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1WjBIvYAnZTkTh5UiZNwlR",
+      "id" : "1WjBIvYAnZTkTh5UiZNwlR",
+      "name" : "Oliver Koletzki",
+      "type" : "artist",
+      "uri" : "spotify:artist:1WjBIvYAnZTkTh5UiZNwlR"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4eGdahdwOQzilF7qJskeLs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4eGdahdwOQzilF7qJskeLs",
+    "id" : "4eGdahdwOQzilF7qJskeLs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a5bd6b8fd17a9c39f0f45c704e6248fe1a62e22d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/603f7100d0ce2ecd21a0b4b9012113aebd1bd0ac",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8c600a1cf0269de7c118296ee672d228b7c45933",
+      "width" : 64
+    } ],
+    "name" : "I am OK",
+    "type" : "album",
+    "uri" : "spotify:album:4eGdahdwOQzilF7qJskeLs"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1WjBIvYAnZTkTh5UiZNwlR",
+    "id" : "1WjBIvYAnZTkTh5UiZNwlR",
+    "name" : "Oliver Koletzki",
+    "type" : "artist",
+    "uri" : "spotify:artist:1WjBIvYAnZTkTh5UiZNwlR"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 429946,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEUM71401305"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7dPoZXqtAWcfIWDMr2nzvS"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7dPoZXqtAWcfIWDMr2nzvS",
+  "id" : "7dPoZXqtAWcfIWDMr2nzvS",
+  "name" : "Bring Me Home",
+  "popularity" : 34,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7138fde6de0a4cfd4e2425974dd271761d9152f3?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:7dPoZXqtAWcfIWDMr2nzvS"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+      "id" : "4KWTAlx2RvbpseOGMEmROg",
+      "name" : "R.E.M.",
+      "type" : "artist",
+      "uri" : "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5CI03g8QNehnEWXAhRtw0s"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5CI03g8QNehnEWXAhRtw0s",
+    "id" : "5CI03g8QNehnEWXAhRtw0s",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2da20d206207d8d0a9d3836660469884653fd2a0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/52021271c84ebb8fe0bc1704d54a2ef702a12a06",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/60dc237792ef2707578cd5b26a241f4972bcaae5",
+      "width" : 64
+    } ],
+    "name" : "Around The Sun",
+    "type" : "album",
+    "uri" : "spotify:album:5CI03g8QNehnEWXAhRtw0s"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+    "id" : "4KWTAlx2RvbpseOGMEmROg",
+    "name" : "R.E.M.",
+    "type" : "artist",
+    "uri" : "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 252200,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10402572"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7s4pzK54o1QwxJoteeuED7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7s4pzK54o1QwxJoteeuED7",
+  "id" : "7s4pzK54o1QwxJoteeuED7",
+  "name" : "Electron Blue",
+  "popularity" : 14,
+  "preview_url" : "https://p.scdn.co/mp3-preview/08474572b6d1379a6afb10600047f084d77912f9?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7s4pzK54o1QwxJoteeuED7"
+}

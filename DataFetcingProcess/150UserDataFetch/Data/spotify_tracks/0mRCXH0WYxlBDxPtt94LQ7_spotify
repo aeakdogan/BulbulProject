@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5fIZHCg2de8322HZodBDWL",
+      "id" : "5fIZHCg2de8322HZodBDWL",
+      "name" : "The Secret Sisters",
+      "type" : "artist",
+      "uri" : "spotify:artist:5fIZHCg2de8322HZodBDWL"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4xuicwuqEAjIHe2awEubrI",
+    "id" : "4xuicwuqEAjIHe2awEubrI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d9a553a7158974a6e0b398d8564a83f9792365f8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7861a1c7335abaf092a5e9d25f6ec0f6ec5d9705",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/88a55078988d527be54e60ed1d31c0e7058f2a0d",
+      "width" : 64
+    } ],
+    "name" : "The Secret Sisters",
+    "type" : "album",
+    "uri" : "spotify:album:4xuicwuqEAjIHe2awEubrI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5fIZHCg2de8322HZodBDWL",
+    "id" : "5fIZHCg2de8322HZodBDWL",
+    "name" : "The Secret Sisters",
+    "type" : "artist",
+    "uri" : "spotify:artist:5fIZHCg2de8322HZodBDWL"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 139213,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USUM71015366"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0mRCXH0WYxlBDxPtt94LQ7"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0mRCXH0WYxlBDxPtt94LQ7",
+  "id" : "0mRCXH0WYxlBDxPtt94LQ7",
+  "name" : "Why Don't You Love Me",
+  "popularity" : 7,
+  "preview_url" : "https://p.scdn.co/mp3-preview/42b81121ea4bfdf7144a576386c231ac5a36670c?cid=null",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:0mRCXH0WYxlBDxPtt94LQ7"
+}

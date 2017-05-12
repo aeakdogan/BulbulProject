@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20O4Ik25BbWfWBz0kZtsxX",
+      "id" : "20O4Ik25BbWfWBz0kZtsxX",
+      "name" : "M.A.N.D.Y.",
+      "type" : "artist",
+      "uri" : "spotify:artist:20O4Ik25BbWfWBz0kZtsxX"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4ZwdlmglrtInyuZBFem4ce"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4ZwdlmglrtInyuZBFem4ce",
+    "id" : "4ZwdlmglrtInyuZBFem4ce",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b519c8cd16bb04f983eb4021c9c7a75ca4a3c066",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/eb9527d67c024f88b8fc5b1c83878f490eeb7967",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/047a7bcd2b8d8750bd83ee522758042ee40e47a8",
+      "width" : 64
+    } ],
+    "name" : "At The Controls",
+    "type" : "album",
+    "uri" : "spotify:album:4ZwdlmglrtInyuZBFem4ce"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+    },
+    "href" : "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8",
+    "id" : "08F3Y3SctIlsOEmKd6dnH8",
+    "name" : "Yusuf / Cat Stevens",
+    "type" : "artist",
+    "uri" : "spotify:artist:08F3Y3SctIlsOEmKd6dnH8"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 77333,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBVVQ1025183"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1tLSTPG2vSEB6WK7a385Hc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1tLSTPG2vSEB6WK7a385Hc",
+  "id" : "1tLSTPG2vSEB6WK7a385Hc",
+  "name" : "Was Dog A Doughnut",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8feacfd1b09740cee199c9cabb7c89ecb72d988c?cid=null",
+  "track_number" : 22,
+  "type" : "track",
+  "uri" : "spotify:track:1tLSTPG2vSEB6WK7a385Hc"
+}
