@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2bToe6WyGvADJftreuXh2K",
+      "id" : "2bToe6WyGvADJftreuXh2K",
+      "name" : "Lee Fields & The Expressions",
+      "type" : "artist",
+      "uri" : "spotify:artist:2bToe6WyGvADJftreuXh2K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4L8kkhhuk9w3cYDEKMCpHV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4L8kkhhuk9w3cYDEKMCpHV",
+      "id" : "4L8kkhhuk9w3cYDEKMCpHV",
+      "name" : "The Expressions",
+      "type" : "artist",
+      "uri" : "spotify:artist:4L8kkhhuk9w3cYDEKMCpHV"
+    } ],
+    "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/38vdzwOSCNDvh81G0QmGfk"
+    },
+    "href" : "https://api.spotify.com/v1/albums/38vdzwOSCNDvh81G0QmGfk",
+    "id" : "38vdzwOSCNDvh81G0QmGfk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/71e12bb12de53c10ac6e6db0156c3e9a1ac3e416",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/aa0cd4067177d00864d7617196f858e6965541a3",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a04891ae53b353466021056ffd77d99f6c28f9de",
+      "width" : 64
+    } ],
+    "name" : "Faithful Man",
+    "type" : "album",
+    "uri" : "spotify:album:38vdzwOSCNDvh81G0QmGfk"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2bToe6WyGvADJftreuXh2K",
+    "id" : "2bToe6WyGvADJftreuXh2K",
+    "name" : "Lee Fields & The Expressions",
+    "type" : "artist",
+    "uri" : "spotify:artist:2bToe6WyGvADJftreuXh2K"
+  } ],
+  "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 120560,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA371618587"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7z7guLBbOmowFpk2G04pi6"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7z7guLBbOmowFpk2G04pi6",
+  "id" : "7z7guLBbOmowFpk2G04pi6",
+  "name" : "Intermission",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/00e8aef673822d4436623bf3a4313076d629ba3e?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:7z7guLBbOmowFpk2G04pi6"
+}

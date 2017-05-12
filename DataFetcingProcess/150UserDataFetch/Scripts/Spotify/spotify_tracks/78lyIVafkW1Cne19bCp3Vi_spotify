@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+      },
+      "href" : "https://api.spotify.com/v1/artists/38LdIuxB548zgHoEY2AN7a",
+      "id" : "38LdIuxB548zgHoEY2AN7a",
+      "name" : "While She Sleeps",
+      "type" : "artist",
+      "uri" : "spotify:artist:38LdIuxB548zgHoEY2AN7a"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5WYyxZVi03JrSvwOr9LgCW"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5WYyxZVi03JrSvwOr9LgCW",
+    "id" : "5WYyxZVi03JrSvwOr9LgCW",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/58f8516152deb45df2c14fa39cf67e8fdb87c67c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4863f3817aefa8ecf7dd393b2dbef0dc1ea7c2dd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8c2579a15b7932a8dcb3428494f73b352f85c52b",
+      "width" : 64
+    } ],
+    "name" : "This Is The Six (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:5WYyxZVi03JrSvwOr9LgCW"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+    },
+    "href" : "https://api.spotify.com/v1/artists/38LdIuxB548zgHoEY2AN7a",
+    "id" : "38LdIuxB548zgHoEY2AN7a",
+    "name" : "While She Sleeps",
+    "type" : "artist",
+    "uri" : "spotify:artist:38LdIuxB548zgHoEY2AN7a"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 216386,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBARL1200275"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/78lyIVafkW1Cne19bCp3Vi"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/78lyIVafkW1Cne19bCp3Vi",
+  "id" : "78lyIVafkW1Cne19bCp3Vi",
+  "name" : "Our Courage, Our Cancer",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1c72faf6814820e65fb862fac9db9e6f1191a83c?cid=null",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:78lyIVafkW1Cne19bCp3Vi"
+}

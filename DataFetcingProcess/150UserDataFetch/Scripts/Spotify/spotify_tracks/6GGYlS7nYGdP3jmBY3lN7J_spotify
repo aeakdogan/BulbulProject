@@ -1,0 +1,83 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05Q9xndTxhXhD5trpmTtfU",
+      "id" : "05Q9xndTxhXhD5trpmTtfU",
+      "name" : "Carlos Gardel",
+      "type" : "artist",
+      "uri" : "spotify:artist:05Q9xndTxhXhD5trpmTtfU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53twMNsEUVqOjcCBiJmJaA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/53twMNsEUVqOjcCBiJmJaA",
+      "id" : "53twMNsEUVqOjcCBiJmJaA",
+      "name" : "Leonardo Pastore",
+      "type" : "artist",
+      "uri" : "spotify:artist:53twMNsEUVqOjcCBiJmJaA"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5T07qEpIxvs0fBr90EaGuZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5T07qEpIxvs0fBr90EaGuZ",
+    "id" : "5T07qEpIxvs0fBr90EaGuZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8394a17b04ff38185c65d6cb716c99ec92e6362f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0167f5310d40abc7f74a75c46ac562340aaeb64e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/702096ff88c3f8889813ec3271d684fb1470b20c",
+      "width" : 64
+    } ],
+    "name" : "Carlos Gardel Original",
+    "type" : "album",
+    "uri" : "spotify:album:5T07qEpIxvs0fBr90EaGuZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+    },
+    "href" : "https://api.spotify.com/v1/artists/05Q9xndTxhXhD5trpmTtfU",
+    "id" : "05Q9xndTxhXhD5trpmTtfU",
+    "name" : "Carlos Gardel",
+    "type" : "artist",
+    "uri" : "spotify:artist:05Q9xndTxhXhD5trpmTtfU"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/53twMNsEUVqOjcCBiJmJaA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/53twMNsEUVqOjcCBiJmJaA",
+    "id" : "53twMNsEUVqOjcCBiJmJaA",
+    "name" : "Leonardo Pastore",
+    "type" : "artist",
+    "uri" : "spotify:artist:53twMNsEUVqOjcCBiJmJaA"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 158035,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ARZ021600379"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6GGYlS7nYGdP3jmBY3lN7J"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6GGYlS7nYGdP3jmBY3lN7J",
+  "id" : "6GGYlS7nYGdP3jmBY3lN7J",
+  "name" : "Amores de estudiante",
+  "popularity" : 19,
+  "preview_url" : "https://p.scdn.co/mp3-preview/18ce70051f9f2bfb8507b8212c08b8bc576fd22e?cid=null",
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:6GGYlS7nYGdP3jmBY3lN7J"
+}

@@ -1,0 +1,92 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1JOQXgYdQV2yfrhewqx96o",
+      "id" : "1JOQXgYdQV2yfrhewqx96o",
+      "name" : "Giuseppe Verdi",
+      "type" : "artist",
+      "uri" : "spotify:artist:1JOQXgYdQV2yfrhewqx96o"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6QPkFippWcj8OMACadvVso"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6QPkFippWcj8OMACadvVso",
+      "id" : "6QPkFippWcj8OMACadvVso",
+      "name" : "Matteo Manuguerra/Veriano Luchetti/Nicolai Ghiaurov/Renata Scotto/Elena Obraztsova/Riccardo Muti",
+      "type" : "artist",
+      "uri" : "spotify:artist:6QPkFippWcj8OMACadvVso"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6dLhLAMPKpxpyhKjphx62U",
+    "id" : "6dLhLAMPKpxpyhKjphx62U",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/821dc54f80da90941a522d1e9c63781f125ea95c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/97f78740ffb92f32c796ff879ed85b4e07d33816",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6c67049bfa013709e17689f751d7a8734884c65c",
+      "width" : 64
+    } ],
+    "name" : "Verdi: Nabucco",
+    "type" : "album",
+    "uri" : "spotify:album:6dLhLAMPKpxpyhKjphx62U"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1JOQXgYdQV2yfrhewqx96o",
+    "id" : "1JOQXgYdQV2yfrhewqx96o",
+    "name" : "Giuseppe Verdi",
+    "type" : "artist",
+    "uri" : "spotify:artist:1JOQXgYdQV2yfrhewqx96o"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7silW8RiEOoLBgAg5JBCL1",
+    "id" : "7silW8RiEOoLBgAg5JBCL1",
+    "name" : "Riccardo Muti",
+    "type" : "artist",
+    "uri" : "spotify:artist:7silW8RiEOoLBgAg5JBCL1"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/09KZU0NsS7jRa5p0SflmGY",
+    "id" : "09KZU0NsS7jRa5p0SflmGY",
+    "name" : "Philharmonia Orchestra",
+    "type" : "artist",
+    "uri" : "spotify:artist:09KZU0NsS7jRa5p0SflmGY"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 429960,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYC8600430"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/58k4d68z47kR3AWqq8ZWrP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/58k4d68z47kR3AWqq8ZWrP",
+  "id" : "58k4d68z47kR3AWqq8ZWrP",
+  "name" : "Verdi: Nabucco: Sinfonia (Andante - Allegro - Andantino - Allegro)",
+  "popularity" : 20,
+  "preview_url" : "https://p.scdn.co/mp3-preview/51826d43e2fa6b23c9a87f889a2dde49361c4a94?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:58k4d68z47kR3AWqq8ZWrP"
+}

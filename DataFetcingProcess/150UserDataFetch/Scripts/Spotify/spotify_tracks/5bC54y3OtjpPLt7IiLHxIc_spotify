@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2nvKpWcP8etYTq4JrRiUiy",
+      "id" : "2nvKpWcP8etYTq4JrRiUiy",
+      "name" : "Cliff Richard",
+      "type" : "artist",
+      "uri" : "spotify:artist:2nvKpWcP8etYTq4JrRiUiy"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5q3JQvTNdsKIRq4tW9Z7o5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5q3JQvTNdsKIRq4tW9Z7o5",
+    "id" : "5q3JQvTNdsKIRq4tW9Z7o5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b6c3c64c087bdb9e70054a0fbc2eec5a5373a4c9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/33a4d203b72d781071881e1b548ad072db082428",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/fcd10c6a24f50b6f4e29bc7297e5fb631648dfb9",
+      "width" : 64
+    } ],
+    "name" : "75 At 75",
+    "type" : "album",
+    "uri" : "spotify:album:5q3JQvTNdsKIRq4tW9Z7o5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4IdvJZeciaa37wYr2qBpjm"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4IdvJZeciaa37wYr2qBpjm",
+    "id" : "4IdvJZeciaa37wYr2qBpjm",
+    "name" : "Cliff Richard & The Shadows",
+    "type" : "artist",
+    "uri" : "spotify:artist:4IdvJZeciaa37wYr2qBpjm"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 176840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBAYE1500769"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5bC54y3OtjpPLt7IiLHxIc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5bC54y3OtjpPLt7IiLHxIc",
+  "id" : "5bC54y3OtjpPLt7IiLHxIc",
+  "name" : "I Could Easily Fall (In Love With You) - 1998 Remastered Version",
+  "popularity" : 8,
+  "preview_url" : "https://p.scdn.co/mp3-preview/2324a722a1b2b68b49660fadc3ac0338fd73d3c1?cid=null",
+  "track_number" : 29,
+  "type" : "track",
+  "uri" : "spotify:track:5bC54y3OtjpPLt7IiLHxIc"
+}

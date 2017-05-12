@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3FPr2kgOVTHdeKrnYAKRCz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3FPr2kgOVTHdeKrnYAKRCz",
+      "id" : "3FPr2kgOVTHdeKrnYAKRCz",
+      "name" : "Bola",
+      "type" : "artist",
+      "uri" : "spotify:artist:3FPr2kgOVTHdeKrnYAKRCz"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3J0fBkYqaw0sz69UxDPqT5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3J0fBkYqaw0sz69UxDPqT5",
+    "id" : "3J0fBkYqaw0sz69UxDPqT5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ade7cb9813812981d79e684bc47dc502ef5deb50",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a9b722a244a49a72a521c8c9ade40bceee00dcea",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/53fda987bde1aaea79e23f55006fb9370e2f4d5d",
+      "width" : 64
+    } ],
+    "name" : "Soup",
+    "type" : "album",
+    "uri" : "spotify:album:3J0fBkYqaw0sz69UxDPqT5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3FPr2kgOVTHdeKrnYAKRCz"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3FPr2kgOVTHdeKrnYAKRCz",
+    "id" : "3FPr2kgOVTHdeKrnYAKRCz",
+    "name" : "Bola",
+    "type" : "artist",
+    "uri" : "spotify:artist:3FPr2kgOVTHdeKrnYAKRCz"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 471026,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GB-LJH-98-20202"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/7rwVcNnkXXt5iluq4VQwkQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/7rwVcNnkXXt5iluq4VQwkQ",
+  "id" : "7rwVcNnkXXt5iluq4VQwkQ",
+  "name" : "Versivo",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4d62cca03567c036b80a31af6d5868024f828731?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:7rwVcNnkXXt5iluq4VQwkQ"
+}

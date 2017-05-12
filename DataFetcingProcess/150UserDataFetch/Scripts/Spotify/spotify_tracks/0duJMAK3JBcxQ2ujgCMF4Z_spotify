@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xTk3EK5T9UzudENVvu9YB",
+      "id" : "6xTk3EK5T9UzudENVvu9YB",
+      "name" : "Rancid",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xTk3EK5T9UzudENVvu9YB"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/44FRRbDmIqioUuIKjua6MT",
+    "id" : "44FRRbDmIqioUuIKjua6MT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/aead9ce368f4168624c24c2116fff36594dffa68",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4612219f70a37a059e625b963e1cc8d275baa638",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1bcd4e77e999f45dcac184674d57f79304bb1938",
+      "width" : 64
+    } ],
+    "name" : "Let's Go",
+    "type" : "album",
+    "uri" : "spotify:album:44FRRbDmIqioUuIKjua6MT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6xTk3EK5T9UzudENVvu9YB",
+    "id" : "6xTk3EK5T9UzudENVvu9YB",
+    "name" : "Rancid",
+    "type" : "artist",
+    "uri" : "spotify:artist:6xTk3EK5T9UzudENVvu9YB"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 132266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEP40316222"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0duJMAK3JBcxQ2ujgCMF4Z"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0duJMAK3JBcxQ2ujgCMF4Z",
+  "id" : "0duJMAK3JBcxQ2ujgCMF4Z",
+  "name" : "Name",
+  "popularity" : 28,
+  "preview_url" : "https://p.scdn.co/mp3-preview/199a069d24ed3e631cfd2e014bd6c7ee6072d65b?cid=null",
+  "track_number" : 22,
+  "type" : "track",
+  "uri" : "spotify:track:0duJMAK3JBcxQ2ujgCMF4Z"
+}
