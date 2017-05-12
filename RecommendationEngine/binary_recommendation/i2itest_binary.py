@@ -16,9 +16,9 @@ import time
 import math
 import sys
 
-def generate_umatrix_tmatrix():
+def generate_umatrix_tmatrix_binary():
 	path = '/root/Bulbul/BulbulData/user_detail/'
-	storage_path = '/root/Bulbul/brain/binary_recommendation/matrix_storage/'
+	storage_path = '/root/Bulbul/RecommendationEngine/binary_recommendation/matrix_storage/'
 
 
 	if os.path.isfile( storage_path + 'umatrix.txt'):
@@ -78,14 +78,7 @@ def generate_umatrix_tmatrix():
 				continue
 			maxval = max(countlist)
 			minval = min(countlist)
-
-			try:
-				# total_playcount = sum(countlist)
-				# average_playcount = total_playcount / len(countlist)
-				median = sorted(countlist)[int(len(countlist)/2)]
-			except ZeroDivisionError as e:
-				print('Zero divison error druing average playcount: ', str(e))
-				average_playcount = 0
+			median = sorted(countlist)[int(len(countlist)/2)]
 
 			#Generate umatrix
 			for count in range(len(data['toptracks']['track'])):
@@ -98,12 +91,12 @@ def generate_umatrix_tmatrix():
 						playcount = float(data['toptracks']['track'][count]['playcount'])
 						rating = 1 if playcount > median else 0
 					tracks[data['toptracks']['track'][count]['mbid']] = rating
-		except ZeroDivisionError as e:
+		except Exception as e:
 			print('Got exception during umatrix: ', str(e))
 			# print(countlist)
 			errcnt += 1
-		except KeyError as e:
-			print('Got exception during umatrix: ', str(e))
+		# except KeyError as e:
+		# 	print('Got exception during umatrix: ', str(e))
 		umatrix[top] = tracks
 
 	# Generate tmatrix
@@ -208,7 +201,11 @@ def get_top_N_similar_music(username, umatrix, tmatrix, N, target_track_id):
 	user_tracks = umatrix[username]
 
 	for music_id in user_tracks.keys():
-		mbid_similarity[music_id] = jaccard_sim(tmatrix, music_id, target_track_id)
+		try:
+			mbid_similarity[music_id] = jaccard_sim(tmatrix, music_id, target_track_id)
+		except KeyError:
+			pass
+			#got an exception due to the recent tracks being added to the database but not to the t, u matrcies.
 
 	sorted_mbid_similarity = sorted(mbid_similarity.items(), key=lambda x: x[1], reverse=True)
 	return list(sorted_mbid_similarity)[:N]
@@ -249,16 +246,11 @@ def get_estimation_binary(music_id, username, umatrix, tmatrix, N):
 			loved += 1
 		else:
 			notloved += 1
-	if loved >= notloved:
-		return 1
-	return 0
+	return float(loved)/N
 
 def get_recommendations_binary(username, track_list, n_recommendation, umatrix, tmatrix):
 	estimated_binary_ratings = {}
-	i = 0
 	for track_id in track_list:
-		print('value: ', i)
-		i += 1
 		estimated_binary_ratings[track_id] = get_estimation_binary(track_id, username, umatrix, tmatrix, 20)
 	sorted_estimation_list = sorted(estimated_binary_ratings.items(), key=lambda x: x[1], reverse=True)[:n_recommendation]
 	return sorted_estimation_list
@@ -272,75 +264,24 @@ def get_recommendations(username, track_list, n_recommendation, umatrix, tmatrix
 	sorted_rating_list = sorted(estimated_track_ratings.items(), key=lambda x: x[1], reverse=True)[:n_recommendation]
 	return sorted_rating_list
 
+def get_recommendations_outside(mode, username, rated_songs, filtered_tracks, N, umatrix, tmatrix):
+
+	print(len(tmatrix.keys()))
+	print(len(tmatrix.items()))
+
+	print('rated songs type: ', str(type(rated_songs)))
 
 
-
-# with open('umatrix.txt', 'wb') as handle:
-#   pickle.dump(umatrix, handle)
-#
-# with open('tmatrix.txt', 'wb') as handle:
-#   pickle.dump(tmatrix, handle)
-
-
-# Genrate a use case to test algorithm
-# #mbid: 5e03ae75-edfa-4bf4-a30a-0c93372a5743, username: tucnak4eva
-# print(umatrix['tucnak4eva']['5e03ae75-edfa-4bf4-a30a-0c93372a5743'])
-# print('---------------------------------------------------')
-# print(tmatrix['5e03ae75-edfa-4bf4-a30a-0c93372a5743']['tucnak4eva'])
-# print('total error: ' + str(errcnt))
-#
-# username = 'tucnak4eva'
-# music_id = '5e03ae75-edfa-4bf4-a30a-0c93372a5743'
-
-umatrix, tmatrix = generate_umatrix_tmatrix()
-#user 1
-user1 = 'zzuba'
-music1 = ["9d2a1187-e2eb-492d-ae25-d47e1660e776", "2598d956-5812-4b10-a2ed-c6bbd848a9b5", "d082fa6c-13d3-49ea-bde8-6dc1e28386ef", "549de12c-bdda-4f34-9f6a-3a11ef4855e3", "e1748d2a-8315-4577-9196-b6a6b96fec3b"]
-user2 = 'aaronnk'
-music2 = ["38f529e9-92d5-407a-82e3-0c87b0ae906c", "9e0fd1aa-4ef2-46b2-bef3-fb975d6dd3dd", "7d527556-0b84-461f-9239-da3e33c4ad8f", "1243e386-d49c-48b8-aea7-ea14383eb67f", "1b7d1d45-3529-4bd3-b2c4-4cf6160054f0"]
-user3 = 'omerfs'
-music3 = ["0a950f6b-20c1-461a-8385-8335d5f2668a", "176d887e-054e-4a48-b8fb-9d5614372f20", "11b7c3d2-8a49-4812-95dc-aef93c4cec37", "0afdf0bb-cf31-456b-814e-afc42b26da4b", "f1e57531-e0df-4b3e-938f-1ae30c5b1a11"]
-
-print('---USERNAME: ', user1, '---')
-for i in music1:
-	print('MusicID: ', i, ' Rating: ', umatrix[user1][i])
-	del umatrix[user1][i]
-	del tmatrix[i][user1]
-print('-----------------------------')
-
-print('---USERNAME: ', user2, '---')
-for i in music2:
-	print('MusicID: ', i, ' Rating: ', umatrix[user2][i])
-	del umatrix[user2][i]
-	del tmatrix[i][user2]
-print('-----------------------------')
-
-print('---USERNAME: ', user3, '---')
-for i in music3:
-	print('MusicID: ', i, ' Rating: ', umatrix[user3][i])
-	del umatrix[user3][i]
-	del tmatrix[i][user3]
-print('-----------------------------')
-
-# print('DEBUG------------')
-# print('Umatrix: ', umatrix[user1])
-# print('Tmatrix: ', tmatrix[music1[0]])
-# print('------------------')
-
-a1 = time.time()
-recommendation_1 = get_recommendations_binary(user1, music1, 5, umatrix, tmatrix)
-print('Recommendation 1 time: ', time.time() - a1)
-a2 = time.time()
-recommendation_2 = get_recommendations_binary(user2, music2, 5, umatrix, tmatrix)
-print('Recommendation 2 time: ', time.time() - a2)
-a3 = time.time()
-recommendation_3 = get_recommendations_binary(user3, music3, 5, umatrix, tmatrix)
-print('Recommendation 3 time: ', time.time() - a3)
+	umatrix[username] = {}
+	for song in rated_songs:
+		if song[1] >= 50:
+			umatrix[username][song[0]] = 1
+			tmatrix[song[0]][username] = 1
+		else:
+			umatrix[username][song[0]] = 0
+			tmatrix[song[0]][username] = 0
 
 
-print('Recommendation for User 1')
-print(recommendation_1)
-print('Recommendation for User 2')
-print(recommendation_2)
-print('Recommendation for User 3')
-print(recommendation_3)
+	recommendations = get_recommendations_binary(username, filtered_tracks, N, umatrix, tmatrix)
+	recommendation_1 = [x[0] for x in recommendation_1]
+	return recommendations1

@@ -17,21 +17,38 @@ import math
 import sys
 
 debug = False
+similarity_time = 0
+baseline_time = 0
+i2i_calc_time = 0
+hit = 0
+call = 0
+tot_sim = 0
+missed_sim = 0
+
+
+def generate_sim_matrix():
+	storage_path = '/root/Bulbul/RecommendationEngine/matrix_storage/'
+	return pickle.load(open(storage_path + 'similarity_matrix2.txt', 'rb'))
 
 def generate_umatrix_tmatrix():
 	path = '/root/Bulbul/BulbulData/user_detail/'
-	storage_path = '/root/Bulbul/brain/matrix_storage/'
+	storage_path = '/root/Bulbul/RecommendationEngine/matrix_storage/'
 
 
 	if os.path.isfile( storage_path + 'umatrix.txt'):
 		if os.path.isfile( storage_path + 'tmatrix.txt'):
 			if os.path.isfile( storage_path + 'lmatrix.txt'):
+				umatrix_file = open( storage_path + 'umatrix.txt', 'rb')
+				tmatrix_file = open( storage_path + 'tmatrix.txt', 'rb')
+				lmatrix_file = open( storage_path + 'lmatrix.txt', 'rb')
 
-				umatrix = pickle.load(open( storage_path + 'umatrix.txt', 'rb'))
-				tmatrix = pickle.load(open( storage_path + 'tmatrix.txt', 'rb'))
-				lmatrix = pickle.load(open( storage_path + 'lmatrix.txt', 'rb'))
+				umatrix = pickle.load(umatrix_file)
+				tmatrix = pickle.load(tmatrix_file)
+				lmatrix = pickle.load(lmatrix_file)
 
-
+				umatrix_file.close()
+				tmatrix_file.close()
+				lmatrix_file.close()
 
 				return umatrix, tmatrix, lmatrix
 
@@ -60,7 +77,7 @@ def generate_umatrix_tmatrix():
 		lmatrix[user] = []
 		for track_no in range(len(data['lovedtracks']['track'])):
 			lmatrix[user].append(data['lovedtracks']['track'][track_no]['mbid'])
-			
+
 	for top in top_tracks:
 		f = open(path + top)
 		data = json.loads(f.read())
@@ -117,11 +134,17 @@ def generate_umatrix_tmatrix():
 		for mbid in uname[1].keys():
 			tmatrix[mbid][name] =  umatrix[name][mbid]
 
-	pickle.dump(umatrix, open( storage_path + 'umatrix.txt', 'wb+'))
-	pickle.dump(tmatrix, open( storage_path + 'tmatrix.txt', 'wb+'))
-	pickle.dump(lmatrix, open( storage_path + 'lmatrix.txt', 'wb+'))
+	umatrix_file = open( storage_path + 'umatrix.txt', 'wb+')
+	tmatrix_file = open( storage_path + 'tmatrix.txt', 'wb+')
+	lmatrix_file = open( storage_path + 'lmatrix.txt', 'wb+')
 
+	pickle.dump(umatrix, open(umatrix_file))
+	pickle.dump(tmatrix, open(tmatrix_file))
+	pickle.dump(lmatrix, open(lmatrix_file))
 
+	umatrix_file.close()
+	tmatrix_file.close()
+	lmatrix_file.close()
 
 	return umatrix, tmatrix
 
@@ -164,7 +187,11 @@ def calculate_baseline(music_id, username, umatrix, tmatrix, overall_mean):
 		sum_of_music_ratings_i = 0
 		for m in music.items():
 			sum_of_music_ratings_i += m[1]
-		average_rating_of_music_i = float(sum_of_music_ratings_i) / len(music)
+
+		if len(music):
+			average_rating_of_music_i = float(sum_of_music_ratings_i) / len(music)
+		else:
+			average_rating_of_music_i = overall_mean
 		rating_daviation_of_music_i = average_rating_of_music_i - overall_mean
 	else:
 		rating_daviation_of_music_i = 0
@@ -189,7 +216,16 @@ def create_music_vector(userlist, music_id, tmatrix):
 
 	return myvector
 
-def quick_cosine_sim(tmatrix, music_id, target_track_id):
+def quick_cosine_sim(tmatrix, music_id, target_track_id, sim_matrix):
+
+	#print("LEN SIM MATRIX", len(sim_matrix))
+
+	global call
+	global hit
+	call += 1
+	if (music_id, target_track_id) in sim_matrix:
+		hit += 1
+		return sim_matrix[(music_id, target_track_id)]
 	target_track_ratings = tmatrix[target_track_id]
 	current_track_ratings = tmatrix[music_id]
 
@@ -208,30 +244,41 @@ def quick_cosine_sim(tmatrix, music_id, target_track_id):
 	return tot_sum / (comp_a * comp_b)
 
 
-def get_top_N_similar_music(username, umatrix, tmatrix, N, target_track_id):
+def get_top_N_similar_music(username, umatrix, tmatrix, N, target_track_id, sim_matrix):
 	mbid_similarity = {}
 	user_tracks = umatrix[username]
 
+	global tot_sim
+	global missed_sim
 	for music_id in user_tracks.keys():
+		tot_sim += 1
 		try:
-			mbid_similarity[music_id] = quick_cosine_sim(tmatrix, music_id, target_track_id)
+			mbid_similarity[music_id] = quick_cosine_sim(tmatrix, music_id, target_track_id, sim_matrix)
 		except Exception as e:
 			#skip that bad song
-			print('got exception {}'.format(str(e)))
+			if debug:
+				print('got exception {}'.format(str(e)))
+			missed_sim += 1
 
 	sorted_mbid_similarity = sorted(mbid_similarity.items(), key=lambda x: x[1], reverse=True)
 	return list(sorted_mbid_similarity)[:N]
 
 
-def get_estimate(music_id, username, umatrix, tmatrix, N, overall_mean):
+def get_estimate(music_id, username, umatrix, tmatrix, N, overall_mean, sim_matrix):
 	a1 = time.time()
 	baseline_i = calculate_baseline(music_id, username, umatrix, tmatrix, overall_mean)
+	global baseline_time
+	global similarity_time
+	global i2i_calc_time
+	baseline_time += time.time() -a1
+
 	if debug:
 		print('Baseline i time: ', time.time() - a1)
-		a2 = time.time()
-	top_similar = get_top_N_similar_music(username, umatrix, tmatrix, N, music_id)
+	a2 = time.time()
+	top_similar = get_top_N_similar_music(username, umatrix, tmatrix, N, music_id, sim_matrix)
 	if debug:
 		print('Top similar time: ', time.time()-a2, ' n = ', N)
+	similarity_time += time.time()- a2
 
 	a3 = time.time()
 	#denominator
@@ -244,6 +291,7 @@ def get_estimate(music_id, username, umatrix, tmatrix, N, overall_mean):
 
 	if debug:
 		print('Rating calculation time: ', time.time()-a3)
+	i2i_calc_time += time.time()-a3
 
 	overall_sum = sum([x[1] for x in top_similar])
 
@@ -253,94 +301,25 @@ def get_estimate(music_id, username, umatrix, tmatrix, N, overall_mean):
 	try:
 		rating = baseline_i + weighted_sum / overall_sum
 	except ZeroDivisionError as e:
-		print('got zero devision exception {} '.format(str(e)))
+		if debug:
+			print('got zero devision exception {} '.format(str(e)))
 		rating = baseline_i
 	return rating
 
-def get_recommendations(username, track_list, n_recommendation, umatrix, tmatrix):
+def get_recommendations(username, track_list, n_recommendation, umatrix, tmatrix, sim_matrix):
 	overall_mean = calculate_overall_mean(umatrix)
 	estimated_track_ratings = {}
 	for track_id in track_list:
-		print('.........................')
-		estimated_track_ratings[track_id] = get_estimate(track_id, username, umatrix, tmatrix, 20, overall_mean)
+		if debug:
+			print('.........................')
+		estimated_track_ratings[track_id] = get_estimate(track_id, username, umatrix, tmatrix, 20, overall_mean, sim_matrix)
 
 	sorted_rating_list = sorted(estimated_track_ratings.items(), key=lambda x: x[1], reverse=True)[:n_recommendation]
-	global debug
 	return sorted_rating_list
 
 
-
-
-# with open('umatrix.txt', 'wb') as handle:
-#   pickle.dump(umatrix, handle)
-#
-# with open('tmatrix.txt', 'wb') as handle:
-#   pickle.dump(tmatrix, handle)
-
-
-# Genrate a use case to test algorithm
-# #mbid: 5e03ae75-edfa-4bf4-a30a-0c93372a5743, username: tucnak4eva
-# print(umatrix['tucnak4eva']['5e03ae75-edfa-4bf4-a30a-0c93372a5743'])
-# print('---------------------------------------------------')
-# print(tmatrix['5e03ae75-edfa-4bf4-a30a-0c93372a5743']['tucnak4eva'])
-# print('total error: ' + str(errcnt))
-#
-# username = 'tucnak4eva'
-# music_id = '5e03ae75-edfa-4bf4-a30a-0c93372a5743'
-
-'''
-umatrix, tmatrix = generate_umatrix_tmatrix()
-#user 1
-user1 = 'zzuba'
-music1 = ["9d2a1187-e2eb-492d-ae25-d47e1660e776", "2598d956-5812-4b10-a2ed-c6bbd848a9b5", "d082fa6c-13d3-49ea-bde8-6dc1e28386ef", "549de12c-bdda-4f34-9f6a-3a11ef4855e3", "e1748d2a-8315-4577-9196-b6a6b96fec3b"]
-user2 = 'aaronnk'
-music2 = ["38f529e9-92d5-407a-82e3-0c87b0ae906c", "9e0fd1aa-4ef2-46b2-bef3-fb975d6dd3dd", "7d527556-0b84-461f-9239-da3e33c4ad8f", "1243e386-d49c-48b8-aea7-ea14383eb67f", "1b7d1d45-3529-4bd3-b2c4-4cf6160054f0"]
-user3 = 'omerfs'
-music3 = ["0a950f6b-20c1-461a-8385-8335d5f2668a", "176d887e-054e-4a48-b8fb-9d5614372f20", "11b7c3d2-8a49-4812-95dc-aef93c4cec37", "0afdf0bb-cf31-456b-814e-afc42b26da4b", "f1e57531-e0df-4b3e-938f-1ae30c5b1a11"]
-
-print('---USERNAME: ', user1, '---')
-for i in music1:
-	print('MusicID: ', i, ' Rating: ', umatrix[user1][i])
-	del umatrix[user1][i]
-	del tmatrix[i][user1]
-print('-----------------------------')
-
-print('---USERNAME: ', user2, '---')
-for i in music2:
-	print('MusicID: ', i, ' Rating: ', umatrix[user2][i])
-	del umatrix[user2][i]
-	del tmatrix[i][user2]
-print('-----------------------------')
-
-print('---USERNAME: ', user3, '---')
-for i in music3:
-	print('MusicID: ', i, ' Rating: ', umatrix[user3][i])
-	del umatrix[user3][i]
-	del tmatrix[i][user3]
-print('-----------------------------')
-
-# print('DEBUG------------')
-# print('Umatrix: ', umatrix[user1])
-# print('Tmatrix: ', tmatrix[music1[0]])
-# print('------------------')
-
-recommendation_1 = get_recommendations(user1, music1, 5, umatrix, tmatrix)
-recommendation_2 = get_recommendations(user2, music2, 5, umatrix, tmatrix)
-recommendation_3 = get_recommendations(user3, music3, 5, umatrix, tmatrix)
-
-
-print('Recommendation for User 1')
-print(recommendation_1)
-print('Recommendation for User 2')
-print(recommendation_2)
-print('Recommendation for User 3')
-print(recommendation_3)
-
-'''
-
 def main():
     pass
-
 
 #mode 0 -> use the whole song list
 #mode 1 -> use the given filtered_songs list
@@ -348,11 +327,17 @@ def main():
 #rated_songs -> tuple list of songs and their given ids in the app.
 #filtered
 #returns a dictionary with N keys. The ratings are given for each key.
-def get_recommendations_outside(mode, username, rated_songs, filtered_songs, N):
+def get_recommendations_outside(mode, username, rated_songs, filtered_songs, N, umatrix, tmatrix, l, sim_matrix):
 
 	global debug
+	global similarity_time
+	global baseline_time
+	global i2i_calc_time
+	global hit
+	global call
 
-	umatrix, tmatrix, l = generate_umatrix_tmatrix()
+	similarity_time = 0
+	baseline_time = 0
 
 	username_input = username
 
@@ -385,9 +370,6 @@ def get_recommendations_outside(mode, username, rated_songs, filtered_songs, N):
 			if i not in tmatrix:
 				song_list.remove(i)
 
-
-
-
 	else:
 		print('regular mode')
 
@@ -400,15 +382,29 @@ def get_recommendations_outside(mode, username, rated_songs, filtered_songs, N):
 		umatrix[new_user] = {}
 		for song in rated_songs:
 			umatrix[new_user][song[0]] = song[1]
-			tmatrix[song[0]] = {new_user:song[1]}
 
-
+			try:
+				tmatrix[song[0]][new_user] = song[1]
+			except KeyError:
+				tmatrix[song[0]] = {new_user:song[1]}
 
 	#estimate ratings.
 	a = time.time()
-	recommendation_1 = get_recommendations(username_input, song_list, N, umatrix, tmatrix)
+	recommendation_1 = get_recommendations(username_input, song_list, N, umatrix, tmatrix, sim_matrix)
+	recommendation_1 = [x[0] for x in recommendation_1]
 	print('Recommendation time: ', time.time() - a)
-	return dict(recommendation_1)
+	print('total similarity time: ', similarity_time)
+	print('total baseline time: ', baseline_time)
+	print('total i2i calculation time; ', i2i_calc_time)
+	print('total hits / calls: ', hit/call)
+	print('total sim missed / calls: ', missed_sim / tot_sim)
+
+	# Remove user from umatrix and tmatrix
+	del umatrix[new_user]
+	for song in rated_songs:
+		del tmatrix[song[0]][new_user]
+
+	return recommendation_1
 
 
 if __name__ == "__main__":
@@ -468,9 +464,6 @@ if __name__ == "__main__":
 
 		#do recommendations.
 		recommendation_1 = get_recommendations(username_input, song_list, len(song_list), umatrix, tmatrix)
-
-
-
 
 	#estimate ratings.
 	recommendation_1 = get_recommendations(username_input, song_list, len(song_list), umatrix, tmatrix)
