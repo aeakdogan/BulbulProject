@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG",
+      "id" : "6vLlQYujOujIrm7zAKzEdG",
+      "name" : "Donovan",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vLlQYujOujIrm7zAKzEdG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4g2Bs0K7hTjvMEWM44USwz"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4g2Bs0K7hTjvMEWM44USwz",
+    "id" : "4g2Bs0K7hTjvMEWM44USwz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f838bc8ba6d0b95bffa757725c00a1afaed6d5ae",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9bc0e8bc115299f6531749ae5b9ff7f7622a2085",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/deeb6030b3cdcc1735e0e64cf5d9640f9f9679ce",
+      "width" : 64
+    } ],
+    "name" : "A Gift From A Flower To A Garden",
+    "type" : "album",
+    "uri" : "spotify:album:4g2Bs0K7hTjvMEWM44USwz"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG",
+    "id" : "6vLlQYujOujIrm7zAKzEdG",
+    "name" : "Donovan",
+    "type" : "artist",
+    "uri" : "spotify:artist:6vLlQYujOujIrm7zAKzEdG"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "ID", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 106906,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM16701933"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5mybOgFWgtdcw7lhyDyAQN"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5mybOgFWgtdcw7lhyDyAQN",
+  "id" : "5mybOgFWgtdcw7lhyDyAQN",
+  "name" : "Oh Gosh",
+  "popularity" : 18,
+  "preview_url" : "https://p.scdn.co/mp3-preview/70870b278c630160d6823cad5b97ccd2da66d6fe?cid=null",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:5mybOgFWgtdcw7lhyDyAQN"
+}

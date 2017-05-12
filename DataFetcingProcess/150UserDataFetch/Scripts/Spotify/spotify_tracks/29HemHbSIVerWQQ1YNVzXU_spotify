@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6TqQLejnHXMGr7KcegxUND",
+      "id" : "6TqQLejnHXMGr7KcegxUND",
+      "name" : "The Miracles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6TqQLejnHXMGr7KcegxUND"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/101T3Y64HDKs7vh8FdGOoO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/101T3Y64HDKs7vh8FdGOoO",
+    "id" : "101T3Y64HDKs7vh8FdGOoO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ff2ca641bb6ec7f7adfab5c8529d518d0ef51a40",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/50eb9070c85b99ec005868d91457da38a218f779",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5c06183078519282526c95a3aea4c592d61dd20b",
+      "width" : 64
+    } ],
+    "name" : "City Of Angels",
+    "type" : "album",
+    "uri" : "spotify:album:101T3Y64HDKs7vh8FdGOoO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6TqQLejnHXMGr7KcegxUND",
+    "id" : "6TqQLejnHXMGr7KcegxUND",
+    "name" : "The Miracles",
+    "type" : "artist",
+    "uri" : "spotify:artist:6TqQLejnHXMGr7KcegxUND"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 228533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USMO10200085"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/29HemHbSIVerWQQ1YNVzXU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/29HemHbSIVerWQQ1YNVzXU",
+  "id" : "29HemHbSIVerWQQ1YNVzXU",
+  "name" : "Ain't Nobody Straight In L.A.",
+  "popularity" : 11,
+  "preview_url" : "https://p.scdn.co/mp3-preview/1da1963c18cb9e9981bc578e43f6dd58ea6762b6?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:29HemHbSIVerWQQ1YNVzXU"
+}

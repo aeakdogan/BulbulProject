@@ -1,0 +1,74 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6biWAmrHyiMkX49LkycGqQ",
+      "id" : "6biWAmrHyiMkX49LkycGqQ",
+      "name" : "Thin Lizzy",
+      "type" : "artist",
+      "uri" : "spotify:artist:6biWAmrHyiMkX49LkycGqQ"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6PR3uEvxJbmBw6zLGIjVtU",
+    "id" : "6PR3uEvxJbmBw6zLGIjVtU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b7a88753ca09674c6986bed9da86ef239d37cec5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2a4baf0b4dab62a07eb03b195369237dff6a6c2d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/417d029ec165b69661580d271ba02a646f0963b8",
+      "width" : 64
+    } ],
+    "name" : "Vagabonds Of The Western World",
+    "type" : "album",
+    "uri" : "spotify:album:6PR3uEvxJbmBw6zLGIjVtU"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6biWAmrHyiMkX49LkycGqQ",
+    "id" : "6biWAmrHyiMkX49LkycGqQ",
+    "name" : "Thin Lizzy",
+    "type" : "artist",
+    "uri" : "spotify:artist:6biWAmrHyiMkX49LkycGqQ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/11lUPJP9GC5j2RRA7zVddw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/11lUPJP9GC5j2RRA7zVddw",
+    "id" : "11lUPJP9GC5j2RRA7zVddw",
+    "name" : "Derek Varnals",
+    "type" : "artist",
+    "uri" : "spotify:artist:11lUPJP9GC5j2RRA7zVddw"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 294400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF077320090"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3WrQZJy6BagmTtVA1SeLKL",
+  "id" : "3WrQZJy6BagmTtVA1SeLKL",
+  "name" : "Mama Nature Said",
+  "popularity" : 13,
+  "preview_url" : "https://p.scdn.co/mp3-preview/914f31961acf66c6e36dcc62bb117f6f69c78ad9?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3WrQZJy6BagmTtVA1SeLKL"
+}

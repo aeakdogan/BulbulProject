@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zaiVGhHTJtQfEUUDd9ORu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6zaiVGhHTJtQfEUUDd9ORu",
+      "id" : "6zaiVGhHTJtQfEUUDd9ORu",
+      "name" : "Luc Ferrari",
+      "type" : "artist",
+      "uri" : "spotify:artist:6zaiVGhHTJtQfEUUDd9ORu"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3E2ctVJpx4pQq6iOYlkchC"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3E2ctVJpx4pQq6iOYlkchC",
+    "id" : "3E2ctVJpx4pQq6iOYlkchC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/012fdf39385698cb0d911ad85c73d75c75807710",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c9e562ff147cf037e0290d01770e26a7f611e3b7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/3c81b024e1c5fb0f0c623661ee44982bc3e7bb74",
+      "width" : 64
+    } ],
+    "name" : "L'Œuvre électronique",
+    "type" : "album",
+    "uri" : "spotify:album:3E2ctVJpx4pQq6iOYlkchC"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6zaiVGhHTJtQfEUUDd9ORu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6zaiVGhHTJtQfEUUDd9ORu",
+    "id" : "6zaiVGhHTJtQfEUUDd9ORu",
+    "name" : "Luc Ferrari",
+    "type" : "artist",
+    "uri" : "spotify:artist:6zaiVGhHTJtQfEUUDd9ORu"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 6,
+  "duration_ms" : 93493,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "FRT155809000"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5MRAa22tSueoXGxIMRzruh"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5MRAa22tSueoXGxIMRzruh",
+  "id" : "5MRAa22tSueoXGxIMRzruh",
+  "name" : "Étude aux accidents",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ee661b456c36feb9216e1ed02c2efa82c49fdb5b?cid=null",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:5MRAa22tSueoXGxIMRzruh"
+}

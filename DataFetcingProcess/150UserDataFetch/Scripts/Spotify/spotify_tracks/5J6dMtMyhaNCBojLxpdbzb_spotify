@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/02Xpf8IlAGeelWAQZP33kQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/02Xpf8IlAGeelWAQZP33kQ",
+      "id" : "02Xpf8IlAGeelWAQZP33kQ",
+      "name" : "Boy Meets Girl",
+      "type" : "artist",
+      "uri" : "spotify:artist:02Xpf8IlAGeelWAQZP33kQ"
+    } ],
+    "available_markets" : [ "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1de3erNxxI0s0qkwTBkm9q"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1de3erNxxI0s0qkwTBkm9q",
+    "id" : "1de3erNxxI0s0qkwTBkm9q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1077b17d890b101ca79f836e16fc05459b5bf253",
+      "width" : 613
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/28899af5b4e24df2952e70aebf3ed9f676df3725",
+      "width" : 287
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5df46747e27db902129f6b6534e32c8f3bc2796d",
+      "width" : 61
+    } ],
+    "name" : "Reel Life",
+    "type" : "album",
+    "uri" : "spotify:album:1de3erNxxI0s0qkwTBkm9q"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/02Xpf8IlAGeelWAQZP33kQ"
+    },
+    "href" : "https://api.spotify.com/v1/artists/02Xpf8IlAGeelWAQZP33kQ",
+    "id" : "02Xpf8IlAGeelWAQZP33kQ",
+    "name" : "Boy Meets Girl",
+    "type" : "artist",
+    "uri" : "spotify:artist:02Xpf8IlAGeelWAQZP33kQ"
+  } ],
+  "available_markets" : [ "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 270506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC18805633"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5J6dMtMyhaNCBojLxpdbzb"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5J6dMtMyhaNCBojLxpdbzb",
+  "id" : "5J6dMtMyhaNCBojLxpdbzb",
+  "name" : "Waiting for a Star to Fall",
+  "popularity" : 40,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e4617ccb396d6572a5bca53ce028542ad001fcc8?cid=null",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:5J6dMtMyhaNCBojLxpdbzb"
+}

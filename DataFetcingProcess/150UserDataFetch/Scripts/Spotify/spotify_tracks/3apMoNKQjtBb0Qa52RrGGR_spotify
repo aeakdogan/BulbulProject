@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BEYGWk6aPdNXxBx9pwU8S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5BEYGWk6aPdNXxBx9pwU8S",
+      "id" : "5BEYGWk6aPdNXxBx9pwU8S",
+      "name" : "The Soup Dragons",
+      "type" : "artist",
+      "uri" : "spotify:artist:5BEYGWk6aPdNXxBx9pwU8S"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/36VwflwKah1EwcohBRvKQf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/36VwflwKah1EwcohBRvKQf",
+    "id" : "36VwflwKah1EwcohBRvKQf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7a8e86ec5521f1e36cfe33750facae6d6bfe07be",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab30c9e3689c465bae5a66881a316f4209481c5d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/e3372a215b636241cb87cc92b59c7c86f1984cf0",
+      "width" : 64
+    } ],
+    "name" : "20 Golden Greats",
+    "type" : "album",
+    "uri" : "spotify:album:36VwflwKah1EwcohBRvKQf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5BEYGWk6aPdNXxBx9pwU8S"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5BEYGWk6aPdNXxBx9pwU8S",
+    "id" : "5BEYGWk6aPdNXxBx9pwU8S",
+    "name" : "The Soup Dragons",
+    "type" : "artist",
+    "uri" : "spotify:artist:5BEYGWk6aPdNXxBx9pwU8S"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 232066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM71104915"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3apMoNKQjtBb0Qa52RrGGR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3apMoNKQjtBb0Qa52RrGGR",
+  "id" : "3apMoNKQjtBb0Qa52RrGGR",
+  "name" : "Divine Thing",
+  "popularity" : 29,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e460b0f9beb893e1101112a8f3c7410306be940b?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3apMoNKQjtBb0Qa52RrGGR"
+}

@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0MLKfDfrr2LvUqZxBvYLTv",
+      "id" : "0MLKfDfrr2LvUqZxBvYLTv",
+      "name" : "Strata",
+      "type" : "artist",
+      "uri" : "spotify:artist:0MLKfDfrr2LvUqZxBvYLTv"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0U3kzKDJ8da3Bx7y19DtUR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0U3kzKDJ8da3Bx7y19DtUR",
+    "id" : "0U3kzKDJ8da3Bx7y19DtUR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7da6f3b9caeff1e4c539f2e0721ba232484ac3b4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7168e37f53098854d3e14ca352969f42db92674b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5c4313b2ee61a9b935076b01d5553d91b00a7410",
+      "width" : 64
+    } ],
+    "name" : "Strata Presents The End Of The World",
+    "type" : "album",
+    "uri" : "spotify:album:0U3kzKDJ8da3Bx7y19DtUR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0MLKfDfrr2LvUqZxBvYLTv",
+    "id" : "0MLKfDfrr2LvUqZxBvYLTv",
+    "name" : "Strata",
+    "type" : "artist",
+    "uri" : "spotify:artist:0MLKfDfrr2LvUqZxBvYLTv"
+  } ],
+  "available_markets" : [ "CA", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 201546,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWU30700021"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3YZV93jhF6ysQbqtbqYaQC"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3YZV93jhF6ysQbqtbqYaQC",
+  "id" : "3YZV93jhF6ysQbqtbqYaQC",
+  "name" : "Night Falls (The Weight Of It)",
+  "popularity" : 12,
+  "preview_url" : "https://p.scdn.co/mp3-preview/43f9f848ecc1c8aaf0c2e8f2c493dac3a70dc0dc?cid=null",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:3YZV93jhF6ysQbqtbqYaQC"
+}

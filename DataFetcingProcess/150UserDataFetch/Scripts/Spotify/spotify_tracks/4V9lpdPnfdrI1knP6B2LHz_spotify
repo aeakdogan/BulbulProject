@@ -1,0 +1,65 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25EoR5bxufGZD3RYMSTpV9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25EoR5bxufGZD3RYMSTpV9",
+      "id" : "25EoR5bxufGZD3RYMSTpV9",
+      "name" : "Dick Diver",
+      "type" : "artist",
+      "uri" : "spotify:artist:25EoR5bxufGZD3RYMSTpV9"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3jQShFxofW2wNn6tIYHuDS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3jQShFxofW2wNn6tIYHuDS",
+    "id" : "3jQShFxofW2wNn6tIYHuDS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f853a544e5a7da1dcb2c754c82890a568969dcf5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e278b9c4d8a25fab29f587a820b8f9733ebdb853",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/419b229f65c6661e3756c29736baabbdc01c4155",
+      "width" : 64
+    } ],
+    "name" : "Calendar Days",
+    "type" : "album",
+    "uri" : "spotify:album:3jQShFxofW2wNn6tIYHuDS"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/25EoR5bxufGZD3RYMSTpV9"
+    },
+    "href" : "https://api.spotify.com/v1/artists/25EoR5bxufGZD3RYMSTpV9",
+    "id" : "25EoR5bxufGZD3RYMSTpV9",
+    "name" : "Dick Diver",
+    "type" : "artist",
+    "uri" : "spotify:artist:25EoR5bxufGZD3RYMSTpV9"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 234973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "AUCI11310504"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4V9lpdPnfdrI1knP6B2LHz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4V9lpdPnfdrI1knP6B2LHz",
+  "id" : "4V9lpdPnfdrI1knP6B2LHz",
+  "name" : "Water Damage",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4cfa15ebe01fcaf6546ea2732f6655e0f895d2f4?cid=null",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:4V9lpdPnfdrI1knP6B2LHz"
+}
