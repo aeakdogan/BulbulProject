@@ -176,9 +176,11 @@ public class UserSummaryRVAdapter extends RecyclerView.Adapter {
             case SONG_VIEW_TYPE:
                 SongViewHolder songHolder = (SongViewHolder) holder;
                 final Song tmpSong = mSongs.get(position - mPlaylists.size() -2);
+                final ArrayList<Integer> songIdsList = new ArrayList<>();
                 final ArrayList<String> songsList = new ArrayList<String>();
                 for (Song song : mSongs) {
                     songsList.add(song.getSpotifyUrl());
+                    songIdsList.add(song.getId());
                 }
 
                 songHolder.songTitle.setText(tmpSong.getName());
@@ -196,7 +198,7 @@ public class UserSummaryRVAdapter extends RecyclerView.Adapter {
                         Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         intent.putStringArrayListExtra("songs", songsList);
-                        intent.putExtra("trackID", mSongs.get(holder.getAdapterPosition() - mPlaylists.size() -2).getId());
+                        intent.putIntegerArrayListExtra("songIds", songIdsList);
                         intent.putExtra("position", (holder.getAdapterPosition() - mPlaylists.size() -2));
                         context.getApplicationContext().startActivity(intent);
                     }

@@ -71,17 +71,19 @@ public class StreamActivity extends AppCompatActivity {
     private ImageView mImage;
     private int position;
     private List<String> songs;
+    private List<Integer> songIds;
     private int targetProgress = 0;
     private int mSongID;
     private float mSongRating;
-    ArrayList<Playlist> mPlaylists = new ArrayList<>();
-    RatingBar ratingBar;
+    private ArrayList<Playlist> mPlaylists = new ArrayList<>();
+    private RatingBar ratingBar;
     private ArrayList<String> playlistNames;
 
     private Handler mHandler = new Handler();
-    String token;
-    Dialog playlistDialog;
+    private String token;
+    private Dialog playlistDialog;
     private ImageView mBackgroundImage;
+    private boolean mHasSongs = false;
 
     private final BroadcastReceiver receiver = new BroadcastReceiver() {
         @Override
@@ -93,6 +95,8 @@ public class StreamActivity extends AppCompatActivity {
             } else if (type.equals("play")) {
                 updateUI();
             } else if (type.equals("track_changed")) {
+                position = intent.getIntExtra("position", position);
+                mSongID = songIds.get(position);
                 updateUI();
             } else if (type.equals("track_delivered")) {
                 updateUI();
@@ -139,9 +143,11 @@ public class StreamActivity extends AppCompatActivity {
         } else if (intent.hasExtra("songs")) {
             position = intent.getIntExtra("position", 0);
             songs = intent.getStringArrayListExtra("songs");
+            songIds = intent.getIntegerArrayListExtra("songIds");
+            mSongID = songIds.get(position);
             mAutoplay = true;
+            mHasSongs = true;
         }
-        mSongID = intent.getIntExtra("trackID", 0);
 
         mActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -192,39 +198,7 @@ public class StreamActivity extends AppCompatActivity {
 
             }
         });
-
-        ((App) getApplication()).apolloClient().newCall(UserTrackRateQuery.builder().token(token).track_id(mSongID).build()).enqueue(new ApolloCall.Callback<UserTrackRateQuery.Data>() {
-            @Override
-            public void onResponse(@Nonnull final Response<UserTrackRateQuery.Data> response) {
-                if (response.isSuccessful()) {
-                    runOnUiThread(new Runnable() {
-                        @Override
-                        public void run() {
-                            if (response.data().rating().size() > 0) {
-                                mSongRating = response.data().rating().get(0).value() / 2;
-                                ratingBar.setRating(mSongRating);
-//                                Toast.makeText(getApplicationContext(), "rating found: " + mSongRating, Toast.LENGTH_SHORT).show();
-                            } else {
-//                                Toast.makeText(getApplicationContext(), "Rate not found", Toast.LENGTH_SHORT).show();
-                                mSongRating = 0;
-                                ratingBar.setRating(mSongRating);
-                            }
-                        }
-                    });
-                }
-            }
-
-            @Override
-            public void onFailure(@Nonnull ApolloException e) {
-                final String text = e.getMessage();
-                runOnUiThread(new Runnable() {
-                    @Override
-                    public void run() {
-                        Toast.makeText(StreamActivity.this, text, Toast.LENGTH_SHORT).show();
-                    }
-                });
-            }
-        });
+        fetchTrackId();
         ratingBar.setOnRatingBarChangeListener(new RatingBar.OnRatingBarChangeListener() {
             @Override
             public void onRatingChanged(RatingBar ratingBar, final float rating, boolean fromUser) {
@@ -255,6 +229,41 @@ public class StreamActivity extends AppCompatActivity {
                         }
                     });
                 }
+            }
+        });
+    }
+
+    void fetchTrackId(){
+        ((App) getApplication()).apolloClient().newCall(UserTrackRateQuery.builder().token(token).track_id(mSongID).build()).enqueue(new ApolloCall.Callback<UserTrackRateQuery.Data>() {
+            @Override
+            public void onResponse(@Nonnull final Response<UserTrackRateQuery.Data> response) {
+                if (response.isSuccessful()) {
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            if (response.data().rating().size() > 0) {
+                                mSongRating = response.data().rating().get(0).value() / 2;
+                                ratingBar.setRating(mSongRating);
+//                                Toast.makeText(getApplicationContext(), "rating found: " + mSongRating, Toast.LENGTH_SHORT).show();
+                            } else {
+//                                Toast.makeText(getApplicationContext(), "Rate not found", Toast.LENGTH_SHORT).show();
+                                mSongRating = 0;
+                                ratingBar.setRating(mSongRating);
+                            }
+                        }
+                    });
+                }
+            }
+
+            @Override
+            public void onFailure(@Nonnull ApolloException e) {
+                final String text = e.getMessage();
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(StreamActivity.this, text, Toast.LENGTH_SHORT).show();
+                    }
+                });
             }
         });
     }
@@ -463,6 +472,7 @@ public class StreamActivity extends AppCompatActivity {
                 mListName.setText(track.albumName);
                 mSongTitle.setText(track.name);
                 mArtistName.setText(track.artistName);
+                fetchTrackId();
             }
             updateSeekbarCurrentPos();
             updateSeekbarDuration();
@@ -551,11 +561,19 @@ public class StreamActivity extends AppCompatActivity {
             if (mAutoplay) {
                 if (songs != null) {
                     mPlayerService.setSongs(songs);
+                    mPlayerService.setSongIds(songIds);
                     mPlayerService.setPosition(position);
                     mPlayerService.play();
                 } else if (mUri != null) {
                     mPlayerService.playUri(mUri);
                 }
+            }
+            else if(!mHasSongs){
+                position = mPlayerService.getPosition();
+                songs = mPlayerService.getSongs();
+                songIds = mPlayerService.getSongIds();
+                mSongID = songIds.get(position);
+                mPlayerService.setPosition(position);
             }
             updateUI();
 

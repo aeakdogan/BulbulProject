@@ -33,6 +33,8 @@ public class PlayerService extends Service implements ConnectionStateCallback, P
     private static final int REQUEST_CODE = 4567;
 
     private List<String> songs;
+    private List<Integer> songIds;
+
     private int position = 0;
 
     private String mToken;
@@ -120,6 +122,14 @@ public class PlayerService extends Service implements ConnectionStateCallback, P
         this.position = position;
     }
 
+    public List<Integer> getSongIds() {
+        return songIds;
+    }
+
+    public void setSongIds(List<Integer> songIds) {
+        this.songIds = songIds;
+    }
+
     public void playUri(String uri) {
         songs.clear();
         songs.add(uri);
@@ -199,6 +209,7 @@ public class PlayerService extends Service implements ConnectionStateCallback, P
             Intent intent = new Intent();
             intent.setAction("bulbul.player");
             intent.putExtra("type", "track_changed");
+            intent.putExtra("position", position);
             mBroadcastManager.sendBroadcast(intent);
         } else if (PlayerEvent.kSpPlaybackNotifyTrackDelivered.equals(playerEvent)) {
             next();

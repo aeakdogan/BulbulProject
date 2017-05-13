@@ -42,14 +42,15 @@ import javax.annotation.Nonnull;
  */
 
 public class RecommendFragment extends Fragment {
-    GridView grid;
-    Button requestButton;
-    View mProgressView;
-    List<Category> categories = new ArrayList<Category>();
-    Handler mHandler;
-    Runnable fetcher;
-    CategorySelectorAdapter gridAdapter;
-    ApolloCall<RequestPersonalRecommendationMutation.Data> recommendationCall;
+    private GridView grid;
+    private Button requestButton;
+    private View mProgressView;
+    private List<Category> categories = new ArrayList<Category>();
+    private Handler mHandler;
+    private Runnable fetcher;
+    private CategorySelectorAdapter gridAdapter;
+    private ApolloCall<RequestPersonalRecommendationMutation.Data> recommendationCall;
+    private ApolloCall<RecommendationsQuery.Data> recommendationTracksCall;
 
     public RecommendFragment() {
 
@@ -156,10 +157,13 @@ public class RecommendFragment extends Fragment {
 
     @Override
     public void onPause() {
+        if (recommendationTracksCall != null) {
+            recommendationTracksCall.cancel();
+        }
         if (recommendationCall != null) {
             recommendationCall.cancel();
         }
-        if(mHandler != null){
+        if (mHandler != null) {
             mHandler.removeCallbacks(fetcher);
         }
 
@@ -167,9 +171,9 @@ public class RecommendFragment extends Fragment {
         requestButton.setVisibility(View.VISIBLE);
         requestButton.setEnabled(false);
         grid.setVisibility(View.VISIBLE);
-        if(categories != null)
-        for (Category category : categories)
-            category.setSelected(false);
+        if (categories != null)
+            for (Category category : categories)
+                category.setSelected(false);
         gridAdapter.notifyDataSetChanged();
 
         super.onPause();
@@ -188,7 +192,7 @@ public class RecommendFragment extends Fragment {
         recommendationCall.enqueue(new ApolloCall.Callback<RequestPersonalRecommendationMutation.Data>() {
             @Override
             public void onResponse(@Nonnull Response<RequestPersonalRecommendationMutation.Data> response) {
-                if(response.isSuccessful()) {
+                if (response.isSuccessful()) {
                     int id = response.data().requestPersonalRecommendation().id();
                     fetchRecommendation(id);
                 }
@@ -214,7 +218,8 @@ public class RecommendFragment extends Fragment {
         if (fetcher != null) {
             mHandler.removeCallbacks(fetcher);
         }
-        ((App) getActivity().getApplication()).apolloClient().newCall(RecommendationsQuery.builder().id(id).build()).
+        recommendationTracksCall = ((App) getActivity().getApplication()).apolloClient().newCall(RecommendationsQuery.builder().id(id).build());
+        recommendationTracksCall.
                 enqueue(new ApolloCall.Callback<RecommendationsQuery.Data>() {
                     @Override
                     public void onResponse(@Nonnull Response<RecommendationsQuery.Data> response) {

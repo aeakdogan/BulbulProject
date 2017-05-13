@@ -62,8 +62,10 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
     public void onBindViewHolder(final SongsRVAdapter.MyCardViewHolder holder, int position) {
         final Song tmpSong = mSongs.get(position);
         final ArrayList<String> songsList = new ArrayList<String>();
+        final ArrayList<Integer> songIdsList = new ArrayList<>();
         for (Song song : mSongs) {
             songsList.add(song.getSpotifyUrl());
+            songIdsList.add(song.getId());
         }
 
         holder.songTitle.setText(tmpSong.getName());
@@ -80,7 +82,7 @@ public class SongsRVAdapter extends RecyclerView.Adapter<SongsRVAdapter.MyCardVi
             public void onClick(View view) {
                 Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                intent.putExtra("trackID", mSongs.get(holder.getAdapterPosition()).getId());
+                intent.putIntegerArrayListExtra("songIds", songIdsList);
                 intent.putStringArrayListExtra("songs", songsList);
                 intent.putExtra("position", holder.getAdapterPosition());
                 context.startActivity(intent);

@@ -79,7 +79,6 @@ public class CategorySelectorAdapter extends BaseAdapter {
             Picasso.with(mContext)
                     .load(category.getImageUrl())
                     .placeholder(R.drawable.cover_picture)
-                    .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
                     .fit()
                     .into(i);
         }

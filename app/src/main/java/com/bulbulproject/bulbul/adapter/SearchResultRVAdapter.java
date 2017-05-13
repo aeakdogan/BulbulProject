@@ -134,8 +134,10 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                 SongViewHolder songHolder = (SongViewHolder) holder;
                 final Song tmpSong = mSongs.get(position -1);
                 final ArrayList<String> songsList = new ArrayList<String>();
+                final ArrayList<Integer> songIdsList = new ArrayList<>();
                 for (Song song : mSongs) {
                     songsList.add(song.getSpotifyUrl());
+                    songIdsList.add(song.getId());
                 }
 
                 songHolder.songTitle.setText(tmpSong.getName());
@@ -154,7 +156,7 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                         Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         intent.putStringArrayListExtra("songs", songsList);
-                        intent.putExtra("trackID", mSongs.get(holder.getAdapterPosition()).getId());
+                        intent.putIntegerArrayListExtra("songIds", songIdsList);
                         intent.putExtra("position", holder.getAdapterPosition() -1);
                         context.getApplicationContext().startActivity(intent);
                     }
