@@ -22,6 +22,7 @@ import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Playlist;
 import com.bulbulproject.bulbul.model.Song;
 import com.bulbulproject.bulbul.service.Globals;
+import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
@@ -175,9 +176,11 @@ public class UserSummaryRVAdapter extends RecyclerView.Adapter {
             case SONG_VIEW_TYPE:
                 SongViewHolder songHolder = (SongViewHolder) holder;
                 final Song tmpSong = mSongs.get(position - mPlaylists.size() -2);
+                final ArrayList<Integer> songIdsList = new ArrayList<>();
                 final ArrayList<String> songsList = new ArrayList<String>();
                 for (Song song : mSongs) {
                     songsList.add(song.getSpotifyUrl());
+                    songIdsList.add(song.getId());
                 }
 
                 songHolder.songTitle.setText(tmpSong.getName());
@@ -186,6 +189,7 @@ public class UserSummaryRVAdapter extends RecyclerView.Adapter {
                         .load(tmpSong.getImageUrl())
                         .placeholder(R.drawable.cover_picture)
                         .error(R.drawable.album)
+                        .fit()
                         .into(songHolder.songPhoto);
                 songHolder.mCardView.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -194,9 +198,8 @@ public class UserSummaryRVAdapter extends RecyclerView.Adapter {
                         Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         intent.putStringArrayListExtra("songs", songsList);
-                        intent.putExtra("trackID", mSongs.get(holder.getAdapterPosition() - mPlaylists.size() -2).getId());
+                        intent.putIntegerArrayListExtra("songIds", songIdsList);
                         intent.putExtra("position", (holder.getAdapterPosition() - mPlaylists.size() -2));
-                        context.getApplicationContext().startActivity(intent);
                         context.getApplicationContext().startActivity(intent);
                     }
                 });
@@ -210,6 +213,7 @@ public class UserSummaryRVAdapter extends RecyclerView.Adapter {
                     Picasso.with(context).load(artist.getImageUrl())
                             .placeholder(R.drawable.artist)
                             .error(R.drawable.artist)
+                            .fit()
                             .into(artistHolder.artistPhoto);
                 }
                 artistHolder.mCardView.setOnClickListener(new View.OnClickListener() {
@@ -233,6 +237,7 @@ public class UserSummaryRVAdapter extends RecyclerView.Adapter {
                 Picasso.with(context).load(tmpAlbum.getImageUrl())
                         .placeholder(R.drawable.album)
                         .error(R.drawable.album)
+                        .fit()
                         .into(albumHolder.albumPhoto);
                 albumHolder.mCardView.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -240,8 +245,6 @@ public class UserSummaryRVAdapter extends RecyclerView.Adapter {
                         Intent intent = new Intent(context.getApplicationContext(), AlbumActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         intent.putExtra("id",tmpAlbum.getId());
-                        Log.d("bulbul","album name: "+ tmpAlbum.getName());
-                        Log.d("bulbul","album id: "+ tmpAlbum.getId());
                         context.getApplicationContext().startActivity(intent);
                     }
                 });

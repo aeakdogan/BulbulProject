@@ -42,6 +42,18 @@ public class Song {
         this.previewUrl = previewUrl;
     }
 
+    public Song(int id, String name, float rating, String imageUrl, String previewUrl, String spotifyUrl) {
+        this();
+        this.id = id;
+        this.name = name;
+//        this.albumName = albumName;
+//        this.artistName = artistName;
+        this.rating = rating;
+        this.imageUrl = imageUrl;
+        this.previewUrl = previewUrl;
+        this.spotifyUrl = "spotify:track:"+spotifyUrl;
+    }
+
     public Song(int id, String name, String spotifyUrl, float rating, String imageUrl) {
         this();
         this.id = id;

@@ -14,6 +14,7 @@ import android.widget.Toast;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.activity.ArtistActivity;
 import com.bulbulproject.bulbul.model.Artist;
+import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
@@ -69,6 +70,8 @@ public class ArtistsRVAdapter extends RecyclerView.Adapter<ArtistsRVAdapter.MyCa
             Picasso.with(context).load(artist.getImageUrl())
                     .placeholder(R.drawable.artist)
                     .error(R.drawable.artist)
+                    .fit()
+                    .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
                     .into(holder.artistPhoto);
         }
         holder.mCardView.setOnClickListener(new View.OnClickListener() {

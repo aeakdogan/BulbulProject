@@ -1,6 +1,6 @@
 query UserSongsQuery($token:String,$id: Int, $limit: Int, $skip:Int, $ids: [Int]) {
-    users(token:$token,id: $id, limit: $limit, skip:$skip, ids: $ids){
-    	listenedTracks{
+    users(token:$token,id: $id, ids:$ids){
+    	listenedTracks(limit:$limit, skip:$skip){
         id
         spotify_track_id
         spotify_album_img
@@ -11,9 +11,7 @@ query UserSongsQuery($token:String,$id: Int, $limit: Int, $skip:Int, $ids: [Int]
           image
         }
         albums{
-            id
             name
-            image
         }
       }
     }

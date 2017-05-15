@@ -15,8 +15,7 @@
             android:id="@+id/grid_image"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:layout_gravity="center"
-            android:src="@drawable/cover_picture">
+            android:layout_gravity="center">
         </ImageView>
         <ImageView
             android:id="@+id/grid_selected"

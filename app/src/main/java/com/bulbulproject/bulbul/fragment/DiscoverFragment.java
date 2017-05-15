@@ -58,6 +58,7 @@ public class DiscoverFragment extends Fragment {
     SeekBar seekBarTempo;
     SeekBar seekBarEnergy;
     SeekBar seekBarLoudness;
+    ApolloCall<TrackQuery.Data> mApolloCall;
 
 
     @Override
@@ -93,7 +94,16 @@ public class DiscoverFragment extends Fragment {
         return rootView;
     }
 
-    void get_songs(){
+    @Override
+    public void onPause() {
+        if (mApolloCall != null) {
+            mApolloCall.cancel();
+        }
+
+        super.onPause();
+    }
+
+    void get_songs() {
         mProgressView = rootView.findViewById(R.id.progress);
         linLayoutView = rootView.findViewById(R.id.linear_layout);
         linLayoutView.setVisibility(View.GONE);
@@ -131,53 +141,52 @@ public class DiscoverFragment extends Fragment {
         double min_loudness = 0;
         double max_loudness = -60;
 
-        if(progressSeekBarAcousticness == 0)
+        if (progressSeekBarAcousticness == 0)
             max_acousticness = 0.33;
-        else if(progressSeekBarAcousticness == 2)
+        else if (progressSeekBarAcousticness == 2)
             min_acousticness = 0.67;
 
-        if(progressSeekBarLiveness == 0)
+        if (progressSeekBarLiveness == 0)
             max_liveness = 0.33;
-        else if(progressSeekBarLiveness == 2)
+        else if (progressSeekBarLiveness == 2)
             min_liveness = 0.67;
 
-        if(progressSeekBarSpeechiness == 0)
+        if (progressSeekBarSpeechiness == 0)
             max_speechiness = 0.33;
-        else if(progressSeekBarSpeechiness == 2)
+        else if (progressSeekBarSpeechiness == 2)
             min_speechiness = 0.67;
 
-        if(progressSeekBarValence == 0)
+        if (progressSeekBarValence == 0)
             max_valence = 0.33;
-        else if(progressSeekBarValence == 2)
+        else if (progressSeekBarValence == 2)
             min_valence = 0.67;
 
-        if(progressSeekBarDanceability == 0)
+        if (progressSeekBarDanceability == 0)
             max_danceability = 0.33;
-        else if(progressSeekBarDanceability == 2)
+        else if (progressSeekBarDanceability == 2)
             min_danceability = 0.67;
 
-        if(progressSeekBarInstrumentalness == 0)
+        if (progressSeekBarInstrumentalness == 0)
             max_instrumentalness = 0.33;
-        else if(progressSeekBarInstrumentalness == 2)
+        else if (progressSeekBarInstrumentalness == 2)
             min_instrumentalness = 0.67;
 
-        if(progressSeekBarTempo == 0)
-            max_tempo= 80;
-        else if(progressSeekBarTempo == 2)
+        if (progressSeekBarTempo == 0)
+            max_tempo = 80;
+        else if (progressSeekBarTempo == 2)
             min_tempo = 150;
 
-        if(progressSeekBarEnergy == 0)
+        if (progressSeekBarEnergy == 0)
             max_energy = 0.33;
-        else if(progressSeekBarEnergy == 2)
+        else if (progressSeekBarEnergy == 2)
             min_energy = 0.67;
 
-        if(progressSeekBarLoudness == 0)
+        if (progressSeekBarLoudness == 0)
             max_loudness = -20;
-        else if(progressSeekBarLoudness == 2)
+        else if (progressSeekBarLoudness == 2)
             min_loudness = -40;
 
-        Globals.mSongs = new ArrayList<Song>();
-        ((App) getActivity().getApplication()).apolloClient().newCall(
+        ApolloCall<TrackQuery.Data> mApolloCall = ((App) getActivity().getApplication()).apolloClient().newCall(
                 TrackQuery.builder()
                         .limit(10)
                         .min_acousticness(min_acousticness)
@@ -198,50 +207,52 @@ public class DiscoverFragment extends Fragment {
                         .max_energy(max_energy)
                         .min_loudness(max_loudness)
                         .max_loudness(min_loudness)
-                        .build())
-                .enqueue(
-                        new ApolloCall.Callback<TrackQuery.Data>() {
-                            @Override
-                            public void onResponse(@Nonnull com.apollographql.apollo.api.Response<TrackQuery.Data> response) {
-                                if (response.isSuccessful()) {
-                                    List<TrackQuery.Data.Track> trackList = response.data().tracks();
-                                    Globals.mSongs.clear();
-                                    for (TrackQuery.Data.Track track : trackList) {
-                                        //Mapping api's tra ck model to existing Song model
+                        .build());
 
-                                        Song song = new Song(track.id(), track.name(), track.spotify_album_img(), track.spotify_track_id());
-                                        if (track.artists() != null) {
-                                            for (TrackQuery.Data.Artist trackArtist : track.artists()) {
-                                                song.getArtists().add(new Artist(trackArtist.id(), trackArtist.name(), trackArtist.image()));
-                                            }
-                                        }
-                                        Globals.mSongs.add(song);
+        mApolloCall.enqueue(
+                new ApolloCall.Callback<TrackQuery.Data>() {
+                    @Override
+                    public void onResponse(@Nonnull com.apollographql.apollo.api.Response<TrackQuery.Data> response) {
+                        if (response.isSuccessful()) {
+                            List<TrackQuery.Data.Track> trackList = response.data().tracks();
+                            Globals.mSongs = new ArrayList<Song>();
+                            for (TrackQuery.Data.Track track : trackList) {
+                                //Mapping api's tra ck model to existing Song model
+
+                                Song song = new Song(track.id(), track.name(), track.spotify_album_img(), track.spotify_track_id());
+                                if (track.artists() != null) {
+                                    for (TrackQuery.Data.Artist trackArtist : track.artists()) {
+                                        song.getArtists().add(new Artist(trackArtist.id(), trackArtist.name(), trackArtist.image()));
                                     }
-                                    //Update ui for adding new elements to list
-                                    getActivity().runOnUiThread(new Runnable() {
-                                        @Override
-                                        public void run() {
-                                            Intent intent = new Intent(getActivity(), SongListActivity.class);
-                                            startActivity(intent);
-                                        }
-                                    });
                                 }
+                                Globals.mSongs.add(song);
                             }
+                            //Update ui for adding new elements to list
+                            getActivity().runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
 
-                            @Override
-                            public void onFailure(@Nonnull ApolloException e) {
-
-                                final String text = e.getMessage();
-                                getActivity().runOnUiThread(new Runnable() {
-                                    @Override
-                                    public void run() {
-                                        Toast.makeText(getActivity(), text, Toast.LENGTH_SHORT).show();
-
-                                    }
-                                });
-                            }
+                                    Intent intent = new Intent(getActivity(), SongListActivity.class);
+                                    startActivity(intent);
+                                }
+                            });
                         }
-                );
+                    }
+
+                    @Override
+                    public void onFailure(@Nonnull ApolloException e) {
+
+                        final String text = e.getMessage();
+                        getActivity().runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                Toast.makeText(getActivity(), text, Toast.LENGTH_SHORT).show();
+
+                            }
+                        });
+                    }
+                }
+        );
 
     }
 }

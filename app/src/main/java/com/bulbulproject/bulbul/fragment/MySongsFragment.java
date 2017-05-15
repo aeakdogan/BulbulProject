@@ -65,7 +65,7 @@ public class MySongsFragment extends Fragment {
         mRecyclerView.setAdapter(rvAdapter);
 
         String token = getActivity().getApplicationContext().getSharedPreferences(getString(R.string.shared_preferences), Context.MODE_PRIVATE).getString("AUTH_TOKEN", "");
-        ((App) getActivity().getApplication()).apolloClient().newCall(UserSongsQuery.builder().token(token).build()).enqueue(new ApolloCall.Callback<UserSongsQuery.Data>() {
+        ((App) getActivity().getApplication()).apolloClient().newCall(UserSongsQuery.builder().limit(25).token(token).build()).enqueue(new ApolloCall.Callback<UserSongsQuery.Data>() {
             @Override
             public void onResponse(@Nonnull Response<UserSongsQuery.Data> response) {
                 if (response.isSuccessful()) {
@@ -80,7 +80,7 @@ public class MySongsFragment extends Fragment {
                                     track.spotify_album_img(),
                                     track.spotify_track_id()
                             );
-                            Log.d("bulbul","track name: " + mSong.getName() + " album_img: " + mSong.getImageUrl());
+
                             if (track.artists() != null) {
                                 for (UserSongsQuery.Data.Artist artist : track.artists()) {
                                     mSong.getArtists().add(new Artist(artist.id(), artist.name(), artist.image()));
@@ -89,7 +89,7 @@ public class MySongsFragment extends Fragment {
 
                             if (track.albums() != null) {
                                 for (UserSongsQuery.Data.Album album : track.albums()) {
-                                    mSong.getAlbums().add(new Album(album.name(), album.image()));
+                                    mSong.getAlbums().add(new Album(album.name(), track.spotify_album_img()));
                                 }
                             }
                             mSongs.add(mSong);

@@ -20,7 +20,6 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:layout_marginRight="16dp"
-            android:src="@drawable/artist"
             />
 
         <TextView
@@ -29,7 +28,6 @@
             android:id="@+id/artist_name"
             android:layout_toRightOf="@+id/artist_photo"
             android:layout_alignParentTop="true"
-            android:text="Artist Name"
             android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
             />
 
@@ -39,7 +37,6 @@
             android:id="@+id/artist_meta"
             android:layout_toRightOf="@+id/artist_photo"
             android:layout_below="@+id/artist_name"
-            android:text="Meta"
             android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
             />
 

@@ -19,6 +19,7 @@ import com.bulbulproject.bulbul.model.Album;
 import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Song;
 import com.bulbulproject.bulbul.service.Globals;
+import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
@@ -133,8 +134,10 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                 SongViewHolder songHolder = (SongViewHolder) holder;
                 final Song tmpSong = mSongs.get(position -1);
                 final ArrayList<String> songsList = new ArrayList<String>();
+                final ArrayList<Integer> songIdsList = new ArrayList<>();
                 for (Song song : mSongs) {
                     songsList.add(song.getSpotifyUrl());
+                    songIdsList.add(song.getId());
                 }
 
                 songHolder.songTitle.setText(tmpSong.getName());
@@ -143,6 +146,8 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                         .load(tmpSong.getImageUrl())
                         .placeholder(R.drawable.cover_picture)
                         .error(R.drawable.album)
+                        .fit()
+                        .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
                         .into(songHolder.songPhoto);
                 songHolder.mCardView.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -151,9 +156,8 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                         Intent intent = new Intent(context.getApplicationContext(), StreamActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         intent.putStringArrayListExtra("songs", songsList);
-                        intent.putExtra("trackID", mSongs.get(holder.getAdapterPosition()).getId());
+                        intent.putIntegerArrayListExtra("songIds", songIdsList);
                         intent.putExtra("position", holder.getAdapterPosition() -1);
-                        context.getApplicationContext().startActivity(intent);
                         context.getApplicationContext().startActivity(intent);
                     }
                 });
@@ -167,6 +171,8 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                     Picasso.with(context).load(artist.getImageUrl())
                             .placeholder(R.drawable.artist)
                             .error(R.drawable.artist)
+                            .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
+                            .fit()
                             .into(artistHolder.artistPhoto);
                 }
                 artistHolder.mCardView.setOnClickListener(new View.OnClickListener() {
@@ -190,6 +196,8 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                 Picasso.with(context).load(tmpAlbum.getImageUrl())
                         .placeholder(R.drawable.album)
                         .error(R.drawable.album)
+                        .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
+                        .fit()
                         .into(albumHolder.albumPhoto);
                 albumHolder.mCardView.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -197,8 +205,6 @@ public class SearchResultRVAdapter extends RecyclerView.Adapter {
                         Intent intent = new Intent(context.getApplicationContext(), AlbumActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         intent.putExtra("id",tmpAlbum.getId());
-                        Log.d("bulbul","album name: "+ tmpAlbum.getName());
-                        Log.d("bulbul","album id: "+ tmpAlbum.getId());
                         context.getApplicationContext().startActivity(intent);
                     }
                 });

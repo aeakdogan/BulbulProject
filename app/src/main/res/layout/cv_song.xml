@@ -19,7 +19,6 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:layout_marginRight="16dp"
-            android:src="@drawable/cover_picture"
             />
 
         <TextView
@@ -29,7 +28,6 @@
             android:layout_toRightOf="@+id/song_photo"
             android:layout_alignParentTop="true"
             android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
-            android:text="Song Name"
             />
 
         <TextView
@@ -39,7 +37,6 @@
             android:layout_toRightOf="@+id/song_photo"
             android:layout_below="@+id/song_title"
             android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
-            android:text="Artist Name"
             />
 
     </RelativeLayout>

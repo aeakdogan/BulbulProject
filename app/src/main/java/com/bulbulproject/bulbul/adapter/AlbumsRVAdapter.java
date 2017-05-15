@@ -14,6 +14,7 @@ import android.widget.Toast;
 import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.activity.AlbumActivity;
 import com.bulbulproject.bulbul.model.Album;
+import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
@@ -69,6 +70,8 @@ public class AlbumsRVAdapter extends RecyclerView.Adapter<AlbumsRVAdapter.MyCard
         Picasso.with(context).load(tmpAlbum.getImageUrl())
                 .placeholder(R.drawable.album)
                 .error(R.drawable.album)
+                .fit()
+                .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
                 .into(holder.albumPhoto);
         holder.mCardView.setOnClickListener(new View.OnClickListener() {
             @Override

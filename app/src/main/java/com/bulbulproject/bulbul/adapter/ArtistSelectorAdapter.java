@@ -12,6 +12,7 @@ import com.bulbulproject.bulbul.R;
 import com.bulbulproject.bulbul.interfaces.AdapterCallbackInterface;
 import com.bulbulproject.bulbul.model.Artist;
 import com.bulbulproject.bulbul.model.Category;
+import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
@@ -73,7 +74,12 @@ public class ArtistSelectorAdapter extends BaseAdapter {
         }
 
         t.setText(artist.getName());
-        Picasso.with(mContext).load(artist.getImageUrl()).placeholder(R.drawable.artist).into(i);
+        Picasso.with(mContext)
+                .load(artist.getImageUrl())
+                .placeholder(R.drawable.artist)
+                .fit()
+                .memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE)
+                .into(i);
         v.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
